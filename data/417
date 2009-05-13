@@ -18,7 +18,7 @@ http://www.cs.dartmouth.edu/~tristan
 /*<![CDATA[*/
 #pageHeader {
 height: 192px;
-background-image: url("http://www.cs.st-andrews.ac.uk/~tristan/include/images/banners/old_course_4.jpg");
+background-image: url("http://www.cs.st-andrews.ac.uk/~tristan/include/images/banners/east_sands_4.jpg");
 }
 /*]]>*/
 </style>

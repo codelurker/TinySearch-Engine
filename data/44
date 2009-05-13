@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~csrs/faq.html#whenandwhere
+http://www.cs.dartmouth.edu/~csrs
 2
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
@@ -32,83 +32,44 @@ http://www.cs.dartmouth.edu/~csrs/faq.html#whenandwhere
 <td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
 
 <td>
-<table>
-<tr><td><h2><font color="#000000">FAQ</font></h2></td></tr>
-<tr><td> <a href="#whatis">What is the CSRS?</a></td></tr>
-<tr><td> <a href="#whenandwhere">When and where will the symposium and the BBQ social event be held?</a></td></tr>
-<tr><td> <a href="#attend">Can I attend if I am not in the Computer Science department?</a></td></tr>
-<tr><td> <a href="#rsvp">Do I need to register for the symposium?</a></td></tr>
-<tr><td> <a href="#posters">How does one participate in the poster session?</a></td></tr>
-<tr><td> <a href="#previouscsrs">What were previous editions of the CSRS like?</a></td></tr>
-<tr><td> <a href="#contact">How can I contact the organisers?</a></td></tr>
+<table class="inner"><tr><td>
 
-<tr><td><br><br></td></tr>
-
-<tr><td id="whatis"> <font color="#006600"><b>What is the CSRS?</b></font></td></tr>
-<tr>
-<td>The Dartmouth Computer Science Research Symposium is an annual exhibition
-conducted by the Department of Computer Science at Dartmouth College. The main objectives are to 
-provide a means of communicating research
-interests and goals to not only fellow department members, but to the greater
-Dartmouth community as well. Hence, we welcome participation by students and faculty members who are not part of the department but are interested in applications and research in computer science. Students and faculty are given an opportunity
-to present their research in a professional
-environment, either in the form of talks, or in a comprehensive poster session, or as demonstrations of working models.</td>
-</tr>
-
-<tr><td> <br> </td></tr>
-
-<tr><td id="whenandwhere"> <font color="#006600"><b>When and where will the symposium and the social be held?</b> </font></td></tr>
-<tr>
-<td> This year, this event will be hosted on September 27th, in Rockefeller Center, Room 003. Rockefeller Center is just off Webster Avenue, close to the Baker Berry Library. For help in finding Rockefeller, check out the maps of Dartmouth available at <a href="http://www.dartmouth.edu/~maps">http://www.dartmouth.edu/~maps</a>.
+The Dartmouth Computer Science Research Symposium is an annual exhibition
+of the research being conducted in the field of Computer Science here
+at Dartmouth. It not only provides a means of communicating research
+interests and goals to fellow department members, but to the greater
+Dartmouth community as well. Students and faculty are given an opportunity
+to present their research either in the form of a presentation, in a 
+comprehensive poster session, or in the form of working demonstrations. 
+CSRS serves to strengthen the solidarity of our department, provide critical
+presentation experience, and widen perspectives of Computer Science
+among both students and faculty.
 <p>
-The post-symposium social will be hosted at Rockfeller courtyard of Rockfeller Center. It will start at 7pm.
+
+Every year the symposium features a keynote talk given by a distinguished member of the
+field from outside Dartmouth College. This year we will be honored to have
+Sandy Pentland, a pioneer in the field of social
+engineering and mobile systems as our keynote speaker for this
+event. More information on Sandy and his research can be found on his homepage <a href="http://www.media.mit.edu/~sandy/">here</a>. The abstract for Sandy's talk in CSRS is <a href="schedule.html#sandy">here</a>.
+
 <p>
-The Google map below shows the location of Rockfeller Center.
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;saddr=43.705735,+-72.290146&amp;daddr=43.705735,+-72.290146&amp;hl=en&amp;geocode=FYflmgIdnvCw-w%3B&amp;mra=ls&amp;sll=43.705735,-72.290146&amp;sspn=0.010455,0.019312&amp;ie=UTF8&amp;t=h&amp;s=AARTsJroHTxDAdWe6XuAzyGjf-1LrtGPXw&amp;ll=43.70571,-72.29046&amp;spn=0.002715,0.00456&amp;z=17&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=d&amp;saddr=43.705735,+-72.290146&amp;daddr=43.705735,+-72.290146&amp;hl=en&amp;geocode=FYflmgIdnvCw-w%3B&amp;mra=ls&amp;sll=43.705735,-72.290146&amp;sspn=0.010455,0.019312&amp;ie=UTF8&amp;t=h&amp;ll=43.70571,-72.29046&amp;spn=0.002715,0.00456&amp;z=17&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-</td>
 
-</tr>
+<font style="font-size:1.2em;">Updates:</font>
+<ul>
+<li>Note the change in venue! The symposium is now at Rockefeller Center, Room 003. To see how to get there, check out the <a href="faq.html#whenandwhere">FAQ page</a>.
+<li>We now have <a href="pandd.html">working demos</a> as part of CSRS! If you're working on something cool and can demonstrate a working model, <a href="mailto:csrs@cs.dartmouth.edu">mail us</a>!
+<li>The program is up. If you haven't sent in your talk/poster title and abstract, please do so.
+<li>We're still accepting entries for the poster session. For poster submission guidelines, <a href="poster.html">click here</a>.
+</ul>
 
-<tr><td> <br> </td></tr>
 
-<tr><td id="attend"><font color="#006600"><b>Can I attend if I am not in the Computer Science department?</b></font></td></tr>
-<tr>
-<td>Yes! We encourage participation from people working in areas related to computer science, including mathematics, engineering, security, even areas as diverse as music and arts. If you think your work would benefit from exposure to computer scientists, or if you want to know more about active research in computer science at Dartmouth, we encourage you to attend.</td>
-</tr>
+</tr></td></table>
 
-<tr><td> <br> </td></tr>
 
-<tr><td id="rsvp"><font color="#006600"><b>Do I need to register for the event?</b></font></td></tr>
-<tr>
-<td>We don't require you to register for the event. If you do plan to attend, we'd appreciate an email, so we know how many people to expect.</td>
-</tr>
 
-<tr><td> <br> </td></tr>
-
-<tr><td id="posters"><font color="#006600"><b>How does one participate in the poster session?</b></font></td></tr>
-<tr>
-<td>If you want to present a poster, shoot us an email at <a href="mailto:csrs@cs.dartmouth.edu">csrs@cs.dartmouth.edu</a> with "CSRS poster" as the subject line. Include the name of the presenter and the title of the poster. For more information on poster submission, check out the <a href="poster.html">poster guidelines</a>.</td>
-</tr>
-
-<tr><td> <br> </td></tr>
-
-<tr><td id="previouscsrs"><font color="#006600"><b>What were previous editions of the CSRS like?</b></font></td></tr>
-<tr>
-<td>To browse previous CSRS websites go <a href="history.html">here</a>.</font></td>
-</tr>
-
-<tr><td> <br> </td></tr>
-
-<tr><td id="contact"><font color="#006600"><b>How can I contact the organisers?</b></font></td></tr>
-<tr>
-<td>For suggestions, complaints, or for more information, you can email us at <a href="mailto:csrs@cs.dartmouth.edu">csrs@cs.dartmouth.edu</a>. </font></td>
-</tr>
-
-</table>
 </td>
 </tr>
-
 </table>
 
 </body></html>
-t-fñ
+ourse.&i

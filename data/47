@@ -1,110 +1,72 @@
-http://www.cs.dartmouth.edu/~epics
+http://www.cs.dartmouth.edu/reports/TR2008-631
 2
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>Dartmouth EPICS (Engineering Projects in Community Service)</title>
-<meta http-equiv=content-type content="text/html; charset=us-ascii">
-<link href="style.css" type="text/css" rel="stylesheet">
-</head>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Pas de Deux avec les Microrobots</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2900.3157" name=GENERATOR></HEAD>
+<BODY><BR>
+<CENTER><FONT size=5><B>Pas de Deux avec les Microrobots<BR>
+(Video)</B></FONT><BR><BR><FONT size=4>Dartmouth Computer Science Technical Report TR2008-631</FONT></CENTER>
 
-<body>
+<FONT size=4><BR>
+<CENTER>Bruce R. Donald<SUP>a,b,*</SUP>, Christopher Levey<SUP>c</SUP>, and Igor Paprotny<SUP>d,a</SUP> </CENTER></FONT><BR>
 
-<p>
-<a href="http://www.cs.dartmouth.edu/~epics/"><img src="epics_dart.gif" alt="EPICS" border=0 align="middle"></a>
-<font class=at>&nbsp;@&nbsp;</font>
-<a href="http://www.dartmouth.edu/"><img src="dart_seal.jpg" alt="Dartmouth" border=0 align="middle"></a>
-</p>
+<FONT size=3>
+<CENTER>
+<SUP>a</SUP>Department of Computer Science, Duke University, Durham NC 27708 <BR>
+<SUP>b</SUP>Department of Biochemistry, Duke University Medical Center, Durham NC 27708<BR>
+<SUP>c</SUP>Thayer School of Engineering, Dartmouth College, Hanover NH 03755 <BR> 
+<SUP>d</SUP>Department of Computer Science, Dartmouth College, Hanover NH 03755</CENTER></FONT>
 
-<table width="100%" border=0><tbody>
-<tr>
-<!-- navigation -->
-<td valign=top align=left width=100><br>
-<a href="index.html" class=nav>home</a><br>
-<a href="students.html" class=nav>students</a><br>
-<a href="agencies.html" class=nav>agencies</a><br>
-</td>
-
-<!-- content -->
-<td valign=top>
-<div class=header align=center>Home</div><br>
-
-<p>The Dartmouth EPICS (Engineering Projects in Community Service)
-program seeks to partner students and community agencies in
-significant projects requiring computer science and software
-engineering skills.  We are following the model established by the
-successful <a href="http://epics.ecn.purdue.edu/">EPICS program</a> at
-Purdue University. At Dartmouth, EPICS was founded by 
-Prof. <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a>.
-</p>
-
-<p>To date, Dartmouth EPICS has established the following
-partnerships (bold projects are underway):</p>
-
-<ul>
-<li> David's House, Spring 2006 - Winter 2008: <a
-href="davids-house/index.html">EPICS + David's House</a></li>
-<li> Good Neighbor Health Clinic, starting Winter 2007: <a
-href="gnhc/index.html">EPICS + GNHC</a></li>
-<li> High Horses, Fall 2006 - Winter 2008: <a
-href="high-horses/index.html">EPICS + High Horses</a></li>
-<li> Montshire Museum of Science, starting Fall 2005: <a
-href="montshire/index.html">EPICS + Montshire</a></li>
-<li> Norris Cotton Cancer Center, starting Spring 2006: <a
-href="nccc/index.html">EPICS + NCCC</a></li>
-<li> Upper Valley Habitat for Humanity, starting Winter 2006: <a
-href="uvhfh/index.html">EPICS + UVHFH</a></li>
-<li> <b>Upper Valley Business Education Partnership</b>, starting Spring 2008: <a
-href="uvbep/index.html">EPICS + UVBEP</a></li>
-<li> <b>Upper Valley Humane Society</b>, starting Winter 2008: <a
-href="uvhs/index.html">EPICS + UVHS</a></li>
-<li> <b>Upper Valley Trails Alliance</b>, starting Winter 2008: <a
-href="uvta/index.html">EPICS + UVTA</a></li>
-</ul>
-We intend to form additional partnerships as student enrollments
-permit. 
-
-<p>  <a href="agencies.html">
-Interested agencies are encouraged learn more about EPICS</a> 
-and contact <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> 
-with ideas, questions, or suggestions.</p>
-
-<p> <a href="students.html">
-Interested students are encouraged to learn more about EPICS</a> 
-and contact <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> with questions.</p>
+<BR><FONT size=2><CENTER>*Corresponding Author:<BR>
+<A href="http://www.cs.duke.edu/~brd/">Bruce R. Donald</A><BR>
+Department of Computer Science<BR>
+Duke University<BR>
+Department of Biochemistry<BR>
+Duke University Medical Center<BR>
+</CENTER></FONT>
+<BR><BR>
 
 
-<p><b>News</b>:<br/>
 
-A series of sessions at the <a href="http://www.gracehopper.org/">2006
-Grace Hopper Celebration of Women in Computing</a> engaged
-participants in computing and community.  A design exercise featured
-the <a href="high-horses/index.html">High Horses partnership</a>,
-using a video interview with Executive Director Liz Claud to
-brainstorm about computing solutions to community problems.  
-The video is on the <a href="high-horses/index.html">High Horses
-partnership page</a>.<br/>
 
-&nbsp;<br/>
+<CENTER><FONT size=4><FONT size=3><IMG src="image2.JPG"></CENTER>
+<CENTER><BR><strong>
+<a name="Video">The Video:</a><br>
+<A href="PasDeuxBots_cinepac.avi">AVI with Cinepac Radius</A><I>  157 MB</I><BR>
+<A href="PasDeuxBots_cinepac.zip">AVI with Cinepac Radius - zipped</A><I>  142 MB</I><BR>
+</strong>
+<BR><!--
+<strong>More information  and additional videos can be found in reference [1] below and here:<BR>
+<A href="http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/">http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/</A></strong> -->
+<BR> 
 
-Articles in the <a
-href="http://www.dartmouth.edu/~vox/0506/0109/epic.html">Vox of
-Dartmouth</a> (<a
-href="http://www.dartmouth.edu/~news/releases/2005/12/16.html">news
-release</a>) and <a
-href="http://www.thedartmouth.com/article.php?aid=2006011001040">The
-Dartmouth</a> describe the fall 2005 term of the <a
-href="montshire/index.html">EPICS+Montshire</a> project.</p>
 
-<!-- footer -->
-<tr><td colspan=2 height=20></td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td class=footer colspan=2>
-<!-- hhmts start --> Last modified: Fri Jan  4 17:59:23 EST 2008
- <!-- hhmts end -->
-</td></tr>
+</LEFT><CENTER><BR><BR><I>This video may not be used for commercial or 
+for-profit purposes. <BR>It is copyrighted by the authors. 
+</I>
 
-</tbody></table>
-</body>
-</html>
-eti
+</center></center>
+
+<br><br><RIGHT>
+
+<strong>Description:</strong>
+Video captured through an optical microscope, showing simultaneous control and operation of two stress-engineered microrobots. The dimensions of our microrobots are 260 x 60 x 10 micrometers; each robot consists of an unthetered scratch-drive actuator that provides forward motion, and a steering-arm actuator that controls whether the robot moves in a straight line or turns.
+<BR><BR>
+Our stress-engineered microrobots are electrostatically powered via a global control signal transmitted to all the robots regardless of the their position and orientation within their operating environment. Hence, a single control and power-delivery signal must be used to simultaneously control all robots within the same operating environment, resulting in a highly underactuated system. Despite this high level of underactution we are able to achieve independent control of the individual microrobots by designing their steering-arms to respond to different voltage levels of the supplied control signal.
+<BR><BR>
+This example uses nested hysteresis gaps. A hysteresis gap is the difference between the snap-down and release voltages for a steering-arm actuator. Nested hysteresis gaps allow us to set the states of the steering-arms (up or down) to any configuration. As shown in this video, all four states of the two microrobot steering-arms are used to choreograph their motion.
+<BR><BR>
+A disadvantage of nested hysteresis gaps is that they are control-voltage bandwidth intensive, limiting the number of simultaneously-controllable devices. An alternative multi-microrobot control scheme that minimizes control-bandwidth is described in [1].
+<BR><BR>
+<B>References:</B><BR><BR>
+[1]   B. R. Donald, C. G. Levey and I. Paprotny.  
+
+"<A href="http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/">Planar Microassembly by Parallel
+Actuation of MEMS Microrobots</A>." <I>Journal of Microelectromechanical Systems</I>, 2008; <B>17</B>(4): 789-808.
+
+ 
+</RIGHT>
+
+
+</BODY></HTML>

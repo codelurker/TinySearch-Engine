@@ -1,210 +1,207 @@
-http://www.cs.dartmouth.edu/~dfk
+http://www.cs.dartmouth.edu/~farid
 2
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD><TITLE>David Kotz</TITLE></HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
-<H1>David Kotz, Professor of <a href="/">Computer Science</a></H1>
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
-<table>
-<tr valign=top>
-<td>
-  <center>
-    <IMG width=415 height=353 align=top alt="photo" src="photos/Kotz2003-4small.jpg">
-  </center>
-</td>
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
 
-<td> 
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+   var isNS4 = (document.layers) ? true : false;
+   var isIE4 = (document.all && !document.getElementById) ? true : false;
+   var isIE5 = (document.all && document.getElementById) ? true : false;
+   var isNS6 = (!document.all && document.getElementById) ? true : false;
+   var home_bg_index;
 
-<h3>
-    Ph.D. <A HREF="http://www.cs.duke.edu/">Duke University</A>, 1991.<br>
-    A.B. <A HREF="http://www.dartmouth.edu/">Dartmouth College</A>,
-	<a href="http://www.alum.dartmouth.org/classes/86/">1986</a>.<br>
-    <A HREF="http://www.choate.edu/">Choate Rosemary Hall</A>, 1982.
-</h3>
-<p>
+   function pickhome_bg() {
+      home_bg_index = 9;
+      filename = "home_bg" + home_bg_index + ".gif";
+      photo = new Image(); photo.src = filename;
+      document.home_bg.src = photo.src;
+   }
 
-<strong>Search my web pages:</strong><br>
-<form name="seek" method="get" action="http://search.dartmouth.edu/query.html">
-<input type=hidden name=qp value="+url:www.cs.dartmouth.edu/~dfk/">
-<input type=hidden name=qs value="">
-<input type=hidden name=qc value="">
-<input type=hidden name=ws value="0">
-<input type=hidden name=qm value="0">
-<input type=hidden name=st value="1">
-<input type=hidden name=nh value="10">
-<input type=hidden name=lk value="1">
-<input type=hidden name=rf value="0">
-<input type=hidden name=oq value="">
-<input type=hidden name=rq value="0">
-<input type="text" name="qt" size="15" value="" maxlength="200">
-<input type=submit value=" Search ">
-<FONT SIZE="2">
-&nbsp;&nbsp;<a href="http://search.dartmouth.edu/help/">Help</a>
-</FONT>
-</form>
-
-<p></p>  
-<p>
-<a href="#contact">Contact information</a> (below)
-<!-- this award is too old to display any more
-  <p>
-  <p>
-  <p>
-  <a href="http://www.educause.edu/awards/network/2004/winners.asp"><img src="EDUCAUSE-award.gif" width=361 height=101 border=0 alt="2004 EDUCAUSE Award for Excellence in Networking"></a>
- -->
-
-<p></p>  
-<p>
-  <FONT size=2 color=#980000>
-  Local Time and Weather in Bangalore, India<br>
-  (where I am currently on sabbatical)<br>
-  </FONT>
-  <A href="http://www.wunderground.com/global/stations/43295.html">
-  <IMG height=41 width=122 alt="Click for Bangalore, India Forecast"
-       src="http://banners.wunderground.com/banner/gizmotimetemp_both/global/stations/43295.gif"></A>
-</p>
-
-</td>
-</tr>
-</table>
+   function setvis( name, val ) {
+      if( isNS4 ) {
+          p = document.layers[name];
+	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
+      } else {
+	if( isIE4 ){
+          p = document.all[name].style;
+	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else if( isIE5 || isNS6 ) {
+          p = document.getElementById(name).style;
+	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else {
+          p = document.getElementById(name).style;
+	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
+	}
+      }
+   }
+//-->
+</SCRIPT>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066"
+      onLoad="pickhome_bg();">
 
 
-<table>
-<tr>
-<td valign=middle bgcolor=lightgreen width="60%">
-<font size="+1"><b>Professional</b></font>
-</td>
-<td valign=middle bgcolor=lightblue>
-<font size="+1"><b>Personal</b></font>
-</td>
-</tr>
-<tr>
-<!-- -------------------- -->
-<!-- Professional section -->
-<td valign=top>
-<table>
-<tr valign=top align=left>
-<td> <!-- photo -->
-<a href="photos/Kotz2001small.jpg"><IMG width=75 height=111 align=left alt="formal photo" src="photos/Kotz2001tiny.jpg"></a>
-</td>
-<td align=left> <!-- list -->
-<ul>
-  <li><a href="vita.pdf">My vita</a> (pdf) and <a href="bio-dfk.txt">short bio</a></li>
+<META name="keywords" content="Hany Farid, Hani Farid, research, vision, image
+processing, computer vision, machine vision, human vision, steerable
+filters, derivative filters, fractional derivatives, fractional
+fourier transform, range estimation, image separation, separating
+reflections, digital forgery, digital tampering, digital forensics,
+expert witness, steganography, steganalysis, secret messages, motion
+grouping, texture grouping, temporal synchrony, transparency,
+tutorials, primer, matlab, bispectrum, bicoherence, blind gamma
+correction, image non-linearity, mathematics for kids, math for kids,
+mathematics stories, math stories, reconstructing egyptian tombs,
+unfolding egyptian tombs, virtual egyptian tombs, egyptian tomb,
+egyptian murals, Orozco murals, vrml, visual illusions">
 
-  <!-- 
-  <li><a href="schedule.html">My schedule</A></li>
-  -->
+<META Name="description" Content="Hany Farid, Professor,
+Image Science Group, Department of Computer Science, Dartmouth
+College">
 
-  <li><a href="papers/">My research interests, and papers</a></li>
-       
-  <li> <a href="people.html">My group</a></li>
-       
-  <li><a href="teaching.html">My courses</a>
-</ul>
-</td>
-</tr>
-<tr align=left valign=top>
-<td colspan=2> <!-- list -->
-<b>Current Activities:</b>
-<ul>
-  <li> <a href="http://www.cies.org">Fulbright Research Scholar</a> to
-  <a href="http://ece.iisc.ernet.in">IISc</a> in Bangalore, India, 2008-09 
-  <li> <a href="http://www.ists.dartmouth.edu">Institute for Security,
-  Technology, and Society</a> (ISTS), Principal Investigator 
-  <li> <a href="http://www.ieee.org/web/membership/fellows/index.html" >IEEE Fellow</a>
-  and member of the
-  <a href="http://www.computer.org">IEEE Computer Society</a></li>
-  <li> Senior Member of the <a href="http://www.acm.org">ACM</a></li>
-  <li> Member of <a
-  href="http://www.usenix.org/students/universityoutreach.html">USENIX</a>,
-  and University Campus Liaison
-  <li><a href="http://www.icdcn.org/">ICDCN</a> Program committee member</li>
-</ul>
-</td>
-</tr>
-</table>
+   <map name="menubar">
+   <area shape="rect" coords="35,105,95,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('me',1);setvis('medot',1);"
+      onmouseout="setvis('me',-1);setvis('medot',-1);">
 
-<!-- -------------------- -->
-<!-- Personal section     -->
-<td valign=top>
-<table>
-<tr align=left valign=top>
-<td> <!-- photo -->
-<a href="caricature/"><IMG border=0 width=79 height=117 align=left alt="caricature drawing" src="caricature/dfk0.05.JPG"></a>
-</td>
-<td> <!-- list -->
-<ul>
-  <li> My three <a href="kids.html">kids</a>.
-       
-  <li> My invention, the <a href="seatpack/">seatpack</a>.
-       
-  <li> My house projects: <a href="house/">1997</a>,
-       <a href="house/deck/">1998</a>,
-       <a href="house/addition/">2000</a>,
-       <a href="house/patio/">2005</a>,
-       <a href="house/walls/">2006</a>,
-       <a href="house/riverbank/">2006</a>, and
-       <a href="house/boatshed/">2007</a>.
-  <li> You can rent our <a href="http://homepage.mac.com/pcjenkins/Kiawah/beach-house.html">beach house</a> in South Carolina.
-  <li> I was an early co-author of <a href="http://www.gnuplot.info">gnuplot</a>.
-</ul>
-</td>
-</tr>
-<tr align=left valign=top>
-<td> <!-- photo -->
-<a href="outdoors/"><IMG border=0 width=75 height=100 align=left alt="winter photo" src="photos/dfk-ski-tiny.jpg"></a>
-</td>
-<td> <!-- list -->
-<ul>
-  <li> <a name="hiking" href="outdoors/hiking.html">Hiking and skiing</a>
-  <li> <a name="travel" href="trips/">Travel and trips</a>
-</ul>
-<tr>
-</table>
+   <area shape="rect" coords="100,105,160,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('info',1);setvis('infodot',1);"
+      onmouseout="setvis('info',-1);setvis('infodot',-1);">
+
+   <area shape="rect" coords="230,108,295,123"
+      href="group.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('peopledot',1);"
+      onmouseout="setvis('peopledot',-1);">
+
+   <area shape="rect" coords="230,131,295,146"
+      href="publications/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('papersdot',1);"
+      onmouseout="setvis('papersdot',-1);">
+
+   <area shape="rect" coords="230,154,318,167"
+      href="research/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('researchdot',1);"
+      onmouseout="setvis('researchdot',-1)">
+
+   <area shape="rect" coords="230,175,317,188"
+      href="teaching" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('teachingdot',1);"
+      onmouseout="setvis('teachingdot',-1);">
+
+   <area shape="rect" coords="230,196,316,210"
+      href="tutorials" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('tutorialsdot',1);"
+      onmouseout="setvis('tutorialsdot',-1);">
+
+   <area shape="rect" coords="585,105,665,125"
+      onmouseover="setvis('contact',1);setvis('contactdot',-1);setvis('contactdot',1);">
+
+   <area shape="rect" coords="375,233,435,246"
+      href="egypt/reconstruction.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('egyptdot',1);"
+      onmouseout="setvis('egyptdot',-1);">
+
+   <area shape="rect" coords="375,252,450,265"
+      href="myphotos"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('photosdot',1);"
+      onmouseout="setvis('photosdot',-1);">
+
+   <area shape="rect" coords="375,271,460,284"
+      href="illusions/monster.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('illusiondot',1);"
+      onmouseout="setvis('illusiondot',-1);">
+
+   <area shape="rect" coords="375,290,475,303"
+      href="mathkids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('mathkidsdot',1);"
+      onmouseout="setvis('mathkidsdot',-1);">
+
+   <area shape="rect" coords="375,309,505,326"
+      href="sciencekids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('sciencekidsdot',1);"
+      onmouseout="setvis('sciencekidsdot',-1);">
+  </map>
 
 
-</td>
-</tr>
-</table>
+  <div id="home" style="position:absolute; left:50; top:50; visibility:show">
+       <img src="home.gif" border="0" usemap="#menubar" name="home_bg">
+  </div>
 
-<hr>
+  <div  style="position:absolute; left:88; top:185">   
+       <a href="cv.pdf"><font color=#291C5E>cv</font></a>  
+       <font color=#291C5E>&</font>
+       <a href="bio.html"><font color=#291C5E>bio</font></a>
+  </div>
 
-<h3><a name="contact">Contact information</a>, and how to pronounce Kotz:</h3>
-<b>I am on sabbatical in India through May and will return to Dartmouth in mid-July.</b>
-<ul>
-  <li> Pronounce "Kotz" like "coats", not "cots".  Thanks!
-  <li> Email: lastname at cs.dartmouth.edu
-<!--   <li> Telephone <B> (603) 646-1439 </B> <BR>  -->
-  <li> Fax:   (206) 339-3145 (delivered by email through faxaway.com) <BR> 
-  <li> Paper mail (through mid-June 2009):<p>
-	David Kotz, Visiting Professor<br>
-	Department of Electrical Communication Engineering
-	(<a href="http://ece.iisc.ernet.in/" >ECE</a>)<br>
-	Indian Institute of Science
-  	(<a href="http://www.iisc.ernet.in/" >IISc</a>)<br>
-	Bangalore, 560 012, INDIA
-       <p>
-  <!-- 
-       <pre>
-       Professor David Kotz
-       Department of Computer Science
-       Dartmouth College
-       6211 Sudikoff Laboratory
-       Hanover, NH  03755-3510 USA
-       </pre>
- -->
-  <li> <a href="Kotz.vcf"><img src=vcard.png align=center>&nbsp;vCard</a> containing all of the above
-</ul>
+  <div id="me" style="position:absolute; left:185; top:195; visibility:hidden">
+       <img src="icon/meicon4.jpg" border="0">
+  </div>
 
-<p>
-<hr>
-<p>
+  <div id="contact" style="position:absolute; left:585; top:246; 
+       visibility:hidden"> <img src="icon/contact.gif" border="0">
+  </div>
 
-<!-- hhmts start -->
-Last modified: Thu Oct 30 09:42:40 IST 2008
-<!-- hhmts end -->
+  <div id="info" style="position:absolute; left:51px; top:268px; 
+       visibility:hidden"> <img src="icon/info.gif" border="0">
+  </div>
 
-</BODY>
-</HTML>
-af
+  <div id="peopledot" style="position:absolute;  left:268px; top:163px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+  <div id="papersdot" style="position:absolute;  left:268px; top:183px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="researchdot" style="position:absolute;  left:268px; top:204px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="teachingdot" style="position:absolute;  left:268px; top:225px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="tutorialsdot" style="position:absolute;  left:268px; top:246px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="contactdot" style="position:absolute;  left:625px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="egyptdot" style="position:absolute;  left:418px; top:284px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="photosdot" style="position:absolute;  left:418px; top:306px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="illusiondot" style="position:absolute;  left:418px; top:326px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="mathkidsdot" style="position:absolute;  left:418px; top:348px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="sciencekidsdot" style="position:absolute;  left:418px; top:368px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="infodot" style="position:absolute;  left:215px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="medot" style="position:absolute;  left:76px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+</body>
+</html>
+
+

@@ -1,72 +1,139 @@
-http://www.cs.dartmouth.edu/reports/TR2008-631
+http://www.cs.dartmouth.edu/~igorpapa
 2
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML><HEAD><TITLE>Pas de Deux avec les Microrobots</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=utf-8">
-<META content="MSHTML 6.00.2900.3157" name=GENERATOR></HEAD>
-<BODY><BR>
-<CENTER><FONT size=5><B>Pas de Deux avec les Microrobots<BR>
-(Video)</B></FONT><BR><BR><FONT size=4>Dartmouth Computer Science Technical Report TR2008-631</FONT></CENTER>
+<html>
 
-<FONT size=4><BR>
-<CENTER>Bruce R. Donald<SUP>a,b,*</SUP>, Christopher Levey<SUP>c</SUP>, and Igor Paprotny<SUP>d,a</SUP> </CENTER></FONT><BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>Igor Paprotny</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="axis 011, default">
+</head>
 
-<FONT size=3>
-<CENTER>
-<SUP>a</SUP>Department of Computer Science, Duke University, Durham NC 27708 <BR>
-<SUP>b</SUP>Department of Biochemistry, Duke University Medical Center, Durham NC 27708<BR>
-<SUP>c</SUP>Thayer School of Engineering, Dartmouth College, Hanover NH 03755 <BR> 
-<SUP>d</SUP>Department of Computer Science, Dartmouth College, Hanover NH 03755</CENTER></FONT>
+<body background="_themes/axis/axibkgnd.gif" bgcolor="#FFFFFF" text="#000000" link="#339933" vlink="#996600" alink="#CC9900"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="1048">
+  <tr>
+    <td width="203" colspan="2" align="center"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+    <img border="0" src="index.1.jpg" width="234" height="141"><!--mstheme--></font></td>
+    <td align="center" width="845"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+    <!--webbot bot="Navigation" s-type="banner" s-rendering="graphics" S-Orientation B-Include-Home B-Include-Up U-Page S-Target startspan --><img src="_derived/index.htm_cmp_axis010_bnr.gif" width="600" height="150" border="0" alt="Igor Paprotny"><!--webbot bot="Navigation" i-checksum="39555" endspan --><!--mstheme--></font></td>
+  </tr>
+  <tr>
+    <td width="1048" colspan="3" style="border-bottom-style: none; border-bottom-width: medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td style="border-bottom-style: solid; border-bottom-width: 1" align="right"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+    <h4 align="left">
+    <!--webbot bot="Navigation" S-Orientation="horizontal" S-Rendering="graphics" S-Type="children" B-Include-Home="TRUE" B-Include-Up="FALSE" startspan --><script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/home_cmp_axis010_hbtn_p.gif"); MSFPnav1h=MSFPpreload("_derived/home_cmp_axis010_hbtn_a.gif"); }
+// --></script><a href="index.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/home_cmp_axis010_hbtn_p.gif" width="140" height="46" border="0" alt="Home" align="middle" name="MSFPnav1"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav2n=MSFPpreload("_derived/research.htm_cmp_axis010_hbtn.gif"); MSFPnav2h=MSFPpreload("_derived/research.htm_cmp_axis010_hbtn_a.gif"); }
+// --></script><a href="research.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="_derived/research.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Research" align="middle" name="MSFPnav2"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/CV.htm_cmp_axis010_hbtn.gif"); MSFPnav3h=MSFPpreload("_derived/CV.htm_cmp_axis010_hbtn_a.gif"); }
+// --></script><a href="CV.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/CV.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="C.V. / Resume" align="middle" name="MSFPnav3"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav4n=MSFPpreload("_derived/favorite.htm_cmp_axis010_hbtn.gif"); MSFPnav4h=MSFPpreload("_derived/favorite.htm_cmp_axis010_hbtn_a.gif"); }
+// --></script><a href="favorite.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="_derived/favorite.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Interests" align="middle" name="MSFPnav4"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav5n=MSFPpreload("_derived/photo.htm_cmp_axis010_hbtn.gif"); MSFPnav5h=MSFPpreload("_derived/photo.htm_cmp_axis010_hbtn_a.gif"); }
+// --></script><a href="photo.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src"><img src="_derived/photo.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Usefull URL's" align="middle" name="MSFPnav5"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav6n=MSFPpreload("_derived/end.htm_cmp_axis010_hbtn.gif"); MSFPnav6h=MSFPpreload("_derived/end.htm_cmp_axis010_hbtn_a.gif"); }
+// --></script><a href="end.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6h.src" onmouseout="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6n.src"><img src="_derived/end.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Interests" align="middle" name="MSFPnav6"></a><!--webbot bot="Navigation" i-checksum="63541" endspan -->
+    </h4>
+    <!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="1052">
+  <tr>
+    <td valign="top" width="142" style="border-left-style:none; border-left-width:medium; border-right-style:solid; border-right-width:1; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse" align="center">
+      <tr>
+        <td width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+        <p align="center"><font size="1">&nbsp;</font><br>
+        <font size="1">
+        <img border="0" src="side_1.JPG" width="100" height="824"> !</font></p>
+        <!--mstheme--></font></td>
+      </tr>
+    </table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
+    <td valign="top" width="11" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
+    <td valign="top" width="898" height="100%" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+    <p align="left">I am graduate student in the Computer Science Department at
+    <a href="http://www.dartmouth.edu/">Dartmouth College</a>.&nbsp; I currently 
+    reside in the Green Mountains of Vermont, approximately 100 miles south of the Canadian border.</p>
+    <p align="left">My research is in the area of micro-robotics, 
+    and MEMS (microelectromechnical 
+    systems). Our goal is 
+    to achieve micro-scale self-reconfiguration, among other with applications 
+    in the area information security. The dimensions of our micro-robots are on 
+    the order of 100 micrometers, some of our robots would fit on top of a slice 
+    of a human hair. </p>
+    <p align="left">My general research interests lie in the area of <i>Physical 
+    Computation</i>, such as through the paradigm of Quantum 
+    Computing, as well as optimization of complex production systems and 
+    processes (such as Semiconductor Manufacturing) through Operations Research and Discrete-Event Simulation methodologies. More about my 
+    research can be found by clicking on the Research tab above.</p>
+    <blockquote>
+    <p align="left"><img border="0" src="nor.gif" width="36" height="25">&nbsp;&nbsp; Jeg er en doktor 
+    student ved Computer Science fakultetet ved
+    <a href="http://www.dartmouth.edu/">Dartmouth College</a>, New Hampshire, 
+    USA.&nbsp; Min prim&#230;r forskningomr<font face="Trebuchet MS">&#229;det er</font> MEMS (Microelectromechnical Systems) 
+    med applikasjoner for 
+    mikro-robot teknollogi. Jeg er ogs<font face="Trebuchet MS">&#229; interessert i 
+    Quantum Computing, Operations Reseach og Discrete-Event Simulation. Jeg har vokst opp p&#229;
+    </font>&#248;stkanten i Oslo, og har i sin tid g<font face="Trebuchet MS">&#229;tt p&#229; 
+    NKI Ingeni</font>&#248;rh&#248;yskolen (n<font face="Trebuchet MS">&#229; DPH), p&#229; 
+    Bekkestua i B</font>&#230;<font face="Trebuchet MS">rum.</font></p>
+    <p align="left"><img border="0" src="pol.gif" width="36" height="25">&nbsp;&nbsp; Jestem 
+    doktoranckim studentem&nbsp; na fakultecie informatyki w <a href="http://www.dartmouth.edu/">
+    Dartmouth College</a>, New Hampshire, USA. Prowadz<font face="Trebuchet MS">&#281;</font> badania nad 
+    Microelectromechanichnymi systemami (MEMS), czyli micro-robotami. Pozatym 
+    interesuj<font face="Trebuchet MS">&#281;</font> si<font face="Trebuchet MS">&#281;</font> 
+    Quantum Computation, Operations Research i Discrete-Event Simulation. Urodzi<font face="Trebuchet MS">&#322;</font>em 
+    si<font face="Trebuchet MS">&#281;</font> w Piechowicach, niedaleko od Jeleniej G<font face="Trebuchet MS">&#242;</font>ry, 
+    u podnurza pi<font face="Trebuchet MS">&#281;knych
+    <a href="http://www.sudety.it/">Sudet&#242;w</a>.</font></p>
+    </blockquote>
+    <p align="left">&nbsp;</p>
+    <center>
+    <!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="5" height="33">
+      <tr>
+        <td width="78%" align="left" valign="top" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="1"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+        <h3>My contact information:</h3>
+        <blockquote>
+        <p><img border="0" src="contact2.JPG" width="365" height="255"></p>
+        </blockquote>
+        <p>&nbsp;<!--mstheme--></font></td>
+        <td width="22%" align="left" valign="top" style="border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="1"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+        <h3></h3>
+        <!--mstheme--></font></td>
+      </tr>
+      <tr>
+        <td width="78%" align="left" valign="top" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="41"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
+        <td width="22%" align="left" valign="top" style="border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="41"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
+      </tr>
+      </table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+    </center><!--mstheme--></font></td>
+  </tr>
+  <tr>
+    <td valign="top" width="142" style="border-left-style:none; border-left-width:medium; border-right-style:solid; border-right-width:1; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
+    <td valign="top" width="11" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
+    <td valign="top" width="898" height="100%" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
+<p align="center"><small>
+<!--webbot bot="Navigation" S-Orientation="horizontal" S-Rendering="html" S-Bar="Bars" S-Btn-Nml="&lt;A HREF=&quot;#URL#&quot; TARGET=&quot;#TARGET#&quot; STYLE=&quot;text-decoration: none;&quot;&gt;#LABEL#&lt;/A&gt;" S-Btn-Sel="#LABEL#" S-Btn-Sep="&amp;nbsp;|&amp;nbsp;" S-Type="children" B-Include-Home="TRUE" B-Include-Up="FALSE" startspan --><nobr>Home</nobr>&nbsp;|&nbsp;<nobr><A HREF="research.htm" TARGET="" STYLE="text-decoration: none;">Research</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="CV.htm" TARGET="" STYLE="text-decoration: none;">C.V.&nbsp;/&nbsp;Resume</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="favorite.htm" TARGET="" STYLE="text-decoration: none;">Interests</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="photo.htm" TARGET="" STYLE="text-decoration: none;">Usefull&nbsp;URL&#39;s</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="end.htm" TARGET="" STYLE="text-decoration: none;">Interests</A></nobr><!--webbot bot="Navigation" i-checksum="1926" endspan -->
+</small></p>
+<p><i><small>This site was last updated
+<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%m/%d/%y" startspan -->06/03/05<!--webbot bot="Timestamp" i-checksum="12904" endspan --> </small></i>
+</p>
 
-<BR><FONT size=2><CENTER>*Corresponding Author:<BR>
-<A href="http://www.cs.duke.edu/~brd/">Bruce R. Donald</A><BR>
-Department of Computer Science<BR>
-Duke University<BR>
-Department of Biochemistry<BR>
-Duke University Medical Center<BR>
-</CENTER></FONT>
-<BR><BR>
+<!--mstheme--></font></body>
 
-
-
-
-<CENTER><FONT size=4><FONT size=3><IMG src="image2.JPG"></CENTER>
-<CENTER><BR><strong>
-<a name="Video">The Video:</a><br>
-<A href="PasDeuxBots_cinepac.avi">AVI with Cinepac Radius</A><I>  157 MB</I><BR>
-<A href="PasDeuxBots_cinepac.zip">AVI with Cinepac Radius - zipped</A><I>  142 MB</I><BR>
-</strong>
-<BR><!--
-<strong>More information  and additional videos can be found in reference [1] below and here:<BR>
-<A href="http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/">http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/</A></strong> -->
-<BR> 
-
-
-</LEFT><CENTER><BR><BR><I>This video may not be used for commercial or 
-for-profit purposes. <BR>It is copyrighted by the authors. 
-</I>
-
-</center></center>
-
-<br><br><RIGHT>
-
-<strong>Description:</strong>
-Video captured through an optical microscope, showing simultaneous control and operation of two stress-engineered microrobots. The dimensions of our microrobots are 260 x 60 x 10 micrometers; each robot consists of an unthetered scratch-drive actuator that provides forward motion, and a steering-arm actuator that controls whether the robot moves in a straight line or turns.
-<BR><BR>
-Our stress-engineered microrobots are electrostatically powered via a global control signal transmitted to all the robots regardless of the their position and orientation within their operating environment. Hence, a single control and power-delivery signal must be used to simultaneously control all robots within the same operating environment, resulting in a highly underactuated system. Despite this high level of underactution we are able to achieve independent control of the individual microrobots by designing their steering-arms to respond to different voltage levels of the supplied control signal.
-<BR><BR>
-This example uses nested hysteresis gaps. A hysteresis gap is the difference between the snap-down and release voltages for a steering-arm actuator. Nested hysteresis gaps allow us to set the states of the steering-arms (up or down) to any configuration. As shown in this video, all four states of the two microrobot steering-arms are used to choreograph their motion.
-<BR><BR>
-A disadvantage of nested hysteresis gaps is that they are control-voltage bandwidth intensive, limiting the number of simultaneously-controllable devices. An alternative multi-microrobot control scheme that minimizes control-bandwidth is described in [1].
-<BR><BR>
-<B>References:</B><BR><BR>
-[1]   B. R. Donald, C. G. Levey and I. Paprotny.  
-
-"<A href="http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/">Planar Microassembly by Parallel
-Actuation of MEMS Microrobots</A>." <I>Journal of Microelectromechanical Systems</I>, 2008; <B>17</B>(4): 789-808.
-
- 
-</RIGHT>
-
-
-</BODY></HTML>
+</html>mi
