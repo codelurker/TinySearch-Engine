@@ -1,192 +1,193 @@
-http://www.cs.dartmouth.edu/~cs105/course-info.html
+http://www.cs.dartmouth.edu/~cs105/syllabus.html
 3
-<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>CS105 02F Syllabus</title>
+  </head>
 
-<center>
-<h1><a href="http:index.html">Computer Science 105</a><br>
-Fall 2002</h1>
+  <body>
+    <h1>CS105 02F Syllabus</h1>
 
-<h2>Algorithms</h2>
-<h2><a href="/~scot/">Scot Drysdale</a></h2>
-</center>
-
-
-<h1> Course Information </h1>
-
-<H2>Instructor</H2>
-<UL>
-<LI><STRONG>Name:</STRONG>
-      Scot Drysdale
-<LI><STRONG>Office:</STRONG>
-      123 Sudikoff Laboratory
-<LI><STRONG>Phone:</STRONG>
-      646-2101
-<LI><STRONG>E-mail:</STRONG>
-      <A href="mailto:scot@cs.dartmouth.edu">scot@cs.dartmouth.edu</A>
-<LI><STRONG>Office Hours:</STRONG>
-<ul> 
-<li> Daily 11-noon, plus Tues. 1-2, and by appointment.
-<li> If I'm not in the middle of something important, I'll be glad to 
-answer questions at other times as well so feel free to stop by. 
-I'm usually in my office from 10am to 5pm, when I don't have meetings
-or other classes. 
-</ul> 
-</UL>
-
-
-<H2>Course</H2>
-<UL>
-<LI><STRONG>Meets</STRONG>:
-	Period 2 (MWF 1:45 - 2:50)</LI>
-<LI><STRONG>Room</STRONG>:
-	115 Sudikoff</LI>
-<LI><STRONG>X-hour</STRONG>:
-	Thursday  1:00 - 1:50</LI>
-</UL>
-Leave your x-hour open, we will use it a number of times during the term 
-to go over homework solutions or for special topics.  Sometimes classes
-will be moved to x-hours when I am out of town.
-
-<H2>Text</H2>
-<UL>
-<LI><STRONG>Required</STRONG>:
-	<a href="http://mitpress.mit.edu/algorithms/">
-	  <EM>Introduction to Algorithms</EM> </a>  
-        by Cormen, Leiserson,Rivest and Stein. 
-        (Note this is the second edition. We will
-	be covering some of the new material so you should buy the
-	second edition even if you already have a copy of the first
-	edition.)
-	Available at the Dartmouth Bookstore and Wheelock Books.</LI>
-<LI><STRONG>Required</STRONG>:
-        <EM>Randomized Algorithms</EM> </a>
-        by Motwani and Raghavan.
-        Available at the Dartmouth Bookstore and Wheelock Books.</LI>
-
-</UL>
-
-<h2> Prerequisites </h2> 
-You should have had a course similar to 
-<a href="http://www.cs.dartmouth.edu/~cs25"> CS 25 </a> 
-which essentially covers the first 26 Chapters of CLRS 
-(except Chapter 5). 
-<a href="http://www.cs.dartmouth.edu/~cs25"> CS 25 </a> teaches you
-    how to design and analyze algorithms. It is not a course about 
-    implementing algorithms. In CS 105, we will assume that you are
-    comfortable with the basic design techniques (e.g. greedy method, divide
-    and conquer, dynamic programming) and the mathematical techniques 
-    involved in rigorous analysis (e.g. solution of recurrence relations,
-    amortized analysis). 
-<p> 
-You should also have had a course similar to 
-<a href="http://www.cs.dartmouth.edu/~cs49"> CS 49 </a> 
-which covers formal languages, automata theory, and NP-completeness. 
-It is particularly important that you have previously 
-been introduced to the concept of NP-completeness
-and have done some reductions to prove that problems are NP-hard. 
-
-<p> 
-If you do not have this background, you should take the appropriate 
-undergraduate courses before taking CS105. 
-<p> 
-Please see me if you have concerns regarding your background. 
-
-<H2> Syllabus</H2>
+<p>
 <ul>
-<li> Linear Programming 
-<li> Polynomials and the FFT
-<li> String Matching Algorithms
-<li> Randomized Algorithms
-<li> NP-completeness
-<li> Approximation Algorithms 
-<li> Other topics if we have time. 
-</ul> 
-
-<h2> Grades </h2>
-The final grade will be determined based on weekly problem sets and
-the final take-home exam.  The exam will be roughly  50% of your
-grade.  Graduate classes are pass/fail, so I hope that grades will not
-be an issue.  The goal of this course is to learn about algorithms.
-
-Homework problems will be graded on the following scale:
+<li> Linear Programming
 <ul>
-<li> <b> 5 </b> Outstanding.  Especially elegant or clever solution or
-exceptionally clear justification and writeup.  I don't expect to give
-out many 5's.
-<li> <b> 4 </b>  Good.   The answer is basically correct and clearly presented,
-but is not special.
-<li> <b> 3 </b>  OK.  Got the basic idea, but either some details are wrong
-or the presentation is not clear.
-<li> <b> 2 </b> Poor.  Something of value, but below the standard that I
-expect.
-<li> <b> 1 </b> You tried, but this is not passing work.
+<li> Chapter 29
 </ul>
 
-<h2> Problem Sets </h2>
-
-Problem sets will be given weekly, generally due on Wednesdays.
-I encourage you to work on your homework in groups, to discuss
-your ideas with me, and to start early.  The problems are best
-approached by starting early, thinking about the problems, putting
-them away for a day, discussing your ideas with others, etc.  This
-process can not take place successfully in the 12 hours prior to when
-the homework is due.  You must write up your own solutions and list
-anyone with whom you discussed the problem.
-<p>
-
-Whenever you present a solution, you should carefully explain how and
-why it works.  Examine your justification carefully to make sure that
-it is complete and correct.  Please only write down things that you
-believe to be correct.  If you are certain you have an incorrect answer,
-do not write an obscure answer in an attempt to gain points.  The
-purpose is to learn the material, not to gain points.  
+<p> 
+<li> Polynomials and the FFT
+<ul> 
+<li> Chapter 30
+</ul> 
 
 <p>
-Many of the problems you may be able to solve partially, or for a
-special case.  If this is the case, clearly indicate how much of the
-problem you are solving and then write that part up carefully.
+<li> String Matching
+<ul>
+<li> Chapter 32
+</ul>
 
-<p>
-It is not necessary that you answer every problem on every problem
-set.  However, it is important to have done at least roughly 3/4 of
-the problems assigned in the course.
+<p> 
+<li> Randomized Algorithms: 
+<ul> 
+<li> Chapter 5
+<li> Quicksort -- Section 7.4
+<li> Random Binary Search Trees -- Section 12.4 
+<li> Perfect Hashing -- Sections 11.1-3 and 11.5 
+<li> Proving lower bounds on the performance of randomized algorithms
+<li> Randomized Complexity Classes
+<li> Material from <em>Randomized Algorithms</em>
+</ul> 
+<p> 
+<li> NP-Completeness
+<ul> 
+<li> Chapter 34
+</ul> 
+<p> 
+<li> Approximation Algorithms 
+<ul> 
+<li> Chapter 35
+</ul> 
+<p> 
+<li> Number Problems and Strong NP-completeness
+<ul> 
+<li> Chapter 35
+</ul> 
 
+</ul>
 
-<h2>Late Homeworks </h2>
-Homework is due at class time on the due date.  Any exceptions must be
-approved by the instructor in advance.
+    <hr>
+Detailed syllabus:
+<ul> 
+<li> September 25
+<ul> 
+<li> Review
+</ul> <p>  
 
-<H2>Honor Code</H2>
-<UL>
-<LI>All work submitted for credit must be your own.</LI>
-<LI>You may discuss the homework problems with your classmates
-    and the instructor. You must acknowledge
-    the people with whom you discussed your work, and you must write
-    up your own solutions.  Any written sources used (apart from the text)
-    must also be acknowledged; however, you may <EM>not</EM> consult
-    any solutions from previous years' assignments whether they are
-    student or faculty generated.</LI>
-<LI>Exam problems may only be discussed with the instructor; written
-    sources (apart from the text) may not be consulted.  The exams
-    are where we find out what you have learned by doing the homework.</LI>
-<LI>Please ask if you have any questions about the honor code as it
-    applies to CS105.</LI>
-</UL>
+<!--
+<li> September 27
+<ul> 
+<li> Review Network Flow (26.1, 26.2)
 
-<h2>Students with Disabilites</h2>
-I encourage students
-with disabilities, including &quot;invisible&quot; disabilities
-such as chronic diseases and learning disabilities, to discuss with
-me any appropriate accommodations that I might make on their
-behalf.<br>
+</ul> <p>  
 
-<P><HR>
-<H3>Switch to:</H3>
-<UL>
-<LI><A href="index.html">
-	CS105 Home Page</A></LI>
-</UL>
+<li> October 2
+<ul> 
+<li> Push Relabel (26.4) 
+</ul> <p>  
 
-</BODY>
-</HTML>
-s.dai
+<li> October 4
+<ul> 
+<li> Relabel to Front (26.5)
+</ul> <p>  
+
+<li> October 9
+<ul> 
+<li> Linear Programming Intro (29.1, 29.2) 
+</ul> <p>  
+
+<li> October 11
+<ul> 
+<li> Simplex, Duality (29.3, 29.4)
+</ul> <p>  
+
+<li> October 16
+<ul> 
+<li> LP Init (29.5), Randomized Algorithms (Chap 5, 7.4)
+</ul> <p> 
+ 
+<li> October 18
+<ul> 
+<li> Cancelled. 
+</ul> <p>  
+
+<li> October 23
+<ul> 
+<li> Birthday Paradox and Streaks (5.3)
+</ul> <p>  
+
+<li> October 24 (X-hour)
+<ul>
+<li> Binary Seach Trees (12.4), 
+</ul> <p>  
+
+<li> October 25
+<ul> 
+<li> Hash Tables(11.1-3, 11.1-5)
+</ul> <p> 
+ 
+<li> October 30
+<ul> 
+<li> Yao's Minimax Theorem (handout)
+<li> Review NP-completeness. (Chapter 34)
+</ul> <p>  
+
+<li> November 1
+<ul> 
+<li> Review NP-completeness  (Chapter 34)
+<li> 3SAT 
+<li> Vertex Cover and Clique 
+</ul> <p>  
+
+<li> November 6
+<ul> 
+<li> 3 Dimensional Matching 
+</ul> <p>  
+
+<li> November 8
+<ul> 
+<li> Ham Cycle and Subset Sum 
+</ul> <p>  
+
+<li> November 13
+<ul> 
+<li> TSP, Start Approximation Algorithms (Chapter 35)
+</ul> <p>  
+
+<li> November 15
+<ul> 
+<li> Approx algorithms for Vertex Cover, MAX 3-SAT, Min weight VC 
+</ul> <p>  
+
+<li> November 20
+<ul> 
+<li> Approx for Set Cover, FPTAS for Subset Sum (Chapter 35)
+<li> Started strong NP-completeness (Handout)
+</ul> <p>  
+
+<li> November 22
+<ul> 
+<li> No class
+</ul> <p>  
+
+<li> November 27
+<ul>	    
+<li> Strong NP-completeness (handout)
+</ul> <p>  
+
+<li> November 28 (x-hour)
+<ul>	    
+<li> Strong NP-completeness (handout)
+</ul> <p>  
+
+<li> November 29
+<ul>	    
+<li> Randomized Rounding (handout)
+<li> Derandomization 
+<li> 3/4-approximation for MAXSAT
+</ul> <p>  
+
+-->
+
+</ul> 
+
+    <hr>
+    <address><a href="mailto:Scot Drysdale
+		<scot@cs.dartmouth.edu>">Scot Drysdale</a></address>
+<!-- Created: Fri Sep  7 17:36:08 EDT 2001 -->
+<!-- hhmts start -->
+Last modified: Tue Sept 25, 2002
+<!-- hhmts end -->
+  </body>
+</html>

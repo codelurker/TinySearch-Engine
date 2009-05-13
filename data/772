@@ -1,8 +1,8 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall04
+http://www.cs.dartmouth.edu/~ac/Teach/CS21-Winter04
 3
 <html><head>
   <link rel="stylesheet" type="text/css" href="/~ac/main.css">
-  <title>CS 39 (Fall 2004): Amit Chakrabarti</title>
+  <title>CS 21 (Winter 2004): Amit Chakrabarti</title>
 </head>
 
 <body>
@@ -20,11 +20,11 @@ http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall04
     <a href="http://www.dartmouth.edu">Dartmouth College</a>
   </td>
   <td valign=middle align=center>
-    <h3>Computer Science 39<br>
-    Theory of Computation<br><br>
+    <h3>Computer Science 21 / Math 19 / Engg 66<br>
+    Discrete Mathematics in Computer Science<br><br>
     <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
   </td>
-  <td valign=middle align=right><h3>Fall 2004<h3></td>
+  <td valign=middle align=right><h3>Winter 2004<h3></td>
 </tr></table>
 <center>
   [ <a href="#announcements">Announcements</a> |
@@ -40,16 +40,26 @@ http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall04
 <hr>
 <h3>Course Description</h3> 
 
-<p> This course serves as an introduction to formal models of languages
-and computation. Topics covered include finite automata, regular
-languages, context-free languages, pushdown automata, Turing machines,
-computability, and NP-completeness. </p>
+<p> In this course we shall get introduced to <i>Discrete
+Mathematics</i>, a relatively modern branch of mathematics with close
+ties to computer science. The major topics to be covered include
+counting techniques, basic number theory, logic and proofs (including
+mathematical induction), and basic probability theory. Most of the
+topics will be motivated by applications from computer science;
+specifically, we shall learn about the RSA cryptosystem, the analysis of
+recursive algorithms, and hashing. </p>
 
-<p> It is expected that a student who enrols for this course <i>already
-knows how to write mathematical proofs</i> and is generally
-mathematically mature. If a student passes this basic criterion and is
-interested in thinking philosophically about what a computer can or
-cannot do, then this course should be great fun. </p>
+<p> One very important skill that students will be <i>required</i> to
+pick up during this course is that of writing clear, convincing,
+mathematical proofs. This is because the mathematics in this course is
+not just about calculation; it is more about making (and clearly
+presenting) mathematically rigorous arguments and about learning to
+recognize faulty reasoning. </p>
+
+<p> The above skill is quite a rarity, and is known to be hard to
+acquire.  Students are therefore advised to ask themselves from time to
+time whether they are making good progress towards acquiring this
+skill.  </p>
 
 <!-- ------------------------------------------------ -->
 
@@ -60,45 +70,50 @@ cannot do, then this course should be great fun. </p>
 
   <ul> 
 
-    <li> [Nov 30] <b>The final exam is ready!</b> 
-    <a href="Exams/final.pdf"> Click here</a> to access the exam. There
-    are general instructions on page 1 which you may look at before you
-    are ready to start. But once you look at page 2, your time has
-    started and you must turn in the exam within 48 hours. <b>Please
-    turn in the exam into Chakrabarti's mailbox</b> and not Huang's.
+    <li> [Mar 10] On Page 201 (Chapter 5) of the textbook, the equation
+    after (5.12) is very wrong. <a href="eq-inc-exc.pdf">Here is the
+    corrected equation</a>; please make the change in your textbook.
 
-    <li> [Nov 22] For those who stuck around after today's class to muse
-    about programs that print themselves out, here is an <a
-    href="http://www.its.caltech.edu/~boozer/symbols/programs.html">excellent
-    writeup</a> about such programs and how they work.
+    <li> [Mar 7] A practice final exam has been posted to the course
+    mailing list. Try it, and time yourself.
 
-    <li> [Nov 12] The two Turing Machine applets shown in class on Nov 9
-    are <a href="http://www.igs.net/~tril/tm/tm.html">here</a> and <a
-    href="http://www.igs.net/~tril/tm/tm.html">here</a>.
+    <li> [Feb 29] There is another typo in Sec 6.5 Problem 16. At the
+    end of the sentence "degree 4" should read "degree at most 4".
 
-    <li> [Oct 24] Some explanations and examples have been added to HW4
-    that should answer some basic questions you may have about
-    equivalence classes.
+    <li> [Feb 16] There is a typo in the statement of Sec 3.2 Problem
+    14. In the first sentence (the one beginning "Find a reason...")
+    the final OR sign should be an AND sign.
 
-    <li> [Oct 5] The administrative details page has a new section
-    titled <a href="admindetails.html#challenges">"challenge
-    problems"</a> which talks about certain extra credit problems that
-    will show up on the homeworks from time to time.  Please read that
-    section carefully.
+    <li> [Feb 10] For some very interesting, entertaining and
+    informative reading about RSA and cryptography, see <a
+    href="http://www.rsasecurity.com/rsalabs/faq/index.html">the Crypto
+    FAQ</a>, over at RSA Security. In fact, the entire <a
+    href="http://www.rsasecurity.com/rsalabs/">RSA Labs website</a> is
+    recommended reading: use the navigation bar on the left to get to
+    the various sections. You can learn a lot about RSA and cryptography
+    beyond the little that we cover in this course.  There's a section
+    called <a
+    href="http://www.rsasecurity.com/rsalabs/challenges/index.html">
+    Challenges</a> which even gives you an opportunity to win some
+    serious money!
 
-    <li> [Oct 1] The slides used for the first three lectures are now up
-    on the website; see the schedule table.
+    <li> [Jan 22] A new section containing solutions to homework and
+    exam problems has been added to this webpage.
 
-    <li> [Sep 28] Homeowrk 1 is ready and is due on Oct 6 at the
-    <i>start</i> of class. To get to the homework, click the link in the
-    <a href="#lectures">schedule table</a>. If you are unable to view or 
-    print the homework, let the instructor know right away. Please review 
-    the guidelines for homeworks on the <a href="admindetails.html">
-    administrative details</a> page.
+    <li> [Jan 15] Since there is no class on Jan 19, there are two
+    homeworks (5.1 and 5.2) due on Jan 21. As compensation, the
+    homeworks are shorter than usual. 
 
-    <li> [Sep 22] Please send a blitz to the instructor with your name
-    (only first and last name, no initials) and a password for
-    accessing your grades in the grades database.
+    <li> [Jan 14] The midterms will be open book and open notes, which
+    means that studentis may consult their textbook, any notes handed
+    out in class, their <i>own</i> notes, and their <i>own</i> homework
+    solutions during the exams. Students <i>may not consult anything
+    else</i> and must work on the exam problems <i>by themselves</i>.
+
+    <li> [Jan 14] The two evening midterms will be held on Jan 26 and
+    Feb 16 in Sudikoff 115. They are tentatively scheduled for
+    19:00-21:00 on these days. Watch this space for further
+    announcements.
 
   </ul>
 
@@ -120,50 +135,87 @@ seriously.<p><br>
 <table cellpadding=2>
   <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
     <td valign=top> 
-      Sudikoff 115 | 12 hour | MWF 12:30-13:35, X-hr T 13:00-13:50
+      Sudikoff 115 | 10 hour | MWF 10:00-11:05, X-hr Th 12:00-12:50
     </td>
   </tr>
   <tr><td valign=top><b>Instructor</b> <br><br> </td> 
     <td valign=top> 
-      <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 107 | 6-1710 | 
-      Office hours: MF 10:00-11:30 or by appointment
+      <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 218 | 6-1710 | 
+      Office hours: MTh 14:00-16:00 or by appointment
+    </td>
+  </tr>
+  <tr><td valign=top><b>Tutorials</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 212 | TThSu 19:00-21:00
     </td>
   </tr>
   <tr><td valign=top><b>Teaching Assistant</b> <br><br> </td> 
     <td valign=top> 
-      <a href="/~villars">Chien-Chung Huang</a> | Sudikoff 221 | 6-8753 | 
-      Office hours: TTh 16:15-18:15
+      <a href="/~florin">Gabriel Florin Constantin</a> | Sudikoff 212 | 
+      6-0949 | Office hours: Immediately after tutorials
     </td>
   </tr>
   <tr><td valign=top><b>Textbook</b> <br><br></td> 
     <td valign=top> 
-      Required: <br>&nbsp;&nbsp;
-      <a href="http://www-math.mit.edu/~sipser/book.html">
-      "Introduction to the Theory of Computation."</a> &nbsp; 
-      Michael Sipser. <br>
-      Suggested additional reading (not required): <br>&nbsp;&nbsp;
-      <a href="http://images.amazon.com/images/P/020102988X.01.LZZZZZZZ.jpg">
-      "Introduction to Automata Theory, Languages and Computation."</a> &nbsp; 
-      J. E. Hopcroft and J. D. Ullman. <br><br>
+      Required: <a href="fullbook.pdf">"Discrete Math for Computer 
+      Science Students."</a> &nbsp; Bogart, Drysdale, and Stein. <br>
+      Click the title of the book to view it as a PDF file. 
+      For easy printing, here are the individual chapters: <br>
+      [ <a href="ch1.pdf">Contents and Chapter 1</a> |
+      <a href="ch2.pdf">Chapter 2</a> |
+      <a href="ch3.pdf">Chapter 3</a> |
+      <a href="ch4.pdf">Chapter 4</a> |
+      <a href="ch5.pdf">Chapter 5</a> |
+      <a href="ch6.pdf">Chapter 6 and Index</a> ] <br><br>
     </td>
   </tr>
   <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
     <td valign=top> 
-      CS 25, or <br>
-      a <i>strong</i> mathematics backround and permission of the
-      instructor <br><br>
+      CS 5 or equivalent <br>
+      CS 15 or 18 (corequisite) <br><br>
     </td>
   </tr>
   <tr><td valign=top><b>Work</b> <br><br> </td> 
     <td valign=top>
-      One homework per week. [35 points] <br>
-      Two in-class quizzes. [15 points] <br>
-      One take-home midterm. [20 points] <br>
-      One take-home final exam. [30 points]  <br>
-      <br>
-      Please take note of the <a href="admindetails.html#late">late 
+      One homework per class, due at the <i>start</i> of next class. 
+      [25 points] <br>
+      Two evening midterms. [25 + 25 points] <br>
+      One final exam on Fri Mar 12, 08:00. [50 points]  <br>
+      Please take note of the <a href="admindetails.html#hw">late 
       homework policy</a>. <br><br>
   </tr>
+  <tr><td valign=top><b>Grading Recipe</b> <br><br> </td> 
+    <td valign=top>
+
+      Your grade will be based on your <i>adjusted cumulative score
+      (ACS)</i>, calculated as follows: <p>
+      <center><table cellpadding=2>
+        <tr>
+	  <td><b>Unit</b></td> <td><b>Max possible score</b></td> 
+	  <td><b>Your score</b></td>
+	</tr><tr>
+	  <td>Homework</td> <td align=center>25</td> 
+	  <td align=center><i>h</i></td>
+	</tr><tr>
+	  <td>Midterm 1</td> <td align=center>25</td> 
+	  <td align=center><i>m<sub>1</sub></i></td>
+	</tr><tr>
+	  <td>Midterm 2</td> <td align=center>25</td> 
+	  <td align=center><i>m<sub>2</sub></i></td>
+	</tr><tr>
+	  <td>Final</td> <td align=center>50</td> 
+	  <td align=center><i>f</i></td>
+      </tr></table></center> <p>
+      Then, your 
+      <i>ACS = h + m<sub>1</sub> + m<sub>2</sub> + f - </i>min{
+      <i>m<sub>1</sub>, m<sub>2</sub>, f</i>&nbsp;/&nbsp;2&nbsp;}.<p>
+      Loosely speaking, your "worst exam" is dropped, with the finals
+      counting as two exams.
+      The idea behind this recipe is that students who get better as the
+      course progresses can take advantage of the finals, while at the
+      same time students don't get severely penalized for one bad exam.
+
+    </tr>
 </table>
 
 <!-- ------------------------------------------------ -->
@@ -177,8 +229,13 @@ seriously.<p><br>
 and please remember to hit the RELOAD button to get the latest
 schedule. </p>
 
-<p> For now, the dates in the table below are totally inaccurate, as
-should be obvious. </p>
+<p> The homework problems are, for the most part, assigned from the
+textbook. In the table below, such problems are simply referred to using
+the section number and problem number from the textbook. When additional
+(outside the textbook) problems are assigned, they are numbered AP1,
+AP2, etc. To read the statements of these problems, see the <a
+href="additional.pdf">additional problems page</a>, or just click on
+the problem number in the table below. </p>
 
 <table border=1 cellpadding=2 cellspacing=1>
 <tr>
@@ -187,221 +244,190 @@ should be obvious. </p>
   <td><p class=hdr>Homework Due</p></td>
   <td><p class=hdr>Class Topic</p></td>
 </tr><tr>
-  <td valign=top> Sep 22 </td>
+  <td valign=top> Jan 5 </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
-  <td> Welcome, administrivia, overview; Mathematical notation 
-    (<a href="SlidesAndNotes/lec01.pdf">slides</a>)</td>
+  <td> Organization. Introduction to counting. </td>
 </tr><tr>
-  <td valign=top> Sep 24 </td>
-  <td> 0.1, 0.2, 0.3 </td>
-  <td> &mdash; </td>
-  <td> Types of proof: by construction, by contradiction, by induction
-    (<a href="SlidesAndNotes/lec02.pdf">slides</a>)</td>
-</tr><tr>
-  <td valign=top> Sep 27 </td>
-  <td> 0.4 </td>
-  <td> &mdash; </td>
-  <td> Strings and languages; Finite automata introduced
-    (<a href="SlidesAndNotes/lec03.pdf">slides</a>)</td>
-</tr><tr>
-  <td valign=top> Sep 28 (X-hr) </td>
-  <td> 1.1 up to p34 </td>
-  <td> &mdash; </td>
-  <td> More on (deterministic) finite automata; Understanding the behavior 
-    of specific DFAs</td>
-</tr><tr>
-  <td valign=top> Sep 29 </td>
+  <td valign=top> Jan 7 </td>
   <td> 1.1 </td>
   <td> &mdash; </td>
-  <td> Designing DFAs; Formal definition of a DFA  </td>
+  <td> Permutations and subsets. </td>
 </tr><tr>
-  <td valign=top> Oct 1 </td>
+  <td valign=top bgcolor=#00ff00> Jan 8 (x-hr) </td>
   <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Formal definition of DFA recap; DFA computation formalized; NFA
-    introduced</td>
+  <td> 1.1: # 1, 2, 7, 8, 10, 12, 13, 15 </td>
+  <td> Catch-up class to deal with aftereffects of fire alarm. </td>
 </tr><tr>
-  <td valign=top> Oct 4 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Designing NFAs; Union of two regular languages is regular </td>
-</tr><tr>
-  <td valign=top> Oct 5 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> The concatenation of two regular languages is regular; Kleene 
-  star defined </td>
-</tr><tr>
-  <td valign=top> Oct 6 </td>
-  <td> &mdash; </td>
-  <td> <a href="Homeworks/hw1.pdf">HW1</a> </td>
-  <td> Regular expressions; Equivalence of DFAs, NFAs and regular 
-  expressions, I </td>
-</tr><tr>
-  <td valign=top> Oct 8 </td>
+  <td valign=top> Jan 9 </td>
   <td> 1.2 </td>
-  <td> &mdash; </td>
-  <td> Equivalence of DFAs, NFAs and regular expressions, II </td>
+  <td> 1.2: # 2, 6, 7, 8, 12, 13, 15, 17, 19 </td>
+  <td> Binomial coefficients. </td>
 </tr><tr>
-  <td valign=top> Oct 11 </td>
+  <td valign=top> Jan 12 </td>
   <td> 1.3 </td>
-  <td> &mdash; </td>
-  <td> Equivalence of DFAs, NFAs and regular expressions, III 
-  (<a href="SlidesAndNotes/dfa2regexp.pdf">lecture notes</a>) </td>
+  <td> 1.3: # 2, 3a, 3d, 6, 8, 11, 15, 18;
+    <a href="additional.pdf">AP1</a> </td>
+  <td> Equivalence classes, quotients, multisets. </td>
 </tr><tr>
-  <td valign=top> Oct 12 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Example of DFA to RegExp conversion; The pumping lemma </td>
-</tr><tr>
-  <td valign=top> Oct 13 </td>
-  <td> &mdash; </td>
-  <td> <a href="Homeworks/hw2.pdf">HW2</a> </td>
-  <td> Applications of the pumping lemma; Closure properties of regular
-  languages </td>
-</tr><tr>
-  <td valign=top> Oct 15 </td>
+  <td valign=top> Jan 14 </td>
   <td> 1.4 </td>
-  <td> &mdash; </td>
-  <td> Problem solving session, led by Chien-Chung Huang </td>
+  <td> 1.4: # 1, 2, 6, 10, 14 (ignore 14c), 16 </td>
+  <td> Mathematical induction. </td>
 </tr><tr>
-  <td valign=top> Oct 18 </td>
-  <td> Chapter 1 </td>
-  <td> &mdash; </td>
-  <td bgcolor=#00ff00> Quiz 1: closed-notes, in-class </td>
+  <td valign=top> Jan 16 </td>
+  <td> 4.1 </td>
+  <td> 4.1: # 3, 4, 6, 9, 12, 13; <a href="additional.pdf">AP2</a> </td>
+  <td> Introduction to probability. 
+    Principle of inclusion and exclusion.</td>
 </tr><tr>
-  <td valign=top bgcolor=#ff4444> Oct 19 (X-hr) </td>
-  <td align=center colspan=3 bgcolor=#ff4444> No lecture today </td>
+  <td valign=top bgcolor=#ff6060> Jan 19 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> No class; MLK Jr. Day. </td>
 </tr><tr>
-  <td valign=top> Oct 20 </td>
-  <td> &mdash; </td>
-  <td> <a href="Homeworks/hw3.pdf">HW3</a> </td>
-  <td> Pushdown automata (guest lecture by <a
-  href="http://www.cs.dartmouth.edu/~spetrovic/">Srdjan Petrovic</a>) </td>
+  <td valign=top> Jan 21 </td>
+  <td valign=top> 5.1, 5.2 </td>
+  <td> 5.1: # 2, 3, 6, 11; <a href="additional.pdf">AP3</a> 
+       &nbsp; &nbsp; [See Jan 15 <br>
+       5.2: # 1, 5, 10, 14; <a href="additional.pdf">AP4</a> 
+       &nbsp; [<a href="#announcements">announcement</a> </td>
+  <td valign=top> Conditional probability and independence. </td>
 </tr><tr>
-  <td valign=top> Oct 22 </td>
-  <td> 2.2 </td>
+  <td valign=top bgcolor=#00ff00> Jan 22 (x-hr) </td>
+  <td> 5.3 </td>
   <td> &mdash; </td>
-  <td> More examples of PDAs; Closure (or not) properties </td>
+  <td> Random variables. </td>
 </tr><tr>
-  <td valign=top> Oct 25 </td>
-  <td> 2.2 (reread) </td>
-  <td> &mdash; </td>
-  <td> Closure and non-closure properties continued; PDA for
-    not-<i>ww</i> </td>
+  <td valign=top> Jan 23 </td>
+  <td> 5.4 </td>
+  <td> 5.3: # 2, 3, 6, 8, 10, 11; <a href="additional.pdf">AP5</a> </td>
+  <td> Probability calculations in hashing. </td>
 </tr><tr>
-  <td valign=top> Oct 26 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Context-free grammars; Examples </td>
+  <td valign=top> Jan 26 </td>
+  <td> 5.5 </td>
+  <td> 5.4: # 5, 7, 15, 17 and 5.5: # 1, 4, 11 </td>
+  <td> Recursion, recurrences, growth rates </td>
 </tr><tr>
-  <td valign=top> Oct 27 </td>
-  <td> &mdash; </td>
-  <td> <a href="Homeworks/hw4.pdf">HW4</a> </td>
-  <td> Equivalence of CFGs and PDAs, I (CFG to PDA, informal) </td>
+  <td valign=top bgcolor=#00ff00> Jan 26 </td>
+  <td align=center colspan=3 bgcolor=#00ff00> First midterm exam, 
+  Sudikoff 115, 19:00-21:00 </td>
 </tr><tr>
-  <td valign=top> Oct 29 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Equivalence of CFGs and PDAs, II 
-    (CFG to PDA, formal; PDA to CFG, idea)</td>
-</tr><tr>
-  <td valign=top> Nov 1 </td>
-  <td> 2.1 </td>
-  <td> &mdash; </td>
-  <td> Equivalence of CFGs and PDAs, III (PDA to CFG, almost formal)</td>
-</tr><tr>
-  <td valign=top bgcolor=#ff4444> Nov 2 (X-hr) </td>
-  <td align=center colspan=3 bgcolor=#ff4444> No lecture today </td>
-</tr><tr>
-  <td valign=top> Nov 3 </td>
-  <td> &mdash; </td>
-  <td bgcolor=#00ff00> <a href="Exams/mid.pdf"><b>Midterm</b></a> </td>
-  <td> Chomsky normal form; Pumping lemma for context-free languages </td>
-</tr><tr>
-  <td valign=top> Nov 5 </td>
-  <td> 2.3 </td>
-  <td> &mdash; </td>
-  <td> Proof and applications of the pumping lemma for CFLs </td>
-</tr><tr>
-  <td valign=top> Nov 8 </td>
-  <td> Chapter 2 </td>
-  <td> &mdash; </td>
-  <td> Turing machines; Informal description and simple examples </td>
-</tr><tr>
-  <td valign=top> Nov 9 (X-hr) </td>
-  <td> 3.1 up to p133 </td>
-  <td> &mdash; </td>
-  <td> Formal definition of TMs; A TM solution for
-    {0<sup>n</sup>1<sup>n</sup>2<sup>n</sup>: n &ge; 0} </td>
-</tr><tr>
-  <td valign=top> Nov 10 </td>
-  <td> &mdash; </td>
-  <td> <a href="Homeworks/hw5.pdf">HW5</a> </td>
-  <td> Configurations, deciders/recognizers, multi-tape TMs
-    (<a href="SlidesAndNotes/lec26.pdf">slides</a>)</td>
-  </td>
-</tr><tr>
-  <td valign=top> Nov 12 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Closure properties of decidable languages; Nondeterministic TMs
-    (<a href="SlidesAndNotes/lec27.pdf">slides</a>)</td>
-</tr><tr>
-  <td valign=top> Nov 15 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Church-Turing Thesis; Enumerator TMs </td>
-</tr><tr>
-  <td valign=top> Nov 16 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td bgcolor=#00ff00> Quiz 2: closed-notes, in-class </td>
-</tr><tr>
-  <td valign=top> Nov 17 </td>
-  <td> Chapter 3 </td>
-  <td> <a href="Homeworks/hw6.pdf">HW6</a> </td>
-  <td> Decision problems for the major language classes:
-    A<sub>DFA</sub>, A<sub>CFG</sub> and A<sub>TM</sub> </td>
-</tr><tr>
-  <td valign=top> Nov 19 </td>
-  <td> 4.1 <font color=#808080>(and 4.2 ?)</font> </td>
-  <td> &mdash; </td>
-  <td> Undecidability of A<sub>TM</sub> and the halting problem; 
-    E<sub>DFA</sub>, E<sub>CFG</sub> and E<sub>TM</sub>;
-    <span style="text-decoration: overline">A</span><sub>TM</sub> </td>
-</tr><tr>
-  <td valign=top> Nov 22 </td>
+  <td valign=top> Jan 28 </td>
   <td> 4.2 </td>
   <td> &mdash; </td>
-  <td> Reduction from A<sub>TM</sub> to E<sub>TM</sub>; Undecidability
-    of ALL<sub>CFG</sub> </td>
+  <td> Growth rates continued </td>
 </tr><tr>
-  <td valign=top> Nov 23 (X-hr) </td>
+  <td valign=top bgcolor=#00ff00> Jan 29 (x-hr) </td>
+  <td> 4.3 </td>
+  <td> 4.2: # 7, 8, 11, 14 and 4.3: # 1b, 1d, 5, 8, 9 </td>
+  <td> The master theorem </td>
+</tr><tr>
+  <td valign=top> Jan 30 </td>
+  <td> 4.4 </td>
+  <td> 4.4: # 1, 7, 8, 9 </td>
+  <td> More general recurrences, median finding [See <a
+    href="linear-time.pdf">these notes</a>] </td>
+</tr><tr>
+  <td valign=top> Feb 2 </td>
+  <td> 4.5, 4.6 </td>
+  <td> 4.6: # 1, 2; <a href="additional.pdf">AP6, AP7</a> </td>
+  <td> Conditional expectation, recurrences and algorithms </td>
+</tr><tr>
+  <td valign=top> Feb 4 </td>
+  <td> 5.6 </td>
+  <td> 5.6: # 3, 4, 7, 11, 13 </td>
+  <td> Probability distributions and variance </td>
+</tr><tr>
+  <td valign=top> Feb 6 </td>
+  <td> 5.7, <a href="http://www.pambytes.com/poe/stories/goldbug.html">
+    The Gold-Bug</a></td>
+  <td> 5.7: # 1, 2, 3, 4, 14, 16, 18 </td>
+  <td> Cryptography and modular arithmetic </td>
+</tr><tr>
+  <td valign=top> Feb 9 </td>
+  <td> 2.1 </td>
+  <td> 2.1: # 1, 4, 5, 9, 11, 12, 15 </td>
+  <td> Inverses and GCDs </td>
+</tr><tr>
+  <td valign=top> Feb 11 </td>
+  <td> 2.2 </td>
+  <td> 2.2: # 1, 2, 4, 7, 9, 12, 14; <a href="additional.pdf">AP8</a> </td>
+  <td> The RSA cryptosystem </td>
+</tr><tr>
+  <td valign=top bgcolor=#00ff00> Feb 12 (x-hr) </td>
+  <td> 2.3 </td>
+  <td> 2.3: # 6, 7, 8, 15, <a href="additional.pdf">AP9</a> </td>
+  <td> Details of the RSA cryptosystem </td>
+</tr><tr>
+  <td valign=top bgcolor=#ff6060> Feb 13 </td>
   <td> &mdash; </td>
-  <td> <a href="Homeworks/hw7.pdf">HW7</a> </td>
-  <td> More undecidable CFG problems; time complexity, P and NP </td>
+  <td> &mdash; </td>
+  <td> No class; carnival holiday. </td>
 </tr><tr>
-  <td valign=top> Nov 29 </td>
+  <td valign=top> Feb 16 </td>
+  <td> 2.4 </td>
+  <td> 2.4: # 12, 14, 15 </td>
+  <td> Logic: equivalence, implication, variables, quantifiers </td>
+</tr><tr>
+  <td valign=top bgcolor=#00ff00> Feb 16 <Jan 26/td>
+  <td align=center colspan=3 bgcolor=#00ff00> Second midterm exam, 
+  Sudikoff 115, 19:00-21:00 </td>
+</tr><tr>
+  <td valign=top> Feb 18 </td>
+  <td> 3.1, 3.2 </td>
+  <td> 3.1: # 1, 4, 6, 12, 15; 3.2: # 2, 5, 7 </td>
+  <td> Quantifiers, inference, proofs </td>
+</tr><tr>
+  <td valign=top> Feb 20 </td>
+  <td> 3.2, 3.3 </td>
+  <td> 3.2: # 11, 12, 14 [<a href="#announcements">Typo!</a>]; 
+    3.3: # 1, 6, 8, 11, 14 </td>
+  <td> Graphs, subgraphs, connectivity, trees </td>
+</tr><tr>
+  <td valign=top> Feb 23 </td>
+  <td> 6.1 </td>
+  <td> 6.1: # 3, 7, 9, 12, 13, 14, 15 </td>
+  <td> Rooted trees, Eulerian trails and tours </td>
+</tr><tr>
+  <td valign=top> Feb 25 </td>
+  <td> 6.2, 6.3 </td>
+  <td> 6.2: # 9, 10, 12; 6.3: # 5, 6; <a href="additional.pdf">AP10</a> </td>
+  <td> Matchings: Hall's marriage theorem </td>
+</tr><tr>
+  <td valign=top bgcolor=#00ff00> Jan 8 (x-hr) </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
-  <td> NP-completeness and polynomial time reductions 
-    (<a href="SlidesAndNotes/lec33.pdf">slides</a>)</td>
+  <td> Matchings: K&ouml;nig-Egerv&aacute;ry theorem, Berge's theorem </td>
 </tr><tr>
-  <td valign=top> Nov 30 (X-hr) </td>
-  <td> 7.5 </td>
+  <td valign=top> Feb 27 </td>
+  <td> 6.4 </td>
+  <td> 6.4: # 9, 10, 12, 15; <a href="additional.pdf">AP11</a> </td>
+  <td> Planarity </td>
+</tr><tr>
+  <td valign=top> Mar 1 </td>
+  <td> 6.5 </td>
+  <td> 6.5: # 14, 15, 16 [<a href="#announcements">Typo!</a>], 17 </td>
+  <td> Graph coloring and the five-color theorem </td>
+</tr><tr>
+  <td valign=top> Mar 3 </td>
+  <td> 6.5 </td>
+  <td> 6.5: # 4, 5, 6, 7, 9 </td>
+  <td> Review session 1 </td>
+</tr><tr>
+  <td valign=top> Mar 5 </td>
   <td> &mdash; </td>
-  <td> The Cook-Levin theorem </td>
+  <td> &mdash; </td>
+  <td> Review session 2: Counting, Recurrences </td>
 </tr><tr>
-  <td valign=top> Dec 1 </td>
-  <td> 7.4 </td>
-  <td> <a href="Homeworks/hw8.pdf">HW8 (optional)</a> </td>
-  <td> Wrap up </td>
+  <td valign=top> Mar 8 </td>
+  <td> Entire book </td>
+  <td> &mdash; </td>
+  <td> Review session 3: Probability, Graphs </td>
 </tr><tr>
-  <td valign=top bgcolor=#00ff00> Dec 7 </td>
-  <td align=center colspan=3 bgcolor=#00ff00> Take-home 48-hour <a
-  href="Exams/final.pdf"><b>final exam</b></a>, due at 6:00pm sharp </td>
+  <td valign=top bgcolor=#00ff00> Mar 12 </td>
+  <td align=center colspan=3 bgcolor=#00ff00> Final exam,
+  08:00-12:00 </td>
 
 </table><p>
 
@@ -412,19 +438,75 @@ should be obvious. </p>
 <a name=solutions></a>
 <h3>Solutions to Homework and Exam Problems</h3>
 
-<ul>
-  <li> <a href="Homeworks/hw1-sol.pdf">Solutions to HW1</a>
-  <li> <a href="Homeworks/hw2-sol.pdf">Solutions to HW2</a>
-  <li> <a href="Homeworks/hw3-sol.pdf">Solutions to HW3</a>
-  <li> <a href="Homeworks/hw4-sol.pdf">Solutions to HW4</a>
-  <li> <a href="Homeworks/hw5-sol.pdf">Solutions to HW5</a>
-  <li> <a href="Homeworks/hw6-sol.pdf">Solutions to HW6</a>
-  <li> <a href="Homeworks/hw7-sol.pdf">Solutions to HW7</a>
-  <li> <a href="Homeworks/hw8-sol.pdf">Solutions to HW8</a>
-  <li> <a href="Exams/quiz1-sol.pdf">Solutions to Quiz 1</a>
-  <li> <a href="Exams/quiz2-sol.pdf">Solutions to Quiz 2</a>
-  <li> <a href="Exams/mid-sol.pdf">Solutions to Midterm Exam</a>
-</ul>
+<p> Here is a collection of links to PDF files containing solutions to
+problems from the textbook. Some of the solutions are detailed and
+explain all of the reasoning involved. But many of them are outlines
+only and in a homework or an exam you should provide a little more
+detailed reasoning. These solutions were prepared by Professors Ken
+Bogart, Scot Drysdale and Cliff Stein. <b>Please do not distribute
+them</b>. </p>
+
+<p> There may be typos in the solutions. If you find any, please notify
+me so I can notify the authors. </p>
+
+<dl><dt><dd>
+  <a href="Solutions/1.1.pdf">1.1</a> &nbsp; &nbsp;
+  <a href="Solutions/1.2.pdf">1.2</a> &nbsp; &nbsp;
+  <a href="Solutions/1.3.pdf">1.3</a> &nbsp; &nbsp;
+  <a href="Solutions/1.4.pdf">1.4</a> &nbsp; &nbsp;
+</dd></dt></dl>
+
+<dl><dt><dd>
+  <a href="Solutions/2.1.pdf">2.1</a> &nbsp; &nbsp;
+  <a href="Solutions/2.2.pdf">2.2</a> &nbsp; &nbsp;
+  <a href="Solutions/2.3.pdf">2.3</a> &nbsp; &nbsp;
+  <a href="Solutions/2.4.pdf">2.4</a> &nbsp; &nbsp;
+</dd></dt></dl>
+
+<dl><dt><dd>
+  <a href="Solutions/3.1.pdf">3.1</a> &nbsp; &nbsp;
+  <a href="Solutions/3.2.pdf">3.2</a> &nbsp; &nbsp;
+  <a href="Solutions/3.3.pdf">3.3</a> &nbsp; &nbsp;
+</dd></dt></dl>
+
+<dl><dt><dd>
+  <a href="Solutions/4.1.pdf">4.1</a> &nbsp; &nbsp;
+  <a href="Solutions/4.2.pdf">4.2</a> &nbsp; &nbsp;
+  <a href="Solutions/4.3.pdf">4.3</a> &nbsp; &nbsp;
+  <a href="Solutions/4.4.pdf">4.4</a> &nbsp; &nbsp;
+  <a href="Solutions/4.5.pdf">4.5</a> &nbsp; &nbsp;
+  <a href="Solutions/4.6.pdf">4.6</a> &nbsp; &nbsp;
+</dd></dt></dl>
+
+<dl><dt><dd>
+  <a href="Solutions/5.1.pdf">5.1</a> &nbsp; &nbsp;
+  <a href="Solutions/5.2.pdf">5.2</a> &nbsp; &nbsp;
+  <a href="Solutions/5.3.pdf">5.3</a> &nbsp; &nbsp;
+  <a href="Solutions/5.4.pdf">5.4</a> &nbsp; &nbsp;
+  <a href="Solutions/5.5.pdf">5.5</a> &nbsp; &nbsp;
+  <a href="Solutions/5.6.pdf">5.6</a> &nbsp; &nbsp;
+  <a href="Solutions/5.7.pdf">5.7</a> &nbsp; &nbsp;
+</dd></dt></dl>
+
+<dl><dt><dd>
+  <a href="Solutions/6.1.pdf">6.1</a> &nbsp; &nbsp;
+  <a href="Solutions/6.2.pdf">6.2</a> &nbsp; &nbsp;
+  <a href="Solutions/6.3.pdf">6.3</a> &nbsp; &nbsp;
+  <a href="Solutions/6.4.pdf">6.4</a> &nbsp; &nbsp;
+  <a href="Solutions/6.5.pdf">6.5</a> &nbsp; &nbsp;
+</dd></dt></dl>
+
+<p> Here are solutions to the additional problems for homework and to
+the exams. These problems and solutions are written by me. If you find
+typos (or worse, mistakes) please let me know right away. Again,
+<b>please do not distribute these</b>. </p>
+
+<dl><dt><dd>
+  <a href="Solutions/add-sol.pdf">Additional Problems</a> &nbsp; &nbsp; <br>
+  <a href="Solutions/mid1-sol.pdf">First Midterm Exam</a> &nbsp; &nbsp; <br>
+  <a href="Solutions/mid2-sol.pdf">Second Midterm Exam</a> &nbsp; &nbsp; <br>
+  <a href="Solutions/final-sol.pdf">Final Exam</a> &nbsp; &nbsp; <br>
+</dd></dt></dl>
 
 <!-- ------------------------------------------------ -->
 
@@ -438,12 +520,12 @@ entered in our database using the form below. </p>
 
 <form
   method=post
-  action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs39/glookup.cgi">
+  action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs21/glookup.cgi">
     <table><tr>
       <td>Your name, without initials or suffixes:</td>
       <td><input type=text name=name size=25></td>
     <tr>
-      <td>Your CS 39 password:</td>
+      <td>Your CS 21 password:</td>
       <td><input type=password name=password size=25></td>
     </table>
     <p>
@@ -460,4 +542,3 @@ entered in our database using the form below. </p>
 </div> </i>
 
 </body></html>
-<ahref=i

@@ -1,5 +1,5 @@
 CC      =  gcc
-CFLAGS  =  -Wall -pedantic -std=c99
+CFLAGS  =  -g -Wall -pedantic -std=c99
 EXEC    =  indexer
 OBJS    =  indexer.o hash.o input.o dictionary.o
 SRCS    =  indexer.c ../../shared/hash.c ../util/input.c dictionary.c

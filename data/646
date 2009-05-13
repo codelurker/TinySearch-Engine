@@ -1,28 +1,24 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR97-315
+http://www.cs.dartmouth.edu/reports/abstracts/TR97-313
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR97-315 </TITLE>
-<META NAME="description" CONTENT="Admission Control Policies for Internet File Transfer Protocols">
-<META NAME="number" CONTENT="PCS-TR97-315">
+<TITLE> Dartmouth PCS-TR97-313 </TITLE>
+<META NAME="description" CONTENT="Self-Organizing File Cabinet">
+<META NAME="number" CONTENT="PCS-TR97-313">
 <META NAME="year" CONTENT="1997">
-<META NAME="title" CONTENT="Admission Control Policies for Internet File Transfer Protocols">
-<META NAME="abstract" CONTENT="	Server congestion is a major cause of frustration with the
-Internet. It is not uncommon for a server with a new release of
-popular software to be swamped by many times more clients than it can
-possibly handle. Current Internet file transfer protocols, namely FTP
-and HTTP, do not have any policy to regulate client admission.
-	In this thesis we are concerned with server admission policies
-that will improve clients' experience with servers under heavy
-load. Using a purpose-built network simulator, we compare the
-prevalent protocols with two new protocols that include policies taken
-from processor scheduling.  
-	By applying more intelligent client admission policies it is
-hoped that the quality of service on the Internet can be improved.">
-<META NAME="author" CONTENT="Simon Holmes a Court">
+<META NAME="title" CONTENT="Self-Organizing File Cabinet">
+<META NAME="abstract" CONTENT="This thesis presents a self-organized file cabinet.  This file cabinet
+uses electronic information to augment the physical world.  By using a
+scanner to transform documents into electronic files, the
+self-organized file cabinet can index the documents on visual and
+textual information.  The self-organized file cabinet helps the user
+find the documents at a later date.  The focus of this thesis is on
+the design and evaluation of the self-organized file cabinet.  User
+studies show that this tool is natural to use.">
+<META NAME="author" CONTENT="Dawn Lawrie">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -116,53 +112,50 @@ hoped that the quality of service on the Internet can be improved.">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Admission Control Policies for Internet File Transfer Protocols </b></font><br>
+<font size=+2><b> Self-Organizing File Cabinet </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Holmes.a.Court,Simon.shtml">Simon Holmes a Court</A>
+ <A HREF="../../authors/Lawrie,Dawn.shtml">Dawn Lawrie</A>
 <br>
-Dartmouth PCS-TR97-315
+Dartmouth PCS-TR97-313
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
-</P><P>
-	Server congestion is a major cause of frustration with the
-Internet. It is not uncommon for a server with a new release of
-popular software to be swamped by many times more clients than it can
-possibly handle. Current Internet file transfer protocols, namely FTP
-and HTTP, do not have any policy to regulate client admission.
-</P><P>
-	In this thesis we are concerned with server admission policies
-that will improve clients' experience with servers under heavy
-load. Using a purpose-built network simulator, we compare the
-prevalent protocols with two new protocols that include policies taken
-from processor scheduling.  
-</P><P>
-	By applying more intelligent client admission policies it is
-hoped that the quality of service on the Internet can be improved.
+This thesis presents a self-organized file cabinet.  This file cabinet
+uses electronic information to augment the physical world.  By using a
+scanner to transform documents into electronic files, the
+self-organized file cabinet can index the documents on visual and
+textual information.  The self-organized file cabinet helps the user
+find the documents at a later date.  The focus of this thesis is on
+the design and evaluation of the self-organized file cabinet.  User
+studies show that this tool is natural to use.
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-Senior Honors Thesis.  Advisor: John M. Danskin.
+Senior Honors Thesis.  Advisor: Daniela Rus.
+<P>
+The figures are included in a separate
+<a href="PCS-TR97-313-appendix.ps.Z">appendix</a>
+(1285KB uncompressed, 167KB compressed).
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR97-315.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (608KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR97-313.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (500KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR97-315.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (220KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR97-313.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (152KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR97-315.ascii">plain text</a>]
-  [<a href="TR97-315.bib">BIB</a>]
-  [<a href="TR97-315.bibtex">BibTeX</a>]
-  [<a href="TR97-315.refer">Refer</a>]
+  [<a href="TR97-313.ascii">plain text</a>]
+  [<a href="TR97-313.bib">BIB</a>]
+  [<a href="TR97-313.bibtex">BibTeX</a>]
+  [<a href="TR97-313.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Simon Holmes a Court, 
-"Admission Control Policies for Internet File Transfer Protocols."
-Dartmouth Computer Science Technical Report PCS-TR97-315,
+Dawn Lawrie, 
+"Self-Organizing File Cabinet."
+Dartmouth Computer Science Technical Report PCS-TR97-313,
 May 1997.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->

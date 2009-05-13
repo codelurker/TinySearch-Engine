@@ -1,47 +1,65 @@
-http://www.cs.dartmouth.edu/~prasad
+http://www.cs.dartmouth.edu/newsinfo/kemeny
 2
-<HTML>
-  <HEAD><TITLE>Prasad Jayanti</TITLE></HEAD>
-  <BODY>
-    
-    <h1>Prasad Jayanti, Professor and Chair of Computer Science </h1>
-    <h2>
-      <table>
-	<tr>
-	  <td>
-	    <center>
-	      <img src="../images/jayanti2.gif">
-	    </center>
-	  </td>
-	  
-	  <td>
-	    <table>
-	      <tr> <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </td> <td colspan=2> <h2> Ph.D. <a href="http://www.cs.cornell.edu/">Cornell University</a>, 1993.</h2></td> </tr>
-  	      <tr> <td> &nbsp </td> </tr>
-		<tr> <td> </td> <td> Email: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </td> <td align=center> <img src = "./email.gif"> </td> </tr>
-		<tr> <td> </td> <td> Phone: </td> <td> (603) 646-1292 </td> </tr>
-		<tr> <td> </td> <td> Fax: </td> <td> (603) 646-1672 </td> </tr>
-		<tr> <td> </td> <td valign="top"> Address: </td> <td rowspan = 3> 6211 Sudikoff Lab <br> Dartmouth College <br> Hanover, NH 03755 </td> </tr>
-	    </table>
-	    
-	  </td>
-	  
-	</tr>
-	
-      </table>
-      
-    <p>
+<html> <head>
+<title>Kemeny Prize</title>
+</head>
 
-      <table>
-	<h1>
-	<tr> <th> <h3> Professional &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </h3></th> <th align = "left"> <h3> Personal </h3></th> </tr>
-      </h1>
-	<tr> <td> <a href = "./research.html">Research Interests </a> </td> <td> Faculty Advisor of <a href = "http://www.dartmouth.edu/~shanti">Shanti</a> </td> </tr>
-	<tr> <td> <a href = "./publications.html">Publications</a> </td> <td> <a href = "http://www.dartmouth.edu/~news/releases/2002/jan/010802a.html">Vegetarianism</a> at Dartmouth </td> </tr>
-	<tr> <td> <a href = "./vita.pdf">Curriculum Vita (PDF)</a></td> </tr>
-	<tr> <td> <a href = "./courses.html">Courses Taught</a> </td> </tr>
-	<tr> <td> <a href = "./students.html">Students</a> </td> </tr>
-      </table>
+<body bgcolor=#EEEEEE>
+<h1>John G. Kemeny Computing Prize</h1>
 
-</body>
+The John G. Kemeny Computing Prize is awarded annually for innovative
+computing projects by Dartmouth undergraduates.  In addition to public
+recognition of excellence in computing, it also carries a cash award.
+
+<p><hr>
+
+<h3>2008 Winners</H3>
+
+The Dartmouth College Department of Computer Science is pleased to
+announce the 2008 winners of the Kemeny Prize for Excellence in
+Undergraduate Computing.  We commend the award winners on their
+enthusiasm for computing and their innovative uses of computational
+resources.
+
+
+<p><hr>
+
+<ul>
+<li><b>Innovation</b>
+<dl>
+	     <DT> <i>First Prize:</i></dt>
+	     <DD>  Evan L. Tice '09, "Cell Analysis: Microscopy Image Processing Software"</dd>
+</dl>
+<li><b>Software Design</b>
+<dl>
+	     <dt> <i>First Prize (tie):</i></dt>
+	     <dd> Grace H. Moy '09, Micheal Olushoga '08, Zhiyuan Zhang '10, "Location-Based Instant Messaging System"</dd><br>
+	     <dd>Benjamin B. Holelson-Meister '09, Thomas E. Norris '08, "ABT Mae*Mim: A Mobile Instant Messaging System for the Maemo PDA Platform with Location Awareness"</dd><br>
+	     <dt> <i>Honorable Mention:</i></dt>
+	     <dd> William Y. Chen '09, Edward D. Chien '09, "A Resolution-Based Theorem Prover for Linear Proofs in First-Order Predicate Logic"</dd>
+</dl>
+</ul>
+
+<p><hr>
+
+<h3>The 2008 Kemeny Prize Committee</h3>
+<ul>
+<li> Pete Johnson (PhD student, COSC)
+<li> Doug McIlroy (Prof, COSC)
+<li> Sean Smith (Prof, COSC; chair)
+</ul>
+
+<hr>
+
+<h3><a href="2008/previous.html">(Results of previous years' competitions)</a></h3>
+
+
+
+<hr>
+<IMG align="middle" SRC="/images/Dtree.gif">
+<A HREF="/">Back to Dartmouth CS Home Page</A>
+
+</body> 
+
 </html>
+nbsp&i

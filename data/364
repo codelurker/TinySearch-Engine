@@ -1,64 +1,72 @@
-http://www.cs.dartmouth.edu/~rockmore/m15f05/math15f05.html
+http://www.cs.dartmouth.edu/~rockmore/Laurie2.html
 3
-<HEAD><TITLE>MATH 116/W05</TITLE>
-<meta name="keywords" content="Dan Rockmore IMPS, Part 1, Fall,  2005">
+<HEAD>
+<TITLE>Laurie Snell 80th B-day celebration website</TITLE>
+<meta name="keywords" content="J Laurie Snell, Chance, Chance Course, Dan Rockmore">
+<META NAME="distribution" CONTENT="global">
 </HEAD>
 
-<BODY BGCOLOR="#FFFFFF"><H1>Mathematics  15.1<br>
-IMPS, Part 1
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table width="600" border="0" cellspacing="2" cellpadding="3">
+<TR>
+<TD WIDTH="125" ALIGN=left><IMG SRC="Bbd-crop.jpg" WIDTH="150"></TD>
+<TD WIDTH="125" ALIGN=left><IMG SRC="coin_toss.jpg" WIDTH="100"></TD>
+<TD WIDTH="125" ALIGN=left><IMG SRC="Cartoon_dice.gif" WIDTH="100"></TD>
+<TD WIDTH="125" ALIGN=left><IMG SRC="freeslot-machine.jpg" WIDTH="100"></TD>
+<TD WIDTH="125" ALIGN=left><IMG SRC="laurieportrait.jpg" WIDTH="120"></TD>
+</TR>
+</table>
 
-<H2> Instructor:</H2>  <a href="http://www.cs.dartmouth.edu/~rockmore"> Professor Dan Rockmore </a>
+<P><FONT COLOR="#CC0000" SIZE=+2> <B>Welcome to the Laurie Snell 80th B-day celebration 
+    website!</B></FONT></P> 
+    
+<TABLE BORDER="3">  
+<TR>            
+<TD WIDTH="450" ALIGN=center><IMG SRC="snell-zoom.jpg" WIDTH="450"></TD>
+</TR>
+</TABLE>
+<TABLE WIDTH="650" BORDER="0"> 
+<TR>
+      <TD> <font size="2" face="Arial, Helvetica, sans-serif">Archival photograph 
+        of the young and dashing Laurie (note the convertible!), setting up for 
+        a picnic with Joan and John - note that even here, Laurie is unpacking 
+        the typewriter in order to work  between sandwiches.</font> </TD>
+</TR>
+</TABLE>
+
+<P><HR WIDTH=30%></P>
+ 
+  <table width="660" border="0" cellspacing="0" cellpadding="1" bgcolor="">
+    <tr>
+    <td>
+        <h2><font face="Geneva, Arial, Helvetica, sans-serif">Three special lectures!</font></h2> 
+        <ul>
+          <li><strong>David Griffeath (U. Wisconsin)</strong><BR> 
+		  <b><font size="3" face="Courier New, Courier, mono"> <a href="http://math.dartmouth.edu/~colloq/current-term/2005-January-14_1105125706.phtml">RIGOROUS 
+            RESULTS FOR DIGITAL SNOWFLAKE GROWTH</a></font></b><br>
+            <font size="2" face="Arial, Helvetica, sans-serif">Thursday, <b>  January 13, </b>  4PM, Carson L02 tea @ 3:30</font> 
+			</P>
+          <li><strong>Craig Tracy (UC Davis)</strong><BR>
+            <b><font size="3" face="Courier New, Courier, mono"><a href="http://math.dartmouth.edu/~colloq/current-term/2005-January-14_1102437003.phtml">THE AIRY AND 
+            PEARCEY PROCESSES</a></font></b><br>
+            <font size="2" face="Arial, Helvetica, sans-serif">Friday, <b> January 14, </b>  Carson L060, 3PM</font> 
+			
+            <P><font size="2" face="Arial, Helvetica, sans-serif">
+			There will be a special "high tea" at 4 in the lounge of the Department 
+              of Mathematics in Bradley Hall to precede the main event:</font></P>
+			  
+          <li><strong>Anthony Baerlocher (Director of Game Design, International Gaming Technology)</strong><BR> 
+            <b> <font size="3" face="Courier New, Courier, mono"><a href="http://math.dartmouth.edu/~colloq/current-term/2005-January-14_1105130342.phtml">THE ART OF THE MATH BEHIND SLOT MACHINES</a></font></b><br>
+              <font size="2" face="Arial, Helvetica, sans-serif">Friday, January 14, Filene Auditorium (Moore Hall) 5PM</font>
+        </ul>
+</td>
+
+</tr>
+</table>
 
 <br>
+Laurie's <a href = "http://www.dartmouth.edu/~chance/JLSnell.html"> webpage </a>
+</center>
 
-Office: 206 Sudikoff Lab (CS building)
-
-<br> 
-
-Office hours: M,W 3-4
-
-<H2> Graduate TA: </H2>  Giulio Genovese
-
-<H2> Course Organization:</H2>
-The class meets in <b> Bradley 105 </b>  in the 11 slot - MWF 11:15 - 12:20, x-hour, Tuesday at 12. The x-hour will be used as needed, so count on it.
-
-<br>
-
-<b> Tutorial </b> is Su,T,Th, 7-9PM, in <b> 213 Dartmouth Hall </b> 
-
-<H2> <a href="http://www.cs.dartmouth.edu/~rockmore/m15f05/m15f05-syl.html"> Running Syllabus </H2></a> 
-
-
-<b> FIRST CLASS: Wednesday, 9/21 </b>
-
-<br> 
-
-<H2>Requirements/Grading: </h2> 
-
-Participation:  5%
-
-<br> 
-HW: 20%
-
-<br> 
-Exam #1: 10/12 @ 7PM, 20%
-
-<br> 
-Exam #2: TBA,   20%
-
-<br> 
-Final: TBA, 35%
-
-<br> 
-
-<h2>Sources:</h2>
-
-<li> Main text: IMPS Textbook (bound notes), by Groszek and Mook, available at the Copy Center.
-
-<br> 
-
-<br> 
-
-
-</body>
-i
+</html>

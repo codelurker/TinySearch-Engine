@@ -1,30 +1,25 @@
-http://www.cs.dartmouth.edu/~cs105/Homework/hw.05.html
+http://www.cs.dartmouth.edu/~cs105/Homework/hw.06.html
 3
 <html><head>
-<title>CS105 02F: Homework 5</title>
+<title>CS105 02F: Homework 6</title>
 </head><body>
 
 <h1>
 <a href="index.html">CS105 02F</a>:
-<a href="homework.html">Homework</a> 05
+<a href="homework.html">Homework</a> 06
 </h1>
 <strong>Assigned:</strong>
-Wednesday   October 30, 2002<br>
-<strong>Due:</strong>
 Wednesday   November 6, 2002<br>
+<strong>Due:</strong>
+Wednesday   November 13, 2002<br>
 
 <ol>
-<li> MR Problem 2.1 (p. 41)
-<li> MR Problem 2.3 part (b) (p. 41)
-<li> MR Problem 2.6 (p. 42) You might want to review deterministic 
-     sorting lower bounds from in CLRS.
-<li> MR Problem 2.11 (p. 42)
-</ol> 
-
-<strong>Extra Credit:</strong>
-
-<ol>
-<li> MR Problem  2.4 (p. 41)
+<li> MR Exercise 3.7 (p. 52).  You may also make use of the fact that
+     when n is prime, for any a not divisible by n the numbers ai (mod n)
+     for i = 0, 1, ..., n-1 are all different.
+<li> MR Problem 3.1 (p. 64)
+<li> MR Problem 3.4 (p. 64)
+<li> CLRS 5-2
 </ol> 
 
 

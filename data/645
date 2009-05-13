@@ -1,30 +1,28 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR97-318
+http://www.cs.dartmouth.edu/reports/abstracts/TR97-315
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR97-318 </TITLE>
-<META NAME="description" CONTENT="An Information Retrieval System for Performing Hierarchical Document Clustering ">
-<META NAME="number" CONTENT="PCS-TR97-318">
+<TITLE> Dartmouth PCS-TR97-315 </TITLE>
+<META NAME="description" CONTENT="Admission Control Policies for Internet File Transfer Protocols">
+<META NAME="number" CONTENT="PCS-TR97-315">
 <META NAME="year" CONTENT="1997">
-<META NAME="title" CONTENT="An Information Retrieval System for Performing Hierarchical Document Clustering ">
-<META NAME="abstract" CONTENT="	This thesis presents a system for web-based information
-retrieval that supports precise and informative post-query
-organization (automated document clustering by topic) to decrease real
-search time on the part of the user.  Most existing Information
-Retrieval systems depend on the user to perform intelligent, specific
-queries with Boolean operators in order to minimize the set of
-returned documents.  The user essentially must guess the appropriate
-keywords before performing the query.  Other systems use a vector
-space model which is more suitable to performing the document
-similarity operations which permit hierarchical clustering of returned
-documents by topic.  This allows "post query" refinement by the user.
-The system we propose is a hybrid beween these two systems,
-compatibile with the former, while providing the enhanced document
-organization permissable by the latter.">
-<META NAME="author" CONTENT="Eric Hagen">
+<META NAME="title" CONTENT="Admission Control Policies for Internet File Transfer Protocols">
+<META NAME="abstract" CONTENT="	Server congestion is a major cause of frustration with the
+Internet. It is not uncommon for a server with a new release of
+popular software to be swamped by many times more clients than it can
+possibly handle. Current Internet file transfer protocols, namely FTP
+and HTTP, do not have any policy to regulate client admission.
+	In this thesis we are concerned with server admission policies
+that will improve clients' experience with servers under heavy
+load. Using a purpose-built network simulator, we compare the
+prevalent protocols with two new protocols that include policies taken
+from processor scheduling.  
+	By applying more intelligent client admission policies it is
+hoped that the quality of service on the Internet can be improved.">
+<META NAME="author" CONTENT="Simon Holmes a Court">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -118,53 +116,53 @@ organization permissable by the latter.">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> An Information Retrieval System for Performing Hierarchical Document Clustering  </b></font><br>
+<font size=+2><b> Admission Control Policies for Internet File Transfer Protocols </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Hagen,Eric.shtml">Eric Hagen</A>
+ <A HREF="../../authors/Holmes.a.Court,Simon.shtml">Simon Holmes a Court</A>
 <br>
-Dartmouth PCS-TR97-318
+Dartmouth PCS-TR97-315
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
 </P><P>
-	This thesis presents a system for web-based information
-retrieval that supports precise and informative post-query
-organization (automated document clustering by topic) to decrease real
-search time on the part of the user.  Most existing Information
-Retrieval systems depend on the user to perform intelligent, specific
-queries with Boolean operators in order to minimize the set of
-returned documents.  The user essentially must guess the appropriate
-keywords before performing the query.  Other systems use a vector
-space model which is more suitable to performing the document
-similarity operations which permit hierarchical clustering of returned
-documents by topic.  This allows "post query" refinement by the user.
-The system we propose is a hybrid beween these two systems,
-compatibile with the former, while providing the enhanced document
-organization permissable by the latter.
+	Server congestion is a major cause of frustration with the
+Internet. It is not uncommon for a server with a new release of
+popular software to be swamped by many times more clients than it can
+possibly handle. Current Internet file transfer protocols, namely FTP
+and HTTP, do not have any policy to regulate client admission.
+</P><P>
+	In this thesis we are concerned with server admission policies
+that will improve clients' experience with servers under heavy
+load. Using a purpose-built network simulator, we compare the
+prevalent protocols with two new protocols that include policies taken
+from processor scheduling.  
+</P><P>
+	By applying more intelligent client admission policies it is
+hoped that the quality of service on the Internet can be improved.
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-Senior Honors Thesis.  Advisor: Javed Aslam.
+Senior Honors Thesis.  Advisor: John M. Danskin.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR97-318.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (508KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR97-315.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (608KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR97-318.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (148KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR97-315.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (220KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR97-318.ascii">plain text</a>]
-  [<a href="TR97-318.bib">BIB</a>]
-  [<a href="TR97-318.bibtex">BibTeX</a>]
-  [<a href="TR97-318.refer">Refer</a>]
+  [<a href="TR97-315.ascii">plain text</a>]
+  [<a href="TR97-315.bib">BIB</a>]
+  [<a href="TR97-315.bibtex">BibTeX</a>]
+  [<a href="TR97-315.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Eric Hagen, 
-"An Information Retrieval System for Performing Hierarchical Document Clustering ."
-Dartmouth Computer Science Technical Report PCS-TR97-318,
+Simon Holmes a Court, 
+"Admission Control Policies for Internet File Transfer Protocols."
+Dartmouth Computer Science Technical Report PCS-TR97-315,
 May 1997.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->

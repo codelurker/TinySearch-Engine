@@ -1,17 +1,37 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR96-289
+http://www.cs.dartmouth.edu/reports/abstracts/TR96-287
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR96-289 </TITLE>
-<META NAME="description" CONTENT="Segmenting Workstation Screen Images">
-<META NAME="number" CONTENT="PCS-TR96-289">
+<TITLE> Dartmouth PCS-TR96-287 </TITLE>
+<META NAME="description" CONTENT="Implementation and Analysis of Software Based Fault Isolation">
+<META NAME="number" CONTENT="PCS-TR96-287">
 <META NAME="year" CONTENT="1996">
-<META NAME="title" CONTENT="Segmenting Workstation Screen Images">
-<META NAME="abstract" CONTENT="None.">
-<META NAME="author" CONTENT="Denis M. Serenyi">
+<META NAME="title" CONTENT="Implementation and Analysis of Software Based Fault Isolation">
+<META NAME="abstract" CONTENT="   Extensible applications rely upon user-supplied, untrusted modules
+to extend their functionality.  To remain reliable, applications must
+isolate themselves from user modules.  One method places each user
+module in a separate address space (process), which uses hardware
+virtual memory support to isolate the user process.  Costly
+inter-process communication, however, prohibits frequent communication
+between the application and the untrusted module.  We implemented and
+analyzed a software method for isolating an application from user
+modules.  The technique uses a single address space.  We provide a
+logical address space and per-module access to system resources for
+each module.  Our software technique is a two-step process.  First, we
+augment a module's code so that it cannot access any address outside
+of an assigned range.  Second, we prevent the module from using system
+calls to access resources outside of its fault domain.
+   This method for software isolation has two particular advantages
+over processes.  First, for frequently communicating modules, we
+significantly reduce context switch time.  Thus, we demonstrate
+near-optimal inter-module communication using software fault
+isolation. Second, our software-based techniques provide an efficient
+and expedient solution in situations where only one address space is
+available (e.g., kernel, or a single-address-space operating system).">
+<META NAME="author" CONTENT="Scott M. Silver">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -105,39 +125,61 @@ http://www.cs.dartmouth.edu/reports/abstracts/TR96-289
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Segmenting Workstation Screen Images </b></font><br>
+<font size=+2><b> Implementation and Analysis of Software Based Fault Isolation </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Serenyi,Denis.M..shtml">Denis M. Serenyi</A>
+ <A HREF="../../authors/Silver,Scott.M..shtml">Scott M. Silver</A>
 <br>
-Dartmouth PCS-TR96-289
+Dartmouth PCS-TR96-287
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
-None.
+</P><P>
+   Extensible applications rely upon user-supplied, untrusted modules
+to extend their functionality.  To remain reliable, applications must
+isolate themselves from user modules.  One method places each user
+module in a separate address space (process), which uses hardware
+virtual memory support to isolate the user process.  Costly
+inter-process communication, however, prohibits frequent communication
+between the application and the untrusted module.  We implemented and
+analyzed a software method for isolating an application from user
+modules.  The technique uses a single address space.  We provide a
+logical address space and per-module access to system resources for
+each module.  Our software technique is a two-step process.  First, we
+augment a module's code so that it cannot access any address outside
+of an assigned range.  Second, we prevent the module from using system
+calls to access resources outside of its fault domain.
+</P><P>
+   This method for software isolation has two particular advantages
+over processes.  First, for frequently communicating modules, we
+significantly reduce context switch time.  Thus, we demonstrate
+near-optimal inter-module communication using software fault
+isolation. Second, our software-based techniques provide an efficient
+and expedient solution in situations where only one address space is
+available (e.g., kernel, or a single-address-space operating system).
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
 A Senior Undergraduate Honors Thesis in Computer Science.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR96-289.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (932KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-287.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (136KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR96-289.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (404KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-287.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (104KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR96-289.ascii">plain text</a>]
-  [<a href="TR96-289.bib">BIB</a>]
-  [<a href="TR96-289.bibtex">BibTeX</a>]
-  [<a href="TR96-289.refer">Refer</a>]
+  [<a href="TR96-287.ascii">plain text</a>]
+  [<a href="TR96-287.bib">BIB</a>]
+  [<a href="TR96-287.bibtex">BibTeX</a>]
+  [<a href="TR96-287.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Denis M. Serenyi, 
-"Segmenting Workstation Screen Images."
-Dartmouth Computer Science Technical Report PCS-TR96-289,
+Scott M. Silver, 
+"Implementation and Analysis of Software Based Fault Isolation."
+Dartmouth Computer Science Technical Report PCS-TR96-287,
 June 1996.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->

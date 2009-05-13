@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~cbk/bio/index.html
+http://www.cs.dartmouth.edu/~cbk/bio/schedule.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
@@ -25,169 +25,138 @@ http://www.cs.dartmouth.edu/~cbk/bio/index.html
 </div>
 
 <div class="navigation">
-  <a href="index.html" class="navhere">About</a>
-  <a href="schedule.html" class="navthere">Schedule</a>
+  <a href="index.html" class="navthere">About</a>
+  <a href="schedule.html" class="navhere">Schedule</a>
 </div>
 
-<div class="content">
+<div class="content"> 
 
-<h2>Course description</h2> 
+<table class="schedule">
 
-<p>Computation is vital for modern molecular biology, helping
-scientists to model, predict the behaviors of, and control the
-molecular machinery of the cell.  This course will study algorithmic
-challenges in analyzing biomolecular <i>sequences</i> (what genes
-encode an organism, and how are genes related across organisms?),
-<i>structures</i> (what do the proteins constructed for these genes
-look like, and what does that tell us about their mechanisms?), and
-<i>functions</i> (what do these things do, and how do they interact
-with each other in doing it?).  The course is application-driven, but
-focused on the underlying algorithms and information processing
-techniques, employing approaches from search, optimization, pattern
-recognition, and so forth.</p>
+<tr><th id="date">Date</th><th id="topics">Topics</th><th id="refs">References</th><th id="out">Out</th><th id="due">Due</th></tr>
 
-<p>For a beautiful visualization of the underlying molecules, see
-<i>The Inner Life of the Cell</i>, with either <a
-href="http://www.studiodaily.com/main/searchlist/6850.html">musical
-accompaniment</a> or <a
-href="http://multimedia.mcb.harvard.edu/anim_innerlife_Hi.html">narration</a>.</p>
+<tr valign="top" class="on"><td><a href="notes/03-25-intro.pdf">Mar 25</a></td><td>Intro to course, alignment, and python</td><td><ul class="refs">
+<li>Hunter, <a href="http://compbio.uchsc.edu/Hunter/01-Hunter.pdf">Introduction to molecular biology for the computer scientist</a></li>
+<li>CLRS, <a href="http://mitpress.mit.edu/algorithms/">Introduction to Algorithms</a>, Ch. 15</li>
+<li>Python <a href="http://www.python.org/doc/">docs</li>
+</ul></td><td>HW 0</td><td></td></tr>
 
-<p>Here's a fun little <a href="flyer.pdf">flyer</a> for CS types.</p>
+<tr valign="top" class="on"><td><a href="notes/03-27-pair.pdf">Mar 27</a></td><td>Pairwise sequence alignment</td><td><ul class="refs">
+<li>General tutorial by <a href="http://www.people.virginia.edu/~wrp/papers/ismb2000.pdf">Pearson</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/BLAST/">BLAST</a> | <a href="http://www.ncbi.nlm.nih.gov/BLAST/tutorial/">tutorial</a></li>
+<li>Literature: <a href="notes/needleman-wunsch-1970.pdf">Needleman &amp; Wunsch</a> and <a href="notes/gotoh-1981.pdf">Gotoh</a>; <a href="notes/smith-waterman-1981.pdf">Smith &amp; Waterman</a>; <a href="http://links.jstor.org/sici?sici=0027-8424%2819880415%2985%3A8%3C2444%3AITFBSC%3E2.0.CO%3B2-4">Pearson &amp; Lipman</a> (FASTA); <a href="notes/altschul-et-al-1990.pdf">Altschul et al.</a> and <a href="http://nar.oupjournals.org/cgi/reprint/25/17/3389.pdf">Altschul et al.</a> (BLAST)</li>
+</ul></td><td></td><td></td></tr>
 
-<p>To get a feel for the content (although it will be revised), see the <a href="05fall/">previous version</a>.</p>
+<tr valign="top" class="off"><td><a href="notes/04-01-hmm.pdf">Apr 1</a></td><td>Hidden Markov models</td><td><ul class="refs">
+<li>Eddy, <a href="http://bioinformatics.oupjournals.org/cgi/content/abstract/14/9/755">"Profile hidden Markov models"</a></li>
+<li>Krogh, <a href="http://people.binf.ku.dk/krogh/publications/ps/Krogh98a.pdf">"An introduction to hidden Markov models for biological sequences"</a></li>
+<li>Tutorial by <a href="http://www.soe.ucsc.edu/research/compbio/ismb99.tutorial.html">Cline, Barrett, and Karplus</a></li>
+<li>Rabiner, <a href="http://ieeexplore.ieee.org/iel5/5/698/00018626.pdf?isNumber=698&prod=JNL&arnumber=00018626">"A tutorial on hidden Markov models and selected applications in speech recognition"</a></li>
+</ul></td><td>HW 1</td><td>HW 0</td></tr>
 
-<a name="admin"></a>
-<h2>Administrative info</h2>
+<tr valign="top" class="off"><td><a href="notes/04-03-struct-align.pdf">Apr 3</a></td><td>Structure alignment</td><td><ul class="refs">
+<li>Protein structure: <a href="http://www.pdb.org">PDB</a> (see education, molecule of month); <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.section.388">chapter</a> from <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4">MBOC</a></li>
+<li>Literature: <a href="http://links.jstor.org/sici?sici=0036-8075%2819960802%293%3A273%3A5275%3C595%3AMTPU%3E2.0.CO%3B2-I">Holm &amp; Sander</a> (DALI); <a href="http://peds.oxfordjournals.org/cgi/content/abstract/11/9/739">Shindyalov &amp; Bourne</a> (CE); <a href="http://bioinformatics.oupjournals.org/cgi/content/abstract/19/suppl_2/ii246">Ye &amp; Godzik</a> (FATCAT)</li>
+<li>Sites: <a href="http://www.cathdb.info/">CATH</a>; <a href="http://scop.mrc-lmb.cam.ac.uk/scop/">SCOP</a>; <a href="http://ekhidna.biocenter.helsinki.fi/dali_server/">DALI</a>; <a href="http://cl.sdsc.edu/ce.html">CE</a>; <a href="http://fatcat.burnham.org">FATCAT</a></li>
+</ul></td><td></td><td></td></tr>
 
-<dl>
-<dt>Instructor</dt>
-<dd><a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> |
-250 Sudikoff | office hour: after class and by appointment</dd>
+<tr valign="top" class="on"><td><a href="notes/04-08-struct-predict.pdf">Apr 8</a></td><td>Structure prediction</td><td><ul class="refs">
+<li>Literature: <a href="http://www.sciencedirect.com/science/article/B6WK7-45PKK87-P/1/ad6ea9267e6e06347d1b08711b24a3cc">Sali &amp; Blundell</a> (MODELLER); <a href="http://dx.doi.org/10.1006/jmbi.1996.0053">Lathrop &amp; Smith</a> (threading); <a href="http://www.sciencedirect.com/science/article/B6WK7-45VGF7T-N/1/797a5607c574d397f14b45fa4a0e8bdd">Simons et al.</a> (Rosetta); <a href="http://www.sciencedirect.com/science/article/B6WK7-45S498H-77/1/b2c194ac3b6c311010c435c8367346c7">Bystroff &amp; Baker</a> (I-Sites); <a href="http://www.sciencedirect.com/science/article/B6WK7-45M7T6C-46/1/0d29e43b6c34680c0effbb316c64da50">Bystroff, Thorsson, &amp; Baker</a> (HMMSTR)</li>
+<li>Sites: <a href="http://predictioncenter.org/">CASP</a>; <a href="http://www.salilab.org/modeller/modeller.html">MODELLER</a> and <a href="http://modbase.compbio.ucsf.edu/">ModBase</a>; <a href="http://bioinfo.icm.edu.pl/services/meta">fold prediction metaserver</a>; <a href="http://robetta.bakerlab.org/">Robetta</a> and <a href="http://boinc.bakerlab.org/rosetta/">Rosetta @ home</a></li>
+</ul></td><td>HW 2</td><td>HW 1</td></tr>
 
-<dt>Teaching Assistant</dt>
-<dd><a href="http://www.cs.dartmouth.edu/~priya/">Priya Natarajan</a> |
-205 Sudikoff | office hour: MW 3-4</dd>
+<tr valign="top" class="on"><td><a href="notes/04-10-array.pdf">Apr 10</a></td><td>DNA Microarrays</td><td><ul class="refs">
+<li><a href="http://www.bio.davidson.edu/courses/genomics/chip/chip.html">Microarrays</a> (flash animation)</li>
+<li>Literature: <a href="http://www.pnas.org/cgi/content/abstract/95/25/14863">Eisen et al.</a> (hierarchical); <a href="http://www.pnas.org/cgi/content/abstract/96/6/2907">Tamayo et al.</a> (SOM); <a href="ftp://ftp.sdsc.edu/pub/sdsc/biology/ISMB00/157.pdf">Cheng &amp; Church</a> (bicluster); <a href="http://www.pnas.org/cgi/content/abstract/97/18/10101">Alter et al.</a> (SVD)</li>
+</ul></td><td></td><td></td></tr>
 
-<dt>Announcements and discussion board</dt>
-<dd>Available on <a href="http://www.dartmouth.edu/~blackboard/">Blackboard</a> </dd>
+<tr valign="top" class="off"><td class="cancel">Apr 15</td><td class="cancel">No class</td><td><a href="http://www.team-psa.com/NIGMS-BottlenecksWorkshop/home.asp">Protein Structure Initiative "Bottlenecks"</a></td><td></td><td></td></tr>
 
-<dt>Lectures</dt>
-<dd>2A | TuTh 2-3:50 | Wilder 102</dd>
+<tr valign="top" class="off"><td><a href="notes/04-17-classify.pdf">Apr 17</a></td><td>Phenotype classification</td><td><ul class="refs">
+<li>Literature: <a href="http://www.sciencemag.org/cgi/content/full/286/5439/531">Golub et al.</a> (microarray, voting); <a href="http://www.pnas.org/cgi/content/abstract/97/1/262">Brown et al.</a> (microarray, SVM); <a href="http://www.liebertonline.com/doi/abs/10.1089%2F106652703322756159">Lilien, Farid, &amp; Donald</a> (proteomics, PCA/FLD)</li>
+<li>Surveys: <a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=17981580">Ressom et al.</a> (phenotype classification); <a href="http://www.springerlink.com/link.asp?id=q87856173126771q">Burges</a> (SVM); <a href="http://biochem.annualreviews.org/cgi/content/abstract/70/1/437">Mann et al.</a> (proteomics)</li>
+</ul></td><td>HW 3</td><td>HW 2</td></tr>
 
-<dt>Textbook</dt> 
-<dd class="para">None required.  While there are several great
-books out there covering some of the material, I haven't found one
-that comprehensively introduces the topics we'll cover (biomolecular
-sequence, structure, and function) from a computational perspective.
-Thus I'll distribute lecture notes and provide references to the
-literature.</dd>
+<tr valign="top" class="on"><td><a href="notes/04-22-motif.pdf">Apr 22</a></td><td>Sequence motifs</td><td><ul class="refs">
+<li>Literature: <a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/14/1/55">Rigoutsos &amp; Floratos</a> (Teiresias), <a href="http://www.sdsc.edu/~tbailey/papers/ismb94.pdf">Bailey &amp; Elkan</a> (MEME); <a href="http://links.jstor.org/sici?sici=0035-9246%281977%2939%3A1%3C1%3AMLFIDV%3E2.0.CO%3B2-Z">Dempster et al.</a> (EM)</li>
+<li>Sites: <a href="http://ca.expasy.org/prosite/">PROSITE</a>; <a href="http://meme.sdsc.edu/">MEME</a></li>
+</ul></td><td></td><td></td></tr>
 
-<dt>Expected background</dt>
-<dd class="para">This is an introductory course targeted at
-undergraduate and graduate students in computer science.  A background
-in biology is not required, but students should be interested in
-catching up quickly on some basic molecular biology and biochemistry.
-I also very much welcome and encourage the participation of students
-from the life sciences and other related disciplines.  Naturally, a
-basic understanding of and interest in computational issues is
-expected.  Please contact me to discuss your background and
-interests.</dd>
+<tr valign="top" class="on"><td><a href="notes/04-24-phylo.pdf">Apr 24</a></td><td>Phylogeny and multiple sequence alignment</td><td><ul class="refs">
+<li>Surveys: <a href="http://kim.bio.upenn.edu/~jkim/media/ISMBtutorial.pdf">Kim &amp; Warnow</a> (phylogeny); <a href="http://www.nature.com/nrg/journal/v4/n4/execsumm/nrg1044.html">Holder &amp; Lewis</a> (phylogeny); <a href="http://dx.doi.org/10.1016/j.sbi.2006.04.004">Edgar &amp; Batzoglou</a> (MSA)</li>
+<li>Literature: <a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=7984417">Thompson et al.</a> (ClustalW)</li>
+<li>Sites: <a href="http://tolweb.org/tree/phylogeny.html">Tree of Life</a>, <a href="http://www.ebi.ac.uk/clustalw/">ClustalW</a>, <a href="http://evolution.genetics.washington.edu/phylip.html">Phylip</a></li>
+</ul></td><td></td><td>HW 3</td></tr>
 
-</dl>
+<tr valign="top" class="off"><td><a href="notes/04-29-design.pdf">Apr 29</a></td><td>Structure-based protein design</td><td><ul class="refs">
+<li><a href="http://www.sciencemag.org/cgi/content/abstract/278/5335/82">Dahiyat &amp; Mayo</a> (DEE-based); <a href="http://www.sciencemag.org/cgi/content/abstract/302/5649/1364">Kuhlman et al.</a> (Rosetta-based); <a href="http://www3.interscience.wiley.com/cgi-bin/abstract/72506396/START">Pierce et al.</a> (DEE extension); <a href="http://www.sciencedirect.com/science/article/B6WK7-45F51K8-H6/1/b3a376837443983722784471fb5bc8bf">Voigt et al.</a> (comparison)</li>
+</ul></td><td></td><td></td></tr>
 
-<a name="grading"></a>
-<h2>Coursework and grading</h2>
+<tr valign="top" class="off"><td><a href="notes/05-01-dock.pdf">May 1</a></td><td>Docking</td><td><ul class="refs">
+<li>Literature: <a href="http://www3.interscience.wiley.com/journal/112726585/abstract">Sousa et al.</a> (survey); <a href="http://www.sciencedirect.com/science/article/B6WK7-45N4X8G-5C/1/58e09569da53675c1f1c51a1975c41c3">Gabb et al.</a> (FTDock); <a href="http://www3.interscience.wiley.com/journal/66000929/abstract">Norel et al.</a> (geom hashing)</li>
+<li>Sites: <a href="http://dock.compbio.ucsf.edu/">DOCK</a>;
+<a href="http://autodock.scripps.edu/">AutoDock</a>;
+<a href="http://www.sbg.bio.ic.ac.uk/docking/">FT Dock</a>;
+<a href="http://zlab.bu.edu/zdock/index.shtml">ZDock</a>;
+<a href="http://capri.ebi.ac.uk/">CAPRI</a></li>
+</ul></td><td></td><td></td></tr>
 
-<p>The course seeks to provide broad exposure to some important
-algorithmic challenges and approaches in bioinformatics.  The lectures
-and readings will provide a fairly general (for a ten-week course)
-survey of the field.  Students will then implement and apply some of
-the techniques.</p>
+<tr valign="top" class="on"><td class="quiz">May 6</td><td class="quiz">Midterm</td><td></td><td></td><td></td></tr>
 
-<p>Grades are derived from the following:</p>
-<ul class="bullet">
-  <li>Homeworks: 50%</li>
-  <li>Final project: 25%</li>
-  <li>Midterm exam: 20%</li>
-  <li>Participation: 5%</li>
-</ul>
+<tr valign="top" class="on"><td><a href="notes/05-08-ppi.pdf">May 8</a></td><td>Protein interaction networks</td><td><ul class="refs">
+<li>Signaling: <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.section.2743">chapter</a> from <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4">MBOC</a></li>
+<li>Literature: <a href="http://www.nature.com/nrg/journal/v5/n2/abs/nrg1272.html">Barabasi &amp; Oltvai</a> (network analysis review); <a href="http://www.sciencemag.org/cgi/content/full/295/5553/321">Tong et al.</a> (SH3 analysis); <a href="http://www.pnas.org/cgi/content/full/100/20/11394">Kelley et al.</a> (PathBlast); <a href="http://www.genome.org/cgi/content/full/16/9/1169">Flannick et al.</a> (Graemlin)</li>
+<li>Sites: <a href="http://dip.doe-mbi.ucla.edu/">DIP</a></li>
+</ul></td><td>Project</td><td></td></tr>
 
-<p>The homeworks are to be done individually; see the honor code
-policies below regarding discussion.  We encourage students to work in
-groups for the final project.</p>
+<tr valign="top" class="off"><td><a href="notes/05-13-reg.pdf">May 13</a></td><td>Gene regulatory networks</td><td><ul class="refs">
+<li>Regulation: <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.section.1269">chapter</a> from <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4">MBOC</a></li>
+<li>Bayes nets: <a href="http://citeseer.ist.psu.edu/heckerman96tutorial.html">Heckerman</a>; <a href="http://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf">Koller et al.</a>; <a href="http://www.ai.mit.edu/~murphyk/Bayes/bayes.html">Murphy</a></li>
+<li>Literature: <a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v22/n3/abs/ng0799_281.html&dynoptions=doi1035895836">Tavazoie et al.</a>; <a href="http://bioinformatics.oupjournals.org/cgi/reprint/19/suppl_1/i273">Segal et al.</a> and <a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v34/n2/abs/ng1165.html&dynoptions=doi1067522722">Segal et al.</a></li>
+</ul></td><td></td><td>Project proposal</td></tr>
 
-<p>Homework and project assignments are to be turned in via <a
-href="http://www.dartmouth.edu/~blackboard/">Blackboard</a>
-<em>before</em> class on the due date.  Ample time is provided for
-each assignment, so in general, late submissions will not be accepted.
-Under extenuating circumstances (prolonged illness, death in the
-family, etc.), arrangements must be made with the instructor
-<em>before</em> the due date.</p>
+<tr valign="top" class="off"><td>May 15</td><td>Systems biology<br/>(paper discussion)</td><td><ul class="refs">
+<li><a href="http://www.sciencemag.org/cgi/content/full/292/5518/929">Ideker et al.</a></li>
+<li>More at the <a href="http://www.systemsbiology.org/">Institute for Systems Biology</a></li>
+</ul></td><td>HW 4</td><td></td></tr>
 
-<p>For exceptional work, it is possible to receive extra credit
-points.  Extra credit is tabulated separately from the regular grades
-on homework and exams, and is used to adjust final grades after the
-final average is computed.  Thus extra credit is always optional, and
-not doing any extra credit work will never reduce your final grade,
-even if everyone else in the class does a lot of extra credit.</p>
+<tr valign="top" class="on"><td>May 20</td><td>Genome assembly<br/>(paper discussion)</td><td><ul class="refs">
+<li><a href="http://www.pnas.org/cgi/content/abstract/98/17/9748">Pevzner, Tang, &amp; Waterman</a></li>
+<li>Background: <a href="http://www.cbcb.umd.edu/research/assembly_primer.shtml">Genome sequence assembly primer</a>; <a href="http://www.ornl.gov/sci/techresources/Human_Genome/home.shtml">human genome project</a>; <a href="http://www.sciencemag.org/cgi/content/full/311/5767/1544">The Race for the $1000 genome</a></li>
+</ul></td><td></td><td>Project update</td></tr>
 
-<a name="honor"></a>
-<h2>Honor code</h2>
+<tr valign="top" class="on"><td>May 22</td><td>Protein-protein interactions<br/>(paper discussion)</td><td><ul class="refs">
+<li><a href="http://genomebiology.com/2007/8/9/R192">Wang et al.</a>; be sure to get the <a href="http://genomebiology.com/2007/8/9/R192/additional/">additional files</a></li>
+</ul></td><td></td><td></td></tr>
 
-<p>Dartmouth's honor code applies to this course, and academic
-misconduct policies will be strictly enforced.  If you have questions,
-ask!</p>
+<tr valign="top" class="off"><td>May 27</td><td>Project presentations</td><td><ul class="refs">
+<li>Anuj &amp; Sahil</li>
+<li>Jarman &amp; Riley</li>
+<li>Jeff &amp; Rob</li>
+<li>Paopao, Stephanie, &amp; Tom</li>
+</ul></td><td></td><td>HW 4</td></tr>
 
-<p>You may discuss the homework with other current CS 43/143 students,
-but your submitted homework must be entirely your own.  As part of a
-discussion, you may show (in person) another student your work.
-However, your code and any other solutions you submit must be created,
-written/typed, and documented by you alone.  You may not copy anything
-directly from another student's work.  For example, copying a portion
-of someone else's solution onto a piece of paper would violate the
-honor code, even if you eventually turn in a different answer.
-Similarly, e-mailing a portion of your code to another student, or
-posting it on-line for them to see would violate the honor code.
-Although all students must create and type in their own code, you may
-help other students debug their programs once you and they have
-already written your programs.  We do encourage discussion of homework
-assignments between students, subject to these rules.  Note that
-discussion between two students will be most useful when both students
-have already made serious attempts to solve the problem on their
-own.</p>
+<tr valign="top" class="off"><td>May 29</td><td>Project presentations, <span style="color:red">110 Moore</span></td><td><ul class="refs">
+<li>Bornika &amp; Himanshu</li>
+<li>Clea &amp; Jon</li>
+<li>Evan, Jeff, &amp; Taylor</li>
+<li>Jeremy &amp; Tiger</li>
+</ul></td><td></td><td></td></tr>
 
-<p>If you make use of any code that is not your own, you must clearly
-attribute the source of the code with clear comments in the code that
-you submit.  You do not need to acknowledge discussion with other
-students on your submitted work.  Proper respect for copyright laws as
-applied to printed materials and software products is subsumed by
-Dartmouth College's <a
-href="http://www.dartmouth.edu/comp/about/policies/">Computing
-Policies</a>.</p>
+</table>
 
-<p>The final project may be conducted individually or in a group.
-Here, collaboration is encouraged.  Building on existing code is
-acceptable, subject to the above comments regarding attribution.</p>
-
-<p>On the quiz, you may not collaborate with, copy from, or otherwise
-share information with anyone.  (You may of course ask questions of
-the course staff.)</p>
-
-<a name="access"></a>
-<h2>Disabilities</h2>
-
-<p>Students with disabilities enrolled in this course and who may need
-disability-related classroom accommodations are encouraged to make an
-appointment to see the instructor before the end of the second week of
-the term. All discussions will remain confidential, although the <a
-href="http://www.dartmouth.edu/~accessibility/">Student Accessibility
-Services</a> office may be consulted to discuss appropriate
-implementation of any accommodation requested.</p>
+<p>This page will be updated regularly with current/upcoming
+topics. The details are subject to change and are provided without
+warranty. Notes will be provided for each class, linked from the date.
+Notes and some materials may be password-restricted; the username and
+password are available on Blackboard.  Feedback is appreciated, from
+typos and broken links, to suggestions for more detailed explanations,
+to pointers to supporting materials "out there".</p>
 
 </div>
 
 <div class="footer">
-<!-- hhmts start --> Last modified: Fri Mar 28 20:07:26 EDT 2008 <!-- hhmts end -->
+<!-- hhmts start --> Last modified: Tue May 20 18:47:30 EDT 2008 <!-- hhmts end -->
 </div>
 
 </div>
@@ -199,3 +168,4 @@ implementation of any accommodation requested.</p>
 
 </body>
 </html>
+bodyá

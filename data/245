@@ -1,570 +1,63 @@
-http://www.cs.dartmouth.edu/~tanzeem/pubs/pubs.html
+http://www.cs.dartmouth.edu/~dfk/house/deck
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
-<head>
-
-
-  
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<!-- #BeginEditable "doctitle" -->
-
-
-  
-
-
-
-  
-  <title></title>
-<!-- #EndEditable -->
-  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
-
-
-  
-  <style type="text/css">
-.style1 {
-color: #006699;
-}
-.style2 {
-margin-right: 41px;
-}
-.style3 {
-color: #808080;
-}
-  </style>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<html> <head>
+<title>House phase 7</title>
 </head>
 
-
 <body>
+<center>
+<h1><a href="./">Dave and Pam's house</a></h1>
+
+<h3>Back to
+  <em><a href="../phase6.html">Phase 6</a>: move in</em></h3>
+
+<hr>
+
+<h3>Phase 7: Deck and Garage addition</h3>
+
+<em>Click on a picture for a closeup view.</em><p>
+I don't have many pix here yet, just the finished product.
 
 
-<!-- Begin Container -->
-<div id="container"><!-- Begin Masthead -->
-<div id="masthead">
-<h1><a href="#">Tanzeem Choudhury</a></h1>
+<h3>Summer 1998 </h3>
 
-
-<h3>Assistant Professor</h3>
-
-
-<h4>Computer Science, Dartmouth College</h4>
-
-
-</div>
-
-
-<!-- End Masthead --><!-- Begin Navigation -->
-<div id="navigation">
-<ul>
-
-
-  <li><a href="../index.html">About</a></li>
-
-
-  <li><a href="pubs.html">Publications</a></li>
-
-
-  <li><a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
-
-
-  <li><a href="../students/students.html">Students</a></li>
-
-
-  <li><a href="../teaching/teaching.html">Teaching</a></li>
-
-
-  <li><a href="../press/press.html">Press</a></li>
-
-
-  <li><a href="../links/links.html">Links</a></li>
-
-
-  <li><a href="../contact/contact.html">Contact</a></li>
-
-
-</ul>
-
-
-</div>
-
-
-<!-- End Navigation --><!-- Begin content_container -->
-<div id="content_container"><!-- Begin Left Column -->
-<div id="column_left" class="style2"><!-- #BeginEditable "content" -->
-<p><span class="style3">This material is presented
-to ensure timely dissemination of scholarly and technical work and may
-not be reposted without the explicit permission of the copyright
-holder. Copyright and all rights therein are retained by authors or by
-other copyright holders. </span> <br />
-
-
-<br />
-
-
-</p>
-
-
-<p><strong>Refered Conference and Journal Papers</strong></p>
-
-
-<p><strong>2009</strong><br />
-
-
-</p>
-<p>Hong Lu, Wei Pan, Nic Lane, Tanzem Choudhury, and Andrew Campbell. <a href="mobisys09_soundsense.pdf">&nbsp;Sound Sense: Scalable Sound Sensing for People-Centric Applications on Mobile Phones</a>. To appear in Mobisys 2009. &nbsp;June 2009, Krakow, Poland.</p>
+<a href=house.jpg><img src=half/house.jpg></a><br>
+The new look: a garage (and mudroom, which is hiding), a walkway,
+and the side deck. 
 <p>
-Beverly Harrison, Sunny C0nsolvo, and Tanzeem Choudhury. <a href="AISE_Chapter_Choudhury.pdf">Using Multi-modal Sensing for Human Activity Modeling in the Real World</a>. To appear in the Handbook of Ambient Intelligence and Smart Environments, Springer Verlag 2009.</p>
 
-<p>Predrag Klasjna, Sunny Consolvo, Tanzeem Choudhury, and Richard
-Beckwith. <a href="Pervasive09_sensor_privacy.pdf">Exploring Privacy Concerns about Personal Sensing</a>. To appear
-in the Proceedings of Pervasive 2009. May 2009,&nbsp; Nara, Japan.</p>
+<a href=garage.jpg><img src=half/garage.jpg></a><br>
+The new garage and mudroom.  Not quite attached but close enough so you don't get too wet when it's raining.
+<p>
 
+<a href=walkway-deck.jpg><img src=half/walkway-deck.jpg></a><br>
+The new walkway from driveway to deck.
+<p>
 
-<p><strong>2008</strong><br />
+<a href=deck-top.jpg><img src=half/deck-top.jpg></a><br>
+View of the deck.
+<p>
 
+<a href=deck-left.jpg><img src=half/deck-left.jpg></a><br>
+Left view of the deck.
+<p>
 
-<br />
+<a href=deck-right.jpg><img src=half/deck-right.jpg></a><br>
+Right view of the deck.
+<p>
 
+<hr>
 
-Danny Wyatt, Tanzeem Choudhury, Jeff Bilmes, and James Kitts. <a href="HSD_UbiComp08.pdf">Towards Automated Social Analysis
-of Situated Speech Data</a>. To appear in the Proceedings of
-Ubicomp 2008. September 2008, Seoul, South Korea.</p>
+<h3>Two years later, we added a major <a href="../addition/">addition</a>.</h3>
+<p>
 
+</center>
 
-<p>Danny Wyatt, Tanzeem Choudhury, and Jeff Bilmes. <a href="aaai08_cergm.pdf">Learning Hidden Curved Exponential
-Random Graph Models to Infer Face-to-Face Interaction Networks from
-Situated Speech Data</a>. Appears in the Proceedings of AAAI
-2008. July 2008, Chicago, IL.</p>
+<hr>
 
-
-<p>Mirco Musolesi, Emiliano Miluzzo, Nicholas D. Lane, Shane B.
-Eisenman, Tanzeem Choudhury, Andrew T. Campbell, <a href="hotemnets2008.pdf">The Second Life of a Sensor:
-Integrating Real-world Experience in Virtual Worlds using Mobile Phones</a>,
-Appears in the Proceedings of Fifth Workshop on Embedded Networked
-Sensors (HotEmNets 2008), June 2008. Charlottesville, VA.</p>
-
-
-<p>Tanzeem Choudhury, Gaetano Borriello, et.al. <a href="IEEEpervasive_MSP.pdf">The Mobile Sensing Platform: An
-Embedded System for Activity Recognition</a>. Appears in the IEEE
-Pervasive Magazine - Special Issue on Activity-Based Computing, April
-2008.<br />
-
-
-<br />
-
-
-<strong>2007</strong></p>
-
-
-<p>Maryam Mahdaviani and Tanzeem Choudhury. <a href="nips07_sVEB.pdf">Fast and Scalable Training of
-Semi-Supervised CRFs with Application to Activity Recognition</a>.
-Appears in the Proceedings of NIPS 2007. December 2007, Vancouver,
-Canada.</p>
-
-
-<p>&nbsp;Jianxin Wu, Adebola Osuntogun, Tanzeem Choudhury,
-Matthai Philipose, Jim Rehg. <a href="iccv07_activityrec.pdf">A
-Scalable Approach to Activity Recognition Based on Object Use</a>.
-Appears in the Proceedings of ICCV 2007. October 2007, Rio de Janeiro,
-Brazil.<br />
-
-
-<br />
-
-
-Danny Wyatt, Tanzeem Choudhury, and Jeff Bilmes. <a href="interspeech07_conversation_detection.pdf">Conversation
-Detection and Speaker Segmentation in Privacy Sensitive Situated Speech
-Data</a>. Appears in the Proceedings of Interspeech 2007. August
-2007, Antwerp, Belgium.<br />
-
-
-<br />
-
-
-Danny Wyatt, Tanzeem Choudhury, and Henry Kautz. <a href="icassp07_socialdyn_datacollection.pdf">Capturing
-Spontaneous Conversation and Social Dynamics: A Privacy-Sensitive Data
-Collection Effort</a>. Appears in the Proceedings of
-International Conference on Acoustics, Speech, and Signal Processing
-(ICASSP 2007). April 2007, Honolulu, HI.<br />
-
-
-<br />
-
-
-Danny Wyatt, Tanzeem Choudhury, Jeff Bilmes, and Henry Kautz. <a href="ijcai07_speaker_diarization.pdf">A Privacy Sensitive
-Approach to Modeling Multi-Person Conversations</a>. Appears in
-the Proceedings of International Joint Conference on Artificial
-Intelligence (IJCAI 2007). January 2007, Hyderabad, India.<br />
-
-
-<br />
-
-
-Lin Liao, Tanzeem Choudhury, Dieter Fox, and Henry Kautz. <a href="ijcai07_activityRec_veb.pdf">Training Conditional
-Random Fields using Virtual Evidence Boosting</a>. Appears in the
-Proceedings of International Joint Conference on Artificial
-Intelligence (IJCAI 2007). January 2007, Hyderabad, India.<br />
-
-
-<br />
-
-
-Shiaokai Wang, William Pentney, Ana-Maria Popescu, Tanzeem Choudhury
-and Matthai Philipose. <a href="ijcai07_activityRec_commonsense.pdf">Commonsense-based
-Joint Training of Human Activity Recognizers</a>. Appears in the
-Proceedings of International Joint Conference on Artificial
-Intelligence (IJCAI 2007). January 2007, Hyderabad, India.<br />
-
-
-</p>
-
-
-<p><strong>2006</strong></p>
-
-
-<p>Tanzeem Choudhury, Matthai Philipose, Danny Wyatt, and
-Jonathan Lester. <a href="Choudhury_DEBulletin_final.pdf">Towards
-Activity Databases: Using Sensors and Statistical Models to Summarize
-People's Lives</a>. In IEEE Data Engineering Bulletin, Vol. 29
-No. 1, March 2006.</p>
-
-
-<p>Timothy Sohn, Alex Varshavsky, Anthony Lamarca, Mike Chen,
-Tanzeem Choudhury, Ian Smith, Sunny Consolvo, Jeffrey Hightower,
-William Griswold, and Eyal de Lara. <a href="ubicomp06_mobility.pdf">Mobility
-Detection Using Everyday GSM Traces</a>. Appears in the
-Proceedings of Ubicomp. September 2006, Orange County, CA.<br />
-
-
-<br />
-
-
-Jonathan Lester, Tanzeem Choudhury, and Gaetano Borriello. <a href="JonathanLester_EDAS-1568973904.pdf">A Practical
-Approach to Recognizing Physical Activities</a>. Appears in the
-Proceedings of Pervasive. May 2006, Dublin, Ireland.<br />
-
-
-<br />
-
-
-Emmanuel Munguia-Tapia, Tanzeem Choudhury, and Matthai Philipose. <a href="MunguiaTapiaChoudhuryPhilipose06.pdf">Building
-Reliable Activity Models using Hierarchical Shrinkage and Mined Ontology</a>.
-Appears in the Proceedings of Pervasive. May 2006, Dublin, Ireland.</p>
-
-
-<p><strong>2005</strong></p>
-
-
-<p>Alex Pentland, Tanzeem Choudhury, Nathan Eagle, and Push
-Singh. <a href="humandynamics.pdf">Human Dynamics:
-Computation for Organization</a>. In Pattern Recognition Letters,
-Volume 26, Issue 4, Pages 503-511, March 2005.</p>
-
-
-<p>Danny Wyatt, Matthai Philipose and Tanzeem Choudhury. <a href="AAAI051WyattD.pdf">Unsupervised Activity Recognition
-using Automatically Mined Common Sense</a>. Appears in the
-Proceedings of the Twentieth National Conference on Artificial
-Intelligence (AAAI 2005). July 2005, Pittsburg, PA.<br />
-
-
-<br />
-
-
-Jonathan Lester, Tanzeem Choudhury, Nicky Kern, Gaetano Borriello and
-Blake Hannaford. <a href="AAAI051WyattD.pdf">A Hybrid
-Discriminative-Generative Approach for Modeling Human Activities</a>.
-Appears in the Proceedings of International Joint Conference on
-Artificial Intelligence (IJCAI 2005). July 2005, Edinburgh, Scotland.<br />
-
-
-</p>
-
-
-<p><strong>2004</strong></p>
-
-
-<p>Tanzeem Choudhury and Sumit Basu. <a href="choudhury_basu_nips04.pdf">Modeling Conversational
-Dynamics as a Mixed Memory Markov Process</a>. Appears in the
-Advances of Neural Information Processing Systems 17 (NIPS 2004). MIT
-Press, 2005. Vancouver, B.C., Canada.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury and Alex Pentland, <a href="Choudhury_CASOS.pdf">Characterizing
-Social Networks using the Sociometer</a>. Appears in the
-Proceedings of the North American Association of Computational Social
-and Organizational Science. June 2004. Pittsburg, Pennsylvania.<br />
-
-
-</p>
-
-
-<p><strong>2003</strong></p>
-
-
-<p>Tanzeem Choudhury and Alex Pentland, <a href="choudhury_iswc2003.pdf">Sensing and Modeling Human
-Networks using the Sociometer</a>. Appears in the Proceeding of
-the International Conference on Wearable Computing. October 2003. White
-Plains, New York.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury, Brian Clarkson, Sumit Basu, and Alex Pentland, <a href="choudhury_ijcnn2003.pdf">Learning Communities:
-Connectivity and Dynamics of Interacting Agents</a>. Appears in
-the Proceedings of the International Joint Conference on Neural
-Networks. July 2003. Portland, Oregon.<br />
-
-
-<br />
-
-
-<strong>2002</strong></p>
-
-
-<p>Tanzeem Choudhury, Jim Rehg, Vladimir Pavlovic, and Alex
-Pentland. <a href="choudhury_icpr2002.pdf">Boosting and
-Structure Learning in Dynamic Bayesian Networks for Audio-Visual
-Speaker Detection</a>. Appears in the Proceedings of
-International Conference on Pattern Recognition, August 2002.</p>
-
-
-<p><strong>2000</strong></p>
-
-
-<p>Alex Pentland and Tanzeem Choudhury. <a href="choudhury_computer2000_biometrics.pdf">Face
-Recognition for Smart Environments</a>. In IEEE Computer Magazine
-- special issue on Biometrics, 33(2):50-55, February 2000.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury and Alex Pentland. <a href="choudhury_icpr2000.pdf">Motion Field Histograms for
-Robust Modeling of Facial Expressions</a>. Appears in the
-Proceedings of International Conference on Pattern Recognition,
-September 2000.<br />
-
-
-<br />
-
-
-</p>
-
-
-<p><strong>1999</strong></p>
-
-
-<p>Tanzeem Choudhury, Brian Clarkson, Tony Jebara and Alex
-Pentland. <a href="choudhury_avbpa_1999.pdf">Multimodal
-Person Recognition using Unconstrained Audio and Video</a>. In
-Second Conference on Audio- and Video-based Biometric Person
-Authentication (AVBPA 1999). March 1999, Washington DC.<br />
-
-
-<br />
-
-
-<br />
-
-
-<br />
-
-
-<strong>Refereed Workshop Papers</strong><br />
-
-
-<br />
-
-
-Jonathan Lester, Tanzeem Choudhury, Gaetano Borriello, Sunny Consolvo,
-James Landay, Kate Everitt and Ian Smith. <a href="w10-p11-rev.pdf">Sensing
-and Modeling Activities to Support Physical Fitness</a>. In the
-Workshop Proceedings of Ubicomp (Workshop: Monitoring, Measuring and
-Motivating Exercise: Ubiquitous Computing to Support Fitness).
-September 2005, Tokyo, Japan.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury, Jonathan Lester and Gaetano Borriello. <a href="choudhury_chi2005workshop.pdf">Assessing Wellness by
-Sensing Everyday Activities and Interactions</a>. In the Workshop
-Proceedings HCI Challenges in Health Assessment. Conference on Human
-Factors in Computing Systems (CHI), April 2005, Portland, OR.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury and Alex Pentland. <a href="choudhury_ubicomp2003workshop.pdf">Modeling
-Face-to-Face Communication using the Sociometer</a>. In the
-Workshop Proceedings of Ubicomp (Workshop: Supporting Social
-Interaction and Face-to-face Communication in Public Spaces). October
-2003, Seattle, WA.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury and Alex Pentland. <a href="choudhury_cscw2002workshop.pdf">The Sociometer: A
-Wearable Device for Understanding Human Networks</a>. In the
-Workshop Proceedings of Computer Supported Cooperative Work (Workshop:
-Ad hoc Communications and Collaboration in Ubiquitous Computing
-Environments). November 2002, New Orleans, LA.<br />
-
-
-<br />
-
-
-Sumit Basu, Tanzeem Choudhury, Brian Clarkson and Alex Pentland. <a href="choudhury_cues2001.pdf">Towards Measuring Human
-Interactions in Conversational Settings.</a> Appears in the
-Proceedings of Computer Vision and Pattern Recognition (Cues in
-Communication), December 2001.<br />
-
-
-<br />
-
-
-</p>
-
-
-<p><strong>Workshop Abstracts</strong><br />
-
-
-<br />
-
-
-Danny Wyatt, Tanzeem Choudhury, Henry Kautz, and James Kitts. Creating
-Dynamic Social Network Models from Sensor Data. Presented at:
-International Sunbelt Social Network Conference. April 2006, Vancouver,
-B.C.<br />
-
-
-</p>
-
-
-<p>Jonathan Lester, Tanzeem Choudhury, and Gaetano Borriello.
-Choosing the Right Modalities and Features for Activity Recognition.
-Presented at: NIPS Workshop on Multi-modal Signal Processing, NIPS
-2004, Whistler, B.C.<br />
-
-
-<br />
-
-
-Sumit Basu and Tanzeem Choudhury. Learning Relationships from
-Conversational Patterns. Presented at: Snowbird Learning Workshop,
-April 2004, Snowbird, UT.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury and Alex Pentland. The Sociometer: A Wearable Device
-for Learning Human Networks. Presented at: Snowbird Learning Workshop,
-April 2003, Snowbird, UT.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury and Alex Pentland. The Sociometer: A Wearable Device
-for Understanding Human Networks. Presented at: International Sunbelt
-Social Network Conference. February 2003, Cancun, Mexico.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury, Brian Clarkson, Sumit Basu and Alex Pentland.
-Learning Human Dynamics and Interactions. Presented at: Snowbird
-Learning Workshop, April 2002, Snowbird, UT.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury, Jim Rehg, Vladimir Pavlovic, and Alex Pentland.
-Multimodal Speaker Detection using Boosted Dynamic Bayesian Networks.
-Presented at: Snowbird Learning Workshop, April 2001, Snowbird, UT.<br />
-
-
-<br />
-
-
-<br />
-
-
-<strong>Theses</strong><br />
-
-
-<br />
-
-
-Tanzeem Choudhury. <a href="choudhury_phd_thesis.pdf">Sensing
-and Modeling Human Networks</a>. Doctoral thesis, Massachusetts
-Institute of Technology, September 2003.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury. <a href="choudhury_ms_thesis.pdf">FaceFacts
-- Study of Facial Features for Understanding Expressions</a>.
-Master's thesis, Massachusetts Institute of Technology, August 1999.<br />
-
-
-<br />
-
-
-Tanzeem Choudhury. Face and Facial Feature Extraction and Tracking in
-Video Sequences. Bachelor's Thesis, University of Rochester, May 1997.<br />
-
-
-<br />
-
-
-</p>
-
-
-<!-- #EndEditable --></div>
-
-
-<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
-<div id="footer">
-<p><a href="../index.html">About</a>
-|
-<a href="pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a>
-| <a href="../students/students.html">Students</a>
-|
-<a href="../teaching/teaching.html">Teaching</a> |
-<a href="../press/press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
-
-
-</div>
-
-
-<!-- End Footer --></div>
-
-
-<!-- End content_container --></div>
-
-
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=3810515; var sc_invisible=1; var sc_partition=34; var sc_click_stat=1; var sc_security="da8cc708"; </script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
-<noscript><div class="statcounter"><a
-href="http://www.statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/3810515/0/da8cc708/1/" alt="free counter
-statistics" ></a></div></noscript>
-
-
-<!-- End of StatCounter Code -->
-</body>
-</html>
+<address><a href="http://www.cs.dartmouth.edu/~dfk/">David Kotz &lt;dfk@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Fri Oct  4 04:58:20 2002
+<!-- hhmts end -->
+</body> </html>

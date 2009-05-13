@@ -1,218 +1,67 @@
-http://www.cs.dartmouth.edu/~afra/goodies.html
+http://www.cs.dartmouth.edu/~dfk/seatpack
 3
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html>
 <head>
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-<title>Goodies by Afra</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.73 (Macintosh; I; PPC) [Netscape]">
+   <meta name="Author" content="David Kotz">
+   <meta name="Description" content="a way to convert a child's carseat into a backpack">
+   <title>The SeatPack</title>
 </head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#551A8B" alink="#0000FF">
 
-<body bgcolor=#ffffff >
+<h1>
+The SeatPack</h1>
+We travel a lot with our kids.&nbsp; Every trip seems to require at least
+one layover in a large airport, requiring us to lug three kids, 1-3 car seats,
+a diaper bag, and a few other carry-on bags from one gate to another.&nbsp;
+Whew! that's a lot to carry.
+<p>So I decided to convert the carseats into "back-packs", so that I could
+carry the seats hands-free.&nbsp; I often stuff some of the smaller carry-on
+bags, coats, sweaters, etc, into one of the seats.&nbsp; It's so much more
+comfortable than lugging them around in my arms!
+<center>
+<p><img SRC="seatpack3.jpg" NOSAVE BORDER=0 height=295 width=290></center>
 
-<hr align=center noshade>
+<p>One drawback is that you have to be really careful when you turn around,
+lest you bop somebody on the head with the carseat.
+<center>
+<p><img SRC="seatpack2.jpg" NOSAVE BORDER=0 height=453 width=377></center>
+I ordered a simple set of back-pack straps from <a href="http://www.campmor.com/">Campmor</a>.&nbsp;
+I spent about $30 per seat and got some nice straps, but you could probably
+find nearly the same thing at any outdoor gear store, or probably places
+like KMart, probably for less money.&nbsp; You don't need anything fancy:
+just a <a href="http://www.campmor.com/cgi-bin/ncommerce3/ProductDisplay?prmenbr=226&prrfnbr=9042">pair
+of straps</a>, four sets of <a href="http://www.campmor.com/cgi-bin/ncommerce3/ProductDisplay?prmenbr=226&prrfnbr=9168">clevis
+pins with split rings</a>, and probably a few washers.&nbsp; (The pins
+and rings attach the pack straps to the seat.)&nbsp; I was lucky to find
+holes in the seats in just the right places; I needed to add a few washers
+to strengthen the connection.&nbsp; I suppose it wouldn't hurt to drill
+a hole, if necessary, but I can imagine a seat manufacturer claiming that
+voided the warranty.
+<p>The straps don't interfere with the seat's usage in the car, so I leave
+the straps on all the time, ready to go.
+<center>
+<p><img SRC="seatpack1.jpg" NOSAVE BORDER=0 height=430 width=356></center>
 
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign=top>
-
-<!-- ----- Left-hand side navbar ----- -->
-<td align=right>
-<font size="+1" align=right>
-afra<br>
-zomorodian<br>
-<br>
-</font>
-<a href="./">home</a><br>
-<a href="personal.html">personal</a><br>
-<a href="book.html">book</a><br>
-<a href="papers.html">papers</a><br>
-<a href="teaching.html">teaching</a><br>
-<b>goodies</b><br>
-<br><br>
-</td>
-
-<!-- ----- Interior left margin ----- -->
-<td width=25>&nbsp;</td> 
-
-<!-- ----- Goodies ----- -->
-<td>
-<!-- Goodies Table!!! ---- -->
-<table cellspacing=0 cellpadding=0 border=0>
-
-<!-- ----- Goody 5 ---- -->
-<tr valign = "top">
-<td>
-<img align=left src="goodies/abstract.png" width = 100>
-</td>
-
-<!-- ----- Spacing between fig & paper ---- -->
-<td width=25>&nbsp;</td>
-
-<td>
-<b>Incomplete Notes on Fraleigh's Abstract Algebra (4th ed.)</b>
-<br>
-<font size = "-1">
-<a href = "goodies/abstract.ps.gz">[PS (gzipped PS 168 KB)]</a>&nbsp
-<a href = "goodies/abstract.pdf">[PDF 337 KB)]</a>
-</font>
-<br>
-<br>
-<font size = "-1">
-These are my notes on James B. Fraleigh's excellent book on abstract
-algebra, 
-<a href = "http://www.amazon.com/exec/obidos/tg/detail/-/0201763907/ref=lpr_g_1/103-8609748-5069422?v=glance&s=books">A
- First Course in Abstract Algebra</a>.
-My notes are on the fourth edition, however (the latest being the 7th
-edition.)  They are almost complete, and at 44 pages, quite extensive.
-</td>
-</tr>
-
-<!-- ----- Space between goodies ---- -->
-<tr>
-<td>
-<br>
-</td>
-</tr>
-
-<!-- ----- Goody 4 ---- -->
-<tr valign = "top">
-<td>
-<img align=left src="goodies/grid.png" width = 100>
-</td>
-
-<!-- ----- Spacing between fig & paper ---- -->
-<td width=25>&nbsp;</td>
-
-<td>
-<b>Converting Triangulations to Grids (A Proposal).  June 1998</b>
-<br>
-<font size = "-1">
-<a href = "goodies/grid.ps.gz">[PS (gzipped PS 47 KB)]</a>&nbsp
-<a href = "goodies/grid.pdf">[PDF 108 KB)]</a>
-</font>
-<br>
-<br>
-<font size = "-1">
-This is a proposal I wrote for a project as a graduate student.
-For various reasons, I didn't work on it.  
-Others have worked on variants of this approach since then.
-</td>
-</tr>
-
-<!-- ----- Space between goodies ---- -->
-<tr>
-<td>
-<br>
-</td>
-</tr>
-
-<!-- ----- Goody 3 ---- -->
-<tr valign = "top">
-<td>
-<img align=left src="goodies/minimal.png" width = 100>
-</td>
-
-<!-- ----- Spacing between fig & paper ---- -->
-<td width=25>&nbsp;</td>
-
-<td>
-<b>Survey of Results on Minimal Triangulations.  May 1998</b>
-<br>
-<font size = "-1">
-<a href = "goodies/minimal.ps.gz">[PS (gzipped PS 49 KB)]</a>&nbsp
-<a href = "goodies/minimal.pdf">[PDF 122 KB)]</a>
-<br>
-</font>
-<br>
-<font size = "-1">
-For any closed compact 2-manifold, there is a finite number of 
-<em>minimal (irreducible)</em> triangulations.  Therefore, we may obtain any 
-triangulation of  a surface by splitting vertices of a minimal 
-triangulation of the surface.  
-The number of vertices in these minimal triangulations is linear in the 
-genus of the underlying surface.
-</font>
-</td>
-</tr>
-
-<!-- ----- Space between goodies ---- -->
-<tr>
-<td>
-<br>
-</td>
-</tr>
-
-<!-- ----- Goody 2 ---- -->
-<tr valign = "top">
-<td>
-<img align=left src="goodies/markov.png" width = 100>
-</td>
-
-<!-- ----- Spacing between fig & paper ---- -->
-<td width=25>&nbsp;</td>
-
-<td>
-<b>Insolubility of the Problem of Homeomorphy by A. A. Markov.  1958</b>
-<br>
-<font size = "-1">
-<a href = "goodies/markov.ps.gz">[PS (gzipped PS 42 KB)]</a>&nbsp
-<a href = "goodies/markov.pdf">[PDF 111 KB)]</a>
-</font>
-<br>
-<font size = "-1">
-<br>
-As far as I know, this is the only English translation of A. A. Markov's
-paper.  I presented it as part of my qualification examination in
-theory.  For additional information, as well as good references,
-see the following writeup:
-<br>
-<a href = "goodies/about.ps.gz">[PS (gzipped PS 25 KB)]</a>&nbsp
-<a href = "goodies/about.pdf">[PDF 50 KB)]</a>
-</font>
-</td>
-</tr>
-
-<!-- ----- Space between goodies ---- -->
-<tr>
-<td>
-<br>
-</td>
-</tr>
-
-<!-- ----- Goody 1 ---- -->
-<tr valign = "top">
-<td>
-<img align=left src="goodies/monty.png" width = 100>
-</td>
-
-<!-- ----- Spacing between fig & paper ---- -->
-<td width=25>&nbsp;</td>
-
-<td>
-<b>The Monty Hall Problem.  January 1998</b>
-<br>
-<font size = "-1">
-<a href = "goodies/monty.ps.gz">[PS (gzipped PS 40 KB)]</a>&nbsp
-<a href = "goodies/monty.pdf">[PDF 78 KB)]</a>
-</font>
-<br>
-<font size = "-1">
-<br>
-This is a short report about the infamous ``Monty Hall Problem.''  
-The report contains two solutions to the problem:  an analytic and
-a numerical one.  The analytic solution uses probability theory
-and corresponds to a mathematician's point of view in solving problems.
-The numerical solution simulates the problem on a large scale to 
-arrive at the solution and therefore corresponds to a computer
-scientist's point of view.
-</td>
-</tr>
-
-<!-- ----- End Goodies ----- -->
-</td>
-</tr>
-</table>
-</table>
-<hr align=center noshade>
+<h2>
+Disclaimer</h2>
+I would never use this rig to carry my kid on my back.&nbsp; The parts
+of the seat to which I attach were not designed for that sort of stress,
+so the pins might pull right through.&nbsp; Also, as you can see in the
+middle photo, the system depends on the shear stress of the ring, unlike
+in most back-pack systems that depend on the shear stress of the pin.&nbsp;
+So I'd be afraid of the pin pulling through the plastic hole on the seat,
+or the ring shearing through, if there were a lot of weight.&nbsp; If I'm
+just carrying a diaper bag, and it fails, so what... but if I'm carrying
+a kid, and it fails, I'm in big trouble.
+<p>I doubt it would be good for long distances, unless you added some padding
+along the back.
+<p>It's not really a back-pack in the sense that I can carry big loads.&nbsp;
+I guess it's a car seat you can carry on your back.
+<p>
+<hr WIDTH="100%"><a href="http://www.cs.dartmouth.edu/~dfk/">David Kotz</a>
+<br>June 2000
 </body>
 </html>
-mpoi

@@ -1,24 +1,23 @@
-http://www.cs.dartmouth.edu/~cs108/logistics
+http://www.cs.dartmouth.edu/~cs108/lectures
 3
-<HTML>
-<HEAD>
-<TITLE>CS108: Course Information</TITLE>
-</HEAD>
-<BODY>
 
 
+<title>CS108: Lectures</title>
+</head>
+ 
+<body>
 
 <h2> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
 
-Course Information
+Lectures
 <br> 
  CS108, Advanced Operating Systems, Winter 2008
 </h2> 
-<i> www.cs.dartmouth.edu/~cs108/logistics/index.shtml</i> 
+<i> www.cs.dartmouth.edu/~cs108/lectures/index.shtml</i> 
  &nbsp;&nbsp;&nbsp; 
  
-<i> Last modified: Thursday, 17-Jan-2008 21:24:22 EST</i> 
+<i> Last modified: 03/07/08 11:23:45 AM</i> 
  
 <hr> 
  
@@ -27,179 +26,528 @@ Course Information
 <p>
 
 
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Instructor:</b> Sean Smith
-</big><br>
 <p>
 
-<b><em> Email:</em> </b>
-<a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>.
-(My blitzmail forwards to here.)
-I read my email often.  During the term, I will
-almost always reply within a day, and usually within a few hours.<br>
-<b><em> Office:</em> </b>Sudikoff 064 <br>
-<b><em> Office hours:</em></b> Monday through Thursday, 1pm (when the term starts).  Updates (due to travel, XC-skiing, etc) will be announced via email or on the course home page.<br>
+<p>
+For my lectures, each topic 
+will link to detailed lecture notes, which should be up by sunrise the day of the lecture.
+<p>
+These notes will complement what's presented in class.
+(The notes are also there to compensate for my poor handwriting! :)
+<p>
+It should go without saying (but i'll say it anyway :) that you will be responsible for both: the notes
+and the class material.
 <p>
 <hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Unofficial TA:</b> Max Pala
-</big><br>
 <p>
-<b><em> Email:</em> </b>
-<a href="mailto:pala@cs.Dartmouth.EDU"><b>pala@cs.dartmouth.edu</b></a><br>
-<b><em> Office:</em> </b>Sudikoff 063<br> 
+By the way... when it says to read section "N.M", interpret that as "N.M.*"
 <p>
-<p>
-Email to <a href="mailto:cs108@cs.Dartmouth.EDU"><b>cs108@cs.dartmouth.edu</b></a> goes to the entire
-course staff.
 <hr>
+<strong>Warning: subject to change!</strong>
+
+<p>
+
+<h3>Jump to <a href="#week8">current segment</a></h3>  <hr>
+
+
+
+
+
+
+<p><hr><p>
+
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<b>Lectures:</b>
+<a name="week1"><b>Segment 1: Strangeness at the Edge of Comfortable Abstraction</b>
 </big><br>
 <p>
-Meeting times: 
+We're used to things just magically happening when we use some OS service.
+But computation doesn't happen in some magical aether; it happens on real machines;
+and complex software in conspires with the hw to make this happen.    We'll now
+start using Solaris observability tools to dive into that magic.
+<p>
+
+Pre-req reading:<br>
+<i>This should all be review!  If the material is unfamiliar to you, then take <a href="/~cs58/"><b>CS58</b></a> first.</i>
 <ul>
-<li> <i>Regular classes:</i> Tuesday and Thursday, 10:00-11:50.
-<li> <i>X-hour:</i> Wednesday, 3PM-3:50PM.
+<li> Silberschatz, Galvin, and Gagne, Chapters 1-18, 21, 22.   (See also the 
+<a href="/~cs58/lectures/"><b>CS58 lecture notes</b></a>)
+<li> Kernighan and Ritchie
 </ul>
 <p>
-Location: 108 Kemeny.
+Research papers:
 <p>
-
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Help:</b>
-</big><br>
-<p>
-To get help, stop by or send email. You can also
-set up an appointment for other times. 
-
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Public Lab Space:</b>
-</big><br>
-<p>
-There is public lab space available in Sudikoff Room 001 and 003 for students
-enrolled in computer science courses. 
-You will need to arrange ID-card access to get 
-into Sudikoff 001/003 and to get into the building in the evenings
-and on weekends. If you don't have that already, you should see
-Kelly Clark in 101 Sudikoff.  <b>Don't dawdle; it can take 24 hours
-to turn access on.</b>
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Late Assignments:</b>
-</big><br>
-<p>
-We have conflicting issues here:
 <ul>
-<li> Assigments are due when they are due; 
-extensions are not fair to the students sufficiently 
-diligent to complete their assignments on time.
-<li> However, many 
-students have interviews and off-campus grad school visits.
+<li> <i>A summary of UNIX, by its inventors:</i><br>
+D.M. Ritchie and K. Thompson. "The UNIX Time-Sharing System."  
+<cite>The Bell System Technical Journal.</cite>
+57 (6.2): 365--372.  1978.  (Revised version of 1974 CACM paper.)
+<a href="../resources/ritchie2.pdf"><b>(PDF)</b></a>.
+<p>
+<li> <i>Insight into the challenges of building large systems, by a grand old man of the field:</i><br>
+ Frederick Brooks.  "No Silver Bullet: Essence and Accidents of
+Software Engineering."  <cite>IEEE Computer</cite>.  20 (4): 10--19.  1987.
+<a href="../resources/silver-bullet.pdf"><b>(PDF)</b></a>.
+<p>
+<li><i>More insight into the challenges of building large systems, by another grand old man of the field:</i><br>
+ B. Lampson. "Hints for Computer System Design." 
+<cite>9th ACM Symposium on Operating Systems Principles.</cite> 1983.
+<a href="http://www.cs.dartmouth.edu/~cs58/resources/lampson.pdf"><b>(PDF)</b></a>.
 </ul>
-To balance these issues, here's the policy:
+<p>
+Solaris reading:
 <ul>
-<li> Each student has two (virtual) "one-day late" coupons.
-Each coupon is good for a 1-day extension on one project.
-<li> However, an N-person project requires N coupons for a 1-day extension.
+<li> <cite>The SPARC Architecture Manual (Version 9)</cite>.
+<a href="http://www.cs.dartmouth.edu/~cs108/resources/SPARCV9.pdf"><b>(PDF)</b></a>
+Section 0, 1.2, 2, 3.1.1, 3.3, 5.1.1, 7.1.
+<li> <cite>Solaris Internals.</cite>
+1, 2.1., 2.3, 2.8, 8, 9.1-9.3, 11.1.  
+<li> <cite>Solaris Performance and Tools.</cite>
+1, 3.1-3.5, 10, 12
 </ul>
-Plan accordingly.
+These might be useful, too:
+<ul>
+<li> The <a href="../resources/dtrace_guide.pdf"><b>DTrace guide</b></a>
+<li> GNU's <a href="http://sources.redhat.com/gdb/current/onlinedocs/gdb.html"><b>GDB manual</b></a>
+</ul>
 <p>
-I may otherwise apply 
-a "5% off per hour" late policy both to 
-the written homework and to the programming projects.
-
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Exams:</b>
-</big><br>
+Lecture notes:
+<ul>
+<li><a href="jan08/index.shtml"><b>Tue, Jan 8: A Complete Review of an Undergrad OS Course.</b></a><br>
 <p>
-<p>
-<i>Midterms:</i> We'll be holding two.  See the syllabus page.
-<p>
-<i>Final:</i> scheduled by the registrar.
-<p>
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Honor Code:</b>
-</big><br>
-<p>
-The Dartmouth Honor
-Code applies to your conduct in this course.  In particular, all
-work submitted for credit must be your own.
-You may discuss your
-homework assignments and programming projects with your classmates, the
-course staff, and with me. 
-However, you should write up your own written homework solutions
-and should not read or copy the solutions written by others (in
-this or previous terms, at Dartmouth or elsewhere). 
-<p>
-You should also write your own code and
-not read code written by classmates.
-<p>
-
-The Dartmouth College policy on sources also applies to
-this course, which means that all sources must be acknowledged,
-whether allowed by the instructor or not.  For example, software
-given to you by us must be acknowledged 
-when incorporated into your work.<br>
-<p>
-(Whether you go into industry or academia or elsewhere,
-it would be good to get in the habit of keeping track of and citing
-all your sources anyway!)
-<p>
-<B>If you have any questions about the
-honor code as it relates to CS 108, please come speak with me. 
-Violations of the honor code will be treated seriously.</B>
+<li>Wed, Jan 9 (X-Hour) <i>Open</i> <br>
+<P>
+<li<a href="jan10/index.shtml"><b>Thu, Jan 10</b></a><br>
+<a href="../work/p0.txt"><b>Project 0 Published</b></a><br>
 
 <p>
-<hr>
+<li<a href="jan15/index.shtml"><b>Tue, Jan 15</b></a><br>
+Project 0 Due<br>
+
+<p>
+<li>Wed, Jan 16 (X-Hour) <i>Open</i> <br>
+<p>
+<li><a href="jan17/index.shtml"><b>Thu, Jan 17</b></a><br>  <i>Max talks about dtrace</i><br>
+<a href="../work/p1.txt"><b>Project 1 Published</b></a><br>
+
+</ul>
+
+
+<p><hr><p>
 
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<b>Students with Disabilities:</b>
+<a name="week2"><b>Segment 2: Processes, Threads, IPC</b>
 </big><br>
 <p>
-I encourage students
-with disabilities, including &quot;invisible&quot; disabilities
-such as chronic diseases and learning disabilities, to discuss with
-me any appropriate accommodations that I might make on their
-behalf.
+Processes 
+are the abstraction we use to track an executing 
+program and its environment; threads are the abstraction
+that we use to track the threads of execution themselves.
+In this segment, we'll look into these in more detail.
 <p>
-(If this may apply to you, I also urge you to discuss things with the
-<a href="http://www.dartmouth.edu/~acskills/"><b>Academic Skills
-Center</b></a>, if you haven't already.  They've set up a system where
-they keep the "appropriate accommodations" on file---so you don't have
-to discuss details with each new instructor!)
+Research papers:
+<p>
+<ul>
+<li><i>The "discovery" of threads?</i><br>
+ Z. Aral et al.
+ "Variable Weight Processes with Flexible Shared Resources."
+ <cite>Proceedings of Winter 1989 USENIX Association Meeting.</cite>
+ <a href="../resources/aral.pdf"><b>(pdf)</b></a>
+<p>
+<li><i>IPC is critical for microkernel performance.  How can
+we keep it from being the bottleneck?</i><br>
+ J. Liedtke.
+ "Improving IPC by Kernel Design."
+ <cite>SOSP '93: Proceedings of the 14th ACM Symposium on Operating Systems Principles.</cite>
+ 175--188.  1993.
+<a href="../resources/improving-ipc.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+Solaris reading:
+<ul>
+<li> Basics: <cite>Solaris Internals</cite>: 2.0-2.5; 2.7; 2.9    (2.4 is rather hairy.)   3.10.
+<p>
+<li> ...and Chapter 2 
+in the <cite>Multithreading in the Solaris Operating Environment</cite>
+white paper (<a href="../resources/multithread_wp.pdf"><b>pdf</b></a>)
+<p><li> IPC: <cite>Solaris Internals</cite>: 2.11, 4.1, 4.2, 4.6
+</ul>
+<p>
+Lecture notes:
+<ul>
+<li><a href="jan22/index.shtml"><b>Tue, Jan 22</b></a><br>
+Project 1 Due<br>
+<p>
+<li>Wed, Jan 23 (X-Hour) <i>(Open)</i><br>  
+<p>
+<li><a href="jan24/index.shtml"><b>Thu, Jan 24</b></a><br>
+<a href="../work/p2.shtml"><b>Project 2 Published</b></a>
+</ul>
 
+
+
+<p><hr><p>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week3"><b>Segment 3: Synchronization</b>
+</big><br>
+<p>
+We just discussed the tools of threads and processes.
+However, the existence of multiple threads of execution
+raises the challenges of concurrency.
+We'll now go over the standard set tools that help
+address these challenges.
+<p>
+Research papers of historical interest:
+<ul>
+<li>
+<i>The seminal paper on semaphores: the appendix in...</i><br>
+E. Dijkstra.  "The Structure of the THE-Multiprogramming System."
+<cite>Communications of the ACM.</cite>
+11 (5): 341--346. May 1968. 
+<a href="../resources/theTHE.pdf"><b>(pdf)</b></a>
+<p><li> 
+<i>The seminal paper on monitors:</i><br>
+C.A.R Hoare.
+"Monitors: An operating system structuring concept."
+<cite>Communications of the ACM.</cite>
+17 (10): 549--557. October 1974.  <a href="../resources/p549-hoare.pdf"><b>(pdf)</b></a>
+<p><li>
+<i>Then... trying to actually build monitors into a real system.  Sections 4 and 5 in...</i><br>
+ B.W. Lampson and D.D. Redell.
+"Experience with Processes and Monitors in Mesa."
+<cite>Communications of the ACM.</cite>
+23 (2): 105--117. February 1980.  <a href="../resources/p105-lampson.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+Research paper of <i>practical</i> interest:
+<ul>
+A.D. Birrell.
+<cite>An Introduction to Programming with Threads.</cite>
+Technical Report 35, Digital Systems Research Center.   January 1989.
+<a href="http://www.cs.dartmouth.edu/~cs58/resources/SRC-035.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+Solaris reading:
+<ul>
+<li> <cite>Solaris Internals</cite>, Chapter 17.  3.4.   Review 3.10. 
+</ul>
+<p>
+Lecture notes:
+<ul>
+<li><a href="jan29/index.shtml"><b>Tue, Jan 29</b></a><br>
+Project 2 Due
+<p>
+<li>Wed, Jan 30 (X-Hour)<br>
+<b>No Midterm</b>
+<P>
+<li><a href="jan31/index.shtml"><b>Thu, Jan 31</b></a><br>
+<a  href="../work/p3.shtml"><b>Project 3 Published</b></a>
+</ul>
+
+<p><hr><p>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week4"><b>Segment 4: Memory Management</b>
+</big><br>
+<p>
+The idea of a linear address space is so natural that
+we easily take it for granted.  However, address spaces
+are an illusion provided by a conspiracy
+of the OS and the underlying hardware.
+We'll review the basics here and then take a
+deeper look at aspects of how Solaris
+engineered a solution.
+<p>
+Here's some historical evolution:
+<ul>
+<li> P. Denning.  
+<cite>Before Memory was Virtual.</cite>
+George Mason University. November 1996.  
+<a href="../resources/bvm.pdf"><b>(pdf)</b></a>
+<p><li> J. Fotheringham.
+"Dynamic Storage Allocation in the Atlas Computer, Including
+an Automatic Use of a Backing Store."
+<cite>Communications of the ACM.</cite> 4 (10): 435--436. 1961.
+<a href="../resources/frother61.pdf"><b>(pdf)</b></a>
+<p><li> R. Daley and J. Dennis. 
+"Virtual Memory, Processes, and Sharing in MULTICS."
+<cite>Communications of the ACM.</cite>  11 (5):306--312. May 1968.
+<a href="../resources/p306-daley.pdf"><b>(pdf)</b></a>
+<p><li> M. Talluri et al. 
+"Tradeoffs in Supporting Two Page Sizes."
+<cite>Nineteenth International Symposium on Computer Architecture.</cite>
+June 1992. <a href="../resources/talluri92tradeoffs.pdf"><b>(pdf)</b></a>.
+</ul>
+<p>
+<p>
+Solaris reading:
+<ul>
+<li> Basics: <cite>Solaris Internals</cite>, Chapter 8, 9.0-9.2.
+<p><li> Mappings: <cite>Solaris Internals</cite>, Chapter 9.4-9.7
+<p><li> Paging: <cite>Solaris Internals</cite>, Chapter 10
+<p><li> Address Translation: <cite>Solaris Internals</cite>, Chapter 12.0-12.2 (but it gets dense quickly!)
+<p><li> Page size fun: <cite>Solaris Internals</cite>, Chapter 13
+</ul>
+<p>
+Lectures:
+<ul>
+<li><a href="feb05/index.shtml"><b>Tue, Feb 5</b></a><br>
+Project 3 due
+<p>
+<li><a href="feb06/index.shtml"><b>Wed, Feb 6 (X-Hour)</b></a><br> 
+<p>
+<li><a href="feb07/index.shtml"><b>Thu, Feb 7</b></a><br>
+<a href="../work/p4.shtml"><b>Project 4 Published</b></a>
+<p>
+</ul>
+
+
+<p><hr><p>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week5"><b>Segment 5: Filesystems</b>
+</big><br>
+<p>
+Filesystems are the abstraction the OS provides to access
+and organize long-lived data.
+<p>
+Research papers: 
+<ul>
+<li> <i>the classic super-tuned FFS paper:</i><br>
+M.K. McKusick,  W.N. Joy, S.J. Leffler,  and R.S. Fabry.
+"A Fast File System for UNIX."
+<cite>ACM Transactions on Computer Systems</cite>.2 (3): 181--197. 
+August 1984.  <a href="../resources/mckusick84.pdf"><b>(pdf)</b></a>
+<p><li> <i>the classic LFS paper:</i><br>
+M. Rosenblum and J. Ousterhout.
+"The Design and Implementation of a Log-Structured File System."
+<cite>Proceedings of the 13th ACM Symposium on Operating Systems Principles.</cite>
+1--15.  October 1991.
+ <a href="../resources/rosenblum91.pdf"><b>(pdf)</b></a>
+<p><li> <i>raw data for DFS design</i><br>
+M. Satya[narayanan].
+"A Study of File Sizes and Functional Lifetimes."
+<cite>Proceedings of the 8th ACM Symposium on Operating Systems Principles.</cite> 96--108.  December 1981. 
+ <a href="../resources/p96-satyanarayanan.pdf"><b>(pdf)</b></a>
+<p><li><i>the classic RAID paper:</i><br>
+D. Patterson, G. Gibson,  and R. Katz.
+"A Case for Redundant Arrays of Inexpensive Disks (RAID)." 
+<cite>Proceedings of the 1988 ACM SIGMOD Conference on Management of Data.</cite> June 1988.
+ <a href="../resources/Patterson88.pdf"><b>(pdf)</b></a>
+<p><li><i>just for fun: FLASH filesystems:</i><br>
+H. Niijima.  "Design of a Solid-State File using FLASH EEPROM."
+<cite>IBM Journal of Research and Development.</cite>
+39 (5): 531--545.   September 1995.
+ <a href="../resources/niijima.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+All about distributed filesystems (in general, then also
+about AFS and NFS, the two you'll see used in practice):
+<ul>
+<li><i>DFS survey (read sections 1-6, 9, 11):</i><br>
+E. Levy and A. Silberschatz.
+"Distributed File Systems: Concepts and Examples."
+<cite>ACM Computing Surveys.</cite> 22 (4): 321--374.  December 1990.
+ <a href="../resources/levy-osrt.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+Solaris reading:
+<ul>
+<li> <cite>Solaris Internals</cite>: 14.1-14.6, 14.9, 15.1-15.4, 15.7.0.
+(Pay particular attention to 14.1, 14.2.0, 14.2.1, 14.6,  and 15.1 to 15.2.3)
+<p><li> <a href="../resources/zfs_last.pdf"><b>ZFS slides</b></a>
+</ul>
+<p>
+Lecture:
+<ul>
+<li><a href="feb12/index.shtml"><b>Tue, Feb 12</b></a><br>
+Project 4 Due
+<p>
+<li>Wed, Feb 13 (X-Hour) <i>(Open)</i><br>
+<p>
+<li><a href="feb14/index.shtml"><b>Thu, Feb 14</b></a><br>
+<a href="../work/p5.shtml"><b>Project 5 Published</b></a>
+</ul>
+
+<p><hr><p>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week6"><b>Segment 6: Scheduling</b>
+</big><br>
+<p>
+At a high level, the magic of an OS lies in multiprogramming: how 
+all these independent processes run at the same time.  <strong>Scheduling</strong>
+embodies the strategies and algorithms an OS uses to achieve that magic.
+<p>
+Research papers:  (Looking to the future, this time)
+<ul>
+<li> H. Zeng, C. Ellis, A. Lebeck, A.Vahdat.  "ECOSystem: Managing Energy as
+a First Class Operating System Resource."  <cite>Proceedings
+of the Tenth International Conference on
+ Architectural Support for Programming
+ Languages and Operating Systems (ASPLOS X).</cite> October 2002.
+<a href="../resources/ecosystem.pdf"><b>(pdf)</b></a>
+<p><li> W. Yuan, K. Nahrstedt.  "Energy-Efficient 
+Soft Real-Time CPU Scheduling for Mobile Multimedia Systems."
+<cite>Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles.</cite>
+2003. 149--163.
+<a href="../resources/p149-yuan.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+Solaris reading:
+<ul>
+<li> Chapter 16, <cite>Solaris Internals</cite>. 16.0 - 16.4.  
+<li> Chapter 3, <cite>Solaris Internals</cite>  
+3.1-3.3 (but only skim 3.3.3); 3.6 (only skim 3.6.2, 3.6.3); 3.8; 3.9; 3.11.  Skim 3.7.
+</ul>
+<p>
+Lectures:
+<ul>
+<li><a href="feb19/index.shtml"><b>Tue, Feb 19</b></a>
+<p>
+<li>Wed, Feb 20 (X-Hour) <i>(Open)</i><br>
+Project 5 Due
+<p>
+<li><a href="feb21/index.shtml"><b>Thu, Feb 21</b></a><br>
+Project 6 Published<br>
+</ul>
+
+
+<p><hr><p>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week7"><b>Segment 7: Security and Virtualization</b>
+</big><br>
+<p>
+Because of the central role an OS plays in protecting users from themselves, from other users,
+and from the rest of the world, security has become a critical part of an OS (and vice versa).
+Because of the perennial (and perhaps fundamental) problem in configuring 
+such complex systems to actually provide effective protections, the old concept of 
+virtualization (in various guises) has emerged as a next big thing.
+<p>
+Research papers:
+<ul>
+<li> <i>A recent paper---used in an RPE---showing the importance of looking at the entire system (rather than just one layer of abstraction)</i>:<br>
+J. Chow et al.
+<a href="/~cs108/resources/chow.pdf"><b>"Understanding Data Lifetime                                              
+via Whole System Simulation."</b></a> 13th USENIX Security Symposium.  2004.
+<p><li><i>Another recent RPE paper showing the subtlety of return-to-libc attacks, the cleverness of address-space randomization defenses---and the additional cleverness of a way to overcome these defenses in some circumstances:</i><br>
+H. Shacham et al.
+<a href="/~cs108/resources/p298-shacham.pdf"><b>"On                                                               
+the Effectiveness of Address-Space Randomization."</b></a> ACM CCS, 2004.
+<p><li><i>Overview of why virtualization is tricky on modern systems:</i> <br>
+Rich Uhlig et. al.
+<a href="../resources/intel-vt.pdf"><b>"Intel Virtualization Technology."</b></a><br>
+<cite>IEEE Computer.</cite><br>
+38 (5): 48--56.  May 2005.
+</ul>
+<p>
+Solaris reading:
+<ul>
+<li><cite>Solaris Internals</cite>.  (Rather muddy, this week! Read to get a flavor
+of the thinking that went on here)  5.0--5.2, 5.3.0--5.3.2, 5.4.0--5.4.7, 5.5.0-5.5.8. 
+<p><li><a href="http://docs.sun.com/app/docs/doc/816-4557/6maosrjff?a=view"><b>System Administration Guide: Privileges</b></a>
+<p><li> <a href="http://docs.sun.com/app/docs/doc/816-4863/6mb20lvf9?a=view"><b>Solaris Security for Developers: Developing Privileged Applications</b></a>
+<p><li><a href="http://www.opensolaris.org/os/community/security/library/howto/privbracket/"><b>Privilege Bracketing HOWTO</b></a>
+<p><li> <a href="../resources/brandz_overview.pdf"><b>Branded Zones Overview</b></a>
+<p><li> <cite>Solaris Internals</cite> 6.1, 6.2., 6.4, 6.10
+</ul>
+<p>
+Just for fun:
+<ul>
+<li> D. Brumley and D. Boneh.  "Remote Timing Attacks are Practical."  
+<cute>Proceedings of the 12th USENIX Security Symposium.</cite> 
+August 2003.  <a href="../resources/ssl-timing.pdf"><b>(pdf)</b></a>
+</ul>
+
+
+<p>
+Lectures:
+<ul>
+<li><a href="feb26/index.shtml"><b>Tue, Feb 26</b></a>
+<p><li> Wed, Feb 27 (X-Hour)<br>
+<b>Midterm #2</b><br>
+Project 6 Published.  Well, maybe not yet.
+<p><li> <a href="feb28/index.shtml"><b>Thu, Feb 28</b></a>
+</ul>
+
+
+<p><hr><p>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week8"><b>Segment 8: The Science of Systems</b>
+</big><br>
+<p>
+One of the missions of this course is to help 
+give you a deeper understanding of "systems,"
+as you embark on your computer science research career.
+As a lead in to the course wrap-up, we'll go over some elements
+here.
+<p>
+Reading:
+<ul>
+<li> Chen, J.B., Endo, Y., Chan, K., Mazires, D., Dias, A., Seltzer, M., and Smith, M. "The Measured Performance of Personal Computer Operating Systems." 
+<cite>Proc. 15th SOSP.</cite>
+December 1995. pp. 299--313.  <a href="../resources/chen-p5-sosp.pdf"><b>(BIG pdf)</b></a>
+<p><li> Rob Pike. <cite>Systems Software Research is Irrelevant.</cite>
+February 2000.  <a href="../resources/utah2000.pdf"><b>pdf of slides</b></a>
+<p>
+<li> E. Clarke and J. Wing.
+"Formal Methods: State of the Art and Future Directions."
+<cite>ACM Computing Surveys</cite>
+28: 626-643.
+1996.
+<a href="../resources/wing1.pdf"><b>(pdf)</b></a>
+</ul>
+<p>
+Lectures:
+<ul>
+<li><a href="mar04/index.shtml"><b>Tue, Mar 4</b></a>
+<p><li> Wed, Mar 5 (X-Hour) <i>(Open)</i><br>
+Project 6 Due<br>
+<p><li> <a href="mar06/index.shtml"><b>Thu, Mar 6</b></a><br>
+</ul>
+<p>
+<hr>
+<p>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="final"><b>Endgame</b>
+</big><br>
+<p>
+<ul>
+<b> Final.</b> March 13, 10AM, Sudi 214.
+</ul>
+
+<p>
+
+</dl>
 
 
 
@@ -209,7 +557,7 @@ to discuss details with each new instructor!)
 <b> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
 
-<A HREF="/~cs108/"><b>Back to CS108 Home Page</b></A>
+<A HREF="../index.shtml"><b>Back to CS108 Home Page</b></A>
 </b> 
 &nbsp;&nbsp;&nbsp; 
 <a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
@@ -219,5 +567,5 @@ to discuss details with each new instructor!)
  
  
 
-</BODY>
-</HTML>
+</body> </html>
+              

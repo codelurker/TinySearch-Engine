@@ -1,267 +1,95 @@
-http://www.cs.dartmouth.edu/~fabio/teaching/cs4-winter07
+http://www.cs.dartmouth.edu/~sws/cs49
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-		<title>CS4 - Concepts in Computing - Winter 2007</title>
-	<meta name="author" content="Fabio Pellacini" />
-	<link rel="stylesheet" type="text/css" href="style/style.css" />
+<html> <head>
+<title>CS49: Home Page</title>
 </head>
-
+ 
 <body>
 
-<div class="pagebackground">
 
-<div class="pagedecorationbefore"></div>
-<div class="pagedecoration">
+<h2>
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">
 
-<div class="page">
+Home Page
+<br>
+ CS49, Theory of Computation, Winter 2003
+</h2>
+<i> www.cs.dartmouth.edu/~sws/cs49/index.shtml</i>
+ &nbsp;&nbsp;&nbsp;
 
-<div class="header">
-<div class="title">Concepts in Computing</div>
-<div class="subtitle">CS4 - Winter 2007</div>
-<div class="subtitle">Instructor: Fabio Pellacini</div>
-</div>
+<i> Last modified: Friday, 07-Mar-2003 16:13:40 EST</i>
 
-<div class="navigation">
-<span class="navigationitem"><a href="index.html">About</a></span>
-<span class="navigationitem"><a href="schedule.html">Schedule</a></span>
-</div>
-
-<div class="content">
-<h1>About</h1>
-
-<table style="text-align: center">
-<tr>
-<td>
-<img src="nun.jpg"/>
-</td>
-<td>
-<blockquote><p>
-<em>I think there is a world market for maybe five computers.</em> <br />
-   -Thomas Watson, IBM chairman, 1943
-</p></blockquote>
-<blockquote><p>
-<em>Computers in the future may weigh no more than 1.5 tons.</em> <br />
-   -Popular Mechanics, 1949
-</p></blockquote>
-<blockquote><p>
-<em>There is no reason anyone would want a computer in their home.</em> <br />
-   -Ken Olson, DEC chairman, 1977
-</p></blockquote>
-</td>
-</tr>
-</table>
-
-<h2>Announcements</h2>
-<p>We will not have class on Saturday Janury 6th.</p>
-
-<h2>Course Description</h2>
-<p>This course provides an overview of some of the most interesting topics 
-in computing and computer science, from how the World-Wide Web works all the 
-way down to how a computer processes individual ones and zeros. 
-We will study computing topics through the lens of HTML and JavaScript, 
-two of the more important technologies behind the World-Wide Web. 
-You will learn how to make web pages that present information, 
-and how to write scripts that interact with the users of your pages. 
-We will also cover current topics in computing, such as web searching, 
-computer animation, robotics, and bioinformatics. </p>
-
-<p>Note: CS 4 is not a "computer literacy" course. 
-We will not learn how to use general application software such as word processors, 
-spreadsheets, or e-mail programs; our intent is to give you a clear survey of 
-computer science, plus some practical experience in applying the concepts you've learned.</p>
-
-<h2>Administration</h2>
-
-<div class="listBlock">
-<div class="listBlockTitle">Instructor</div>
-<ul>
-<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) <br/> 
-Sudikoff 153 | Office hour: Th 1:30-3:00 pm and by appointment or just pop in</li>
-</ul>
-</div>
-
-<div class="listBlock">
-<div class="listBlockTitle">Teaching assistants</div>
-<ul>
-<li class="listBlockItem">Wei-Ming Chen (Wei-Ming -dot- Chen -at- dartmouth -dot- edu) <br/> Sudikoff 152 | Office hours: Su 2:00-3:00 pm, W 12:30-1:30 pm</li>
-<li class="listBlockItem">Chrisil Arackaparambil (cja -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 106 | Office hours: WF 10:0m-11:00am </li>
-<li class="listBlockItem">Himanshu Chandola (himanshu -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 157 | Office hours: MF: 3:00-4:00 pm</li>
-<li class="listBlockItem">Chien-Chung Huang (villars -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 221 | Office hours: M 3:00-5:00pm </li>
-</ul>
-</div>
-
-<div class="listBlock">
-<div class="listBlockTitle">Course Staff Email</div>
-<ul>
-<li class="listBlockItem">cs4 -at- cs -dot- dartmouth -dot- edu</li>
-</ul>
-</div>
-
-<div class="listBlock">
-<div class="listBlockTitle">TA-in-lab hours</div>
-<ul>
-<li class="listBlockItem">Sudikoff 005 | Tu,W,Th 5:00-7:00 pm</li>
-</ul>
-</div>
-
-<div class="listBlock">
-<div class="listBlockTitle">Lectures</div>
-<ul>
-<li class="listBlockItem">MWF 1:45-2:50pm | Filene in Moore </li>
-<li class="listBlockItem">Xhour: Th 1:00-1:50pm | Used sometimes for lectures </li>
-</ul>
-</div>
-
-<div class="listBlock">
-<div class="listBlockTitle">Textbook</div>
-<ul>
-	<li>Required: G. Michael Schneider, Judith L. Gersting, <em>An Invitation to Computer Science</em>, 4th Edition. </li>
-	<li>Recommended: Danny Goodman, Michael Morrison, <em>JavaScript Bible</em>, 5th Edition.</li>
-</ul>
-</div>
-
-<h2>Coursework and Grading</h2>
+<hr>
 
 <p>
-The class will have homeworks, and a midterm and final.
-The schedule page will contain an up-to-date list of homeworks and due dates.
-</p>
-
-<h3>Homeworks</h3>
 
 <p>
-The homeworks will be due at the beginning of class on Fridays, unless otherwise noted,
-with answers either printer or clearly written.
-<em>Late homeworks will not be accepted for credit.</em>
-Exception to this rule might be made for special cases only if the professor 
-is informed way before the deadline and at his sole discretion.
-</p>
 
-<p>For both written questions and programming problems, you must hand in hard-copy 
-of your solutions. When turning in homework assignments, 
-write your name on each piece of your submission, and turn them in enclosed in a 
-manila envelope which has your name written prominently on it.</p>
+
 
 <p>
-In order to complete the HTML/JavaScript homeworks you will need to:
-</p>
-<ol>
-	<li> <a href="http://www.dartmouth.edu/~apply">Apply for personal web space</a> 
-		on the Dartmouth web server. Do this as soon as possible, 
-		as it may take several days for your account to be created. </li>
-    <li> Create a "private" folder within your personal web space for your 
-         CS 4 homework. Name the folder something like cs4Q8294 -- that is, 
-         append to cs4 a letter (upper or lower case) followed by four numbers 
-         (non-sequential, e.g., don't use 1234). 
-         Your choice of a code name for this folder will make it unlikely that 
-         anybody can casually stumble onto your homework. 
-         Needless to say, it is a violation of the honor code to copy anything 
-         from another student's web page. 
-         When submitting your homework, make sure to write down your full URL 
-         (including the 5 character code), so that your TA will be able to access your homework. </li>
-    <li> Install a version of <a href="http://www.mozilla.com/en-US/firefox/">Firefox 2</a>. 
-    	Note that there are differences between the various web browsers, 
-    	and you must make sure that your code works on Firefox 2, 
-    	as this is what the TAs will be using to grade your homeworks. </li>
-</ol>
+
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> 
+
+<b>New</b>
+</big><br>
+<p>
+
+The <a href="final/"><b>final</b></a> is posted.  Good luck!
+
+
 
 <p>
-For homework assignments including an HTML/JavaScript component, 
-in addition to turning in a hard-copy, you must also do the following:</p>
 
-<ol>
-   <li> On each web page, include a piece of JavaScript code that will 
-   <a href="timestamp.html">time stamp</a> your assignment. </li>
-   <li> <a href="http://www.dartmouth.edu/web/accounts/access.html">Upload</a> 
-   your web pages to the Dartmouth web server, in your "private" folder (see above). </li>
-   <li> Write or print the URL of the page you are submitting, on top of the hard copy of your homework. </li>
-</ol>
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> 
 
-<h3>Lab</h3>
+<a href="purpose/"><b>Purpose of Course</b></a>
+</big><br>
 
 <p>
-Sudikoff 005 has a number of Macintosh computers that are available for your use. 
-During the scheduled hours, these computers are reserved for CS 4 students. 
-You may use the lab at other times as long as it is not reserved for other uses, 
-although during unscheduled hours, you might have to share the lab with students 
-from other courses, and course staff will not be available. 
-To get your ID card enabled for access to this lab (and to Sudikoff after-hours), 
-see Kelly Clark in 101 Sudikoff on a weekday between 8:30am-12:00pm or 1:00-3:30pm. 
-</p>
 
-<h3>Grading</h3>
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> 
+
+<a href="logistics/"><b>Logistics</b></a>
+</big><br>
 
 <p>
-The grade will be rougly based on homeworks (30% total), midterm exam (35 %) and final (35%).
-</p>
 
-<p> For exceptionally creative and interesting work, it is possible to receive extra credit points. 
-Extra credit is tallied separately from the regular grades on homework and exams, 
-and is used to adjust final grades after the final average is computed.
-Extra credit is not assigned as part of the regular homework problems, 
-but the course staff will be on the lookout for clever and creative work that you have 
-done above and beyond the normal assignments given.
-</p>
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> 
 
-<h2>Policies</h2>
+<a href="lectures/"><b>Syllabus (and Lecture Notes)</b></a>
+</big><br>
 
-<h3>Honor Code</h3>
+<p>
 
-<p>On examinations in this course (either midterm or final), you may not collaborate with, 
-copy from, or otherwise share information with any other students.</p>
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> 
 
-<p>For homework problems (but not examinations), you may discuss general approaches 
-with your classmates, before you have written your solutions, and you may help each 
-other find bugs in each other's code. However, your code and any other solutions 
-you submit must be created, written/typed, and documented by you alone; 
-any copying (electronic or otherwise) of another person's code or solutions, 
-in whole or in part, is a violation of the Honor Code.</p>
+<a href="resources/"><b>Textbook and Resources</b></a>
+</big><br>
 
-<p>If you make use of any code taken from outside references -- for instance, 
-from an off-site web page or a textbook other than the ones used for this course -- 
-you must clearly attribute the source of the code with clear comments in the code that 
-you submit. Code from class examples, the course textbooks, or the homework assignments, 
-does not have to be attributed. Note also that proper respect for copyright laws as applied 
-to printed materials and software products is subsumed by Dartmouth College's 
-<a href="http://www.dartmouth.edu/comp/about/policies/">Computing Policies</a>.</p>
+<p>
 
-<p>If you have any questions as to whether some action would be acceptable under the 
-Academic Honor Code, please speak to me or another member of the course staff, 
-and we will be glad to help clarify things. 
-It is always easier to ask beforehand than to have trouble later.</p>
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> 
 
-<h3>Disabilities</h3>
+<a href="homework/"><b>Homework, Etc.</b></a>
+</big><br>
 
-<p>I encourage any students with disabilities, including "invisible" disabilities such 
-as chronic diseases and learning disabilities, to discuss appropriate accommodations 
-with me, which might help you with this class, either after class or during office hours. 
-Dartmouth College has an active program to help students with disabilities, 
-and I am happy to do whatever I can to help out, as appropriate.</p>
+<p>
 
-<p>The Student Disabilities Coordinator, Nancy Pompian, can be reached at 6-2014 if you 
-have any questions. Any student with a documented disability requiring academic adjustments 
-or accommodations is requested to speak with me by the second week of the term. 
-All discussions will remain confidential. It is important, however, 
-that you talk to me soon, so that I can make whatever arrangements might 
-be needed in a timely fashion.</p>
+<hr>
+<b>
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif">
 
-</div>
+<A HREF="/"><b>Back to Dartmouth CS Home Page</b></A>
+</b>
+&nbsp;&nbsp;&nbsp;
+<a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a>
+&nbsp;&nbsp;&nbsp;
+&lt; <a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>&gt;
 
-<div class="footer">
-Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) <br/>
-with thanks to C. Bailey-Kellogg, M. J. Fromberger, H. Farid, P. Wayner
-</div>
 
-</div>
 
-</div>
-<div class="pagedecorationafter"></div>
 
-</div>
-
-</body>
-</html>nfilei
+</body> </html>
+                                                                                     
+ystudei

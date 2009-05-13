@@ -1,27 +1,17 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR96-291
+http://www.cs.dartmouth.edu/reports/abstracts/TR96-289
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR96-291 </TITLE>
-<META NAME="description" CONTENT="Object Oriented Scenes for Virtual Light">
-<META NAME="number" CONTENT="PCS-TR96-291">
-<META NAME="year" CONTENT="1995">
-<META NAME="title" CONTENT="Object Oriented Scenes for Virtual Light">
-<META NAME="abstract" CONTENT=" Ray tracing is one of many way to use a computer to generate an image. Ray
-tracers produce images by simulating light. Eliminating the details that might
-distract one from the interesting parts of ray tracing algorithms was purpose
-of my thesis project.  The software I have written can be divide into three
-parts: the virtual frame buffer, the support classes and the ray tracing
-abstract base classes.
- The virtual frame buffer class, vfb, provides a simple means of rendering and
-studying the final image produced by a graphical algorithm. The support classes
-provide an elegant notation for the equations involved in ray tracing.  The ray
-tracing base classes and associated classes provide a object oriented structure
-for defining the objects that make up a scene.  ">
-<META NAME="author" CONTENT="Jonathan A. Moore">
+<TITLE> Dartmouth PCS-TR96-289 </TITLE>
+<META NAME="description" CONTENT="Segmenting Workstation Screen Images">
+<META NAME="number" CONTENT="PCS-TR96-289">
+<META NAME="year" CONTENT="1996">
+<META NAME="title" CONTENT="Segmenting Workstation Screen Images">
+<META NAME="abstract" CONTENT="None.">
+<META NAME="author" CONTENT="Denis M. Serenyi">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -115,54 +105,40 @@ for defining the objects that make up a scene.  ">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Object Oriented Scenes for Virtual Light </b></font><br>
+<font size=+2><b> Segmenting Workstation Screen Images </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Moore,Jonathan.A..shtml">Jonathan A. Moore</A>
+ <A HREF="../../authors/Serenyi,Denis.M..shtml">Denis M. Serenyi</A>
 <br>
-Dartmouth PCS-TR96-291
+Dartmouth PCS-TR96-289
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
-</P><P>
- Ray tracing is one of many way to use a computer to generate an image. Ray
-tracers produce images by simulating light. Eliminating the details that might
-distract one from the interesting parts of ray tracing algorithms was purpose
-of my thesis project.  The software I have written can be divide into three
-parts: the virtual frame buffer, the support classes and the ray tracing
-abstract base classes.
-</P><P>
- The virtual frame buffer class, vfb, provides a simple means of rendering and
-studying the final image produced by a graphical algorithm. The support classes
-provide an elegant notation for the equations involved in ray tracing.  The ray
-tracing base classes and associated classes provide a object oriented structure
-for defining the objects that make up a scene.  
+None.
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-A Senior Undergraduate Honors Thesis in Computer Science.<p>
-Please see the
-<a href="http://www.cs.dartmouth.edu/reports/TR96-291.tiffs/">TIFF images</a>.
+A Senior Undergraduate Honors Thesis in Computer Science.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR96-291.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (80KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-289.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (932KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR96-291.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (144KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-289.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (404KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR96-291.ascii">plain text</a>]
-  [<a href="TR96-291.bib">BIB</a>]
-  [<a href="TR96-291.bibtex">BibTeX</a>]
-  [<a href="TR96-291.refer">Refer</a>]
+  [<a href="TR96-289.ascii">plain text</a>]
+  [<a href="TR96-289.bib">BIB</a>]
+  [<a href="TR96-289.bibtex">BibTeX</a>]
+  [<a href="TR96-289.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Jonathan A. Moore, 
-"Object Oriented Scenes for Virtual Light."
-Dartmouth Computer Science Technical Report PCS-TR96-291,
-June 1995.
+Denis M. Serenyi, 
+"Segmenting Workstation Screen Images."
+Dartmouth Computer Science Technical Report PCS-TR96-289,
+June 1996.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->

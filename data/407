@@ -56,8 +56,8 @@ do_date();
 <p>
 </form>
 
-<br> exec cmd Accesses since Aug 19, 1999: 36139 
-<br> dateTuesday, 12-May-2009 19:03:24 EDT  
+<br> exec cmd Accesses since Aug 19, 1999: 36142 
+<br> dateWednesday, 13-May-2009 01:14:33 EDT  
 <pre>
 FOO.htm
 FOO2.htm
@@ -129,4 +129,4 @@ document.write(document.lastModified)
 
 </body>
 </HTML>
-for othá
+r othá

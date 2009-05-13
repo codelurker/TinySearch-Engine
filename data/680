@@ -1,147 +1,547 @@
-http://www.cs.dartmouth.edu/~afra/courses/cs19/winter07
+http://www.cs.dartmouth.edu/~ac/Teach/CS19-Winter06
 3
-<html>
-<head>
-<title>CS 19 - Discrete Mathematics - Winter 2007</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 19 (Winter 2006): Amit Chakrabarti</title>
 </head>
 
-<body bgcolor="#ffffff">
+<body>
 
-<hr align="center" noshade="noshade">
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
 
-<!-- ----- One row top level table  ----- -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 19 / Math 19 / Engineering 66<br>
+    Discrete Mathematics in Computer Science<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Winter 2006<h3></td>
+</tr></table>
+<center>
+  [ <a href="#announcements">Announcements</a> |
+  <a href="#admin">Administrative Basics</a> |
+  <a href="#lectures">Schedule and Homeworks</a> |
+  <a href="#solutions">Solutions</a> |
+  <a href="#scores">Grades Database</a> ]
 
-<!-- ----- Left-hand side navbar ----- -->
-<td width="200" align="right">
-<font size = "+1" align=right>
-CS 19 - Winter 2007<br><br>
-Discrete Mathematics<br>
-for<br>
-Computer Science<br>
-</font>
-<br>
-<br>
-<br>
-<br>
-<b>Announcements</b><br>
-<a href="admin.html">Administrivia</a><br>
-<a href="schedule.html">Schedule</a><br>
-<a href="resources.html">Resources</a><br>
-<a href="glookup.html">View Grades</a><br>
-<br><br><br><br>
-</td>
+</center>
 
-<!-- ----- Interior left margin ----- -->
-<td width="25">&nbsp;</td> 
+<!-- ------------------------------------------------ -->
 
-<!-- ----- Page body ----- -->
-<td>
+<hr>
+<h3>Course Description</h3> 
+
+<p> In this course we shall get introduced to <i>Discrete
+Mathematics</i>, a relatively modern branch of mathematics with close
+ties to computer science. The major topics to be covered include
+counting techniques, logic and proofs (including mathematical
+induction), and some basics of probability theory and graph theory.
+These topics are all motivated by applications from computer science and
+where appropriate we shall study some of these applications.  </p>
+
+<p> One very important skill that students will be <i>required</i> to
+pick up during this course is that of writing clear, convincing,
+mathematical proofs. This is because the mathematics in this course is
+not just about calculation; it is more about making (and clearly
+presenting) mathematically rigorous arguments and about learning to
+recognize faulty reasoning. </p>
+
+<p> The above skill is quite a rarity, and is known to be hard to
+acquire.  Students are therefore advised to ask themselves from time to
+time whether they are making good progress towards acquiring this
+skill.  </p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="announcements"></a>
 <h3>Announcements</h3> 
-<p>
-<h4>What's New <img src = "images/new.gif" alight = left> </h4>
-<ul>
-<li> &empty;
-</ul>
 
-<h4>What's Old  <img src = "images/old.gif" alight = left> </h4>
-<ul>
-<li> (03/13/07) Final grades are updated online.
-<li> (03/07/07) One of you asked and just in case the rest of the class
-is wondering too, there won't be any more TA office hours, but the TA's
-willing to meet by appointment. Just blitz.
-<li> (03/07/07) HW7 is graded and they are now in CS19 outgoing box
-waiting for you to pick them up.
-<li> (03/07/07) Final is this Saturday, 3 &ndash 6 PM, in Sudikoff 115.
-<li> (03/05/07) Afra's office hours are 11-1 tomorrow.
-<li> (03/03/07) In Homework Eight, Problem 2d, it should say <em>directed</em> graph.  Thanks to Tom Eastman for pointing this out.
-<li> (02/28/07) Homework Eight is now online.  I put extra copies in the class outgoing box.
-<li> (02/25/07) TA office hours for HW7 has moved to 17:00 - 20:00 on Tuesday Feb 27.
-<li> (02/23/07) Solutions to Homework Six are in the outgoing box for the class.
-<li> (02/21/07) Homework Seven is now online.  I put extra copies in the class outgoing box.
-<li> (02/19/07) The <b>second midterm</b> is moved to Friday, February 21st, 
-from 7 - 9 PM in Moore B03 (same location as the last midterm.)  The midterm covers lectures 1 - 18.
-<li> (02/21/07) We have recitation tomorrow from 7 - 9 PM in our usual classroom.
-<li> (02/21/07) We have x-hour tomorrow!
-<li> (02/19/07) The solutions to Homework Five are now in the outgoing box
-for class.
-<li> (02/19/07) Afra's office hours this week are at 
-10:00 AM to 12:00 PM on Tuesday.
-<li> (02/19/07) The TA's office hours for HW6 have managed to move one more time. So, it is going to be 17:00 - 19:00 on Monday February 19 and
-22:00 - 24:00 on Tuesday February 20.
-<li> (02/18/07) The TA's office hours for HW6 are 17:00 - 20:00 on
-Tuesday February 20.
-<li> (02/18/07) Afra has changed his "permanent" office hours to Tuesdays, 2:30-4:30 PM, as reflected in the 
-<a href = "admin.html">Administrivia</a>
-page.
-<li> (02/14/07) No x-hour tomorrow. Your Homework 5 will be due on Wedneday Feb 21 instead of Monday Feb 19. Please disregard earlier announcement
-about the due date. However, the midterm date stays at Wednesday Feb 21.
-<li> (02/12/07) <a href="handouts/hw6.pdf"> Homework 6</a> is now
-online. It will be due on Monday Feb. 19, which is two days before your
-next midterm.
-<li> (02/08/07) Remember that Afra is not here next week.  Prof. Carl Pomerance will be teaching on Monday and Wednesday, and Raz will be lecturing on Friday.
-<li> (02/08/07) The results and a response to the Mid-term Informal Feedback was handed out today and is available now on the 
-<a href = "schedule.html">Schedule</a>.
-<li> (02/05/07) The <b>second midterm</b> will be on Wednesday, February 21st, from 7-9.
-<li> (02/05/07) Afra's Office Hours will be on Wednesday, 2:30-4:30 PM.
-<li> (02/05/07) Homework 5 is now online.
-<li> (02/02/07) We have started collecting possible research and summer opportunities on the
-<a href="resources.html">Resources</a> 
-page.  Take a look and apply!
-<li> (02/02/07) On Homework Four, Question 7, you can write the definition of the existential quantifier <em>without</em> dot-dot-dots if you write a big or and put superscripts and subsripts on it, just like we do for the summation notation (big sigma) or product notation (big pi).
-<li> (01/29/07) &ndash; Errata for Homework Two Solutions:  On 2b and 2c, if k > n, then the answer is 0.  On the second part of the proof for problem 5, "would not missed" should be "would be missed."
-<li> (01/29/07) &ndash; Afra's office hours will be on Tuesday, 11 AM - 1 PM.
-<li> (01/29/07) &ndash; For the midterm, the TA will run a recitation session in Sudikoff 214 from 17:00 - 19:00 on Tues,
-Jan 30. 
-<li> (01/27/07) &ndash; The midterm will cover the first three homeworks, or equivalently, the first 8.5 lectures (set theory, counting, and logic.)  
-<li> (01/26/07) &ndash; The midterm will be in <b>Moore B03</b>.  This is the building next to Sudikoff on <a href = "http://www.dartmouth.edu/~maps/campus/close-ups/ne.html">our street</a>.
-<li> (01/24/07) &ndash; Recall:  X-hour tomorrow.  No class on Friday.
-<li> (01/22/07) &ndash; You can now view your <a href="glookup.html">Grades</a> online. Note: Username is exactly the name you provided on your  
-homework and is case-insensitive. Passwords (also provided by you) are case-sensitive however.
-<li> (01/20/07) &ndash; Afra's office hours will be on Tuesday from 11 to 1 for this week.
-<li> (01/20/07) &ndash; Make sure you explain all your results on your homework, even if the problem does not ask for it.  So, don't just give the final answer, but show your work.
-<li> (01/18/07) &ndash; The first midterm is now marked on the
- <a href = "schedule.html">Schedule</a>.  It will be on Wednesday, January 31st, from 7-9 PM in Sudikoff 115 (unless we find a better room.)
-<li> (01/17/07) &ndash; We will have x-hour <em>next week</em>, too, on 1/25.  There will be no class on Friday the 26th.
-<li> (01/17/07) &ndash; The LaTeX source for Homework Two is now available
-in the 
-<a href="resources.html">Resources</a> 
-page.
-<li> (01/15/07) &ndash; Don't forget that we have x-hour this week (on Thursday)!
-<li> (01/14/07) &ndash; The LaTeX source for Homework One is now available
-in the 
-<a href="resources.html">Resources</a> 
-page.
-<li> (01/13/07) &ndash; We now have a 
-<a href="resources.html">Resources</a> 
-<li> (01/12/07) &ndash; Please see Kelly (Sudikoff Main Office) to get
-building access during closed hours and also mention access to the
-second floor where the friendly TA's office is.
-<li> (01/12/07) &ndash; Starting today, we have reading assignments on 
-the <a href = "schedule.html">Schedule</a>.
-<li> (01/11/07) &ndash; Since Monday (1/15) is a holiday, Afra's office hours will be Tuesday (1/16) from 2:30 -- 4:30 PM next week.
-<li> (01/10/07) &ndash; TA office hours for HW1 and HW2 will be Tues 17:00 - 20:00.
-<li> (01/10/07) &ndash; Homework and Grading Policy, as well as Homework 1, are now on the <a href = "schedule.html">Schedule</a>
-<li> (01/08/07) &ndash; Go see 
-<a href = "http://hop.dartmouth.edu/supervision/index.html">Super Vision</a> at the HOP to see "three chilling stories of lives reduced to data."  It's this Friday and Saturday.
-<li> (01/08/07) &ndash; Make sure you send me a blitz!
-<li> (01/03/07) &ndash; First class is on Friday, January 5, 2007
-</ul>
-</td>
+  <ul> 
 
-<!-- ----- Right-hand margin ----- -->
-<td width="25">&nbsp;</td>
-</tr>
-</tbody>
+    <li> [Mar 9] Solutions to HW7 and HW8 have been posted. This
+    completes the posting of all official solutions. You may (and
+    should) refer to these as you work on the final exam.
+
+    <li> [Mar 8] The <a href="Exams/final.html">final exam</a> is ready
+    for download. Clicking the link will take you to a webpage with
+    details about the exam. Please click it now. Your clock won't start
+    until you fill out your password on that page.
+
+    <li> [Mar 3] Solution to Quiz 2 have been posted. Please read these
+    carefully. Remember, all posted solutions are required reading.
+
+    <li> [Feb 27] Solutions to HW6 have been posted. Solutions to HW4
+    and HW5 had been silently posted a while ago!
+
+    <li> [Feb 5] Solutions to Quiz 1 and to HW3 have been posted.
+
+    <li> [Feb 3] Homework 4 has been posted. Solutions to HW3 will be
+    posted lated today.
+
+    <li> [Feb 1] A handout on big-O, big-Omega and big-Theta notation
+    has been posted. See the Feb 1 entry in the schedule table. Thanks
+    to <a href="http://www.cs.dartmouth.edu/~thc">Tom Cormen</a> for 
+    this handout.
+
+    <li> [Feb 1] Solutions to HW2 have been posted. 
+
+    <li> [Jan 27] Homework 3 has been posted to the website. Solutions
+    to HW2 have not yet been posted because we are still waiting for a
+    couple of late submissions.
+
+    <li> [Jan 20] Homework 2 and solutions to Homework 1 have been
+    posted to the website. See below.
+
+    <li> [Jan 11] This course website has been significantly updated.
+    Please go through it all very carefully. Pay special attention to
+    the <a href="admindetails.html">administrative details</a> page,
+    which has important information you need about work due.
+
+    <li> [Jan 3] Please send a blitz to the instructor with your name
+    (only first and last name, no initials) and a password for
+    accessing your grades in the grades database.
+
+  </ul>
+
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="admin"></a>
+<h3>Administrative Basics</h3>
+
+<b>Important!</b> Please also read and familiarize yourself with the <a
+href="admindetails.html">administrative details</a> not covered in the
+outline below. Pay special attention to the section that describes <a
+href="admindetails.html#honorcode">how the honor code applies to this
+course</a>; violations of the honor code <i>will</i> be treated
+seriously.<p><br>
+
+<table cellpadding=2>
+  <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 214 (may change) | 10 hour | MWF 10:00-11:05, X-hr Th 12:00-12:50
+    </td>
+  </tr>
+  <tr><td valign=top><b>Instructor</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 107 | 6-1710 | 
+      Office hours: Mon &amp; Fri 14:00-16:00 or by appointment
+    </td>
+  </tr>
+  <!--  <tr><td valign=top><b>Tutorials</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 212 | TThSu 19:00-21:00
+    </td>
+  </tr> -->
+  <tr><td valign=top><b>Teaching Assistants</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~villars">Chien-Chung Huang</a> | Sudikoff 221 | 6-8753 | 
+      Office hours: Mon 19:00-20:00, Tue 16:00-18:00, Fri 16:00-17:00
+      <br>
+      <a href="/~blinn">David Blinn</a> | Sudikoff 114 | 6-5716 |
+      Office hours: Mon 16:00-17:00, Tue 16:00-18:00
+      <br>
+      On Mon and Tue, please visit the TA who will be grading the
+      homework due on Wed of that week.
+      <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Textbook</b> <br><br></td> 
+    <td valign=top> 
+      <a href="http://www.amazon.com/gp/product/1930190867/104-0811765-2747120?v=glance&n=283155">
+      <i>Discrete Mathematics for Computer Science.</i></a> &nbsp; 
+      K. P. Bogart, C. Stein, R. L. Drysdale. &nbsp;
+      Key College Publishing. &nbsp; 
+      ISBN 1930190867.  <br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
+    <td valign=top> 
+      CS 5 or equivalent <br>
+      CS 15 or 18 (corequisite) <br>
+      MATH 8 or equivalent is very strongly recommended <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Work</b> <br><br> </td> 
+    <td valign=top>
+      <table><tr>
+        <td><a href="admindetails.html#comm">
+	  Reading and email comments before each class</a></td>
+        <td>[10 points]</td>
+      </tr><tr>
+        <td><a href="admindetails.html#clex">
+	  Group work on class exercises</a>.</td>
+	<td>[15 points]</td>
+      </tr><tr>
+        <td><a href="admindetails.html#hw">
+	  One homework per week</a>.</td>
+	<td>[30 points]</td>
+      </tr><tr>
+        <td>Two in-class quizzes.</td>
+	<td>[20 points]</td>
+      </tr><tr>
+        <td>One take-home final exam.</td>
+	<td>[25 points]</td>
+      </tr></table> <br>
+      Please take note of the <a href="admindetails.html#hw">late 
+      homework policy</a>. <br>
+    </td>
+  </tr>
 </table>
 
-<hr align="center" noshade="noshade">
+<!-- ------------------------------------------------ -->
 
-<img src="images/Dshield.png" align="left" height="45">
-<img src="images/Dtree.gif" align="left" height="45">
-<a href="http://www.cs.dartmouth.edu/">Computer Science</a><br>
-<a href="http://www.dartmouth.edu/">Dartmouth College</a>
+<hr>
+
+<a name="lectures"></a>
+<h3>Schedule and Homeworks</h3> 
+
+<p> This schedule will be updated frequently. Please check back often,
+and please remember to hit the RELOAD button to get the latest schedule.
+The "Reading Due" column indicates the section(s) of your textbook that
+you should read, and <a href="admindetails.html#comm">submit email
+comments for</a>, before coming to class. You should also work out, with
+your team, the exercises within that section; they will be the <a
+href="admindetails.html#clex">class exercises</a> for that class.
+Sometimes, one or two additional class exercises may be added using the
+notation <span style="color:red">P<i style="color:red">i.j-k</i> (in
+red)</span>: this refers to Problem <i>k</i> from Section <i>i.j</i> of
+your textbook.
+
+<p> Any part of the schedule that is <span style="color:#888888">greyed
+out</span> is tentative and subject to change. </p>
+
+<!-- <p> The homework problems are, for the most part, assigned from the
+textbook. In the table below, such problems are simply referred to using
+the section number and problem number from the textbook. When additional
+(outside the textbook) problems are assigned, they are numbered AP1,
+AP2, etc. To read the statements of these problems, see the <a
+href="additional.pdf">additional problems page</a>, or just click on
+the problem number in the table below. </p> -->
+
+<table border=1 cellpadding=2 cellspacing=1>
+<tr>
+  <td valign=top><p class=hdr>L#</p></td>
+  <td><p class=hdr>Date</p></td>
+  <td><p class=hdr>Reading Due</p></td>
+  <td><p class=hdr>Homework Due</p></td>
+  <td><p class=hdr>Class Topic</p></td>
+</tr><tr>
+  <td align=right valign=top> 1 </td>
+  <td> Jan 4 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Welcome, administrivia, overview; 
+    <a href="Exams/quiz0.pdf">Quiz 0</a> </td>
+</tr><tr>
+  <td align=right valign=top> 2 </td>
+  <td> Jan 6 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> A teaser: pancake numbers 
+    (thanks: <a href="http://www.cs.cmu.edu/~anupamg/">Anupam Gupta</a>)
+    (<a href="SlidesAndNotes/lec02pancakes.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 3 </td>
+  <td> Jan 9 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Sets and operations on sets
+    (<a href="SlidesAndNotes/lec03sets.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 4 </td>
+  <td> Jan 11 </td>
+  <td> L3 slides </td>
+  <td> &mdash; </td>
+  <td> Relations and functions
+    (<a href="SlidesAndNotes/lec04relfunc.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 5 </td>
+  <td> Jan 12 (X-hr) </td>
+  <td> L4 slides </td>
+  <td> &mdash; </td>
+  <td> Logic and logical notation
+    (<a href="SlidesAndNotes/lec05logic.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 6 </td>
+  <td> Jan 13 </td>
+  <td> 3.1, 3.2; L5 slides </td>
+  <td> &mdash; </td>
+  <td> More on logic: variables and quantifiers
+    (<a href="SlidesAndNotes/lec06quantifiers.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Jan 16 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td class=xxx> No class; MLK day
+    </td>
+</tr><tr>
+  <td align=right valign=top> 7 </td>
+  <td> Jan 18 </td>
+  <td> 1.1; <span style="color:red">P1.1-9</span> </td>
+  <td> <a href="Homeworks/hw1.pdf">HW1</a> </td>
+  <td> Basic counting
+    </td>
+</tr><tr>
+  <td align=right valign=top> 8 </td>
+  <td> Jan 19 (X-hr) </td>
+  <td> 1.2 </td>
+  <td> &mdash; </td>
+  <td> Counting lists and permutations
+    </td>
+</tr><tr>
+  <td align=right valign=top> 9 </td>
+  <td> Jan 20 </td>
+  <td> 1.3 </td>
+  <td> &mdash; </td>
+  <td> Permutations and combinations (subsets)
+    </td>
+</tr><tr>
+  <td align=right valign=top> 10 </td>
+  <td> Jan 23 </td>
+  <td> <span style="color:red">P1.3-5, P1.3-7</span> </td>
+  <td> &mdash; </td>
+  <td> Binomial coefficients and the binomial theorem
+    </td>
+</tr><tr>
+  <td align=right valign=center> 11 </td>
+  <td> Jan 25 </td>
+  <td> 1.4 up to <br> "Multisets" </td>
+  <td> <a href="Homeworks/hw2.pdf">HW2</a> </td>
+  <td> Equivalence relations and the quotient principle <br>
+    Note: For the reading, you may stop right before the "Multisets" 
+    subsection </td>
+</tr><tr>
+  <td align=right valign=top> 12 </td>
+  <td> Jan 27 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Proofs by contradiction and by mathematical induction
+    (<a href="SlidesAndNotes/lec12induction.pdf">slides</a>) </td>
+</tr><tr>
+  <td align=right valign=top> 13 </td>
+  <td> Jan 30 </td>
+  <td> 4.1; L12 slides </td>
+  <td> &mdash; </td>
+  <td class=final> More on mathematical induction
+    </td>
+</tr><tr>
+  <td align=right valign=center> 14 </td>
+  <td> Feb 1 </td>
+  <td> 4.2 </td>
+  <td> <a href="Homeworks/hw3.pdf">HW3</a> </td>
+  <td class=final> Recurrences and their connection to induction and
+    recursion <br>
+    <b>Important</b>: Please read and understand this 
+    <a href="SlidesAndNotes/CLRS-3.1.pdf">handout on O, &Omega; and
+    &Theta; notation</a> </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Feb 2 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> Quiz 1: closed-notes, in-class
+    </td>
+</tr><tr>
+  <td align=right valign=top> 15 </td>
+  <td> Feb 3 </td>
+  <td> 4.3; L14 handout </td>
+  <td> &mdash; </td>
+  <td class=final> Recurrences and growth rates 
+    </td>
+</tr><tr>
+  <td align=right valign=top> 16 </td>
+  <td> Feb 6 </td>
+  <td> 4.4, 4.5 </td>
+  <td> &mdash; </td>
+  <td class=final> The master theorem; recurrence inequalities
+    </td>
+</tr><tr>
+  <td align=right valign=top> 17 </td>
+  <td> Feb 8 </td>
+  <td> Reread 4.5 </td>
+  <td> <a href="Homeworks/hw4.pdf">HW4</a> </td>
+  <td class=final> Wrinkly induction proofs
+    </td>
+</tr><tr>
+  <td align=right valign=top> 18 </td>
+  <td> Feb 9 (X-hr) </td>
+  <td> 5.1 </td>
+  <td> &mdash; </td>
+  <td class=final> Probability
+    </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Feb 10 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td class=xxx> No class; carnival holiday
+    </td>
+</tr><tr>
+  <td align=right valign=top> 19 </td>
+  <td> Feb 13 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td class=final> Sample spaces and probability measures (class
+    exercises from Sec 5.1) </td>
+</tr><tr>
+  <td align=right valign=top> 20 </td>
+  <td> Feb 15 </td>
+  <td> 5.2 </td>
+  <td> <a href="Homeworks/hw5.pdf">HW5</a> </td>
+  <td class=final> The principle of inclusion and exclusion
+    </td>
+</tr><tr>
+  <td align=right valign=top> 21 </td>
+  <td> Feb 17 </td>
+  <td> 5.3 </td>
+  <td> &mdash; </td>
+  <td class=final> Conditional probability and independence
+    </td>
+</tr><tr>
+  <td align=right valign=top> 22 </td>
+  <td> Feb 20 </td>
+  <td> 5.4 </td>
+  <td> &mdash; </td>
+  <td class=final> Random variables
+    </td>
+</tr><tr>
+  <td align=right valign=top> 23 </td>
+  <td> Feb 22 </td>
+  <td> 5.5 </td>
+  <td> <a href="Homeworks/hw6.pdf">HW6</a> </td>
+  <td class=final> Probability calculations in hashing
+    </td>
+</tr><tr>
+  <td align=right valign=top> 25 </td>
+  <td> Feb 23 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> Quiz 2: closed-notes, in-class
+    </td>
+</tr><tr>
+  <td align=right valign=top> 26 </td>
+  <td> Feb 24 </td>
+  <td> 5.6 </td>
+  <td> &mdash; </td>
+  <td class=final> Randomized recursive algorithms and their analysis
+    </td>
+</tr><tr>
+  <td align=right valign=top> 27 </td>
+  <td> Feb 27 </td>
+  <td> 6.1 </td>
+  <td> &mdash; </td>
+  <td class=final> Graphs 
+    </td>
+</tr><tr>
+  <td align=right valign=center> 28 </td>
+  <td> Mar 1 </td>
+  <td> 6.1, 6.2 </td>
+  <td> <a href="Homeworks/hw7.pdf">HW7</a> </td>
+  <td class=final> Trees and spanning trees <br>
+    (reading: skip "breadth-first search" and "rooted trees" from 6.2)
+    </td>
+</tr><tr>
+  <td align=right valign=center> 29 </td>
+  <td> Mar 3 </td>
+  <td> 6.3 </td>
+  <td> &mdash; </td>
+  <td class=final> Eulerian graphs <br>
+    (reading: skip "Hamiltonian paths" and the rest of 6.3 from there on)
+    </td>
+</tr><tr>
+  <td align=right valign=top> 31 </td>
+  <td> Mar 6 </td>
+  <td> 6.4 up to p362 </td>
+  <td> &mdash; </td>
+  <td class=final> Matchings I: Berge's Theorem 
+    </td>
+</tr><tr>
+  <td align=right valign=top> 32 </td>
+  <td> Mar 8 </td>
+  <td> Rest of 6.4 </td>
+  <td> <a href="Homeworks/hw8.pdf">HW8</a> </td>
+  <td class=final> Matchings II: K&ouml;nig-Egerv&aacute;ry and Hall's
+    Theorems </td>
+</tr><tr>
+  <td align=right valign=top bgcolor=#00ff00> &nbsp; </td>
+  <td bgcolor=#00ff00> <b>Mar 14</b> </td>
+  <td align=center colspan=3 bgcolor=#00ff00> Take-home 24-hour <a
+  href="Exams/final.html"><b>final exam</b></a>, due at 5:00pm sharp <br>
+  Please the click the above link for info on the final exam. <br>
+  Your clock won't start until you fill out your password on that page.
+  </td>
+</tr>
+</table><p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name=solutions></a>
+<h3>Solutions to Homework and Exam Problems</h3>
+
+<ul>
+  <li> <a href="Homeworks/hw1-sol.pdf">Solutions to HW1</a>
+  <li> <a href="Homeworks/hw2-sol.pdf">Solutions to HW2</a>
+  <li> <a href="Homeworks/hw3-sol.pdf">Solutions to HW3</a>
+  <li> <a href="Homeworks/hw4-sol.pdf">Solutions to HW4</a>
+  <li> <a href="Homeworks/hw5-sol.pdf">Solutions to HW5</a>
+  <li> <a href="Homeworks/hw6-sol.pdf">Solutions to HW6</a>
+  <li> <a href="Homeworks/hw7-sol.pdf">Solutions to HW7</a>
+  <li> <a href="Homeworks/hw8-sol.pdf">Solutions to HW8</a>
+  <li> <a href="Exams/quiz1-sol.pdf">Solutions to Quiz 1</a>
+  <li> <a href="Exams/quiz2-sol.pdf">Solutions to Quiz 2</a>
+</ul>
+
+</dd></dt></dl>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name=scores></a>
+<h3>Grades Database</h3>
+
+<p> If you are a registered student, you may verify your grades as
+entered in our database using the form below. </p>
+
+<form
+  method=post
+  action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs19/glookup.cgi">
+    <table><tr>
+      <td>Your name, without initials or suffixes:</td>
+      <td><input type=text name=name size=25></td>
+    <tr>
+      <td>Your CS 19 password:</td>
+      <td><input type=password name=password size=25></td>
+    </table>
+    <p>
+    <input type=submit name=submit value="Check scores">
+</form>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
 </body></html>
 i

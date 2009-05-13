@@ -1,137 +1,145 @@
-http://www.cs.dartmouth.edu/~cbk/bio/05fall
+http://www.cs.dartmouth.edu/~afra/courses/cs44/winter09
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<meta http-equiv=content-type content="text/html">
-<title>CS 88/188: Introduction to Bioinformatics, Fall 2005</title>
-<link href="style.css" type="text/css" rel="stylesheet">
+<title>CS 44 - Artificial Intelligence</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
 </head>
 
-<body>
-<table border=0 width=750>
+<body bgcolor="#ffffff">
 
-<tr>
-<td colspan="2"><h2>CS 88/188: Introduction to Bioinformatics, Fall 2005</h2></td>
-</tr>
+<hr align="center" noshade="noshade">
 
-<tr><td>&nbsp;</td></tr>
+<!-- ----- One row top level table  ----- -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
 
-<tr>
-<td><b>Instructor</b></td>
-<td><a href="http://www.cs.dartmouth.edu/~cbk/">Chris
-Bailey-Kellogg</a></td>
-</tr>
-
-<td><b>TA</b></td>
-<td>Sara Thiebaud (usual Dartmouth email address)</td>
-</tr>
-
-<tr valign="top">
-<td><b>Class</b></td>
-<td>2A: TuTh 2-3:50; x-hour W 4:15-5:05<br>
-Sudikoff 214</td>
-</tr>
-
-<tr>
-<td><b>Office hours</b></td>
-<td>After class, during x-hour, and by appointment</td>
-</tr>
-
-<tr>
-<td valign="top"><b>Textbook</b></td> <td>None required.  While there
-are several great books out there covering some of the material, none
-comprehensively introduces the topics we'll cover (biomolecular
-sequence, structure, and function) from a computational perspective.
-Thus I'll distribute lecture notes and provide references to the
-research literature.</td></tr>
-
-<tr><td>&nbsp;</td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td>&nbsp;</td></tr>
-
-<tr>
-<td valign="top"><b>Overview</b></td>
-<td><p>Computation is vital for modern molecular biology, helping
-scientists to model, predict the behaviors of, and control the
-molecular machinery of the cell.  This course will study algorithmic
-challenges in analyzing biomolecular <i>sequences</i> (what genes
-encode an organism, and how are genes related across organisms?),
-<i>structures</i> (what do the proteins constructed for these genes
-look like, and what does that tell us about their mechanisms?), and
-<i>functions</i> (what do these things do, and how do they interact
-with each other in doing it?).  The course is application-driven, but
-focused on the underlying algorithms and information processing
-techniques, employing approaches from search, optimization, pattern
-recognition, and so forth.</p>
-
-<p>Here's a fun little <a href="flyer.pdf">flyer</a> for CS types.</p>
-</td></tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr>
-<td valign="top"><b>Expected background</b></td>
-<td><p>This is an introductory course targeted at advanced undergraduate and
-beginning graduate students in computer science.  A background in
-biology is not required, but students should be interested in catching
-up quickly on some basic molecular biology and biochemistry.  Bruce
-Donald's <a
-href="http://www.cs.dartmouth.edu/~brd/Teaching/Bio/current/">Topics
-in Computational Molecular Biology</a> is a natural successor for
-those who would like additional depth in the applications and
-algorithms.</p>
-
-<p>While the course is structured from an algorithmic perspective, I very
-much welcome and encourage the participation of students from the life
-sciences, statistics, and other related disciplines.  Naturally, a
-basic understanding of and interest in computational issues is
-expected.  Please contact me to discuss your background and interests.</p>
+<!-- ----- Left-hand side navbar ----- -->
+<td width="200" align="right">
+<font size = "+1" align=right>
+CS 44 &ndash; Winter 2009<br><br>
+Artificial<br>
+Intelligence<br>
+</font>
+<br><br>
+<br>
+<br>
+<br>
+<b>Announcements</b><br>
+<a href="admin.html">Administrivia</a><br>
+<a href="schedule.html">Schedule</a><br>
+<a href="project.html">Project</a><br>
+<a href="resources.html">Resources</a><br>
+<a href="glookup.html">View Grades</a><br>
+<br><br><br><br>
 </td>
-</tr>
 
-<tr><td>&nbsp;</td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td>&nbsp;</td></tr>
+<!-- ----- Interior left margin ----- -->
+<td width="25">&nbsp;</td> 
 
-<tr>
-<td valign="top"><b>Course requirements</b></td>
+<!-- ----- Page body ----- -->
 <td>
-<p>The course seeks to provide broad exposure to some important
-algorithmic challenges and approaches in bioinformatics.  The lectures
-and readings will provide a fairly general (for a ten-week course)
-survey of the field.  Since one of the best ways to learn something is
-by doing it, a series of labs will offer the opportunity to implement
-and apply some of the algorithms.  Each lab will be introduced in
-conjunction with the relevant lecture, and a portion of the class time
-will be devoted to getting started on the lab.  After each pair of
-labs on related topics (sequence, structure, and function), a class
-will be devoted to student presentations and discussion about the
-labs.</p>
+<h3>Announcements</h3> 
+<p>
+<h4>What's New <img src = "images/new.gif" alight = left> </h4>
+<ul>
+<li>(03/18/09) Final project grades are now online.  The projects were graded based on the quality of the proposal, update, and final report.  I also took into consideration the code, results, and quality of the analysis in the report.
+</ul>
 
-<p>All students are expect to read, understand, and follow the
-<a href="policies.html">course policies</a>.</p>
-
-<p>The <a href="schedule.html">course schedule</a> lists due dates,
-topics, and readings.</p>
+<h4>What's Old  <img src = "images/old.gif" alight = left> </h4>
+<ul>
+<li>(03/06/09) Final project reports are due Friday.
+<li> (02/28/09) Lu's office hours will be on Sunday 5:00pm-6:00pm (Mar.1) this weekend and Thursday 4:00pm-6:00pm (Mar.5) this coming week in Sudikoff 110. 
+<li> (02/25/09) On Friday, we will have a guest lecture by 
+<a href = "http://www.cs.dartmouth.edu/~lorenzo/">Prof. Lorenzo Torresani</a> on <em>machine learning</em>.  
+<li> (02/20/09) The class is canceled for Monday, February 23, for you to work on your project proposals.  Please turn in your Assignment Three to Lu in her office in Sudikoff 220 at 1:45 PM, as usual.  
+<li> (02/20/09) The
+<a href = "project.html">Project</a>
+page is now live and linked in.
+It contains last year's project proposals, updates, and final reports.
+<li> (02/20/09) Daniel points out that the subset predicate in SWI-Prolog may not be used with findall.  Depending on how you define subset, you may have a simialr problem.  Try focusing on why your subset does not <em>generate</em> subsets.  If you understand it better, you may redefine it to use it with findall.
+<li> (02/20/09) In case you were not in class today:
+<ul>
+<li> I passed out Midterm solutions.  There are additional copies in the  
+     CS 44 Box, right outside of Sudikoff 115.  Please make sure you 
+     review the solutions, and in particular, follow the format of the
+     resolution proof in your Assignment Three.
+<li> I also gave out Final Project Instructions, which are available, as usual, online on the 
+<a href="handouts/schedule.html">Schedule</a>
+and 
+<a href="handouts/schedule.html">Resources</a>
+pages.
+</ul>
+<li> (02/16/09) Lu's office hour this week will be in Friday 4:00pm-6:00pm, Sunday 5:00pm-6:00pm in Sudikoff 110.
+<li> (02/16/09) The <b>Midterm</b> is tonight, 7 &ndash; 9 PM, in Kemeny 006. 
+<li> (02/11/09) Today's 
+<a href = "http://www.cs.dartmouth.edu/seminar.php">CS Colloquium</a> 
+features
+<a href =
+   "http://www.cs.washington.edu/homes/fox/">Prof. Dieter Fox</a>
+of the 
+<a href = "http://www.cs.washington.edu/">University of
+  Washington</a>.     
+He will be speaking on 
+<em>
+  Toward High-level Reasoning for Autonomous Systems</em>.
+The colloquium is on Wednesday in Moore Filene Auditorium at 4:30 PM, 
+following the Weekly Tea at 4 PM.
+<li> (02/02/09) Please send Lu a password for viewing grades online.
+<li> (01/30/09) Nimit correctly points out that there is an error in the first line of Section 2.3:  legal_moves is not a boolean function.  Also, the move should specify whether player X or O is playing (both for do-move and undo-move.)
+<li> (01/28/09) Today's 
+<a href = "http://www.cs.dartmouth.edu/seminar.php">CS Colloquium</a> 
+features
+<a href = "http://www.ee.columbia.edu/~aurel/">Aurel Lazar
+  of 
+  <a href = "http://www.ee.columbia.edu/">Columbia University</a>.
+  He will be speaking on 
+  <em>
+    Invariant Representations of Visual Streams in the Spike Domain
+  </em>
+  The colloqiuim is in Silsby 028 at 4:30 PM, following the Weekly Tea at 4 PM. 
+<li> (01/21/09) On Friday, we will have a guest lecture by 
+<a href = "http://www.cs.dartmouth.edu/~robotics/">Prof. Devin Balkcom</a> on robotics.  
+<li> (01/20/09) Lu's office hour this week will be in Thursday 4:00pm-6:00pm and Sunday 5:00pm-6:00pm in Sudikoff 110.
+<li> (01/19/09) Karn correctly pointed out that DFS gets into an infinite loop with the graph in the homework.  This is fine:  after reaching the loop, stop and point out that the algorithm does not terminate successfully.  This is, after all, one reason why DFS is not optimal.
+<li> (01/14/09) Today's 
+<a href = "http://www.cs.dartmouth.edu/seminar.php">CS Colloquium</a> 
+features
+<a href = "http://dfd.dartmouth.edu/directory/show/427">Prof. Jim Haxby</a>
+of the department of 
+<a href = "http://www.dartmouth.edu/~psych/">Psychological and Brain Sciences</a>.  He will be speaking on <em>Characterizing local neural representation as a multidimensional similarity space</em>.
+You should attend to see the current work on cognitive neurosicence.
+<li> (01/12/09) We have x-hour this week.  
+<li> (01/12/09) The date and time for the midterm is on the 
+<a href = "schedule.html">Schedule</a> now.
+<li> (01/05/09) For after hours access to the building, fill the  
+<em> Sudikoff Access and Key Form</em> from the 
+<a href = "http://www.cs.dartmouth.edu/internal/">CS Internal Page</a> 
+and give it to Christine, the department administrator whose office is 
+across from our classroom.  You might like to have access for office
+hours or if you'd like to work in the building.
+</ul>
 </td>
-</tr>
 
-<tr><td>&nbsp;</td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr>
-<td><img src="cbf-cartoon.gif" alt="CS 88/188" width="100"></td>
-<td class="footer" align="right">
-<a href="http://www.cs.dartmouth.edu/~cbk/bio/">CS 88/188</a><br>
-<a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a><br>
-<!-- hhmts start -->
-Last modified: Tue Sep 20 10:16:37 EDT 2005
-<!-- hhmts end -->
-</td>
+<!-- ----- Right-hand margin ----- -->
+<td width="25">&nbsp;</td>
 </tr>
-
+</tbody>
 </table>
 
-</body>
-</html>
-><li>i
+<hr align="center" noshade="noshade">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+<tr><td>
+<img src="images/Dshield.png" align="left" height="45">
+<img src="images/Dtree.gif" align="left" height="45">
+<a href="http://www.cs.dartmouth.edu/">Computer Science</a><br>
+<a href="http://www.dartmouth.edu/">Dartmouth College</a>
+
+</td></tr>
+</tbody>
+</table>
+</body></html>
+
+<ti

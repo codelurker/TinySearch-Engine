@@ -1,18 +1,32 @@
-http://www.cs.dartmouth.edu/~ac/DTS/winter05.html
+http://www.cs.dartmouth.edu/~ac/DTS/spring04.html
 3
-<html><head><title>DTS: Dartmouth Theory Seminars - Current</title></head>
+<html><head><title>DTS: Dartmouth Theory Seminars - Spring 2004</title></head>
 <body background="../dartback.png" link=#0000ff vlink=#0000ff>
 
-<h2>DTS: Dartmouth Theory Seminars - Winter 2005</h2>
+<h2>DTS: Dartmouth Theory Seminars - Spring 2004</h2>
 
-<h3>Winter 2005 Schedule</h3>
+<h3>Spring 2004 Schedule</h3>
 
 <table cellpadding=3><tr>
-  <td valign=top>Jan 7 (Friday)</td>
-  <td>Gopal Pandurangan, Purdue University<br>
-  <a href="#pandu">The Bin-Covering Technique for Thresholding Random
-  Geometric Graph Properties</a><br>
-  Room: Moore B03 (tentative)<br>
+  <td valign=top>Apr 19</td>
+  <td>Adam Klivans, Harvard University<br>
+  <a href="#klivans">Learning Halfspaces: New Algorithms and 
+  Applications</a><br>
+  Room: Carson L01<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>Apr 26</td>
+  <td>Graham Cormode, DIMACS, Rutgers University<br>
+  <a href="#cormode">Algorithms for Processing Massive Data at Network
+  Line Speed</a><br>
+  Room: Carson L01<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>May 10</td>
+  <td>Santosh Vempala, MIT<br>
+  <a href="#vempala">A Simple Polynomial-Time Rescaling Algorithm for
+  Solving Linear Programs</a><br>
+  Room: Moore B03<br>
   Time: 4pm - 5pm.
 </tr></table>
 
@@ -20,33 +34,88 @@ http://www.cs.dartmouth.edu/~ac/DTS/winter05.html
 
 <h3>Abstracts</h3>
 
-<a name="pandu">
-  <b>Gopal Pandurangan, Purdue University<br>
-  The Bin-Covering Technique for Thresholding Random Geometric Graph
-  Properties</b></p>
+<a name="klivans">
+  <b>Adam Klivans, Harvard University<br>
+  Learning Halfspaces: New Algorithms and Applications</b><p>
 
-  We study the emerging phenomenon of ad hoc, sensor-based communication
-  networks. The communication is modeled by the random geometric  graph
-  model G(n,r,l) where n points randomly placed within [0,l]<sup>d</sup>
-  form the nodes, and any two nodes that correspond to points at most
-  distance r away from each other are connected.  We study fundamental
-  properties of G(n,r,l) of interest: connectivity, coverage, and
-  routing-stretch. Our main contribution is a simple analysis technique we
-  call <em>bin-covering</em> that we apply uniformly to get <em> first
-  known, (asymptotically) tight </em> thresholds for each of these
-  properties. Typically, in the past, random geometric graph analyses
-  involved sophisticated methods from continuum percolation theory; on
-  contrast, our bin-covering approach is discrete and very simple, yet it
-  gives us tight threshold bounds. The technique also yields algorithmic
-  benefits as illustrated by a simple local routing algorithm for finding
-  paths with low stretch. Our specific results should also prove
-  interesting to the networking community that has seen a recent increase
-  in the study of geometric random graphs motivated by engineering ad hoc
-  networks.
- 
+  Learning a halfspace is one of the oldest and most fundamental tasks
+  in machine learning.  It is the essential underlying algorithm for
+  many systems used by practitioners from fields such as artificial
+  intelligence, statistics, and computational biology to classify data.
+  In this talk we will give several new approaches for learning
+  halfspaces and describe surprising algorithmic applications.<p>
+
+  First, we will show that learning a halfspace in high dimensions
+  yields fast algorithms for learning Boolean concept classes such as
+  DNF formulae, one of the major challenges in computational learning
+  theory.  To this end we will show how to obtain the fastest known DNF
+  learning algorithm.<p>
+
+  Secondly, we will describe two new algorithms for learning
+  intersections of halfspaces. Intersections of halfspaces are a
+  powerful concept class; any convex body can be expressed as an
+  intersection of halfspaces, and little is known about the complexity
+  of learning the intersection of even two halfspaces.  We give the
+  first polynomial-time algorithms for learning the intersection of any
+  constant number of halfspaces assuming either a margin separating
+  positive points from negative points or that the points are chosen
+  uniformly at random.<p>
+
+<hr width=50%><p>
+
+<a name="cormode">
+  <b>Graham Cormode, DIMACS, Rutgers University<br>
+  Algorithms for Processing Massive Data at Network Line Speed</b><p>
+
+  Many fundamental data mining problems gain additional complexity when
+  applied to massive amounts data that is being generated at high speed.
+  Networks are a driving force in massive data analysis, and require new
+  approaches to produce the analyses network managers require.  This
+  motivates the data stream approach: using a small amount of space to
+  process data very quickly in one pass. This has resulted in many
+  strong and deep algorithmic results in this model of computation.  But
+  there is frequently a gap between theory and practice, since existing
+  algorithms are too slow for typical high data rates by several orders
+  of magnitude.<p>
+
+  I will describe my recent work aimed at bridging the gap.  Firstly, I
+  will describe the Count-Min sketch, which is a simple and hence fast
+  data structure that can be used to approximate entries of a high
+  dimensional vector in very small space.  It can be used as a "black
+  box" to solve several problems, including finding frequent items, and
+  quantiles of the data distribution, and gives provable guarantees
+  about their results.  Secondly, I will describe and analyze a solution
+  to the change detection problem, where the aim is to identify items
+  (e.g., IP addresses) whose behavior has changed between two periods.
+  Both these methods have been implemented and are running on network
+  data at network line speeds with high accuracy.<p>
+
+  Joint work with S. Muthukrishnan.<p>
+
+<hr width=50%><p>
+
+<a name="vempala">
+  <b>Santosh Vempala, MIT<br>
+  A Simple Polynomial-Time Rescaling Algorithm for Solving Linear
+  Programs</b><p>
+
+  The perceptron algorithm, developed mainly in the machine learning
+  literature, is a simple greedy method for finding a feasible solution   
+  to a linear program (alternatively, for learning a linear threshold
+  function). In spite of its exponential worst-case complexity, it is  
+  often quite useful, in part due to its noise-tolerance and its
+  overall simplicity. In this talk, we show that a randomized version
+  of the perceptron algorithm with periodic rescaling runs in
+  polynomial-time.  The resulting method for solving linear programms
+  has an elementary description and analysis. The talk will not assume
+  prior knowledge of linear programs.<p>
+
+  Joint work with John Dunagan (Microsoft Research).<p>
+
 <hr><p>
 
-<p align=right> <i> Back to <a href="index.html">DTS main page </a>. </i> </p>
+<p align=right> <i> Back to <a href="index.html">DTS main page</a>. </i>
+</p>
 
 </body></html>
-ii
+i

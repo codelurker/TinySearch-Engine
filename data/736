@@ -1,42 +1,30 @@
-http://www.cs.dartmouth.edu/%7Ecampbell/cs78/resources.html
+http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/syllabus.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 
 
 
-
-
-
+  
+  
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
 
   
-  
-  
-  
-  
-  
-  
-  
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-
-
-
-
-
-
 
 
   
   
   
+  <title>CS88/188 -- Computational Models of Human Behavior</title>
+  <meta name="author" content="Tanzeem Choudhury" />
+
+
+
   
   
-  
-  
-  
-  <title>resources</title>
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
 
 
@@ -44,415 +32,695 @@ http://www.cs.dartmouth.edu/%7Ecampbell/cs78/resources.html
 
 
 
+<div class="page">
+<div class="header">
+<div class="title">Community Sensing and Modeling</div>
 
 
 
+<div class="subtitle">CS88/188 --&nbsp;Winter 2009 -- TuTh
+10:00am-11:50am</div>
 
 
-<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big>Computer Science 78<br>
 
+<div class="subtitle">Instructor: Andrew Campbell
+&amp; Tanzeem Choudhury
+</div>
 
 
 
+</div>
 
 
 
+<div class="navigation">
+<a href="index.html"><span class="navigationitem">About</span></a><a href="syllabus.html"><span class="navigationitem">Syllabus</span></a><a href="assignments.html"><span class="navigationitem">Assignments</span></a><a href="projects.html"><span class="navigationitem">Project</span></a><a href="grading.html"><span class="navigationitem">Grading</span></a><a href="references.html"><span class="navigationitem">References</span></a>
+</div>
 
 
 
+<div class="content">
 
-<span style="font-weight: bold;">resources</span></big></big></big></big><big><big style="font-family: Arial;"><big><big><span style="font-weight: bold;">
-</span></big></big></big></big>
-<h2 style="font-weight: normal;"><small><small>There are a number of useful links for networking and programming resources on this page.&nbsp;</small></small></h2>
 
 
-<h2><small><small style="font-weight: normal;">Feel free to send me addition URLs to link in.</small></small><br>
+<h2 style="text-align: center;">The final schedule may
+change. Please check back frequently.</h2>
 
 
-<span style="font-family: Times New Roman,Times,serif;"></span></h2>
 
+<br />
 
-<h2><span style="font-family: Times New Roman,Times,serif;">Networking Reources</span></h2>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">History, IETF, etc.</span></h2>
+<table style="text-align: left; width: 733px; height: 1022px;" border="0" cellpadding="15" cellspacing="0">
 
 
-<a href="http://www.isoc.org/internet/history/brief.shtml">A Brief History of the Internet</a><br>
-<br>
 
+  <tbody>
 
-<a href="http://www.ietf.org/">Internet Engineering Task Force (IETF)</a> Sets protocols and publishes <a href="http://www.ietf.org/rfc.html">Requests for Comment (RFCs)</a><br>
 
 
-<br>
+    <tr>
 
 
-<a href="http://en.wikipedia.org/wiki/Internet">http://en.wikipedia.org/wiki/Internet</a><br>
 
+      <td style="font-weight: bold; height: 40px; text-align: center; width: 16%; background-color: rgb(51, 102, 204);">Date</td>
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Transport Protocols</span></h2>
 
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc793.htm">RFC 793 (rfc793) - Transmission Control Protocol (TCP)</a><br>
+      <td style="text-align: center; width: 16%; background-color: rgb(51, 102, 204);"><span style="font-weight: bold;">Discussion Theme</span></td>
 
 
-<br>
 
+      <td style="font-weight: bold; text-align: center; background-color: rgb(51, 102, 204);">Class</td>
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc768.html">RFC 768 (rfc768) - User Datagram Protocol (UDP)</a><br>
 
-<br>
 
-<a href="http://www.ietf.org/rfc/rfc3550.txt">RTP: A Transport Protocol for Real-Time Applications</a>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">IP Protocols</span></h2>
+    </tr>
 
 
-<a href="http://www.rfc-editor.org/rfc/rfc791.txt">Internet Protocol (IP)</a><br>
 
+    <tr>
 
-<a href="http://www.rfc-editor.org/rfc/rfc792.txt"><br>
 
 
-Internet Control Message Protocol (ICMP)</a><br>
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">January 6, 2009</td>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Routing Protocols</span></h2>
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Early visionaries</td>
 
-<a href="http://www.ietf.org/rfc/rfc2328.txt">OSPF Version 2</a><br>
 
 
-<br>
+      <td style="background-color: rgb(255, 255, 255);">Class introduction and goals<br />
+      <br />
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://memex.org/licklider.pdf">Man-Computer Symbiosis</a><br />
+J.C.R. Licklider<br />
+      <br />
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.theatlantic.com/doc/194507/bush">As We May Think</a><br />
+Vannevar Bush<br />
 
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1771.html">RFC 1771 (rfc1771) - A Border Gateway Protocol 4 (BGP-4)</a><br>
+      </td>
 
 
-<br>
 
+    </tr>
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc2453.html">RFC 2453 (rfc2453) - Routing Information Protocol (RIP) Version 2</a><a href="http://www.rfc-editor.org/rfc/rfc792.txt"></a><br>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Some Applications we'll look at:</span></h2>
+    <tr>
 
 
-<a href="http://www.ietf.org/rfc/rfc2616.txt">Hypertext Transfer Protocol -- HTTP/1.1</a><br>
 
-<br>
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">January 8, 2009</td>
 
-<a href="http://www.faqs.org/rfcs/rfc821.html">RFC821 - Simple Mail Transfer Protocol (SMTP)</a><br>
 
 
-<br>
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Community Sensing and Modeling
 
-<a href="http://www.ietf.org/rfc/rfc1939.txt">Post Office Protocol - Version 3</a><br>
+      </td>
 
-<br>
 
-<a href="http://james.apache.org/server/rfclist/imap4/rfc2060.txt">Internet Message Access Protocol, Version 4rev1 (IMAP4rev1)</a><a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1035.html"><br>
 
-</a>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Plumbing:</span></h2>
+      <td style="background-color: rgb(255, 255, 255);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.cs.dartmouth.edu/%7Esensorlab/pubs/cenceme_sensys08.pdf">Sensing Meets Mobile Social Networks: The Design,
+Implementation and Evaluation of the CenceMe Application</a><br />
+E. Miluzzo, N. D. Lane, K. Fodor, R. A.
+Peterson, H. Lu, M. Musolesi,&nbsp; S. B. Eisenman, X. Zheng,
+A. T. Campbell.<br />
+SenSys 2008
+      <br />
+      <br />
+      <a style="color: rgb(0, 0, 0);" href="http://www.cs.washington.edu/homes/danny/pubs/Wyatt-UbiComp08.pdf"><span style="font-weight: bold;">Towards
+Automated Social Analysis of Situated Speech Data</span> </a><br />
+D. Wyatt, T. Choudhury, J. Bilmes, and J. Kitts. <br />
+Ubicomp 2008 <br />
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1035.html">RFC 1035 (rfc1035) - Domain names - implementation and specification</a><br>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Link layer:</span></h2>
+      </td>
 
 
-<a href="http://en.wikipedia.org/wiki/Data_link_layer">http://en.wikipedia.org/wiki/Data_link_layer</a><br>
 
+    </tr>
 
-<span style="font-style: italic;"><br>
 
 
-</span><a href="http://en.wikipedia.org/wiki/IEEE_802.11">Wi-Fi - aka IEEE 802.11</a><br>
+    <tr>
 
 
-<br>
 
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">January 13, 2009</td>
 
-<a href="http://standards.ieee.org/getieee802/802.11.html">The IEEE 802.11 Specification</a><span style="font-style: italic;"><span style="font-style: italic;"></span></span>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Papers we will read:</span></h2>
 
 
-Bram Cohen's <a href="http://bittorrent.org/bittorrentecon.pdf">Incentives Build Robustness in BitTorrent</a><br>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">iPhone development, experimentation and data analysis<br />
 
 
-<br>
+      </td>
 
 
-David Clark's <a href="http://portal.acm.org/citation.cfm?id=52336">The design philosophy of the&nbsp; DARPA internet protocol</a>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Tools we'll use:</span></h2>
 
+      <td style="background-color: rgb(51, 102, 204);">Cocoa development and building a simple iPhone app
 
-<a href="http://www.wireshark.org/">Wireshark for packet sniffing</a><br>
 
+      </td>
 
-<br>
 
 
-<a href="http://www.faqs.org/rfcs/rfc1393.html">Traceroute</a><a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html"></a>
-<h2><span style="font-family: Times New Roman,Times,serif;">Programming Resources </span></h2>
+    </tr>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Linux books/links</span></h2>
 
+    <tr>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">&nbsp; January 14, 2009</td>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">iPhone development, experimentation and data analysis</td>
+      <td style="text-align: left; background-color: rgb(51, 102, 204);">Audio,&nbsp; location, and accelerometer APIs/code examples</td>
+    </tr>
+    <tr>
 
 
 
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">January 15, 2009</td>
 
 
 
-These books two available online to Dartmouth Students<br>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">iPhone development, experimentation and data analysis
 
+      </td>
 
 
 
+      <td style="background-color: rgb(51, 102, 204);">Audio,&nbsp; location, and accelerometer APIs/code examples
 
 
-<br>
+      </td>
 
 
 
+    </tr>
 
 
 
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><a href="http://proquest.safaribooksonline.com/0596100795">Linux in a Nutshell, 5th edition (currently not available)</a><br>
+    <tr>
 
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">January 20, 2009</td>
 
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Community Sensing and Modeling<br />
 
-</span>
-<span style="font-family: Times New Roman,Times,serif;"><br>
 
+      </td>
 
 
 
+      <td style="background-color: rgb(255, 255, 255);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://kdl.cs.umass.edu/srl2003_upload/files/mccallum-paper.pdf">A Note on the unification of information extraction and data mining using conditional-probability, relational models</a><br />
 
-The book I really wanted to list here Running Linux, 5th edition does
-not seem to be available on Safari Books yet. I've not used this book
-but looks useful. It includes many advanced issues we will not cover
-but it could be a useful reference. Let me know.<br>
+      <span class="named-wiki">A. McCallum</span> and <span class="named-wiki">D. Jensen<br />
+      </span>IJCAI-2003 Workshop on Learning Statistical Models from Relational Data
+     <br />
+      <span class="named-wiki"><br />
+      </span><a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.cs.cmu.edu/%7Ekrausea/files/08csense.pdf">Toward
+Community Sensing</a><br />
+A. Krause, E. Horvitz, A. Kansal, and F. Zhao<br />
+IPSN 2008
+      <br />
+      <br />
+Optional Reading:<br />
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Fall08/readings/lane08-cooperativemodeling.pdf">Cooperative
+Techniques Supporting Sensor-based People-centric Inferencing</a><br />
 
 
+N. Lane, H. Lu, S. Eisenman, and A. Campbell<br />
 
 
+Pervasive 2008
 
-<br>
 
+      </td>
 
 
 
+    </tr>
 
-<a href="http://proquest.safaribooksonline.com/0596009585">Linux System Programming</a><br>
 
 
+    <tr>
 
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">January 22, 2009</td>
 
-<span style="font-weight: bold;"><br>
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Audio Processing</td>
 
-</span><a href="http://www.linuxdevcenter.com/lpt/a/6109">What Is the X Window System</a>, from O'Reilly's linux devcenter.com<br>
 
 
-<br>
+      <td style="background-color: rgb(255, 255, 255);">Introduction to auditory signal processing<br />
 
 
-<a href="http://www.computerhope.com/unix.htm#04">Unix commands on the web</a><br>
 
+      </td>
 
 
-</span>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">X and C</span></h2>
 
+    </tr>
 
 
-<span style="font-family: Times New Roman,Times,serif;"><a href="http://developer.apple.com/opensource/tools/runningx11.html">Configuring and Running X11 Applications on Mac OS X</a><br>
 
+    <tr>
 
 
-<br>
 
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">January 27, 2009</td>
 
 
-<a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs23/putty-cygwin-tutorial.pdf">PuTTY/Cygwin Tutorial</a><br>
 
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">Audio Processing
 
+      </td>
 
-<br>
 
 
+      <td style="background-color: rgb(51, 102, 204);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.ee.columbia.edu/%7Edpwe/pubs/sapa04-persaud.pdf">Features for Segmenting and Classifying Long-Duration Recordings of Personal Audio</a><br />
+D. Ellis and K.S. Lee <br />
+ISCA Tutorial and Research Workshop on Statistical and Perceptual Audio Processing <br />
+      <br />
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/Ververidis06a.pdf">Emotional speech recognition: Resources, features, and methods
+      </a><br />
+D. Ververidis and C. Kotropoulos.
+      <br />
+Speech Communication, 48(9), 1162-1181. 2006.
+      <br />
+      <br />
+Optional Reading:<br />
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://ismir2008.ismir.net/papers/ISMIR2008_209.pdf">Social Playlists and Bottleneck Measurements : Exploiting Musician
+Social Graphs Using Content-Based Dissimilarity and Pairwise Maximum
+Flow Values</a><span style="font-weight: bold;">
+      </span><br />
+Fields, B., Casey, M., Jacobson, K. and Rhodes, C.
+      <br />
+ICMIR 2008.
+      <br />
 
-<a href="http://www.cs.dartmouth.edu/%7Ewbc/suditour/001/index.html">Sudikoff Lab 101 tour</a><br>
 
 
+      </td>
 
-<br>
 
 
+    </tr>
 
-<a href="http://www.cs.dartmouth.edu/%7Echris/cs23/tedjensen/">A Tutorial on Pointers and Arrays in C, by Ted Jensen</a><br>
 
 
+    <tr>
 
-<br>
 
 
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">January 29, 2009</td>
 
-<a href="http://en.wikipedia.org/wiki/C_programming_language">The Wikipedia entry for the C programming language</a><br>
 
 
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">Project
 
-<br>
+      </td>
 
 
 
-<a href="http://groups.google.com/group/comp.lang.c/browse_frm/thread/1ce1b07f3725e0c7?q=%22Why+is+C+good%3F%3F%3F%22&amp;hl=en&amp;pli=1">The USENET discussion Why is C good?</a><br>
+      <td style="background-color: rgb(51, 102, 204);">Final project brainstorming - we will decide on group goals. Three
+teams will work on (i) distributed sensing (ii) community-guided
+learning and (iii) mobile&nbsp;audio-based activity analysis system that
+combines (i) and (ii).
 
 
+      </td>
 
-<br>
 
 
+    </tr>
 
-C Programming Notes, by Steve Summit (Experimental College, University of Washington)<br>
 
 
+    <tr>
 
-&nbsp;&nbsp;&nbsp; <a href="http://www.cs.dartmouth.edu/%7Echris/cs23/summit-intro/">Introductory C Programming, chapters 1-14</a><br>
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">February 3, 2009</td>
 
-&nbsp;&nbsp;&nbsp; <a href="http://www.cs.dartmouth.edu/%7Echris/cs23/summit-intermediate/">Intermediate C Programming, chapters 15-25</a><br>
 
 
+      <td colspan="1" rowspan="1" style="text-align: center; background-color: rgb(255, 255, 255);">Social Networks<br />
 
-<br>
 
+      </td>
 
 
-A list of <a href="http://cplus.kompf.de/posixlist.html">POSIX Library Functions</a><br>
 
+      <td style="background-color: rgb(255, 255, 255);"><span style="color: rgb(0, 0, 0); font-weight: bold;"><a style="color: rgb(0, 0, 0);" href="http://www.hpl.hp.com/research/idl/papers/essembly/chi2008.pdf">Friends and foes: Ideological social networking</a><br />
+      </span><span style="color: rgb(0, 0, 0);">T. Hogg, G. Szabo, D. M. Wilkinson, and M. J. Brzozowski<br />
+CHI 2008</span><br />
+      <br />
+      <a style="font-weight: bold; color: rgb(0, 0, 0);" href="http://www.cs.cornell.edu/home/kleinber/kdd08-bb.pdf">The Structure of Information Pathways in a Social Communication Network</a><br />
+G. Kossinets, J. Kleinberg, D. Watts. <br />
+SIGKDD 2008 <br />
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/choudhury04-convdynamics.pdf">
 
+      </a></td>
 
-<br>
 
 
+    </tr>
 
-To obtain further details about any function listed here, on the
-Sudikoff lab computers type&nbsp;&nbsp;&nbsp;&nbsp; man functionname<br>
 
 
+    <tr>
 
-<br>
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">February 5, 2009</td>
 
-<a href="http://www.cs.dartmouth.edu/%7Echris/cs23/make-documentation/">GNU make</a><br>
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Project Meetings <br />
 
-<br>
 
+      </td>
 
 
-<a href="http://www-mrsrl.stanford.edu/%7Ebrian/cvstutorial/">cvs</a><br>
 
+      <td style="background-color: rgb(255, 255, 255);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/wren07-socialmotion.pdf"><br />
 
 
-</span>
-<h2 style="font-weight: normal; font-style: italic;"><span style="font-family: Times New Roman,Times,serif;">Editors</span></h2>
+      </a></td>
 
 
 
-<span style="font-family: Times New Roman,Times,serif;">I recommend, emacs or vi or vim - up to you.<br>
+    </tr>
 
 
 
-<br>
+    <tr>
 
 
 
-I use <a href="http://aquamacs.org/">Aquamacs Emac </a>on my mac<br>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">February 10, 2009</td>
 
 
 
-<br>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">Topic TBD</td>
 
 
 
-I also like <a href="http://www.vim.org/">gvim</a><br>
+      <td style="background-color: rgb(51, 102, 204);"> Starting
+this week we will read two papers per week (a subset from the reading
+list below). We will select papers most relevant to the project.<br />
+      <br />
+Starting this week we will spend 75% of the class time reviewing
+project progress, discussing ideas, and doing hand-on exercises related
+to the final project.<br />
+      <br />
+      </td>
 
 
 
-<br>
+    </tr>
 
 
 
-or just type vi or emacs at the command line. <br>
+    <tr>
 
 
 
-<br>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">February 12, 2009</td>
 
 
 
-Some&nbsp;tutorials:<br>
+      <td style="text-align: center; background-color: rgb(51, 102, 204);"> Project Meetings </td>
 
 
 
-<br>
+      <td style="background-color: rgb(51, 102, 204);"><span style="color: rgb(0, 0, 0);"><br />
 
 
+      </span></td>
 
-</span><span style="font-family: Times New Roman,Times,serif;"><a href="http://www2.lib.uchicago.edu/keith/tcl-course/emacs-tutorial.html">Emacs Tutorial</a><br>
 
 
+    </tr>
 
-<br>
 
 
+    <tr>
 
-<a href="http://blog.interlinked.org/tutorials/vim_tutorial.html">vim Tutorial</a><br>
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">February 17, 2009</td>
 
-<br>
 
 
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Topic TBD
 
-</span><span style="font-family: Times New Roman,Times,serif;"><a href="http://www.eng.hawaii.edu/Tutor/vi.html">vi tutorial</a> <br>
 
+      </td>
 
-</span>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Socket Programming:</span></h2>
 
 
-<a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html">Socket programming</a><br>
+      <td style="background-color: rgb(255, 255, 255);"><span style="color: rgb(0, 0, 0);"><br />
 
 
-<span style="font-family: Times New Roman,Times,serif;">
-<br>
+      </span></td>
 
 
 
-</span><br>
+    </tr>
 
 
 
+    <tr>
 
 
 
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><big><big style="font-family: Arial;"><big><big><span style="font-weight: bold;"></span></big></big></big></big>
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">February 19, 2009</td>
+
+
+
+      <td style="background-color: rgb(255, 255, 255); text-align: center;">Project Meetings </td>
+
+
+
+      <td style="background-color: rgb(255, 255, 255);"><span style="color: rgb(0, 0, 0);"><br />
+
+
+      </span></td>
+
+
+
+    </tr>
+
+
+
+    <tr>
+
+
+
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">February 24, 2009</td>
+
+
+
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">Topic TBD
+
+      </td>
+
+
+
+      <td style="background-color: rgb(51, 102, 204);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/Wyatt08-socialnets.pdf"><br />
+
+
+      </a></td>
+
+
+
+    </tr>
+
+
+
+    <tr>
+
+
+
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">February 26, 2009</td>
+
+
+
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">Project Meetings 
+
+      </td>
+
+
+
+      <td style="text-align: left; background-color: rgb(51, 102, 204);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/brand00-entprior.pdf"><br />
+
+
+      </a><a style="color: rgb(0, 0, 0);" href="slides/Class15_Pan.pptx"></a></td>
+
+
+
+    </tr>
+
+
+
+    <tr>
+
+
+
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">March 3, 2009</td>
+
+
+
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;Topic TBD</td>
+
+
+
+      <td style="background-color: rgb(255, 255, 255);"><a href="readings/clarkson02-lifepatterns.pdf"><span style="color: rgb(0, 0, 0);"></span></a><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/torralba03-visioncontext.pdf"><br />
+
+
+
+      </a> </td>
+
+
+
+    </tr>
+
+
+
+    <tr>
+
+
+
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">March 5, 2009</td>
+
+
+
+      <td style="text-align: center; background-color: rgb(255, 255, 255);">Project Meetings
+
+      </td>
+
+
+
+      <td style="background-color: rgb(255, 255, 255);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/Pollack05-AI-Healthcare.pdf"><br />
+
+
+      </a></td>
+
+
+
+    </tr>
+
+
+
+    <tr>
+
+
+
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">March 10, 2009</td>
+
+
+
+      <td style="text-align: center; background-color: rgb(51, 102, 204);">Final Project</td>
+
+
+
+      <td style="background-color: rgb(51, 102, 204);">Project demonstrations and presentations<br />
+
+
+      </td>
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  </tbody>
+</table>
+<br />
+<br />
+<big style="font-weight: bold; text-decoration: underline;">Reading List<br />
+<br />
+</big><a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.sciencemag.org/cgi/content/full/298/5594/824">Network Motifs: Simple Building Blocks of Complex Networks</a><br />
+R. Milo, S. Shen-Orr, S. Itzkovitz, N. Kashtan, D. Chklovskii, U. Alon<br />
+Science 25 October 2002:<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="www.hpl.hp.com/research/scl/papers/twitter/twitter.pdf">Social networks that matter: Twitter under the microscope</a><br />
+B. A. Huberman, D. M. Romero and F. Wu<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.sociology.columbia.edu/pdf-files/watts04.pdf">An experimental study of search in global social networks</a><br />
+P. S. Dodds, R. Muhamad, and D. J.&nbsp;Watts<br />
+Science, Volume 301, p.827-829 (2003)<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://doc.gold.ac.uk/%7Emap01bf/papers/benfkurtj.pdf">Do you sound like your friends Exploring artist similarity via artist social network relationships and audio signal processing</a><br />
+Fields, B., Jacobson, K., Casey, M., Sandler, M.<br />
+ICMC 2008.<br />
+<br style="font-weight: bold;" />
+<a style="color: rgb(0, 0, 0);" href="http://kdl.cs.umass.edu/papers/jensen-et-al-kdd2004.pdf"><span style="font-weight: bold;">Why collective inference improves relational classification</span><br />
+</a>David Jensen, Jennifer Neville and Brian Gallagher.<br />
+SIGKDD. 2004.<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://graphics.stanford.edu/projects/lgl/papers/aabbegkmr-mhs-pc07/aabbegkmr-mhs-pc07.pdf">Mobiscopes for Human Spaces</a><br />
+T. Abdelzaher, Y. Anokwa, P. Boda, J. Burke, D. Estrin, L. Guibas, A. Kansal, S. Madden, and J. Reich<br />
+IEEE Pervasive Computing 6, 2 (2007), 20-29.<br />
+<br style="font-weight: bold;" />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://research.cens.ucla.edu/resources/publications/2008/PEIR-Hotmobile-Submitted.pdf">Seeing Our Signals: Combining location traces and web-based models for personal discovery</a><br />
+E. Agapie, G. Chen, D. Houston, E. Howard, J. Kim, M. Y. Mun, A.
+Mondschein, S. Reddy, R. Rosario, J. Ryder, A. Steiner, J. Burke, E.
+Estrin, M. Hansen, M. Rahimi, <br />
+HotMobile 2008<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.sensorplanet.org/wsw2006/6_Burke_wsw06_ucla_final.pdf">Participatory Sensing</a><br />
+J. Burke, D. Estrin, M. Hansen, A. Parker, N. Ramanathan, S. Reddy, M. B. Srivastava. <br />
+Sensys 2006<br />
+<br style="font-weight: bold;" />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/p547-kansal.pdf">Building a sensor network of mobile phones</a><br />
+A. Kansal, M. Goraczko, and F. Zhao<br />
+IPSN 2007<br />
+<br style="font-weight: bold;" />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/p281-ganti.pdf">PoolView: Stream Privacy for Grassroots Participatory Sensing</a><br />
+R. K. Ganti, N. P. Duc, Y. Tsai, T. Abdelzaher<br />
+SenSys 2008<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.cs.duke.edu/%7Elpcox/romit-microblog.pdf">Micro-Blog: Sharing and Querying Content Through Mobile Phones and Social Participation</a><br />
+S. Gaonkar, J. Li, R. R. Choudhury, P. C. Landon, and Al Schmidt<br />
+MobiSys 2008<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://sensorlab.cs.dartmouth.edu/urbansensing/papers/honicky_urbansense08.pdf">Increasing the Precision of Mobile Sensing Systems through Super-Sampling</a><br />
+R. Honicky, E. Brewer, J. Canny, R. Cohen<br />
+UrbanSense 2008<br />
+<br />
+<a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://sensorlab.cs.dartmouth.edu/urbansensing/papers/lester_urbansense08.pdf">MobileSense - Sensing Modes of Transportation in Studies of the Built Environment</a><br />
+J. Lester, P. Hurvitz, R. Chaudhri, C. Hartung, G. Borriello<br />
+UrbanSense 2008<br />
+<a style="color: rgb(0, 0, 0);" href="http://www.cs.dartmouth.edu/%7Etanzeem/pubs/IEEEpervasive_MSP.pdf"><br style="font-weight: bold;" />
+<span style="font-weight: bold;">The Mobile Sensing Platform: An Embedded System for Activity Recognition</span></a><br />
+T. Choudhury, G. Borriello, et.al.<br />
+IEEE Pervasive Magazine - Special Issue on Activity-Based Computing, April 2008.<br />
+Overview paper on MSP<br />
+
+
+
+</div>
+
+
+
+</div>
+
+
+
 </body>
 </html>
-d;"><spá

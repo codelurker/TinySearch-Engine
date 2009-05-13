@@ -1,88 +1,147 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/Homework/hw2.html
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/Homework/hw3.html
 3
-<html><head><title>CS 33 (Spring 2009): Homework 2</title></head> <body>
+<html><head><title>CS 33 (Spring 2009): Homework 3</title></head> <body>
 
 <div style="width:800px">
-<h2>CS 33 (Spring 2009): Homework 2: Working with SQL</h2>
+<h2>CS 33 (Spring 2009): Homework 3: Connectors, Relational Calculus, QBE</h2>
 
-  <h3 style="color:red">Deadline: 10:00pm sharp on April 20, 2009</h3>
+  <h3 style="color:red">Deadline: 10:00pm sharp on April 27, 2009</h3>
 
   <p> Please read through this page entirely and carefully, before
   beginning your work. </p>
 
-  <h3>SQL Problems</h3>
+  <h3>Part 1: Relational Calculus and QBE Problems</h3>
 
   <ol>
-    <li>Solve all parts of Problem 3.9 from the textbook.
-    <div align=right>[15 points]</div> </li> <br/>
+    <li> Solve all parts of Problem 5.6 from the textbook.
+    <div align=right>[24 points]</div> </li> <br/>
 
-    <li>Solve both parts of Problem 3.15 from the textbook.
-    <div align=right>[16 points]</div> </li> <br/>
+    <li> Solve the QBE portion of Problem 5.12 from the textbook.
+    <div align=right>[24 points]</div> </li> <br/>
+  </ol>
 
-    <li>Solve all parts of Problem 3.19 from the textbook.
-    <div align=right>[15 points]</div> </li> <br/>
+  <h3>Part 2: Problems on Using a Connector</h3>
 
-    <li>Consider the longest SQL query on Page 96 of the textbook (occurring
-    roughly in the middle of that page).  The query uses the <b>except</b> 
-    operation for set subtraction.  Unfortunately, MySQL does not (yet) 
-    support this operation.  Rewrite the query so that it will work with
-    the current version of MySQL on the machine "sunapee".  Needless to say,
-    your new query should return the very same relation that the textbook's 
-    query would: the ordering of tuples within the relation is unimportant.
-    <div align=right>[7 points]</div> </li> <br/>
+  <ol start=3>
+    <li> <p> Consider a MySQL-based database that stores information
+    about employees in an organisation and their reporting chain. Write
+    code (in a general-purpose language) that connects to this database,
+    gathers this information into a suitable tree-like internal data
+    structure, and then writes some portion of (or all of) this
+    information onto standard output, using indentation and layout to
+    represent the reporting chain. </p>
 
-    <li>Similarly, rewrite the first query on Page 97 of the textbook (the
-    one that uses <b>where unique</b>) so that it will work in MySQL. 
-    Ensure that your query returns each appropriate customer name only once.
-    <div align=right>[7 points]</div> </li> <br/>
+    <p> Specifically, your program should take one or two command line
+    arguments, the first of which gives the name of a database to
+    connect to. It should then connect to this database on "sunapee",
+    and gather information from the relation <em>employee (name, role,
+    manager)</em>. Then, it should print several lines to standard
+    output, where each line gives the name of an employee, their role,
+    and the total number of subordinates (direct or indirect) under
+    them, in the format <tt>"%s:&nbsp;%s:&nbsp;%d subordinates"</tt> (in
+    printf notation). If this employee has no subordinates, then the
+    third field should be omitted. The subordinates of an employee
+    should appear beneath that employee's name, indented using two
+    leading spaces. This rule should be applied recursively: thus,
+    second-level subordinates should appear below their respective
+    immediate managers and should be indented using four leading spaces,
+    etc. Further, all employees that are immediately under a particular
+    manager should be listed in ascending alphabetical order of their
+    names. Finally, the output should begin with the employee whose name
+    is given as the second command line argument; if this argument is
+    missing, then the output should begin with the top-level employee,
+    indicated by a NULL value in the <em>manager</em> field. In the
+    latter case, if there is more than one top-level employee, then you
+    should print all of them (together with their subordinates, as
+    described above) in ascending alphabetical order of their names.
 
-    <li>Revisit HW1, Part 2, Problem 3 (the one about actors and films).
-    Write an SQL script to solve the same problem. Specifically, your
-    script should create three tables named "actor", "film", and
-    "actor_film" with appropriate schemas, populate these tables by
-    reading in the contents of the respective three files in
-    <tt>~cs33/data/</tt> and then execute a sequence of queries
-    (possibly just one query) so that the output of the final query is a
-    table satisfying the following properties. (1) The two columns of
-    the table contain the desired actor names and film names, as per the
-    statement of HW1, Part 2, Problem 3. (2) Each actor is paired with
-    each film they appear in. (3) The rows are ordered by actor IDs
-    first, and film IDs next; thus, all rows featuring a particular
-    actor should appear adjacently. Once again, note that no IDs should
-    be shown in your output.
+    <p> There is a detailed example in the file
+    <tt>~cs33/data/hw3_empdata.txt</tt>, which I urge you to read and
+    understand, very carefully. You <b>must</b> follow the above
+    explicit output formatting instructions as well as the implicit ones
+    in that example. </p>
+    <div align=right>[32 points]</div> </li> <br/>
+
+    <li> <p> Consider, yet again, the actors and films example from
+    Homeworks 1 and 2. Assume that the data from the relevant files in
+    <tt>~cs33/data/</tt> have been loaded into the following tables in
+    the MySQL database "filmdb" on "sunapee":
+    <center> <table border=0> <tr> <td> <em>
+      actor (actor_ID, first_name, last_name) <br/>
+      film (film_ID, film_name, description, year) <br/>
+      actor_film (actor_ID, film_ID) <br/>
+    </em> </td> </tr> </table> </center> <br/>
+    We would like to be able to merge two of the actors in this database
+    into one: imagine that we have discovered, e.g., that "Matthew
+    Johansson" is really a pseudonym of "Greg Chaplin". However, we
+    should not carry out this merge operation if it turns out that both
+    these actors have appeared in a common film: perhaps we trust our
+    database enough that if this happens, we're sure they're not the same 
+    person. </p>
+
+    <p> Write code (in a general-purpose language) to perform the
+    necessary updates on "filmdb".  Specifically, your program should
+    read four command line arguments that specify, in order, the first
+    and last names of <tt>actor1</tt> and the first and last names of
+    <tt>actor2</tt>. It should then connect to "filmdb", check if the
+    aforementioned common film condition applies and then behave as
+    follows. If the condition applies, it should print (on standard
+    output) a complete list of film names in which both of the given
+    actors appear, in increasing order of film ID.  Else (the condition
+    does not apply), it should print nothing and effectively rename
+    <tt>actor1</tt> to <tt>actor2</tt> in the database, updating the
+    tables <em>actor</em> and <em>actor_film</em> as necessary. If any
+    errors occur (e.g., inability to connect to the database, or update
+    it, or a non-existent actor name), then you should print an
+    appropriate informative error message to standard output and not
+    make any changes to the database. </p>
     <div align=right>[20 points]</div> </li> <br/>
   </ol>
 
   <h3>What to turn in</h3>
   <ul>
 
-    <li>Prepare one SQL script file containing solutions to Problems 1
-    through 5, in order, with comments interspersed indicating which
-    problem you are solving. Use good indentation/layout so that your
-    queries are easily readable. Follow the examples in the textbook.
+    <li> Prepare a single PDF file containing solutions to all problems
+    in Part 1. I recommend using LaTeX to create the PDF, but as usual
+    you can use your favorite system so long as it is able to produce
+    the necessary mathematical symbols and tables correctly. The file
+    <tt>~cs33/data/hw1_example.tex</tt> has been updated, with a
+    relational calculus example, and a QBE example added. As before, you
+    may copy that file and use it as the basis for your own LaTeX file,
+    editing it as necessary. 
     </li> <br/>
 
-    <li>For grading purposes, we will execute your queries on different
-    database instances from the specific database instance currently
-    in "bankdb" &mdash; therefore, you ought to test your queries 
-    thoroughly against suitably modified databases before submitting.
+    <li> Prepare two files for Part 2, one with the source code for
+    Problem 3, and one for Problem 4. You may code in any
+    general-purpose language you like, and use any standard method you
+    like for connecting to the MySQL databases. In particular, the
+    following methods/languages are currently supported on "sunapee". 
+    <ul>
+      <li> Connector/C (a.k.a. libmysql): a MySQL-specific C/C++ library
+      <li> MySQL ODBC connector, for C/C++
+      <li> MySQL Connector/J (the JDBC connector); java on sunapee is in 
+      <tt>/usr/java/j2sdk/bin/</tt>
+      <li> The DBI module for Perl
+      <li> The MySQLdb module for Python
+    </ul>
+    If you need support for your favorite language, email the sysadmin
+    with your request (and CC your email to the professor and the TA).
+    There's no guarantee that we can install what you want, but we'll
+    try.
     </li> <br/>
-    
-    <li>Prepare a second SQL script file containing a solution to 
-    Problem 6 only.  For populating your database tables using the 
-    contents of the text files, use the <b>load data</b> SQL command:
-    read the MySQL manual for an explanation of the various options
-    available with this command. 
+
+    <li> Do not make unwarranted assumptions about the contents of the
+    databases on which your code will be tested!  You ought to do some
+    thorough testing yourself before submitting.
     </li> <br/>
-    
-    <li>Submit exactly two files &mdash; both SQL scripts &mdash; 
-    each of which should have the extension <tt>".sql"</tt>. As 
-    before, use the <a href="http://www.cs.dartmouth.edu/~cs33/login.html">
-    homework submission form</a> to submit. 
+
+    <li> Submit <b>exactly three files</b>: the PDF file for Part
+    1 and the two programs for Part 2. As always, use the <a
+    href="http://www.cs.dartmouth.edu/~cs33/login.html"> homework
+    submission form</a>, which now allows you to submit three files at a time.
     </li> <br/>
 
   </ul>
 </div>
 
 </body></html>
-darti

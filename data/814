@@ -1,126 +1,230 @@
-http://www.cs.dartmouth.edu/~axel
+http://www.cs.dartmouth.edu/reports/abstracts/TR2008-633
 3
-<html>
+<HTML>
+<!-- WARNING! Do not modify this file; it is
+      automatically generated from a database in www/TRdata/. -->
+<link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
+<HEAD>
+<TITLE> Dartmouth TR2008-633 </TITLE>
+<META NAME="description" CONTENT="Attribute-Based, Usefully Secure Email">
+<META NAME="number" CONTENT="TR2008-633">
+<META NAME="year" CONTENT="2008">
+<META NAME="title" CONTENT="Attribute-Based, Usefully Secure Email">
+<META NAME="abstract" CONTENT=" A secure system that cannot be used by real users to secure
+real-world processes is not really secure at all. While many believe
+that usability and security are diametrically opposed, a growing body
+of research from the field of Human-Computer Interaction and Security
+(HCISEC) refutes this assumption. All researchers in this field agree
+that focusing on aligning usability and security goals can enable the
+design of systems that will be more secure under actual usage.
+  We bring to bear tools from the social sciences (economics, sociology,
+psychology, etc.)  not only to help us better understand why deployed
+systems fail, but also to enable us to accurately characterize the
+problems that we must solve in order to build systems that will be
+secure in the real world. Trust, a critically important facet of any
+socio-technical secure system, is ripe for analysis using the tools
+provided for us by the social sciences.
+ There are a variety of scopes in which issues of trust in secure
+systems can be stud- ied. We have chosen to focus on how humans decide
+to trust new correspondents. Current secure email systems—such as
+S/MIME and PGP/MIME—are not expressive enough to capture the real ways
+that trust flows in these sorts of scenarios. To solve this problem,
+we begin by applying concepts from social science research to a
+variety of such cases from interesting application domains; primarily,
+crisis management in the North American power grid. We have examined
+transcripts of telephone calls made between grid manage- ment
+personnel during the August 2003 North American blackout and extracted
+several different classes of trust flows from these real-world
+scenarios. Combining this knowl- edge with some design patterns from
+HCISEC, we develop criteria for a system that will enable humans apply
+these same methods of trust-building in the digital world. We then
+present Attribute-Based, Usefully Secure Email (ABUSE) and not only
+show that it meets our criteria, but also provide empirical evidence
+that real users are helped by the system.  ">
+<META NAME="author" CONTENT="Christopher P. Masone">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
+<!-- See also footer.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<table border=0 rules=none>
+<col width=85><col width=100%><col width=85>
+<tr valign=center  bgcolor=#003300 border=0>
+ <td>
+   <a href=/><img src=/reports/Dartmouth2.png alt="Dartmouth logo"
+   width=82 height=91 border=0></a>
+ </td>
+ <td>
+   <font color=#ffffff size=+3>
+     Dartmouth College Computer Science<br>
+     Technical Report series
+   </font>
+ </td>
+ <td>
+  <a href="/"><font color=#ffffff>CS&nbsp;home</font></a><br>
+  <a href="/reports"><font color=#ffffff>TR&nbsp;home</font></a><br>
+  <a href="/reports/#search"><font color=#ffffff>TR&nbsp;search</font></a>
+  <a href="/reports/updates.html"><font color=#ffffff>TR&nbsp;listserv</font></a>
+ </td>
+</tr>
+<tr>
+  <td align=right> By author:
+  </td>
+  <td colspan=2>
+    <a href="/reports/authors/index.shtml#A">A</a>
+    <a href="/reports/authors/index.shtml#B">B</a>
+    <a href="/reports/authors/index.shtml#C">C</a>
+    <a href="/reports/authors/index.shtml#D">D</a>
+    <a href="/reports/authors/index.shtml#E">E</a>
+    <a href="/reports/authors/index.shtml#F">F</a>
+    <a href="/reports/authors/index.shtml#G">G</a>
+    <a href="/reports/authors/index.shtml#H">H</a>
+    <a href="/reports/authors/index.shtml#I">I</a>
+    <a href="/reports/authors/index.shtml#J">J</a>
+    <a href="/reports/authors/index.shtml#K">K</a>
+    <a href="/reports/authors/index.shtml#L">L</a>
+    <a href="/reports/authors/index.shtml#M">M</a>
+    <a href="/reports/authors/index.shtml#N">N</a>
+    <a href="/reports/authors/index.shtml#O">O</a>
+    <a href="/reports/authors/index.shtml#P">P</a>
+    <a href="/reports/authors/index.shtml#Q">Q</a>
+    <a href="/reports/authors/index.shtml#R">R</a>
+    <a href="/reports/authors/index.shtml#S">S</a>
+    <a href="/reports/authors/index.shtml#T">T</a>
+    <a href="/reports/authors/index.shtml#U">U</a>
+    <a href="/reports/authors/index.shtml#V">V</a>
+    <a href="/reports/authors/index.shtml#W">W</a>
+    <a href="/reports/authors/index.shtml#X">X</a>
+    <a href="/reports/authors/index.shtml#Y">Y</a>
+    <a href="/reports/authors/index.shtml#Z">Z</a>
+   </td>
+</tr>
+<tr>
+  <td align=right> By number: 
+  </td>
+  <td colspan=2>
+    <font size=-1>
+      <a href="/reports/abstracts/2009.shtml">2009</a>,
+      <a href="/reports/abstracts/2008.shtml">2008</a>,
+      <a href="/reports/abstracts/2007.shtml">2007</a>,
+      <a href="/reports/abstracts/2006.shtml">2006</a>,
+      <a href="/reports/abstracts/2005.shtml">2005</a>,
+      <a href="/reports/abstracts/2004.shtml">2004</a>,
+      <a href="/reports/abstracts/2003.shtml">2003</a>,
+      <a href="/reports/abstracts/2002.shtml">2002</a>,
+      <a href="/reports/abstracts/2001.shtml">2001</a>,
+      <a href="/reports/abstracts/2000.shtml">2000</a>,
+      <a href="/reports/abstracts/1999.shtml">1999</a>,
+      <a href="/reports/abstracts/1998.shtml">1998</a>,
+      <a href="/reports/abstracts/1997.shtml">1997</a>,
+      <a href="/reports/abstracts/1996.shtml">1996</a>,
+      <a href="/reports/abstracts/1995.shtml">1995</a>,
+      <a href="/reports/abstracts/1994.shtml">1994</a>,
+      <a href="/reports/abstracts/1993.shtml">1993</a>,
+      <a href="/reports/abstracts/1992.shtml">1992</a>,
+      <a href="/reports/abstracts/1991.shtml">1991</a>,
+      <a href="/reports/abstracts/1990.shtml">1990</a>,
+      <a href="/reports/abstracts/1989.shtml">1989</a>,
+      <a href="/reports/abstracts/1988.shtml">1988</a>,
+      <a href="/reports/abstracts/1987.shtml">1987</a>,
+      <a href="/reports/abstracts/1986.shtml">1986</a>
+    </font>
+  </td>
+</tr>
+</table>
+<hr>
+<!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<head>
-<style>
-div.header
-{
-	background-color: #3366FF;
-	background-position: left top;
-	
-	padding: 2px;
-}
-td.headerTab
-{
-	
-	color: white;
-	font-size: xx-large;
-}
-
-div.main
-{
-	background-color: white;
-	background-position: left;
-	color: black;
-}
-
-h2
-{
-	color: #3366FF;
-	font-size: x-large;
-	font-weight: bold;
-}
-a:link {text-decoration: none;color: #003399}
-body.a:link {text-decoration: none;color: white}
-a:visited {text-decoration: none;color: #003399}
-a:hover {text-decoration: underline; color: #ff6600;}
-</style>
-<title>Axel Hansen</title>
-</head>
-<body>
-
-<div class="header">
-<table>
-<tr><td><img src="axel-hansen.jpg" /></td><td class="headerTab"><b>Axel Hansen</b><br />
-Hanover High School<br /><font size="0"><a style="color:white;font-size:large;" href="mailto:axel.r.hansen@gmail.com">axel.r.hansen@gmail.com</a></font></td></tr></table>
-</div>
-
-<div class="main">
-<h2>About Me</h2>
+<font size=+2><b> Attribute-Based, Usefully Secure Email </b></font><br>
+<font size=+1><b>
+ <A HREF="../../authors/Masone,Christopher.shtml">Christopher P. Masone</A>
+<br>
+Dartmouth TR2008-633
+</b></font>
+<p><QUOTE>
+<b>Abstract:</b>
+</P><P>
+ A secure system that cannot be used by real users to secure
+real-world processes is not really secure at all. While many believe
+that usability and security are diametrically opposed, a growing body
+of research from the field of Human-Computer Interaction and Security
+(HCISEC) refutes this assumption. All researchers in this field agree
+that focusing on aligning usability and security goals can enable the
+design of systems that will be more secure under actual usage.
+</P><P>
+  We bring to bear tools from the social sciences (economics, sociology,
+psychology, etc.)  not only to help us better understand why deployed
+systems fail, but also to enable us to accurately characterize the
+problems that we must solve in order to build systems that will be
+secure in the real world. Trust, a critically important facet of any
+socio-technical secure system, is ripe for analysis using the tools
+provided for us by the social sciences.
+</P><P>
+ There are a variety of scopes in which issues of trust in secure
+systems can be stud- ied. We have chosen to focus on how humans decide
+to trust new correspondents. Current secure email systems—such as
+S/MIME and PGP/MIME—are not expressive enough to capture the real ways
+that trust flows in these sorts of scenarios. To solve this problem,
+we begin by applying concepts from social science research to a
+variety of such cases from interesting application domains; primarily,
+crisis management in the North American power grid. We have examined
+transcripts of telephone calls made between grid manage- ment
+personnel during the August 2003 North American blackout and extracted
+several different classes of trust flows from these real-world
+scenarios. Combining this knowl- edge with some design patterns from
+HCISEC, we develop criteria for a system that will enable humans apply
+these same methods of trust-building in the digital world. We then
+present Attribute-Based, Usefully Secure Email (ABUSE) and not only
+show that it meets our criteria, but also provide empirical evidence
+that real users are helped by the system.  
+</QUOTE></p>
+<p><QUOTE>
+<b>Note:</b>
+Ph.D Dissertation. Advisor: Sean W. Smith.  
+</QUOTE></p>
+<HR>
+ <a href="http://www.cs.dartmouth.edu/reports/TR2008-633.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (4720KB)
 <p>
-I'm a senior at Hanover High School in New Hampshire, and I will be entering the <a href="http://www.harvard.edu">Harvard</a> class of 2013 next year.  My academic interests are in computer science and I have taken CS and math courses
-and conducted research at Dartmouth College.  Since the summer of 2007, I have been an intern under research
-professor <a href="http://www.cs.dartmouth.edu/~sergey">Sergey Bratus</a> at the PKI/Trust Lab at Dartmouth College.  My research focus has been in 
-computer security, although I enjoy almost any topic in CS.</p>
-
-<p>
-In the summer of 2008, I attended the <a href="http://www.cee.org/rsi">Research Science Institute</a> at MIT.  I researched 
-failure-oblivious computing at MIT's Lincoln Laboratory under the supervision of <a href="http://web.mit.edu/~mzhivich/www/">
-Michael Zhivich</a>.  My research paper is titled <a href="http://www.cs.dartmouth.edu/~axel/axel-hansen-foc.pdf">Improved Heuristics for Program Continuation in 
-Failure-Oblivious Computing</a>.
-I was among the top-five distinguished presenters at RSI, and I am a semifinalist in the 2008 Siemens Competition for my research in failure-oblivious computing.</p>
-
-<p>I am a semifinalist in the Intel Science Talent Search for my research on a security visualization with Sergey Bratus.  My <a href="axel-hansen-intel-paper.pdf">paper</a> is titled "Visualizing Network Anomalies for Intrusion Detection with Information Theoretic Metrics."  
+Bibliographic citation for this report:
+  [<a href="TR2008-633.ascii">plain text</a>]
+  [<a href="TR2008-633.bib">BIB</a>]
+  [<a href="TR2008-633.bibtex">BibTeX</a>]
+  [<a href="TR2008-633.refer">Refer</a>]
 </p>
-
-<p>My <a href="http://www.people.fas.harvard.edu/~ahansen/">web page at Harvard</a> has my up-to-date info.</p>
-
-A list of my <a href="#papers">Publications and Conferences</a> and
-<a href="#courses">Dartmouth Coursework</a> follows.
-
-
-<h2><a name="papers">Publications and Conferences</a></h2>
-<p><a href="http://lzfuzz.cs.dartmouth.edu"><b>LZfuzz</b></a></br />
-<i>A smart fuzzer that uses the lempel-ziv compression algorithm to automatically tokenize protocols and then fuzzes and
-sends proxied traffic using a modified version of the General Purpose Fuzzer.  LZfuzz was used to test the security of several
-SCADA and VoIP protocols.</i><br /><br />
-Sergey Bratus, Axel Hansen, Anna Shubina.<br />
-<a href="http://www.cs.dartmouth.edu/reports/TR2008-634.pdf">LZfuzz: a fast compression-based fuzzer for poorly documented protocols</a>.<br />
-Computer Science Technical Report TR2008-634.  Dartmouth College.  September 2008.
-<br \>
-<br \>
-Sergey Bratus, Axel Hansen, Anna Shubina.<br />
-Fuzzing Proprietary SCADA Protocols.<br />
-Poster, Dartmouth Computer Science Research Symposium, 2008.
+<p>Or copy and paste:<br>
+&nbsp;&nbsp;
+Christopher P. Masone, 
+"Attribute-Based, Usefully Secure Email."
+Dartmouth Computer Science Technical Report TR2008-633,
+August 2008.
 </p>
-<p><a href="https://kerf.cs.dartmouth.edu/backhoe/"><b>Backhoe</b></a></br />
-<i>A vizualization of informational entropy to find novelty in packet and log traces.</i><br /><br \>
-Sergey Bratus, Axel Hansen, Fabio Pellacini and Anna Shubina<br />
-<a href="http://www.cs.dartmouth.edu/~axel/backhoeVizsec.pdf">Backhoe, a Packet Trace and Log Browser</a>.<br />
-Vizsec 2008 conference proceedings.
-</p>
+<!-- Include file for abstracts/*.html and authors/*.html -->
+<!-- See also header.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<!-- </td></tr></table> -->
+<hr>
 
-<p><a href="http://baffle.cs.dartmouth.edu/"><b>Baffle</b></a></br />
-<i>An active fingerprinter for wireless access points over the link-layer.</i><br /><br />
-Sergey Bratus, Cory Cornelius, Daniel Peebles, and Axel Hansen <br />
-Active Fingerprinting of 802.11 APs.<br />
-Toorcon 2008.<br /><br />
-Sergey Bratus, Cory Cornelius, Daniel Peebles, and Axel Hansen <br />
-Active Fingerprinting of 802.11 APs.<br />
-Blackhat Briefings 2008.
-</p>
-<p>
-I attended the following conferences in 2008:<br /> Recon (Montreal), Defcon (Las Vegas), Blackhat (Las Vegas), Vizsec (Cambridge, MA), and Toorcon (San Diego).
+<p><a href=/reports/updates.html>Notify me about new tech reports</a>.
+<a href=/reports/feed.xml><img src=/reports/rss.gif><a></p>
+<p><a href=/reports/index.shtml#search>Search the technical reports</a>.</p>
+<p>To receive paper copy of a report, by mail, 
+send your address and the TR number to <tt>reports</tt> AT <tt>cs.dartmouth.edu</tt>
 
+<hr>
 
-<h2><a name="courses">Dartmouth Coursework</a></h2>
-<i>
-Introduction to Math Beyond Calculus, Professor John Trout, Winter 2009.<br />
-3D Digital Modeling, Professor Lorie Loeb, Fall 2008.<br />
-Computer Networks, Professor Andrew Campbell, Spring 2008.<br />
-Operating Systems, Professor Sean Smith, Fall 2007.<br />
-Computer Architecture, Professor Kate Forbes-Riley, Spring 2007.<br />
-Structure and Interpretation of Computer Programs, Professor Michael Fromberger, Winter 2007.<br />
-Introduction to Computer Science, Professor Thomas Cormen, Fall 2006.
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5910101-1");
-pageTracker._trackPageview();
-</script>
-</body>
-</html>
+<p><font size=-1><b>Copyright notice</b>:	
+The documents contained in this server are included by the
+contributing authors as a means to ensure timely dissemination of
+scholarly and technical work on a non-commercial basis.  Copyright and
+all rights therein are maintained by the authors or by other copyright
+holders, notwithstanding that they have offered their works here
+electronically.  It is understood that all persons copying this
+information will adhere to the terms and constraints invoked by each
+author's copyright.  These works may not be reposted without the
+explicit permission of the copyright holder.
+</font></p> 
+<p><font size=-1><em>Technical reports collection maintained by David Kotz</em>.
+
+</BODY>
+</HTML>

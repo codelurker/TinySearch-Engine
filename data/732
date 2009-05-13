@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/projects.html
+http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/grading.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -35,77 +35,44 @@ http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/projects.html
 </div>
 
 <div class="content">
-<h2>Final Project</h2>
+<h2>Grading</h2>
 
-<div style="text-align: justify;">I will provide a few
-project ideas
-but you are&nbsp; encouraged to choose a topic (with my approval)
-that
-matches your research interests. Students are encouraged to do projects
-in groups of two but individual projects are also acceptable. Group
-projects need to have roughly twice the contribution of an individual
-project. Feel free to use the available datasets (with proper
-reference) for your project - <br />
+<div class="listBlock">
+<ul>
 
-<a style="color: rgb(0, 0, 0);" href="http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Fall08/dataset.html">
-http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/dataset.html</a></div>
+  <li class="listBlockItem"><span style="text-decoration: underline;">Class Participation</span>:
+10%</li>
 
-<br />
+  <li class="listBlockItem"><span style="text-decoration: underline;">Written Critiques</span>:
+20%</li>
 
-You can choose one of two different flavors of projects -<br />
+  <li class="listBlockItem"><span style="text-decoration: underline;">Presentations</span>:
+20%</li>
 
-<br />
+  <li class="listBlockItem"><span style="text-decoration: underline;">Project</span>: 50%</li>
 
-A project where you implement some of the main ideas from a paper you
-read in class but explore a new application scenario or create a new
-and compelling demo.<br />
+  <br />
 
-<br />
+</ul>
 
-<div style="text-align: center;"><span style="font-weight: bold;">OR</span><br />
-
-</div>
-
-<br />
-
-<div style="text-align: justify;">A project where you
-propose a new
-algorithm (or an extension to an exisiting algorithm) that is related
-to one of the techniques covered in class. You will be graded on the
-novelty and depth of your idea as well as the implementation. For this
-type of project you won't be penalized if your idea does not give you
-the result you expect. But you should make a convincing argument for
-why you think your idea will be successful in your proposal and devoted
-enough time exploring why the idea did not work.<br />
+<div style="text-align: justify;">Late submissions are
+not
+accpeted. If
+there is an emergency or special situation please contact me before an
+assignment is due and we can discuss if an extension is approriate.
+Each student has one grace assignment (written crituques only) and can
+choose not to write a review for one of the papers - however you need
+to inform me in advance.<br />
 
 </div>
 
-<span style="font-weight: bold;"><br />
+<span style="font-weight: bold;"></span><br />
 
-</span>
-<h2>The fine print ...</h2>
+<span style="font-weight: bold;"></span><span style="font-weight: bold;"></span><span style="font-weight: bold;"><br />
 
-Those of you who are first year graduate students and
-are unsure about the scope of the project - please come talk to me. It
-may seem like a daunting task at first but projects can be fun and a
-great way to get started on research. I will provide some project ideas
-after October 2, 2008. But first I wanted to give you the opportunity
-to think about the types of problem that excite you before biasing your
-thinking. Depending on your interest and experience I am happy to work
-with you in finding a project that will be a good fit - not all
-projects have to have a lot of coding. You can explore ideas on how
-computational systems can be used by people - if you want to propose
-interesting user study or behavioral experiment towards that goal I am
-happy to work with you in figuring out the right project. If you are
-mathematically inclined and want to develop a new algorithm you are
-welcome to do so but you need to have some way to evaluate your
-techniques with real data (this can simply be coding it up in Matlab
-and running some experiments).
-<br />
+</span><br />
 
-<br />
-
-<br />
+</div>
 
 </div>
 
@@ -113,4 +80,4 @@ and running some experiments).
 
 </body>
 </html>
-hrefñ
+reati

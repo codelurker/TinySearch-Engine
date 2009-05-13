@@ -1,160 +1,23 @@
-http://www.cs.dartmouth.edu/~tanzeem/students/students.html
+http://www.cs.dartmouth.edu/~dfk/house/addition
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
-<head>
-
-
-  
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<!-- #BeginEditable "doctitle" -->
-
-
-  
-
-
-
-  
-  <title></title>
-<!-- #EndEditable -->
-  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
-
-
-  
-  <style type="text/css">
-.style1 {
-color: #006699;
-}
-  </style>
-</head>
-
-
-<body>
-
-
-<!-- Begin Container -->
-<div id="container"><!-- Begin Masthead -->
-<div id="masthead">
-<h1><a href="#">Tanzeem Choudhury</a></h1>
-
-
-<h3>Assistant Professor</h3>
-
-
-<h4>Computer Science, Dartmouth College</h4>
-
-
-</div>
-
-
-<!-- End Masthead --><!-- Begin Navigation -->
-<div id="navigation">
-<ul>
-
-
-  <li><a href="../index.html">About</a></li>
-
-
-  <li><a href="../pubs/pubs.html">Publications</a></li>
-
-
-  <li><a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a></li>
-
-
-  <li><a href="students.html">Students</a></li>
-
-
-  <li><a href="../teaching/teaching.html">Teaching</a></li>
-
-
-  <li><a href="../press/press.html">Press</a></li>
-
-
-  <li><a href="../links/links.html">Links</a></li>
-
-
-  <li><a href="../contact/contact.html">Contact</a></li>
-
-
-</ul>
-
-
-</div>
-
-
-<!-- End Navigation --><!-- Begin content_container -->
-<div id="content_container"><!-- Begin Left Column -->
-<div id="column_left"><!-- #BeginEditable "content" -->
-<blockquote><span style="font-weight: bold;">Current
-Graduate Students<br />
-
-
-  </span>
-  
-  <ul>
-
-
-    <li><a href="http://www.cs.washington.edu/homes/danny/">Danny
-Wyatt</a>, University of Washington</li>
-
-
-    <li>Daniel Peebles</li>
-    <li><a href="http://www.cs.dartmouth.edu/%7Elinmu/">Mu Lin</a></li>
-
-
-  
-  </ul>
-
-
-  <span style="font-weight: bold;">Undergraduate Students</span><br />
-
-
-  
-  <ul>
-
-
-    <li>Jeff Fielding</li>
-
-
-    
-    <ul>
-
-
-      <li>Senior thesis: Linkability in Activity Inference Data
-Sets</li>
-
-
-    
-    </ul>
-
-
-  
-  </ul>
-
-
-</blockquote>
-
-
-<!-- #EndEditable --></div>
-
-
-<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
-<div id="footer">
-<p><a href="../index.html">About</a> |<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a> | <a href="students.html">Students</a> |
-<a href="../teaching/teaching.html">Teaching</a> |
-<a href="../press/press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
-
-
-</div>
-
-
-<!-- End Footer --></div>
-
-
-<!-- End content_container --></div>
-
-
-<!-- End Container -->
+<html><head><title>Dave&nbsp;and&nbsp;Pam's&nbsp;Addition</title></head>
+<body bgcolor=#ffffff>
+<font size=+2><b>Dave&nbsp;and&nbsp;Pam's&nbsp;Addition</b></font>
+<p>
+From August 2000 through winter 2001 we added about 50% onto the
+house (24x22 feet), at the north end, and we finished most of the basement.
+<p>
+All photo chapters:
+<font size=-1>
+<a href="0.foundation/index.html" target="_top">Prepare&nbsp;for&nbsp;the&nbsp;frame</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="1.frame/index.html" target="_top">Timber&nbsp;frame&nbsp;and&nbsp;panels</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="2.exterior/index.html" target="_top">Finishing&nbsp;the&nbsp;exterior</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="3.interior/index.html" target="_top">Roughing&nbsp;out&nbsp;the&nbsp;interior</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="4.walls/index.html" target="_top">Wiring&nbsp;and&nbsp;plumbing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="5.finish/index.html" target="_top">Finishing&nbsp;the&nbsp;interior</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font>
+<p><center><img src=header.jpg></center>
+<center>October 14, 2000. An essentially complete view of the house from the southwest.</center>
 </body>
 </html>
-rsinthi
+á

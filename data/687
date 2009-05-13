@@ -1,77 +1,234 @@
-http://www.cs.dartmouth.edu/~cs38/2007/F07-akapadia
+http://www.cs.dartmouth.edu/~cs42/index.html
 3
-<html> <head>
-<title>CS38: Home Page</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>COSC42 - Projects in Digital Art - Spring 2009</title>
+	<meta name="author" content="Fabio Pellacini" />
+	<link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
- 
+
 <body>
 
-<h1> <a href="index.html">CS 38&mdash;Security and Privacy, Fall 2007</a></h1>
-<i>Approved for graduate credit</i>
-<table width="600">
-<tr><td>
+<div class="pagebackground">
 
-<hr>
-<br>
-<center>
-[
-<a href="purpose.html"><b>Overview</b></a>
-|
-<a href="logistics.html"><b>Logistics</b></a>
-|
-<a href="syllabus.html"><b>Syllabus</b></a>
-|
-<a href="hw.html"><b>Homeworks</b></a>
-|
-<a href="project.html"><b>Project</b></a>
-|
-<a href="text.html"><b>Textbook and Resources</b></a>
-]
-</center>
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
 
-<h2>Course Information</h2>
+<div class="page">
 
-<table>
-  <tr>    
-   <th valign="top">Lectures</th>
-    <td>214 Sudikoff <br>
-        10&ndash;11:50am, Tue,Thu <br>
-	X Hour: 3&ndash;3:50pm, Wed </td>
-  </tr>
+<div class="header">
+<div class="title">Projects in Digital Art</div>
+<div class="subtitle">COSC42 - Spring 2009</div>
+<div class="subtitle">Instructor: Fabio Pellacini</div>
+</div>
 
-  <tr>
-    <th valign="top">Instructor</th>
-    <td><a href="http://www.cs.dartmouth.edu/~akapadia/">Apu Kapadia</a><br>
-        <a href="mailto:akapadia@cs.dartmouth.edu">akapadia@cs.dartmouth.edu</a><br>
-	065 Sudikoff<br>
-	646-8734<br>
-        Office Hours: 1&ndash;2pm Tue, 2&ndash;3pm Thu, or by appointment<br>
-    </td>
-  </tr>
+<div class="navigation">
+<span class="navigationitem"><a href="index.html">About</a></span>
+<span class="navigationitem"><a href="schedule.html">Schedule</a></span>
+<span class="navigationitem"><a href="projects.html">Projects</a></span>
+</div>
 
-  <tr>
-    <th valign="top">TA</th>
-    <td>Wei-Ming Chen<br>
-        <a href="mailto:wmc@cs.dartmouth.edu">wmc@cs.dartmouth.edu</a><br>
-	152 Sudikoff<br>
-	646-8741<br>
-        Office Hours: 1&ndash;3pm Wed, or by appointment<br>
-    </td>
-    </td>
-  </tr>
+<div class="content">
+<h1>About</h1>
 
-  <tr>
-    <th>Textbook</th>
-    <td><i>The Craft of System Security</i>, Sean W. Smith, John C. Marchesini</td>
-  </tr>
+<h2>Course Description</h2>
 
-</table>
+<p>Students complete projects using digital arts techniques. 
+Projects include computer animations, interactive graphics projects and installations, 
+digital photography. Students can use commercial software, create new applications for 
+commercial software, or develop new software or tools.</p>
+
+<p>While we allow for any digital art project, this term the course will focus on the
+production of a short animated movie. Any student interested in pursuing a different
+project, should contact the instructor.</p>
+
+<p>Lectures will be split on those where we will present conceptual topics on 
+animated movie making and digital art, those where we will discuss your work, 
+and those where we will work together in the lab.</p>
+
+<h2>Administration</h2>
+
+<div class="listBlock">
+<div class="listBlockTitle">Instructor</div>
+<ul>
+<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) | Sudikoff 153 | Office hour: Monday 2-3pm </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Teaching Assistant</div>
+<ul>
+<li class="listBlockItem">Brandon Kerr (wkerr -at- cs -dot- dartmouth -dot- edu) | Sudikoff 143 | Office hour: Monday & Friday 3-5pm </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Lectures</div>
+<ul>
+<li class="listBlockItem">TuTh 10:00-11:50am | Sudikoff 115</li>
+<li class="listBlockItem">Xhour: W 3:00-3:50pm | Used sometimes for labs </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Lab</div>
+<ul>
+<li class="listBlockItem">Sudikoff 005</li>
+<li class="listBlockItem">Reserved times: 6-9pm every day </li> 
+</ul>
+</div>
+
+<h2>Coursework</h2>
+
+<h3>Project</h3>
 
 <p>
+The class will focus on the production of a digital art project. Students can suggest their own projects, which may include animated movies, computer games, digital photography or interactive art installations. Since we expect most students to pursue the production of an animated short as their main project, the class instruction and schedule will focus on that. If students are interested in other projects, please contact the instructor right away so we can arrange it. From now on, we will describe the course as a short animated movie production.
+</p>
 
-<hr>
-</td></tr>
-</table>
+<p>
+In producing a short animated movie, we will focus on production methods and group work. In a sense, we will replicate at a tiny scale, the structure of a large production house (except you will play all of the different roles). Each short should be <em>at most 90 seconds long and contain no more than two animated characters</em> (but have have many objects in the set). Remember that the goal is a short <em>high quality</em> production, as opposed to a long rough piece. We suggest you start with a 60 seconds idea.
+</p>
+<p>
+For each animated short, we will go though the various stages of a production pipeline with grading milestone at each stage and for the final submitted piece.
+</p>
+<ul>
+<li>story and storyboarding</li>
+<li>character/scene modeling</li>
+<li>character rigging and set dressing</li>
+<li>character/scene shading</li>
+<li>layout and animation tests</li>
+<li>animation</li>
+<li>lighting</li>
+<li>rendering</li>
+<li>editing and postproduction</li>
+</ul>
 
-</body> </html>
-i
+<p>
+Projects are to be <em>performed in groups of 4 </em> students. Given the time allotted, this will give you the possibility of creating higher quality animations, together with a sense of how movie productions work. At different times during the projects, group members will focus on various aspects of the production, but overall team work will be necessary to finish the project on time and with high quality.
+</p>
+
+<p>
+Projects will have (almost) weekly milestones, where you will hand in project materials (as specified) and Powerpoint presentation files. We will keep these materials and make them available to others in the class. This is to help each other work/learn together! If for any reasons you object to have your material posted, please contact me right away.
+</p>
+
+<h3>Presentations</h3>
+
+<p>
+You will be presenting your work in front of class. Each group member will present parts of
+the project as it develops. We'll have specific milestones each week, which will be graded based on quality of the work and presentations.
+</p>
+<p>
+Presentations are for you to give a status report of your project, 
+and for the class to learn from your work and help you with their comments and suggestions.
+There is no better way of learning than sharing discussion with your peers!
+It the time where you will show your work, how well it fits your vision 
+and what are the aesthetics and technical challanges you have faced. 
+Each presenetation shoud contain slides to show what you accomplished and motivate further 
+discussion.
+Presentations serve the final purpose of mimicking "reviews" in production environments. 
+At the same time, you will graded on the presentation and the project milestone handed in together with it.
+All presentations are to be done in Powerpoint and screen capture movies, with use of demos 
+to further discuss the work. I will also ask you to compare your work directly with the concepts
+taught during the lectures (this is better than a midterm and final :-).
+</p>
+
+<h3>Class Participation</h3>
+
+<p>Class and group participation is fundamental. Think what would happen if nobody talked to each
+other in a company like Pixar. Yes, the movie would not be made. In our class, participation
+is necessary to learn, help your friends make their short better and help you by getting feedback by a lively audience. You will be graded on your class participation.</p>
+
+<h3>Lab</h3>
+
+<p>
+We have reserved lab hours for the class, where we will be present to help with your work.
+While you are free to work at home, we strongly suggest you work in the lab with your group.
+In our experience, overlapping on the project is the only way to do it. Details to come.
+</p>
+
+<h3>Grading, Late Assignments and Extra credit</h3>
+
+<p>The final grade from this class will be decided by your class participation (10%),
+your presentations (30%) and your project material (60%).
+Almost every week, we will have project milestones that are separately graded. For each milestone,
+you are to hand in the milestone material (like a storyboard, Maya files or Quicktime movies)
+and a Powerpoint presentation file.
+There will be a final presentation where you will present and show your final project.
+This presentation will be open to everybody (including your friends, family, pets, etc. :-).
+Your overall project grade will be roughly 70% milestones and 30% final submission.
+Your final presentation will not be graded, but it is for you and your friends to have fun
+and watch the cool animation you made (but will still require a Powerpoint presentation).
+</p>
+
+<p>Note that I am including here rough percentage of the final grade as indication only.
+These will likely change and it is likely that I will weight things differently 
+at the end of the class.</p>
+
+<p>
+While the project is done in a group, we will grade individually. First, each presentation
+will be given by different team member (in a round robin scheme). Second, while each presentation
+has to show the work of the whole group, you will explain what was done by who. Third,
+I'll ask questions related to the material covered in class during your presentation.
+</p>
+
+<p>
+<em>We will not accept late submissions for any of the assignments nor the final project.</em>
+Exception to this rule might be made in special circumstances only if the professor is 
+informed way in advance of the deadline and at his sole discretion.
+Unless otherwise stated, material is due the morning before your presentation at 6am. <!--CHANGE-->
+</p>
+
+<h3>Working Together and Academic Integrity</h3>
+
+<p>You are encouraged to talk with other students about the topics discussed in class
+as well as your project.  The goal is to get a deeper understanding of
+the material, further develop ideas related to your project and overall learn together.</p>
+
+<p>Once it gets to preparing your presentation and your project,
+you should only work by yourself and with your team members.</p>
+
+<p>You are welcome to use external sources of material when performing your project,
+provided this does not violate others' copyright and you cite your sources specifically
+as specified in the Dartmouth College 
+<a href="http://www.dartmouth.edu/comp/about/policies/">Computing Policies</a>.
+In this case, please consult me before doing so.</p>
+
+<p>If you have any questions as to whether some action would be acceptable under the 
+Academic Honor Code, please speak to me or another member of the course staff, 
+and we will be glad to help clarify things. 
+It is always easier to ask beforehand than to have trouble later.</p>
+
+<h3>Disabilities</h3>
+
+<p>I encourage any students with disabilities, including "invisible" disabilities such 
+as chronic diseases and learning disabilities, to discuss appropriate accommodations 
+with me, which might help you with this class, either after class or during office hours. 
+Dartmouth College has an active program to help students with disabilities, 
+and I am happy to do whatever I can to help out, as appropriate.</p>
+
+<p>The Student Disabilities Coordinator, Nancy Pompian, can be reached at 6-2014 if you 
+have any questions. Any student with a documented disability requiring academic adjustments 
+or accommodations is requested to speak with me by the second week of the term. 
+All discussions will remain confidential. It is important, however, 
+that you talk to me soon, so that I can make whatever arrangements might 
+be needed in a timely fashion.</p>
+
+</div>
+
+<div class="footer">
+Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>

@@ -1,88 +1,291 @@
-http://www.cs.dartmouth.edu/content/syllabi/cs2/schedule.html
+http://www.cs.dartmouth.edu/~cs5/syllabus.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-<head>
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<title>CS 2 | Programming for Interactive Digital Arts | Winter 2008</title>
-<link rel="stylesheet" type="text/css" href="style/style.css" />
+<html> <head>
+<title>Computer Science 5, Spring 2009 Syllabus</title>
 </head>
 
-<body>
-<div class="pagebackground">
-<div class="pagedecorationbefore"></div>
-<div class="pagedecoration">
+<body bgcolor=#ffffff>
+<h1><a href="/~cs5/">CS 5 Spring 2009</a><br>
+Syllabus</h1>
 
-<div class="page">
-<div class="header">
-  <div class="title">CS 2, Winter 2008</div>
-  <div class="subtitle">Programming for Interactive Digital Arts</div>
-</div>
+<strong>Schedule subject to change with minimal notice.</strong>
 
-<div class="navigation">
-  <a href="index.html" class="navthere">About</a>
-  <a href="schedule.html" class="navhere">Schedule</a>
-</div>
+<p>
 
-<div class="content">
-<table class="schedule">
+All readings are from Lewis and Loftus.
 
-<tr><th id="date">Date</th><th id="topics">Topics</th><th id="refs">References</th><th id="out">Out</th><th id="due">Due</th></tr>
+<p>
 
-<tr class="on"><td>Jan 7</td><td>Introduction</td><td>Browse <a href="http://www.processing.org">Processing site</td><td>HW 0</td><td></td></tr>
-<tr class="on"><td>Jan 9</td><td>Basic drawing</td><td>Structure&nbsp;1, Shape&nbsp;1, Color&nbsp;1, Typography&nbsp;1</td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Jan 11</td><td>Basic interaction</td><td>Math&nbsp;1, Structure&nbsp;2, Input&nbsp;1</td><td>HW 1</td><td>HW 0</td></tr>
-<tr valign="top" class="off"><td>Jan 14</td><td>Responding conditionally</td><td>Control&nbsp;1, Input&nbsp;2</td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Jan 16</td><td>State</td><td>Data&nbsp;1, Input&nbsp;3</td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Jan 18</td><td>Repetition</td><td>Control&nbsp;2, Data&nbsp;4</td><td>HW 2</td><td>HW 1 </td></tr>
-<tr class="on"><td class="cancel">Jan 21</td><td class="cancel">No class (MLK day)</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Jan 23</td><td>More complex shapes</td><td>Shape&nbsp;2, Structure&nbsp;3</td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Jan 24 <span class="xhour">(x)</span></td><td>Periodicity</td><td>Math&nbsp;3</td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Jan 25</td><td>Coordinates revisited</td><td>Transform&nbsp;1, Transform&nbsp;2</td><td>HW 3</td><td>HW 2 </td></tr>
-<tr class="off"><td>Jan 28</td><td>Review</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Jan 30</td><td>Moving objects</td><td>Structure&nbsp;4</td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Feb 1</td><td>Pseudo-physics</td><td>Simulate&nbsp;2</td><td></td><td>HW 3 </td></tr>
-<tr valign="top" class="on"><td>Feb 4</td><td class="quiz">Quiz 1</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Feb 6</td><td>Multi-object systems</td><td>Simulate&nbsp;2</td><td>Proj 1</td><td></td></tr>
-<tr valign="top" class="on"><td class="xhour">Feb 7 (x)</td><td>Spring systems</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="on"><td class="cancel">Feb 8</td><td class="cancel">No class (winter carnival)</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Feb 11</td><td>Holistic images</td><td>Image&nbsp;1, Image&nbsp;2</td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Feb 13</td><td>Pixels</td><td>Image&nbsp;3</td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Feb 15</td><td>Image processing</td><td>Image&nbsp;4, Image&nbsp;5</td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Feb 18</td><td>Video</td><td></td><td>HW 4</td><td>Proj 1 </td></tr>
-<tr valign="top" class="on"><td>Feb 20</td><td>Proj 1 presentations</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Feb 22</td><td>Video processing</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="off"><td>Feb 25</td><td>Text and web</td><td>Data&nbsp;2, Data&nbsp;3, Typography&nbsp;1, Typography&nbsp;2, Input&nbsp;6</td><td></td><td>HW 4 </td></tr>
-<tr valign="top" class="off"><td>Feb 27</td><td>Network visualization</td><td></td><td>Proj 2</td><td></td></tr>
-<tr valign="top" class="off"><td>Feb 29</td><td>Recursion</td><td>Shape&nbsp;3</td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Mar 3</td><td class="quiz">Quiz 2</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Mar 5</td><td>Prof. Lorie Loeb: digital arts, 3D, motion, etc.</td><td></td><td></td><td></td></tr>
-<tr valign="top" class="on"><td>Mar 7</td><td>Proj 2 presentations</td><td></td><td></td><td>Proj 2</td></tr>
+[<a href="#week1">Week 1</a>]
+[<a href="#week2">Week 2</a>]
+[<a href="#week3">Week 3</a>]
+[<a href="#week4">Week 4</a>]
+[<a href="#week5">Week 5</a>]
+[<a href="#week6">Week 6</a>]
+[<a href="#week7">Week 7</a>]
+[<a href="#week8">Week 8</a>]
+[<a href="#week9">Week 9</a>]
+[<a href="#week10">Week 10</a>]
 
-</table>
+<p>
 
-<p>Notes will be provided for each class (linked from the date).
-The references refer mostly to chapters in the course textbook, by
-Reas and Fry.  Since we aren't following the book in order, you'll
-have to skim those parts of a chapter that build on things we haven't
-covered yet.  It will be useful to refer back later.</p>
+<hr>
 
-</div>
+<p>
 
-<div class="footer">
+<a name="week1"><strong>Week 1</strong></a>
+
+<dl>
+  <dt> <a href="lectures/0330/0330.html">Monday, March 30</a>:
+  <dd> Why study Computer Science?  Administrivia.  What makes a good
+       program?
+
+  <dt> <a href="lectures/0401/0401.html">Wednesday, April 1</a>:
+  <dd> What makes a good program, continued.<br>
+       Primitive types and values.<br>
+       Reading: Chapters 1, 2.1-2.3. 
+       
+  <dt> <a href="lectures/0402/0402.html">Thursday, April 2</a> (x-hour):
+  <dd> Variables, operators on primitive types, Scanner class,
+       type conversions. <br>
+       Reading: Chapter 2.4-2.6
+       
+  <dt> <a href="lectures/0403/0403.html">Friday, April 3</a>:
+  <dd> References and objects.  Using builtin classes:
+       DecimalFormat, String, Math, Random.<br>
+       Reading: 3.1 - 3.6.
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week2"><strong>Week 2</strong></a>
+
+<dl>
+
+  <dt> <a href="lectures/0406/0406.html">Monday, April 6</a>:
+  <dd> Flow of control: loops and if-else statements.<br>
+       Reading: 5.1-5.3, 5.5-5.8
+
+  <dt> <a href="lectures/0408/0408.html">Wednesday, April 8</a>:
+  <dd> Prompting for input. Boolean expressions.  Nested loops.  <br>
+       Reading: 3.7.
+
+  <dt> <a href="lectures/0409/0409.html">Thursday, April 9</a> (x-hour):
+  <dd> More on classes, operators, and nested loops.<br>
+       Introduction to writing classes.<br>
+       Reading: 4.1-4.5.
+       
+  <dt> <a href="lectures/0410/0410.html">Friday, April 10</a>:
+  <dd> More on writing classes.<br>
+       Reading: 6.7-6.8.
+
+</dl>
+ 
+<hr>
+
+<p>
+
+<a name="week3"><strong>Week 3</strong></a>
+
+<dl>
+  <dt> <a href="lectures/0413/0413.html">Monday, April 13</a>:
+  <dd> Problem decomposition.<br>
+       Reading: 6.1-6.2, 6.4.<br>
+
+  <dt> <a href="lectures/0415/0415.html">Wednesday, April 15</a>:
+  <dd> Method call mechanisms.  Garbage collection.<br>
+       <em>Lab #1 out.</em>
+
+  <dt> <a href="lectures/0416/0416.html">Thursday, April 16</a> (x-hour):
+  <dd> Scope of names.  Static methods and static variables.
+       Wrapper classes and autoboxing.<br>
+       Reading: 3.8, 6.3.
+       
+  <dt> <a href="lectures/0417/0417.html">Friday, April 17</a>:
+  <dd> Debugging and testing.  Graphical applets.<br>
+       Reading: 2.7-2.9, 6.9.
+       
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week4"><strong>Week 4</strong></a>
+
+<dl>
+
+  <dt> <a href="lectures/0420/0420.html">Monday, April 20</a>:
+  <dd> Objects and applets.  Interfaces.<br>
+       Reading: 6.5, 7.9.
+       
+  <dt> <a href="lectures/0422/0422.html">Wednesday, April 22</a>:
+  <dd> Events and listeners.  Manual animations.
+       Animations with timers.<br>
+       Reading: 8.8.<br>
+       <em>Lab #1 due.</em>
+       
+  <dt> Thursday, April 23 (x-hour):
+  <dd> <em>Open review session.</em><br>
+
+  <dt> <a href="lectures/0424/0424.html">Friday, April 24</a>:
+  <dd> Arrays.  Arrays of objects.  Multidimensional arrays.<br>
+       Reading: 7.1-7.6.       
+
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week5"><strong>Week 5</strong></a>
+
+<dl>
+
+  <dt> <a href="lectures/0427/0427.html">Monday, April 27</a>:
+  <dd> Arrays, continued.  Multidimensional arrays.
+       Objects containing arrays.  ArrayList class.  Generic types.<br>
+       Reading: 7.7-7.8.<br>
+       <em>Lab #2 out.</em>
+       
+  <dt> Tuesday, April 28:
+  <dd>   <em>Exam at 6:00 - 9:00 pm</em>
+
+  <dt> <a href="lectures/0429/0429.html">Wednesday, April 29</a>:
+  <dd> Graphics using arrays.  Inheritance. <br>
+       Reading: 8.1-8.3, 8.5.
+       
+  <dt> <a href="lectures/0430/0430.html">Thursday, April 30</a> (x-hour):
+  <dd> Inheritance, polymorphism, dynamic binding, and graphics.<br>
+       Reading: 8.4, 8.7, 9.1-9.3, 9.7.<br>
+
+  <dt> <a href="lectures/0501/0501.html">Friday, May 1</a>:
+  <dd> Object class.  GUI components.<br>
+       Reading: 3.9-3.10, 4.7-4.9, 8.6-8.7.
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week6"><strong>Week 6</strong></a>
+
+<dl>
+       
+  <dt> <a href="lectures/0504/0504.html">Monday, May 4</a>:
+  <dd> More on GUI components.  <br>
+       Reading: 5.10-5.11. <br>
+
+  <dt> <a href="lectures/0506/0506.html">Wednesday, May 6</a>:
+  <dd> Recursion.<br>
+       Reading: 11.1-11.4.<br>
+       <em>Lab #2 due.  Lab #3 out.</em>
+       
+  <dt> <a href="lectures/0507/0507.html">Thursday, May 7</a> (x-hour):
+  <dd> More recursion
+  
+  <dt> <a href="lectures/0508/0508.html">Friday, May 8</a>:
+  <dd> Swing: containers, components, and layout managers.<br>
+       Reading: 6.11-6.13
+
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week7"><strong>Week 7</strong></a>
+
+<dl>
+       
+  <dt> <a href="lectures/0511/0511.html">Monday, May 11</a>:
+  <dd> Interval bisection.  Case study: Amortizing a loan.<br>
+       
+  <dt> <a href="lectures/0513/0513.html">Wednesday, May 13</a>:
+  <dd> Searching: linear search, binary search.<br>
+       Reading: 9.5.
+       <em>Lab #3 due.  Lab #4 out.</em>
+       
+  <dt> Thursday, May 14</a> (x-hour):
+  <dd> <em>Open review session.</em>
+  
+  <dt> <a href="lectures/0515/0515.html">Friday, May 15</a>:
+  <dd> Orders of growth. Sorting: selection sort, insertion sort, bubble sort.<br>
+       Reading: 9.4.
+
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week8"><strong>Week 8</strong></a>
+
+<dl>
+       
+  <dt> <a href="lectures/0518/0518.html">Monday, May 18</a>:
+   <dd> Sorting: merge sort, quicksort.<br>
+       <em>Exam at 6:00 pm</em>
+
+  <dt> <a href="lectures/0520/0520.html">Wednesday, May 20</a>:
+  <dd> Heaps and Heapsort.<br>
+       
+  <dt> <a href="lectures/0521/0521.html">Thursday, May 21</a> (x-hour):
+  <dd> ADTs: priority queues, queues, stacks.  Data structures: doubly linked lists. <br>
+       Reading: 12.1, 12.3.
+       
+  <dt> <a href="lectures/0522/0522.html">Friday, May 22</a>:
+  <dd> Data structures: Singly linked lists.<br>
+       Reading: 12.2. <br>
+       <em>Lab #4 due.  Lab #5 out.</em>
+
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week9"><strong>Week 9</strong></a>
+
+<dl>
+  <dt> Monday, May 25</a>:
+  <dd> <em>Memorial Day - No Class</em><br>
+  
+       
+  <dt> <a href="lectures/0527/0527.html">Wednesday, May 27</a>:
+  <dd> Singly linked lists and ADTs; Iterators.<br>
+       Reading: 5.6, 6.5<br>
+       
+  <dt> <a href="lectures/0529/0529.html">Friday, May 29</a>:
+  <dd> Iterators.
+  
+</dl>
+
+<hr>
+
+<p>
+
+<a name="week10"><strong>Week 10</strong></a>
+
+<dl>
+  <dt> <a href="lectures/0601/0601.html">Monday, June 1</a>:
+  <dd> Java Collection Classes<br>
+       <em>Lab #5 due.</em>
+
+  <dt> Thursday, June 4:
+  <dd> <em>Exam review session, 2:00-4:00 pm, place TBA.</em>
+  
+  <dt> Friday, June 5:
+  <dd> <em>Final exam 11:30 am-2:30 pm, place TBA.</em>
+</dl>
+
+<hr>
+
+<address><a href="http://www.cs.dartmouth.edu/~scot/">Scot Drysdale</a></address>
 <!-- hhmts start -->
-Last modified: Tue Mar 11 19:11:57 2008
+Last modified: Mon March 16, 2009
 <!-- hhmts end -->
-</div>
-
-</div>
-
-</div>
-<div class="pagedecorationafter"></div>
-
-</div>
-
-</body>
-</html>
+</body> </html>
+n="toi

@@ -1,186 +1,117 @@
-http://www.cs.dartmouth.edu/~dfk/teaching.html
+http://www.cs.dartmouth.edu/~afra/teaching.html
 3
-<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
-<html> <head>
-<title>David Kotz: Teaching</title>
+<html>
+<head>
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+<title>Afra's Teaching</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
 </head>
 
-<BODY BGCOLOR="#EEEEEE" TEXT="#000000">
-<h1><a href=".">David Kotz</a>: Teaching</h1>
+<body bgcolor=#ffffff >
 
-<a href="#latest">jump to most recent...</a>
-<p>
+<hr align=center noshade>
 
-<table>
+<table cellspacing=0 cellpadding=0 border=0>
 <tr valign=top>
-<td> Fall 1991 </td>
-<td> CS 88/188 </td>
-<td> Topic: <em>Parallel Computing</em> </td>
-</tr>
 
+<!-- ----- Left-hand side navbar ----- -->
+<td align=right>
+<font size="+1" align=right>
+afra<br>
+zomorodian<br>
+<br>
+</font>
+<a href="./">home</a><br>
+<a href="personal.html">personal</a><br>
+<a href="book.html">book</a><br>
+<a href="papers.html">papers</a><br>
+<b>teaching</b><br>
+<a href="goodies.html">goodies</a><br>
+<br><br>
+</td>
+
+<!-- ----- Interior left margin ----- -->
+<td width=25>&nbsp;</td> 
+
+<!-- ----- Page body ----- -->
+<td>
+
+<!-- ----- Interior table for content ---- -->
+<table cellspacing=0 cellpadding=0 border=0>
 <tr valign=top>
-<td> Winter 1992 </td>
-<td> <a href="/academics/grad/cs_108.html">CS 108</a> </td>
-<td> <em>Operating Systems</em> (Graduate version) </td>
-</tr>
 
-<tr valign=top>
-<td> Spring 1992 </td>
-<td> <a href="/academics/undergrad/cs_78.html">CS 78</a> </td>
-<td> <em>Computer Networks</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Fall 1992 </td>
-<td> CS 9 </td>
-<td> <em>Introduction to Computer Science, Honors Section</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 1993 </td>
-<td> <a href="/academics/grad/cs_108.html">CS 108</a> </td>
-<td> <em>Operating Systems</em> (Graduate version) </td>
-</tr>
-
-<tr valign=top>
-<td> Spring 1993 </td>
-<td> <a href="/academics/undergrad/cs_23.html">CS 23</a> </td>
-<td> <em>Software Design and Implementation</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Summer 1993 </td>
-<td> <a href="/academics/undergrad/cs_37.html">CS 37</a> </td>
-<td> <em>Computer Organization and Design</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 1994 </td>
-<td> <a href="/academics/grad/cs_108.html">CS 108</a> </td>
-<td> <em>Operating Systems</em> (Graduate version) </td>
-</tr>
-
-<tr valign=top>
-<td> Summer 1994 </td>
-<td> <a href="/academics/undergrad/cs_37.html">CS 37</a> </td>
-<td> <em>Computer Organization and Design</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Summer 1995 </td>
-<td> <a href="/academics/undergrad/cs_37.html">CS 37</a> </td>
-<td> <em>Computer Organization and Design</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Fall 1995 </td>
-<td> CS 88/188 </td>
-<td> Topic: <em>Transportable Agents and Extensible Operating Systems</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 1996 </td>
-<td> <a href="/academics/undergrad/cs_23.html">CS 23</a> </td>
-<td> <em>Software Design and Implementation</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Summer 1996 </td>
-<td> <a href="/academics/undergrad/cs_37.html">CS 37</a> </td>
-<td> <em>Computer Organization and Design</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Fall 1996 </td>
-<td> <a href="/courseguide/undergrad/cs_58.html">CS 58</a> </td>
-<td> <em>Operating Systems</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Spring 1997 </td>
-<td> CS 88/188 </td>
-<td> Topic: <em>Electronic Commerce and Market-based Models of Computing</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 1998 </td>
-<td> <a href="/courseguide/undergrad/cs_99.html">CS 99</a> </td>
-<td> <em>Current Trends and Ethical Issues in Computer Science</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Spring 1998 </td>
-<td> <a href="/courseguide/undergrad/cs_78.html">CS 78</a> </td>
-<td> <em>Computer Networks</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 1999 </td>
-<td> <a href="/courseguide/undergrad/cs_99.html">CS 99</a> </td>
-<td> <em>Current Trends and Ethical Issues in Computer Science</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Fall 1999 </td>
-<td> CS 88/188 </td>
-<td> Topic: <em>Wireless Networks and Hand-held computers</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 2000 </td>
-<td> <a href="/courseguide/undergrad/cs_99.html">CS 99</a> </td>
-<td> <em>Current Trends and Ethical Issues in Computer Science</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Summer 2000 </td>
-<td> <a href="/courseguide/undergrad/cs_37.html">CS 37</a> </td>
-<td> <em>Computer Organization and Design</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Spring 2001 </td>
-<td> <a href="/courseguide/undergrad/cs_78.html">CS 78</a> </td>
-<td> <em>Computer Networks</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 2002 </td>
-<td> CS 88/188 </td>
-<td> Topic: <em>Context-Aware Mobile Computing</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Spring 2002 </td>
-<td> <a href="/courseguide/undergrad/cs_78.html">CS 78</a> </td>
-<td> <em>Computer Networks</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Winter 2003 </td>
-<td> CS 88/188 </td>
-<td> Topic: <em>Pervasive Computing</em> </td>
-</tr>
-
-<tr valign=top>
-<td> Spring 2003 </td>
-<td> <a href="/~cs78/">CS 78</a> </td>
-<td> <em>Computer Networks</em> </td>
-</tr>
-
-<a name="latest"></a>
-<tr valign=top>
-<td> Winter-Spring 2008</td>
-<td> <a href="/~epics/">CS 98</a> </td>
-<td> <em>EPICS (Engineering Projects in Community Service)</em> </td>
-</tr>
-
-
+<!-- ----- Eye candy ---- -->
+<td>
+<table cellspacing=0 cellpadding=0 border=0>
+<tr><td align = center valign = top><br></td></tr>
+<tr><td align = center valign = top><img  src="images/2.png" width=90></td></tr>
+<tr><td align = center valign = top><br></td></tr>
+<tr><td align = center valign = top><img  src="images/3hole.png" width=100></td></tr>
+<tr><td align = center valign = top><br></td></tr>
 </table>
+</td> 
+
+<!-- ----- Margin ----- -->
+<td width=25>&nbsp;</td> 
 
 
+<!-- ----- Content, finally ----- -->
+<td>
 
-<hr>
-<address><a href="http://www.cs.dartmouth.edu/~dfk/">David Kotz</a></address>
-Last modified: Fri Sep 12 07:00:57 2003
-</body> </html>
+<!-- <h4>Winter 2008 Courses</h4>
+<ul>
+</ul>
+-->
+
+<h4>Courses Taught</h4>
+<p>
+All courses at 
+<a href = "http://www.cs.dartmouth.edu">Dartmouth College</a>, 
+unless noted otherwise.
+<ul>
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/ct">Introduction to 
+Computational Topology (COSC 85/185)</a>, Spring 2009.
+</ul>
+<p>
+<ul>
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter09">Discrete
+    Mathematics for Computer Science (COSC 19)</a>, Winter 2009.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs44/winter09">Artificial Intelligence (COSC 44)</a>,
+  Winter 2009.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter08/">Discrete
+    Mathematics for Computer Science (COSC 19)</a>, Winter 2008.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs44/winter08">Artificial Intelligence (COSC 44)</a>,
+  Winter 2008.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/ct/spring07/">Introduction to 
+Computational Topology (COSC 85/185)</a>, Spring 2007.
+<li><a href =
+"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter07/">Discrete
+Mathematics for Computer Science (COSC 19)</a>, Winter 2007.
+<li><a href =
+"http://graphics.stanford.edu/courses/cs468-04-winter/">Introduction to
+Computational Topology (CS 468)</a>, 
+<a href = "http://www.cs.stanford.edu">Stanford University</a>, Winter 2004.
+<li><em>Mini-Kurse:  Topology for Computing</em>, 
+<a href = "http://www.mpi-inf.mpg.de/">Max-Planck-Institut f&uuml;r 
+Informatik</a>, Winter 2003.
+<li><a href =
+"http://graphics.stanford.edu/courses/cs468-02-fall/">Introduction to
+Computational Topology (CS 468)</a>, 
+<a href = "http://www.cs.stanford.edu">Stanford University</a>, Fall 2002.
+</ul>
+</td>
+</table>
+<!-- ----- Right-hand margin ----- -->
+<td width=32>&nbsp;</td>
+</tr> 
+</table>
+<hr align=center noshade>
+</body>
+</html>
+2008.(<i

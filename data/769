@@ -1,8 +1,8 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall05
+http://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter05
 3
 <html><head>
   <link rel="stylesheet" type="text/css" href="/~ac/main.css">
-  <title>CS 39 (Fall 2005): Amit Chakrabarti</title>
+  <title>CS 39 (Winter 2005): Amit Chakrabarti</title>
 </head>
 
 <body>
@@ -24,7 +24,7 @@ http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall05
     Theory of Computation<br><br>
     <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
   </td>
-  <td valign=middle align=right><h3>Fall 2005<h3></td>
+  <td valign=middle align=right><h3>Winter 2005<h3></td>
 </tr></table>
 <center>
   [ <a href="#announcements">Announcements</a> |
@@ -45,12 +45,11 @@ and computation. Topics covered include finite automata, regular
 languages, context-free languages, pushdown automata, Turing machines,
 computability, and NP-completeness. </p>
 
-<p> This course has substantial mathematical content. It is expected
-that a student who enrols for this course <i>already knows how to write
-mathematical proofs</i> and is generally mathematically mature. If a
-student passes this basic criterion and is interested in thinking
-philosophically about what a computer can or cannot do, then this course
-should be great fun. </p>
+<p> It is expected that a student who enrols for this course <i>already
+knows how to write mathematical proofs</i> and is generally
+mathematically mature. If a student passes this basic criterion and is
+interested in thinking philosophically about what a computer can or
+cannot do, then this course should be great fun. </p>
 
 <!-- ------------------------------------------------ -->
 
@@ -61,32 +60,15 @@ should be great fun. </p>
 
   <ul> 
 
-    <li> [Nov 30] The <a href="Exams/final.pdf">final exam</a>
-    has been posted and is due at 6:00pm sharp on Dec 6. Please note
-    that <b>THERE IS NO "LATE PENALTY" PROVISION</b> for the final 
-    exam. If you haven't turned in the exam by the deadline, you score
-    zero for the entire exam. 
+    <li> [Feb 18] The <a href="Exams/final.pdf"><b><font color=red>final 
+    exam</font></b></a> is ready. It is due 48 hours from when you first
+    look at it, or at 6:00pm <i>sharp</i> on March 15, whichever comes
+    earlier.
 
-    <li> [Nov 9] URL for the two Turing Machine applets we saw in class
-    are <a href="http://ironphoenix.org/tril/tm/">here</a> and 
-    <a href="http://math.hws.edu/TMCM/java/xTuringMachine/">here</a>.
-    Please play with them sometime.
+    <li> [Feb 18] HW5 is out; you have a little less time than usual for
+    this homework, so please use it judiciously.
 
-    <li> [Nov 4] Solutions to the midterm have been posted. Please note
-    that all posted solutions are part of the required reading for the
-    course.
-
-    <li> [Oct 4] Homeworks are due each Wednesday at 12:30 (i.e. before 
-    class). Please submit them into Prof. Chakrabarti's mailbox. Note
-    the <a href="admindetails.html#late">late homework policy</a>.
-
-    <li> [Sep 28] A note about asking questions about homeworks via 
-    blitz. If you send your question to the instructor, please
-    <em>also</em> send a copy to the TA, so as to get a quicker 
-    response. Plus, the TA needs to be kept in the loop, because he 
-    is doing the grading.
-
-    <li> [Sep 15] Please send a blitz to the instructor with your name
+    <li> [Jan 2] Please send a blitz to the instructor with your name
     (only first and last name, no initials) and a password for
     accessing your grades in the grades database.
 
@@ -110,26 +92,26 @@ seriously.<p><br>
 <table cellpadding=2>
   <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
     <td valign=top> 
-      Sudikoff 214 | 12 hour | MWF 12:30-13:35, X-hr T 13:00-13:50
+      Sudikoff 214 | 2 hour | MWF 13:45-14:50, X-hr Th 13:00-13:50
     </td>
   </tr>
   <tr><td valign=top><b>Instructor</b> <br><br> </td> 
     <td valign=top> 
       <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 107 | 6-1710 | 
-      Office hours: MF 10:00-11:30 or by appointment
+      Office hours: MW 11:30-12:30 and 15:00-16:00; also by appointment
     </td>
   </tr>
   <tr><td valign=top><b>Teaching Assistant</b> <br><br> </td> 
     <td valign=top> 
-      <a href="/~kdb">Khanh Do Ba</a> | Sudikoff 114 | 6-5573 | 
-      Office hours: Tu 17:00-19:00, Th 19:00-21:00
+      <a href="/~villars">Chien-Chung Huang</a> | Sudikoff 221 | 6-8753 | 
+      Office hours: TTh 16:00-18:00 or by appointment
     </td>
   </tr>
   <tr><td valign=top><b>Textbook</b> <br><br></td> 
     <td valign=top> 
       Required: <br>&nbsp;&nbsp;
       <a href="http://www-math.mit.edu/~sipser/book.html">
-      "Introduction to the Theory of Computation,"</a> Second Edition. &nbsp; 
+      "Introduction to the Theory of Computation."</a> &nbsp; 
       Michael Sipser. <br>
       Suggested additional reading (not required): <br>&nbsp;&nbsp;
       <a href="http://images.amazon.com/images/P/020102988X.01.LZZZZZZZ.jpg">
@@ -152,7 +134,7 @@ seriously.<p><br>
       One take-home final exam. [30 points]  <br>
       <br>
       Please take note of the <a href="admindetails.html#late">late 
-      homework policy</a>. It will be enforced, strictly. <br><br>
+      homework policy</a>. <br><br>
   </tr>
 </table>
 
@@ -167,315 +149,228 @@ seriously.<p><br>
 and please remember to hit the RELOAD button to get the latest
 schedule. </p>
 
-<p> Any part of the schedule that is <font color=#888888>greyed
-out</font> is tentative and subject to change. </p>
+<p> For now, the dates in the table below are totally inaccurate, as
+should be obvious. </p>
 
 <table border=1 cellpadding=2 cellspacing=1>
 <tr>
-  <td valign=top><p class=hdr>L#</p></td>
-  <td><p class=hdr>Date</p></td>
+  <td valign=top><p class=hdr>Date</p></td>
   <td><p class=hdr>Reading Due</p></td>
   <td><p class=hdr>Homework Due</p></td>
   <td><p class=hdr>Class Topic</p></td>
 </tr><tr>
-  <td align=right valign=top> 1 </td>
-  <td> Sep 21 </td>
+  <td valign=top> Jan 5 </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
   <td> Welcome, administrivia, overview; Mathematical notation 
     (<a href="SlidesAndNotes/lec01.pdf">slides</a>)</td>
 </tr><tr>
-  <td align=right valign=top> 2 </td>
-  <td> Sep 23 </td>
+  <td valign=top> Jan 6 (X-hr) </td>
   <td> 0.1, 0.2, 0.3 </td>
   <td> &mdash; </td>
   <td> Types of proof: by construction, by contradiction, by induction
     (<a href="SlidesAndNotes/lec02.pdf">slides</a>)</td>
 </tr><tr>
-  <td align=right valign=top> 3 </td>
-  <td> Sep 26 </td>
+  <td valign=top> Jan 7 </td>
   <td> 0.4 </td>
   <td> &mdash; </td>
   <td> Strings and languages; Finite automata introduced
     (<a href="SlidesAndNotes/lec03.pdf">slides</a>)</td>
 </tr><tr>
-  <td align=right valign=top> 4 </td>
-  <td> Sep 27 (X-hr) </td>
+  <td valign=top> Jan 8 (Sat) </td>
   <td> 1.1 up to p34 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    More on (deterministic) finite automata; examples of DFAs;
-    formal definition as (Q,&Sigma;,&delta;,q<sub>0</sub>,F) </div> </td>
+  <td> Examples of DFAs; formal definition as
+    (Q,&Sigma;,&delta;,q<sub>0</sub>,F) </td>
 </tr><tr>
-  <td align=right valign=top> 5 </td>
-  <td> Sep 28 </td>
+  <td valign=top> Jan 10 </td>
+  <td> 1.1 up to p40 </td>
+  <td> &mdash; </td>
+  <td> Formal definition of DFA recap; More examples of DFAs; NFA
+    introduced
+</tr><tr>
+  <td valign=top> Jan 12 </td>
   <td> 1.1 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Formal definition of a DFA recap; how to design a DFA, examples
-    </div> </td>
+  <td> Formal definition of NFA; DFA and NFA computation formalized </td>
 </tr><tr>
-  <td align=right valign=top> 6 </td>
-  <td> Sep 30 </td>
+  <td valign=top> Jan 13 (X-hr) </td>
+  <td> 1.2 up to p54 </td>
   <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    DFA computation formalized; NFA introduced, examples </div> </td>
+  <td> Designing NFAs; Union of two regular languages is regular </td>
 </tr><tr>
-  <td align=right valign=top> 7 </td>
-  <td> Oct 3 </td>
+  <td valign=top> Jan 14 </td>
   <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    Designing NFAs; Union and concatenation of two regular languages 
-    is regular </div> </td>
-</tr><tr>
-  <td align=right valign=top> 8 </td>
-  <td> Oct 4 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    Kleene star; Regular expressions and examples </div> </td>
-</tr><tr>
-  <td align=right valign=top> 9 </td>
-  <td> Oct 5 </td>
-  <td> 1.3 up to p66 </td>
   <td> <a href="Homeworks/hw1.pdf">HW1</a> </td>
-  <td> <div class=final>
-    Equivalence of DFAs, NFAs and regular expressions, I </div> </td>
+  <td> Concatenation of languages; Kleene star; regular expressions and
+    examples </td>
 </tr><tr>
-  <td align=right valign=top> 10 </td>
-  <td> Oct 7 </td>
-  <td> 1.2 </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    Equivalence of DFAs, NFAs and regular expressions, II </div> </td>
+  <td valign=top> Jan 17 </td>
+  <td align=center colspan=3 bgcolor=#ff4444> 
+    No lecture; Martin Luther King Jr. day </td>
 </tr><tr>
-  <td align=right valign=top> 11 </td>
-  <td> Oct 10 </td>
-  <td> 1.3 </td>
+  <td valign=top> Jan 19 </td>
+  <td> 1.3 up to p69 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Equivalence of DFAs, NFAs and regular expressions, III 
-  (<a href="SlidesAndNotes/lec11dfa2regexp.pdf">lecture notes</a>) </div> </td>
+  <td> Equivalence of DFAs, NFAs and regular expressions, I </td>
 </tr><tr>
-  <td align=right valign=top> 12 </td>
-  <td> Oct 11 (X-hr) </td>
+  <td valign=top> Jan 20 (X-hr) </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Example of DFA to RegExp conversion; The pumping lemma </div> </td>
+  <td> Equivalence of DFAs, NFAs and regular expressions, II
+    (<a href="SlidesAndNotes/lec10dfa2regexp.pdf">lecture notes</a>) </td>
 </tr><tr>
-  <td align=right valign=top> 13 </td>
-  <td> Oct 12 </td>
-  <td> &mdash; </td>
+  <td valign=top> Jan 21 </td>
+  <td> <a href="SlidesAndNotes/dfa2regexp.pdf">Notes</a> </td>
   <td> <a href="Homeworks/hw2.pdf">HW2</a> </td>
-  <td> <div class=final>
-    Proof and applications of the pumping lemma </div> </td>
+  <td> Example of DFA to RegExp conversion; The pumping lemma </td>
 </tr><tr>
-  <td align=right valign=top> 14 </td>
-  <td> Oct 14 </td>
+  <td valign=top> Jan 24 </td>
+  <td> 1.4 up to 79 </td>
+  <td> &mdash; </td>
+  <td> Applications of the pumping lemma; Closure properties of regular
+    languages </td>
+</tr><tr>
+  <td valign=top> Jan 26 </td>
+  <td> &mdash; </td>
   <td> 1.4 </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    Closure properties of regular languages </div>  </td>
+  <td> Wrap-up of regular language theory; Pushdown automata </td>
 </tr><tr>
-  <td align=right valign=top> 15 </td>
-  <td> Oct 17 </td>
-  <td> Chapter 1 </td>
+  <td valign=top> Jan 27 (X-hr) </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Wrap-up of regular language theory; pushdown automata </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> Quiz 1: closed-notes, in-class </td>
 </tr><tr>
-  <td align=right valign=top> &nbsp; </td>
-  <td> Oct 18 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td bgcolor=#00ff00> <div class=>
-    Quiz 1: closed-notes, in-class </div> </td>
-</tr><tr>
-  <td align=right valign=top> 16 </td>
-  <td> Oct 19 </td>
-  <td> &mdash; </td>
+  <td valign=top> Jan 28 </td>
+  <td> 1.4 </td>
   <td> <a href="Homeworks/hw3.pdf">HW3</a> </td>
-  <td> <div class=final>
-    Discussion of Quiz 1; more examples of pushdown automata (PDAs) 
-    </div> </td>
+  <td> More examples of PDAs; closure under union </td>
 </tr><tr>
-  <td align=right valign=top> &nbsp; </td>
-  <td> Oct 21 </td>
-  <td align=center colspan=3 bgcolor=#ff4444>
-     No lecture; homecoming </td> 
-</tr><tr>
-  <td align=right valign=top> 17 </td>
-  <td> Oct 24 </td>
-  <td> 2.2 </td>
+  <td valign=top> Jan 31 </td>
+  <td> 2.2 up to p106 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Closure properties of PDAs (union, concatenation)
-    </div> </td>
+  <td> Closure of PDA-recognizable languages under concatenation and
+    Kleene star </td>
 </tr><tr>
-  <td align=right valign=top> 18 </td>
-  <td> Oct 25 (X-hr) </td>
+  <td valign=top> Feb 2 </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Closure and non-closure properties; 
-    PDA for not-<i>ww</i> </div> </td>
+  <td> Closure under intersection with a regular language; PDA for
+    not-<i>ww</i> </td>
 </tr><tr>
-  <td align=right valign=top> 19 </td>
-  <td> Oct 26 </td>
+  <td valign=top> Feb 3 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Context-free grammars; Examples </td>
+</tr><tr>
+  <td valign=top> Feb 4 </td>
   <td> &mdash; </td>
   <td> <a href="Homeworks/hw4.pdf">HW4</a> </td>
-  <td> <div class=final>
-    Context-free grammars; Simple examples </div> </td>
+  <td> More examples of CFGs: palindromes; {0<sup>n</sup>1<sup>n</sup>};
+    equally many 0s and 1s </td>
+    <!-- N<sub>0</sub>(x) = N<sub>1</sub>(x) </td-->
 </tr><tr>
-  <td align=right valign=top> 20 </td>
-  <td> Oct 28 </td>
+  <td valign=top> Feb 7 </td>
+  <td> 2.1 up to p98 </td>
   <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    More CFG examples; equally many 0s and 1s
-    </div> </td>
+  <td> Ambiguity; leftmost deriviations; informal description of CFG to
+    PDA conversion </td>
 </tr><tr>
-  <td align=right valign=top> 21 </td>
-  <td> Oct 31 </td>
-  <td> 2.1 </td>
+  <td valign=top> Feb 9 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Equivalence of CFGs and PDAs, I (PDA to CFG) </div> </td>
-    </div> </td>
+  <td> &mdash; </td>
+  <td> Equivalence of CFGs and PDAs, I (CFG to PDA) </td>
 </tr><tr>
-  <td align=right valign=top> 22 </td>
-  <td> Nov 1 (X-hr) </td>
+  <td valign=top> Feb 10 (X-hr) </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Equivalence of CFGs and PDAs, II (CFG to PDA) 
-    </div> </td>
+  <td> Equivalence of CFGs and PDAs, II (PDA to CFG) -- lecture by 
+    Chien-Chung </td>
 </tr><tr>
-  <td align=right valign=top> 23 </td>
-  <td> Nov 2 </td>
-  <td> 2.2 (again) </td>
+  <td valign=top> Feb 11 </td>
+  <td align=center colspan=3 bgcolor=#ff4444> 
+    No lecture; Carnival holiday </td>
+</tr><tr>
+  <td valign=top> Feb 14 </td>
+  <td> 2.2 </td>
   <td bgcolor=#00ff00> <a href="Exams/mid.pdf"><b>Midterm</b></a> </td>
-  <td> <div class=final>
-    Pumping lemma for context-free languages; Applications
-    </div> </td>
+  <td> Pumping lemma for context-free languages: applications </td>
 </tr><tr>
-  <td align=right valign=top> 24 </td>
-  <td> Nov 4 </td>
+  <td valign=top> Feb 16 </td>
   <td> 2.3 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Chomsky Normal Form; Proof of the pumping lemma for CFLs </div> </td>
+  <td> Chomsky normal form; proof of CFL pumping lemma </td>
 </tr><tr>
-  <td align=right valign=top> 25 </td>
-  <td> Nov 7 </td>
+  <td valign=top> Feb 17 (X-hr) </td>
   <td> Chapter 2 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Turing machines; Informal description and simple examples </div> </td>
+  <td> Turing machines; Informal description and simple examples </td>
 </tr><tr>
-  <td align=right valign=top> 26 </td>
-  <td> Nov 8 (X-hr) </td>
-  <td> 3.1 up to p133 </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    Two TM applets; TM formalized; Configurations
-    </div> </td>
-</tr><tr>
-  <td align=right valign=top> 27 </td>
-  <td> Nov 9 </td>
-  <td> &mdash; </td>
+  <td valign=top> Feb 18 </td>
+  <td> 3.1 </td>
   <td> <a href="Homeworks/hw5.pdf">HW5</a> </td>
-  <td> <div class=final>
-    Deciders/recognizers; Multi-tape TMs; Closure properties of 
-    decidable languages
-    (<a href="SlidesAndNotes/lec27.pdf">slides</a>) </div> </td>
+  <td> TM formalized; Configurations, deciders/recognizers, multi-tape TMs
+    (<a href="SlidesAndNotes/lec26.pdf">slides</a>)</td>
 </tr><tr>
-  <td align=right valign=top> 28 </td>
-  <td> Nov 11 </td>
+  <td valign=top> Feb 21 </td>
+  <td> 3.2 up to p138 </td>
+  <td> &mdash; </td>
+  <td> Closure properties of decidable languages; Nondeterministic TMs
+    (<a href="SlidesAndNotes/lec27.pdf">slides</a>)</td>
+</tr><tr>
+  <td valign=top> Feb 23 </td>
+  <td> 3.2 </td>
+  <td> &mdash; </td>
+  <td> Church-Turing Thesis; Enumerator TMs </td>
+</tr><tr>
+  <td valign=top> Feb 24 (X-hr) </td>
   <td> &mdash; </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    Nondeterministic TMs; the RAM model; Church-Turing Thesis
-    (<a href="SlidesAndNotes/lec28.pdf">slides</a>) </div> </td>
+  <td bgcolor=#00ff00> Quiz 2: closed-notes, in-class </td>
 </tr><tr>
-  <td align=right valign=top> 29 </td>
-  <td> Nov 14 </td>
+  <td valign=top> Feb 25 </td>
   <td> Chapter 3 </td>
-  <td> &mdash; </td>
-  <td> <div class=final>
-    Enumerator TMs; Decision problems for the major language classes:
-    A<sub>DFA</sub>, A<sub>CFG</sub> and A<sub>TM</sub> </div> </td>
-</tr><tr>
-  <td align=right valign=top> &nbsp; </td>
-  <td> Nov 15 (X-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td bgcolor=#00ff00> <div class=>
-    Quiz 2: closed-notes, in-class </div> </td>
-</tr><tr>
-  <td align=right valign=top> 30 </td>
-  <td> Nov 16 </td>
-  <td> 4.1 </td>
   <td> <a href="Homeworks/hw6.pdf">HW6</a> </td>
-  <td> <div class=final> Decidability of A<sub>DFA</sub>, A<sub>CFG</sub>;
-    Recognizability of A<sub>TM</sub>; Undecidability of A<sub>TM</sub>
-    and the halting problem
-    </div> </td>
+  <td> Decision problems for the major language classes:
+    A<sub>DFA</sub>, A<sub>CFG</sub> and A<sub>TM</sub> </td>
 </tr><tr>
-  <td align=right valign=top> 31 </td>
-  <td> Nov 18 </td>
-  <td> 4.2 up to p180 </font> </td>
+  <td valign=top> Feb 28 </td>
   <td> &mdash; </td>
-  <td> <div class=final> Decidability of E<sub>DFA</sub>, 
-    ALL<sub>DFA</sub>, EQ<sub>DFA</sub>, E<sub>CFG</sub>;
-    Unrecognizability of 
-    <span style="text-decoration: overline">A</span><sub>TM</sub> 
-    and E<sub>TM</sub>
-    </div> </td>
+  <td> &mdash; </td>
+  <td> Decidability of E<sub>DFA</sub>, E<sub>CFG</sub>,
+    ALL<sub>DFA</sub>, EQ<sub>DFA</sub>; Undecidability of A<sub>TM</sub> 
+    and the halting problem
 </tr><tr>
-  <td align=right valign=top> 32 </td>
-  <td> Nov 21 </td>
+  <td valign=top> Mar 2 </td>
   <td> Chapter 4 </td>
   <td> &mdash; </td>
-  <td> <div class=final> Time complexity, P and NP 
-    </div> </td>
+  <td> Undecidability of E<sub>TM</sub>; unrecognizability of 
+    <span style="text-decoration: overline">A</span><sub>TM</sub> </td>
 </tr><tr>
-  <td align=right valign=top> 33 </td>
-  <td> Nov 22 (X-hr) </td>
-  <td> 5.1 up to p192; 5.3 </td>
+  <td valign=top> Mar 3 (X-hr) </td>
+  <td> 5.1 up to p176; 5.3 </td>
   <td> &mdash; </td>
-  <td> <div class=final>
-    NP-completeness and polynomial time reductions 
-    (<a href="SlidesAndNotes/lec33.pdf">slides</a>)
-    </div> </td>
+  <td> Time complexity, P and NP </td>
 </tr><tr>
-  <td align=right valign=top> 34 </td>
-  <td> Nov 28 </td>
-  <td> 7.1 - 7.3 </td>
+  <td valign=top> Mar 4 </td>
+  <!-- <td> 4.2 </td> -->
+  <td> &mdash; </td>
   <td> <a href="Homeworks/hw7.pdf">HW7</a> </td>
-  <td> <div class=tnt>
-    More NP-completeness proofs </div> </td>
+  <td> NP-completeness and polynomial time reductions 
+    (<a href="SlidesAndNotes/lec33.pdf">slides</a>)</td>
 </tr><tr>
-  <td align=right valign=top> 35 </td>
-  <td> Nov 29 (X-hr) </td>
-  <td> 7.5 </td>
+  <td valign=top> Mar 7 </td>
   <td> &mdash; </td>
-  <td> <div class=tnt>
-    Computation tableaux; The Cook-Levin theorem;
-    Unrecognizability of ALL<sub>CFG</sub>; 
-    </div> </td>
+  <td> &mdash; </td>
+  <!-- <td> More undecidable CFG problems; time complexity, P and NP </td> -->
+  <td> &nbsp; </td>
 </tr><tr>
-  <td align=right valign=top> 36 </td>
-  <td> Nov 30 </td>
-  <td> 7.4 </td>
-  <td> <a href="Homeworks/hw8.pdf">HW8 (optional)</a> </td>
-  <td> Wrap up </td>
+  <td valign=top> Mar 9 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw8.pdf">HW8</a> </td>
+  <td> &nbsp; </td>
 </tr><tr>
-  <td align=right valign=top> &nbsp; </td>
-  <td bgcolor=#00ff00> Dec 6 </td>
+  <td valign=top bgcolor=#00ff00> Mar 15 </td>
   <td align=center colspan=3 bgcolor=#00ff00> Take-home 48-hour <a
   href="Exams/final.pdf"><b>final exam</b></a>, due at 6:00pm sharp </td>
 

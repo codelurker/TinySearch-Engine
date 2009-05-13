@@ -1,28 +1,21 @@
-http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/grading.html
+http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/references.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 
 
-
-  
   
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
-
   
 
 
-  
-  
   
   <title>CS88/188 -- Computational Models of Human Behavior</title>
   <meta name="author" content="Tanzeem Choudhury" />
 
 
-
-  
   
   <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
@@ -31,28 +24,22 @@ http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/grading.html
 <body>
 
 
-
 <div class="page">
 <div class="header">
 <div class="title">Community Sensing and Modeling</div>
 
 
-
-<div class="subtitle">CS88/188 --&nbsp;Winter 2009 -- TuTh
+<div class="subtitle">CS88/188 -- Fall 2008 -- TuTh
 10:00am-11:50am</div>
-
 
 
 <div class="subtitle">Instructor: Andrew Campbell &amp; Tanzeem Choudhury<br />
 
 
-
 </div>
 
 
-
 </div>
-
 
 
 <div class="navigation">
@@ -60,76 +47,64 @@ http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/grading.html
 </div>
 
 
-
 <div class="content">
-<h2>Grading</h2>
+<div style="text-align: left;">The following references
+will be useful is learning more about the techniques discussed in class</div>
 
 
-
-<div class="listBlock">
 <ul>
 
 
-
-  <li class="listBlockItem"><span style="text-decoration: underline;">Class Participation</span>:
-20%</li>
-
+  <li>An Introduction to Graphical Models can be downloaded from
+/net/mash1/book</li>
 
 
-  <li class="listBlockItem"><span style="text-decoration: underline;">Assignments</span>:
-20%</li>
+  <li style="color: rgb(0, 0, 0);">A tutorial on <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/rabiner.pdf">Hidden
+Markov Models</a> (HMMs) by L. Rabiner</li>
 
 
+  <li style="color: rgb(0, 0, 0);">A presentation on <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/jordan-tut.pdf">Introduction
+to Graphical Models</a><span style="color: rgb(0, 0, 0);"></span><span style="color: rgb(0, 0, 0);"> by M. Jordan</span></li>
 
-  <li class="listBlockItem"><span style="text-decoration: underline;">Project</span>: 60%</li>
+
+  <li style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);">A tutorial on <a style="font-weight: bold; color: rgb(0, 0, 0);" href="references/em-paper.pdf">EM Algorithm</a> by F.
+Dellaert and<a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/em.pdf"> another EM tutorial</a> by
+J. Bilmes<br />
 
 
+    </span></li>
 
-  <br />
 
+  <li style="color: rgb(0, 0, 0);">A tutorial on <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/smith-log-linear-tut.pdf">log-linear models</a><span style="color: rgb(0, 0, 0);"> by N. Smith</span></li>
+
+
+  <li style="color: rgb(0, 0, 0);">A introduction to <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/crf-tutorial.pdf">Conditional
+Random Fields</a> (CRFs) by C. Sutton and A. McCullum</li>
+
+
+  <li style="color: rgb(0, 0, 0);">A survey of <a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://pages.cs.wisc.edu/%7Ejerryzhu/research/ssl/semireview.html">semi-supervised
+learning methods</a> X. Zhu</li>
+
+
+  <li style="color: rgb(0, 0, 0);"><span style="font-weight: bold;">B</span><a href="references/smyth_bn_hmms_mrfs.pdf"><span style="color: rgb(0, 0, 0); font-weight: bold;">elief
+Networks, Hidden Markov
+Models,
+and Markov Random Fields: A Unifying View</span>&nbsp;</a></li>
+
+
+  <li style="color: rgb(0, 0, 0);">Read chapters 1, 2, 8,
+9, and 13 of Pattern Recognition and Machine Learning book by C. M.
+Bishop</li>
 
 
 </ul>
 
 
-
-<div style="text-align: justify;">Late submissions are
-not
-accpeted. If
-there is an emergency or special situation please contact me before an
-assignment is due and we can discuss if an extension is approriate.
-<br />
-
-
-
 </div>
 
 
-
-<span style="font-weight: bold;"></span><br />
-
-
-
-<span style="font-weight: bold;"></span><span style="font-weight: bold;"></span><span style="font-weight: bold;"><br />
-
-
-
-</span><br />
-
-
-
 </div>
-
-
-
-</div>
-
-
-
-</div>
-
 
 
 </body>
 </html>
-t-familñ

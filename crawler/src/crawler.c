@@ -74,7 +74,6 @@ void initLists() {
 	dict->start = dict->end = NULL;  // make explicit
 	
 	dict->start = dict->end = malloc(sizeof(DNODE));
-	MALLOC_CHECK(dict->start);
 }
 
 // function to read in a file to memory
@@ -192,6 +191,8 @@ void updateListLinkToBeVisited(char **urlist, int depth) {
 				}
 				else {
 					// printf("The URL is aready present.\n");
+					free(n);					
+					free(new);
 				}
 			}
 			else {
@@ -225,6 +226,10 @@ void updateListLinkToBeVisited(char **urlist, int depth) {
 					dprev-> next = new;
 					new->next = dnext;
 					new->prev = dprev;	
+				}
+				else {
+					free(n);
+					free(new);				
 				}
 			}		
 		}
@@ -497,7 +502,9 @@ int main(int argc, char** argv) {
 			free(d->data);
 		temp = temp->next;
 		free(d);
+		d = NULL;
 	}
+	
 	free(dict);
 	dict = NULL;
 

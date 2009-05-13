@@ -1,130 +1,128 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/admindetails.html#late
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/Homework/hw1.html
 3
-<html><head>
-  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
-  <title>CS 33 (Spring 2009): Amit Chakrabarti: Administrative Details</title>
-</head>
+<html><head><title>CS 33 (Spring 2009): Homework 1</title></head> <body>
 
-<body>
+<div style="width:800px">
+<h2>CS 33 (Spring 2009): Homework 1: Working with relational algebra</h2>
 
-<i> <div align=right>
-  <a href="index.html"> CS 33 Home</a>
-</div> </i>
+  <h3 style="color:red">Deadline: 10:00pm sharp on April 13, 2009</h3>
 
-<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
-  <td valign=top>
-    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
-    alt="Dartmouth Logo"><br>
-    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
-    <a href="http://www.dartmouth.edu">Dartmouth College</a>
-  </td>
-  <td valign=middle align=center>
-    <h3>Computer Science 33<br>
-    Information Systems<br><br>
-    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
-  </td>
-  <td valign=middle align=right><h3>Spring 2009<h3></td>
-</tr></table>
+  <p> Please read through this page entirely and carefully, before
+  beginning your work. </p>
 
-<hr>
-<h3>Administrative Details</h3> 
+  <h3>Part 1: Purely mathematical problems</h3>
 
-<a name=hw></a>
-<h4>Homework</h4>
+  <ol>
+    <li>Solve problems 2.5 (a) and (b) from the textbook, using only
+    the fundamental relational algebra operations.
+    <div align=right>[10 points]</div> </li> <br/>
 
-<p> Homework assignments will be given out roughly once a week.
-Typically, there will be a homework given out each Monday and a deadline
-will be posted prominently at the top of the homework. This <b>deadline
-will usually be 10pm sharp</b> the following Monday, but please do not
-count on that. All homework is to be <b>submitted electronically</b>
-using the homework submission form on the course website. </p>
+    <li>Solve problems 2.5 (c), (d) and (e) from the textbook. In
+    addition to the fundamental relational algebra operations, you may
+    use the natural join and division operations if you like.
+    <div align=right>[15 points]</div> </li> <br/>
 
-A few important notes on the homework assignments:
+    <li>Solve problem 2.6 (a), (b) and (c) from the textbook. You may
+    use any of the relational algebra operations described in Chapter 2.
+    <div align=right>[15 points]</div> </li> <br/>
+  </ol>
 
-<ul>
+  <h3>Part 2: Programming problems</h3>
 
-  <li> Start early. I cannot emphasize this enough.</li>
+  <ol>
+    <li>The file <tt>~cs33/data/baseball_salaries_2003.txt</tt> contains
+    salary information for certain professional baseball players from
+    the year 2003. It should be self-explanatory. Write code to read
+    this file, process it appropriately and determine, for each
+    position, the average salary of the players in that position. Your
+    code should write seven lines of text to standard output, with each
+    line formatted (in printf notation) as <tt>"%8d: %s"</tt>, where the
+    first parameter (the <tt>%8d</tt>) is the average salary rounded to
+    the nearest integer and the second parameter (the <tt>%s</tt>) is
+    the name of the position, exactly as in the input file. The lines
+    should be sorted in descending order of average salary. Note that
+    the seven positions represented in the input file are "Catcher",
+    "First Baseman", "Outfielder", "Pitcher", "Second Baseman",
+    "Shortstop" and "Third Baseman".
+    <div align=right>[15 points]</div> </li> <br/>
 
-  <li> On non-programming problems, where you simply have to write an
-  answer in English or mathematical notation, be concise. Needless long
-  or complex answer will lose credit, even if correct. </li>
+    <li>The file <tt>~cs33/data/baseball_salaries_2005.txt</tt> is very
+    similar to the above and contains data for 2005, but for a different
+    set of teams. However, there are a number of players who appear in
+    both data sets. Write code to read the two input files and determine
+    the set of players that appear in both files, along with their 2003
+    and 2005 salaries. Your code should write one line of text to
+    standard output for each such player, formatted as <tt>"%-21s: %8d:
+    %8d"</tt>, where the three parameters (in order) are the player's
+    name (exactly as in the input files, in quotes), the 2003 salary and
+    the 2005 salary.
+    <div align=right>[20 points]</div> </li> <br/>
 
-  <li> On programming problems, follow the input/output descriptions to
-  the letter. Your program's output may be checked by a script, and
-  scripts tend to be unforgiving of mistakes. </li>
+    <li>Examine the following three files, which contain data about a
+    set of imaginary actors and a set of imaginary films (movies) along
+    with information about which actors appear in which films: <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <tt>~cs33/data/actor.txt</tt>,&nbsp;
+      <tt>~cs33/data/film.txt</tt>,&nbsp;
+      <tt>~cs33/data/actor_film.txt</tt> <br/>
+    The comment lines on top of each file explain the contents
+    adequately. Write code to process these three files and determine
+    the actor(s) that appear in the maximum number of films. There may
+    be more than one actor tied for the maximum. Your code should write
+    several lines to standard output as follows. For each actor tied for
+    the maximum, write the actor's first name and last name on one line, 
+    separated by a single space. In the next few lines, write the name
+    of each film in which this actor appears, one film per line: the
+    film names should be exactly as in the input file, complete with
+    single quotes. Then go on to the next actor, write their name,
+    followed by the names of the films they appear in, and so on. The
+    actors should appear sorted in increasing order of actor IDs and the
+    list of films appearing beneath each actor's name should be in
+    increasing order of film IDs. Note that you should not be printing
+    any IDs in your output.
+    <div align=right>[25 points]</div> </li> <br/>
 
-  <li> On programming problems, make sure your code is clean and
-  readable. Follow good programming practices: use layout well, name
-  variables meaningfully, and write explanatory comments whenever your
-  code seems to be getting complex. </li>
+  </ol>
 
-</ul>
+  <h3>What to turn in</h3>
+  <ul>
 
-<a name=late></a>
-<h4>Late Submission Policy</h4>
+    <li> Prepare a PDF file with your answers to all the problems in Part 1.
+    One way to prepare the PDF file is to use LaTeX. If you are unfamiliar
+    with LaTeX, you may copy the file <tt>~cs33/data/hw1-example.tex</tt> 
+    and use it as a starting point: just edit it suitably. That file
+    contains instructions to compile the "<tt>.tex</tt>" input file to 
+    produce a "<tt>.pdf</tt>" file: see the comments near the top. </li>
+    <br/>
 
-<p> Homework submitted after the published deadline (found at the top of
-the homework) is deemed late and will incur a penalty as follows: it
-will be graded as usual, and your score will then be multiplied by a
-<b>penalty factor</b> PF(<i>x</i>), where <i>x</i> is the number of
-minutes by which the submission is late (rounded down to an integer). 
-</p>
+    <li> Write a single program that solves all the problems in Part 2.
+    The program should read a single command line argument: when this
+    argument is <em>n</em>, it should behave as specified in Problem
+    <em>n</em> of Part 2. </li> <br/>
 
-<p> The formula for this penalty factor is PF(<i>x</i>) = min{0.95,
-exp(-<i>x</i>/4320)}. Thus, the value of a late homework submission
-decays exponentially, with a half-life of just over two days, but with a
-minimum of a 5% penalty. Examples: work turned in five minutes late gets
-95% credit, one hour late gets 95% credit, six hours late gets 92.0%
-credit, one day late gets 71.7% credit, three days late gets 36.8%, and
-one week late gets 9.7%. </p>
+    <li> Your program may be written in <em>any</em> general-purpose
+    programming or scripting language (e.g., C, C++, Java, Awk, Perl,
+    Python, Ruby, Haskell, ML, Lisp, Scheme, Shell Script), but
+    <em>not</em> in a special-purpose language for database handling,
+    such as SQL. </li> <br/>
 
-<a name=honorcode></a>
-<h4> Working Together and the Honor Principle </h4>
+    <li> The first few lines of your source code should contain comments
+    indicating how to compile and run your program on the machine
+    "sunapee". If your program is in a scripting language, compilation
+    may not be necessary, but you should still indicate how to run the
+    program, and place an appropriate shebang instruction (such as
+    <tt>#!/usr/bin/perl</tt>) on the first line. <em>Please check to
+    ensure that your program does compile and run correctly on
+    sunapee!</em> If you need help with this, send email to
+    "sysadmin@cs.dartmouth.edu" with a CC to the professor and the TA.
+    </li> <br/>
 
-<ul>
+    <li> <b>Submit exactly two files</b> &mdash; your PDF file for Part
+    1, and the source code of your prorgam for Part 2 &mdash; using the
+    <a href="http://www.cs.dartmouth.edu/~cs33/login.html">homework 
+    submission form</a> on the course website. </li>
 
-<li> Students are encouraged to discuss homework problems, but such
-discussion must be limited to an exchange of ideas. <b>Under no
-circumstances must you give/receive any code (whether a complete program
-or just a code fragment) to/from another student.</b> Further, every
-piece of code you turn in must be entirely your work, with no portions
-copied from any external sources (such as websites, or books other than
-the textbook). </li>
-
-<li> It is acceptable to consult manuals, textbooks and websites for the
-sole purpose of learning some aspect(s) of a programming language. If
-you did so, please acknowledge the relevant sources in your submission.
-</li>
-
-<li> <b>Students may not consult the notes or homework solutions of
-another student or any solutions to homework problems in another course,
-including past offerings of this course.</b> </li>
-
-<li> Thus, what you turn in as a homework solution is to be <i>your own
-work, entirely</i>. </li>
-
-<li> The honor principle applies to quizzes and exams as follows.
-<b>Students may not give/receive assistance of any kind on an exam
-to/from any person, including the professor</b>. </li>
-
-<li> If an exam is closed-book, consulting any source at all is a
-violation of the honor code. </li>
-
-</ul>
-
-<h4> Students with Disabilities </h4>
-
-Students with disabilities enrolled in this course and who may need
-disability-related classroom accommodations are encouraged to make an
-appointment with the professor to discuss the matter, by Apr 17, 2009.
-All discussions will remain confidential, although the Student
-Accessibility Services office may be consulted to discuss appropriate
-implementation of any accommodation requested.
-
-<hr>
-
-<i> <div align=right>
-  <a href="index.html"> CS 33 Home</a>
-</div> </i>
+  </ul>
+</div>
 
 </body></html>

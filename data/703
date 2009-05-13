@@ -1,41 +1,40 @@
-http://www.cs.dartmouth.edu/~sting/teaching/cs68w07
+http://www.cs.dartmouth.edu/~cbk/68/index.html
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-  <meta http-equiv=content-type content="text/html">
-  <title>CS 68: Principles of Programming Languages, Winter 2007</title>
-  <link href="style.css" type="text/css" rel="stylesheet">
+<meta http-equiv=content-type content="text/html">
+<title>CS 68: Principles of Programming Languages, Winter 2006</title>
+<link href="style.css" type="text/css" rel="stylesheet">
 </head>
-<body>
-<table border="0=3" width=750>
+
+<table border=0=3 width=750>
 
 <tr>
-<td colspan="2">
-<h2>CS 68: Principles of Programming Languages, Winter 2007</h2></td>
+<td colspan="2"><h2>CS 68: Principles of Programming Languages, Winter 2006</h2></td>
 </tr>
 
 <tr>
 <td><b>Instructor</b></td> 
-<td><a href="http://www.cs.dartmouth.edu/~sting/">
-Michael J. Fromberger</a> (AIM: <tt>LambdaWizard</tt>; Tel. 6-1230)</td>
+<td><a href="http://www.cs.dartmouth.edu/~cbk/">Chris
+Bailey-Kellogg</a></td>
 </tr>
 
 <tr>
 <td valign="top"><b>Office hours</b></td>
-<td>Rm. 217 Sudikoff  | M 3-4pm, W 3-4pm, F 3-4pm; or by appointment</td>
+<td>T 9-10, Th 1-2, F 11-12; or by appointment.</td>
 </tr>
 
 <tr><td>&nbsp;</td></tr>
 
 <tr>
 <td><b>TA</b></td> 
-<td><a href="http://www.cs.dartmouth.edu/~zhengx/">Xiao Zheng</a></td>
+<td><a href="http://www.cs.dartmouth.edu/~potluri/">Shobha Potluri</a></td>
 </tr>
 
 <tr>
 <td valign="top"><b>TA hours</b></td> 
-<td>W 7-8pm | Th 7-8pm; or by appointment</td>
+<td>TBD</td>
 </tr>
 
 <tr><td>&nbsp;</td></tr>
@@ -46,10 +45,10 @@ Michael J. Fromberger</a> (AIM: <tt>LambdaWizard</tt>; Tel. 6-1230)</td>
 </tr>
 
 <tr>
-<td valign="top"><b>Textbook</b></td> 
+<td valign="top"><b>Text</b></td> 
 <td>Peter Van Roy and Seif Haridi, <i>Concepts, Techniques, and
-Models of Computer Programming</i>, MIT Press, 2004.  <br />
-<a href="http://www.info.ucl.ac.be/~pvr/book.html">Book website</a>
+Models of Computer Programming</i>, MIT Press, 2004.  
+<a href="http://www.info.ucl.ac.be/people/PVR/book.html">Book website</a>
 (includes errata, blurbs/reviews, book details, etc.).</td></tr>
 
 <tr><td>&nbsp;</td></tr>
@@ -114,10 +113,10 @@ topics, and reading.</p>
 <td><a href="http://www.mozart-oz.org/"><img src="mozart-69x30.gif"
 width="69" alt="Mozart/Oz"></a></td>
 <td class="footer" align="right">
-<a href="http://www.cs.dartmouth.edu/~sting/teaching/cs68w07/">CS 68</a><br>
-<a href="http://www.cs.dartmouth.edu/~sting/">M. J. Fromberger</a><br>
+<a href="http://www.cs.dartmouth.edu/~cbk/68/">CS 68</a><br>
+<a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a><br>
 <!-- hhmts start -->
-Last modified: Wed Jan  3 12:27:03 EST 2007
+Last modified: Mon Jan  9 09:56:03 EST 2006
 <!-- hhmts end -->
 </td>
 </tr>

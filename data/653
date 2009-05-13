@@ -1,33 +1,17 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR96-288
+http://www.cs.dartmouth.edu/reports/abstracts/TR95-259
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR96-288 </TITLE>
-<META NAME="description" CONTENT="The Panda Array I/O Library on the Galley Parallel File System">
-<META NAME="number" CONTENT="PCS-TR96-288">
-<META NAME="year" CONTENT="1996">
-<META NAME="title" CONTENT="The Panda Array I/O Library on the Galley Parallel File System">
-<META NAME="abstract" CONTENT="  The Panda Array I/O library, created at the University of Illinois,
-Urbana-Champaign, was built especially to address the needs of high-performance
-scientific applications. I/O has been one of the most frustrating bottlenecks
-to high performance for quite some time, and the Panda project is an attempt to
-ameliorate this problem while still providing the user with a simple,
-high-level interface. The Galley File System, with its hierarchical structure
-of files and strided requests, is another attempt at addressing the performance
-problem. My project was to redesign the Panda Array library for use on the
-Galley file system. This project involved porting Panda's three main functions:
-a checkpoint function for writing a large array periodically for 'safekeeping,'
-a restart function that would allow a checkpointed file to be read back in, and
-finally a timestep function that would allow the user to write a group of large
-arrays several times in a sequence. Panda supports several different
-distributions in both the compute-node memories and I/O-node disks.
-  We have found that the Galley File System provides a good environment
-on which to build high-performance libraries, and that the mesh of Panda and
-Galley was a successful combination.">
-<META NAME="author" CONTENT="Joel T. Thomas">
+<TITLE> Dartmouth PCS-TR95-259 </TITLE>
+<META NAME="description" CONTENT="A Multiple Discrete Pass Algorithm on a DEC Alpha 2100">
+<META NAME="number" CONTENT="PCS-TR95-259">
+<META NAME="year" CONTENT="1995">
+<META NAME="title" CONTENT="A Multiple Discrete Pass Algorithm on a DEC Alpha 2100">
+<META NAME="abstract" CONTENT="">
+<META NAME="author" CONTENT="Scott R. Cushman">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -121,58 +105,38 @@ Galley was a successful combination.">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> The Panda Array I/O Library on the Galley Parallel File System </b></font><br>
+<font size=+2><b> A Multiple Discrete Pass Algorithm on a DEC Alpha 2100 </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Thomas,Joel.T..shtml">Joel T. Thomas</A>
+ <A HREF="../../authors/Cushman,Scott.R..shtml">Scott R. Cushman</A>
 <br>
-Dartmouth PCS-TR96-288
+Dartmouth PCS-TR95-259
 </b></font>
 <p><QUOTE>
-<b>Abstract:</b>
-</P><P>
-  The Panda Array I/O library, created at the University of Illinois,
-Urbana-Champaign, was built especially to address the needs of high-performance
-scientific applications. I/O has been one of the most frustrating bottlenecks
-to high performance for quite some time, and the Panda project is an attempt to
-ameliorate this problem while still providing the user with a simple,
-high-level interface. The Galley File System, with its hierarchical structure
-of files and strided requests, is another attempt at addressing the performance
-problem. My project was to redesign the Panda Array library for use on the
-Galley file system. This project involved porting Panda's three main functions:
-a checkpoint function for writing a large array periodically for 'safekeeping,'
-a restart function that would allow a checkpointed file to be read back in, and
-finally a timestep function that would allow the user to write a group of large
-arrays several times in a sequence. Panda supports several different
-distributions in both the compute-node memories and I/O-node disks.
-</P><P>
-  We have found that the Galley File System provides a good environment
-on which to build high-performance libraries, and that the mesh of Panda and
-Galley was a successful combination.
-</QUOTE></p>
-<p><QUOTE>
 <b>Note:</b>
-A Senior Undergraduate Honors Thesis.
+Senior Honors Thesis.  No abstract.  This thesis presents the
+results of an I/O-intensive algorithm on a DEC Alpha 2100 with an
+eight-disk array.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR96-288.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (464KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR95-259.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (100KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR96-288.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (108KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR95-259.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (224KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR96-288.ascii">plain text</a>]
-  [<a href="TR96-288.bib">BIB</a>]
-  [<a href="TR96-288.bibtex">BibTeX</a>]
-  [<a href="TR96-288.refer">Refer</a>]
+  [<a href="TR95-259.ascii">plain text</a>]
+  [<a href="TR95-259.bib">BIB</a>]
+  [<a href="TR95-259.bibtex">BibTeX</a>]
+  [<a href="TR95-259.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Joel T. Thomas, 
-"The Panda Array I/O Library on the Galley Parallel File System."
-Dartmouth Computer Science Technical Report PCS-TR96-288,
-June 1996.
+Scott R. Cushman, 
+"A Multiple Discrete Pass Algorithm on a DEC Alpha 2100."
+Dartmouth Computer Science Technical Report PCS-TR95-259,
+June 1995.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->
@@ -203,3 +167,4 @@ explicit permission of the copyright holder.
 
 </BODY>
 </HTML>
+ii

@@ -1,15 +1,15 @@
-http://www.cs.dartmouth.edu/~theory/fall_2006.html
+http://www.cs.dartmouth.edu/~theory/spring_2006.html
 3
 <html>
 <head>
-<title>Theory Reading Group - Fall 2006 </title>
+<title>Theory Reading Group - Spring 2006 </title>
 </head>
 <body bgcolor="#fffff0" text="#004040" link="#006A57" alink="#006A57" 
 vlink="#008080">
 
 <font face="verdana, helvetica, arial" size="+1">
 <b><center>
-Theory Reading Group - Fall 2006
+Theory Reading Group - Spring 2006
 <br>
 </b></center>
 </font>
@@ -17,85 +17,72 @@ Theory Reading Group - Fall 2006
 <blockquote> <p> Welcome to the Theory Reading Group at Dartmouth's CS
 Department! We have vigorous, exciting discussions/presentations on
 recent research in theoretical computer science (TCS), accompanied by
-choice snacks. We meet on Fridays 3:00-4:30 in the Theory Lab (Sudikoff 
-245) and sometimes in the Theory Reading Room (Kemeny 229). Everyone is 
-welcome; email "ac" at "cs" if you'd like to join the discussion. 
+choice snacks. We meet on Tuesdays 4:00-5:15 in Sudikoff 114. Everyone
+is welcome; email "ac" at "cs" if you'd like to join the discussion. 
 
-<!--
 Each term we center our discussions around a well-defined theme within
-TCS. For the current term (Fall 2006) the theme is "Fourier analysis
+TCS. For the current term (Spring 2006) the theme is "Fourier analysis
 and its applications in TCS".
--->
 
 <p>
-<h3>Fall 2006 Schedule</h3>
+<h3>Spring 2006 Schedule </h3>
 
 <p>
 
-<p> <b>Sep 29, 2006</b> 
+<p> <b>Apr 18, 2006 (Amit) &mdash; special meeting time 3:30-4:30</b> 
 <ul> 
-<li> This was a planning meeting.
+<li> Amit will introduce Fourier transforms over arbitrary Abelian
+groups (in particular, discrete Fourier transforms). We will see an
+example of how to compute Fourier coefficients for a simple but
+important class of Boolean functions.
 </ul><p>
 
-<p> <b>Oct 6, 2006 (Vibhor)</b>
+<p> <b>Apr 25, 2006 (Amit)</b>
 <ul>
-<li> Last term we were reading papers on the theme "Fourier analysis
-and its applications in TCS". We had one paper we didn't quite get
-to, so we shall be doing it now. Vibhor will present Khot and Naor's
-paper <a href="Papers/khot-nonembed.pdf">Nonembeddability Theorems 
-via Fourier Analysis</a>, from FOCS 2005.
+<li> Amit will discuss the concept of influence of variables on a
+Boolean function. We will see the proof of a classic theorem of Kahn,
+Kalai and Linial about such influences. Here is the <a
+href="Papers/kahn-influence.ps">original paper</a> and
+here is <a href="Papers/stefankovic-fourier.ps">Stefankovic's Masters
+thesis</a>, which we shall use as our source for the proof.
 </ul><p>
 
-<p> <b>Oct 13, 2006 (Chrisil)</b>
+<p> <b>May 2, 2006 (Joshua)</b>
 <ul>
-<li> We shall begin reading David Shmoys's survey
-<a href="Papers/shmoys-multicut.ps">Cut Problems and their Application
-to Divide-and-Conquer</a>. This builds the background for plenty of
-recent work in algorithms and optimization.
+<li> Joshua will present a proof of Beckner's inequalities, which 
+were used last time in the proof of the Kahn-Kalai-Linial theorem.
 </ul><p>
 
-<p> <b>Oct 20, 2006 (Joshua)</b>
+<p> <b>May 9, 2006 (Anna)</b>
 <ul>
-<li> We shall continue with the Shmoys survey we started last time.
+<li> Anna will start discussing Hastad's landmark paper <a 
+href="Papers/hastad-optimalinapprox.ps">Some Optimal Inapproximability
+Results</a>. The discussion for this week will focus on the problem
+of linear equations mod 2.
 </ul><p>
 
-<p> <b>Oct 27, 2006 (TBD)</b>
+<p> <b>May 16, 2006 (Anna)</b>
 <ul>
-<li> ?
+<li> Anna will continue presenting Hastad's paper, and the result on the
+inapproximability of max linear equations mod 2.
 </ul><p>
 
-<p> <b>Nov 3, 2006 (TBD)</b>
+<p> <b>May 23, 2006 (Joshua)</b>
 <ul>
-<li> ?
-</ul><p>
-
-<p> <b>Nov 10, 2006 (TBD)</b>
-<ul>
-<li> ?
-</ul><p>
-
-<p> <b>Nov 17, 2006 (TBD)</b>
-<ul>
-<li> ?
-</ul><p>
-
-<p> <b>Dec 1, 2006 (TBD)</b>
-<ul>
-<li> ?
+<li> Joshua will continue presenting Hastad's paper. We shall probably
+focus on MAX-3SAT.
 </ul><p>
 
 <center>
 <font size="-1" face=" verdana, helvetica, arial">
-Theory Reading Group | theory@cs.dartmouth.edu |  Last updated 
-Fri Sep 29 16:59:53 EDT 2006
-<br>
+Theory Reading Group | theory@cs.dartmouth.edu |  
+Last updated Mon Apr 17 12:51:16 EDT 2006. <br>
 Page maintained by <a href="http://www.cs.dartmouth.edu/~ac">Amit
 Chakrabarti</a>. 
 <br>
 <br>
 Earlier terms: 
-[ <a href= "spring_2006.html">Spring 2006</a>
-| <a href= "winter_2006.html">Winter 2006</a>
+[ <a href= "winter_2006.html">Winter 2006</a>
 | <a href= "fall_2005.html">Fall 2005</a>
 ]
 </font>
@@ -103,4 +90,3 @@ Earlier terms:
 
 </body>
 </html>
-er.hi

@@ -1,6 +1,6 @@
-http://www.cs.dartmouth.edu/~theory/winter_2008.html
+http://www.cs.dartmouth.edu/~theory/fall_2007.html
 3
-<html><head><title>Theory Reading Group -- Winter 2008</title>
+<html><head><title>Theory Reading Group -- Fall 2007</title>
 <style type="text/css">
 <!--
 .style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
@@ -20,7 +20,7 @@ http://www.cs.dartmouth.edu/~theory/winter_2008.html
 	</H2>
 	<H4>	
 	  <br>
-	  Winter 2008
+	  Fall 2007
 	  <br>
 	  Tuesdays, 4:00 -- 5:30pm
 	  <br>
@@ -41,7 +41,6 @@ http://www.cs.dartmouth.edu/~theory/winter_2008.html
     <tr>
       <td width= "600" align = "center">Past TRG sessions:
       <ul>
-      <li><a href="fall_2007.html">Fall 2007</a></li>
       <li><a href="fall_2006.html">Fall 2006</a></li>
       <li><a href="spring_2006.html">Spring 2006</a></li>
       <li><a href="winter_2006.html">Winter 2006</a></li>
@@ -62,144 +61,164 @@ http://www.cs.dartmouth.edu/~theory/winter_2008.html
           <tbody>
           <tr> 
             <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, January 8 </font></td>
+            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday,
+            October 23 </font></td>
           </tr>
           <tr> 
-            <td width="99">Topic: </td>
-            <td width="469"><font color="#990000"><b>Optimal Coordination Mechanisms for Unrelated Machine Scheduling </b></font></td>
-          </tr>
-          <tr> 
-            <td width="99">Source Materials:</td>
-            <td width="469"><ul>
-	      <li>Y. Azar, K. Jain, and V. Mirrokni, <a href="Papers/AzarJainMirrokniSoda08.pdf">Optimal Coordination Mechanisms for Unrelated Machine Scheduling</a>, SODA 2008 </li>
-	      </ul></td>
-          </tr>
-          <tr> 
-            <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Zoya Svitkina</td>
-          </tr>
-        </tbody></table>
-
-        <table border="1" cellpadding="5" width="600">
-          <tbody>
-          <tr> 
-            <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, January 15 </font></td>
-          </tr>
-          <tr> 
-            <td width="99">Topic: </td>
-            <td width="469"><font color="#990000"><b>Lectures 1 and 2 from MIT course on Sketching, Streaming, and Sublinear Space Algorithms</b></font></td>
+            <td width="99">Topic:</td>
+            <td width="469"><font color="#990000"><b>Selection in Random-Ordered Streams </b></font></td>
           </tr>
           <tr> 
             <td width="99">Source Materials:</td>
             <td width="469"><ul>
-	      <li>Lecture 1: <a href="http://stellar.mit.edu/S/course/6/fa07/6.895/courseMaterial/topics/topic1/lectureNotes/lec1/lec1.pdf">Distinct Elements Estimation</a></li>
-	      <li>Lecture 2: <a href="http://stellar.mit.edu/S/course/6/fa07/6.895/courseMaterial/topics/topic1/lectureNotes/lec2/lec2.pdf">L2 Norm Estimation</a></li>
-	      </ul></td>
+	      <li>A. Chakrabarti, T. S. Jayram, and M. Patrascu, <strong><a href = "http://www.cs.dartmouth.edu/~ac/Pubs/soda08-median-ds.pdf">Tight Lower Bounds for Selection in Randomly Ordered Streams</a></strong> SODA 2008
+        <!--      <li>S. Sclaroff and A.   Pentland, <strong><a href="Papers/sp-mmcr-95.pdf">Modal Matching for Correspondence and Recognition</a></strong>. <em>IEEE   Transactions on Pattern Analysis and Machine Intelligence</em> (PAMI), Vol. 17, No.   6, pp. 545-561, 1995</li>
+	      <li>M. Leordeanu and M.   Hebert, <strong><a href="Papers/lh-stcpupc-05.pdf">A Spectral Technique for Correspondence Problems Using Pairwise   Constraints</a></strong>. Proceedings of the Tenth IEEE International Conference   on Computer Vision - Volume 2 (ICCV), pp. 1482-1489,&nbsp; 2005 </li>
+       -->     </ul></td>
           </tr>
           <tr> 
             <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Ranganath Kondapally</td>
+            <td height="27" width="469">Amit Chakrabarti</td>
           </tr>
         </tbody></table>
 
 
         <table border="1" cellpadding="5" width="600">
-          <tbody>
-          <tr> 
-            <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, January 29 </font></td>
+          <tbody><tr> 
+            <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+            <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, November 6  </font></td>
           </tr>
           <tr> 
-            <td width="99">Topic: </td>
-            <td width="469"><font color="#990000"><b>Continuation of
-						Lecture 2 from last time: Johnson-Lindenstrauss </b></font></td>
+            <td width="100">Topic:</td>
+            <td width="500"><strong><font color="#990000">van Emde Boas Trees</font></strong></td>
           </tr>
           <tr> 
-            <td width="99">Source Materials:</td>
-            <td width="469"><ul>
-	      <li>See above</li>
-	      </ul></td>
+            <td width="100">Source Materials:</td>
+            <td width="500"><ul>
+              <li><a href="http://en.wikipedia.org/wiki/Van_Emde_Boas_tree">Consult The Oracle.</a></li>
+	      </td>
           </tr>
           <tr> 
-            <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Ranganath Kondapally</td>
+            <td width="100">Speakers:</td>
+            <td height="27" width="469">Joshua Brody</td> 
           </tr>
         </tbody></table>
-
-
+      </center>
+    </div>
+    <div align="center" class="style1"> 
+      <center>
         <table border="1" cellpadding="5" width="600">
-          <tbody>
-          <tr> 
-            <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, February 5 </font></td>
+          <tbody><tr> 
+            <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+            <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
+            November 13 </font></td>
           </tr>
           <tr> 
-            <td width="99">Topic: </td>
-            <td width="469"><font color="#990000"><b>Lecture 3 from MIT course on Sketching, Streaming, and Sublinear Space Algorithms</b></font></td>
+            <td width="100">Topic:</td>
+            <td width="500"><strong><font color="#990000">Mechanism Design via Differential Privacy</font></strong></td>
           </tr>
           <tr> 
-            <td width="99">Source Materials:</td>
-            <td width="469"><ul>
-	      <li>Lecture 3: <a href="http://stellar.mit.edu/S/course/6/fa07/6.895/courseMaterial/topics/topic1/lectureNotes/lec3/lec3.pdf">Median Estimator &ndash; p-stable distributions</a></li>
-	      </ul></td>
+            <td width="100">Source Materials:</td>
+            <td width="500"><ul>
+	      <li>F. McSherry, and K Talwar, <strong><a href = "Papers/MDviaDP.pdf">Mechanism Design via Differential Privacy</a></strong> SODA 2008
+            </ul></td>
           </tr>
           <tr> 
-            <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Gabriel Weaver</td>
-          </tr>
-        </tbody></table>
-
-
-        <table border="1" cellpadding="5" width="600">
-          <tbody>
-          <tr> 
-            <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, February 26 </font></td>
-          </tr>
-          <tr> 
-            <td width="99">Topic: </td>
-            <td width="469"><font color="#990000"><b>MIT Lec 3 continued
-	    (Gabriel), Heavy Hitters, Frequency Estimation and Count-Min Sketch
-	    (Chrisil)</b></font></td>
-          </tr>
-          <tr> 
-            <td width="99">Source Materials:</td>
-            <td width="469"><ul>
-	      <li>Lecture 3: as above</a></li>
-	      <li>Lecture 4 from MIT course: <a href="http://stellar.mit.edu/S/course/6/fa07/6.895/courseMaterial/topics/topic1/lectureNotes/lec4/lec4.pdf">Heavy Hitters</a></li>
-	      <li>The <a href="http://dimacs.rutgers.edu/~graham/pubs/html/CormodeMuthukrishnan04CMJalg.html">count-min sketch paper</a></li>
-	      </ul></td>
-          </tr>
-          <tr> 
-            <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Gabriel and Chrisil</td>
+            <td width="100">Speakers:</td>
+            <td height="27" width="469">Chrisil Arackaparambil</td> 
           </tr>
         </tbody></table>
 
 
-        <table border="1" cellpadding="5" width="600">
+        <table width="600" border="1" cellpadding="5">
           <tbody>
-          <tr> 
-            <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, March 4 </font></td>
-          </tr>
-          <tr> 
-            <td width="99">Topic: </td>
-            <td width="469"><font color="#990000"><b>Count-Min Sketch paper</b></font></td>
-          </tr>
-          <tr> 
-            <td width="99">Source Materials:</td>
-            <td width="469"><ul>
-	      <li>As above</li>
-	      </ul></td>
-          </tr>
-          <tr> 
-            <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Chrisil Arackaparambil</td>
-          </tr>
-        </tbody></table>
+            <tr>
+              <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
+                November 20</font></td>
+            </tr>
+            <tr>
+              <td width="100">Topic:</td>
+              <td width="500"><strong><font color="#990000"> 
+	        Why is P^2 not embeddable in R^3? </font></strong></td>
+            </tr>
+            <tr>
+              <td width="100">Source Materials:</td>
+              <td width="500"><ul>
+	        <li>Hiroshi Maehara, <strong><a href = "Papers/p2r3.pdf">Why is P2 Not Embeddable in R3?</a></strong> American Mathematical Monthly 1993</li>
+                <li>J.H. Conway, and C. McA. Gordon, <strong><a href="Papers/k6.pdf">Knots and Links in Spatial Graphs</a></strong>Journal of Graph Theory 1983</li>
+              </ul>
+              </td>
+            </tr>
+            <tr>
+              <td width="100">Speakers:</td>
+              <td height="27" width="469"><p></p>
+                 Afra Zomorodian</td>
+            </tr>
+          </tbody>
+        </table>
 
+        <table width="600" border="1" cellpadding="5">
+          <tbody>
+            <tr>
+              <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
+                November 27</font></td>
+            </tr>
+            <tr>
+              <td width="100">Topic:</td>
+              <td width="500"><strong><font color="#990000"> 
+	        Lower Bounds for Collapsing Protocols</font></strong></td>
+            </tr>
+            <tr>
+              <td width="100">Source Materials:</td>
+              <td width="500"><ul>
+                <li>J. Brody and A. Chakrabarti, <a href = "Papers/mpj-ub.pdf">Sublinear Communication Protocols for Multi-Party Pointer Jumping and a Related Lower Bound</a> To appear in STACS 2008</li>
+              </ul>
+              </td>
+            </tr>
+            <tr>
+              <td width="100">Speakers:</td>
+              <td height="27" width="469"><p></p>
+		  Joshua Brody</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <table width="600" border="1" cellpadding="5">
+          <tbody>
+            <tr>
+              <td bgcolor="#443344" width="100"><font color="#ffffff">Date/Location:</font></td>
+              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
+                December 4,  Kemeny 229</font></td>
+            </tr>
+            <tr>
+              <td width="100">Topic:</td>
+              <td width="500"><strong><font color="#990000"> 
+	        Scheduling Tasks on Machines</font></strong></td>
+            </tr>
+            <tr>
+              <td width="100">Source Materials:</td>
+              <td width="500"><ul>
+                <li>M. Gairing, B. Monien, and A. Woclaw. <a href = "Papers/combinatorial.pdf">A faster combinatorial
+approximation algorithm for scheduling unrelated parallel machines.</a>
+Theoretical Computer Science, 380:87-99, 2007 (main paper)</li>
+                <li>J. K. Lenstra, D. B. Shmoys, and E. Tardos. <a href="Papers/parallelprocessors.pdf">Approximation algorithms
+for scheduling unrelated parallel machines. </a>Mathematical Programming,
+46:259-271, 1990.</li>
+                <li>T. Ebenlendr, M. Krcal, and J. Sgall. <a href="Papers/graphbalancingunrelatedproc.pdf">Graph balancing: a special case
+of scheduling unrelated parallel machines. SODA 2008 (to appear).
+</li>
+              </ul>
+              </td>
+            </tr>
+            <tr>
+              <td width="100">Speakers:</td>
+              <td height="27" width="469"><p></p>
+		  Umang Bhaskar</td>
+            </tr>
+          </tbody>
+        </table>
 
 <!--
         <table width="600" border="1" cellpadding="5">
@@ -262,4 +281,3 @@ http://www.cs.dartmouth.edu/~theory/winter_2008.html
 </div>
 
 </body></html>
-i

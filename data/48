@@ -1,110 +1,192 @@
-http://www.cs.dartmouth.edu/~epics
+http://www.cs.dartmouth.edu/reports/abstracts/TR2008-618
 2
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>Dartmouth EPICS (Engineering Projects in Community Service)</title>
-<meta http-equiv=content-type content="text/html; charset=us-ascii">
-<link href="style.css" type="text/css" rel="stylesheet">
-</head>
-
-<body>
-
-<p>
-<a href="http://www.cs.dartmouth.edu/~epics/"><img src="epics_dart.gif" alt="EPICS" border=0 align="middle"></a>
-<font class=at>&nbsp;@&nbsp;</font>
-<a href="http://www.dartmouth.edu/"><img src="dart_seal.jpg" alt="Dartmouth" border=0 align="middle"></a>
-</p>
-
-<table width="100%" border=0><tbody>
+<HTML>
+<!-- WARNING! Do not modify this file; it is
+      automatically generated from a database in www/TRdata/. -->
+<link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
+<HEAD>
+<TITLE> Dartmouth TR2008-618 </TITLE>
+<META NAME="description" CONTENT="The Weakest Failure Detector to Solve Mutual Exclusion">
+<META NAME="number" CONTENT="TR2008-618">
+<META NAME="year" CONTENT="2008">
+<META NAME="title" CONTENT="The Weakest Failure Detector to Solve Mutual Exclusion">
+<META NAME="abstract" CONTENT="Mutual exclusion is not solvable in an asynchronous
+message-passing system where processes are subject to crash
+failures. Delporte-Gallet et. al. determined the weakest
+failure detector to solve this problem when a majority of
+processes are correct. Here we identify the weakest failure
+detector to solve mutual exclusion in any environment, i.e.,
+regardless of the number of faulty processes. 
+    We also show a relation between mutual exclusion and
+consensus, arguably the two most fundamental problems in
+distributed computing. Specifically, we show that a failure
+detector that solves mutual exclusion is sufficient to solve
+non-uniform consensus but not necessarily uniform consensus.">
+<META NAME="author" CONTENT="Vibhor Bhatt">
+<META NAME="author" CONTENT="Nicholas Christman">
+<META NAME="author" CONTENT="Prasad Jayanti">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
+<!-- See also footer.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<table border=0 rules=none>
+<col width=85><col width=100%><col width=85>
+<tr valign=center  bgcolor=#003300 border=0>
+ <td>
+   <a href=/><img src=/reports/Dartmouth2.png alt="Dartmouth logo"
+   width=82 height=91 border=0></a>
+ </td>
+ <td>
+   <font color=#ffffff size=+3>
+     Dartmouth College Computer Science<br>
+     Technical Report series
+   </font>
+ </td>
+ <td>
+  <a href="/"><font color=#ffffff>CS&nbsp;home</font></a><br>
+  <a href="/reports"><font color=#ffffff>TR&nbsp;home</font></a><br>
+  <a href="/reports/#search"><font color=#ffffff>TR&nbsp;search</font></a>
+  <a href="/reports/updates.html"><font color=#ffffff>TR&nbsp;listserv</font></a>
+ </td>
+</tr>
 <tr>
-<!-- navigation -->
-<td valign=top align=left width=100><br>
-<a href="index.html" class=nav>home</a><br>
-<a href="students.html" class=nav>students</a><br>
-<a href="agencies.html" class=nav>agencies</a><br>
-</td>
+  <td align=right> By author:
+  </td>
+  <td colspan=2>
+    <a href="/reports/authors/index.shtml#A">A</a>
+    <a href="/reports/authors/index.shtml#B">B</a>
+    <a href="/reports/authors/index.shtml#C">C</a>
+    <a href="/reports/authors/index.shtml#D">D</a>
+    <a href="/reports/authors/index.shtml#E">E</a>
+    <a href="/reports/authors/index.shtml#F">F</a>
+    <a href="/reports/authors/index.shtml#G">G</a>
+    <a href="/reports/authors/index.shtml#H">H</a>
+    <a href="/reports/authors/index.shtml#I">I</a>
+    <a href="/reports/authors/index.shtml#J">J</a>
+    <a href="/reports/authors/index.shtml#K">K</a>
+    <a href="/reports/authors/index.shtml#L">L</a>
+    <a href="/reports/authors/index.shtml#M">M</a>
+    <a href="/reports/authors/index.shtml#N">N</a>
+    <a href="/reports/authors/index.shtml#O">O</a>
+    <a href="/reports/authors/index.shtml#P">P</a>
+    <a href="/reports/authors/index.shtml#Q">Q</a>
+    <a href="/reports/authors/index.shtml#R">R</a>
+    <a href="/reports/authors/index.shtml#S">S</a>
+    <a href="/reports/authors/index.shtml#T">T</a>
+    <a href="/reports/authors/index.shtml#U">U</a>
+    <a href="/reports/authors/index.shtml#V">V</a>
+    <a href="/reports/authors/index.shtml#W">W</a>
+    <a href="/reports/authors/index.shtml#X">X</a>
+    <a href="/reports/authors/index.shtml#Y">Y</a>
+    <a href="/reports/authors/index.shtml#Z">Z</a>
+   </td>
+</tr>
+<tr>
+  <td align=right> By number: 
+  </td>
+  <td colspan=2>
+    <font size=-1>
+      <a href="/reports/abstracts/2009.shtml">2009</a>,
+      <a href="/reports/abstracts/2008.shtml">2008</a>,
+      <a href="/reports/abstracts/2007.shtml">2007</a>,
+      <a href="/reports/abstracts/2006.shtml">2006</a>,
+      <a href="/reports/abstracts/2005.shtml">2005</a>,
+      <a href="/reports/abstracts/2004.shtml">2004</a>,
+      <a href="/reports/abstracts/2003.shtml">2003</a>,
+      <a href="/reports/abstracts/2002.shtml">2002</a>,
+      <a href="/reports/abstracts/2001.shtml">2001</a>,
+      <a href="/reports/abstracts/2000.shtml">2000</a>,
+      <a href="/reports/abstracts/1999.shtml">1999</a>,
+      <a href="/reports/abstracts/1998.shtml">1998</a>,
+      <a href="/reports/abstracts/1997.shtml">1997</a>,
+      <a href="/reports/abstracts/1996.shtml">1996</a>,
+      <a href="/reports/abstracts/1995.shtml">1995</a>,
+      <a href="/reports/abstracts/1994.shtml">1994</a>,
+      <a href="/reports/abstracts/1993.shtml">1993</a>,
+      <a href="/reports/abstracts/1992.shtml">1992</a>,
+      <a href="/reports/abstracts/1991.shtml">1991</a>,
+      <a href="/reports/abstracts/1990.shtml">1990</a>,
+      <a href="/reports/abstracts/1989.shtml">1989</a>,
+      <a href="/reports/abstracts/1988.shtml">1988</a>,
+      <a href="/reports/abstracts/1987.shtml">1987</a>,
+      <a href="/reports/abstracts/1986.shtml">1986</a>
+    </font>
+  </td>
+</tr>
+</table>
+<hr>
+<!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<!-- content -->
-<td valign=top>
-<div class=header align=center>Home</div><br>
-
-<p>The Dartmouth EPICS (Engineering Projects in Community Service)
-program seeks to partner students and community agencies in
-significant projects requiring computer science and software
-engineering skills.  We are following the model established by the
-successful <a href="http://epics.ecn.purdue.edu/">EPICS program</a> at
-Purdue University. At Dartmouth, EPICS was founded by 
-Prof. <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a>.
+<font size=+2><b> The Weakest Failure Detector to Solve Mutual Exclusion </b></font><br>
+<font size=+1><b>
+ <A HREF="../../authors/Bhatt,Vibhor.shtml">Vibhor Bhatt</A>,
+ <A HREF="../../authors/Christman,Nicholas.shtml">Nicholas Christman</A>,
+ <A HREF="../../authors/Jayanti,Prasad.shtml">Prasad Jayanti</A>
+<br>
+Dartmouth TR2008-618
+</b></font>
+<p><QUOTE>
+<b>Abstract:</b>
+Mutual exclusion is not solvable in an asynchronous
+message-passing system where processes are subject to crash
+failures. Delporte-Gallet et. al. determined the weakest
+failure detector to solve this problem when a majority of
+processes are correct. Here we identify the weakest failure
+detector to solve mutual exclusion in any environment, i.e.,
+regardless of the number of faulty processes. 
+</P><P>
+    We also show a relation between mutual exclusion and
+consensus, arguably the two most fundamental problems in
+distributed computing. Specifically, we show that a failure
+detector that solves mutual exclusion is sufficient to solve
+non-uniform consensus but not necessarily uniform consensus.
+</QUOTE></p>
+<HR>
+ <a href="http://www.cs.dartmouth.edu/reports/TR2008-618.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (196KB)
+<p>
+Bibliographic citation for this report:
+  [<a href="TR2008-618.ascii">plain text</a>]
+  [<a href="TR2008-618.bib">BIB</a>]
+  [<a href="TR2008-618.bibtex">BibTeX</a>]
+  [<a href="TR2008-618.refer">Refer</a>]
 </p>
+<p>Or copy and paste:<br>
+&nbsp;&nbsp;
+Vibhor Bhatt,
+Nicholas Christman, and
+Prasad Jayanti, 
+"The Weakest Failure Detector to Solve Mutual Exclusion."
+Dartmouth Computer Science Technical Report TR2008-618,
+April 2008.
+</p>
+<!-- Include file for abstracts/*.html and authors/*.html -->
+<!-- See also header.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<!-- </td></tr></table> -->
+<hr>
 
-<p>To date, Dartmouth EPICS has established the following
-partnerships (bold projects are underway):</p>
+<p><a href=/reports/updates.html>Notify me about new tech reports</a>.
+<a href=/reports/feed.xml><img src=/reports/rss.gif><a></p>
+<p><a href=/reports/index.shtml#search>Search the technical reports</a>.</p>
+<p>To receive paper copy of a report, by mail, 
+send your address and the TR number to <tt>reports</tt> AT <tt>cs.dartmouth.edu</tt>
 
-<ul>
-<li> David's House, Spring 2006 - Winter 2008: <a
-href="davids-house/index.html">EPICS + David's House</a></li>
-<li> Good Neighbor Health Clinic, starting Winter 2007: <a
-href="gnhc/index.html">EPICS + GNHC</a></li>
-<li> High Horses, Fall 2006 - Winter 2008: <a
-href="high-horses/index.html">EPICS + High Horses</a></li>
-<li> Montshire Museum of Science, starting Fall 2005: <a
-href="montshire/index.html">EPICS + Montshire</a></li>
-<li> Norris Cotton Cancer Center, starting Spring 2006: <a
-href="nccc/index.html">EPICS + NCCC</a></li>
-<li> Upper Valley Habitat for Humanity, starting Winter 2006: <a
-href="uvhfh/index.html">EPICS + UVHFH</a></li>
-<li> <b>Upper Valley Business Education Partnership</b>, starting Spring 2008: <a
-href="uvbep/index.html">EPICS + UVBEP</a></li>
-<li> <b>Upper Valley Humane Society</b>, starting Winter 2008: <a
-href="uvhs/index.html">EPICS + UVHS</a></li>
-<li> <b>Upper Valley Trails Alliance</b>, starting Winter 2008: <a
-href="uvta/index.html">EPICS + UVTA</a></li>
-</ul>
-We intend to form additional partnerships as student enrollments
-permit. 
+<hr>
 
-<p>  <a href="agencies.html">
-Interested agencies are encouraged learn more about EPICS</a> 
-and contact <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> 
-with ideas, questions, or suggestions.</p>
+<p><font size=-1><b>Copyright notice</b>:	
+The documents contained in this server are included by the
+contributing authors as a means to ensure timely dissemination of
+scholarly and technical work on a non-commercial basis.  Copyright and
+all rights therein are maintained by the authors or by other copyright
+holders, notwithstanding that they have offered their works here
+electronically.  It is understood that all persons copying this
+information will adhere to the terms and constraints invoked by each
+author's copyright.  These works may not be reposted without the
+explicit permission of the copyright holder.
+</font></p> 
+<p><font size=-1><em>Technical reports collection maintained by David Kotz</em>.
 
-<p> <a href="students.html">
-Interested students are encouraged to learn more about EPICS</a> 
-and contact <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> with questions.</p>
-
-
-<p><b>News</b>:<br/>
-
-A series of sessions at the <a href="http://www.gracehopper.org/">2006
-Grace Hopper Celebration of Women in Computing</a> engaged
-participants in computing and community.  A design exercise featured
-the <a href="high-horses/index.html">High Horses partnership</a>,
-using a video interview with Executive Director Liz Claud to
-brainstorm about computing solutions to community problems.  
-The video is on the <a href="high-horses/index.html">High Horses
-partnership page</a>.<br/>
-
-&nbsp;<br/>
-
-Articles in the <a
-href="http://www.dartmouth.edu/~vox/0506/0109/epic.html">Vox of
-Dartmouth</a> (<a
-href="http://www.dartmouth.edu/~news/releases/2005/12/16.html">news
-release</a>) and <a
-href="http://www.thedartmouth.com/article.php?aid=2006011001040">The
-Dartmouth</a> describe the fall 2005 term of the <a
-href="montshire/index.html">EPICS+Montshire</a> project.</p>
-
-<!-- footer -->
-<tr><td colspan=2 height=20></td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td class=footer colspan=2>
-<!-- hhmts start --> Last modified: Fri Jan  4 17:59:23 EST 2008
- <!-- hhmts end -->
-</td></tr>
-
-</tbody></table>
-</body>
-</html>
-T>i
+</BODY>
+</HTML>

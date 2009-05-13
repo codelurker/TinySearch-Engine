@@ -1,17 +1,33 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR94-225
+http://www.cs.dartmouth.edu/reports/abstracts/TR94-218
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR94-225 </TITLE>
-<META NAME="description" CONTENT="Human Creativity Through Computer Gaming">
-<META NAME="number" CONTENT="PCS-TR94-225">
+<TITLE> Dartmouth PCS-TR94-218 </TITLE>
+<META NAME="description" CONTENT="SPEDE: Simple Programming Environment for Distributed Execution">
+<META NAME="number" CONTENT="PCS-TR94-218">
 <META NAME="year" CONTENT="1994">
-<META NAME="title" CONTENT="Human Creativity Through Computer Gaming">
-<META NAME="abstract" CONTENT="">
-<META NAME="author" CONTENT="Christine McGavran">
+<META NAME="title" CONTENT="SPEDE: Simple Programming Environment for Distributed Execution">
+<META NAME="abstract" CONTENT="    One of the main goals for people who use computer systems,
+particularly computational scientists, is speed. In the quest for ways
+to make applications run faster, engineers have developed parallel
+computers, which use more than one CPU to solve a task. However, many
+institutions already posses significant computational power in
+networks of workstations. Through software, it is possible to glue
+together clusters of machines to simulate a parallel environment.
+SPEDE is one such system, designed to place the potential of local
+machines at the fingertips of the programmer. Through a simple
+interface, users design computational objects that can be linked and
+run in parallel. The goal of the project is to have a small portable
+environment that allows various types of computer systems to
+interact. SPEDE requires no altering of the kernel and does not
+require system privileges to use. Using SPEDE, programmers can get
+significant speedup for computationally intensive problems. As an
+example, a Mandelbrot image generator was implemented, that attained a
+five-fold speedup with eight processors.">
+<META NAME="author" CONTENT="James Gochee">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -105,31 +121,59 @@ http://www.cs.dartmouth.edu/reports/abstracts/TR94-225
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Human Creativity Through Computer Gaming </b></font><br>
+<font size=+2><b> SPEDE: Simple Programming Environment for Distributed Execution </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/McGavran,Christine.shtml">Christine McGavran</A>
+ <A HREF="../../authors/Gochee,James.shtml">James Gochee</A>
 <br>
-Dartmouth PCS-TR94-225
+Dartmouth PCS-TR94-218
 </b></font>
 <p><QUOTE>
+<b>Abstract:</b>
+</P><P>
+    One of the main goals for people who use computer systems,
+particularly computational scientists, is speed. In the quest for ways
+to make applications run faster, engineers have developed parallel
+computers, which use more than one CPU to solve a task. However, many
+institutions already posses significant computational power in
+networks of workstations. Through software, it is possible to glue
+together clusters of machines to simulate a parallel environment.
+SPEDE is one such system, designed to place the potential of local
+machines at the fingertips of the programmer. Through a simple
+interface, users design computational objects that can be linked and
+run in parallel. The goal of the project is to have a small portable
+environment that allows various types of computer systems to
+interact. SPEDE requires no altering of the kernel and does not
+require system privileges to use. Using SPEDE, programmers can get
+significant speedup for computationally intensive problems. As an
+example, a Mandelbrot image generator was implemented, that attained a
+five-fold speedup with eight processors.
+</QUOTE></p>
+<p><QUOTE>
 <b>Note:</b>
-A Senior Honors Thesis in Computer Science.
+A Senior Thesis in the Department of Math and Computer Science,
+Dartmouth College, 1992.<P>
+See also Technical Report PCS-TR94-217 for a user's manual for
+SPEDE. 
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR94-225.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (7408KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR94-218.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (24KB)
+,
+ <a href="http://www.cs.dartmouth.edu/reports/TR94-218.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (32KB)
+(derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR94-225.ascii">plain text</a>]
-  [<a href="TR94-225.bib">BIB</a>]
-  [<a href="TR94-225.bibtex">BibTeX</a>]
-  [<a href="TR94-225.refer">Refer</a>]
+  [<a href="TR94-218.ascii">plain text</a>]
+  [<a href="TR94-218.bib">BIB</a>]
+  [<a href="TR94-218.bibtex">BibTeX</a>]
+  [<a href="TR94-218.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Christine McGavran, 
-"Human Creativity Through Computer Gaming."
-Dartmouth Computer Science Technical Report PCS-TR94-225,
+James Gochee, 
+"SPEDE: Simple Programming Environment for Distributed Execution."
+Dartmouth Computer Science Technical Report PCS-TR94-218,
  1994.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
@@ -161,4 +205,4 @@ explicit permission of the copyright holder.
 
 </BODY>
 </HTML>
-tingti
+i

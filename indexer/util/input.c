@@ -51,9 +51,6 @@ char* getFilePath(char* dirname, int file) {
 	sfile = NULL;
 		
 	return(path);
-	
-	free(path);
-	path = NULL;
 }
 
 // prunes the html document from any new line characters

@@ -1,145 +1,131 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/Project/proj.html
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/admindetails.html
 3
-<html><head><title>CS 33 (Spring 2009): Course Project</title></head> <body>
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 33 (Spring 2009): Amit Chakrabarti: Administrative Details</title>
+</head>
 
-<div style="width:800px">
-<h2>CS 33 (Spring 2009): Course Project</h2>
+<body>
 
-  <h3>Deadline for Stage 1 (High-Level Design): Before class on May 4, 2009</h3>
+<i> <div align=right>
+  <a href="index.html"> CS 33 Home</a>
+</div> </i>
 
-  <h3 style="color:red">Deadline for Stage 2 (High-Level Design): 10:00pm sharp on May 11, 2009</h3>
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 33<br>
+    Information Systems<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Spring 2009<h3></td>
+</tr></table>
 
-  <h4 style="color:red">[This page will be updated from time to time]</h4>
+<hr>
+<h3>Administrative Details</h3> 
 
-  <p> Your course project will consist of conceiving, designing and
-  implementing a moderate-sized database application for an enterprise
-  of your choice (except for a bank, since a bank is used heavily in the
-  book as a running example). You <i>will not</i> need to implement an
-  actual DBMS: you should use MySQL instead. You <i>will</i> need to
-  implement an elegant and intuitive user-interface, which will almost
-  surely be Web-based. At this point, you have already used a connector
-  to work with a MySQL database while coding in a general-purpose
-  language. The textbook has some basic coverage of the other relevant
-  technologies that you might need: CGI, PHP and XML. We shall also
-  discuss these briefly in class, at the appropriate time. </p>
+<a name=hw></a>
+<h4>Homework</h4>
 
-  <p> The stages of this project will be as follows:
-  <ol>
+<p> Homework assignments will be given out roughly once a week.
+Typically, there will be a homework given out each Monday and a deadline
+will be posted prominently at the top of the homework. This <b>deadline
+will usually be 10pm sharp</b> the following Monday, but please do not
+count on that. All homework is to be <b>submitted electronically</b>
+using the homework submission form on the course website. </p>
 
-    <li> <b>High-Level Design:</b> Identify the entities, attributes and
-    relationships that your database will represent. Prepare a detailed
-    E-R diagram showing this information. Also, at this stage, identify
-    the potential users of the system, and what kinds of authorizations
-    they should have to access or modify the data in your database.
-    </li> <br/>
+A few important notes on the homework assignments:
 
-    <li> <b>Schema Design:</b> Translate your E-R diagram into a schema
-    for your relational database. Pay heed to normalization and be
-    prepared to reason cogently about (1) the level of normalization of
-    your database, and (2) any purposeful deviations from normal forms
-    and your justification for such deviations. Also, at this stage,
-    make a list of views that you might wish to create, based on the
-    varying needs or different types of users. </li> <br/>
+<ul>
 
-    <li> <b>SQL-Mania:</b> Prepare a large collection of SQL statements
-    for a number of natural queries and database updates that each of
-    your user types might want to perform. Populate your database with a
-    large amount of data and test your SQL statements. At this stage,
-    you should spend some time designing intelligent ways to generate
-    test data. Random is usually good, but <i>purely</i> random data may
-    hide problematic performance-busting corner cases, so you will have
-    to be cleverer than that. </li> <br/>
+  <li> Start early. I cannot emphasize this enough.</li>
 
-    <li> <b>The Application Layer:</b> Provide a suitable intuitive
-    interface (ideally, web-based) for each category of user that will
-    be using your database. When appropriate, you may combine interfaces
-    for multiple user types (as in, e.g., Dartmouth's Banner system).
-    You should also provide an interface for appropriately authorized
-    users to modify data (depending on your application, a web interface
-    might not be the best for this).  At this stage, you need not bother
-    about users lying to your system about their identity.  </li> <br/>
+  <li> On non-programming problems, where you simply have to write an
+  answer in English or mathematical notation, be concise. Needless long
+  or complex answer will lose credit, even if correct. </li>
 
-    <li> <b>Authentication:</b> Finally, implement a web-based
-    authentication system in preparation for a mock deployment of your
-    entire database application. In other words, ensure that your users
-    are not lying about their identities. </li> <br/>
+  <li> On programming problems, follow the input/output descriptions to
+  the letter. Your program's output may be checked by a script, and
+  scripts tend to be unforgiving of mistakes. </li>
 
-  </ol> </p>
+  <li> On programming problems, make sure your code is clean and
+  readable. Follow good programming practices: use layout well, name
+  variables meaningfully, and write explanatory comments whenever your
+  code seems to be getting complex. </li>
 
-  <p> The choice of what enterprise to build an application for is up to
-  you. Here are some suggestions to get you started. There is no
-  obligation to pick from one of these. 
+</ul>
 
-  <ul>
+<a name=late></a>
+<h4>Late Submission Policy</h4>
 
-    <li> Academics at a university. Your system will manage information
-    about students, professors and staff at the university, plus
-    courses, grades, prerequisites, majors, etc. This is only a starter
-    list.  Flesh this out as appropriate. </li>
+<p> Homework submitted after the published deadline (found at the top of
+the homework) is deemed late and will incur a penalty as follows: it
+will be graded as usual, and your score will then be multiplied by a
+<b>penalty factor</b> PF(<i>x</i>), where <i>x</i> is the number of
+minutes by which the submission is late (rounded down to an integer). 
+</p>
 
-    <li> An airline. Manage information about a fleet of aircraft,
-    flights, fuel purchases, customers, passengers, frequent flier
-    miles, airports, etc. Again, this is only a starter list and should
-    be fleshed out. </li>
+<p> The formula for this penalty factor is PF(<i>x</i>) = min{0.95,
+exp(-<i>x</i>/4320)}. Thus, the value of a late homework submission
+decays exponentially, with a half-life of just over two days, but with a
+minimum of a 5% penalty. Examples: work turned in five minutes late gets
+95% credit, one hour late gets 95% credit, six hours late gets 92.0%
+credit, one day late gets 71.7% credit, three days late gets 36.8%, and
+one week late gets 9.7%. </p>
 
-    <li> A hospital. You might want to interface with a toy
-    health-insurance system to make this interesting and complex.  There
-    are interesting authorization issues that arise here, and if you
-    decide to take up this topic, and you want to provide some realism
-    to your project, you ought to talk to people at DHMC to understand
-    these issues. </li>
+<a name=honorcode></a>
+<h4> Working Together and the Honor Principle </h4>
 
-  </ul> </p>
+<ul>
 
-  <br/>
+<li> Students are encouraged to discuss homework problems, but such
+discussion must be limited to an exchange of ideas. <b>Under no
+circumstances must you give/receive any code (whether a complete program
+or just a code fragment) to/from another student.</b> Further, every
+piece of code you turn in must be entirely your work, with no portions
+copied from any external sources (such as websites, or books other than
+the textbook). </li>
 
-  <h3>What to turn in (Stage 1)</h3>
-  <ul>
-    <li> By 5:00pm on Thu Apr 30, notify the professor and the TA about
-    your chosen project topic. A simple email will suffice. No two teams
-    can pick the exact same topic, so if you know early what you want to
-    do, then notify us early and "reserve" the topic!
-    </li> <br/>
+<li> It is acceptable to consult manuals, textbooks and websites for the
+sole purpose of learning some aspect(s) of a programming language. If
+you did so, please acknowledge the relevant sources in your submission.
+</li>
 
-    <li> Before class on Mon May 4, prepare (as a team) your E-R diagram
-    and information about potential users of your system. During class
-    that day, you will present this information to the class, and we
-    will critique everyone's high-level design as a class. Make sure
-    everyone on the team gets a chance to speak about some part of the
-    design. Plan a 10-12 minute presentation.
-    </li> <br/>
+<li> <b>Students may not consult the notes or homework solutions of
+another student or any solutions to homework problems in another course,
+including past offerings of this course.</b> </li>
 
-    <li> You need a way to show your E-R diagram to the entire class.
-    Good presentation software, such as Microsoft's PowerPoint, or
-    Apple's Keynote, is recommended. But feel free to use whatever
-    software you find useful.
-    </li> <br/>
-  </ul>
+<li> Thus, what you turn in as a homework solution is to be <i>your own
+work, entirely</i>. </li>
 
-  <br/>
+<li> The honor principle applies to quizzes and exams as follows.
+<b>Students may not give/receive assistance of any kind on an exam
+to/from any person, including the professor</b>. </li>
 
-  <h3 style="color:red">What to turn in (Stage 2)</h3>
-  <ul>
-    <li> Describe the schema for your database in a suitably formatted
-    document. You can use LaTeX to create a PDF (as in some of the
-    homeworks), or you can use MS Word or a similar program to produce
-    your document. </li> <br/>
+<li> If an exam is closed-book, consulting any source at all is a
+violation of the honor code. </li>
 
-    <li> Write an SQL script to create the tables in your database,
-    declaring appropriate types for each attribute, and including the
-    appropriate basic integrity constraints, such as primary key,
-    foreign key, not null, etc. Your script should also create views
-    that particular users will have access to. (It's likely that you
-    will have to add some more views at a later stage of the project,
-    but you should think through the design deeply so you already have
-    close to a complete set of views.) </li> <br/>
+</ul>
 
-    <li> Submit the two documents (the schema description, and the SQL
-    script) as "Homework 4", using the homework submission form. Only
-    one member of each team needs to submit. </li> <br/>
-  </ul>
+<h4> Students with Disabilities </h4>
 
-</div>
+Students with disabilities enrolled in this course and who may need
+disability-related classroom accommodations are encouraged to make an
+appointment with the professor to discuss the matter, by Apr 17, 2009.
+All discussions will remain confidential, although the Student
+Accessibility Services office may be consulted to discuss appropriate
+implementation of any accommodation requested.
+
+<hr>
+
+<i> <div align=right>
+  <a href="index.html"> CS 33 Home</a>
+</div> </i>
 
 </body></html>
-mi
+beri

@@ -1,8 +1,8 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS105-Winter05
+http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall04
 3
 <html><head>
   <link rel="stylesheet" type="text/css" href="/~ac/main.css">
-  <title>CS 105 (Winter 2005): Amit Chakrabarti</title>
+  <title>CS 39 (Fall 2004): Amit Chakrabarti</title>
 </head>
 
 <body>
@@ -20,411 +20,439 @@ http://www.cs.dartmouth.edu/~ac/Teach/CS105-Winter05
     <a href="http://www.dartmouth.edu">Dartmouth College</a>
   </td>
   <td valign=middle align=center>
-    <h3>Computer Science 105<br>
-    Algorithms (Graduate Level) <br><br>
+    <h3>Computer Science 39<br>
+    Theory of Computation<br><br>
     <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
   </td>
-  <td valign=middle align=right><h3>Winter 2005<h3></td>
+  <td valign=middle align=right><h3>Fall 2004<h3></td>
 </tr></table>
 <center>
   [ <a href="#announcements">Announcements</a> |
   <a href="#admin">Administrative Basics</a> |
-  <a href="#handouts">Handouts</a> |
-  <a href="#scribe">Scribe Notes</a> |
-  <a href="#journal">Course Journal</a> ]
+  <a href="#lectures">Schedule and Homeworks</a> |
+  <a href="#solutions">Solutions</a> |
+  <a href="#scores">Grades Database</a> ]
+
 </center>
+
+<!-- ------------------------------------------------ -->
 
 <hr>
 <h3>Course Description</h3> 
 
-<p> In this course we shall advanced topics in the area of computer
-algorithms.  Since Algorithms as a field of research is extremely vast,
-any choice of topics will necessarily cover only a tiny fraction of the
-field. The choices made for this course will lean towards relatively
-recent basic research work in algorithms in order to give computer
-science graduate students (the intended audience) a feel for what
-working in algorithms is like. </p>
+<p> This course serves as an introduction to formal models of languages
+and computation. Topics covered include finite automata, regular
+languages, context-free languages, pushdown automata, Turing machines,
+computability, and NP-completeness. </p>
 
-<p> A strong mathematical background and a love of mathematical reasoning
-are expected and may be required frequently. </p>
+<p> It is expected that a student who enrols for this course <i>already
+knows how to write mathematical proofs</i> and is generally
+mathematically mature. If a student passes this basic criterion and is
+interested in thinking philosophically about what a computer can or
+cannot do, then this course should be great fun. </p>
+
+<!-- ------------------------------------------------ -->
 
 <hr>
 
 <a name="announcements"></a>
 <h3>Announcements</h3> 
 
-  <ul>
+  <ul> 
 
-    <li> [Mar 9] Some <a href="Homeworks/hw2-sol.pdf">solutions to
-    HW2</a> have been posted. You are free to refer to them, and to
-    everything else linked from this page, while working on your final
-    exam.
+    <li> [Nov 30] <b>The final exam is ready!</b> 
+    <a href="Exams/final.pdf"> Click here</a> to access the exam. There
+    are general instructions on page 1 which you may look at before you
+    are ready to start. But once you look at page 2, your time has
+    started and you must turn in the exam within 48 hours. <b>Please
+    turn in the exam into Chakrabarti's mailbox</b> and not Huang's.
 
-    <li> [Mar 7, 6pm] The <a href="Homeworks/final.pdf"><b><font
-    color=red>final exam is here</font></b></a>. Please read it and
-    think a little about each problem before class on Wednesday. The
-    exam is due Mar 14, 5pm sharp.
+    <li> [Nov 22] For those who stuck around after today's class to muse
+    about programs that print themselves out, here is an <a
+    href="http://www.its.caltech.edu/~boozer/symbols/programs.html">excellent
+    writeup</a> about such programs and how they work.
 
-    <li> [Mar 4] Play around with the applet at <a
-    href="http://www.i.kyushu-u.ac.jp/~takeda/PM_DEMO/e.html">this
-    website</a> to gain some intuition for the KMP algorithm.
+    <li> [Nov 12] The two Turing Machine applets shown in class on Nov 9
+    are <a href="http://www.igs.net/~tril/tm/tm.html">here</a> and <a
+    href="http://www.igs.net/~tril/tm/tm.html">here</a>.
 
-    <li> [Feb 21, 6pm] A change has been made to clarify problem 3 in
-    HW2. Please reload the homework in your browser.
+    <li> [Oct 24] Some explanations and examples have been added to HW4
+    that should answer some basic questions you may have about
+    equivalence classes.
 
-    <li> [Feb 19] Some <a href="Homeworks/hw1-sol.pdf">solutions to
-    HW1</a> have been posted. Please read and compare with your own
-    solutions.
+    <li> [Oct 5] The administrative details page has a new section
+    titled <a href="admindetails.html#challenges">"challenge
+    problems"</a> which talks about certain extra credit problems that
+    will show up on the homeworks from time to time.  Please read that
+    section carefully.
 
-    <li> [Feb 16] The second and final homework, 
-    <a href="Homeworks/hw2.pdf">Homework 2</a>, is up on
-    the website and is due Feb 28, before class.
+    <li> [Oct 1] The slides used for the first three lectures are now up
+    on the website; see the schedule table.
 
-    <li> [Feb 3] Problem 2 in the homework has been spelled out to take
-    care of different versions of Problem 11-4 in different printings of
-    [CLRS]. Please make sure you're solving the correect problem in your
-    homework!
+    <li> [Sep 28] Homeowrk 1 is ready and is due on Oct 6 at the
+    <i>start</i> of class. To get to the homework, click the link in the
+    <a href="#lectures">schedule table</a>. If you are unable to view or 
+    print the homework, let the instructor know right away. Please review 
+    the guidelines for homeworks on the <a href="admindetails.html">
+    administrative details</a> page.
 
-    <li> [Jan 26] <a href="Homeworks/hw1.pdf">Homework 1</a> is up on
-    the website and is due Feb 7, before class.
-
-    <li> [Jan 3] You will be required to use LaTeX for your work in this
-    course. Homework 0 tests your proficiency with LaTeX; please take it
-    seriously and do it ASAP.
+    <li> [Sep 22] Please send a blitz to the instructor with your name
+    (only first and last name, no initials) and a password for
+    accessing your grades in the grades database.
 
   </ul>
+
+
+<!-- ------------------------------------------------ -->
 
 <hr>
 
 <a name="admin"></a>
 <h3>Administrative Basics</h3>
 
+<b>Important!</b> Please also read and familiarize yourself with the <a
+href="admindetails.html">administrative details</a> not covered in the
+outline below. Pay special attention to the section that describes <a
+href="admindetails.html#honorcode">how the honor code applies to this
+course</a>; violations of the honor code <i>will</i> be treated
+seriously.<p><br>
+
 <table cellpadding=2>
-  <tr><td valign=top><b>Lecture</b> <br><br></td> 
+  <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
     <td valign=top> 
-      Sudikoff 214 | 10 hour | MWF 10:00-11:05, X-hr Th 12:00-12:50
+      Sudikoff 115 | 12 hour | MWF 12:30-13:35, X-hr T 13:00-13:50
     </td>
   </tr>
   <tr><td valign=top><b>Instructor</b> <br><br> </td> 
     <td valign=top> 
       <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 107 | 6-1710 | 
-      Office hours: MW 11:30-12:30 and 15:00-16:00; also by appointment
+      Office hours: MF 10:00-11:30 or by appointment
+    </td>
+  </tr>
+  <tr><td valign=top><b>Teaching Assistant</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~villars">Chien-Chung Huang</a> | Sudikoff 221 | 6-8753 | 
+      Office hours: TTh 16:15-18:15
     </td>
   </tr>
   <tr><td valign=top><b>Textbook</b> <br><br></td> 
-    <td valign=top> <dl>
-      <dt> Required: none </dt><br>
-
-      <dt> Recommended: </dt>
-      <dd> "Introduction to Algorithms", by Cormen, Leiserson, Rivest
-      and Stein, MIT Press. </dd>
-      <dd> "Randomized Algorithms", by Motwani and Raghavan, Cambridge
-      University Press. </dd>
-      <br>
-    </dl> </td>
+    <td valign=top> 
+      Required: <br>&nbsp;&nbsp;
+      <a href="http://www-math.mit.edu/~sipser/book.html">
+      "Introduction to the Theory of Computation."</a> &nbsp; 
+      Michael Sipser. <br>
+      Suggested additional reading (not required): <br>&nbsp;&nbsp;
+      <a href="http://images.amazon.com/images/P/020102988X.01.LZZZZZZZ.jpg">
+      "Introduction to Automata Theory, Languages and Computation."</a> &nbsp; 
+      J. E. Hopcroft and J. D. Ullman. <br><br>
+    </td>
   </tr>
   <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
     <td valign=top> 
-      CS 25, CS 39 <br>
+      CS 25, or <br>
+      a <i>strong</i> mathematics backround and permission of the
+      instructor <br><br>
     </td>
   </tr>
   <tr><td valign=top><b>Work</b> <br><br> </td> 
     <td valign=top>
-      Scribing and preparing lecture notes for one week.<br>
-      Class presentation on one of the topics in the list, or 
-      a related topic of the student's choosing.<br>
-      Two homeworks.<br>
-      One take-home final exam, due around March 15 (date to be
-      confirmed later).
-    </td>
+      One homework per week. [35 points] <br>
+      Two in-class quizzes. [15 points] <br>
+      One take-home midterm. [20 points] <br>
+      One take-home final exam. [30 points]  <br>
+      <br>
+      Please take note of the <a href="admindetails.html#late">late 
+      homework policy</a>. <br><br>
   </tr>
 </table>
 
-<hr>
-
-<a name="handouts"></a>
-<h3>Handouts</h3> 
-
-  <p> Handouts are accessible only from within Dartmouth, for
-  copyright reasons.</p>
-
-  <ol>
-    <li> <a href="Handouts/fks-perfecthash.pdf">
-      "Storing a Sparse Table with O(1) Worst Case Access Time"</a>.
-      Fredman, Komlos, Szemeredi. JACM 31(3), 1984, pp. 538-544.
-    <li> <a href="Handouts/st-splaytrees.pdf">
-      "Self-Adjusting Binary Search Trees"</a>.
-      Sleator, Tarjan. JACM 32(3), 1985, pp. 652-686.
-    <li> <a href="Handouts/stoerwagner-mincut.pdf">
-      "A Simple Min-Cut Algorithm"</a>.
-      Stoer, Wagner. JACM 44(4), 1997, pp. 585-591.
-    <li> <a href="Handouts/kkt-mst.pdf">
-      "A Randomized Linear-Time Algorithm to Find Minimum Spannning Trees"</a>.
-      Karger, Klein, Tarjan. JACM 42(2), 1995, pp. 321-328.
-    <li> <a href="Handouts/buchsbaum-mst-verif.ps">
-      "Linear-Time Pointer-Machine Algorithms for Least Common
-      Ancestors, MST Verification, and Dominators"</a>.
-      Buchsbaum, Kaplan, Rogers, Westbrook. STOC 1998.
-    <li> Two sets of notes on maximum matching algorithms: <a
-      href="Handouts/vempala-blossom.pdf">Vempala's notes</a> (detailed)
-      and <a href="Handouts/tarjan-blossom.pdf">Tarjan's notes</a> (very
-      concise).
-    <li> Khanh Do Ba's <a href="Notes/superstring.pdf">lecture
-      notes</a> for his lecture on the shortest superstring problem.
-  </ol>
+<!-- ------------------------------------------------ -->
 
 <hr>
 
-<a name="scribe"></a>
-<h3>Scribe Notes</h3>
+<a name="lectures"></a>
+<h3>Schedule and Homeworks</h3> 
 
-Here are the unedited scribe notes. I will try to edit and collate these
-some time soon. 
+<p> This schedule will be updated frequently. Please check back often,
+and please remember to hit the RELOAD button to get the latest
+schedule. </p>
+
+<p> For now, the dates in the table below are totally inaccurate, as
+should be obvious. </p>
+
+<table border=1 cellpadding=2 cellspacing=1>
+<tr>
+  <td valign=top><p class=hdr>Date</p></td>
+  <td><p class=hdr>Reading Due</p></td>
+  <td><p class=hdr>Homework Due</p></td>
+  <td><p class=hdr>Class Topic</p></td>
+</tr><tr>
+  <td valign=top> Sep 22 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Welcome, administrivia, overview; Mathematical notation 
+    (<a href="SlidesAndNotes/lec01.pdf">slides</a>)</td>
+</tr><tr>
+  <td valign=top> Sep 24 </td>
+  <td> 0.1, 0.2, 0.3 </td>
+  <td> &mdash; </td>
+  <td> Types of proof: by construction, by contradiction, by induction
+    (<a href="SlidesAndNotes/lec02.pdf">slides</a>)</td>
+</tr><tr>
+  <td valign=top> Sep 27 </td>
+  <td> 0.4 </td>
+  <td> &mdash; </td>
+  <td> Strings and languages; Finite automata introduced
+    (<a href="SlidesAndNotes/lec03.pdf">slides</a>)</td>
+</tr><tr>
+  <td valign=top> Sep 28 (X-hr) </td>
+  <td> 1.1 up to p34 </td>
+  <td> &mdash; </td>
+  <td> More on (deterministic) finite automata; Understanding the behavior 
+    of specific DFAs</td>
+</tr><tr>
+  <td valign=top> Sep 29 </td>
+  <td> 1.1 </td>
+  <td> &mdash; </td>
+  <td> Designing DFAs; Formal definition of a DFA  </td>
+</tr><tr>
+  <td valign=top> Oct 1 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Formal definition of DFA recap; DFA computation formalized; NFA
+    introduced</td>
+</tr><tr>
+  <td valign=top> Oct 4 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Designing NFAs; Union of two regular languages is regular </td>
+</tr><tr>
+  <td valign=top> Oct 5 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> The concatenation of two regular languages is regular; Kleene 
+  star defined </td>
+</tr><tr>
+  <td valign=top> Oct 6 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw1.pdf">HW1</a> </td>
+  <td> Regular expressions; Equivalence of DFAs, NFAs and regular 
+  expressions, I </td>
+</tr><tr>
+  <td valign=top> Oct 8 </td>
+  <td> 1.2 </td>
+  <td> &mdash; </td>
+  <td> Equivalence of DFAs, NFAs and regular expressions, II </td>
+</tr><tr>
+  <td valign=top> Oct 11 </td>
+  <td> 1.3 </td>
+  <td> &mdash; </td>
+  <td> Equivalence of DFAs, NFAs and regular expressions, III 
+  (<a href="SlidesAndNotes/dfa2regexp.pdf">lecture notes</a>) </td>
+</tr><tr>
+  <td valign=top> Oct 12 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Example of DFA to RegExp conversion; The pumping lemma </td>
+</tr><tr>
+  <td valign=top> Oct 13 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw2.pdf">HW2</a> </td>
+  <td> Applications of the pumping lemma; Closure properties of regular
+  languages </td>
+</tr><tr>
+  <td valign=top> Oct 15 </td>
+  <td> 1.4 </td>
+  <td> &mdash; </td>
+  <td> Problem solving session, led by Chien-Chung Huang </td>
+</tr><tr>
+  <td valign=top> Oct 18 </td>
+  <td> Chapter 1 </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> Quiz 1: closed-notes, in-class </td>
+</tr><tr>
+  <td valign=top bgcolor=#ff4444> Oct 19 (X-hr) </td>
+  <td align=center colspan=3 bgcolor=#ff4444> No lecture today </td>
+</tr><tr>
+  <td valign=top> Oct 20 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw3.pdf">HW3</a> </td>
+  <td> Pushdown automata (guest lecture by <a
+  href="http://www.cs.dartmouth.edu/~spetrovic/">Srdjan Petrovic</a>) </td>
+</tr><tr>
+  <td valign=top> Oct 22 </td>
+  <td> 2.2 </td>
+  <td> &mdash; </td>
+  <td> More examples of PDAs; Closure (or not) properties </td>
+</tr><tr>
+  <td valign=top> Oct 25 </td>
+  <td> 2.2 (reread) </td>
+  <td> &mdash; </td>
+  <td> Closure and non-closure properties continued; PDA for
+    not-<i>ww</i> </td>
+</tr><tr>
+  <td valign=top> Oct 26 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Context-free grammars; Examples </td>
+</tr><tr>
+  <td valign=top> Oct 27 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw4.pdf">HW4</a> </td>
+  <td> Equivalence of CFGs and PDAs, I (CFG to PDA, informal) </td>
+</tr><tr>
+  <td valign=top> Oct 29 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Equivalence of CFGs and PDAs, II 
+    (CFG to PDA, formal; PDA to CFG, idea)</td>
+</tr><tr>
+  <td valign=top> Nov 1 </td>
+  <td> 2.1 </td>
+  <td> &mdash; </td>
+  <td> Equivalence of CFGs and PDAs, III (PDA to CFG, almost formal)</td>
+</tr><tr>
+  <td valign=top bgcolor=#ff4444> Nov 2 (X-hr) </td>
+  <td align=center colspan=3 bgcolor=#ff4444> No lecture today </td>
+</tr><tr>
+  <td valign=top> Nov 3 </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> <a href="Exams/mid.pdf"><b>Midterm</b></a> </td>
+  <td> Chomsky normal form; Pumping lemma for context-free languages </td>
+</tr><tr>
+  <td valign=top> Nov 5 </td>
+  <td> 2.3 </td>
+  <td> &mdash; </td>
+  <td> Proof and applications of the pumping lemma for CFLs </td>
+</tr><tr>
+  <td valign=top> Nov 8 </td>
+  <td> Chapter 2 </td>
+  <td> &mdash; </td>
+  <td> Turing machines; Informal description and simple examples </td>
+</tr><tr>
+  <td valign=top> Nov 9 (X-hr) </td>
+  <td> 3.1 up to p133 </td>
+  <td> &mdash; </td>
+  <td> Formal definition of TMs; A TM solution for
+    {0<sup>n</sup>1<sup>n</sup>2<sup>n</sup>: n &ge; 0} </td>
+</tr><tr>
+  <td valign=top> Nov 10 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw5.pdf">HW5</a> </td>
+  <td> Configurations, deciders/recognizers, multi-tape TMs
+    (<a href="SlidesAndNotes/lec26.pdf">slides</a>)</td>
+  </td>
+</tr><tr>
+  <td valign=top> Nov 12 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Closure properties of decidable languages; Nondeterministic TMs
+    (<a href="SlidesAndNotes/lec27.pdf">slides</a>)</td>
+</tr><tr>
+  <td valign=top> Nov 15 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Church-Turing Thesis; Enumerator TMs </td>
+</tr><tr>
+  <td valign=top> Nov 16 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> Quiz 2: closed-notes, in-class </td>
+</tr><tr>
+  <td valign=top> Nov 17 </td>
+  <td> Chapter 3 </td>
+  <td> <a href="Homeworks/hw6.pdf">HW6</a> </td>
+  <td> Decision problems for the major language classes:
+    A<sub>DFA</sub>, A<sub>CFG</sub> and A<sub>TM</sub> </td>
+</tr><tr>
+  <td valign=top> Nov 19 </td>
+  <td> 4.1 <font color=#808080>(and 4.2 ?)</font> </td>
+  <td> &mdash; </td>
+  <td> Undecidability of A<sub>TM</sub> and the halting problem; 
+    E<sub>DFA</sub>, E<sub>CFG</sub> and E<sub>TM</sub>;
+    <span style="text-decoration: overline">A</span><sub>TM</sub> </td>
+</tr><tr>
+  <td valign=top> Nov 22 </td>
+  <td> 4.2 </td>
+  <td> &mdash; </td>
+  <td> Reduction from A<sub>TM</sub> to E<sub>TM</sub>; Undecidability
+    of ALL<sub>CFG</sub> </td>
+</tr><tr>
+  <td valign=top> Nov 23 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw7.pdf">HW7</a> </td>
+  <td> More undecidable CFG problems; time complexity, P and NP </td>
+</tr><tr>
+  <td valign=top> Nov 29 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> NP-completeness and polynomial time reductions 
+    (<a href="SlidesAndNotes/lec33.pdf">slides</a>)</td>
+</tr><tr>
+  <td valign=top> Nov 30 (X-hr) </td>
+  <td> 7.5 </td>
+  <td> &mdash; </td>
+  <td> The Cook-Levin theorem </td>
+</tr><tr>
+  <td valign=top> Dec 1 </td>
+  <td> 7.4 </td>
+  <td> <a href="Homeworks/hw8.pdf">HW8 (optional)</a> </td>
+  <td> Wrap up </td>
+</tr><tr>
+  <td valign=top bgcolor=#00ff00> Dec 7 </td>
+  <td align=center colspan=3 bgcolor=#00ff00> Take-home 48-hour <a
+  href="Exams/final.pdf"><b>final exam</b></a>, due at 6:00pm sharp </td>
+
+</table><p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name=solutions></a>
+<h3>Solutions to Homework and Exam Problems</h3>
 
 <ul>
-  <li> <a href="Notes/sinclair-scribe.pdf">Probability theory and hashing</a> 
-  (Sara Sinclair)
-  <li> <a href="Notes/huang-scribe.ps">Splay trees</a> 
-  (Chien-Chung Huang)
-  <li> <a href="Notes/loomis-scribe.ps">Min cut</a> 
-  (Anne Loomis)
-  <li> <a href="Notes/moseman-scribe.pdf">Minimum spanning trees</a> 
-  (Elizabeth Moseman)
-  <li> <a href="Notes/magar-scribe.ps">MST verification</a>
-  (Rajendra Magar)
-  <li> <a href="Notes/kavathekar-scribe.pdf">Maximum matching</a>
-  (Paritosh Kavathekar)
-  <li> Approximation algorithms:
-  <a href="Notes/wan-ba-scribe.pdf">vertex cover, TSP</a>, 
-  <a href="Notes/wan-ba-notes.pdf">set cover and shortest superstring</a>
-  (Valika Wan and Khanh Do Ba) 
-  <li> Weighted vertex cover and subset sum</a> (Soumendra Nanda) 
-  [ <a href="Notes/nanda-scribe-1.pdf">One</a> |
-  <a href="Notes/nanda-scribe-2.pdf">Two</a> |
-  <a href="Notes/nanda-scribe-3.pdf">Three</a> ]
-  <li> <a href="Notes/georgiev-scribe.pdf">String matching</a>
-  (Ivelin Georgiev) 
+  <li> <a href="Homeworks/hw1-sol.pdf">Solutions to HW1</a>
+  <li> <a href="Homeworks/hw2-sol.pdf">Solutions to HW2</a>
+  <li> <a href="Homeworks/hw3-sol.pdf">Solutions to HW3</a>
+  <li> <a href="Homeworks/hw4-sol.pdf">Solutions to HW4</a>
+  <li> <a href="Homeworks/hw5-sol.pdf">Solutions to HW5</a>
+  <li> <a href="Homeworks/hw6-sol.pdf">Solutions to HW6</a>
+  <li> <a href="Homeworks/hw7-sol.pdf">Solutions to HW7</a>
+  <li> <a href="Homeworks/hw8-sol.pdf">Solutions to HW8</a>
+  <li> <a href="Exams/quiz1-sol.pdf">Solutions to Quiz 1</a>
+  <li> <a href="Exams/quiz2-sol.pdf">Solutions to Quiz 2</a>
+  <li> <a href="Exams/mid-sol.pdf">Solutions to Midterm Exam</a>
 </ul>
 
-<hr>
-
-<a name="journal"></a>
-<h3>Course Journal, Homeworks</h3> 
-
-  <b>Week 1</b>
-  <ul>
-    <li> <b>Homework Zero:</b> Learn to typeset mathematical writing using
-    LaTeX, by the first day of class (i.e., January 5). Then, typeset at
-    least one page of one of these two PDF documents: <a
-    href="Handouts/02-buffertrees.pdf">Doc 1</a> or <a
-    href="Handouts/05-mincut.pdf">Doc 2</a>.  Submit your ".tex" and
-    ".pdf" files by the second day of class (i.e., January 7).
-
-    <li> We reviewed the basics of random variables and expectation,
-    then defined the concept of a family of universal hash functions. We
-    bounded the expected search time, under a universal hashing scheme
-    with linear probing to resolve collisions, to be 1 + (load factor).
-  </ul>
-
-  <b>Week 2</b>
-  <ul>
-    <li> We showed how to construct a simple number-theory-based family
-    of universal hash functions and proved the universality of this
-    family. We then discussed perfect hashing and showed how an
-    easy-to-compute perfect hash function could be constructed if only 
-    we were allowed a quadratic-sized hash table.
-
-    <li> Using two-level hashing with universal hash functions, we
-    showed how to build an overall O(<i>n</i>)-sized hash structure for
-    storing n keys. The construction was randomized. We showed that it
-    is expected to succeed within O(<i>n</i>) time.
-
-    <li> Sara Sinclair showed how to improve upon the above construction
-    and get the storage space down to (<i>n</i> + o(<i>n</i>)), for
-    <i>n</i> keys.
-
-    <li> We discussed splay trees, described the splaying operation and
-    the potential function used in the amortized analysis of the cost of
-    splaying.
-  </ul>
-
-  <b>Week 3</b>
-  <ul>
-    <li> We completed the proof of the access lemma, which bounds the
-    amortized cost of splaying. Using it, we proved the Balance Theorem
-    (total access time bound) and the Static Optimality Theorem for
-    splay trees. We had to skip the Static Finger Theorem for lack of
-    time.
-
-    <li> Chien-Chung proved the Static Finger Theorem and the Long Splay
-    Theorem. He described how to perform updates
-    (join/split/insert/delete) on splay trees and also presented
-    (without proof) the Snapshot Theorem. There are many more things
-    about splay trees discussed in the paper but unfortunately our
-    course is too short to do them all justice, so we must move on.
-
-    <li> After recalling the definition of a min cut and considering how
-    it can be computed using (<i>n</i> &ndash; 1) "parallel" max flow
-    computations, we described Karger's contraction-based randomized
-    algorithm. We analysed it to obtain a running time of
-    O(<i>n</i><sup>4</sup> log <i>n</i>) and a success probability of (1
-    &ndash; <i>n<sup>&ndash;c</sup></i>) for any positive constant
-    <i>c</i>.
-  </ul>
-
-  <b>Week 4</b>
-  <ul>
-    <li> We described a recursive contraction-based algorithm for min
-    cut that achieves a run time of O(<i>n</i><sup>2</sup>
-    log<sup>3</sup><i>n</i>) and a success probability of (1 &ndash;
-    <i>n<sup>&ndash;c</sup></i>) for any positive constant <i>c</i>.
-    This, therefore, beats the best known max flow time bound as well as
-    the best known deterministic time bound (to be described next).
-
-    <li> Anne Loomis described what is currently the fastest (and
-    simplest) known deterministic min cut algorithm, due to Stoer and
-    Wagner. She analyzed its running time, proved its correctness and
-    showed us an example run.
-
-    <li> <b>Homework One:</b> <a href=Homeworks/hw1.pdf>Here it is.</a>
-    This is due on Mon Feb 7, before class. Please read <i>all</i> the
-    instructions carefully before you start. Have fun solving!
-
-    <li> Minimum Spanning Tree (MST) was our new topic. We studied basic
-    graph-theoretic properties of spanning trees, leading up to what
-    we're calling the "Switch Theorem". We described the <i>Red Rule</i>
-    and the <i>Blue Rule</i> for MSTs and proved the correctness of the 
-    Red Rule.
-  </ul>
-
-  <b>Week 5</b>
-  <ul>
-    <li> We proved the correctness of the Blue Rule. After considering
-    the colourful history of MST algorithms, we described the three
-    classic algorithms: Kruskal's, Prim's and Boruvka's.  We proved
-    their correctness using the Red Rule, Blue Rule and Blue Rule
-    respectively.
-
-    <li> We defined the concept of F-heavy edges in a graph, with
-    respect to a sub-forest F. Then we described the Karger-Klein-Tarjan
-    randomized MST (actually MSF, minimum spanning forest) algorithm and
-    proved its correctness using the Red and Blue rules and induction.
-
-    <li> Elizabeth Moseman analyzed the worst case and the exected
-    running times of the Karger-Klein-Tarjan algorithm. The latter turns
-    out to be linear, provided we assume that MST verification can be
-    done in linear time. Lizz also gave intuition for why the algorithm
-    finishes in linear time with very high probability.
-
-    <li> We considered the MST verification problem, which makes up the
-    last and most complicated piece of the Karger-Klein-Tarjan MST
-    algorithm. We discussed how to perform <i>m</i> least common
-    ancestor (LCA) computations in a rooted <i>n</i>-vertex
-    <i>l</i>-leaf tree in time O(<i>m&alpha;(m,l) + n</i>). We then
-    introduced the <i>microtree technique</i> and gave intuition for why
-    it might help reduce the running time to O(<i>m + n</i>). We shall
-    eventually use LCA computations to do MST verification.
-  </ul>
-
-  <b>Week 6</b>
-  <ul>
-    <li> Rajendra Magar gave some details of the microtree technique. He
-    then described an O(<i>m&alpha;(m,l) + n</i>)-time MST verification
-    algorithm very similar to last time's LCA algorithm.  Finally, he
-    gave a brief outline of how to reduce the running time to O(<i>m +
-    n</i>) using the microtree technique and further tricks.
-
-    <li> We considered the maximum matching problem. We defined
-    augmenting paths and proved Berge's Theorem which gave us the
-    nucleus of a polynomial time maximum matching algorithm.
-
-    <li> The carnival holiday ate up one class.
-  </ul>
-
-  <b>Week 7</b>
-  <ul>
-    <li> We considered a forest-growing algorithm for finding an
-    augmenting path. It turned out that to make it work we had to assume
-    that the input graph was bipartite. This led to a maximum matching
-    algorithm for bipartite graphs.
-
-    <li> Paritosh Kavathekar proved a cycle-shrinking lemma which helped
-    us modify the previous algorithm suitably to get an algorithm that
-    worked on general graphs. This was, in essence, Edmond's famous
-    "shrinking blossoms" algorithm.
-
-    <li> <b>Homework Two:</b> <a href=Homeworks/hw2.pdf>Here it is.</a>
-    This is due on Mon Feb 28, before class. As before, please read
-    <i>all</i> the instructions carefully before you start. Do not
-    forget to have fun solving these!
-
-    <li> We defined the notion of approximation algorithms (for
-    minimization problems) and gave a simple 2-approximation algorithm
-    for the NP-hard minimum vertex cover problem.
-  </ul>
-  
-  <b>Week 8</b>
-  <ul>
-    <li> We considered approximation algorithms for the  traveling 
-    salesman problem (TSP). We showed that finding a k-approximation, 
-    for any constant k, is NP-hard. Then we considered the more 
-    specialized <i>metric</i> TSP for which we gave a 2-approximation
-    algorithm.
-
-    <li> Valika Wan introduced the set cover problem and gave a greedy
-    algorithm with approximation ratio <i>H(d</i><sub>max</sub><i>)</i>,
-    where <i>d</i><sub>max</sub> is the size of the largest set in the
-    instance and <i>H(k)</i> is the <i>k</i><sup>th</sup> harmonic
-    number. On a universe of size <i>n</i>, this is therefore a (log
-    <i>n</i> + O(1))-approximation algorithm.
-
-    <li> Khanh Do Ba introduced the shortest superstring problem and
-    used a set cover approximation algorithm as a subroutine to obtain a
-    (2<i>H<sub>n</sub></i>)-approximation. In fact he needed an
-    approximation algorithm for <i>weighted</i> set cover, but noted
-    that the algorithm presented by Valika handles that too.
-
-    <li> Linear programs are an extremely important tool in designing
-    approximation algorithms. We introduced linear programs (LPs) and
-    noted that there are known algorithms that solve LPs in polynomial
-    (but not strongly polynomial) time. We formulated the vertex cover
-    problem as in integer program (IP), relaxed this IP to an LP, and
-    "rounded" the fractional optimal solution to the LP to a solution to
-    the IP to get a 2-approximation.
-  </ul>
-
-  <b>Week 9</b>
-  <ul>
-    <li> We obtained an O(log <i>n</i>)-approximation for weighted
-    set cover using the LP rounding technique. This time our rounding
-    algorithm was randomized.
-
-    <li> Soumendra Nanda presented a PTAS for the subset sum problem.
-
-    <li> Our final problem is string matching. We saw the linear time
-    Knuth-Morris-Pratt algorithm, which maintains a left pointer and a
-    right pointer into the text to be searched and cleverly updates
-    them to skip over unnecessary comparisons. The algorithm requires a
-    preprocessing step which is itself a computationally interesting
-    problem.
-  </ul>
-
-  <b>Week 10</b>
-  <ul>
-    <li> Ivelin Georgiev described the preprocessing step used in the
-    KMP algorithm. This step computes, for every prefix <i>p</i> of the 
-    pattern, the longest proper prefix of <i>p</i> that is also a
-    suffix of <i>p</i>. Ivelin showed how to do the whole thing in
-    linear time. The proof of correctness is quite complicated.
-
-    <li> Here is the <a href="Homeworks/final.pdf"><b><font
-    color=red>final exam</font></b></a>.
-
-    <li> Final remarks.
-  </ul>
+<!-- ------------------------------------------------ -->
 
 <hr>
 
+<a name=scores></a>
+<h3>Grades Database</h3>
+
+<p> If you are a registered student, you may verify your grades as
+entered in our database using the form below. </p>
+
+<form
+  method=post
+  action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs39/glookup.cgi">
+    <table><tr>
+      <td>Your name, without initials or suffixes:</td>
+      <td><input type=text name=name size=25></td>
+    <tr>
+      <td>Your CS 39 password:</td>
+      <td><input type=password name=password size=25></td>
+    </table>
+    <p>
+    <input type=submit name=submit value="Check scores">
+</form>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
 
 <i> <div align=right>
   <a href="../"> Teaching</a> &nbsp &nbsp
@@ -432,3 +460,4 @@ some time soon.
 </div> </i>
 
 </body></html>
+a 2-appi

@@ -1,17 +1,40 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR95-259
+http://www.cs.dartmouth.edu/reports/abstracts/TR95-258
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR95-259 </TITLE>
-<META NAME="description" CONTENT="A Multiple Discrete Pass Algorithm on a DEC Alpha 2100">
-<META NAME="number" CONTENT="PCS-TR95-259">
+<TITLE> Dartmouth PCS-TR95-258 </TITLE>
+<META NAME="description" CONTENT="TIAS: A Transportable Intelligent Agent System">
+<META NAME="number" CONTENT="PCS-TR95-258">
 <META NAME="year" CONTENT="1995">
-<META NAME="title" CONTENT="A Multiple Discrete Pass Algorithm on a DEC Alpha 2100">
-<META NAME="abstract" CONTENT="">
-<META NAME="author" CONTENT="Scott R. Cushman">
+<META NAME="title" CONTENT="TIAS: A Transportable Intelligent Agent System">
+<META NAME="abstract" CONTENT="In recent years, there has been an explosive growth in the amount of
+information available to our society.  In particular, the amount of information
+available on-line through vast networks like the global Internet has been
+growing at a staggering rate.  This growth rate has by far exceeded the rate of
+growth in network speeds, as has the number of individuals and organizations
+seeking access to this information.  There is thus a motivation to find
+abstract methods of manipulating this on-line data in ways that both serve the
+needs of end users efficiently and use network resources intelligently.  In
+lieu of a traditional client-server model of information processing, which is
+both inflexible and potentially very inefficient, a Transportable Intelligent
+Agent system has the potential to achieve a more efficient and flexible network
+system.  An intelligent agent is a program that models the information space
+for a user, and allows the user to specify how the information is to be
+processed.  A transportable agent can suspend its execution, transport itself
+to a new location on a network, and resume execution at the new location.  This
+is a particularly attractive model for both wireless and dialup networks where
+a user might not be able to maintain a permanent network connection, as well as
+for situations where the amount of information to be processed is large
+relative to the network bandwidth.  Preliminary work in the field has shown
+that such agent systems are possible and deserve further study.  This thesis
+describes a prototype transportable intelligent agent system that extends work
+already done in the field.  Agents are written in a modified version of the Tcl
+programming language and transported using TCP/IP connections.  Several simple
+examples demonstrate the properties of the system.">
+<META NAME="author" CONTENT="Kenneth Harker">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -105,37 +128,62 @@ http://www.cs.dartmouth.edu/reports/abstracts/TR95-259
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> A Multiple Discrete Pass Algorithm on a DEC Alpha 2100 </b></font><br>
+<font size=+2><b> TIAS: A Transportable Intelligent Agent System </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Cushman,Scott.R..shtml">Scott R. Cushman</A>
+ <A HREF="../../authors/Harker,Kenneth.shtml">Kenneth Harker</A>
 <br>
-Dartmouth PCS-TR95-259
+Dartmouth PCS-TR95-258
 </b></font>
 <p><QUOTE>
+<b>Abstract:</b>
+In recent years, there has been an explosive growth in the amount of
+information available to our society.  In particular, the amount of information
+available on-line through vast networks like the global Internet has been
+growing at a staggering rate.  This growth rate has by far exceeded the rate of
+growth in network speeds, as has the number of individuals and organizations
+seeking access to this information.  There is thus a motivation to find
+abstract methods of manipulating this on-line data in ways that both serve the
+needs of end users efficiently and use network resources intelligently.  In
+lieu of a traditional client-server model of information processing, which is
+both inflexible and potentially very inefficient, a Transportable Intelligent
+Agent system has the potential to achieve a more efficient and flexible network
+system.  An intelligent agent is a program that models the information space
+for a user, and allows the user to specify how the information is to be
+processed.  A transportable agent can suspend its execution, transport itself
+to a new location on a network, and resume execution at the new location.  This
+is a particularly attractive model for both wireless and dialup networks where
+a user might not be able to maintain a permanent network connection, as well as
+for situations where the amount of information to be processed is large
+relative to the network bandwidth.  Preliminary work in the field has shown
+that such agent systems are possible and deserve further study.  This thesis
+describes a prototype transportable intelligent agent system that extends work
+already done in the field.  Agents are written in a modified version of the Tcl
+programming language and transported using TCP/IP connections.  Several simple
+examples demonstrate the properties of the system.
+</QUOTE></p>
+<p><QUOTE>
 <b>Note:</b>
-Senior Honors Thesis.  No abstract.  This thesis presents the
-results of an I/O-intensive algorithm on a DEC Alpha 2100 with an
-eight-disk array.
+A Senior Honors Thesis in Computer Science.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR95-259.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (100KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR95-258.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (44KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR95-259.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (224KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR95-258.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (76KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR95-259.ascii">plain text</a>]
-  [<a href="TR95-259.bib">BIB</a>]
-  [<a href="TR95-259.bibtex">BibTeX</a>]
-  [<a href="TR95-259.refer">Refer</a>]
+  [<a href="TR95-258.ascii">plain text</a>]
+  [<a href="TR95-258.bib">BIB</a>]
+  [<a href="TR95-258.bibtex">BibTeX</a>]
+  [<a href="TR95-258.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Scott R. Cushman, 
-"A Multiple Discrete Pass Algorithm on a DEC Alpha 2100."
-Dartmouth Computer Science Technical Report PCS-TR95-259,
+Kenneth Harker, 
+"TIAS: A Transportable Intelligent Agent System."
+Dartmouth Computer Science Technical Report PCS-TR95-258,
 June 1995.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->

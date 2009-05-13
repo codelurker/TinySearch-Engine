@@ -1,23 +1,24 @@
-http://www.cs.dartmouth.edu/~cs58/purpose
+http://www.cs.dartmouth.edu/~cs58/logistics
 3
-<html> <head>
-<title>CS58: Purpose of Course</title>
-</head>
- 
-<body>
+<HTML>
+<HEAD>
+<TITLE>CS58: Course Information</TITLE>
+</HEAD>
+<BODY>
+
 
 
 <h2> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
 
-Purpose of Course
+Course Information
 <br> 
  CS58, Operating Systems, Fall 2008
 </h2> 
-<i> www.cs.dartmouth.edu/~cs58/purpose/index.shtml</i> 
+<i> www.cs.dartmouth.edu/~cs58/logistics/index.shtml</i> 
  &nbsp;&nbsp;&nbsp; 
  
-<i> Last modified: Monday, 28-Aug-2006 10:14:25 EDT</i> 
+<i> Last modified: Thursday, 25-Sep-2008 09:16:45 EDT</i> 
  
 <hr> 
  
@@ -26,26 +27,178 @@ Purpose of Course
 <p>
 
 
-The purpose of this course is to teach you about operating systems:
-the stuff that lies between
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Instructor:</b>
+</big><br>
+<p>
+Sean Smith<br>
+<b><em> Email:</em> </b>
+<a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>.
+(My blitzmail forwards to here.)
+I read my email often.  During the term, I will
+almost always reply within a day, and usually within a few hours.<br>
+<b><em> Office:</em> </b>Sudikoff 064 <br>
+<b><em> Office hours:</em></b> M,F, 12:30-1pm.
+<b>Anomalies will be announced <a href="/~sws/officehours/">here</a></b><br>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Staff:</b>
+</big><br>
+<p>
+<i>TA:</i> <a href="mailto:nfoti@cs.dartmouth.edu"><b>Nick Foti</b></a><br>
+Office hours: Mon, Wed, 3-5PM.  Sudi 157.
+
+<p>
+<i>Labbie:</i> <a href="mailto:Grace.H.Moy@Dartmouth.EDU"><b>Grace Moy</b></a>
+Lab hours: Thu and Sun, 4-5pm (PM). Sudi 001.
+<p>
+Mail to <a href="mailto:cs58@cs.dartmouth.edu"><b>cs58@cs.dartmouth.edu</b></a>
+will forward to the entire staff
+<p>
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Lectures:</b>
+</big><br>
+<p>
+Meeting times: 
 <ul>
-<li> the basic hardware
-<li> and what you "see" when you use or program a machine.
-</ul>
-This "stuff" includes:
-<ul>
-<li> the abstractions that comprise what you "see"
-<li> the goals that drive the design of these abstractions
-<li> what these abstractions look like from the <strong>outside</strong>
-<li> what these abstractions look like from the <strong>inside</strong>
-<li> ...and how this all works (or fails to work) as hardware and usage
-paradigms evolve
+<li> MWF, 11:15-12:20
+<li> Tu, 12:00-12:50
 </ul>
 <p>
-I hope you learn a lot, and have fun too.
-Systems is a great area: you can prove theorems,
-you can get your hands dirty with hardware...and do everything
-in between.  
+Location: Kemeny 006
+<p>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Help:</b>
+</big><br>
+<p>
+To get help, stop by or send email. You can also
+set up an appointment for other times. 
+<p>
+If you try stopping by, note that I do have office hours.  If you stop by at some other point, I might gently suggest returning during office hours, if I'm swamped with something.
+<p>
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Public Lab Space:</b>
+</big><br>
+<p>
+There is public lab space available in Sudikoff Room 001 for students
+enrolled in computer science courses who need Linux machines (which you do).
+You will need to arrange ID-card access to get 
+into Sudikoff 001 and to get into the building in the evenings
+and on weekends. If you don't have that already, you should see
+Kelly Clark in 101 Sudikoff.  <b>Don't dawdle; it can take 24 hours
+to turn access on.</b>
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Late Assignments:</b>
+</big><br>
+<p>
+Assignments are due when they are due; 
+extensions are not fair to the students sufficiently 
+diligent to complete their assignments on time.
+<p>
+If you have a pressing need for a delay, I might listen.
+Then again, I might not.
+<p>
+Plan accordingly.
+<p>
+I may otherwise apply 
+a "5% off per hour" late policy both to 
+the written homework and to the programming projects.
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Exams:</b>
+</big><br>
+<p>
+<i>Midterm:</i>  We'll have one of these, in class.  See the lectures page.
+<p>
+<i>Final:</i> December 6, 8AM. (Scheduled by the registrar).
+<p>
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Honor Code:</b>
+</big><br>
+<p>
+The Dartmouth Honor
+Code applies to your conduct in this course.  In particular, all
+work submitted for credit must be your own.
+You may discuss your
+homework assignments and programming projects with your classmates, the
+course staff, and with me. 
+However, you should write up your own written homework solutions
+and should not read or copy the solutions written by others (in
+this or previous terms, at Dartmouth or elsewhere). 
+<p>
+You should also write your own code and
+not read code written by classmates.
+<p>
+
+The Dartmouth College policy on sources also applies to
+this course, which means that all sources must be acknowledged,
+whether allowed by the instructor or not.  For example, software
+given to you by us must be acknowledged 
+when incorporated into your work.<br>
+<p>
+(Whether you go into industry or academia or elsewhere,
+it would be good to get in the habit of keeping track of and citing
+all your sources anyway!)
+<p>
+<B>If you have any questions about the
+honor code as it relates to CS 58, please come speak with me. 
+Violations of the honor code will be treated seriously.</B>
+
+<p>
+<hr>
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Students with Disabilities:</b>
+</big><br>
+<p>
+I encourage students
+with disabilities, including &quot;invisible&quot; disabilities
+such as chronic diseases and learning disabilities, to discuss with
+me any appropriate accommodations that I might make on their
+behalf.
+<p>
+(If this may apply to you, I also urge you to discuss things with the
+<a href="http://www.dartmouth.edu/~accessibility/"><b>Student Accessibility Services</b></a> office,  
+if you haven't already.  They've set up a system where
+they keep the "appropriate accommodations" on file---so you don't have
+to discuss details with each new instructor!)
+
+
 
 
 <p> 
@@ -64,4 +217,6 @@ in between.
  
  
 
-</body> </html>
+</BODY>
+</HTML>
+ñ

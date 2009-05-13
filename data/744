@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/%7Eniclane/talks.html
+http://www.cs.dartmouth.edu/%7Eniclane/meetings.html
 3
 <html>
 <head>
@@ -42,36 +42,63 @@ http://www.cs.dartmouth.edu/%7Eniclane/talks.html
 		<tr cellpadding=5 cellspacing=5>
 			<td colspan=2 cellpadding=5 cellspacing=5 >
 			    <BR>
-					<h2>Talks</h2>
+					<h2>Meetings</h2>
 				  
-					I've given the following talks:
+					I've attended the following meetings:
 <BR><BR>
-"Sensing Meets Mobile Social Networks: The Design, Implementation and Evaluation of the CenceMe
-Application"<BR>
-ACM Sensys 2008 ~ Raleigh, NC Nov 2008<BR>
-<a href='http://cs.dartmouth.edu/~niclane/talks/cenceme_sensys08.pdf' onClick="javascript:urchinTracker('`talks/cenceme_sensys08.pdf');">[slides - pdf]</a><BR>
+ACM Sensys 2008<BR>
+Raleigh, NC ~ Nov '08<BR>
 <p>
-"Cooperative Techniques Supporting Sensor-based People-centric Inferencing"<BR>
-Pervasive 2008 ~ Sydney, Australia May 2008<BR>
-<a href='http://cs.dartmouth.edu/~niclane/talks/distill_pervasive08.pdf' onClick="javascript:urchinTracker('talks/distill_pervasive08.pdf');">[slides - pdf]</a><BR>
+International Workshop on Urban, Community, and Social Applications of Networked Sensing Systems<BR>
+Raleigh, NC ~ Nov '08<BR>
 <p>
-"Urban Sensing Systems: Opportunistic or Participatory?"<BR>
-Hotmobile 2008 ~ Napa Valley, CA Feb 2008<BR>
-<a href='http://cs.dartmouth.edu/~niclane/talks/opp_hotmobile08.pdf' onClick="javascript:urchinTracker('talks/opp_hotmobile08.pdf');">[slides - pdf]</a><BR>
+Pervasive 2008<BR>
+Sydney, Australia ~ May '08<BR>
 <p>
-"The BikeNet Mobile Sensing System for Cyclist Experience Mapping"<BR>
-ACM Sensys 2007, Sydney, Australia Nov 2007<BR>
-<a href='http://cs.dartmouth.edu/~niclane/talks/bikenet_sensys07.pdf' onClick="javascript:urchinTracker('talks/bikenet_sensys07.pdf');">[slides - pdf]</a><BR>
+Pervasive Persuasive Technology and Environmental Sustainability<BR>
+Sydney, Australia ~ May '08<BR>
 <p>
-"Ambient Beacon Localization: Using Sensed Characteristics of the Physical World to Localize Mobile
-Sensors"<BR>
-EmNets 2007 ~ Cork, Ireland June 2007<BR>
-<a href='http://cs.dartmouth.edu/~niclane/talks/abl_emnets07.pdf' onClick="javascript:urchinTracker('talks/abl_emnets07.pdf');">[slides - pdf]</a><BR>
+ACM/IEEE IPSN 2008<BR>
+St. Louis, MI ~ April '08
 <p>
-"The Influence of Microprocessor Instructions on the Energy Consumption of Wireless Sensor Networks"<BR>
-Emnets 2006 ~ Cambridge, MA May 2006<BR>
-<a href='http://cs.dartmouth.edu/~niclane/talks/influence_emnets06.pdf' onClick="javascript:urchinTracker('talks/influence_emnets06.pdf');">[slides - pdf]</a><BR>
-</font>
+MODUS 2008<BR>
+St. Louis, MI ~ April '08<BR>
+<p>
+ACM Sensys 2007<BR>
+Sydney, Australia ~ Nov '07<BR>
+<p>
+Sensing on Everyday Phone in Support of Participatory Research Workshop<BR>
+Sydney, Australia ~ Nov '07<BR>
+<p>
+ACM MobiCom 2007<BR>
+Montreal, Canada ~ Sept '07<BR>
+<p>
+ACM MobHoc 2007<BR>
+Montreal, Canada ~ Sept '07<BR>
+<p>
+IEEE EmNets 2007<BR>
+Cork, Ireland ~ June '07<BR>
+<p>
+ACM/IEEE IPSN 2007<BR>
+Boston, MA ~ April '07<BR>
+<p>
+ACM Sensys 2006<BR>
+Boulder, CO ~ Nov '07<BR>
+<p>
+WSW 2006<BR>
+Boulder, CO ~ Nov '07<BR>
+<p>
+AI@50 Conference<BR>
+Hanover, NH ~ July '06<BR>
+<p>
+IEEE EmNets 2006<BR>
+Cambridge, MA ~ May '06<BR>
+<p>
+ACM Sensys 2005<BR>
+San Diego, CA ~ Nov '05<BR>
+<p>
+NSF NOSS PI Meeting.<BR>
+Cambridge, MA ~ Oct '05<BR>
 </td></tr>
 
 
@@ -89,4 +116,4 @@ _uacct = "UA-639085-1";
 urchinTracker();
 </script>
 </html>
-i
+dfi

@@ -1,162 +1,983 @@
-http://www.cs.dartmouth.edu/~farid/teaching/cs68/cs68.winter.00.html
+http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 3
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="../../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../../icon/favicon.gif">
 
-<title> Hany Farid: Teaching: CS 68, Winter, 2000 </title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>assignments</title>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
-
-<i>
-<div align=right>
-<a href="../teaching.html"> Teaching</a> &nbsp &nbsp
-<a href="../../home.html"> Home</a>
-</div>
-</i>
-
-<table cellpadding=0>
-<tr><td valign=top><b></b><HR></td> 
-	<td valign=top><HR></td>
-</tr>
-
-<tr><td valign=top><b>News</b></td> 
-	<td valign=top> <font size=-1>
-	</font></td>
-</tr>
-
-<tr><td valign=top><b></b><HR></td> 
-	<td valign=top><HR></td>
-</tr>
-
-<tr><td valign=top><b>Course</b>
-	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <BR><BR></td> 
-	<td valign=top> <font size=-1>
-	<b>CS 68 | Principles of Programming Languages | Winter 2000</b>
-	</font></td>
-</tr>
-
-<tr><td valign=top><b>Lecture</b> <BR><BR></td> 
-	<td valign=top> <font size=-1>
-	Fairchild 101 | MWF 1:45-2:50 | XHr 1:00-1:50 R
-	</font></td>
-</tr>
-
-<tr><td valign=top><b>Instructor</b> <BR><BR> </td> 
-	<td valign=top> <font size=-1>
-	Hany Farid | Sudikoff 208 | 646.2761<BR> 
-	office hours: MF 3:00-4:00 | W 12:30-1:30<BR>
-	</font></td>
-</tr>
-
-<tr><td valign=top><b>TA</b> <BR><BR> </td> 
-	<td valign=top> <font size=-1>
-	Yougu.Yuan @ dartmouth.edu | Sudikoff 106 | 646.3297 <BR> 
-	office hours: TuTh 2:00-3:00 <BR><BR>
-	David.A.Castleman @ dartmouth.edu <BR>
-	lab hours (005): W 3:30-5:00 | Th 6:00-7:30
-
-</tr>
-
-<tr><td valign=top><b></b><HR></td> 
-	<td valign=top><HR></td>
-</tr>
-
-<tr><td valign=top><b>Textbook</b> <BR><BR></td> 
-	<td valign=top> <font size=-1>
-	Programming Languages, Principles and Practice, Kenneth C. Louden
-	</font></td>
-</tr>
-
-<tr><td valign=top><b>Computing</b> <BR><BR></td> 
-	<td valign=top> <font size=-1>
-	The linux boxes in Sudikoff 005 support all the neccessary
-	programming languages.  You should make sure that any code you
-	write compiles and runs on these machines.
-	</font></td>
-</tr>
 
 
-<tr><td valign=top><b></b><HR></td> 
-	<td valign=top><HR></td>
-</tr>
-
-<tr><td valign=top><b>Syllabus</b> <BR> </td> 
-	<td valign=top> <font size=-1>
-	&nbsp&nbsp&nbsp&nbsp o History of programming languages <BR>
-	&nbsp&nbsp&nbsp&nbsp o Abstractions in programming languages <BR>
-	&nbsp&nbsp&nbsp&nbsp o Scanning/Parsing (flex/bison) <BR>
-	&nbsp&nbsp&nbsp&nbsp o Basic semantics <BR>
-	&nbsp&nbsp&nbsp&nbsp o Type checking  <BR>
-	&nbsp&nbsp&nbsp&nbsp o Lambda calculus <BR>
-	&nbsp&nbsp&nbsp&nbsp o Scheme <BR>
-	&nbsp&nbsp&nbsp&nbsp o ML <BR>
-	&nbsp&nbsp&nbsp&nbsp o Prolog <BR>
-	&nbsp&nbsp&nbsp&nbsp o Matlab <BR><BR>
-	</font></td>
-</tr>
-
-<tr><td valign=top><b>Readings</b> <BR><BR> </td> 
-	<td valign=top> <font size=-1>
-	Chapters 1,2 (introduction) <BR>
-	Chapters 4,5 (syntax/semantics)<BR>
-	Chapter 6 (type checking) <BR>
-	Chapter 10 (functional programming) <BR>
-	Chapter 11 (logic programming) <BR><BR>
-	</font></td>
-</tr>
+<body>
 
 
-<tr><td valign=top><b></b><HR></td> 
-	<td valign=top><HR></td>
-</tr>
-
-<tr><td valign=top><b>Grading</b> <BR><BR> </td> 
-	<td valign=top> <font size=-1>
-	Homework (35%) | Midterm (30%) | Final (35%)
-	</font></td>
-</tr>
-
-<tr><td valign=top><b>Homework</b> <BR><BR> </td> 
-	<td valign=top> <font size=-1>
-	There will be weekly homeworks given on Friday.  Homework is
-	due in class on the following Friday.  Submit a hardcopy of any
-	written questions, a hardcopy of any programming questions,
-	and sample output.  Homeworks received after Friday class will
-	lose 20%, on Saturday 30%, on Sunday 40%, on Monday 50%, and
-	will not be accepted afterwards.  At any time during the term
-	you may have a one week extension on any single homework. <BR>
-	<a href="hw1.html"> Homework #1</a> |
-	<a href="hw2.html"> Homework #2</a> |
-	<a href="hw3.html"> Homework #3</a> |
-	<a href=hw4.html>Homework #4</a> |
-	<a href=hw5.html>Homework #5</a> <BR>
-
-	<a href=electronic.submit.html>Electronic submission
-	guidelines</a> <BR><BR>
-
-</font></td> </tr>
-
-<tr><td valign=top><b>Exam</b> </td> 
-	<td valign=top> <font size=-1>
-	The midterm and final will be in-class exams.<BR>
-	<a href="practice1.html"> Sample Problems 1</a> |
-	<a href="practice2.html"> Sample Problems 2</a>
-	</font></td>
-</tr>
-
-<tr><td valign=top><b></b><HR></td> 
-	<td valign=top><HR></td>
-</tr>
-
-</table>
 
 
-<i>
-<div align=right>
-<a href="../teaching.html"> Teaching</a> &nbsp &nbsp
-<a href="../../home.html"> Home</a>
-</div>
-</i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<big><big style="font-family: Arial;"><big><big>Computer Science 78<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: bold;">lab assignments -&nbsp; hacking, part II.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></big></big></big></big><br style="font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><big style="font-weight: bold;">Lab&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Assigned
+Date&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+Dute Date</big><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp; </span><span style="font-family: Times New Roman,Times,serif;"><span style="text-decoration: underline;"></span></span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><span style="text-decoration: underline;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></span><a href="lab1.html"><span style="font-family: Times New Roman,Times,serif;">Lab1 - Packet sniffing</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Monday</span><span style="font-family: Times New Roman,Times,serif;"> March&nbsp; 30&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Friday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 3 &nbsp;(12 midnight)&nbsp; </span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"></span><a href="lab2.html"><span style="font-family: Times New Roman,Times,serif;">Lab2 - Reverse engineering sockets</span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab2.html">: a puzzle</a> &nbsp;&nbsp;&nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Friday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 3 </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sunday, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 12 </span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><a href="lab3.html"><span style="font-family: Times New Roman,Times,serif;">Lab3 - IM application</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Monday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 13 </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; Sunday, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 19 &nbsp;(</span><span style="font-family: Times New Roman,Times,serif;">12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><a href="lab4.html"><span style="font-family: Times New Roman,Times,serif;">Lab4 - DartNet: Simple Reliable Transport (SRT-SIG)</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Monday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 20</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sunday</span><span style="font-family: Times New Roman,Times,serif;">, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 28 &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><a href="lab5.html"><span style="font-family: Times New Roman,Times,serif;">Lab5 - DartNet: Simple Reliable Transport (SRT-GBN)</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Monday </span><span style="font-family: Times New Roman,Times,serif;">,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">April&nbsp; 27</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;Sunday, &nbsp;May 3</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+
+
+
+
+
+
+
+<a href="lab6.html"><span style="font-family: Times New Roman,Times,serif;">Lab6 - DartNet: Overlay Network </span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab6.html">(ON)</a>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Monday, May 4</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Sunday, May 10</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><a href="lab7.html"><span style="font-family: Times New Roman,Times,serif;">Lab7 - DartNet: Simple Network Protocol</span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab7.html">
+(SNP)</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Monday, May 11</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp; &nbsp;Sunday, &nbsp;May&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">17 </span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is an initial schedule that might change. You will be informed in advance if that is the case. All assignments<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are due at 12 midnight.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As part of getting you to complete we allow the weekend to work on the labs. Typically labs are given out at <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday @ class and due at midnight on Sunday. There are TA hours on Wednesday, Saturday, <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+and Sunday in support of these assignments. You can mail the TA anytime - he is mostly always around<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+and available.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labs 4-7 are the DartNet set. As part of Lab7 you build the overlay network with SRT and SNP and then run your IM app<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+over the network. This is challenging and very cool once you get it working. In essence you have bult a simplified internet<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stack. Now is that cool!<br>
+
+
+
+
+
+
+
+
+
+&nbsp;<br>
+
+
+
+
+
+
+
+
+You will write approximately 3000 lines of C code for the assignments and 3500 lines&nbsp;for the group <br>
+
+
+
+
+
+
+
+
+project (shared between the group members). </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Note, there is some code reuse for the DartNet set of labs.</span><br>
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+<br>
+
+
+
+
+
+
+
+
+
+Lab 2 (Sockets): 200<br>
+
+
+
+
+
+
+
+
+
+Lab 3 (IM): 483<br>
+
+
+
+
+
+
+
+
+
+Lab 4 (SRT-SIG): 371<br>
+
+
+
+
+
+
+
+
+
+Lab 5 (SRT-GBN): </span><span style="font-family: Times New Roman,Times,serif;">542 </span><span style="font-family: Times New Roman,Times,serif;">(171 new lines) <br>
+
+
+
+
+
+
+
+
+
+Lab 6 (Overlay):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">709 </span><br>
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+Lab 7 (SNP):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">1169</span><span style="font-family: Times New Roman,Times,serif;">&nbsp; <br>
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+Project: 3586 (shared across the group).<br>
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+See the <a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs78/project.html">project</a> page for the remaining schedule and for important milestones and what is needed for those<br>
+
+
+
+
+
+
+
+milestones.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span>
+</body>
 </html>

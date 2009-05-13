@@ -1,283 +1,106 @@
-http://www.cs.dartmouth.edu/~theory/fall_2007.html
+http://www.cs.dartmouth.edu/~theory/fall_2006.html
 3
-<html><head><title>Theory Reading Group -- Fall 2007</title>
-<style type="text/css">
-<!--
-.style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
-.style4 {color: #90EE90; font-style: italic; font-family: Verdana, Arial, Helvetica, sans-serif;}
-.style5 {font-size: x-small}
--->
-</style>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body alink="#0000ff" bgcolor="90EE90" link="#0000ff" text="#000000" vlink="#551a8b">
-<p>&nbsp;</p>
-<div align="center" style="margin-bottom: 0pt">
-  <center>
-    <table style="border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="5" cellspacing="0" width="600">
-      <tr> 
-        <td width="600" align="center">
-	<H2>
-	  <ul>Dartmouth Theory Reading Group</ul>
-	</H2>
-	<H4>	
-	  <br>
-	  Fall 2007
-	  <br>
-	  Tuesdays, 4:00 -- 5:30pm
-	  <br>
-	  Sudikoff 245 and/or Kemeny 229
-	</td>
-	</H4>
-      </tr>
-<!-- It makes sense to include a main topic only when there _is_ a main topic
-      <tr> 
-        <td width="600" align="center"><p align="center">        
-          <blockquote>
-            <p align="left"><font size="5"><span class="style1"> Main topic:</span></font> </p>
-            <p align="left"><font size="5"><span class="style4"> Theory of Computation. </span></font>        </p>
-          </blockquote></td>
-      </tr>
--->
+<html>
+<head>
+<title>Theory Reading Group - Fall 2006 </title>
+</head>
+<body bgcolor="#fffff0" text="#004040" link="#006A57" alink="#006A57" 
+vlink="#008080">
 
-    <tr>
-      <td width= "600" align = "center">Past TRG sessions:
-      <ul>
-      <li><a href="fall_2006.html">Fall 2006</a></li>
-      <li><a href="spring_2006.html">Spring 2006</a></li>
-      <li><a href="winter_2006.html">Winter 2006</a></li>
-      <li><a href="fall_2005.html">Fall 2005</a></li>
-      </ul>
-    </table>
-    <font size="4">
-&nbsp;</font>
-  </center>
-</div>
-<div align="center">
-  <center>
-    <div align="center" class="style1">
-      <center>
+<font face="verdana, helvetica, arial" size="+1">
+<b><center>
+Theory Reading Group - Fall 2006
+<br>
+</b></center>
+</font>
 
-
-        <table border="1" cellpadding="5" width="600">
-          <tbody>
-          <tr> 
-            <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
-            <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday,
-            October 23 </font></td>
-          </tr>
-          <tr> 
-            <td width="99">Topic:</td>
-            <td width="469"><font color="#990000"><b>Selection in Random-Ordered Streams </b></font></td>
-          </tr>
-          <tr> 
-            <td width="99">Source Materials:</td>
-            <td width="469"><ul>
-	      <li>A. Chakrabarti, T. S. Jayram, and M. Patrascu, <strong><a href = "http://www.cs.dartmouth.edu/~ac/Pubs/soda08-median-ds.pdf">Tight Lower Bounds for Selection in Randomly Ordered Streams</a></strong> SODA 2008
-        <!--      <li>S. Sclaroff and A.   Pentland, <strong><a href="Papers/sp-mmcr-95.pdf">Modal Matching for Correspondence and Recognition</a></strong>. <em>IEEE   Transactions on Pattern Analysis and Machine Intelligence</em> (PAMI), Vol. 17, No.   6, pp. 545-561, 1995</li>
-	      <li>M. Leordeanu and M.   Hebert, <strong><a href="Papers/lh-stcpupc-05.pdf">A Spectral Technique for Correspondence Problems Using Pairwise   Constraints</a></strong>. Proceedings of the Tenth IEEE International Conference   on Computer Vision - Volume 2 (ICCV), pp. 1482-1489,&nbsp; 2005 </li>
-       -->     </ul></td>
-          </tr>
-          <tr> 
-            <td height="27" width="99">Speakers:</td>
-            <td height="27" width="469">Amit Chakrabarti</td>
-          </tr>
-        </tbody></table>
-
-
-        <table border="1" cellpadding="5" width="600">
-          <tbody><tr> 
-            <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
-            <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, November 6  </font></td>
-          </tr>
-          <tr> 
-            <td width="100">Topic:</td>
-            <td width="500"><strong><font color="#990000">van Emde Boas Trees</font></strong></td>
-          </tr>
-          <tr> 
-            <td width="100">Source Materials:</td>
-            <td width="500"><ul>
-              <li><a href="http://en.wikipedia.org/wiki/Van_Emde_Boas_tree">Consult The Oracle.</a></li>
-	      </td>
-          </tr>
-          <tr> 
-            <td width="100">Speakers:</td>
-            <td height="27" width="469">Joshua Brody</td> 
-          </tr>
-        </tbody></table>
-      </center>
-    </div>
-    <div align="center" class="style1"> 
-      <center>
-        <table border="1" cellpadding="5" width="600">
-          <tbody><tr> 
-            <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
-            <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
-            November 13 </font></td>
-          </tr>
-          <tr> 
-            <td width="100">Topic:</td>
-            <td width="500"><strong><font color="#990000">Mechanism Design via Differential Privacy</font></strong></td>
-          </tr>
-          <tr> 
-            <td width="100">Source Materials:</td>
-            <td width="500"><ul>
-	      <li>F. McSherry, and K Talwar, <strong><a href = "Papers/MDviaDP.pdf">Mechanism Design via Differential Privacy</a></strong> SODA 2008
-            </ul></td>
-          </tr>
-          <tr> 
-            <td width="100">Speakers:</td>
-            <td height="27" width="469">Chrisil Arackaparambil</td> 
-          </tr>
-        </tbody></table>
-
-
-        <table width="600" border="1" cellpadding="5">
-          <tbody>
-            <tr>
-              <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
-              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
-                November 20</font></td>
-            </tr>
-            <tr>
-              <td width="100">Topic:</td>
-              <td width="500"><strong><font color="#990000"> 
-	        Why is P^2 not embeddable in R^3? </font></strong></td>
-            </tr>
-            <tr>
-              <td width="100">Source Materials:</td>
-              <td width="500"><ul>
-	        <li>Hiroshi Maehara, <strong><a href = "Papers/p2r3.pdf">Why is P2 Not Embeddable in R3?</a></strong> American Mathematical Monthly 1993</li>
-                <li>J.H. Conway, and C. McA. Gordon, <strong><a href="Papers/k6.pdf">Knots and Links in Spatial Graphs</a></strong>Journal of Graph Theory 1983</li>
-              </ul>
-              </td>
-            </tr>
-            <tr>
-              <td width="100">Speakers:</td>
-              <td height="27" width="469"><p></p>
-                 Afra Zomorodian</td>
-            </tr>
-          </tbody>
-        </table>
-
-        <table width="600" border="1" cellpadding="5">
-          <tbody>
-            <tr>
-              <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
-              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
-                November 27</font></td>
-            </tr>
-            <tr>
-              <td width="100">Topic:</td>
-              <td width="500"><strong><font color="#990000"> 
-	        Lower Bounds for Collapsing Protocols</font></strong></td>
-            </tr>
-            <tr>
-              <td width="100">Source Materials:</td>
-              <td width="500"><ul>
-                <li>J. Brody and A. Chakrabarti, <a href = "Papers/mpj-ub.pdf">Sublinear Communication Protocols for Multi-Party Pointer Jumping and a Related Lower Bound</a> To appear in STACS 2008</li>
-              </ul>
-              </td>
-            </tr>
-            <tr>
-              <td width="100">Speakers:</td>
-              <td height="27" width="469"><p></p>
-		  Joshua Brody</td>
-            </tr>
-          </tbody>
-        </table>
-
-        <table width="600" border="1" cellpadding="5">
-          <tbody>
-            <tr>
-              <td bgcolor="#443344" width="100"><font color="#ffffff">Date/Location:</font></td>
-              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
-                December 4,  Kemeny 229</font></td>
-            </tr>
-            <tr>
-              <td width="100">Topic:</td>
-              <td width="500"><strong><font color="#990000"> 
-	        Scheduling Tasks on Machines</font></strong></td>
-            </tr>
-            <tr>
-              <td width="100">Source Materials:</td>
-              <td width="500"><ul>
-                <li>M. Gairing, B. Monien, and A. Woclaw. <a href = "Papers/combinatorial.pdf">A faster combinatorial
-approximation algorithm for scheduling unrelated parallel machines.</a>
-Theoretical Computer Science, 380:87-99, 2007 (main paper)</li>
-                <li>J. K. Lenstra, D. B. Shmoys, and E. Tardos. <a href="Papers/parallelprocessors.pdf">Approximation algorithms
-for scheduling unrelated parallel machines. </a>Mathematical Programming,
-46:259-271, 1990.</li>
-                <li>T. Ebenlendr, M. Krcal, and J. Sgall. <a href="Papers/graphbalancingunrelatedproc.pdf">Graph balancing: a special case
-of scheduling unrelated parallel machines. SODA 2008 (to appear).
-</li>
-              </ul>
-              </td>
-            </tr>
-            <tr>
-              <td width="100">Speakers:</td>
-              <td height="27" width="469"><p></p>
-		  Umang Bhaskar</td>
-            </tr>
-          </tbody>
-        </table>
+<blockquote> <p> Welcome to the Theory Reading Group at Dartmouth's CS
+Department! We have vigorous, exciting discussions/presentations on
+recent research in theoretical computer science (TCS), accompanied by
+choice snacks. We meet on Fridays 3:00-4:30 in the Theory Lab (Sudikoff 
+245) and sometimes in the Theory Reading Room (Kemeny 229). Everyone is 
+welcome; email "ac" at "cs" if you'd like to join the discussion. 
 
 <!--
-        <table width="600" border="1" cellpadding="5">
-          <tbody>
-            <tr>
-              <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
-              <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, 
-                November 27</font></td>
-            </tr>
-            <tr>
-              <td width="100">Topic:</td>
-              <td width="500"><strong><font color="#990000"> 
-	        </font></strong></td>
-            </tr>
-            <tr>
-              <td width="100">Source Materials:</td>
-              <td width="500"><ul>
-                <li></li>
-              </ul>
-              </td>
-            </tr>
-            <tr>
-              <td width="100">Speakers:</td>
-              <td height="27" width="469"><p></p>
-                </td>
-            </tr>
-          </tbody>
-        </table>
+Each term we center our discussions around a well-defined theme within
+TCS. For the current term (Fall 2006) the theme is "Fourier analysis
+and its applications in TCS".
 -->
 
+<p>
+<h3>Fall 2006 Schedule</h3>
 
-<!--
-        <table border="1" cellpadding="5" width="600">
-          <tbody><tr>
-        <td bgcolor="#443344" width="100"><font color="#ffffff">Dates:</font></td>
-        <td bgcolor="#443344" width="500"><font color="#ffffff">Thursday, 
-        February 15 </font></td>
-          </tr>
-          <tr>
-        <td width="100">Topic:</td>
-        <td width="500"><font color="#990000"><b>Surface Mesh Editing </b></font></td>
-          </tr>
-          <tr>
-        <td width="100">Source Materials:</td>
-        <td width="500"><ul>
-          <li>Olga Sorkine, Daniel Cohen-Or, Yaron Lipman, Marc Alexa, Christian R&ouml;ssl, and Hans-Peter Seide<A href="../s/Seidel:Hans=Peter.html">l</A>, <strong><a href="Papers/sgp2004_laplace.pdf">Laplacian Surface   Editing</a></strong>. <em>Symposium   on Geometry Processing</em> (SGP), pp. 179-188, 2004 </li>
-          <li>Y. Lipman, O. Sorkine, D. Levin, D., and D. Cohen-Or, <strong><a href="Papers/sig05-lslc-2005.pdf">Linear   Rotation-Invariant Coordinates for Meshes</a></strong>. In Proceedings of the 32nd <em>Annual Conference on Computer   Graphics and Interactive Techniques </em>(ACM SIGGRAPH), pp. 479-487, 2005 </li>
-        </ul></td>
-          </tr>
-          <tr>
-        <td width="100">Speakers:</td>
-            <td height="27" width="469"><p>Primoz Skraba and Ian Downes</p></td> 
-          </tr>
-	</tbody></table>
--->
+<p>
 
-      </center>
-    </div>
+<p> <b>Sep 29, 2006</b> 
+<ul> 
+<li> This was a planning meeting.
+</ul><p>
+
+<p> <b>Oct 6, 2006 (Vibhor)</b>
+<ul>
+<li> Last term we were reading papers on the theme "Fourier analysis
+and its applications in TCS". We had one paper we didn't quite get
+to, so we shall be doing it now. Vibhor will present Khot and Naor's
+paper <a href="Papers/khot-nonembed.pdf">Nonembeddability Theorems 
+via Fourier Analysis</a>, from FOCS 2005.
+</ul><p>
+
+<p> <b>Oct 13, 2006 (Chrisil)</b>
+<ul>
+<li> We shall begin reading David Shmoys's survey
+<a href="Papers/shmoys-multicut.ps">Cut Problems and their Application
+to Divide-and-Conquer</a>. This builds the background for plenty of
+recent work in algorithms and optimization.
+</ul><p>
+
+<p> <b>Oct 20, 2006 (Joshua)</b>
+<ul>
+<li> We shall continue with the Shmoys survey we started last time.
+</ul><p>
+
+<p> <b>Oct 27, 2006 (TBD)</b>
+<ul>
+<li> ?
+</ul><p>
+
+<p> <b>Nov 3, 2006 (TBD)</b>
+<ul>
+<li> ?
+</ul><p>
+
+<p> <b>Nov 10, 2006 (TBD)</b>
+<ul>
+<li> ?
+</ul><p>
+
+<p> <b>Nov 17, 2006 (TBD)</b>
+<ul>
+<li> ?
+</ul><p>
+
+<p> <b>Dec 1, 2006 (TBD)</b>
+<ul>
+<li> ?
+</ul><p>
+
+<center>
+<font size="-1" face=" verdana, helvetica, arial">
+Theory Reading Group | theory@cs.dartmouth.edu |  Last updated 
+Fri Sep 29 16:59:53 EDT 2006
+<br>
+Page maintained by <a href="http://www.cs.dartmouth.edu/~ac">Amit
+Chakrabarti</a>. 
+<br>
+<br>
+Earlier terms: 
+[ <a href= "spring_2006.html">Spring 2006</a>
+| <a href= "winter_2006.html">Winter 2006</a>
+| <a href= "fall_2005.html">Fall 2005</a>
+]
+</font>
 </center>
-</div>
 
-</body></html>
+</body>
+</html>
+ay,Ni

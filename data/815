@@ -1,47 +1,45 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR2008-633
+http://www.cs.dartmouth.edu/reports/abstracts/TR2007-594
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth TR2008-633 </TITLE>
-<META NAME="description" CONTENT="Attribute-Based, Usefully Secure Email">
-<META NAME="number" CONTENT="TR2008-633">
-<META NAME="year" CONTENT="2008">
-<META NAME="title" CONTENT="Attribute-Based, Usefully Secure Email">
-<META NAME="abstract" CONTENT=" A secure system that cannot be used by real users to secure
-real-world processes is not really secure at all. While many believe
-that usability and security are diametrically opposed, a growing body
-of research from the field of Human-Computer Interaction and Security
-(HCISEC) refutes this assumption. All researchers in this field agree
-that focusing on aligning usability and security goals can enable the
-design of systems that will be more secure under actual usage.
-  We bring to bear tools from the social sciences (economics, sociology,
-psychology, etc.)  not only to help us better understand why deployed
-systems fail, but also to enable us to accurately characterize the
-problems that we must solve in order to build systems that will be
-secure in the real world. Trust, a critically important facet of any
-socio-technical secure system, is ripe for analysis using the tools
-provided for us by the social sciences.
- There are a variety of scopes in which issues of trust in secure
-systems can be stud- ied. We have chosen to focus on how humans decide
-to trust new correspondents. Current secure email systems—such as
-S/MIME and PGP/MIME—are not expressive enough to capture the real ways
-that trust flows in these sorts of scenarios. To solve this problem,
-we begin by applying concepts from social science research to a
-variety of such cases from interesting application domains; primarily,
-crisis management in the North American power grid. We have examined
-transcripts of telephone calls made between grid manage- ment
-personnel during the August 2003 North American blackout and extracted
-several different classes of trust flows from these real-world
-scenarios. Combining this knowl- edge with some design patterns from
-HCISEC, we develop criteria for a system that will enable humans apply
-these same methods of trust-building in the digital world. We then
-present Attribute-Based, Usefully Secure Email (ABUSE) and not only
-show that it meets our criteria, but also provide empirical evidence
-that real users are helped by the system.  ">
-<META NAME="author" CONTENT="Christopher P. Masone">
+<TITLE> Dartmouth TR2007-594 </TITLE>
+<META NAME="description" CONTENT="Exploring the Integration of Memory Management and Trusted Computing">
+<META NAME="number" CONTENT="TR2007-594">
+<META NAME="year" CONTENT="2007">
+<META NAME="title" CONTENT="Exploring the Integration of Memory Management and Trusted Computing">
+<META NAME="abstract" CONTENT=" This thesis addresses vulnerabilities in current Trusted Computing
+architecture by exploring a design for a better Trusted Platform
+Module (TPM); one that integrates more closely with the CPU's Memory
+Management Unit (MMU). We establish that software-based attacks on
+trusted memory can be carried out undetectably by an adversary on
+current TCG/TPM implementations. We demonstrate that an attacker with
+sufficient privileges can compromise the integrity of a TPM-protected
+system by modifying critical loaded code and static data after
+measurement has taken place. More specifically, these attacks
+illustrate the Time Of Check vs. Time of Use (TOCTOU) class of
+attacks.
+
+ We propose to enhance the MMU, enabling it to detect when memory
+containing trusted code or data is being maliciously modified at
+run-time. On detection, it should be able to notify the TPM of these
+modifications. We seek to use the concepts of selective memory
+immutability as a security tool to harden the MMU, which will result
+in a more robust TCG/TPM implementation. To substantiate our ideas for
+this proposed hardware feature, we designed and implemented a software
+prototype system, which employs the monitoring capabilities of the Xen
+virtual machine monitor.
+
+ We performed a security evaluation of our prototype and validated
+that it can detect all our software-based TOCTOU attacks. We applied
+our prototype to verify the integrity of data associated with an
+application, as well as suggested and implemented ways to prevent
+unauthorized use of data by associating it with its owner process. Our
+performance evaluation reveals minimal overhead.
+">
+<META NAME="author" CONTENT="Nihal A. D'Cunha">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -135,69 +133,67 @@ that real users are helped by the system.  ">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Attribute-Based, Usefully Secure Email </b></font><br>
+<font size=+2><b> Exploring the Integration of Memory Management and Trusted Computing </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Masone,Christopher.shtml">Christopher P. Masone</A>
+ <A HREF="../../authors/DCunha,Nihal.A..shtml">Nihal A. D'Cunha</A>
 <br>
-Dartmouth TR2008-633
+Dartmouth TR2007-594
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
 </P><P>
- A secure system that cannot be used by real users to secure
-real-world processes is not really secure at all. While many believe
-that usability and security are diametrically opposed, a growing body
-of research from the field of Human-Computer Interaction and Security
-(HCISEC) refutes this assumption. All researchers in this field agree
-that focusing on aligning usability and security goals can enable the
-design of systems that will be more secure under actual usage.
+ This thesis addresses vulnerabilities in current Trusted Computing
+architecture by exploring a design for a better Trusted Platform
+Module (TPM); one that integrates more closely with the CPU's Memory
+Management Unit (MMU). We establish that software-based attacks on
+trusted memory can be carried out undetectably by an adversary on
+current TCG/TPM implementations. We demonstrate that an attacker with
+sufficient privileges can compromise the integrity of a TPM-protected
+system by modifying critical loaded code and static data after
+measurement has taken place. More specifically, these attacks
+illustrate the Time Of Check vs. Time of Use (TOCTOU) class of
+attacks.
+
 </P><P>
-  We bring to bear tools from the social sciences (economics, sociology,
-psychology, etc.)  not only to help us better understand why deployed
-systems fail, but also to enable us to accurately characterize the
-problems that we must solve in order to build systems that will be
-secure in the real world. Trust, a critically important facet of any
-socio-technical secure system, is ripe for analysis using the tools
-provided for us by the social sciences.
+ We propose to enhance the MMU, enabling it to detect when memory
+containing trusted code or data is being maliciously modified at
+run-time. On detection, it should be able to notify the TPM of these
+modifications. We seek to use the concepts of selective memory
+immutability as a security tool to harden the MMU, which will result
+in a more robust TCG/TPM implementation. To substantiate our ideas for
+this proposed hardware feature, we designed and implemented a software
+prototype system, which employs the monitoring capabilities of the Xen
+virtual machine monitor.
+
 </P><P>
- There are a variety of scopes in which issues of trust in secure
-systems can be stud- ied. We have chosen to focus on how humans decide
-to trust new correspondents. Current secure email systems—such as
-S/MIME and PGP/MIME—are not expressive enough to capture the real ways
-that trust flows in these sorts of scenarios. To solve this problem,
-we begin by applying concepts from social science research to a
-variety of such cases from interesting application domains; primarily,
-crisis management in the North American power grid. We have examined
-transcripts of telephone calls made between grid manage- ment
-personnel during the August 2003 North American blackout and extracted
-several different classes of trust flows from these real-world
-scenarios. Combining this knowl- edge with some design patterns from
-HCISEC, we develop criteria for a system that will enable humans apply
-these same methods of trust-building in the digital world. We then
-present Attribute-Based, Usefully Secure Email (ABUSE) and not only
-show that it meets our criteria, but also provide empirical evidence
-that real users are helped by the system.  
+ We performed a security evaluation of our prototype and validated
+that it can detect all our software-based TOCTOU attacks. We applied
+our prototype to verify the integrity of data associated with an
+application, as well as suggested and implemented ways to prevent
+unauthorized use of data by associating it with its owner process. Our
+performance evaluation reveals minimal overhead.
+
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-Ph.D Dissertation. Advisor: Sean W. Smith.  
+M.S. Thesis.  Advisor: Sean Smith.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR2008-633.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (4720KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR2007-594.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (556KB)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR2008-633.ascii">plain text</a>]
-  [<a href="TR2008-633.bib">BIB</a>]
-  [<a href="TR2008-633.bibtex">BibTeX</a>]
-  [<a href="TR2008-633.refer">Refer</a>]
+  [<a href="TR2007-594.ascii">plain text</a>]
+  [<a href="TR2007-594.bib">BIB</a>]
+  [<a href="TR2007-594.bibtex">BibTeX</a>]
+  [<a href="TR2007-594.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Christopher P. Masone, 
-"Attribute-Based, Usefully Secure Email."
-Dartmouth Computer Science Technical Report TR2008-633,
-August 2008.
+Nihal A. D'Cunha, 
+"Exploring the Integration of Memory Management and Trusted Computing."
+Dartmouth Computer Science Technical Report TR2007-594,
+May 2007.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->
@@ -228,3 +224,4 @@ explicit permission of the copyright holder.
 
 </BODY>
 </HTML>
+T <Ò

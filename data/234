@@ -1,58 +1,101 @@
-http://www.cs.dartmouth.edu/~farid/research/animation.html
+http://www.cs.dartmouth.edu/~tanzeem/contact/contact.html
 3
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-<title> Animation </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+<!-- #BeginEditable "doctitle" -->
+  <title></title>
+
+
+<!-- #EndEditable -->
+  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+  </style>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=750 border=0>
-<tr>
 
-<td valign=top> 
-<b> Animation </b>
-<BR>
-<p>
-We are interested in finding low-dimensional representations of
-complex human motions.  For example, each frame of the 3-D motion
-sequence shown to the right can be described by a 36-dimensional
-vector (12 joints, each with X,Y,Z values).  
+<body>
 
-<BR><BR>
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
 
-We have been developing computational techniques for reducing the
-dimensionality of this data into a lower and perceptually meaningful
-space.  In this example, we are able to find a one-dimensional
-representation that corresponds to the inherent one-dimensional nature
-of the motion.
+<h3>Assistant Professor</h3>
 
-<BR><BR>
+<h4>Computer Science, Dartmouth College</h4>
 
-<i>(Collaborative work with Fred Henle and <a
-href="http://www.cs.duke.edu/~brd"> Bruce Donald</a>)</i>
+</div>
 
-<td>&nbsp&nbsp</td>
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
+<ul>
 
-<td valign=top> <BR><BR><img src="jump.gif" alt="alternative text"> 
+  <li><a href="../index.html">About</a></li>
 
-</tr>
-</table>
-<BR>
+  <li><a href="../pubs/pubs.html">Publications</a></li>
 
-<HR>
+  <li><a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
 
-<table align=center width=750>
-<tr>
-<td valign=top align=right>
-	<font size=-1><i>
-	<a href="../home.html"> Home</a> &nbsp &nbsp
-	<a href="research.html"> Research</a> 	
-	</i></font>
-</td>
-</tr>
-</table>
+  <li><a href="../students/students.html">Students</a></li>
+
+  <li><a href="../teaching/teaching.html">Teaching</a></li>
+
+  <li><a href="../press/press.html">Press</a></li>
+
+  <li><a href="../links/links.html">Links</a></li>
+
+  <li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</div>
+
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
+<blockquote>
+  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">Computer
+Science Department</p>
+
+  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">Dartmouth
+College</p>
+
+  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">6211
+Sudikoff</p>
+
+  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">Hanover,
+NH 03755</p>
+
+  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">t
+a n z e e m . c h o u d h u r y @ d a r t m o u t h . e d u</p>
+
+</blockquote>
+
+<!-- #EndEditable --></div>
+
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="../index.html">About</a> |<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a>
+| <a href="../students/students.html">Students</a>
+|
+<a href="../teaching/teaching.html">Teaching</a> |
+<a href="../press/press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
+
+</div>
+
+<!-- End Footer --></div>
+
+<!-- End content_container --></div>
+
+<!-- End Container -->
+</body>
 </html>
-
+ead><i

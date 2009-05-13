@@ -1,24 +1,23 @@
-http://www.cs.dartmouth.edu/~cs58/logistics
+http://www.cs.dartmouth.edu/~cs58/lectures
 3
-<HTML>
-<HEAD>
-<TITLE>CS58: Course Information</TITLE>
-</HEAD>
-<BODY>
 
 
+<title>CS58: Lectures</title>
+</head>
+ 
+<body>
 
 <h2> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
 
-Course Information
+Lectures
 <br> 
  CS58, Operating Systems, Fall 2008
 </h2> 
-<i> www.cs.dartmouth.edu/~cs58/logistics/index.shtml</i> 
+<i> www.cs.dartmouth.edu/~cs58/lectures/index.shtml</i> 
  &nbsp;&nbsp;&nbsp; 
  
-<i> Last modified: Thursday, 25-Sep-2008 09:16:45 EDT</i> 
+<i> Last modified: 12/02/08 04:06:23 PM</i> 
  
 <hr> 
  
@@ -27,187 +26,528 @@ Course Information
 <p>
 
 
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Instructor:</b>
-</big><br>
 <p>
-Sean Smith<br>
-<b><em> Email:</em> </b>
-<a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>.
-(My blitzmail forwards to here.)
-I read my email often.  During the term, I will
-almost always reply within a day, and usually within a few hours.<br>
-<b><em> Office:</em> </b>Sudikoff 064 <br>
-<b><em> Office hours:</em></b> M,F, 12:30-1pm.
-<b>Anomalies will be announced <a href="/~sws/officehours/">here</a></b><br>
-
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Staff:</b>
-</big><br>
+For my lectures, each topic 
+will link to detailed lecture notes, which should be up by sunrise the day of the lecture.
 <p>
-<i>TA:</i> <a href="mailto:nfoti@cs.dartmouth.edu"><b>Nick Foti</b></a><br>
-Office hours: Mon, Wed, 3-5PM.  Sudi 157.
-
+These notes will complement what's presented in class.
+(The notes are also there to compensate for my poor handwriting! :)
 <p>
-<i>Labbie:</i> <a href="mailto:Grace.H.Moy@Dartmouth.EDU"><b>Grace Moy</b></a>
-Lab hours: Thu and Sun, 4-5pm (PM). Sudi 001.
-<p>
-Mail to <a href="mailto:cs58@cs.dartmouth.edu"><b>cs58@cs.dartmouth.edu</b></a>
-will forward to the entire staff
+It should go without saying that you will be responsible for both: the notes
+and the class material.
 <p>
 <hr>
+<p>
+<strong>Warning: subject to change!</strong>
+<p>
+
+<h3>Jump to <a href="#week11">this week</a></h3>  <hr>
+
+
+
+
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<b>Lectures:</b>
+<a name="week1"><b>Week 1:</b></a> 
 </big><br>
-<p>
-Meeting times: 
+
+<dl>
+
+<dt>Wed, Sep 24</dt>
+<dd><a href="sep24/index.shtml"><b>Introduction</b></a>
 <ul>
-<li> MWF, 11:15-12:20
-<li> Tu, 12:00-12:50
+<li> Reading: SGG, Chapter 1
 </ul>
-<p>
-Location: Kemeny 006
-<p>
-
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Help:</b>
-</big><br>
-<p>
-To get help, stop by or send email. You can also
-set up an appointment for other times. 
-<p>
-If you try stopping by, note that I do have office hours.  If you stop by at some other point, I might gently suggest returning during office hours, if I'm swamped with something.
-<p>
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Public Lab Space:</b>
-</big><br>
-<p>
-There is public lab space available in Sudikoff Room 001 for students
-enrolled in computer science courses who need Linux machines (which you do).
-You will need to arrange ID-card access to get 
-into Sudikoff 001 and to get into the building in the evenings
-and on weekends. If you don't have that already, you should see
-Kelly Clark in 101 Sudikoff.  <b>Don't dawdle; it can take 24 hours
-to turn access on.</b>
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Late Assignments:</b>
-</big><br>
-<p>
-Assignments are due when they are due; 
-extensions are not fair to the students sufficiently 
-diligent to complete their assignments on time.
-<p>
-If you have a pressing need for a delay, I might listen.
-Then again, I might not.
-<p>
-Plan accordingly.
-<p>
-I may otherwise apply 
-a "5% off per hour" late policy both to 
-the written homework and to the programming projects.
-
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Exams:</b>
-</big><br>
-<p>
-<i>Midterm:</i>  We'll have one of these, in class.  See the lectures page.
-<p>
-<i>Final:</i> December 6, 8AM. (Scheduled by the registrar).
-<p>
-<hr>
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<b>Honor Code:</b>
-</big><br>
-<p>
-The Dartmouth Honor
-Code applies to your conduct in this course.  In particular, all
-work submitted for credit must be your own.
-You may discuss your
-homework assignments and programming projects with your classmates, the
-course staff, and with me. 
-However, you should write up your own written homework solutions
-and should not read or copy the solutions written by others (in
-this or previous terms, at Dartmouth or elsewhere). 
-<p>
-You should also write your own code and
-not read code written by classmates.
+</dd>
 <p>
 
-The Dartmouth College policy on sources also applies to
-this course, which means that all sources must be acknowledged,
-whether allowed by the instructor or not.  For example, software
-given to you by us must be acknowledged 
-when incorporated into your work.<br>
+<dt>Fri, Sep 26</dt>
+<dd><a href="sep26/index.shtml"><b>OS Structure</b></a>
+<ul>
+<li> Reading: SGG, Chapter 2
+</ul>
+</dd>
 <p>
-(Whether you go into industry or academia or elsewhere,
-it would be good to get in the habit of keeping track of and citing
-all your sources anyway!)
-<p>
-<B>If you have any questions about the
-honor code as it relates to CS 58, please come speak with me. 
-Violations of the honor code will be treated seriously.</B>
 
-<p>
-<hr>
+</dl>
+
 
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<b>Students with Disabilities:</b>
+<a name="week2"><b>Week 2:</b></a> 
 </big><br>
+
+<dl>
+
+<dt>Mon, Sep 29</dt>
+<dd><a href="sep29/index.shtml"><b>Processes</b></a>
+<ul>
+<li> Reading: SGG, Chapter 3
+</ul>
+</dd>
+<dd><a href="../work/proj1/index.shtml"><b>Programming Project 1 published</b></a></dd>
 <p>
-I encourage students
-with disabilities, including &quot;invisible&quot; disabilities
-such as chronic diseases and learning disabilities, to discuss with
-me any appropriate accommodations that I might make on their
-behalf.
+
+
+<dt>Tue, Sep 30 (X) </dt>
+<dd> <a href="sep30/index.shtml"><b>Process Implementation</b></a>
+</dd>
 <p>
-(If this may apply to you, I also urge you to discuss things with the
-<a href="http://www.dartmouth.edu/~accessibility/"><b>Student Accessibility Services</b></a> office,  
-if you haven't already.  They've set up a system where
-they keep the "appropriate accommodations" on file---so you don't have
-to discuss details with each new instructor!)
+
+
+<dt>Wed, Oct 1</dt>
+<dd><a href="oct01/index.shtml"><b>Processes and Race Conditions</b></a>
+<ul> 
+<li> Reading: SGG, 6.1-6.4
+</ul>
+</dd>
+<p>
+
+
+<dt>Fri, Oct 3</dt>
+<dd><a href="oct03/index.shtml"><b>Locks, Threads</b></a>
+<ul>
+<li> Reading: SGG, Chapter 4
+</ul>
+</dd>
+<p>
+
+</dl>
+
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week3"><b>Week 3:</b></a> 
+</big><br>
+
+<dl>
+
+<dt>Mon, Oct 6</dt>
+<dd><a href="oct06/index.shtml"><b>Synchronization</b></a>
+<ul>
+<li> Reading: SGG, 6.5-6.8
+</ul>
+</dd>
+<dd>Programming Project 1 due</dd>
+<dd><a href="../work/proj2/index.shtml"><b>Programming Project 2 published</b></a></dd>
+<p>
+
+<dt>Tue, Oct 7 (X) </dt>
+<dd><a href="oct07/index.shtml"><b>Synchronization Strategy</b></a>
+<ul>
+<li> Reading: <a href="../resources/index.shtml#birrell">Birrell's paper</a>
+</ul>
+</dd>
+<p>
+
+
+<dt>Wed, Oct 8</dt>
+<dd><a href="oct08/index.shtml"><b>Memory Management: Evolution</b></a>
+<ul>
+<li> Reading: SGG, 8.1-8.3
+</ul>
+</dd>
+<p>
+
+
+<dt>Fri, Oct 10</dt>
+<dd><a href="oct10/index.shtml"><b>Memory Management: Address Space Structures</b></a>
+</dd>
+<p>
+
+
+
+</dl>
 
 
 
 
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week4"><b>Week 4:</b></a> 
+</big><br>
+
+<dl>
+<dt>Mon, Oct 13</dt>
+<dd><a href="oct13/index.shtml"><b>Memory Management: Contemporary Issues</b></a>
+<ul>
+<li> Reading: SGG, 8.4-8.5
+</ul>
+</dd>
+<dd><a href="../work/yalnix08.pdf"><b>Yalnix published</b></a></dd>
+<dd>Yalnix sign-ups due</dd>
+<dd>Programming Project 2 due</dd>
+
+<p>
+
+
+<dt>Tue, Oct 14 (X) </dt>
+<dd><a href="oct14/index.shtml"><b>Memory Management: Page Tables and Paging</b></a>
+<ul>
+<li> Reading: SGG, Chapter 9
+</ul>
+</dd>
+<p>
+
+
+<dt>Wed, Oct 15</dt>
+<dd><i>No class---Sean's at Google NYC</i>
+</dd>
+<p
+
+
+<dt>Fri, Oct 17</dt>
+<dd><a href="oct17/index.shtml"><b>Memory Management: Wrap-up</b></a>
+<ul>
+<li> Reading: SGG, 8.6-8.7
+</ul>
+</dd>
+<p>
+
+
+
+</dl>
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week5"><b>Week 5:</b></a> 
+</big><br>
+
+<dl>
+
+<dt>Mon, Oct 20</dt>
+<dd><a href="oct20/index.shtml"><b>Paging leftovers, IO</b></a>
+<ul>
+<li> Reading: SGG, Chapter 13
+</ul>
+</dd>
+<p>
+
+
+<dt>Tue, Oct 21 (X)</dt>
+<dd><i>Open</i>
+</dd>
+<dd>Yalnix checkpoint 1</dd>
+<p>
+
+
+<dt>Wed, Oct 22</dt>
+<dd><a href="oct22/index.shtml"><b>IO leftovers; Systems Sense intro</b></a>
+<ul>
+<li> Reading: 
+<a href="../resources/index.shtml#lampson"><b>Lampson's paper</b></a>.
+(and here's the
+<a href="../resources/lampson.pdf"><b>pdf</b></a>)
+<li> Optional reading: 
+<a href="../resources/index.shtml#kp"><b>Kernighan and Pike</b></a>
+and 
+<a href="../resources/index.shtml#brooks"><b>Brooks</b></a>
+</ul>
+</dd>
+
+
+
+
+<p>
+
+
+<dt>Fri, Oct 24</dt>
+
+<p>
+<dd><a href="oct24/index.shtml"><b>Systems Sense (and maybe a teeny bit of deadlock)</b></a>
+</dl>
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week6"><b>Week 6:</b></a> 
+</big><br>
+
+<dl>
+
+<dt>Mon, Oct 27</dt>
+<dd><strong>Special class: "Everything you wanted to know about bit vectors
+(but were afraid to ask)", by Nick</strong>
+</dd>
+<p>
+
+
+<dt>Tue, Oct 28 (X) </dt>
+<dd><a href="oct28/index.shtml"><b>Deadlock, Part 1</b></a>
+<ul>
+<li> Reading: SGG, 7.1-7.4, 7.6
+</ul>
+</dd>
+<dd>Yalnix checkpoint 2</dd>
+<p>
+
+
+<dt>Wed, Oct 29</dt>
+<dd>
+<dd><a href="oct29/index.shtml"><b>Deadlock, Part 2</b></a>
+<ul>
+<li> Reading: SGG, 7.5, 7.7
+</ul>
+</dd>
+
+<p>
+
+
+<dt>Fri, Oct 31</dt>
+<dd><b>Midterm</b>
+</dd>
+<p>
+
+
+</dl>
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week7"><b>Week 7:</b></a> 
+</big><br>
+
+<dl>
+
+<dt>Mon, Nov 3</dt>
+<dd><a href="nov03/index.shtml"><b>Scheduling: Problems and Metrics</b></a>
+<ul>
+<li> Reading: SGG, 5.1, 5.2, 5.7
+</ul>
+</dd>
+<p>
+
+
+<dt>Tue, Nov 4 (X) </dt>
+<dd><a href="nov04/index.shtml"><b>Scheduling: Everything Else</b></a>
+<ul>
+<li> Reading: SGG, 5.3-5.6
+</ul>
+</dd>
+<dd>Yalnix checkpoint 3</dd>
+<p>
+
+<dt>Wed, Nov 5</dt>
+<dd><a href="nov05/index.shtml"><b>Files Systems: Operations</b></a>
+<ul>
+<li> Reading: SGG, Chapter 10
+</ul>
+</dd>
+<p>
+
+
+<dt>Fri, Nov 7</dt>
+<dd><a href="nov07/index.shtml"><b>File Systems: Organization</b></a>
+<ul>
+<li> Reading: SGG, 11.1-11.7
+</ul>
+</dd>
+
+</dl>
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week8"><b>Week 8:</b></a> 
+</big><br>
+
+<dl>
+
+<dt>Mon, Nov 10</dt>
+<dd><a href="nov10/index.shtml"><b>File Systems: Disks</b></a>
+<ul>
+<li> Reading: SGG, Chapter 12
+</ul>
+</dd>
+<p>
+
+
+<dt>Tue, Nov 11 (X) </dt>
+<dd><i>Open</i>
+</dd>
+<dd>Yalnix checkpoint 4</dd>
+<p>
+
+
+<dt>Wed, Nov 12</dt>
+<dd><a href="nov12/index.shtml"><b>File Systems (Leftovers); Distributed File Systems (p1)</b></a>
+<ul>
+<li> Reading: SGG, Chapter 17, 11.8
+</ul>
+</dd>
+<p>
+
+
+<dt>Fri, Nov 14</dt>
+<dd><a href="nov14/index.shtml"><b>Distributed File Systems (p2)</b></a>
+<ul>
+<li> Reading: SGG, 3.6
+</ul>
+</dd>
+
+</dl>
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week9"><b>Week 9:</b></a> 
+</big><br>
+
+<dl>
+
+
+<dt>Mon, Nov 17</dt>
+<dd>Guest Lecture by <a href="/~doug/"><b>Prof. Doug McIlroy</b></a> (the first user of the first Unix!)
+</dd>
+<p>
+
+
+<dt>Tue, Nov 18 (X) </dt>
+<dd><a href="nov18/index.shtml"><b>Security: Overview, Protection</b></a>
+<ul>
+<li> Reading: SGG, Chapter 14.
+<li> Reading: <a href="../resources/index.shtml#rsa"><b>RSA FAQ</b></a>
+2.1, 3.1, 3.2, 5.1. 
+</ul>
+</dd>
+<dd>Yalnix checkpoint 5</dd>
+<p>
+
+
+<dt>Wed, Nov 19</dt>
+<dd><a href="nov19/index.shtml"><b>Security: Crypto, Authentication</b></a>
+<ul>
+<li> Reading: SGG, Chapter 19
+</ul>
+</dd>
+<p>
+
+
+<dt>Fri, Nov 21</dt>
+<dd><a href="nov21/index.shtml"><b>Security: Trouble and Hope</b></a>
+</dd>
+
+</dl>
+
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week10"><b>Week 10:</b></a> 
+</big><br>
+
+<dl>
+
+
+<dt>Mon, Nov 24</dt>
+<dd><a href="nov24/index.shtml"><b>Networks</b></a>
+<ul>
+<li> Reading: SGG, Chapter 16
+</ul>
+</dd>
+<p>
+
+
+<dt>Tue, Nov 25 (X) </dt>
+<dd><i>Open</i>
+</dd>
+<dd>Yalnix checkpoint 6</dd>
+<p>
+
+
+<dt>Wed, Nov 26</dt> 
+<dd>
+<i>No class---Thanksgiving Break</i>
+</dd>
+<p>
+
+
+<dt>Fri, Nov 28</dt>  
+<dd>
+<i>No class---Thanksgiving Break</i>
+</dd>
+
+</dl>
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week11"><b>Week 11:</b></a> 
+</big><br>
+
+<dl>
+
+<dt>Mon, Dec 1</dt>
+<dd><a href="dec01/index.shtml"><b>Distributed Computing</b></a>
+<ul>
+<li> Reading: SGG, 6.9, 18.3, 18.7
+</ul>
+</dd>
+<p>
+
+
+<dt>Tue, Dec 2 (X) </dt>
+<dd><a href="dec02/index.shtml"><b>How the Yalnix Support Software Works</b></a>
+</dd>
+<dd>Yalnix due</dd>
+<p>
+
+
+<dt>Wed, Dec 3</dt> 
+<dd><a href="dec03/index.shtml"><b>Course Wrap-up</b></a>
+</dd>
+<p>
+
+</dl>
+
+
+
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="week1"><b>Endgame:</b></a> 
+</big><br>
+
+<dl>
+<dt>Sat, Dec 6</dt><dd> Final, 8AM.  Location TBA by Registrar.</dd>
+</dl>
+
+
+<p>
 <p> 
  
 <hr> 
 <b> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
 
-<A HREF="/~cs58/"><b>Back to CS58 Home Page</b></A>
+<A HREF="../index.shtml"><b>Back to CS58 Home Page</b></A>
 </b> 
 &nbsp;&nbsp;&nbsp; 
 <a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
@@ -217,6 +557,5 @@ to discuss details with each new instructor!)
  
  
 
-</BODY>
-</HTML>
-i
+</body> </html>
+              

@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/%7Eniclane/index.html
+http://www.cs.dartmouth.edu/%7Eniclane/papers.html
 3
 <html>
 <head>
@@ -10,7 +10,7 @@ http://www.cs.dartmouth.edu/%7Eniclane/index.html
 		font-family: monospace;
   }
 
-  h3,h2,h1 {
+  h3,h2,h1,h4 {
    padding: 0px;
 	 margin: 0px;
 	 margin-top: 0px;
@@ -42,35 +42,90 @@ http://www.cs.dartmouth.edu/%7Eniclane/index.html
 		<tr cellpadding=5 cellspacing=5>
 			<td colspan=2 cellpadding=5 cellspacing=5 >
 			    <BR>
-					<h2>What's new</h2>
-					Hong Lu, Wei Pan, Nicholas D. Lane, Tanzeem Choudhury, Andrew T. Campbell, "Scalable Sound Sensing
-					for People-Centric Sensing Applications on Mobile Phones", ACM MobiSys 2009, Kraków, Poland, 22-25
-					June 2009.
-					<BR><BR>
-					<h2>Interests</h2>
-					Mobile phone based sensing applications and systems. Intersection of machine learning, mobile
-					systems and computer networking.
-					<BR><BR>
-          <h2>Affiliations</h2>
-					I work with some great people as part of: the <a
-					href='http://www.cs.dartmouth.edu/~sensorlab/'>Sensor Networks Group</a>, the <a
-					href='http://metrosense.cs.dartmouth.edu'>MetroSense</a> project and <a
-					href='http://cenceme.org'>CenceMe</a>. 
-          <BR><BR>
-					<h2>My Research</h2>
- I am a 4th year PhD student working with <a href='http://www.cs.dartmouth.edu/~campbell'>Andrew T.
- Campbell</a> in the Sensor Lab at Dartmouth. My research interests
- revolve around people-centric sensing applications and systems. I am an experimentalist who likes
- to build prototype mobile sensing systems based on well founded models.  I have worked on a variety of
- sensing platforms (e.g., mote-class sensors, mobile phones) and have experience not only in evaluating
- network and system performance but have conducted a number of user studies and analyzed sensor data; for
- example, when designing classifiers that recognize forms of human behavior.  Results from my research have
- been published in number of conferences including ACM SenSys, ACM MobiSys, Pervasive, and HotMobile. I have
- worked on a number of aspects of people-centric sensing systems including: system architecture, applications
- (e.g., CenceMe), localization, calibration, sensor co-ordination and the classification of high level events
- (e.g., music is playing) from a wide range of low-level sensor modalities (e.g., audio, location,
-		 accelerometer). I have also worked in industry before leaping into research.
-			  </tt>
+					<h2>Papers</h2>
+				  
+					Below are peer reviewed publications excluding demos:
+<BR><BR>
+<h4>2009</h4>
+Hong Lu, Wei Pan, Nicholas D. Lane, Tanzeem Choudhury, Andrew T. Campbell, "Scalable Sound Sensing for
+People-Centric Sensing Applications on Mobile Phones", to appear MobiSys 2009.
+<p>
+<h4>2008</h4>
+Emiliano Miluzzo, Nicholas D. Lane, Kristof Fodor, Ronald Peterson, Hong Lu, Mirco Musolesi, Shane B.
+Eisenman, Xiao Zheng, Andrew T. Campbell, "Sensing Meets Mobile Social Networks: The Design, Implementation
+and Evaluation of the CenceMe Application", To appear in In Proc. of Seventh ACM Conference on Embedded
+Network Sensor Systems (Sensys 2008), Raleigh, NC, Nov. 5 - Nov. 7, 2008 [<a href="sensys08a.pdf"
+onClick="javascript:urchinTracker('/pubs/sensys08a.pdf');">pdf</a>] [bibtext] [<a
+href='../talks/cenceme_sensys08.pdf'>talk</a>]
+<p>
+Emiliano Miluzzo, James M. H. Oakley, Hong Lu, Nicholas D. Lane, Ronald A. Peterson, Andrew T. Campbell, "Evaluating the iPhone as a Mobile Platform for People-Centric Sensing Applications", To appear in Proc. of Intl Workshop on Urban, Community, and Social Applications of Networked Sensing Systems (UrbanSense08). Raleigh, NC, USA, Nov. 4, 2008. [<a href="sensys08b.pdf" onClick="javascript:urchinTracker('/pubs/sensys08b.pdf');">pdf</a>] [bibTex] 
+<p>
+Andrew T. Campbell, Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald A. Peterson, Hong Lu, Xiao Zheng, Mirco Musolesi, Kristof Fodor, Gahng-Seop Ahn, "People Power - The Rise of People-Centric Sensing", IEEE Internet Computing Special Issue on Mesh Networks, 2008. [<a href="ic.pdf" onClick="javascript:urchinTracker('/pubs/ic.pdf');">pdf</a>] [bibtex]
+<p>
+Emiliano Miluzzo, Nicholas D. Lane, Andrew T. Campbell, Reza Olfati-Saber, "CaliBree: a Self-Calibration System for Mobile Sensor Networks", International Conference on Distributed Computing in Sensor Networks (DCOSS 2008), Santorini Island, Greece, June 11-14, 2008. [<a href="dcoss08a.pdf" onClick="javascript:urchinTracker('/pubs/dcoss08a.pdf');">pdf</a>] [BibTex]
+<p>
+Shane B. Eisenman, Nicholas D. Lane, and Andrew T. Campbell, "Techniques for Improving Opportunistic Sensor Networking Performance", International Conference on Distributed Computing in Sensor Networks (DCOSS 2008), Santorini Island, Greece, June 11-14, 2008. [<a href="dcoss08b.pdf" onClick="javascript:urchinTracker('/pubs/dcoss08b.pdf');">pdf</a>] [BibTex]
+<p>
+Mirco Musolesi, Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Tanzeem Choudhury, Andrew T. Campbell,"The Second Life of a Sensor: Integrating Real-world Experience in Virtual Worlds using Mobile Phones", In proc. of Fifth Workshop on Embedded Networked Sensors (HotEmNets 2008), June 2008, Charlottesville, Virginia, USA. [<a href="hotemnets08.pdf" onClick="javascript:urchinTracker('/pubs/hotemnets08.pdf');">pdf</a>]
+<p>
+Nicholas D. Lane, Hong Lu, Shane B. Eiseman and Andrew T. Campbell, "Cooperative Techniques Supporting
+Sensor-based People-centric Inferencing", in Proc. of Pervasive 2008, Sydney, Australia, May 19-22, 2008. [<a
+href="pervasive08.pdf" onClick="javascript:urchinTracker('/pubs/pervasive08.pdf');">pdf</a>] [<a
+href="pervasive08.bibtex" onClick="javascript:urchinTracker('/bibtex/pervasive08.bibtext');">bibtext</a>]
+[ppt] [<a href='../talks/distill_pervasive08.pdf'>talk</a>]
+<p>
+Hong Lu, Nicholas D. Lane, Shane B. Eisenman, Andrew T. Campbell, "Bubble-Sensing: A New Paradigm for Binding a Sensing Task to the Physical World using Mobile Phones ", Proc. of International Workshop on Mobile Devices and Urban Sensing, St. Louis, April 21, 2008. [<a href="modus08.pdf" onClick="javascript:urchinTracker('/pubs/modus.pdf');">pdf</a>] [BibTex]
+<p>
+Nicholas D. Lane, Shane B. Eisenman, Mirco Musolesi, Emiliano Miluzzo, Andrew T. Campbell, "Urban Sensing
+Systems: Opportunistic or Participatory? ", Proc. of Ninth Workshop on Mobile Computing Systems and
+Applications (HotMobile 2008), Silverado Resort, Napa Valley, CA, USA, Feb. 25-26, 2008. [<a
+href="hotmobile08.pdf" onClick="javascript:urchinTracker('/pubs/hotmobile08.pdf');">pdf</a>] [bibtex] [<a
+href='../talks/opp_hotmobile08.pdf'>talk</a>]
+<p>
+<h4>2007</h4>
+Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Andrew T. Campbell, "CenceMe - Injecting Sensing Presence into Social Networking Applications", (Invited paper) In Proc. of Second European Conference on Smart Sensing and Context (EuroSSC 2007), Lake District, UK, October 23-25, 2007. [<a href="euroscc07.pdf" onClick="javascript:urchinTracker('/pubs/euroscc07.pdf');">pdf</a>] [bibtex]
+<p>
+Nicholas D. Lane, Shane B. Eisenman, Emiliano Miluzzo, Mirco Musolesi, Andrew T. Campbell, "Urban Sensing:
+Opportunistic or Participatory?", First Workshop on Sensing on Everyday Mobile Phones in Support of
+Participatory Research, Sydney, Australia, November 6, 2007. [<a href="sensys07b.pdf" onClick="javascript:urchinTracker('/pubs/sensys07b.pdf');">pdf</a>] [bibtex]
+<p>
+Shane B. Eisenman, Emiliano Miluzzo, Nicholas D. Lane, Ronald A. Peterson, Gahng-Seop Ahn, and Andrew T.
+Campbell, "The BikeNet Mobile Sensing System for Cyclist Experience Mapping", In Proc. of Sixth ACM Conference
+on Embedded Network Sensor Systems (Sensys 2007), Sydney Australia, November 6 - 9th 2007. [<a
+href="sensys07a.pdf" onClick="javascript:urchinTracker('/pubs/sensys07a.pdf');">pdf</a>] [bibtex]
+[<a href='../talks/bikenet_sensys07.pdf'>talk</a>]
+<p>
+Nicholas D. Lane, Hong Lu and Andrew T. Campbell, "Ambient Beacon Localization: Using Sensed Characteristics
+of the Physical World to Localize Mobile Sensors", In Proc. of Fourth IEEE Workshop on Embedded Networked Sensors
+(EmNets 2007), 25-26 June, 2007 Cork, Ireland. [<a href="emnets07.pdf"
+onClick="javascript:urchinTracker('/pubs/emnets07.pdf');">pdf</a>] [bibtex] [<a
+href='../talks/abl_emnets07.pdf'>talk</a>]
+<p>
+<h4>2006</h4>
+Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald A. Peterson, Gahng-Seop Ahn, and Andrew T.
+Campbell, "MetroSense Project: People-Centric Sensing at Scale," First Workshop on World-Sensor-Web: Mobile
+Device Centric Sensory Networks and Applications (WSW'2006), Boulder CO, Oct 31, 2006. [<a href="wsw06.pdf" onClick="javascript:urchinTracker('/pubs/wsw06.pdf');">pdf</a>] [bibtex]
+<P>
+Emiliano Miluzzo, Nicholas D. Lane, and Andrew T. Campbell, "Virtual Sensing Range", (Poster Abstract), In Proc. of Fourth ACM Conference on Embedded Networked Sensor Systems (SenSys 2006), Boulder, Colorado, USA, November 1-3, 2006. [<a href="sensys06.pdf" onClick="javascript:urchinTracker('/pubs/sensys06.pdf');">pdf</a>] [bibtex] 
+<p>
+Andrew T. Campbell, Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald Peterson, "People-Centric Urban Sensing" (Invited Paper), In Proc. of Second ACM/IEEE Annual International Wireless Internet Conference (WICON 2006), Boston, Massachusetts, USA, August 2-5, 2006. [<a href="wicon06.pdf" onClick="javascript:urchinTracker ('/pubs/wicon06.pdf'); ">pdf</a>] [bibtex]
+<p>
+Nicholas D. Lane and Andrew T. Campbell, "The Influence of Microprocessor Instructions on the Energy
+Consumption of Wireless Sensor Networks", In Proc. of Third IEEE Workshop on Embedded Networked Sensors
+(EmNets 2006), Cambridge, Massachusetts, USA May 30-31, 2006 [<a href="emnets06.pdf"
+onClick="javascript:urchinTracker ('/pubs/emnets06.pdf'); ">pdf</a>] [bibtex] [<a
+href='../talks/influence_emnets06.pdf'>talk</a>]
+<p>
+<h4>2003</h4>
+Masoodian, M., and Lane, N., An Empirical Study of Textual and Graphical Travel Itinerary Visualization using Mobile Phones. Conference Proceedings of AUIC 2003, The fourth Australasian User Interface Conference, (Adelaide, Australia, 4-7 February), Australian Computer Society Inc, 11-18.
+<p>
+<h4>2002</h4>
+Masoodian, M., and Lane, N., MATI: A System for Accessing Travel Itinerary Information using Mobile Phones. Conference Proceedings of HCI '02, The 16th British HCI Group Annual Conference (London, UK, 2-6 September), People and Computers Series, Springer Verlag, Vol. 16, 267-280. 
+<p>
+<h4>2001</h4>
+Masoodian, M., and Lane, N., Access to Personal Travel Itinerary Information Using Mobile Phones. Conference Proceedings of OZCHI '01, The CHISIG Annual Conference on Human-Computer Interaction (Perth, Australia, 20-22 November), Ergonomics Society of Australia, 90-95.
+<p>
+Masoodian, M., and Lane, N., Mobile Access to Travel Itinerary Information. Abridged Proceedings of HCI International '01, 9th International Conference on Human-Computer Interaction (New Orleans, USA, 5-10 August), Lawrence Erlbaum Associates, 332-334.
 			</td>
 		</tr>
 		</table>
@@ -85,3 +140,4 @@ _uacct = "UA-639085-1";
 urchinTracker();
 </script>
 </html>
+29(200i

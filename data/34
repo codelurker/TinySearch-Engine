@@ -1,210 +1,194 @@
-http://www.cs.dartmouth.edu/~dfk
+http://www.cs.dartmouth.edu/~tanzeem
 2
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<HTML>
-<HEAD><TITLE>David Kotz</TITLE></HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
-<H1>David Kotz, Professor of <a href="/">Computer Science</a></H1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
 
-<table>
-<tr valign=top>
-<td>
-  <center>
-    <IMG width=415 height=353 align=top alt="photo" src="photos/Kotz2003-4small.jpg">
-  </center>
-</td>
 
-<td> 
+  
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
 
-<h3>
-    Ph.D. <A HREF="http://www.cs.duke.edu/">Duke University</A>, 1991.<br>
-    A.B. <A HREF="http://www.dartmouth.edu/">Dartmouth College</A>,
-	<a href="http://www.alum.dartmouth.org/classes/86/">1986</a>.<br>
-    <A HREF="http://www.choate.edu/">Choate Rosemary Hall</A>, 1982.
-</h3>
-<p>
 
-<strong>Search my web pages:</strong><br>
-<form name="seek" method="get" action="http://search.dartmouth.edu/query.html">
-<input type=hidden name=qp value="+url:www.cs.dartmouth.edu/~dfk/">
-<input type=hidden name=qs value="">
-<input type=hidden name=qc value="">
-<input type=hidden name=ws value="0">
-<input type=hidden name=qm value="0">
-<input type=hidden name=st value="1">
-<input type=hidden name=nh value="10">
-<input type=hidden name=lk value="1">
-<input type=hidden name=rf value="0">
-<input type=hidden name=oq value="">
-<input type=hidden name=rq value="0">
-<input type="text" name="qt" size="15" value="" maxlength="200">
-<input type=submit value=" Search ">
-<FONT SIZE="2">
-&nbsp;&nbsp;<a href="http://search.dartmouth.edu/help/">Help</a>
-</FONT>
-</form>
+  
 
-<p></p>  
-<p>
-<a href="#contact">Contact information</a> (below)
-<!-- this award is too old to display any more
-  <p>
-  <p>
-  <p>
-  <a href="http://www.educause.edu/awards/network/2004/winners.asp"><img src="EDUCAUSE-award.gif" width=361 height=101 border=0 alt="2004 EDUCAUSE Award for Excellence in Networking"></a>
- -->
 
-<p></p>  
-<p>
-  <FONT size=2 color=#980000>
-  Local Time and Weather in Bangalore, India<br>
-  (where I am currently on sabbatical)<br>
-  </FONT>
-  <A href="http://www.wunderground.com/global/stations/43295.html">
-  <IMG height=41 width=122 alt="Click for Bangalore, India Forecast"
-       src="http://banners.wunderground.com/banner/gizmotimetemp_both/global/stations/43295.gif"></A>
+
+  
+  <title>Tanzeem Choudhury's Webpage</title>
+<!-- #EndEditable -->
+  <link href="styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+
+  
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+.style2 {
+margin-top: 6px;
+}
+.style3 {
+color: #FF0000;
+}
+  </style>
+</head>
+
+
+<body>
+
+
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
+
+
+<h3>Assistant Professor</h3>
+
+
+<h4>Computer Science, Dartmouth College</h4>
+
+
+</div>
+
+
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
+<ul>
+
+
+  <li><a href="index.html">About</a></li>
+
+
+  <li><a href="pubs/pubs.html">Publications</a></li>
+
+
+  <li><a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
+
+
+  <li><a href="students/students.html">Students</a></li>
+
+
+  <li><a href="teaching/teaching.html">Teaching</a></li>
+
+
+  <li><a href="press/press.html">Press</a></li>
+
+
+  <li><a href="links/links.html">Links</a></li>
+
+
+  <li><a href="contact/contact.html">Contact</a></li>
+
+
+</ul>
+
+
+</div>
+
+
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
+<p class="style2">I work on
+developing machine learning techniques for systems that can reason
+about human activities, interactions, and social networks in everyday
+environments. I joined the <a href="http://www.cs.dartmouth.edu">computer
+science department of Dartmouth</a> in 2008. Prior to that I was
+a member of the research staff at <a href="http://www.intel-research.net/seattle/">Intel Research
+Seattle</a>.<br />
+
+
+<br />
+
+
+I received my Ph.D. degree from the <a href="http://www.media.mit.edu/">Media Laboratory</a>
+at the Massachusetts Institute of Technology (MIT). I created the
+sociometer and my&nbsp;<a href="pubs/choudhury_phd_thesis.pdf">thesis</a>&nbsp;was
+the first to show the feasibility of automatically capturing and
+modeling social networks based on face-to-face conversations that occur
+in the physical world. I also hold a B.S. in electrical engineering
+from the <a href="http://www.ece.rochester.edu/">University
+of Rochester</a>, and M.S. from the <a href="http://www.media.mit.edu/">MIT Media Laboratory.</a><br />
+
+
+<br />
+
+
+<span style="font-weight: bold; color: rgb(204, 0, 0); font-style: italic;">What's
+new</span><br />
+
+
+</p>
+<img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /> <a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494">Computer Science -- A Growing Field That Needs a Few (More) Good Women.</a>
+<p class="style2" style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"> </span></p>
+<p class="style2" style="color: rgb(0, 0, 0);"><img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /><span style="color: rgb(0, 0, 0);"> Recipient of&nbsp;National
+Science Foundation <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=0845683">
+Faculty Early Career Development Award</a> (NSF CAREER)</span>.</p>
+
+
+<p class="style2" style="color: rgb(0, 0, 0);"><img style="width: 50px; height: 27px;" alt="TR35logo" src="images/TR35logo.jpg" /><a><span style="color: rgb(0, 0, 0);"> Named
+one of </span></a><a href="http://www.technologyreview.com/tr35/">MIT Technology
+Review's TR 35 for 2008</a>: Top 35 innovators under the age of
+35.<br />
+
+
 </p>
 
-</td>
-</tr>
-</table>
+
+<p class="style2"> <img style="width: 38px; height: 27px;" alt="LoCA2009logo" src="images/loca2009.png" /> I am also
+the program co-chair (along with <a href="http://www.cs.ucd.ie/staff/aquigley/home/">Aaron
+Quigley</a>) of <a href="http://loca2009.context-aware.org/">LoCA
+2009</a> (4th International Symposium on Location and
+Context-Awareness)</p>
+<p class="style2"><img style="border: 0px solid ; width: 37px; height: 27px;" alt="AAAIlogo" src="images/image320.jpg" /><a href="http://research.microsoft.com/%7Eakapoor/"> Ashish
+Kapoor</a>, <a href="http://www.cs.rochester.edu/u/kautz/">Henry
+Kautz</a>, and I organized the <a href="http://www.aaai.org/Library/Symposia/Spring/ss09-04.php">AAAI
+Spring 2009 Symposium</a> on <a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09">Human
+Behavior Modeling</a><br />
 
 
-<table>
-<tr>
-<td valign=middle bgcolor=lightgreen width="60%">
-<font size="+1"><b>Professional</b></font>
-</td>
-<td valign=middle bgcolor=lightblue>
-<font size="+1"><b>Personal</b></font>
-</td>
-</tr>
-<tr>
-<!-- -------------------- -->
-<!-- Professional section -->
-<td valign=top>
-<table>
-<tr valign=top align=left>
-<td> <!-- photo -->
-<a href="photos/Kotz2001small.jpg"><IMG width=75 height=111 align=left alt="formal photo" src="photos/Kotz2001tiny.jpg"></a>
-</td>
-<td align=left> <!-- list -->
-<ul>
-  <li><a href="vita.pdf">My vita</a> (pdf) and <a href="bio-dfk.txt">short bio</a></li>
-
-  <!-- 
-  <li><a href="schedule.html">My schedule</A></li>
-  -->
-
-  <li><a href="papers/">My research interests, and papers</a></li>
-       
-  <li> <a href="people.html">My group</a></li>
-       
-  <li><a href="teaching.html">My courses</a>
-</ul>
-</td>
-</tr>
-<tr align=left valign=top>
-<td colspan=2> <!-- list -->
-<b>Current Activities:</b>
-<ul>
-  <li> <a href="http://www.cies.org">Fulbright Research Scholar</a> to
-  <a href="http://ece.iisc.ernet.in">IISc</a> in Bangalore, India, 2008-09 
-  <li> <a href="http://www.ists.dartmouth.edu">Institute for Security,
-  Technology, and Society</a> (ISTS), Principal Investigator 
-  <li> <a href="http://www.ieee.org/web/membership/fellows/index.html" >IEEE Fellow</a>
-  and member of the
-  <a href="http://www.computer.org">IEEE Computer Society</a></li>
-  <li> Senior Member of the <a href="http://www.acm.org">ACM</a></li>
-  <li> Member of <a
-  href="http://www.usenix.org/students/universityoutreach.html">USENIX</a>,
-  and University Campus Liaison
-  <li><a href="http://www.icdcn.org/">ICDCN</a> Program committee member</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<!-- -------------------- -->
-<!-- Personal section     -->
-<td valign=top>
-<table>
-<tr align=left valign=top>
-<td> <!-- photo -->
-<a href="caricature/"><IMG border=0 width=79 height=117 align=left alt="caricature drawing" src="caricature/dfk0.05.JPG"></a>
-</td>
-<td> <!-- list -->
-<ul>
-  <li> My three <a href="kids.html">kids</a>.
-       
-  <li> My invention, the <a href="seatpack/">seatpack</a>.
-       
-  <li> My house projects: <a href="house/">1997</a>,
-       <a href="house/deck/">1998</a>,
-       <a href="house/addition/">2000</a>,
-       <a href="house/patio/">2005</a>,
-       <a href="house/walls/">2006</a>,
-       <a href="house/riverbank/">2006</a>, and
-       <a href="house/boatshed/">2007</a>.
-  <li> You can rent our <a href="http://homepage.mac.com/pcjenkins/Kiawah/beach-house.html">beach house</a> in South Carolina.
-  <li> I was an early co-author of <a href="http://www.gnuplot.info">gnuplot</a>.
-</ul>
-</td>
-</tr>
-<tr align=left valign=top>
-<td> <!-- photo -->
-<a href="outdoors/"><IMG border=0 width=75 height=100 align=left alt="winter photo" src="photos/dfk-ski-tiny.jpg"></a>
-</td>
-<td> <!-- list -->
-<ul>
-  <li> <a name="hiking" href="outdoors/hiking.html">Hiking and skiing</a>
-  <li> <a name="travel" href="trips/">Travel and trips</a>
-</ul>
-<tr>
-</table>
+</p>
 
 
-</td>
-</tr>
-</table>
+<p class="style2"><br />
+</p>
 
-<hr>
 
-<h3><a name="contact">Contact information</a>, and how to pronounce Kotz:</h3>
-<b>I am on sabbatical in India through May and will return to Dartmouth in mid-July.</b>
-<ul>
-  <li> Pronounce "Kotz" like "coats", not "cots".  Thanks!
-  <li> Email: lastname at cs.dartmouth.edu
-<!--   <li> Telephone <B> (603) 646-1439 </B> <BR>  -->
-  <li> Fax:   (206) 339-3145 (delivered by email through faxaway.com) <BR> 
-  <li> Paper mail (through mid-June 2009):<p>
-	David Kotz, Visiting Professor<br>
-	Department of Electrical Communication Engineering
-	(<a href="http://ece.iisc.ernet.in/" >ECE</a>)<br>
-	Indian Institute of Science
-  	(<a href="http://www.iisc.ernet.in/" >IISc</a>)<br>
-	Bangalore, 560 012, INDIA
-       <p>
-  <!-- 
-       <pre>
-       Professor David Kotz
-       Department of Computer Science
-       Dartmouth College
-       6211 Sudikoff Laboratory
-       Hanover, NH  03755-3510 USA
-       </pre>
- -->
-  <li> <a href="Kotz.vcf"><img src=vcard.png align=center>&nbsp;vCard</a> containing all of the above
-</ul>
+<!-- #EndEditable --></div>
 
-<p>
-<hr>
-<p>
 
-<!-- hhmts start -->
-Last modified: Thu Oct 30 09:42:40 IST 2008
-<!-- hhmts end -->
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="index.html">About</a>
+|
+<a href="pubs/pubs.html">Publications</a> | <a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a> | <a href="students/students.html">Students</a> |
+<a href="teaching/teaching.html">Teaching</a> |
+<a href="press/press.html">Press</a> | <a href="links/links.html">Links</a> | <a href="contact/contact.html"> Contact</a></p>
 
-</BODY>
-</HTML>
-á
+
+</div>
+
+
+<!-- End Footer --></div>
+
+
+<!-- End content_container --></div>
+
+
+<!-- End Container --><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3810501; var sc_invisible=1; var sc_partition=34; var sc_click_stat=1; var sc_security="9ceb4d35"; </script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a
+href="http://www.statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/3810501/0/9ceb4d35/1/" alt="web stats"
+></a></div></noscript>
+
+
+<!-- End of StatCounter Code -->
+</body>
+</html>
+htmlñ

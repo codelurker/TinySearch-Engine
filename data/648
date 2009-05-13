@@ -1,41 +1,27 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR97-314
+http://www.cs.dartmouth.edu/reports/abstracts/TR96-291
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR97-314 </TITLE>
-<META NAME="description" CONTENT="KLZ: A Prototype X Protocol Compression System">
-<META NAME="number" CONTENT="PCS-TR97-314">
-<META NAME="year" CONTENT="1997">
-<META NAME="title" CONTENT="KLZ: A Prototype X Protocol Compression System">
-<META NAME="abstract" CONTENT="	  One of the most commonly used graphics protocol is the X
-Protocol, enabling programs to display graphics images.  When running
-the X Protocol over the network, a lot of structured data (messages
-with fields) need to be transmitted.  Delays can be detected by human
-users when connected through a low-bandwidth network.  The solution is
-to compress the X protocol.  XRemote, a network version of the X
-Protocol, uses Dictionary-based compression.  In XRemote, strings are
-recorded in the dictionary.  When a string repeats, its index in the
-dictionary is transmitted.  Higher Bandwidth X (HBX) uses statistical
-modeling techniques instead.  A context model, which depends on the
-nature of the field in a particular type of message and the
-frequencies of the values of the field, is associated with each field.
-XRemote is much faster than HBX, but HBX achieves better compression
-than XRemote.  The KLZ system is developed to take advantage of our
-knowledge about the fields in the XMotionNotify packet (what X sends
-when the mouse moves) and fast Dictionary (LZW) compression.  In
-essence, KLZ reorders and rewrites fields in the XMotionNotify packet
-so that the fields will be more easily compressed by the fast LZ
-coder.  My experiments show that KLZ compresses this packet nearly as
-well as HBX, and 5 times better than pure LZ.  KLZ is slightly faster
-than pure LZ, and and 10 times faster than HBX.  Since many modems
-already implement LZ compression, KLZ could also be used to reorder
-data before passing them to the modem with LZ compression for
-transmission. This reordering would lead to vastly improved
-compression almost for free.">
-<META NAME="author" CONTENT="Ka-Tak Lo">
+<TITLE> Dartmouth PCS-TR96-291 </TITLE>
+<META NAME="description" CONTENT="Object Oriented Scenes for Virtual Light">
+<META NAME="number" CONTENT="PCS-TR96-291">
+<META NAME="year" CONTENT="1995">
+<META NAME="title" CONTENT="Object Oriented Scenes for Virtual Light">
+<META NAME="abstract" CONTENT=" Ray tracing is one of many way to use a computer to generate an image. Ray
+tracers produce images by simulating light. Eliminating the details that might
+distract one from the interesting parts of ray tracing algorithms was purpose
+of my thesis project.  The software I have written can be divide into three
+parts: the virtual frame buffer, the support classes and the ray tracing
+abstract base classes.
+ The virtual frame buffer class, vfb, provides a simple means of rendering and
+studying the final image produced by a graphical algorithm. The support classes
+provide an elegant notation for the equations involved in ray tracing.  The ray
+tracing base classes and associated classes provide a object oriented structure
+for defining the objects that make up a scene.  ">
+<META NAME="author" CONTENT="Jonathan A. Moore">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -129,65 +115,54 @@ compression almost for free.">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> KLZ: A Prototype X Protocol Compression System </b></font><br>
+<font size=+2><b> Object Oriented Scenes for Virtual Light </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Lo,Ka-Tak.shtml">Ka-Tak Lo</A>
+ <A HREF="../../authors/Moore,Jonathan.A..shtml">Jonathan A. Moore</A>
 <br>
-Dartmouth PCS-TR97-314
+Dartmouth PCS-TR96-291
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
 </P><P>
-	  One of the most commonly used graphics protocol is the X
-Protocol, enabling programs to display graphics images.  When running
-the X Protocol over the network, a lot of structured data (messages
-with fields) need to be transmitted.  Delays can be detected by human
-users when connected through a low-bandwidth network.  The solution is
-to compress the X protocol.  XRemote, a network version of the X
-Protocol, uses Dictionary-based compression.  In XRemote, strings are
-recorded in the dictionary.  When a string repeats, its index in the
-dictionary is transmitted.  Higher Bandwidth X (HBX) uses statistical
-modeling techniques instead.  A context model, which depends on the
-nature of the field in a particular type of message and the
-frequencies of the values of the field, is associated with each field.
-XRemote is much faster than HBX, but HBX achieves better compression
-than XRemote.  The KLZ system is developed to take advantage of our
-knowledge about the fields in the XMotionNotify packet (what X sends
-when the mouse moves) and fast Dictionary (LZW) compression.  In
-essence, KLZ reorders and rewrites fields in the XMotionNotify packet
-so that the fields will be more easily compressed by the fast LZ
-coder.  My experiments show that KLZ compresses this packet nearly as
-well as HBX, and 5 times better than pure LZ.  KLZ is slightly faster
-than pure LZ, and and 10 times faster than HBX.  Since many modems
-already implement LZ compression, KLZ could also be used to reorder
-data before passing them to the modem with LZ compression for
-transmission. This reordering would lead to vastly improved
-compression almost for free.
+ Ray tracing is one of many way to use a computer to generate an image. Ray
+tracers produce images by simulating light. Eliminating the details that might
+distract one from the interesting parts of ray tracing algorithms was purpose
+of my thesis project.  The software I have written can be divide into three
+parts: the virtual frame buffer, the support classes and the ray tracing
+abstract base classes.
+</P><P>
+ The virtual frame buffer class, vfb, provides a simple means of rendering and
+studying the final image produced by a graphical algorithm. The support classes
+provide an elegant notation for the equations involved in ray tracing.  The ray
+tracing base classes and associated classes provide a object oriented structure
+for defining the objects that make up a scene.  
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-Senior Honors Thesis.  Advisor: John M. Danskin.
+A Senior Undergraduate Honors Thesis in Computer Science.<p>
+Please see the
+<a href="http://www.cs.dartmouth.edu/reports/TR96-291.tiffs/">TIFF images</a>.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR97-314.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (416KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-291.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (80KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR97-314.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-291.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
  PDF (144KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR97-314.ascii">plain text</a>]
-  [<a href="TR97-314.bib">BIB</a>]
-  [<a href="TR97-314.bibtex">BibTeX</a>]
-  [<a href="TR97-314.refer">Refer</a>]
+  [<a href="TR96-291.ascii">plain text</a>]
+  [<a href="TR96-291.bib">BIB</a>]
+  [<a href="TR96-291.bibtex">BibTeX</a>]
+  [<a href="TR96-291.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Ka-Tak Lo, 
-"KLZ: A Prototype X Protocol Compression System."
-Dartmouth Computer Science Technical Report PCS-TR97-314,
-May 1997.
+Jonathan A. Moore, 
+"Object Oriented Scenes for Virtual Light."
+Dartmouth Computer Science Technical Report PCS-TR96-291,
+June 1995.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->

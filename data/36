@@ -1,193 +1,207 @@
-http://www.cs.dartmouth.edu/~tanzeem
+http://www.cs.dartmouth.edu/~farid
 2
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<html>
 <head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
 
-  
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<!-- #BeginEditable "doctitle" -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+   var isNS4 = (document.layers) ? true : false;
+   var isIE4 = (document.all && !document.getElementById) ? true : false;
+   var isIE5 = (document.all && document.getElementById) ? true : false;
+   var isNS6 = (!document.all && document.getElementById) ? true : false;
+   var home_bg_index;
 
+   function pickhome_bg() {
+      home_bg_index = 9;
+      filename = "home_bg" + home_bg_index + ".gif";
+      photo = new Image(); photo.src = filename;
+      document.home_bg.src = photo.src;
+   }
 
-  
-
-
-
-  
-  <title>Tanzeem Choudhury's Webpage</title>
-<!-- #EndEditable -->
-  <link href="styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
-
-
-  
-  <style type="text/css">
-.style1 {
-color: #006699;
-}
-.style2 {
-margin-top: 6px;
-}
-.style3 {
-color: #FF0000;
-}
-  </style>
+   function setvis( name, val ) {
+      if( isNS4 ) {
+          p = document.layers[name];
+	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
+      } else {
+	if( isIE4 ){
+          p = document.all[name].style;
+	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else if( isIE5 || isNS6 ) {
+          p = document.getElementById(name).style;
+	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else {
+          p = document.getElementById(name).style;
+	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
+	}
+      }
+   }
+//-->
+</SCRIPT>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066"
+      onLoad="pickhome_bg();">
+
+
+<META name="keywords" content="Hany Farid, Hani Farid, research, vision, image
+processing, computer vision, machine vision, human vision, steerable
+filters, derivative filters, fractional derivatives, fractional
+fourier transform, range estimation, image separation, separating
+reflections, digital forgery, digital tampering, digital forensics,
+expert witness, steganography, steganalysis, secret messages, motion
+grouping, texture grouping, temporal synchrony, transparency,
+tutorials, primer, matlab, bispectrum, bicoherence, blind gamma
+correction, image non-linearity, mathematics for kids, math for kids,
+mathematics stories, math stories, reconstructing egyptian tombs,
+unfolding egyptian tombs, virtual egyptian tombs, egyptian tomb,
+egyptian murals, Orozco murals, vrml, visual illusions">
+
+<META Name="description" Content="Hany Farid, Professor,
+Image Science Group, Department of Computer Science, Dartmouth
+College">
+
+   <map name="menubar">
+   <area shape="rect" coords="35,105,95,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('me',1);setvis('medot',1);"
+      onmouseout="setvis('me',-1);setvis('medot',-1);">
+
+   <area shape="rect" coords="100,105,160,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('info',1);setvis('infodot',1);"
+      onmouseout="setvis('info',-1);setvis('infodot',-1);">
+
+   <area shape="rect" coords="230,108,295,123"
+      href="group.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('peopledot',1);"
+      onmouseout="setvis('peopledot',-1);">
+
+   <area shape="rect" coords="230,131,295,146"
+      href="publications/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('papersdot',1);"
+      onmouseout="setvis('papersdot',-1);">
+
+   <area shape="rect" coords="230,154,318,167"
+      href="research/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('researchdot',1);"
+      onmouseout="setvis('researchdot',-1)">
+
+   <area shape="rect" coords="230,175,317,188"
+      href="teaching" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('teachingdot',1);"
+      onmouseout="setvis('teachingdot',-1);">
+
+   <area shape="rect" coords="230,196,316,210"
+      href="tutorials" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('tutorialsdot',1);"
+      onmouseout="setvis('tutorialsdot',-1);">
+
+   <area shape="rect" coords="585,105,665,125"
+      onmouseover="setvis('contact',1);setvis('contactdot',-1);setvis('contactdot',1);">
+
+   <area shape="rect" coords="375,233,435,246"
+      href="egypt/reconstruction.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('egyptdot',1);"
+      onmouseout="setvis('egyptdot',-1);">
+
+   <area shape="rect" coords="375,252,450,265"
+      href="myphotos"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('photosdot',1);"
+      onmouseout="setvis('photosdot',-1);">
+
+   <area shape="rect" coords="375,271,460,284"
+      href="illusions/monster.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('illusiondot',1);"
+      onmouseout="setvis('illusiondot',-1);">
+
+   <area shape="rect" coords="375,290,475,303"
+      href="mathkids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('mathkidsdot',1);"
+      onmouseout="setvis('mathkidsdot',-1);">
+
+   <area shape="rect" coords="375,309,505,326"
+      href="sciencekids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('sciencekidsdot',1);"
+      onmouseout="setvis('sciencekidsdot',-1);">
+  </map>
+
+
+  <div id="home" style="position:absolute; left:50; top:50; visibility:show">
+       <img src="home.gif" border="0" usemap="#menubar" name="home_bg">
+  </div>
+
+  <div  style="position:absolute; left:88; top:185">   
+       <a href="cv.pdf"><font color=#291C5E>cv</font></a>  
+       <font color=#291C5E>&</font>
+       <a href="bio.html"><font color=#291C5E>bio</font></a>
+  </div>
+
+  <div id="me" style="position:absolute; left:185; top:195; visibility:hidden">
+       <img src="icon/meicon4.jpg" border="0">
+  </div>
+
+  <div id="contact" style="position:absolute; left:585; top:246; 
+       visibility:hidden"> <img src="icon/contact.gif" border="0">
+  </div>
 
+  <div id="info" style="position:absolute; left:51px; top:268px; 
+       visibility:hidden"> <img src="icon/info.gif" border="0">
+  </div>
 
-<body>
+  <div id="peopledot" style="position:absolute;  left:268px; top:163px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
+  <div id="papersdot" style="position:absolute;  left:268px; top:183px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<!-- Begin Container -->
-<div id="container"><!-- Begin Masthead -->
-<div id="masthead">
-<h1><a href="#">Tanzeem Choudhury</a></h1>
+   <div id="researchdot" style="position:absolute;  left:268px; top:204px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
+   <div id="teachingdot" style="position:absolute;  left:268px; top:225px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<h3>Assistant Professor</h3>
+   <div id="tutorialsdot" style="position:absolute;  left:268px; top:246px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
+   <div id="contactdot" style="position:absolute;  left:625px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<h4>Computer Science, Dartmouth College</h4>
+   <div id="egyptdot" style="position:absolute;  left:418px; top:284px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
+   <div id="photosdot" style="position:absolute;  left:418px; top:306px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-</div>
+   <div id="illusiondot" style="position:absolute;  left:418px; top:326px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
+   <div id="mathkidsdot" style="position:absolute;  left:418px; top:348px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<!-- End Masthead --><!-- Begin Navigation -->
-<div id="navigation">
-<ul>
+   <div id="sciencekidsdot" style="position:absolute;  left:418px; top:368px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
+   <div id="infodot" style="position:absolute;  left:215px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-  <li><a href="index.html">About</a></li>
+   <div id="medot" style="position:absolute;  left:76px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-
-  <li><a href="pubs/pubs.html">Publications</a></li>
-
-
-  <li><a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
-
-
-  <li><a href="students/students.html">Students</a></li>
-
-
-  <li><a href="teaching/teaching.html">Teaching</a></li>
-
-
-  <li><a href="press/press.html">Press</a></li>
-
-
-  <li><a href="links/links.html">Links</a></li>
-
-
-  <li><a href="contact/contact.html">Contact</a></li>
-
-
-</ul>
-
-
-</div>
-
-
-<!-- End Navigation --><!-- Begin content_container -->
-<div id="content_container"><!-- Begin Left Column -->
-<div id="column_left"><!-- #BeginEditable "content" -->
-<p class="style2">I work on
-developing machine learning techniques for systems that can reason
-about human activities, interactions, and social networks in everyday
-environments. I joined the <a href="http://www.cs.dartmouth.edu">computer
-science department of Dartmouth</a> in 2008. Prior to that I was
-a member of the research staff at <a href="http://www.intel-research.net/seattle/">Intel Research
-Seattle</a>.<br />
-
-
-<br />
-
-
-I received my Ph.D. degree from the <a href="http://www.media.mit.edu/">Media Laboratory</a>
-at the Massachusetts Institute of Technology (MIT). I created the
-sociometer and my&nbsp;<a href="pubs/choudhury_phd_thesis.pdf">thesis</a>&nbsp;was
-the first to show the feasibility of automatically capturing and
-modeling social networks based on face-to-face conversations that occur
-in the physical world. I also hold a B.S. in electrical engineering
-from the <a href="http://www.ece.rochester.edu/">University
-of Rochester</a>, and M.S. from the <a href="http://www.media.mit.edu/">MIT Media Laboratory.</a><br />
-
-
-<br />
-
-
-<span style="font-weight: bold; color: rgb(204, 0, 0); font-style: italic;">What's
-new</span><br />
-
-
-</p>
-<img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /> <a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494">Computer Science -- A Growing Field That Needs a Few (More) Good Women.</a>
-<p class="style2" style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"> </span></p>
-<p class="style2" style="color: rgb(0, 0, 0);"><img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /><span style="color: rgb(0, 0, 0);"> Recipient of&nbsp;National
-Science Foundation <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=0845683">
-Faculty Early Career Development Award</a> (NSF CAREER)</span>.</p>
-
-
-<p class="style2" style="color: rgb(0, 0, 0);"><img style="width: 50px; height: 27px;" alt="TR35logo" src="images/TR35logo.jpg" /><a><span style="color: rgb(0, 0, 0);"> Named
-one of </span></a><a href="http://www.technologyreview.com/tr35/">MIT Technology
-Review's TR 35 for 2008</a>: Top 35 innovators under the age of
-35.<br />
-
-
-</p>
-
-
-<p class="style2"> <img style="width: 38px; height: 27px;" alt="LoCA2009logo" src="images/loca2009.png" /> I am also
-the program co-chair (along with <a href="http://www.cs.ucd.ie/staff/aquigley/home/">Aaron
-Quigley</a>) of <a href="http://loca2009.context-aware.org/">LoCA
-2009</a> (4th International Symposium on Location and
-Context-Awareness)</p>
-<p class="style2"><img style="border: 0px solid ; width: 37px; height: 27px;" alt="AAAIlogo" src="images/image320.jpg" /><a href="http://research.microsoft.com/%7Eakapoor/"> Ashish
-Kapoor</a>, <a href="http://www.cs.rochester.edu/u/kautz/">Henry
-Kautz</a>, and I organized the <a href="http://www.aaai.org/Library/Symposia/Spring/ss09-04.php">AAAI
-Spring 2009 Symposium</a> on <a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09">Human
-Behavior Modeling</a><br />
-
-
-</p>
-
-
-<p class="style2"><br />
-</p>
-
-
-<!-- #EndEditable --></div>
-
-
-<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
-<div id="footer">
-<p><a href="index.html">About</a>
-|
-<a href="pubs/pubs.html">Publications</a> | <a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a> | <a href="students/students.html">Students</a> |
-<a href="teaching/teaching.html">Teaching</a> |
-<a href="press/press.html">Press</a> | <a href="links/links.html">Links</a> | <a href="contact/contact.html"> Contact</a></p>
-
-
-</div>
-
-
-<!-- End Footer --></div>
-
-
-<!-- End content_container --></div>
-
-
-<!-- End Container --><!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=3810501; var sc_invisible=1; var sc_partition=34; var sc_click_stat=1; var sc_security="9ceb4d35"; </script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
-<noscript><div class="statcounter"><a
-href="http://www.statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/3810501/0/9ceb4d35/1/" alt="web stats"
-></a></div></noscript>
-
-
-<!-- End of StatCounter Code -->
 </body>
 </html>
+
+

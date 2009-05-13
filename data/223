@@ -1,37 +1,59 @@
-http://www.cs.dartmouth.edu/~dfk/schedule.html
+http://www.cs.dartmouth.edu/~cs108/prereqs
 3
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <title>David Kotz's Schedule</title>
+<html> <head>
+<title>Prerequisites</title>
 </head>
-<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#551A8B" alink="#0000FF">
+ 
+<body bgcolor=#ffffff>
 
-<h1><a href="http://www.cs.dartmouth.edu/~dfk/">David Kotz's</a> Schedule</h1>
+<h2> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
 
-I am on sabbatical during the 2008-09 academic year, at the
-Indian Institute of Science (IISc) in Bangalore, India, 
-from August 2008 through mid-July 2009. 
-
-<!-- 
-<h2>Class hours, 2008</h2>
-I teach in the 10A slot, that is, TuTh 10am-noon.
-
-<h2>Office hours, 2008</h2>
+Prerequisites
+<br> 
+ CS108, Advanced Operating Systems, Winter 2008
+</h2> 
+<i> www.cs.dartmouth.edu/~cs108/prereqs/index.shtml</i> 
+ &nbsp;&nbsp;&nbsp; 
+ 
+<i> Last modified: 01/03/08 10:47:49 AM</i> 
+ 
+<hr> 
+ 
+<p> 
+ 
 <p>
-I have no regular office hours.
-You can try to stop by, but it can be hard to find me free.
-It's better to 
-<a href="/~dfk/#contact">contact my assistant</a> for an appointment. 
-<p>
- -->
-
-<h2><a name="trips" href="trips.txt">Upcoming trips</a></h2>
-
-<h2><a href="schedule_past.html">Past trips</a></h2>
-
-</body>
-</html>
 
 
+
+<ul>
+<li> Successful completion of a course like COSC58.
+<li> Proficiency in C.  (The Internet runs on C.)
+<li> Knowledge of basic computer architecture.
+<li> Proficiency in using some flavor of Unix.
+<li> Experience with building and debugging a large program.
+</ul>
+If you are not prepared, then you will have a difficult time in this
+course, and you may not pass.
+
+
+
+<p> 
+ 
+<hr> 
+<b> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
+
+<A HREF="/~cs108/"><b>Back to  CS108 Home Page</b></A>
+</b> 
+&nbsp;&nbsp;&nbsp; 
+<a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
+&nbsp;&nbsp;&nbsp; 
+&lt; <a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>&gt; 
+ 
+ 
+ 
+
+</body> </html>
+
+i

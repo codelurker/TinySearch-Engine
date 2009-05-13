@@ -1,25 +1,24 @@
-http://www.cs.dartmouth.edu/~cs105/Homework/hw.06.html
+http://www.cs.dartmouth.edu/~cs105/Homework/hw.07.html
 3
 <html><head>
-<title>CS105 02F: Homework 6</title>
+<title>CS105 02F: Homework 7</title>
 </head><body>
 
 <h1>
 <a href="index.html">CS105 02F</a>:
-<a href="homework.html">Homework</a> 06
+<a href="homework.html">Homework</a> 07
 </h1>
 <strong>Assigned:</strong>
-Wednesday   November 6, 2002<br>
-<strong>Due:</strong>
 Wednesday   November 13, 2002<br>
+<strong>Due:</strong>
+Wednesday   November 20, 2002<br>
 
 <ol>
-<li> MR Exercise 3.7 (p. 52).  You may also make use of the fact that
-     when n is prime, for any a not divisible by n the numbers ai (mod n)
-     for i = 0, 1, ..., n-1 are all different.
-<li> MR Problem 3.1 (p. 64)
-<li> MR Problem 3.4 (p. 64)
-<li> CLRS 5-2
+<li> MR Problem 4.1 (p. 97).  
+<li> MR Exercise 4.2 (p. 75)
+<li> MR Exercise 4.6 (p. 78)
+<li> MR Problem 4.9 (p. 99)  Hint - the transpose permutation is a
+     bad permutation for this case, also.
 </ol> 
 
 

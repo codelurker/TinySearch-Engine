@@ -1,160 +1,93 @@
-http://www.cs.dartmouth.edu/~cs5/sections/sections.html
+http://www.cs.dartmouth.edu/~cs5/short-assignments.html
 3
 <html> <head>
-<title>CS 5 Spring 2009 Recitation Sections</title>
+<title>CS 5 Short Assignments</title>
 </head>
 
-<body bgcolor=#ffffff>
+<body>
 <h1><a href="/~cs5/">CS 5 Spring 2009</a><br>
-Recitation Sections</h1>
-
-
-<hr>
-
-<h3>Section Leader: Matthew Stone</h3>
-
-Time: Wednesday, 7:00-8:00 PM<br>
-Location: 213 Sudikoff<br>
-Submit lab assignments to <a href="mailto:cs5-matt@cs.dartmouth.edu">cs5-matt@cs.dartmouth.edu</a>
+Short Assignments</h1>
 
 <ul>
-<li> Raphael Addante
-<li> Kyle Brong
-<li> Evan Bryant
-<li> Kyle Konrad
-<li> Jordan McCarthy
-<li> Victoria Oosterhout
-<li> Peter Stein
-<li> Cole Susler
-</ul>
+
+  <li> <a href="sa/sa1/index.html">Short Assignment 1</a>, due Wednesday, 
+    April 1.
+
+       
+       [<a href="sa/sa1/solution/Logo.java">Solution</a>]
+
+  <li> <a href="sa/sa2/sa2.html">Short Assignment 2</a>, due Monday, April 6. 
+       [<a href="sa/sa2/solution/Time.java">Solution</a>]
+
+  <li> <a href="sa/sa3/sa3.html">Short Assignment 3</a>, due Wednesday, April 8.
+       [<a href="sa/sa3/solution/Format.java">Solution</a>]
+
+  <li> <a href="sa/sa4/sa4.html">Short Assignment 4</a>, due Friday, April 10.
+       [<a href="sa/sa4/solution/HowRich.java">HowRich.java</a>,
+        <a href="sa/sa4/solution/HowLong.java">HowLong.java</a>]
+
+<li> <a href="sa/sa5/sa5.html">Short Assignment 5</a>, due Friday, April 10.
+
+       [Solution: <a href="sa/sa5/solution/PrintMax.java">PrintMax.java</a>,
+       <a href="sa/sa5/solution/Shipping.java">Shipping.java</a>,
+       <a href="sa/sa5/solution/Sort3.java">Sort3.java</a>]
+  
+  <li> <a href="sa/sa6/sa6.html">Short Assignment 6</a>, due Monday, April 13.
+       [Solution: <a href="sa/sa6/solution/StarsA.java">StarsA.java</a>,
+	<a href="sa/sa6/solution/StarsB.java">StarsB.java</a>,
+	<a href="sa/sa6/solution/StarsC.java">StarsC.java</a>,
+	<a href="sa/sa6/solution/StarsD.java">StarsD.java</a>]
 
 
-<hr>
+  <li> <a href="sa/sa7/sa7.html">Short Assignment 7</a>, due Wednesday, April 15.
+       [Solution: <a href="sa/sa7/solution/DigitalTimer.java">DigitalTimer.java</a>]
 
+  <li> <a href="sa/sa8/sa8.html">Short Assignment 8</a>, due Friday, April 24.
+       [Solution: <a
+       href="sa/sa8/solution/Checkerboard.java">Checkerboard.java</a>,
+       <a href="sa/sa8/solution/OscillatingCheckerboard.java">OscillatingCheckerboard.java</a>]
 
-<h3>Section Leader:  Aleksandar Gabrovski</h3>
+       
+  <li> <a href="sa/sa9/sa9.html">Short Assignment 9</a>, due Monday, April 27. 
+       [Solution:
+       Applet listener: <a href="sa/sa8/solution/appletlistener/Checkerboard.java">Checkerboard.java</a>,
+       Inner Class listener: <a href="sa/sa8/solution/innerclasslistener/Checkerboard.java">Checkerboard.java</a>] 
 
+  <li> <a href="sa/sa10/sa10.html">Short Assignment 10</a>, due Friday, May 1. 
 
-Time: Thursday, 10:00-11:00 AM<br>
-Location: 114 Sudikoff<br>
-Submit lab assignments to <a href="mailto:cs5-aleksandar@cs.dartmouth.edu">cs5-aleksandar@cs.dartmouth.edu</a>
-
-<ul>
- <li> Michael Connolly
- <li> Matthew Garton
- <li> Alexander Johns
- <li> Benjamin Parker
- <li> Maya Viavant
- <li> Kai Kwan Yeung
-</ul>
-
-
-<hr>
-
-
-<h3>Section Leader:  Caroline Schafer</h3>
-
-Time: Thursday, 2:00 - 3:00 PM<br>
-Location: 114 Sudikoff<br>
-Submit lab assignments to <a href="mailto:cs5-caroline@cs.dartmouth.edu">cs5-caroline@cs.dartmouth.edu</a>
-
-<ul>
+       [<a href="sa/sa10/solution/SetOfRects.java">Solution</a>]
+       
+  <li> <a href="sa/sa11/sa11.html">Short Assignment 11</a>, due Friday, May 8.
  
-  <li> Ann Baum
-  <li> Natalie Burkhard
-  <li> Kenneth DiCairano
-  <li> Luke Fowlie
-  <li> Rachel Groh
-  <li> Adam Harris
-  <li> Timothy Harsch
-  <li> Ian McKay
+       [Solution:
+       <a href="sa/sa11/solution/ATMSavingsAccount.java">ATMSavingsAccount.java</a>,
+       <a href="sa/sa11/solution/AccountTest.java">AccountTest.java</a>]
+
+  <li> <a href="sa/sa12/sa12.html">Short Assignment 12</a>, due Monday, May 11.
+<!--
+       [<a href="sa/sa12/solution/Power.java">Power.java</a>]
+-->  
+  <li> <a href="sa/sa13/sa13.html">Short Assignment 13</a>, due Friday, May 15.
+<!--
+       [<a href="sa/sa13/solution/ButtonFrame.java">ButtonFrame.java</a>,
+        <a href="sa/sa13/solution/ButtonTest.java">ButtonTest.java</a>,
+        <a href="sa/sa13/solution/RectanglePanel.java">RectanglePanel.java</a>]
+       
+  <li> <a href="sa/sa14/sa14.html">Short Assignment 14</a>, due Friday, May 16.
+       [<a href="sa/sa14/solution/Select.java">Solution</a>]
+
+  <li> <a href="sa/sa15/sa15.html">Short Assignment 15</a>, due Monday, May 19.
+       [<a href="sa/sa15/solution/HeapMinPriorityQueue.java">Solution</a>]
+   
+  <li> <a href="sa/sa16/sa16.html">Short Assignment 16</a>, due Friday, May 23.
+       [<a href="sa/sa16/solution/Army.java">Solution</a>]
+       
+  <li> <a href="sa/sa17/sa17.html">Short Assignment 17</a>, <em>Not Due</em>.  Review for Final.
+       [<a href="sa/sa17/solution/ApprovalVoting.java">Solution</a>]
+
+-->
 </ul>
 
-
-<hr>
-
-
-<h3>Section Leader: Loren Sands-Ramshaw</h3>
-
-Time: Thursday 3:00 - 4:00 PM<br>
-Location: 114 Sudikoff<br>
-Submit lab assignments to <a href="mailto:cs5-loren@cs.dartmouth.edu">cs5-loren@cs.dartmouth.edu</a>
-
-<ul>
-  <li> Lauren Alpeyrie
-  <li> Aaron Damato
-  <li> Aryeh Drager
-  <li> William Greif
-  <li> Peter Horak
-  <li> Fiona Lundie
-  <li> Zach Marois
-  <li> Brian O'Toole
-  <li> Kenny Toro Palma
-  <li> Eddy Vaisberg
-</ul>
-
-<hr>
-
-
-<h3>Section Leader: Parker Phinney</h3>
-Time: Thursday, 4:00 - 5:00 PM<br>
-Location: 114 Sudikoff<br>
-Submit lab assignments to <a href="mailto:cs5-parker@cs.dartmouth.edu">cs5-parker@cs.dartmouth.edu</a>
-
-<ul>
-  <li> Brenna Gibbons
-  <li> Michael Lee
-  <li> Fangzhou Liu
-  <li> Edward Nepomuceno
-  <li> Long Sha
-  <li> Kent Sutherland
-  <li> Karissa Woodward
-</ul>
-
-
-<hr>
-
-<h3>Section Leader: Chase Decker</h3>
-
-Time: Friday, 12:30-1:30 PM<br>
-Location: 213 Sudikoff <br>
-Submit lab assignments to <a href="mailto:cs5-chase@cs.dartmouth.edu">cs5-chase@cs.dartmouth.edu</a>
-
-<ul>
-  <li> Christopher Calby
-  <li> Marco Chu
-  <li> Alexandra Grant
-  <li> William Haley
-  <li> Herve Patrick Kouna Nga Metsam
-  <li> John Litherland
-  <li> Ellen Perry
-  <li> Alexander Villar
-  <li> John Young
-</ul>
-
-<hr>
-
-
-<h3>Section Leader: Michael Diamond</h3>
-
-Time: Friday, 4:00 - 5:00 PM<br>
-Location: 213 Sudikoff <br>
-Submit lab assignments to <a href="mailto:cs5-michael@cs.dartmouth.edu">cs5-michael@cs.dartmouth.edu</a>
-
-<ul>
-  <li> Steven Dai
-  <li> Michelle Earhart
-  <li> Emily Freebairn
-  <li> Mateusz Grudzien
-  <li> Alison Herdeg
-  <li> Kipkorir Kirui
-  <li> Brian Nachbar
-  <li> Daniel Rozenfeld
-  <li> Lelia TahaBurt
-  <li> Jennifer Zhao
-  <li> Jie Zhong
-
-</ul>
 
 </body> </html>
-hortasi
+aliei

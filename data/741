@@ -1,110 +1,87 @@
-http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/references.html
+http://www.cs.dartmouth.edu/%7Eniclane/index.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html>
 <head>
+<title>Nicholas D. Lane</title>
+<style type="text/css">
+  html, body {
+	  margin: 0px;
+		padding: 0px;
+		font-family: monospace;
+  }
 
-
-  
-  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-
-  
-
-
-  
-  <title>CS88/188 -- Computational Models of Human Behavior</title>
-  <meta name="author" content="Tanzeem Choudhury" />
-
-
-  
-  <link rel="stylesheet" type="text/css" href="style/style.css" />
+  h3,h2,h1 {
+   padding: 0px;
+	 margin: 0px;
+	 margin-top: 0px;
+	 margin-bottom: 0px;
+	}
+</style>
 </head>
-
-
 <body>
-
-
-<div class="page">
-<div class="header">
-<div class="title">Community Sensing and Modeling</div>
-
-
-<div class="subtitle">CS88/188 -- Fall 2008 -- TuTh
-10:00am-11:50am</div>
-
-
-<div class="subtitle">Instructor: Andrew Campbell &amp; Tanzeem Choudhury<br />
-
-
-</div>
-
-
-</div>
-
-
-<div class="navigation">
-<a href="index.html"><span class="navigationitem">About</span></a><a href="syllabus.html"><span class="navigationitem">Syllabus</span></a><a href="assignments.html"><span class="navigationitem">Assignments</span></a><a href="projects.html"><span class="navigationitem">Project</span></a><a href="grading.html"><span class="navigationitem">Grading</span></a><a href="references.html"><span class="navigationitem">References</span></a>
-</div>
-
-
-<div class="content">
-<div style="text-align: left;">The following references
-will be useful is learning more about the techniques discussed in class</div>
-
-
-<ul>
-
-
-  <li>An Introduction to Graphical Models can be downloaded from
-/net/mash1/book</li>
-
-
-  <li style="color: rgb(0, 0, 0);">A tutorial on <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/rabiner.pdf">Hidden
-Markov Models</a> (HMMs) by L. Rabiner</li>
-
-
-  <li style="color: rgb(0, 0, 0);">A presentation on <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/jordan-tut.pdf">Introduction
-to Graphical Models</a><span style="color: rgb(0, 0, 0);"></span><span style="color: rgb(0, 0, 0);"> by M. Jordan</span></li>
-
-
-  <li style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);">A tutorial on <a style="font-weight: bold; color: rgb(0, 0, 0);" href="references/em-paper.pdf">EM Algorithm</a> by F.
-Dellaert and<a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/em.pdf"> another EM tutorial</a> by
-J. Bilmes<br />
-
-
-    </span></li>
-
-
-  <li style="color: rgb(0, 0, 0);">A tutorial on <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/smith-log-linear-tut.pdf">log-linear models</a><span style="color: rgb(0, 0, 0);"> by N. Smith</span></li>
-
-
-  <li style="color: rgb(0, 0, 0);">A introduction to <a style="color: rgb(0, 0, 0); font-weight: bold;" href="references/crf-tutorial.pdf">Conditional
-Random Fields</a> (CRFs) by C. Sutton and A. McCullum</li>
-
-
-  <li style="color: rgb(0, 0, 0);">A survey of <a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://pages.cs.wisc.edu/%7Ejerryzhu/research/ssl/semireview.html">semi-supervised
-learning methods</a> X. Zhu</li>
-
-
-  <li style="color: rgb(0, 0, 0);"><span style="font-weight: bold;">B</span><a href="references/smyth_bn_hmms_mrfs.pdf"><span style="color: rgb(0, 0, 0); font-weight: bold;">elief
-Networks, Hidden Markov
-Models,
-and Markov Random Fields: A Unifying View</span>&nbsp;</a></li>
-
-
-  <li style="color: rgb(0, 0, 0);">Read chapters 1, 2, 8,
-9, and 13 of Pattern Recognition and Machine Learning book by C. M.
-Bishop</li>
-
-
-</ul>
-
-
-</div>
-
-
-</div>
-
-
+<table cellpadding=0 background=\"white\" border=\"0\" width="*" height="100%" cellspacing=0>
+<tr valign=top>
+	<td bgcolor="#444444">
+		<img src='me_sm.jpg'>
+	</td>
+	<td>
+		<table cellpadding=0 background=\"white\" border=\"0\" width="500px" height="*" cellspacing=6>
+		<tr>
+			<td width="105">
+				<div valign='top' align='left'>
+				<img src='logo.jpg'>
+			</td>
+			<td >
+				<h1>Nicholas D. Lane</h1>
+					niclane at cs dot dartmouth dot edu<BR>
+					<BR>
+					<a href='index.html'>index</a> | <a href='papers.html'>papers</a> | <a href='talks.html'>talks</a> |
+					<a href='meetings.html'>meetings</a> | <a href='resume.pdf'>resume</a>
+			</td>
+		</tr>
+		<tr cellpadding=5 cellspacing=5>
+			<td colspan=2 cellpadding=5 cellspacing=5 >
+			    <BR>
+					<h2>What's new</h2>
+					Hong Lu, Wei Pan, Nicholas D. Lane, Tanzeem Choudhury, Andrew T. Campbell, "Scalable Sound Sensing
+					for People-Centric Sensing Applications on Mobile Phones", ACM MobiSys 2009, Kraków, Poland, 22-25
+					June 2009.
+					<BR><BR>
+					<h2>Interests</h2>
+					Mobile phone based sensing applications and systems. Intersection of machine learning, mobile
+					systems and computer networking.
+					<BR><BR>
+          <h2>Affiliations</h2>
+					I work with some great people as part of: the <a
+					href='http://www.cs.dartmouth.edu/~sensorlab/'>Sensor Networks Group</a>, the <a
+					href='http://metrosense.cs.dartmouth.edu'>MetroSense</a> project and <a
+					href='http://cenceme.org'>CenceMe</a>. 
+          <BR><BR>
+					<h2>My Research</h2>
+ I am a 4th year PhD student working with <a href='http://www.cs.dartmouth.edu/~campbell'>Andrew T.
+ Campbell</a> in the Sensor Lab at Dartmouth. My research interests
+ revolve around people-centric sensing applications and systems. I am an experimentalist who likes
+ to build prototype mobile sensing systems based on well founded models.  I have worked on a variety of
+ sensing platforms (e.g., mote-class sensors, mobile phones) and have experience not only in evaluating
+ network and system performance but have conducted a number of user studies and analyzed sensor data; for
+ example, when designing classifiers that recognize forms of human behavior.  Results from my research have
+ been published in number of conferences including ACM SenSys, ACM MobiSys, Pervasive, and HotMobile. I have
+ worked on a number of aspects of people-centric sensing systems including: system architecture, applications
+ (e.g., CenceMe), localization, calibration, sensor co-ordination and the classification of high level events
+ (e.g., music is playing) from a wide range of low-level sensor modalities (e.g., audio, location,
+		 accelerometer). I have also worked in industry before leaping into research.
+			  </tt>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
 </body>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-639085-1";
+urchinTracker();
+</script>
 </html>

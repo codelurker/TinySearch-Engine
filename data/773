@@ -1,544 +1,80 @@
-http://www.cs.dartmouth.edu/~ac/Teach/CS21-Winter04
+http://www.cs.dartmouth.edu/~ac/DTS/fall05.html
 3
-<html><head>
-  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
-  <title>CS 21 (Winter 2004): Amit Chakrabarti</title>
-</head>
+<html><head><title>DTS: Dartmouth Theory Seminars - Fall 2005</title></head>
+<body background="../dartback.png" link=#0000ff vlink=#0000ff>
 
-<body>
+<h2>DTS: Dartmouth Theory Seminars - Fall 2005</h2>
 
-<i> <div align=right>
-  <a href="../"> Teaching</a> &nbsp &nbsp
-  <a href="../../"> Home</a>
-</div> </i>
+<h3>Fall 2005 Schedule</h3>
 
-<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
-  <td valign=top>
-    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
-    alt="Dartmouth Logo"><br>
-    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
-    <a href="http://www.dartmouth.edu">Dartmouth College</a>
-  </td>
-  <td valign=middle align=center>
-    <h3>Computer Science 21 / Math 19 / Engg 66<br>
-    Discrete Mathematics in Computer Science<br><br>
-    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
-  </td>
-  <td valign=middle align=right><h3>Winter 2004<h3></td>
+<table cellpadding=3><tr>
+  <td valign=top>Oct 21 (Friday)</td>
+  <td>Faith Fich, University of Toronto<br>
+  <a href="#fich">How Difficult is it to Take a Snapshot?</a><br>
+  Room: Carson L01<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>Oct 24 (Monday)</td>
+  <td>Eugene Demidenko, Dartmouth College<br>
+  <a href="#demidenko">Towards Global Minimum</a><br>
+  Room: Carson L02<br>
+  Time: 4pm - 5pm.
 </tr></table>
-<center>
-  [ <a href="#announcements">Announcements</a> |
-  <a href="#admin">Administrative Basics</a> |
-  <a href="#lectures">Schedule and Homeworks</a> |
-  <a href="#solutions">Solutions</a> |
-  <a href="#scores">Grades Database</a> ]
 
-</center>
+<p><hr><p>
 
-<!-- ------------------------------------------------ -->
+<h3>Abstracts</h3>
 
-<hr>
-<h3>Course Description</h3> 
+<a name="fich">
 
-<p> In this course we shall get introduced to <i>Discrete
-Mathematics</i>, a relatively modern branch of mathematics with close
-ties to computer science. The major topics to be covered include
-counting techniques, basic number theory, logic and proofs (including
-mathematical induction), and basic probability theory. Most of the
-topics will be motivated by applications from computer science;
-specifically, we shall learn about the RSA cryptosystem, the analysis of
-recursive algorithms, and hashing. </p>
+  <p><b>Faith Fich, University of Toronto<br>
+  How Difficult is it to Take a Snapshot?</b></p>
 
-<p> One very important skill that students will be <i>required</i> to
-pick up during this course is that of writing clear, convincing,
-mathematical proofs. This is because the mathematics in this course is
-not just about calculation; it is more about making (and clearly
-presenting) mathematically rigorous arguments and about learning to
-recognize faulty reasoning. </p>
+  <p> The atomic snapshot object is an important and well-studied
+  primitive in distributed computing that allows processes to obtain a
+  consistent view of an entire block of shared memory, even if updates
+  are being performed concurrently.  This talk will describe
+  applications of this object, present some implementations of it from
+  registers in both asynchronous and synchronous distributed systems,
+  and discuss some recent lower bounds. </p>
 
-<p> The above skill is quite a rarity, and is known to be hard to
-acquire.  Students are therefore advised to ask themselves from time to
-time whether they are making good progress towards acquiring this
-skill.  </p>
+<hr width=50%><p>
 
-<!-- ------------------------------------------------ -->
+<a name="demidenko">
 
-<hr>
+  <p><b>Eugene Demidenko, Dartmouth College<br>
+  Towards Global Minimum</b></p>
 
-<a name="announcements"></a>
-<h3>Announcements</h3> 
+  <p> Global minimization is one of the hardest problems of
+  computational mathematics. While several approaches to global
+  minimization exist they are heuristic in nature. In this talk I
+  concentrate on analytical aspects of minimization of a continuous
+  function on a non-bounded set, say F(x). Specifically, I want to
+  construct criteria that a found local minimum is the global one. The
+  rationale is that (a) there are many algorithms for local
+  minimization, such as gradient, Newton, conjugate gradient, (b)
+  typically, the problem has few minima and quite likely the found
+  minimum is the global one but we are not sure that it is the global
+  one.  It is impossible to construct a uniqueness criterion for general
+  function, so the choice of a function family is crucial. I work with
+  nonlinear least squares where F(x) is the squared distance between
+  n-dimensional data vector y and regression function f(x) with n &gt;
+  m. </p>
 
-  <ul> 
+  <p> Discouraging theorem: for any given f there exists y for which the
+  least squares problem has multiple local minima; moreover, the Lebegue
+  measure of those y is positive. </p>
 
-    <li> [Mar 10] On Page 201 (Chapter 5) of the textbook, the equation
-    after (5.12) is very wrong. <a href="eq-inc-exc.pdf">Here is the
-    corrected equation</a>; please make the change in your textbook.
+  <p> We define function level sets that specify different properties of
+  the function, from existence of the global minimum to local convexity,
+  local unimodality and finally global unimodality. Our global minimum
+  criteria use the curvature concept from differential geometry of the
+  m-dimensional surface defined by function f(x). Seveal open problems
+  are formuated. </p>
 
-    <li> [Mar 7] A practice final exam has been posted to the course
-    mailing list. Try it, and time yourself.
+<hr><p>
 
-    <li> [Feb 29] There is another typo in Sec 6.5 Problem 16. At the
-    end of the sentence "degree 4" should read "degree at most 4".
-
-    <li> [Feb 16] There is a typo in the statement of Sec 3.2 Problem
-    14. In the first sentence (the one beginning "Find a reason...")
-    the final OR sign should be an AND sign.
-
-    <li> [Feb 10] For some very interesting, entertaining and
-    informative reading about RSA and cryptography, see <a
-    href="http://www.rsasecurity.com/rsalabs/faq/index.html">the Crypto
-    FAQ</a>, over at RSA Security. In fact, the entire <a
-    href="http://www.rsasecurity.com/rsalabs/">RSA Labs website</a> is
-    recommended reading: use the navigation bar on the left to get to
-    the various sections. You can learn a lot about RSA and cryptography
-    beyond the little that we cover in this course.  There's a section
-    called <a
-    href="http://www.rsasecurity.com/rsalabs/challenges/index.html">
-    Challenges</a> which even gives you an opportunity to win some
-    serious money!
-
-    <li> [Jan 22] A new section containing solutions to homework and
-    exam problems has been added to this webpage.
-
-    <li> [Jan 15] Since there is no class on Jan 19, there are two
-    homeworks (5.1 and 5.2) due on Jan 21. As compensation, the
-    homeworks are shorter than usual. 
-
-    <li> [Jan 14] The midterms will be open book and open notes, which
-    means that studentis may consult their textbook, any notes handed
-    out in class, their <i>own</i> notes, and their <i>own</i> homework
-    solutions during the exams. Students <i>may not consult anything
-    else</i> and must work on the exam problems <i>by themselves</i>.
-
-    <li> [Jan 14] The two evening midterms will be held on Jan 26 and
-    Feb 16 in Sudikoff 115. They are tentatively scheduled for
-    19:00-21:00 on these days. Watch this space for further
-    announcements.
-
-  </ul>
-
-
-<!-- ------------------------------------------------ -->
-
-<hr>
-
-<a name="admin"></a>
-<h3>Administrative Basics</h3>
-
-<b>Important!</b> Please also read and familiarize yourself with the <a
-href="admindetails.html">administrative details</a> not covered in the
-outline below. Pay special attention to the section that describes <a
-href="admindetails.html#honorcode">how the honor code applies to this
-course</a>; violations of the honor code <i>will</i> be treated
-seriously.<p><br>
-
-<table cellpadding=2>
-  <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
-    <td valign=top> 
-      Sudikoff 115 | 10 hour | MWF 10:00-11:05, X-hr Th 12:00-12:50
-    </td>
-  </tr>
-  <tr><td valign=top><b>Instructor</b> <br><br> </td> 
-    <td valign=top> 
-      <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 218 | 6-1710 | 
-      Office hours: MTh 14:00-16:00 or by appointment
-    </td>
-  </tr>
-  <tr><td valign=top><b>Tutorials</b> <br><br></td> 
-    <td valign=top> 
-      Sudikoff 212 | TThSu 19:00-21:00
-    </td>
-  </tr>
-  <tr><td valign=top><b>Teaching Assistant</b> <br><br> </td> 
-    <td valign=top> 
-      <a href="/~florin">Gabriel Florin Constantin</a> | Sudikoff 212 | 
-      6-0949 | Office hours: Immediately after tutorials
-    </td>
-  </tr>
-  <tr><td valign=top><b>Textbook</b> <br><br></td> 
-    <td valign=top> 
-      Required: <a href="fullbook.pdf">"Discrete Math for Computer 
-      Science Students."</a> &nbsp; Bogart, Drysdale, and Stein. <br>
-      Click the title of the book to view it as a PDF file. 
-      For easy printing, here are the individual chapters: <br>
-      [ <a href="ch1.pdf">Contents and Chapter 1</a> |
-      <a href="ch2.pdf">Chapter 2</a> |
-      <a href="ch3.pdf">Chapter 3</a> |
-      <a href="ch4.pdf">Chapter 4</a> |
-      <a href="ch5.pdf">Chapter 5</a> |
-      <a href="ch6.pdf">Chapter 6 and Index</a> ] <br><br>
-    </td>
-  </tr>
-  <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
-    <td valign=top> 
-      CS 5 or equivalent <br>
-      CS 15 or 18 (corequisite) <br><br>
-    </td>
-  </tr>
-  <tr><td valign=top><b>Work</b> <br><br> </td> 
-    <td valign=top>
-      One homework per class, due at the <i>start</i> of next class. 
-      [25 points] <br>
-      Two evening midterms. [25 + 25 points] <br>
-      One final exam on Fri Mar 12, 08:00. [50 points]  <br>
-      Please take note of the <a href="admindetails.html#hw">late 
-      homework policy</a>. <br><br>
-  </tr>
-  <tr><td valign=top><b>Grading Recipe</b> <br><br> </td> 
-    <td valign=top>
-
-      Your grade will be based on your <i>adjusted cumulative score
-      (ACS)</i>, calculated as follows: <p>
-      <center><table cellpadding=2>
-        <tr>
-	  <td><b>Unit</b></td> <td><b>Max possible score</b></td> 
-	  <td><b>Your score</b></td>
-	</tr><tr>
-	  <td>Homework</td> <td align=center>25</td> 
-	  <td align=center><i>h</i></td>
-	</tr><tr>
-	  <td>Midterm 1</td> <td align=center>25</td> 
-	  <td align=center><i>m<sub>1</sub></i></td>
-	</tr><tr>
-	  <td>Midterm 2</td> <td align=center>25</td> 
-	  <td align=center><i>m<sub>2</sub></i></td>
-	</tr><tr>
-	  <td>Final</td> <td align=center>50</td> 
-	  <td align=center><i>f</i></td>
-      </tr></table></center> <p>
-      Then, your 
-      <i>ACS = h + m<sub>1</sub> + m<sub>2</sub> + f - </i>min{
-      <i>m<sub>1</sub>, m<sub>2</sub>, f</i>&nbsp;/&nbsp;2&nbsp;}.<p>
-      Loosely speaking, your "worst exam" is dropped, with the finals
-      counting as two exams.
-      The idea behind this recipe is that students who get better as the
-      course progresses can take advantage of the finals, while at the
-      same time students don't get severely penalized for one bad exam.
-
-    </tr>
-</table>
-
-<!-- ------------------------------------------------ -->
-
-<hr>
-
-<a name="lectures"></a>
-<h3>Schedule and Homeworks</h3> 
-
-<p> This schedule will be updated frequently. Please check back often,
-and please remember to hit the RELOAD button to get the latest
-schedule. </p>
-
-<p> The homework problems are, for the most part, assigned from the
-textbook. In the table below, such problems are simply referred to using
-the section number and problem number from the textbook. When additional
-(outside the textbook) problems are assigned, they are numbered AP1,
-AP2, etc. To read the statements of these problems, see the <a
-href="additional.pdf">additional problems page</a>, or just click on
-the problem number in the table below. </p>
-
-<table border=1 cellpadding=2 cellspacing=1>
-<tr>
-  <td valign=top><p class=hdr>Date</p></td>
-  <td><p class=hdr>Reading Due</p></td>
-  <td><p class=hdr>Homework Due</p></td>
-  <td><p class=hdr>Class Topic</p></td>
-</tr><tr>
-  <td valign=top> Jan 5 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Organization. Introduction to counting. </td>
-</tr><tr>
-  <td valign=top> Jan 7 </td>
-  <td> 1.1 </td>
-  <td> &mdash; </td>
-  <td> Permutations and subsets. </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Jan 8 (x-hr) </td>
-  <td> &mdash; </td>
-  <td> 1.1: # 1, 2, 7, 8, 10, 12, 13, 15 </td>
-  <td> Catch-up class to deal with aftereffects of fire alarm. </td>
-</tr><tr>
-  <td valign=top> Jan 9 </td>
-  <td> 1.2 </td>
-  <td> 1.2: # 2, 6, 7, 8, 12, 13, 15, 17, 19 </td>
-  <td> Binomial coefficients. </td>
-</tr><tr>
-  <td valign=top> Jan 12 </td>
-  <td> 1.3 </td>
-  <td> 1.3: # 2, 3a, 3d, 6, 8, 11, 15, 18;
-    <a href="additional.pdf">AP1</a> </td>
-  <td> Equivalence classes, quotients, multisets. </td>
-</tr><tr>
-  <td valign=top> Jan 14 </td>
-  <td> 1.4 </td>
-  <td> 1.4: # 1, 2, 6, 10, 14 (ignore 14c), 16 </td>
-  <td> Mathematical induction. </td>
-</tr><tr>
-  <td valign=top> Jan 16 </td>
-  <td> 4.1 </td>
-  <td> 4.1: # 3, 4, 6, 9, 12, 13; <a href="additional.pdf">AP2</a> </td>
-  <td> Introduction to probability. 
-    Principle of inclusion and exclusion.</td>
-</tr><tr>
-  <td valign=top bgcolor=#ff6060> Jan 19 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> No class; MLK Jr. Day. </td>
-</tr><tr>
-  <td valign=top> Jan 21 </td>
-  <td valign=top> 5.1, 5.2 </td>
-  <td> 5.1: # 2, 3, 6, 11; <a href="additional.pdf">AP3</a> 
-       &nbsp; &nbsp; [See Jan 15 <br>
-       5.2: # 1, 5, 10, 14; <a href="additional.pdf">AP4</a> 
-       &nbsp; [<a href="#announcements">announcement</a> </td>
-  <td valign=top> Conditional probability and independence. </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Jan 22 (x-hr) </td>
-  <td> 5.3 </td>
-  <td> &mdash; </td>
-  <td> Random variables. </td>
-</tr><tr>
-  <td valign=top> Jan 23 </td>
-  <td> 5.4 </td>
-  <td> 5.3: # 2, 3, 6, 8, 10, 11; <a href="additional.pdf">AP5</a> </td>
-  <td> Probability calculations in hashing. </td>
-</tr><tr>
-  <td valign=top> Jan 26 </td>
-  <td> 5.5 </td>
-  <td> 5.4: # 5, 7, 15, 17 and 5.5: # 1, 4, 11 </td>
-  <td> Recursion, recurrences, growth rates </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Jan 26 </td>
-  <td align=center colspan=3 bgcolor=#00ff00> First midterm exam, 
-  Sudikoff 115, 19:00-21:00 </td>
-</tr><tr>
-  <td valign=top> Jan 28 </td>
-  <td> 4.2 </td>
-  <td> &mdash; </td>
-  <td> Growth rates continued </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Jan 29 (x-hr) </td>
-  <td> 4.3 </td>
-  <td> 4.2: # 7, 8, 11, 14 and 4.3: # 1b, 1d, 5, 8, 9 </td>
-  <td> The master theorem </td>
-</tr><tr>
-  <td valign=top> Jan 30 </td>
-  <td> 4.4 </td>
-  <td> 4.4: # 1, 7, 8, 9 </td>
-  <td> More general recurrences, median finding [See <a
-    href="linear-time.pdf">these notes</a>] </td>
-</tr><tr>
-  <td valign=top> Feb 2 </td>
-  <td> 4.5, 4.6 </td>
-  <td> 4.6: # 1, 2; <a href="additional.pdf">AP6, AP7</a> </td>
-  <td> Conditional expectation, recurrences and algorithms </td>
-</tr><tr>
-  <td valign=top> Feb 4 </td>
-  <td> 5.6 </td>
-  <td> 5.6: # 3, 4, 7, 11, 13 </td>
-  <td> Probability distributions and variance </td>
-</tr><tr>
-  <td valign=top> Feb 6 </td>
-  <td> 5.7, <a href="http://www.pambytes.com/poe/stories/goldbug.html">
-    The Gold-Bug</a></td>
-  <td> 5.7: # 1, 2, 3, 4, 14, 16, 18 </td>
-  <td> Cryptography and modular arithmetic </td>
-</tr><tr>
-  <td valign=top> Feb 9 </td>
-  <td> 2.1 </td>
-  <td> 2.1: # 1, 4, 5, 9, 11, 12, 15 </td>
-  <td> Inverses and GCDs </td>
-</tr><tr>
-  <td valign=top> Feb 11 </td>
-  <td> 2.2 </td>
-  <td> 2.2: # 1, 2, 4, 7, 9, 12, 14; <a href="additional.pdf">AP8</a> </td>
-  <td> The RSA cryptosystem </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Feb 12 (x-hr) </td>
-  <td> 2.3 </td>
-  <td> 2.3: # 6, 7, 8, 15, <a href="additional.pdf">AP9</a> </td>
-  <td> Details of the RSA cryptosystem </td>
-</tr><tr>
-  <td valign=top bgcolor=#ff6060> Feb 13 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> No class; carnival holiday. </td>
-</tr><tr>
-  <td valign=top> Feb 16 </td>
-  <td> 2.4 </td>
-  <td> 2.4: # 12, 14, 15 </td>
-  <td> Logic: equivalence, implication, variables, quantifiers </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Feb 16 <Jan 26/td>
-  <td align=center colspan=3 bgcolor=#00ff00> Second midterm exam, 
-  Sudikoff 115, 19:00-21:00 </td>
-</tr><tr>
-  <td valign=top> Feb 18 </td>
-  <td> 3.1, 3.2 </td>
-  <td> 3.1: # 1, 4, 6, 12, 15; 3.2: # 2, 5, 7 </td>
-  <td> Quantifiers, inference, proofs </td>
-</tr><tr>
-  <td valign=top> Feb 20 </td>
-  <td> 3.2, 3.3 </td>
-  <td> 3.2: # 11, 12, 14 [<a href="#announcements">Typo!</a>]; 
-    3.3: # 1, 6, 8, 11, 14 </td>
-  <td> Graphs, subgraphs, connectivity, trees </td>
-</tr><tr>
-  <td valign=top> Feb 23 </td>
-  <td> 6.1 </td>
-  <td> 6.1: # 3, 7, 9, 12, 13, 14, 15 </td>
-  <td> Rooted trees, Eulerian trails and tours </td>
-</tr><tr>
-  <td valign=top> Feb 25 </td>
-  <td> 6.2, 6.3 </td>
-  <td> 6.2: # 9, 10, 12; 6.3: # 5, 6; <a href="additional.pdf">AP10</a> </td>
-  <td> Matchings: Hall's marriage theorem </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Jan 8 (x-hr) </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Matchings: K&ouml;nig-Egerv&aacute;ry theorem, Berge's theorem </td>
-</tr><tr>
-  <td valign=top> Feb 27 </td>
-  <td> 6.4 </td>
-  <td> 6.4: # 9, 10, 12, 15; <a href="additional.pdf">AP11</a> </td>
-  <td> Planarity </td>
-</tr><tr>
-  <td valign=top> Mar 1 </td>
-  <td> 6.5 </td>
-  <td> 6.5: # 14, 15, 16 [<a href="#announcements">Typo!</a>], 17 </td>
-  <td> Graph coloring and the five-color theorem </td>
-</tr><tr>
-  <td valign=top> Mar 3 </td>
-  <td> 6.5 </td>
-  <td> 6.5: # 4, 5, 6, 7, 9 </td>
-  <td> Review session 1 </td>
-</tr><tr>
-  <td valign=top> Mar 5 </td>
-  <td> &mdash; </td>
-  <td> &mdash; </td>
-  <td> Review session 2: Counting, Recurrences </td>
-</tr><tr>
-  <td valign=top> Mar 8 </td>
-  <td> Entire book </td>
-  <td> &mdash; </td>
-  <td> Review session 3: Probability, Graphs </td>
-</tr><tr>
-  <td valign=top bgcolor=#00ff00> Mar 12 </td>
-  <td align=center colspan=3 bgcolor=#00ff00> Final exam,
-  08:00-12:00 </td>
-
-</table><p>
-
-<!-- ------------------------------------------------ -->
-
-<hr>
-
-<a name=solutions></a>
-<h3>Solutions to Homework and Exam Problems</h3>
-
-<p> Here is a collection of links to PDF files containing solutions to
-problems from the textbook. Some of the solutions are detailed and
-explain all of the reasoning involved. But many of them are outlines
-only and in a homework or an exam you should provide a little more
-detailed reasoning. These solutions were prepared by Professors Ken
-Bogart, Scot Drysdale and Cliff Stein. <b>Please do not distribute
-them</b>. </p>
-
-<p> There may be typos in the solutions. If you find any, please notify
-me so I can notify the authors. </p>
-
-<dl><dt><dd>
-  <a href="Solutions/1.1.pdf">1.1</a> &nbsp; &nbsp;
-  <a href="Solutions/1.2.pdf">1.2</a> &nbsp; &nbsp;
-  <a href="Solutions/1.3.pdf">1.3</a> &nbsp; &nbsp;
-  <a href="Solutions/1.4.pdf">1.4</a> &nbsp; &nbsp;
-</dd></dt></dl>
-
-<dl><dt><dd>
-  <a href="Solutions/2.1.pdf">2.1</a> &nbsp; &nbsp;
-  <a href="Solutions/2.2.pdf">2.2</a> &nbsp; &nbsp;
-  <a href="Solutions/2.3.pdf">2.3</a> &nbsp; &nbsp;
-  <a href="Solutions/2.4.pdf">2.4</a> &nbsp; &nbsp;
-</dd></dt></dl>
-
-<dl><dt><dd>
-  <a href="Solutions/3.1.pdf">3.1</a> &nbsp; &nbsp;
-  <a href="Solutions/3.2.pdf">3.2</a> &nbsp; &nbsp;
-  <a href="Solutions/3.3.pdf">3.3</a> &nbsp; &nbsp;
-</dd></dt></dl>
-
-<dl><dt><dd>
-  <a href="Solutions/4.1.pdf">4.1</a> &nbsp; &nbsp;
-  <a href="Solutions/4.2.pdf">4.2</a> &nbsp; &nbsp;
-  <a href="Solutions/4.3.pdf">4.3</a> &nbsp; &nbsp;
-  <a href="Solutions/4.4.pdf">4.4</a> &nbsp; &nbsp;
-  <a href="Solutions/4.5.pdf">4.5</a> &nbsp; &nbsp;
-  <a href="Solutions/4.6.pdf">4.6</a> &nbsp; &nbsp;
-</dd></dt></dl>
-
-<dl><dt><dd>
-  <a href="Solutions/5.1.pdf">5.1</a> &nbsp; &nbsp;
-  <a href="Solutions/5.2.pdf">5.2</a> &nbsp; &nbsp;
-  <a href="Solutions/5.3.pdf">5.3</a> &nbsp; &nbsp;
-  <a href="Solutions/5.4.pdf">5.4</a> &nbsp; &nbsp;
-  <a href="Solutions/5.5.pdf">5.5</a> &nbsp; &nbsp;
-  <a href="Solutions/5.6.pdf">5.6</a> &nbsp; &nbsp;
-  <a href="Solutions/5.7.pdf">5.7</a> &nbsp; &nbsp;
-</dd></dt></dl>
-
-<dl><dt><dd>
-  <a href="Solutions/6.1.pdf">6.1</a> &nbsp; &nbsp;
-  <a href="Solutions/6.2.pdf">6.2</a> &nbsp; &nbsp;
-  <a href="Solutions/6.3.pdf">6.3</a> &nbsp; &nbsp;
-  <a href="Solutions/6.4.pdf">6.4</a> &nbsp; &nbsp;
-  <a href="Solutions/6.5.pdf">6.5</a> &nbsp; &nbsp;
-</dd></dt></dl>
-
-<p> Here are solutions to the additional problems for homework and to
-the exams. These problems and solutions are written by me. If you find
-typos (or worse, mistakes) please let me know right away. Again,
-<b>please do not distribute these</b>. </p>
-
-<dl><dt><dd>
-  <a href="Solutions/add-sol.pdf">Additional Problems</a> &nbsp; &nbsp; <br>
-  <a href="Solutions/mid1-sol.pdf">First Midterm Exam</a> &nbsp; &nbsp; <br>
-  <a href="Solutions/mid2-sol.pdf">Second Midterm Exam</a> &nbsp; &nbsp; <br>
-  <a href="Solutions/final-sol.pdf">Final Exam</a> &nbsp; &nbsp; <br>
-</dd></dt></dl>
-
-<!-- ------------------------------------------------ -->
-
-<hr>
-
-<a name=scores></a>
-<h3>Grades Database</h3>
-
-<p> If you are a registered student, you may verify your grades as
-entered in our database using the form below. </p>
-
-<form
-  method=post
-  action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs21/glookup.cgi">
-    <table><tr>
-      <td>Your name, without initials or suffixes:</td>
-      <td><input type=text name=name size=25></td>
-    <tr>
-      <td>Your CS 21 password:</td>
-      <td><input type=password name=password size=25></td>
-    </table>
-    <p>
-    <input type=submit name=submit value="Check scores">
-</form>
-
-<!-- ------------------------------------------------ -->
-
-<hr>
-
-<i> <div align=right>
-  <a href="../"> Teaching</a> &nbsp &nbsp
-  <a href="../../"> Home</a>
-</div> </i>
+<p align=right> <i> Back to <a href="index.html">DTS main page </a>. </i> </p>
 
 </body></html>
+li

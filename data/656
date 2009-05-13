@@ -1,24 +1,63 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR95-260
+http://www.cs.dartmouth.edu/reports/abstracts/TR94-224
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth PCS-TR95-260 </TITLE>
-<META NAME="description" CONTENT="Simulation of a Video-on-Demand System">
-<META NAME="number" CONTENT="PCS-TR95-260">
-<META NAME="year" CONTENT="1995">
-<META NAME="title" CONTENT="Simulation of a Video-on-Demand System">
-<META NAME="abstract" CONTENT="This paper presents a simulation study of a
-video-on-demand system.  The focus of the study is the effectiveness
-of different caching strategies on a video-on-demand system with two
-levels of cache, RAM and disks, in front of a tape library.  Using an
-event-driven simulator, I show that caching was helpful in increasing
-the service capacity of the system.  On-demand caching showed its
-advantages especially when the requests were clustered around a few
-popular titles (in other words, there was temporal locality). ">
-<META NAME="author" CONTENT="Song Bac Toh">
+<TITLE> Dartmouth PCS-TR94-224 </TITLE>
+<META NAME="description" CONTENT="BMMC Permutations on a DECmpp 12000/sx 2000">
+<META NAME="number" CONTENT="PCS-TR94-224">
+<META NAME="year" CONTENT="1994">
+<META NAME="title" CONTENT="BMMC Permutations on a DECmpp 12000/sx 2000">
+<META NAME="abstract" CONTENT="  Increasingly, modern computing problems, including many scientific
+and business applications, require huge amounts of data to be
+examined, modified, and stored.  Parallel computers can be used to
+decrease the time needed to operate on such large data sets, by
+allowing computations to be performed on many pieces of data at once.
+For example, on the DECmpp machine used in our research, there are
+2048 processors in the parallel processor array.  The DECmpp can read
+data into each of these processors, perform a computation in parallel
+on all of it, and write the data out again, theoretically decreasing
+the execution time by a factor of 2048 over the time required by one
+of its processors.
+  Often, the computations that occur after the data is in the
+processors involve rearranging, or permuting, the data within the
+array of parallel processors.  Information moves between processors by
+means of a network connecting them.  Communication through the network
+can be very expensive, especially if there are many
+collisions--simultaneous contentions for the same network
+resource--between items of data moving from one processor to another.
+When a program performs hundreds or even thousands of these
+permutations during its execution, a bottleneck can occur, impeding
+the overall performance of the program.
+  Effective algorithms that decrease the time required to permute the
+data within a parallel computer can yield a significant speed increase
+in running programs with large data sets.  Cormen has designed
+algorithms to improve performance when the data movement is defined by
+certain classes of permutations.  This thesis will examine the
+performance of one of these classes, the
+bit-matrix-multiply/complement (BMMC) permutation, when implemented on
+the DECmpp.  Although Cormen's algorithm was designed for parallel
+disk systems, this thesis adapts it to permutations of data residing
+in the memory of the parallel processors.
+  The DECmpp network follows the model of an Extended Delta Network
+(EDN).  One characteristic of an EDN is that it has a set of input and
+output ports to the network, each of which can carry only one item of
+data at a time.  If more than one item needs to travel over a given
+port, a collision occurs.  The data must access the port serially,
+which slows down the entire operation.  Cormen's algorithm reduces
+these collisions by computing a schedule for sending the data over the
+network.
+  For small data sets, it is not worthwhile to perform the extra
+operations to generate such a schedule, because the overhead
+associated with computing the schedule outweighs the time gained by
+preventing collisions at the network ports.  As the size of the data
+set increases, eliminating collisions becomes more and more valuable.
+On the DECmpp, when the data permutation involves more than 128
+elements per processor, our algorithm beats the more naive and obvious
+method for permuting in the parallel processor array.">
+<META NAME="author" CONTENT="Kristin Bruhl">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -112,47 +151,91 @@ popular titles (in other words, there was temporal locality). ">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Simulation of a Video-on-Demand System </b></font><br>
+<font size=+2><b> BMMC Permutations on a DECmpp 12000/sx 2000 </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/Toh,Song.Bac.shtml">Song Bac Toh</A>
+ <A HREF="../../authors/Bruhl,Kristin.shtml">Kristin Bruhl</A>
 <br>
-Dartmouth PCS-TR95-260
+Dartmouth PCS-TR94-224
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
-This paper presents a simulation study of a
-video-on-demand system.  The focus of the study is the effectiveness
-of different caching strategies on a video-on-demand system with two
-levels of cache, RAM and disks, in front of a tape library.  Using an
-event-driven simulator, I show that caching was helpful in increasing
-the service capacity of the system.  On-demand caching showed its
-advantages especially when the requests were clustered around a few
-popular titles (in other words, there was temporal locality). 
+</P><P>
+  Increasingly, modern computing problems, including many scientific
+and business applications, require huge amounts of data to be
+examined, modified, and stored.  Parallel computers can be used to
+decrease the time needed to operate on such large data sets, by
+allowing computations to be performed on many pieces of data at once.
+For example, on the DECmpp machine used in our research, there are
+2048 processors in the parallel processor array.  The DECmpp can read
+data into each of these processors, perform a computation in parallel
+on all of it, and write the data out again, theoretically decreasing
+the execution time by a factor of 2048 over the time required by one
+of its processors.
+</P><P>
+  Often, the computations that occur after the data is in the
+processors involve rearranging, or permuting, the data within the
+array of parallel processors.  Information moves between processors by
+means of a network connecting them.  Communication through the network
+can be very expensive, especially if there are many
+collisions--simultaneous contentions for the same network
+resource--between items of data moving from one processor to another.
+When a program performs hundreds or even thousands of these
+permutations during its execution, a bottleneck can occur, impeding
+the overall performance of the program.
+</P><P>
+  Effective algorithms that decrease the time required to permute the
+data within a parallel computer can yield a significant speed increase
+in running programs with large data sets.  Cormen has designed
+algorithms to improve performance when the data movement is defined by
+certain classes of permutations.  This thesis will examine the
+performance of one of these classes, the
+bit-matrix-multiply/complement (BMMC) permutation, when implemented on
+the DECmpp.  Although Cormen's algorithm was designed for parallel
+disk systems, this thesis adapts it to permutations of data residing
+in the memory of the parallel processors.
+</P><P>
+  The DECmpp network follows the model of an Extended Delta Network
+(EDN).  One characteristic of an EDN is that it has a set of input and
+output ports to the network, each of which can carry only one item of
+data at a time.  If more than one item needs to travel over a given
+port, a collision occurs.  The data must access the port serially,
+which slows down the entire operation.  Cormen's algorithm reduces
+these collisions by computing a schedule for sending the data over the
+network.
+</P><P>
+  For small data sets, it is not worthwhile to perform the extra
+operations to generate such a schedule, because the overhead
+associated with computing the schedule outweighs the time gained by
+preventing collisions at the network ports.  As the size of the data
+set increases, eliminating collisions becomes more and more valuable.
+On the DECmpp, when the data permutation involves more than 128
+elements per processor, our algorithm beats the more naive and obvious
+method for permuting in the parallel processor array.
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-A Senior Honors Thesis in Computer Science.
+A Senior Honors Thesis in Computer Science.  Advisor: Thomas Cormen.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR95-260.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
- compressed postscript .ps.Z (500KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR94-224.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (192KB)
 ,
- <a href="http://www.cs.dartmouth.edu/reports/TR95-260.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (128KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR94-224.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (360KB)
 (derived from the ps.Z)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR95-260.ascii">plain text</a>]
-  [<a href="TR95-260.bib">BIB</a>]
-  [<a href="TR95-260.bibtex">BibTeX</a>]
-  [<a href="TR95-260.refer">Refer</a>]
+  [<a href="TR94-224.ascii">plain text</a>]
+  [<a href="TR94-224.bib">BIB</a>]
+  [<a href="TR94-224.bibtex">BibTeX</a>]
+  [<a href="TR94-224.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Song Bac Toh, 
-"Simulation of a Video-on-Demand System."
-Dartmouth Computer Science Technical Report PCS-TR95-260,
-June 1995.
+Kristin Bruhl, 
+"BMMC Permutations on a DECmpp 12000/sx 2000."
+Dartmouth Computer Science Technical Report PCS-TR94-224,
+ 1994.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->

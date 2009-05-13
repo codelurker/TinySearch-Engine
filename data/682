@@ -1,3 +1,115 @@
-http://www.cs.dartmouth.edu/%7Emiluzzo/three
+http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Spring2009/index.html
 3
-xQ)
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>CS034/CS134 | Machine Learning and Statistical Data Analysis  | Spring 2009</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<div class="pagebackground">
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+<div class="header">
+  <div class="title"> CS034/CS134, Spring 2009</div>
+  <div class="subtitle">Machine Learning and Statistical Data Analysis</div>
+</div>
+
+<div class="navigation">
+  <a href="index.html" class="navhere">About</a>
+  <a href="schedule.html" class="navthere">Schedule</a>
+  <a href="projects.html" class="navthere">Projects</a>
+</div>
+
+<div class="content">
+
+<h2>Course description</h2> 
+
+<p> This course provides an introduction to statistical modeling and machine learning. Topics include learning theory, supervised and unsupervised machine learning, statistical inference and prediction. A wide variety of algorithms will be presented, including K-nearest neighbors, naive Bayes, decision trees, support vector machines, logistic regression, K-means, mixtures of Gaussians, principal components analysis, Expectation Maximization. The course will also discuss modern applications of machine learning such as image segmentation and categorization, speech recognition, and text processing. </p>
+
+<a name="admin"></a>
+<h2>Administrative information</h2>
+
+<dl>
+  <dt>Instructor</dt>
+  <dd><a href="http://www.cs.dartmouth.edu/~lorenzo/">Lorenzo Torresani</a> |
+       109 Sudikoff | office hour: Th 1:30-3:30pm</dd>
+
+  <dt>Teaching assistant</dt>
+  <dd><a href="http://www.cs.dartmouth.edu/~pway">Wei Pan</a> |
+       158 Sudikoff | office hour: M 2-4pm</dd>
+
+  <dt>Course staff email</dt>
+  <dd>cs134 -at- cs -dot- dartmouth -dot- edu</dd>
+
+  <dt>Lectures</dt>
+  <dd>T-Th 10-11:50am | x-hour (used sporadically for lectures) W 3-3:50 <br/> 206 Dartmouth Hall</dd>
+
+  <dt>Lab</dt>
+  <dd>Sudikoff 001:  Linux machines with Matlab. This lab is used by two other courses so at peak times it may be difficult to find machines available. If you plan to use the machines in this lab, do not wait until the last minute before working on the programming part of the homeworks. As an alternative, you can use Matlab on your machine by following the instructions provided <a href="matlab.html">here</a>.</dd>
+
+  <dt>Textbook (recommended but not required)</dt>
+  <dd>Christopher M. Bishop, <a href="http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm"><i>Pattern Recognition and Machine Learning</i></a>, Springer 2006 </dd>
+
+</dl>
+
+<a name="admin"></a>
+<h2>Grading and policies</h2>
+
+<dt>Grading scheme</dt>
+<dd>The course grade will be based 60% on the homeworks (each of the three homework will count for 20% of the final grade), and 40% on the term project. The homeworks will require answering questions and implementing some algorithms in Matlab, but prior knowledge of Matlab is not required. A tutorial covering the basics of Matlab will be offered.</dd>
+
+<dt>Late homeworks</dt>
+<dd>Each student has 3 free late days to be used over the course of the term as he/she likes. Once these days are used up, any homework turned in late will be penalized 25% per late day. No homework will be accepted more than 3 days after its due date. <em>No exception!</em> The late days can be used only for the homeworks, not for the project submissions. Any portion of a late day is counted as one full day. Assignments are typically due at 11:59 pm of the due date. Both the project and the homework submissions are to be turned in via <a href="http://www.dartmouth.edu/~blackboard/">Blackboard</a>.</dd>
+
+<dt>Auditing</dt>
+<dd>Please contact the instructor if you would like to audit the course.</p>
+
+</dd>
+
+<a name="honor"></a>
+<h2>Academic integrity</h2>
+
+<p>You may discuss the assignments with other current CS034/134 students,
+but your submission must be entirely your own work.  That is, your code
+and any other solutions you submit must be created, written/typed, and
+documented by you alone.  You may not copy anything directly from
+another student's work.  For example, memorizing or copying onto paper
+a portion of someone else's solution would violate the honor code,
+even if you eventually turn in a different answer.  Similarly,
+e-mailing a portion of your code to another student, or posting it
+on-line for them to see would violate the honor code.  We do encourage discussion of assignments
+between students, subject to these rules.</p>
+
+<p>You cannot make use of any code taken from outside references for 
+your homeworks, unless explicitly authorized to do so by the instructor. 
+As a rule of thumb, you should treat any external code as software 
+written by another CS034/134 student: you are not allowed to copy it or 
+to use it as a template to implement your solution.</p>
+
+<p> You are allowed to use external software for your project. You should clearly report the use of external code and include pointers to such software in your project write-up.
+
+<p> These rules will be strictly enforced and any violation will be treated seriously </p>
+
+</div>
+
+<div class="footer">
+<!-- hhmts start --> <!-- hhmts end -->
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>
+i

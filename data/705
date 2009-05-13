@@ -1,119 +1,162 @@
-http://www.cs.dartmouth.edu/~cbk/68/05winter/index.html
+http://www.cs.dartmouth.edu/~farid/teaching/cs68/cs68.winter.00.html
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<meta http-equiv=content-type content="text/html">
-<title>CS 68: Principles of Programming Languages, Winter 2005</title>
+<LINK REL=STYLESHEET  HREF="../../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../../icon/favicon.gif">
+
+<title> Hany Farid: Teaching: CS 68, Winter, 2000 </title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<body bgcolor="#EEEEEE">
-<table border=0 cellpadding=3 width=750>
+<i>
+<div align=right>
+<a href="../teaching.html"> Teaching</a> &nbsp &nbsp
+<a href="../../home.html"> Home</a>
+</div>
+</i>
 
-<tr>
-<td colspan="2"><h2>CS 68: Principles of Programming Languages, Winter 2005</h2></td>
+<table cellpadding=0>
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
 </tr>
 
-<tr>
-<td><b>Instructor</b></td> 
-<td><a href="http://www.cs.dartmouth.edu/~cbk/">Chris
-Bailey-Kellogg</a></td>
+<tr><td valign=top><b>News</b></td> 
+	<td valign=top> <font size=-1>
+	</font></td>
 </tr>
 
-<tr>
-<td valign="top"><b>Office hours</b></td>
-<td>Tentatively Monday 1:35-2:35, Wednesday 3:00-4:00, and Thursday 11:00-12:00; or by appointment.</td>
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
 </tr>
 
-<tr>
-<td><b>TA</b></td> 
-<td><a href="http://www.cs.dartmouth.edu/~cmasone/">Chris
-Masone</a></td>
+<tr><td valign=top><b>Course</b>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	<b>CS 68 | Principles of Programming Languages | Winter 2000</b>
+	</font></td>
 </tr>
 
-<tr>
-<td valign="top"><b>TA hours</b></td> 
-<td>Office (060 Sudikoff): tentatively Tuesday 3:00-4:00 and Wednesday 2:00-3:00; special lab hours near due dates.</td>
+<tr><td valign=top><b>Lecture</b> <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	Fairchild 101 | MWF 1:45-2:50 | XHr 1:00-1:50 R
+	</font></td>
 </tr>
 
-<tr>
-<td><b>Class</b></td>
-<td>MWF 12:30-1:35; x-hour T 1:00-1:50</td>
+<tr><td valign=top><b>Instructor</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Hany Farid | Sudikoff 208 | 646.2761<BR> 
+	office hours: MF 3:00-4:00 | W 12:30-1:30<BR>
+	</font></td>
 </tr>
 
-<tr>
-<td valign="top"><b>Text</b></td> 
-<td>Peter Van Roy and Seif Haridi, <i>Concepts, Techniques, and
-Models of Computer Programming</i>, MIT Press, 2004.  
-<a href="http://www.info.ucl.ac.be/people/PVR/book.html">Book website</a>
-(includes errata, blurbs/reviews, book details, etc.).</td></tr>
+<tr><td valign=top><b>TA</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Yougu.Yuan @ dartmouth.edu | Sudikoff 106 | 646.3297 <BR> 
+	office hours: TuTh 2:00-3:00 <BR><BR>
+	David.A.Castleman @ dartmouth.edu <BR>
+	lab hours (005): W 3:30-5:00 | Th 6:00-7:30
 
-<tr><td><hr></td><td><hr></td></tr>
-
-<tr>
-<td valign="top"><b>Overview</b></td>
-<td><p>This course studies how different programming languages support the
-development and implementation of software systems.  We focus on the
-underlying <i>computation models</i> that formally define how
-computations are carried out and provide data types and operations
-with which to program.  In general, the choice of computation model
-affects how to approach an implementation task, which programming
-techniques and design principles to employ, and how to reason about
-the resulting programs.  Significant and diverse computation models
-include declarative, concurrent (declarative, message-passing, and
-shared state), explicit state, object-oriented, relational, and
-constraint.</p>
-
-<p>In order to avoid getting bogged down in syntactic differences in
-programming languages (there is <a
-href="http://www.99-bottles-of-beer.net/">plenty of that</a>), this
-course adopts a unified approach based on the <i>Oz</i> language, as
-implemented in the <i>Mozart</i> programming system.  The <a
-href="http://www.mozart-oz.org/">Mozart/Oz</a> website overviews the
-language features; the key for us is that it supports the diversity of
-computation models listed above, with very little baggage distracting
-from the fundamental principles.</p>
-</td></tr>
-
-<tr><td><hr></td><td><hr></td></tr>
-
-<tr>
-<td valign="top"><b>Course requirements</b></td>
-<td>
-<p>The goal of the course is to gain broad exposure to the principles
-of programming languages.  Homeworks (which include programming
-exercises) will provide focal points for diving in and working under
-each different computational model.  These will account for 50% of the
-grade.  In addition, a group project/presentation will exercise the
-useful skill of transferring an understanding of a programming
-paradigm across languages.  This will account for 20% of the grade.
-Finally, two quizzes (one at midterm and one during finals week) will
-provide the remaining 30% of the grade.
-</p>
-
-<p>All students are expect to read, understand, and follow the <a
-href="policies.html">course policies</a>, which cover collaboration,
-the mechanism for submitting homework, and so forth.</p>
-
-<p>The <a href="schedule.html">course schedule</a> lists due dates,
-topics, and reading.</p>
-</td>
 </tr>
 
-<tr><td><hr></td><td><hr></td></tr>
-<tr>
-<td><a href="http://www.mozart-oz.org/"><img src="mozart-69x30.gif"
-width="69" alt="Mozart/Oz"></a></td>
-<td align="right">
-<a href="http://www.cs.dartmouth.edu/~cbk/68/">CS 68</a><br>
-<a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a><br>
-<!-- hhmts start -->
-Last modified: Tue Feb  1 21:42:18 EST 2005
-<!-- hhmts end -->
-</td>
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Textbook</b> <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	Programming Languages, Principles and Practice, Kenneth C. Louden
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Computing</b> <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	The linux boxes in Sudikoff 005 support all the neccessary
+	programming languages.  You should make sure that any code you
+	write compiles and runs on these machines.
+	</font></td>
+</tr>
+
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Syllabus</b> <BR> </td> 
+	<td valign=top> <font size=-1>
+	&nbsp&nbsp&nbsp&nbsp o History of programming languages <BR>
+	&nbsp&nbsp&nbsp&nbsp o Abstractions in programming languages <BR>
+	&nbsp&nbsp&nbsp&nbsp o Scanning/Parsing (flex/bison) <BR>
+	&nbsp&nbsp&nbsp&nbsp o Basic semantics <BR>
+	&nbsp&nbsp&nbsp&nbsp o Type checking  <BR>
+	&nbsp&nbsp&nbsp&nbsp o Lambda calculus <BR>
+	&nbsp&nbsp&nbsp&nbsp o Scheme <BR>
+	&nbsp&nbsp&nbsp&nbsp o ML <BR>
+	&nbsp&nbsp&nbsp&nbsp o Prolog <BR>
+	&nbsp&nbsp&nbsp&nbsp o Matlab <BR><BR>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Readings</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Chapters 1,2 (introduction) <BR>
+	Chapters 4,5 (syntax/semantics)<BR>
+	Chapter 6 (type checking) <BR>
+	Chapter 10 (functional programming) <BR>
+	Chapter 11 (logic programming) <BR><BR>
+	</font></td>
+</tr>
+
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Grading</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Homework (35%) | Midterm (30%) | Final (35%)
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Homework</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	There will be weekly homeworks given on Friday.  Homework is
+	due in class on the following Friday.  Submit a hardcopy of any
+	written questions, a hardcopy of any programming questions,
+	and sample output.  Homeworks received after Friday class will
+	lose 20%, on Saturday 30%, on Sunday 40%, on Monday 50%, and
+	will not be accepted afterwards.  At any time during the term
+	you may have a one week extension on any single homework. <BR>
+	<a href="hw1.html"> Homework #1</a> |
+	<a href="hw2.html"> Homework #2</a> |
+	<a href="hw3.html"> Homework #3</a> |
+	<a href=hw4.html>Homework #4</a> |
+	<a href=hw5.html>Homework #5</a> <BR>
+
+	<a href=electronic.submit.html>Electronic submission
+	guidelines</a> <BR><BR>
+
+</font></td> </tr>
+
+<tr><td valign=top><b>Exam</b> </td> 
+	<td valign=top> <font size=-1>
+	The midterm and final will be in-class exams.<BR>
+	<a href="practice1.html"> Sample Problems 1</a> |
+	<a href="practice2.html"> Sample Problems 2</a>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
 </tr>
 
 </table>
 
-</body>
+
+<i>
+<div align=right>
+<a href="../teaching.html"> Teaching</a> &nbsp &nbsp
+<a href="../../home.html"> Home</a>
+</div>
+</i>
 </html>

@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
+http://www.cs.dartmouth.edu/~campbell/cs78/project.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -19,38 +19,6 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
@@ -84,22 +52,6 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   
   
@@ -116,23 +68,7 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <title>assignments</title>
+  <title>project</title>
 </head>
 
 
@@ -152,6 +88,7 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
+<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big>Computer Science 78<br>
 
 
 
@@ -169,9 +106,9 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
-<big><big style="font-family: Arial;"><big><big>Computer Science 78<br>
 
 
+<span style="font-weight: bold;">projects<br>
 
 
 
@@ -185,6 +122,7 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
+</span></big></big></big></big><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><br>
 
 
 
@@ -198,11 +136,11 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
+</big><big style="font-family: Helvetica,Arial,sans-serif;"><br>
 
 
 
 
-<span style="font-weight: bold;">lab assignments -&nbsp; hacking, part II.<br>
 
 
 
@@ -211,163 +149,7 @@ http://www.cs.dartmouth.edu/~campbell/cs78/assignments.html
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</span></big></big></big></big><br style="font-family: Helvetica,Arial,sans-serif;">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-family: Helvetica,Arial,sans-serif;"><big style="font-weight: bold;">Lab&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Assigned
-Date&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-Dute Date</big><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp; </span><span style="font-family: Times New Roman,Times,serif;"><span style="text-decoration: underline;"></span></span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><span style="text-decoration: underline;"><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</span></span><a href="lab1.html"><span style="font-family: Times New Roman,Times,serif;">Lab1 - Packet sniffing</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;Monday</span><span style="font-family: Times New Roman,Times,serif;"> March&nbsp; 30&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Friday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 3 &nbsp;(12 midnight)&nbsp; </span><span style="font-family: Times New Roman,Times,serif;"><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></big>There are no lectures during the last two weeks of the course. <br>
 
 
 
@@ -385,6 +167,9 @@ Dute Date</big><br>
 
 
 
+<div style="text-align: left;">During that time you will be working in
+teams programming N810s. These are embedded Linux devices that have a
+bunch of wireless interfaces and sensors (GPS for example).<br>
 
 
 
@@ -393,36 +178,11 @@ Dute Date</big><br>
 
 
 
+</div>
 
 
 
 
-
-
-
-
-
-
-
-
-</span><span style="font-family: Times New Roman,Times,serif;"></span><a href="lab2.html"><span style="font-family: Times New Roman,Times,serif;">Lab2 - Reverse engineering sockets</span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab2.html">: a puzzle</a> &nbsp;&nbsp;&nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Friday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 3 </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sunday, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 12 </span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;">
 
 
 
@@ -436,30 +196,7 @@ Dute Date</big><br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-</span><a href="lab3.html"><span style="font-family: Times New Roman,Times,serif;">Lab3 - IM application</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Monday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 13 </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; Sunday, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 19 &nbsp;(</span><span style="font-family: Times New Roman,Times,serif;">12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
-
-
-
-
-
-
-
-
+&nbsp; <img style="width: 311px; height: 253px;" alt="Nokia 810s" src="N810.jpg"><br>
 
 
 
@@ -469,112 +206,87 @@ Dute Date</big><br>
 <span style="font-family: Times New Roman,Times,serif;"><br>
 
 
+This was last years project</span><span style="font-family: Times New Roman,Times,serif;"> description</span><span style="font-family: Times New Roman,Times,serif;"> (TBA) we may change this - we likely will. More on that <br>
 
 
+as we move along. </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;The Webpage for last year's project including resources, description can be found here.</span><br>
 
 
+<span style="font-family: Times New Roman,Times,serif;"><br>
 
 
 
 
 
 
+</span><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;">Important Project Description, Teams, and Milestones</big><span style="font-family: Times New Roman,Times,serif;"><font style="font-weight: bold;" size="+1"><big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></font><br>
 
 
+</span><span style="font-family: Times New Roman,Times,serif;"></span>
 
 
 
+<span style="font-family: Times New Roman,Times,serif;"><br>
 
+</span><span style="font-family: Times New Roman,Times,serif;">
 
-</span><a href="lab4.html"><span style="font-family: Times New Roman,Times,serif;">Lab4 - DartNet: Simple Reliable Transport (SRT-SIG)</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Monday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 20</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sunday</span><span style="font-family: Times New Roman,Times,serif;">, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 28 &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
 
+Lecture 20</span><span style="font-family: Times New Roman,Times,serif;"> kickoffs the project by announding the project teams. <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><a href="lab5.html"><span style="font-family: Times New Roman,Times,serif;">Lab5 - DartNet: Simple Reliable Transport (SRT-GBN)</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Monday </span><span style="font-family: Times New Roman,Times,serif;">,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">April&nbsp; 27</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;Sunday, &nbsp;May 3</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;">
+Also, we will release the project description at the end of class.<br>
 
 
 <br>
 
+Projects really get started when the last programming is handed in on Sunday May 17; we then<br>
 
+give a could of tuorials:<br>
 
+</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"><br>
 
 
+</span>Lecture 22 &nbsp; Monday</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">Project and tutorial I on N810s
+(Cory)</span><br>
 
 
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
 
 
 
 
+Lecture &nbsp;23 &nbsp; Wednesday &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Project and tutorial II on
+N810s (Cory)</span><span style="font-family: Times New Roman,Times,serif;"><br>
 
+</span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
 
 
 
 
 
-</span>
 
+</span><span style="font-family: Times New Roman,Times,serif;">The
+following set of deadlines are important for the progress of the
+project. Please note that you need to provide documentation for the
+design/code reviews and the final project submission.<br>
 
 
 
 
+</span><span style="font-family: Times New Roman,Times,serif;"><br>
 
 
-<a href="lab6.html"><span style="font-family: Times New Roman,Times,serif;">Lab6 - DartNet: Overlay Network </span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab6.html">(ON)</a>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Monday, May 4</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Sunday, May 10</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
 
 
+Notice
+that we will use cvs for code management for the project. All code
+needs to be signed as part of the submission. In addition, the final
+report has to be written using latex and the source and a pdf submitted
+in the project cvs directory.<br>
 
 
 
@@ -582,91 +294,18 @@ Dute Date</big><br>
 
 
 
+</span><span style="font-family: Times New Roman,Times,serif;"><br>
 
 
 
 
 
-<span style="font-family: Times New Roman,Times,serif;">
 
+<span style="font-weight: bold;"></span></span><span style="font-family: Times New Roman,Times,serif;">
 
-<br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</span><a href="lab7.html"><span style="font-family: Times New Roman,Times,serif;">Lab7 - DartNet: Simple Network Protocol</span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab7.html">
-(SNP)</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Monday, May 11</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp; &nbsp;Sunday, &nbsp;May&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">17 </span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;">
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is an initial schedule that might change. You will be informed in advance if that is the case. All assignments<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-are due at 12 midnight.<br>
-
-
-
-
-
-
-
-
+Project webpage including the description and resources found here.<br>
 
 
 
@@ -685,59 +324,10 @@ are due at 12 midnight.<br>
 
 
 
-
-
-
-As part of getting you to complete we allow the weekend to work on the labs. Typically labs are given out at <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Monday @ class and due at midnight on Sunday. There are TA hours on Wednesday, Saturday, <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-and Sunday in support of these assignments. You can mail the TA anytime - he is mostly always around<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-and available.<br>
-
-
-
-
-
-
+The
+following set of deadlines are important for the progress of the
+project. Please note that you need to provide documentation for the
+design and code reviews and the final project submission. <br>
 
 
 
@@ -755,143 +345,29 @@ and available.<br>
 
 
 
+Notice that we will use cvs for code management for the project. All
+code needs to be signed as part of the submission. In addition, the
+final report has to be written using latex and the source and a pdf
+submitted in the project cvs directory.<br>
 
 
 
 
 
 
-Labs 4-7 are the DartNet set. As part of Lab7 you build the overlay network with SRT and SNP and then run your IM app<br>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-over the network. This is challenging and very cool once you get it working. In essence you have bult a simplified internet<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-stack. Now is that cool!<br>
-
-
-
-
-
-
-
-
-
-&nbsp;<br>
-
-
-
-
-
-
-
-
-You will write approximately 3000 lines of C code for the assignments and 3500 lines&nbsp;for the group <br>
-
-
-
-
-
-
-
-
-project (shared between the group members). </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Note, there is some code reuse for the DartNet set of labs.</span><br>
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;">
 <br>
 
-
-
-
-
-
-
-
-
-Lab 2 (Sockets): 200<br>
-
-
-
-
-
-
-
-
-
-Lab 3 (IM): 483<br>
-
-
-
-
-
-
-
-
-
-Lab 4 (SRT-SIG): 371<br>
-
-
-
-
-
-
-
-
-
-Lab 5 (SRT-GBN): </span><span style="font-family: Times New Roman,Times,serif;">542 </span><span style="font-family: Times New Roman,Times,serif;">(171 new lines) <br>
-
-
-
-
-
-
-
-
-
-Lab 6 (Overlay):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">709 </span><br>
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;">
-Lab 7 (SNP):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">1169</span><span style="font-family: Times New Roman,Times,serif;">&nbsp; <br>
-
-
+</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">4-7 PM Friday May 22 design review</span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">.</span> The
+project review should include requirements, Design Spec
+(inputs/outputs, data flow, data structures, pseudo-code) and
+functional decomposition; How the project implementation breaks down
+who is doing what. The project review material is due 12 PM day before
+review Send tarball documentation to cs78@cs.dartmouth.edu<br>
 
 
 
@@ -907,11 +383,11 @@ Lab 7 (SNP):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"
 
 
 
-
-
-Project: 3586 (shared across the group).<br>
-
-
+<span style="font-weight: bold;"></span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"> 4-7 PM Friday May 29 code review</span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">. </span>The
+code review should include the Implementation Spec, unit tests and
+whatever code is written up until the review point. The code review
+material is due 12 PM day before review. Send tarball documentation and
+source tree to cs78@cs.dartmouth.edu<br>
 
 
 
@@ -927,7 +403,7 @@ Project: 3586 (shared across the group).<br>
 
 
 
-See the <a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs78/project.html">project</a> page for the remaining schedule and for important milestones and what is needed for those<br>
+<span style="font-weight: bold;">4-7 PM Tuesday June 2 demo or die day</span>. Project presentation (design overview, lessons learnt, etc) and demo of project.<br>
 
 
 
@@ -935,13 +411,45 @@ See the <a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs78/project.html">proj
 
 
 
-milestones.<br>
+<span style="font-weight: bold;"><br>
+
+
+12 AM Wednesday June 3 project reports due</span>.
+The report written in latex includes description of the project, the
+Design Spec, functional decomposition of the system, Implementation
+Spec, lessons learnt. The appendix includes all code and unit tests.
+All materials should be signed into the teams cvs project page. The PDF
+of the project report should be sent to cs78@cs.dartmouth.edu<br>
+
+<br>
+
+</span><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><br>
 
 
 
 
 
 
+<br>
+
+
+
+
+
+
+</big><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+</span><br>
 
 
 
@@ -967,17 +475,5 @@ milestones.<br>
 
 
 
-
-</span>
-
-
-
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;"></span>
 </body>
 </html>

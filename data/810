@@ -1,11 +1,11 @@
-http://www.cs.dartmouth.edu/~fabio/teaching/cs42-spring08
+http://www.cs.dartmouth.edu/~fabio/teaching/cs4-winter07
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-		<title>COSC42 - Projects in Digital Art - Spring 2008</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>CS4 - Concepts in Computing - Winter 2007</title>
 	<meta name="author" content="Fabio Pellacini" />
 	<link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
@@ -20,182 +20,214 @@ http://www.cs.dartmouth.edu/~fabio/teaching/cs42-spring08
 <div class="page">
 
 <div class="header">
-<div class="title">Projects in Digital Art</div>
-<div class="subtitle">COSC42 - Spring 2008</div>
+<div class="title">Concepts in Computing</div>
+<div class="subtitle">CS4 - Winter 2007</div>
 <div class="subtitle">Instructor: Fabio Pellacini</div>
 </div>
 
 <div class="navigation">
 <span class="navigationitem"><a href="index.html">About</a></span>
 <span class="navigationitem"><a href="schedule.html">Schedule</a></span>
-<span class="navigationitem"><a href="projects.html">Projects</a></span>
 </div>
 
 <div class="content">
 <h1>About</h1>
 
+<table style="text-align: center">
+<tr>
+<td>
+<img src="nun.jpg"/>
+</td>
+<td>
+<blockquote><p>
+<em>I think there is a world market for maybe five computers.</em> <br />
+   -Thomas Watson, IBM chairman, 1943
+</p></blockquote>
+<blockquote><p>
+<em>Computers in the future may weigh no more than 1.5 tons.</em> <br />
+   -Popular Mechanics, 1949
+</p></blockquote>
+<blockquote><p>
+<em>There is no reason anyone would want a computer in their home.</em> <br />
+   -Ken Olson, DEC chairman, 1977
+</p></blockquote>
+</td>
+</tr>
+</table>
+
+<h2>Announcements</h2>
+<p>We will not have class on Saturday Janury 6th.</p>
+
 <h2>Course Description</h2>
+<p>This course provides an overview of some of the most interesting topics 
+in computing and computer science, from how the World-Wide Web works all the 
+way down to how a computer processes individual ones and zeros. 
+We will study computing topics through the lens of HTML and JavaScript, 
+two of the more important technologies behind the World-Wide Web. 
+You will learn how to make web pages that present information, 
+and how to write scripts that interact with the users of your pages. 
+We will also cover current topics in computing, such as web searching, 
+computer animation, robotics, and bioinformatics. </p>
 
-<p>Students complete projects using digital arts techniques. 
-Projects include computer animations, interactive graphics projects and installations, 
-digital photography. Students can use commercial software, create new applications for 
-commercial software, or develop new software or tools.</p>
-
-<p>While we allow for any digital art project, this term the course will focus on the
-production of a short animated movie. Any student interested in pursuing a different
-project, should contact the instructor.</p>
-
-<p>Lectures will be split on those where we will present conceptual topics on 
-animated movie making and digital art, those where we will discuss your work, 
-and those where we will work together in the lab.</p>
+<p>Note: CS 4 is not a "computer literacy" course. 
+We will not learn how to use general application software such as word processors, 
+spreadsheets, or e-mail programs; our intent is to give you a clear survey of 
+computer science, plus some practical experience in applying the concepts you've learned.</p>
 
 <h2>Administration</h2>
 
 <div class="listBlock">
 <div class="listBlockTitle">Instructor</div>
 <ul>
-<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) | Sudikoff 153 | Office hour: TBD </li>
+<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) <br/> 
+Sudikoff 153 | Office hour: Th 1:30-3:00 pm and by appointment or just pop in</li>
 </ul>
 </div>
 
 <div class="listBlock">
-<div class="listBlockTitle">Teaching Assistant</div>
+<div class="listBlockTitle">Teaching assistants</div>
 <ul>
-<li class="listBlockItem">Brandon Kerr (wkerr -at- cs -dot- dartmouth -dot- edu) | Sudikoff 143 | Office hour: TBD </li>
+<li class="listBlockItem">Wei-Ming Chen (Wei-Ming -dot- Chen -at- dartmouth -dot- edu) <br/> Sudikoff 152 | Office hours: Su 2:00-3:00 pm, W 12:30-1:30 pm</li>
+<li class="listBlockItem">Chrisil Arackaparambil (cja -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 106 | Office hours: WF 10:0m-11:00am </li>
+<li class="listBlockItem">Himanshu Chandola (himanshu -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 157 | Office hours: MF: 3:00-4:00 pm</li>
+<li class="listBlockItem">Chien-Chung Huang (villars -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 221 | Office hours: M 3:00-5:00pm </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Course Staff Email</div>
+<ul>
+<li class="listBlockItem">cs4 -at- cs -dot- dartmouth -dot- edu</li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">TA-in-lab hours</div>
+<ul>
+<li class="listBlockItem">Sudikoff 005 | Tu,W,Th 5:00-7:00 pm</li>
 </ul>
 </div>
 
 <div class="listBlock">
 <div class="listBlockTitle">Lectures</div>
 <ul>
-<li class="listBlockItem">TuTh 10:00-11:50am | Sudikoff 214</li>
-<li class="listBlockItem">Xhour: W 3:00-3:50pm | Used sometimes for labs </li>
+<li class="listBlockItem">MWF 1:45-2:50pm | Filene in Moore </li>
+<li class="listBlockItem">Xhour: Th 1:00-1:50pm | Used sometimes for lectures </li>
 </ul>
 </div>
 
 <div class="listBlock">
-<div class="listBlockTitle">Lab</div>
+<div class="listBlockTitle">Textbook</div>
 <ul>
-<li class="listBlockItem">Sudikoff 003</li>
-<li class="listBlockItem">Reserved M-F: 5:00-7:00 pm; Sat-Sun: 2:00-8:00 pm</li>
+	<li>Required: G. Michael Schneider, Judith L. Gersting, <em>An Invitation to Computer Science</em>, 4th Edition. </li>
+	<li>Recommended: Danny Goodman, Michael Morrison, <em>JavaScript Bible</em>, 5th Edition.</li>
 </ul>
 </div>
 
-<h2>Coursework</h2>
-
-<h3>Project</h3>
+<h2>Coursework and Grading</h2>
 
 <p>
-The class will focus on the production of a digital art project. Students can suggest their own projects, which may include animated movies, computer games, digital photography or interactive art installations. Since we expect most students to pursue the production of an animated short as their main project, the class instruction and schedule will focus on that. If students are interested in other projects, please contact the instructor right away so we can arrange it. From now on, we will describe the course as a short animated movie production.
+The class will have homeworks, and a midterm and final.
+The schedule page will contain an up-to-date list of homeworks and due dates.
 </p>
+
+<h3>Homeworks</h3>
 
 <p>
-In producing a short animated movie, we will focus on production methods and group work. In a sense, we will replicate at a tiny scale, the structure of a large production house (except you will play all of the different roles). Each short should be <em>at most 90 seconds long and contain no more than two animated characters</em> (but have have many objects in the set). Remember that the goal is a short <em>high quality</em> production, as opposed to a long rough piece. We suggest you start with a 60 seconds idea.
+The homeworks will be due at the beginning of class on Fridays, unless otherwise noted,
+with answers either printer or clearly written.
+<em>Late homeworks will not be accepted for credit.</em>
+Exception to this rule might be made for special cases only if the professor 
+is informed way before the deadline and at his sole discretion.
 </p>
-<p>
-For each animated short, we will go though the various stages of a production pipeline with grading milestone at each stage and for the final submitted piece.
-</p>
-<ul>
-<li>story and storyboarding</li>
-<li>character/scene modeling</li>
-<li>character rigging and set dressing</li>
-<li>character/scene shading</li>
-<li>layout and animation tests</li>
-<li>animation</li>
-<li>lighting</li>
-<li>rendering</li>
-<li>editing and postproduction</li>
-</ul>
+
+<p>For both written questions and programming problems, you must hand in hard-copy 
+of your solutions. When turning in homework assignments, 
+write your name on each piece of your submission, and turn them in enclosed in a 
+manila envelope which has your name written prominently on it.</p>
 
 <p>
-Projects are to be <em>performed in groups of 4 </em> students. Given the time allotted, this will give you the possibility of creating higher quality animations, together with a sense of how movie productions work. At different times during the projects, group members will focus on various aspects of the production, but overall team work will be necessary to finish the project on time and with high quality.
+In order to complete the HTML/JavaScript homeworks you will need to:
 </p>
+<ol>
+	<li> <a href="http://www.dartmouth.edu/~apply">Apply for personal web space</a> 
+		on the Dartmouth web server. Do this as soon as possible, 
+		as it may take several days for your account to be created. </li>
+    <li> Create a "private" folder within your personal web space for your 
+         CS 4 homework. Name the folder something like cs4Q8294 -- that is, 
+         append to cs4 a letter (upper or lower case) followed by four numbers 
+         (non-sequential, e.g., don't use 1234). 
+         Your choice of a code name for this folder will make it unlikely that 
+         anybody can casually stumble onto your homework. 
+         Needless to say, it is a violation of the honor code to copy anything 
+         from another student's web page. 
+         When submitting your homework, make sure to write down your full URL 
+         (including the 5 character code), so that your TA will be able to access your homework. </li>
+    <li> Install a version of <a href="http://www.mozilla.com/en-US/firefox/">Firefox 2</a>. 
+    	Note that there are differences between the various web browsers, 
+    	and you must make sure that your code works on Firefox 2, 
+    	as this is what the TAs will be using to grade your homeworks. </li>
+</ol>
 
 <p>
-Projects will have (almost) weekly milestones, where you will hand in project materials (as specified) and Powerpoint presentation files. We will keep these materials and make them available to others in the class. This is to help each other work/learn together! If for any reasons you object to have your material posted, please contact me right away.
-</p>
+For homework assignments including an HTML/JavaScript component, 
+in addition to turning in a hard-copy, you must also do the following:</p>
 
-<h3>Presentations</h3>
-
-<p>
-You will be presenting your work in front of class. Each group member will present parts of
-the project as it develops. We'll have specific milestones each week, which will be graded based on quality of the work and presentations.
-</p>
-<p>
-Presentations are for you to give a status report of your project, 
-and for the class to learn from your work and help you with their comments and suggestions.
-There is no better way of learning than sharing discussion with your peers!
-It the time where you will show your work, how well it fits your vision 
-and what are the aesthetics and technical challanges you have faced. 
-Each presenetation shoud contain slides to show what you accomplished and motivate further 
-discussion.
-Presentations serve the final purpose of mimicking "reviews" in production environments. 
-At the same time, you will graded on the presentation and the project milestone handed in together with it.
-All presentations are to be done in Powerpoint and screen capture movies, with use of demos 
-to further discuss the work. I will also ask you to compare your work directly with the concepts
-taught during the lectures (this is better than a midterm and final :-).
-</p>
-
-<h3>Class Participation</h3>
-
-<p>Class and group participation is fundamental. Think what would happen if nobody talked to each
-other in a company like Pixar. Yes, the movie would not be made. In our class, participation
-is necessary to learn, help your friends make their short better and help you by getting feedback by a lively audience. You will be graded on your class participation.</p>
+<ol>
+   <li> On each web page, include a piece of JavaScript code that will 
+   <a href="timestamp.html">time stamp</a> your assignment. </li>
+   <li> <a href="http://www.dartmouth.edu/web/accounts/access.html">Upload</a> 
+   your web pages to the Dartmouth web server, in your "private" folder (see above). </li>
+   <li> Write or print the URL of the page you are submitting, on top of the hard copy of your homework. </li>
+</ol>
 
 <h3>Lab</h3>
 
 <p>
-We have reserved lab hours for the class, where we will be present to help with your work.
-While you are free to work at home, we strongly suggest you work in the lab with your group.
-In our experience, overalapping on the project is the only way to do it. Details to come.
+Sudikoff 005 has a number of Macintosh computers that are available for your use. 
+During the scheduled hours, these computers are reserved for CS 4 students. 
+You may use the lab at other times as long as it is not reserved for other uses, 
+although during unscheduled hours, you might have to share the lab with students 
+from other courses, and course staff will not be available. 
+To get your ID card enabled for access to this lab (and to Sudikoff after-hours), 
+see Kelly Clark in 101 Sudikoff on a weekday between 8:30am-12:00pm or 1:00-3:30pm. 
 </p>
 
-<h3>Grading, Late Assignments and Extra credit</h3>
-
-<p>The final grade from this class will be decided by your class participation (15%),
-your presentations (25%) and your project material (60%).
-Almost every week, we will have project milestones that are separately graded. For each milestone,
-you are to hand in the milestone material (like a storyboard, Maya files or Quicktime movies)
-and a Powerpoint presentation file.
-There will be a final presentation where you will present and show your final project.
-This presentation will be open to everybody (including your friends, family, pets, etc. :-).
-Your overall project grade will be roughly 70% milestones and 30% final submission.
-Your final presentation will not be graded, but it is for you and your friends to have fun
-and watch the cool animation you made (but will still require a Powerpoint presentation).
-</p>
-
-<p>Note that I am including here rough percentage of the final grade as indication only.
-These will likely change and it is likely that I will weight things differently 
-at the end of the class.</p>
+<h3>Grading</h3>
 
 <p>
-While the project is done in a group, we will grade individually. First, each presentation
-will be given by different team member (in a round robin scheme). Second, while each presentation
-has to show the work of the whole group, you will explain what was done by who. Third,
-I'll ask questions related to the material covered in class during your presentation.
+The grade will be rougly based on homeworks (30% total), midterm exam (35 %) and final (35%).
 </p>
 
-<p>
-<em>We will not accept late submissions for any of the assignments nor the final project.</em>
-Exception to this rule might be made in special circumstances only if the professor is 
-informed way in advance of the deadline and at his sole discretion.
-Unless otherwise stated, material is due the day before your presentation at midnight.
+<p> For exceptionally creative and interesting work, it is possible to receive extra credit points. 
+Extra credit is tallied separately from the regular grades on homework and exams, 
+and is used to adjust final grades after the final average is computed.
+Extra credit is not assigned as part of the regular homework problems, 
+but the course staff will be on the lookout for clever and creative work that you have 
+done above and beyond the normal assignments given.
 </p>
 
-<h3>Working Together and Academic Integrity</h3>
+<h2>Policies</h2>
 
-<p>You are encouraged to talk with other students about the topics discussed in class
-as well as your project.  The goal is to get a deeper understanding of
-the material, further develop ideas related to your project and overall learn together.</p>
+<h3>Honor Code</h3>
 
-<p>Once it gets to preparing your presentation and your project,
-you should only work by yourself and with your team members.</p>
+<p>On examinations in this course (either midterm or final), you may not collaborate with, 
+copy from, or otherwise share information with any other students.</p>
 
-<p>You are welcome to use external sources of material when performing your project,
-provided this does not violate others' copyright and you cite your sources specifically
-as specified in the Dartmouth College 
-<a href="http://www.dartmouth.edu/comp/about/policies/">Computing Policies</a>.
-In this case, please consult me before doing so.</p>
+<p>For homework problems (but not examinations), you may discuss general approaches 
+with your classmates, before you have written your solutions, and you may help each 
+other find bugs in each other's code. However, your code and any other solutions 
+you submit must be created, written/typed, and documented by you alone; 
+any copying (electronic or otherwise) of another person's code or solutions, 
+in whole or in part, is a violation of the Honor Code.</p>
+
+<p>If you make use of any code taken from outside references -- for instance, 
+from an off-site web page or a textbook other than the ones used for this course -- 
+you must clearly attribute the source of the code with clear comments in the code that 
+you submit. Code from class examples, the course textbooks, or the homework assignments, 
+does not have to be attributed. Note also that proper respect for copyright laws as applied 
+to printed materials and software products is subsumed by Dartmouth College's 
+<a href="http://www.dartmouth.edu/comp/about/policies/">Computing Policies</a>.</p>
 
 <p>If you have any questions as to whether some action would be acceptable under the 
 Academic Honor Code, please speak to me or another member of the course staff, 
@@ -220,7 +252,8 @@ be needed in a timely fashion.</p>
 </div>
 
 <div class="footer">
-Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
+Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) <br/>
+with thanks to C. Bailey-Kellogg, M. J. Fromberger, H. Farid, P. Wayner
 </div>
 
 </div>
@@ -231,4 +264,4 @@ Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
 </div>
 
 </body>
-</html>Iaminci
+</html>nfilei

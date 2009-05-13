@@ -1,17 +1,17 @@
-http://www.cs.dartmouth.edu/~cbk/68/index.html
+http://www.cs.dartmouth.edu/~cbk/68/05winter/index.html
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
 <meta http-equiv=content-type content="text/html">
-<title>CS 68: Principles of Programming Languages, Winter 2006</title>
-<link href="style.css" type="text/css" rel="stylesheet">
+<title>CS 68: Principles of Programming Languages, Winter 2005</title>
 </head>
 
-<table border=0=3 width=750>
+<body bgcolor="#EEEEEE">
+<table border=0 cellpadding=3 width=750>
 
 <tr>
-<td colspan="2"><h2>CS 68: Principles of Programming Languages, Winter 2006</h2></td>
+<td colspan="2"><h2>CS 68: Principles of Programming Languages, Winter 2005</h2></td>
 </tr>
 
 <tr>
@@ -22,26 +22,23 @@ Bailey-Kellogg</a></td>
 
 <tr>
 <td valign="top"><b>Office hours</b></td>
-<td>T 9-10, Th 1-2, F 11-12; or by appointment.</td>
+<td>Tentatively Monday 1:35-2:35, Wednesday 3:00-4:00, and Thursday 11:00-12:00; or by appointment.</td>
 </tr>
-
-<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td><b>TA</b></td> 
-<td><a href="http://www.cs.dartmouth.edu/~potluri/">Shobha Potluri</a></td>
+<td><a href="http://www.cs.dartmouth.edu/~cmasone/">Chris
+Masone</a></td>
 </tr>
 
 <tr>
 <td valign="top"><b>TA hours</b></td> 
-<td>TBD</td>
+<td>Office (060 Sudikoff): tentatively Tuesday 3:00-4:00 and Wednesday 2:00-3:00; special lab hours near due dates.</td>
 </tr>
-
-<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td><b>Class</b></td>
-<td>2-hour: MWF 1:45-2:50; x-hour Th 1:00-1:50</td>
+<td>MWF 12:30-1:35; x-hour T 1:00-1:50</td>
 </tr>
 
 <tr>
@@ -51,9 +48,7 @@ Models of Computer Programming</i>, MIT Press, 2004.
 <a href="http://www.info.ucl.ac.be/people/PVR/book.html">Book website</a>
 (includes errata, blurbs/reviews, book details, etc.).</td></tr>
 
-<tr><td>&nbsp;</td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td>&nbsp;</td></tr>
+<tr><td><hr></td><td><hr></td></tr>
 
 <tr>
 <td valign="top"><b>Overview</b></td>
@@ -80,9 +75,7 @@ computation models listed above, with very little baggage distracting
 from the fundamental principles.</p>
 </td></tr>
 
-<tr><td>&nbsp;</td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td>&nbsp;</td></tr>
+<tr><td><hr></td><td><hr></td></tr>
 
 <tr>
 <td valign="top"><b>Course requirements</b></td>
@@ -90,33 +83,32 @@ from the fundamental principles.</p>
 <p>The goal of the course is to gain broad exposure to the principles
 of programming languages.  Homeworks (which include programming
 exercises) will provide focal points for diving in and working under
-each different computational model.  These will account for 55% of the
+each different computational model.  These will account for 50% of the
 grade.  In addition, a group project/presentation will exercise the
 useful skill of transferring an understanding of a programming
-paradigm across languages.  This will account for 15% of the grade.
-Finally, two exams (one at midterm and one during finals week) will
-provide the remaining 30% of the grade.</p>
+paradigm across languages.  This will account for 20% of the grade.
+Finally, two quizzes (one at midterm and one during finals week) will
+provide the remaining 30% of the grade.
+</p>
 
-<p>All students are expected to read, understand, and follow the <a
+<p>All students are expect to read, understand, and follow the <a
 href="policies.html">course policies</a>, which cover collaboration,
 the mechanism for submitting homework, and so forth.</p>
 
 <p>The <a href="schedule.html">course schedule</a> lists due dates,
 topics, and reading.</p>
-
 </td>
 </tr>
 
-<tr><td>&nbsp;</td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
+<tr><td><hr></td><td><hr></td></tr>
 <tr>
 <td><a href="http://www.mozart-oz.org/"><img src="mozart-69x30.gif"
 width="69" alt="Mozart/Oz"></a></td>
-<td class="footer" align="right">
+<td align="right">
 <a href="http://www.cs.dartmouth.edu/~cbk/68/">CS 68</a><br>
 <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a><br>
 <!-- hhmts start -->
-Last modified: Mon Jan  9 09:56:03 EST 2006
+Last modified: Tue Feb  1 21:42:18 EST 2005
 <!-- hhmts end -->
 </td>
 </tr>

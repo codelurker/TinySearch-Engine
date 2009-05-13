@@ -25,7 +25,6 @@ INVERTED_INDEX* InitIndex() {
 		index->hash[i] = NULL;
 	}
 	return index;
-	free(index);
 }
 
 // insert a page object into the index
@@ -128,7 +127,7 @@ int updateIndex(char* word, int documentId, INVERTED_INDEX* index) {
 						break;
 					}
 				}
-					if (flag == 0) {
+				if (flag == 0) {
 					// documentId not present
 					DocumentNode* dd = (DocumentNode*)malloc(sizeof(DocumentNode));
 					MALLOC_CHECK(dd);
@@ -138,6 +137,9 @@ int updateIndex(char* word, int documentId, INVERTED_INDEX* index) {
 					
 					if (d->next == NULL) {
 						d->next = dd;
+					}
+					else {
+						free(dd);
 					}
 				}
 			}
@@ -190,13 +192,15 @@ int insertElementIntoIndex(char* word, int documentId, int frequency, INVERTED_I
 				if (flag == 0) {
 					// documentId not present
 					DocumentNode* dd = (DocumentNode*)malloc(sizeof(DocumentNode));
-					MALLOC_CHECK(dd);
 					dd->next = NULL;
 					dd->document_id = documentId;
 					dd->page_word_frequency = frequency;
 					
 					if (d->next == NULL) {
 						d->next = dd;
+					}
+					else {
+						free(dd);
 					}
 				}
 			}
@@ -270,9 +274,11 @@ void reloadIndex(char* dirname, char* filename, INVERTED_INDEX* index) {
 	
 	// clean the index and set it to null
 	CleanIndex(index);
+	free(index);
 	index = NULL;
 	
 	fclose(indexFile);
+	free(buffer);
 }
 
 // saves/writes the index to the specified file at the prompt
@@ -287,6 +293,7 @@ void saveIndexToFile(char* dirname, char* filename, INVERTED_INDEX* index) {
 	
 	if (fp == NULL) {
 		printf("Error creating file [%s].\n", path);
+		free(path);
 		exit(1);
 	}
 		
@@ -307,6 +314,8 @@ void saveIndexToFile(char* dirname, char* filename, INVERTED_INDEX* index) {
 	char command[1000] = "sort -o "; strcat(command, path); append(command, ' '); strcat(command, path);
 	fclose(fp); 
 	system(command);
+	free(path);
+	path = NULL;
 }
 
 // cleans the index by freeing up all the WordNode's

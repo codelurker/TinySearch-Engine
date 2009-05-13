@@ -1,5 +1,5 @@
 CC      =  gcc
-CFLAGS  =  -Wall -pedantic -std=c99
+CFLAGS  =  -g -Wall -pedantic -std=c99
 EXEC    =  crawler
 OBJS    =  crawler.o html.o hash.o
 SRCS    =  crawler.c ../../shared/html.c ../../shared/hash.c
@@ -15,5 +15,3 @@ clean:
 	rm -f *#
 	rm -f ./crawler
 	rm -f *.o
-
-

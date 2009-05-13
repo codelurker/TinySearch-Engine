@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~cs8/W2009
+http://www.cs.dartmouth.edu/~cs18/W2007
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
 
@@ -60,13 +60,10 @@ http://www.cs.dartmouth.edu/~cs8/W2009
 
 
 
+<!-- Exam dates, times, and locations (exam 3 is the final) -->
 
 
 
-
-
-
-<!-- Exam dates, times, and locations -->
 
 
 
@@ -80,9 +77,9 @@ http://www.cs.dartmouth.edu/~cs8/W2009
 
 <html>
 <head>
-  <title>COSC 8 Winter 2009 Home Page</title>
-  <link rel="stylesheet" type="text/css" href="cs8.css">
-  <link rel="shortcut icon" href="img/lambda.ico">
+  <title>COSC 18 Winter 2007 Home Page</title>
+  <link rel="stylesheet" type="text/css" href="cs18.css">
+  <link rel="shortcut icon" href="img/yinyang.ico">
 </head>
 <body>
 
@@ -90,26 +87,26 @@ http://www.cs.dartmouth.edu/~cs8/W2009
 <table class="index" style="width: 100%">
 <tr>
   <td colspan="4" align="center">
-    <img src="img/main-title.png" width="503" height="160"
-         alt="COSC 8--Problem Solving with Computer Science">
+    <img src="img/main-title.jpg" width="600" height="128"
+         alt="COSC 18--Structure and Interpretation of Computer Programs">
   </td>
 </tr>
 <tr>
   <td>
     <a href="announce.shtml">
-    <img src="img/announce.png" width="64" height="64"
-         alt="Announcements"></a>
+    <img src="img/crier.jpg" width="64" height="64"
+         alt="Town crier"></a>
   </td>
   <td>
     <h1><a href="announce.shtml">
     Announcements</a></h1>
     <p>Last updated:
-    10-January-2009</p>
+    09-March-2007</p>
   </td>
   <td>
     <a href="materials.shtml">
-    <img src="img/materials.png" width="64" height="64"
-         alt="Course materials"></a>
+    <img src="img/gears.jpg" width="64" height="64"
+         alt="Gears &amp; cogs"></a>
   </td>
   <td>
     <h1><a href="materials.shtml">
@@ -119,8 +116,8 @@ http://www.cs.dartmouth.edu/~cs8/W2009
 <tr>
   <td>
     <a href="info.shtml">
-    <img src="img/info.png" width="64" height="64"
-         alt="Course information"></a>
+    <img src="img/eyeball.jpg" width="64" height="64"
+         alt="Gazing eyeball"></a>
   </td>
   <td>
     <h1><a href="info.shtml">
@@ -128,8 +125,8 @@ http://www.cs.dartmouth.edu/~cs8/W2009
   </td>
   <td>
     <a href="software.shtml">
-    <img src="img/lambda.png" width="64" height="64"
-         alt="Course software"></a>
+    <img src="img/lambda.jpg" width="64" height="64"
+         alt="Eval/apply lambda"></a>
   </td>
   <td>
     <h1><a href="software.shtml">
@@ -147,10 +144,9 @@ http://www.cs.dartmouth.edu/~cs8/W2009
 </p>
 <p class="updated">
   
-  Last modified: 27-December-2008
+  Last modified: 21-December-2003
 </p>
 
 
 </body>
 </html>
-lici

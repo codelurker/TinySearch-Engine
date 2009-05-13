@@ -31,11 +31,13 @@
 #include "dictionary.h"
 
 INVERTED_INDEX* index = NULL;
+INVERTED_INDEX* indexR = NULL;
 
 // initializes all data structures to be used
 int initList() {
   index = InitIndex();
-  return (index == NULL)? 0:1; 
+  indexR = InitIndex();
+  return ((index == NULL) || (indexR == NULL))? 0:1; 
 }
 
 // gloval variables: n (keeps trak of total number of crawled files in specified directory), alphasort
@@ -86,7 +88,6 @@ char* ReadInFromFileOrDie(FILE* fp) {
 	}
 	return(buffer);
 	fclose (fp);
-	free (buffer);
 }
 
 // loads a document from a filename
@@ -114,6 +115,8 @@ void visitFiles(char *dirname, INVERTED_INDEX* index) {
 		char* file; file = getFilePath(dirname, current);
 		char path[strlen(file)+1]; strcpy(path, file);
 		
+		free(file);
+		
 		// load document and remove new lines from it				
 		char * loadedDocument; loadedDocument = loadDocument(path);
 		removeNewLines(loadedDocument);
@@ -125,7 +128,8 @@ void visitFiles(char *dirname, INVERTED_INDEX* index) {
 		while (currentPosition < strlen(loadedDocument)){
 			currentPosition = getNextWordFromHTMLDocument(loadedDocument, word, currentPosition, index, documentId);
 		}			
-		current++;	
+		current++;
+		free(loadedDocument);	
 	}
 }
 
@@ -145,7 +149,6 @@ void scanDirectory (char *dirname, INVERTED_INDEX* index, char* datFile) {
 // cleans up the index
 void cleanup() {
 	CleanIndex(index);
-	index = NULL;
 }
 
 // flag used to distinguish the first time through an HTML document
@@ -167,11 +170,17 @@ int main (int argc, char** argv) {
 	
 	LOGSTATUS("Building the index completed!");
 	printf("\nSaving the index to file.\n");
-	saveIndexToFile(argv[1], argv[2], index);
-	cleanup();
 	
-	reloadIndex(argv[1], argv[2], index);
+	saveIndexToFile(argv[1], argv[2], index);
+	CleanIndex(index);
+	free(index);
+	index = NULL;
+	
+	reloadIndex(argv[1], argv[2], indexR);
 	LOGSTATUS("Index has been recreated and stored.");
+	CleanIndex(indexR);
+	free(indexR);
+	indexR = NULL;
 	
 	return 0;
 }

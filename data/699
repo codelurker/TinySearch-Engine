@@ -1,23 +1,23 @@
-http://www.cs.dartmouth.edu/~cs58/lectures
+http://www.cs.dartmouth.edu/~cs58/work
 3
-
-
-<title>CS58: Lectures</title>
+<html> <head>
+<title>CS58: Coursework</title>
 </head>
  
 <body>
 
+
 <h2> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
 
-Lectures
+Coursework
 <br> 
  CS58, Operating Systems, Fall 2008
 </h2> 
-<i> www.cs.dartmouth.edu/~cs58/lectures/index.shtml</i> 
+<i> www.cs.dartmouth.edu/~cs58/work/index.shtml</i> 
  &nbsp;&nbsp;&nbsp; 
  
-<i> Last modified: 12/02/08 04:06:23 PM</i> 
+<i> Last modified: Saturday, 06-Sep-2008 15:45:23 EDT</i> 
  
 <hr> 
  
@@ -26,528 +26,167 @@ Lectures
 <p>
 
 
+The best way to understand what operating systems <i>do</i>
+is to roll up your sleeves, get your hands dirty, and work with one.
 <p>
-For my lectures, each topic 
-will link to detailed lecture notes, which should be up by sunrise the day of the lecture.
+Consequently, we will emphasize
+programming projects:
+working on top of operating systems...and then building your own.
 <p>
-These notes will complement what's presented in class.
-(The notes are also there to compensate for my poor handwriting! :)
+We will also have some more traditional homework
+assignments; but the main learning tool is the programming.
+
 <p>
-It should go without saying that you will be responsible for both: the notes
-and the class material.
-<p>
+
 <hr>
-<p>
-<strong>Warning: subject to change!</strong>
-<p>
-
-<h3>Jump to <a href="#week11">this week</a></h3>  <hr>
-
-
-
-
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<a name="week1"><b>Week 1:</b></a> 
+<a name="programming"><b>Homework and Programming Projects</b></a>
 </big><br>
 
-<dl>
-
-<dt>Wed, Sep 24</dt>
-<dd><a href="sep24/index.shtml"><b>Introduction</b></a>
-<ul>
-<li> Reading: SGG, Chapter 1
-</ul>
-</dd>
+<p>
+In this course, we'll be doing some small programming projects
+that work with operating systems concepts---processes, threads,
+synchronization---from the <i>outside</i>.
+We'll also do regular homework, that will consist of 
+"thought" problems, on paper.
+<p>
+But then we'll do a large project
+from the <i>inside</i>:  where we build an entire
+operating system for a simulated machine.
+<p>
+This is going to be cool.  Everything comes together, and you 
+get that amazing feeling where it all suddenly makes sense.
 <p>
 
-<dt>Fri, Sep 26</dt>
-<dd><a href="sep26/index.shtml"><b>OS Structure</b></a>
+<hr>
+<h4>A Word of Caution</h4>
+
+Systems programming is complex.
+(Why do you think Windows crashes so often?)
+<p>
+Unlike a basic programming class,
+this is not the sort of thing where you can run three test
+cases and get full marks.
+To prepare you for the real world, we will
+be doing more exhaustive testing,
+as well as continuing to 
+stress 
+things like cleanliness of design and clarity of code.
+<p>
+But the end result will be:
+you'll be a more highly skilled software engineer,
+ready for advanced work and the real world.
+
+<hr>
+<h4>Alone and Together</h4>
+
+You will do the initial programming assigments alone, so
+everyone comes up to speed.
+<p>
+However, you'll do the big project in a team of three.
+So, when you're doing the initial ones alone, think about
+finding good team members.  Be sure to consider mundane criteria such as
+who spends time in the lab the same time you do.
+
+<hr>
+<h4>OS Tool</h4>
+
+For the big OS project, 
+we will use the <cite>Yalnix</cite> tool.
+(The name is a Texas pun on "Unix.")  
+<P>
+Yalnix consists of:
 <ul>
-<li> Reading: SGG, Chapter 2
+<li> a support library and build environment that 
+lets you write kernel-level code for a simulated machine,
+but it run it all (with relatively good performance) as a user-level
+process on an 005 Linux machine
+<li> specifications for an operating system 
+that you will write for this simulated machine
 </ul>
-</dd>
+
+<hr>
+<h4>Why Yalnix?</h4>
+For many years, this course had used the Nachos instructional tool
+from Berkeley.  However, many students found it a bit unwieldy.
+So... I looked into alternatives, and discovered Yalnix,
+origininally developed by Dave Johnson, and used at CMU, Rice, Utah,
+and Chicago.  Throughout the Internet,
+students  gave Nachos mixed reviews; but students who had used Yalnix
+were uniformly positive.
+<p>
+In the summer of 2001,
+with help from Dave Johnson and Evan Knop '01,
+I ported Yalnix (written for Solaris/SPARC) to
+run on Linux/x86.
+John Konkle and Tim Tregubov then
+helped upgrade the Sudikoff machines so that they could run it.
 <p>
 
-</dl>
+<hr>
+<h4>Language</h4> 
+This course will use the C programming language.  This is for two
+main reasons:
+<ul>
+<li> C is still one of the dominant languages for OS construction.
+E.g., you'll need to be able to work with C, if you want to read
+and add to the Linux kernel.
+<li> As a high-level language that does very little magic
+"under the covers," C is appropriate for a course whose purpose
+is shedding light on what happens under those covers.
+</ul>
+<p>
+If you need help getting used to 
+C,  <tt>malloc</tt> and <tt>free</tt>,
+we might be running a help session early in the course.
 
-
+<hr>
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<a name="week2"><b>Week 2:</b></a> 
+<b>Grading</b>
 </big><br>
-
-<dl>
-
-<dt>Mon, Sep 29</dt>
-<dd><a href="sep29/index.shtml"><b>Processes</b></a>
+<p>
+Here's what I'm thinking:
 <ul>
-<li> Reading: SGG, Chapter 3
+<li> small programming projects and Yalnix checkpoints: 20%
+<li> the Yalnix project: 30%
+<li> final exam: 30%
+<li> midterm:   20%
 </ul>
-</dd>
-<dd><a href="../work/proj1/index.shtml"><b>Programming Project 1 published</b></a></dd>
+(This is subject to change.)
 <p>
+<strong>Note again: this is subject to change.  At my discretion, I may accord a significant chunk of credit to class participation: showing up most of the time.</strong>
 
-
-<dt>Tue, Sep 30 (X) </dt>
-<dd> <a href="sep30/index.shtml"><b>Process Implementation</b></a>
-</dd>
 <p>
-
-
-<dt>Wed, Oct 1</dt>
-<dd><a href="oct01/index.shtml"><b>Processes and Race Conditions</b></a>
-<ul> 
-<li> Reading: SGG, 6.1-6.4
-</ul>
-</dd>
-<p>
-
-
-<dt>Fri, Oct 3</dt>
-<dd><a href="oct03/index.shtml"><b>Locks, Threads</b></a>
+Historically, I've tended to give exams and major projects
+where:
 <ul>
-<li> Reading: SGG, Chapter 4
+<li> It's very difficult to score 90%
+<li> but the median grade ends up a B+.  Or maybe even higher.
 </ul>
-</dd>
 <p>
-
-</dl>
-
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week3"><b>Week 3:</b></a> 
-</big><br>
-
-<dl>
-
-<dt>Mon, Oct 6</dt>
-<dd><a href="oct06/index.shtml"><b>Synchronization</b></a>
-<ul>
-<li> Reading: SGG, 6.5-6.8
-</ul>
-</dd>
-<dd>Programming Project 1 due</dd>
-<dd><a href="../work/proj2/index.shtml"><b>Programming Project 2 published</b></a></dd>
+In other words: I'm going to try to make this challenging enough
+so you grow your mind...  but don't worry about the grade;
+work hard and have fun with the material!  
 <p>
+<strong>You're going to build an operating system.
+Seeing all perspectives, you're going to understand operating systems.
+It's all going to come together.</strong>
 
-<dt>Tue, Oct 7 (X) </dt>
-<dd><a href="oct07/index.shtml"><b>Synchronization Strategy</b></a>
-<ul>
-<li> Reading: <a href="../resources/index.shtml#birrell">Birrell's paper</a>
-</ul>
-</dd>
-<p>
 
 
-<dt>Wed, Oct 8</dt>
-<dd><a href="oct08/index.shtml"><b>Memory Management: Evolution</b></a>
-<ul>
-<li> Reading: SGG, 8.1-8.3
-</ul>
-</dd>
-<p>
-
-
-<dt>Fri, Oct 10</dt>
-<dd><a href="oct10/index.shtml"><b>Memory Management: Address Space Structures</b></a>
-</dd>
-<p>
-
-
-
-</dl>
-
-
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week4"><b>Week 4:</b></a> 
-</big><br>
-
-<dl>
-<dt>Mon, Oct 13</dt>
-<dd><a href="oct13/index.shtml"><b>Memory Management: Contemporary Issues</b></a>
-<ul>
-<li> Reading: SGG, 8.4-8.5
-</ul>
-</dd>
-<dd><a href="../work/yalnix08.pdf"><b>Yalnix published</b></a></dd>
-<dd>Yalnix sign-ups due</dd>
-<dd>Programming Project 2 due</dd>
-
-<p>
-
-
-<dt>Tue, Oct 14 (X) </dt>
-<dd><a href="oct14/index.shtml"><b>Memory Management: Page Tables and Paging</b></a>
-<ul>
-<li> Reading: SGG, Chapter 9
-</ul>
-</dd>
-<p>
-
-
-<dt>Wed, Oct 15</dt>
-<dd><i>No class---Sean's at Google NYC</i>
-</dd>
-<p
-
-
-<dt>Fri, Oct 17</dt>
-<dd><a href="oct17/index.shtml"><b>Memory Management: Wrap-up</b></a>
-<ul>
-<li> Reading: SGG, 8.6-8.7
-</ul>
-</dd>
-<p>
-
-
-
-</dl>
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week5"><b>Week 5:</b></a> 
-</big><br>
-
-<dl>
-
-<dt>Mon, Oct 20</dt>
-<dd><a href="oct20/index.shtml"><b>Paging leftovers, IO</b></a>
-<ul>
-<li> Reading: SGG, Chapter 13
-</ul>
-</dd>
-<p>
-
-
-<dt>Tue, Oct 21 (X)</dt>
-<dd><i>Open</i>
-</dd>
-<dd>Yalnix checkpoint 1</dd>
-<p>
-
-
-<dt>Wed, Oct 22</dt>
-<dd><a href="oct22/index.shtml"><b>IO leftovers; Systems Sense intro</b></a>
-<ul>
-<li> Reading: 
-<a href="../resources/index.shtml#lampson"><b>Lampson's paper</b></a>.
-(and here's the
-<a href="../resources/lampson.pdf"><b>pdf</b></a>)
-<li> Optional reading: 
-<a href="../resources/index.shtml#kp"><b>Kernighan and Pike</b></a>
-and 
-<a href="../resources/index.shtml#brooks"><b>Brooks</b></a>
-</ul>
-</dd>
-
-
-
-
-<p>
-
-
-<dt>Fri, Oct 24</dt>
-
-<p>
-<dd><a href="oct24/index.shtml"><b>Systems Sense (and maybe a teeny bit of deadlock)</b></a>
-</dl>
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week6"><b>Week 6:</b></a> 
-</big><br>
-
-<dl>
-
-<dt>Mon, Oct 27</dt>
-<dd><strong>Special class: "Everything you wanted to know about bit vectors
-(but were afraid to ask)", by Nick</strong>
-</dd>
-<p>
-
-
-<dt>Tue, Oct 28 (X) </dt>
-<dd><a href="oct28/index.shtml"><b>Deadlock, Part 1</b></a>
-<ul>
-<li> Reading: SGG, 7.1-7.4, 7.6
-</ul>
-</dd>
-<dd>Yalnix checkpoint 2</dd>
-<p>
-
-
-<dt>Wed, Oct 29</dt>
-<dd>
-<dd><a href="oct29/index.shtml"><b>Deadlock, Part 2</b></a>
-<ul>
-<li> Reading: SGG, 7.5, 7.7
-</ul>
-</dd>
-
-<p>
-
-
-<dt>Fri, Oct 31</dt>
-<dd><b>Midterm</b>
-</dd>
-<p>
-
-
-</dl>
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week7"><b>Week 7:</b></a> 
-</big><br>
-
-<dl>
-
-<dt>Mon, Nov 3</dt>
-<dd><a href="nov03/index.shtml"><b>Scheduling: Problems and Metrics</b></a>
-<ul>
-<li> Reading: SGG, 5.1, 5.2, 5.7
-</ul>
-</dd>
-<p>
-
-
-<dt>Tue, Nov 4 (X) </dt>
-<dd><a href="nov04/index.shtml"><b>Scheduling: Everything Else</b></a>
-<ul>
-<li> Reading: SGG, 5.3-5.6
-</ul>
-</dd>
-<dd>Yalnix checkpoint 3</dd>
-<p>
-
-<dt>Wed, Nov 5</dt>
-<dd><a href="nov05/index.shtml"><b>Files Systems: Operations</b></a>
-<ul>
-<li> Reading: SGG, Chapter 10
-</ul>
-</dd>
-<p>
-
-
-<dt>Fri, Nov 7</dt>
-<dd><a href="nov07/index.shtml"><b>File Systems: Organization</b></a>
-<ul>
-<li> Reading: SGG, 11.1-11.7
-</ul>
-</dd>
-
-</dl>
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week8"><b>Week 8:</b></a> 
-</big><br>
-
-<dl>
-
-<dt>Mon, Nov 10</dt>
-<dd><a href="nov10/index.shtml"><b>File Systems: Disks</b></a>
-<ul>
-<li> Reading: SGG, Chapter 12
-</ul>
-</dd>
-<p>
-
-
-<dt>Tue, Nov 11 (X) </dt>
-<dd><i>Open</i>
-</dd>
-<dd>Yalnix checkpoint 4</dd>
-<p>
-
-
-<dt>Wed, Nov 12</dt>
-<dd><a href="nov12/index.shtml"><b>File Systems (Leftovers); Distributed File Systems (p1)</b></a>
-<ul>
-<li> Reading: SGG, Chapter 17, 11.8
-</ul>
-</dd>
-<p>
-
-
-<dt>Fri, Nov 14</dt>
-<dd><a href="nov14/index.shtml"><b>Distributed File Systems (p2)</b></a>
-<ul>
-<li> Reading: SGG, 3.6
-</ul>
-</dd>
-
-</dl>
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week9"><b>Week 9:</b></a> 
-</big><br>
-
-<dl>
-
-
-<dt>Mon, Nov 17</dt>
-<dd>Guest Lecture by <a href="/~doug/"><b>Prof. Doug McIlroy</b></a> (the first user of the first Unix!)
-</dd>
-<p>
-
-
-<dt>Tue, Nov 18 (X) </dt>
-<dd><a href="nov18/index.shtml"><b>Security: Overview, Protection</b></a>
-<ul>
-<li> Reading: SGG, Chapter 14.
-<li> Reading: <a href="../resources/index.shtml#rsa"><b>RSA FAQ</b></a>
-2.1, 3.1, 3.2, 5.1. 
-</ul>
-</dd>
-<dd>Yalnix checkpoint 5</dd>
-<p>
-
-
-<dt>Wed, Nov 19</dt>
-<dd><a href="nov19/index.shtml"><b>Security: Crypto, Authentication</b></a>
-<ul>
-<li> Reading: SGG, Chapter 19
-</ul>
-</dd>
-<p>
-
-
-<dt>Fri, Nov 21</dt>
-<dd><a href="nov21/index.shtml"><b>Security: Trouble and Hope</b></a>
-</dd>
-
-</dl>
-
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week10"><b>Week 10:</b></a> 
-</big><br>
-
-<dl>
-
-
-<dt>Mon, Nov 24</dt>
-<dd><a href="nov24/index.shtml"><b>Networks</b></a>
-<ul>
-<li> Reading: SGG, Chapter 16
-</ul>
-</dd>
-<p>
-
-
-<dt>Tue, Nov 25 (X) </dt>
-<dd><i>Open</i>
-</dd>
-<dd>Yalnix checkpoint 6</dd>
-<p>
-
-
-<dt>Wed, Nov 26</dt> 
-<dd>
-<i>No class---Thanksgiving Break</i>
-</dd>
-<p>
-
-
-<dt>Fri, Nov 28</dt>  
-<dd>
-<i>No class---Thanksgiving Break</i>
-</dd>
-
-</dl>
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week11"><b>Week 11:</b></a> 
-</big><br>
-
-<dl>
-
-<dt>Mon, Dec 1</dt>
-<dd><a href="dec01/index.shtml"><b>Distributed Computing</b></a>
-<ul>
-<li> Reading: SGG, 6.9, 18.3, 18.7
-</ul>
-</dd>
-<p>
-
-
-<dt>Tue, Dec 2 (X) </dt>
-<dd><a href="dec02/index.shtml"><b>How the Yalnix Support Software Works</b></a>
-</dd>
-<dd>Yalnix due</dd>
-<p>
-
-
-<dt>Wed, Dec 3</dt> 
-<dd><a href="dec03/index.shtml"><b>Course Wrap-up</b></a>
-</dd>
-<p>
-
-</dl>
-
-
-
-
-
-<p> 
- 
-<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
-
-<a name="week1"><b>Endgame:</b></a> 
-</big><br>
-
-<dl>
-<dt>Sat, Dec 6</dt><dd> Final, 8AM.  Location TBA by Registrar.</dd>
-</dl>
-
-
-<p>
 <p> 
  
 <hr> 
 <b> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
 
-<A HREF="../index.shtml"><b>Back to CS58 Home Page</b></A>
+<A HREF="/~cs58/"><b>Back to CS58 Home Page</b></A>
 </b> 
 &nbsp;&nbsp;&nbsp; 
 <a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
@@ -558,4 +197,4 @@ and
  
 
 </body> </html>
-              
+efi

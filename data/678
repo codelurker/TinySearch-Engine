@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~afra/courses/cs19/winter09
+http://www.cs.dartmouth.edu/~afra/courses/cs19/winter08
 3
 <html>
 <head>
@@ -17,7 +17,7 @@ http://www.cs.dartmouth.edu/~afra/courses/cs19/winter09
 <!-- ----- Left-hand side navbar ----- -->
 <td width="200" align="right">
 <font size = "+1" align=right>
-CS 19 &ndash; Winter 2009<br><br>
+CS 19 &ndash; Winter 2008<br><br>
 Discrete Mathematics<br>
 for<br>
 Computer Science<br>
@@ -44,82 +44,113 @@ Computer Science<br>
 <h4>What's New <img src = "images/new.gif" alight = left> </h4>
 
 <ul>
-<li> (03/17/09) The final has been graded and the grades are online.  Afra will have both the graded finals and Homework Eight in his office.  He will keep them for some time, so if you want to pick them up, drop by.  
+<li> &empty;
 </ul>
 
 <h4>What's Old  <img src = "images/old.gif" alight = left> </h4>
 <ul>
-<li> (03/12/09) The <b>Final</b> is tomorrow, from 8 to 11 AM, in Kemeny 105.  See you all there!
-<li> (03/06/09) Last lecture slides are now online.
-<li> (03/06/09) Question 2 of hw7 has 8 points, not 9. The perfect score is 76.
-<li> (03/06/09) No homework this weekend!  Woohoo!
-<li> (03/03/09) Afra has to move his office hours half an hour later to 2:30 &ndash 3:30 PM.  
-<li> (03/02/09) Afra's office hours this week will be Tuesday 2 &ndash 3 PM.  
-<li> (03/02/09) Xiaoyu's office hour this week is Wednesday 6:00~8:00pm and Thursday 4:00~6:00pm in Sudikoff 110.
-<li> (02/27/09) Question 5 (d) in Homework Eight should say <em>directed</em> graph.  Thanks to Eric for pointing this out.  
-<li> (02/27/09) The points for Homework Six were as follows:  1 (3), 2 (5), 3 (8), 4 (7), 5 (14), 6 (8), 7 (7), 8 (5), 9 (7), 10 (9), total (73) with X (5). 
-<li> (02/27/09) Afra made a mistake in today's lecture:  For sets A and B, 
-<ul>
-<li> A = B if A is a subset of B and B is a subset of A
-<li> A is <em>isomorphic</em> to B if there exists a bijection between them.
-</ul>
-This means that <em>up to isomorphism</em>, the only interesting thing about a set is its cardinality.  So, Afra had his isomorphism glasses on when he was talking about set equality, which is bad!  Thanks to Jon for pointing this out.
-<li> (02/24/09) Afra has to move his Office Hours half an hour later, so it will be from 3:30 PM &ndash; 4:30 PM.  Sorry for the late move!
-<li> (02/23/09) The second <b>Midterm</b> is tonight from 7 &ndash 9 PM in Kemeny 006.
-<li> (02/23/09) Afra's Office Hours will be on Tuesday from 3 &ndash 4 PM.
-<li> (02/23/09) Xiaoyu's office hour this week is Wednesday 6:00~8:00pm and Thursday 4:00~6:00pm in Sudikoff 110.
-<li> (02/17/09) Skip Problem 9, part (c) on Homework 6.
-<li> (02/16/09) Afra's office hours this week is Tuesday 2 &ndash 3 PM in his office.
-<li> (02/15/09) Xiaoyu's office hour this week is Wednesday 6:00~8:00pm and Thursday 4:00~6:00pm in Sudikoff 110.
-<li> (02/10/09) There are two small mistakes on Homework 5.  On Question 12, in part (a), assume k is a non-zero integer and part (b), ignore the hint.
-<li> (02/09/09) Xiaoyu's office hour this week is Wednesday 6:00~8:00pm and Sunday 4:00~6:00pm in Sudikoff 110.
-<li> (02/09/09) Afra's Office Hours this week will be Tuesday, 2 &ndash 3 PM.
-<li> (02/09/09) This week we have X-hour on Thursday and no class on Friday, due to the Carnival.
-<li> (02/04/09) Don't forget to state the counting rule you are using in Homework Four.  
-<li> (02/02/09) Xiaoyu's office hour this week is Wednesday 6:00~8:00pm and Thursday 4:00~6:00pm in Sudikoff 110. 
-<li> (02/02/09) The first <b>Midterm</b> is tonight, from 7 &ndash 9 PM in Kemeny 006.  
-<li> (02/02/09) Afra's Office hours will be tomorrow, Tuesday, from 11 &ndash; noon.
-<li> (01/30/09) For hw2 problem5, if you made a conjecture different from the solution and proved right, contact Xiaoyu for adding some points. 
-<li> (01/28/09) The first <b>Midterm</b> will be next Monday, February 2, from 7 &ndash 9 PM in Kemeny 006.  It will cover the first 9 lectures, up to and including weak and strong induction.
-<li> (01/26/09) Afra will have office hours tomorrow from 11 &ndash; noon.
-<li> (01/26/09) Xiaoyu's office hour this week is Wednesday 6:00~8:00pm and Thursday 4:00~6:00pm in Sudikoff 110.
-<li> (01/21/09) There is an extra office hour from 8:00~9:00pm for those students who can't show up in the afternoon.
-<li> (01/20/09) Xiaoyu's office hour this week is Thursday 4:00~6:00pm and Sunday 4:00~6:00pm.
-<li> (01/19/09) This Tuesday (tomorrow), Afra will have Office Hours for 
-early birds at 11 AM - noon in his office.  Come get your worms!
-<li> (01/16/09) No class Monday.  See you on Wednesday!
-<li> (01/12/09) The dates and times for the midterms and the final are now 
-     on the schedule.
-<li> (01/12/09) On Homework One:
+(03/15/08) Homework Eight and the Final have been graded and the grades are now online.  If you wish to pick up either of them, they will be in Afra's office.
+<li> (03/07/08) The <b>Final</b> will be on Monday, March 10, from 3 &ndash 6 PM in Kemeny 007.  Good luck!
+<li> (03/07/08) Someone accidentally handed in something that looks like a homework for a language class (perhaps Japanese?)  If you are that person, email me to pick it up.
+<li> (03/06/08) Question 7 is somewhat badly worded in the book.  It really should say "T is connected <em>and</em>", instead of <em>but</em>.  Thanks to Michael for pointing this out.
+<li> (03/05/08) Error on Homework Eight:  Question 9 should use set notation to refer to edge, not ordered pair notation, as the graph is undirected.
+<li> (03/05/08) The <b>Final</b> will be on Monday, March 10, from 3 &ndash 6 PM in Kemeny 007.
+<li> (03/03/08) Reminder:  Homework Eight is due on Friday with no late days possible.
+<li> (03/02/08) Ranganath's Office hours for this week will be Wed 6-7 PM, Thu 5-7 PM.
+<li> (02/26/08) Our own Kyle Lad has made it to the 
+<a href = "http://dartmouthidol.com/">Dartmouth Idol</a>
+Finals, which are on Thursday, March 6 at 7 PM at the HOP.
+<li> (03/03/08) Afra's office hours will be on Tuesday 3 &ndash 4 PM 
+and by appointment.
+<li> (02/26/08) Reminder:  Homework Seven is the last homework on which you may take a late day.
+<li> (02/26/08) Afra's office hours will be on Wednesday, 4 &ndash 5 PM and by appointment.
+<li> (02/26/08) Ranganath's Office hours for this week will be Wed 6-7 PM, Thu 5-7 PM.
+<li> (02/12/08) The <b>Second Midterm</b> is tonight, 7 to 9 PM, 
+in Moore B03.  It covers the Lectures 1 &ndash 18.
+<li> (02/23/08) Afra will have a midterm review on Sunday, February 24, from 4 &ndash; 5 in our regular classroom.
+<li> (02/20/08) Katelin and Afra were in the 
+<a href = "http://www.vnews.com/02202008/4650563.htm">Valley News</a>
+this morning.
+<li> (02/20/08) Tonight, we have a 
+<a href = "http://sunearth.gsfc.nasa.gov/eclipse/LEmono/TLE2008Feb21/image/TLE2008Feb21-EST.GIF">total lunar eclipse</a> at 10:26 PM.
+<li> (02/18/08) Afra's Office hours for this week will be Wednesday 5-6 PM 
+and Thursday 11 AM to 12 PM.
+<li> (02/18/08) Ranganath's Office hours for this week will be Wed 6-7 PM, Thu 5-7 PM.
+<li> (02/18/08) Due to being a zombie, Afra made a <em>big</em> mistake today in copying the wrong formula in the spreadsheet.  Homework Four average is actually 82%, which is very good!  I'm sorry for the early morning rant.
+<li> (02/18/08) Tomorrow is <a href = "http://www.math.dartmouth.edu/~puzzles/">Mathematical Puzzles Day</a> at Dartmouth.
+<li> (02/12/08) Next Tuesday, February 19, is 
+<a href = "http://www.math.dartmouth.edu/~puzzles/">Mathematical Puzzles Day</a> at Dartmouth.  It should be a lot of fun.  You should preregister!
+<li> (02/11/08) The <b>Second Midterm</b>  is Monday, February 25, 7 to 9 PM, 
+in Moore B03.  
+<li> (02/11/08) Afra's office hours will be Tuesday, 3 &ndash; 4 PM.
+<li> (02/10/08) Ranganath's Office hours for this week will be Wed 5-6 PM, Thu 5-7 PM.
+<li> (02/05/08) There is a mistake in Homework Four, Question 6.  It should say "line segment" instead of "line".  That is, the line segment joining the two points.  
+<li> (02/05/08) Ranganath's Office hours for this week will be Wed 5-7 PM, Thu 5-6 PM.
+<li> (02/04/08) We have x-hour this week on Thursday, no class on Friday.
+<li> (02/04/08) Afra's Office hours will be tomorrow, 2-3 PM.  Same bat 
+channel, same bat time.
+<li> (02/04/08) The <b>First Midterm</b>  is tonight, 7 to 9 PM, 
+in <b>Moore B03</b>.  
+<li> (02/01/08) All about next week:
 <ul> 
-<li>Make sure that every step of your proofs for 5a and 5b use a rule.  Yes, that means you'll have to use commutative property and so on.
-<li> For question 5c, use a direct proof as described today in class.
+<li> The <b>First Midterm</b> will be on Monday, February 4 in <b>Moore B03</b>.  It will cover the first 9 lectures.
+<li> We will have an x-hour on Thursday
+<li> Homework Four will be due on Thursday
+<li> There will be no class on Friday (Carnival Holiday)
 </ul>
-<li> (01/12/09) Jon pointed out that I made a mistake in discussing <em>Proof by Cases</em>.  The equivalent statement should have <em>and</em>s and not <em>or</em>s between the n different implications.  
-<li> (01/12/09) All about this week
+<li> (01/30/08) Comments on Homework Three:
 <ul>
-<li> Afra's office hours are on Tuesday, 10 - 11 AM in Sudikoff 163.
-<li> Xiaoyu's office hours are Wednesday 6 - 7 PM and Thursday 4 - 6 PM
-     in Sudikoff 110.
-<li> We have x-hour this week on Thrusday, as shown on the schedule.
+<li> On Question 7b, Make sure that P(n) is a <em>proposition</em>.  That is, it is a statement that is saying something!  In this case, it should say the rule for negating the universal quantifier, using the symbols you developed in Part a.
+<li> In your induction proofs (or any proofs for that matter), it is very important that you prove an equality by starting from the left hand side, and ending up with the right hand side.  For instance, for showing P(n+1) in your induction proofs, you must start with what P(n+1) states on its left hand side.  Do not start with the inductive hypothesis!
 </ul>
-<li> (01/09/09) Homework One is now on both the
-<a href = "schedule.html">Schedule</a>
-and
-<a href = "resources.html">Resources</a>
-pages.  All future homeworks will be placed on the same pages.
-<li> (01/05/09) For after hours access to the building, fill the  
-<em> Sudikoff Access and Key Form</em> from the 
-<a href = "http://www.cs.dartmouth.edu/internal/">CS Internal Page</a> 
-and give it to Christine, the department administrator whose office is 
-across from our classroom.  You might like to have access for office
-hours or if you'd like to work in the building.
-<li> (01/05/09) Afra's office hours this week will be on 
-Thursday from 10 - 11 AM in his office.
-<li> (01/05/09) Xiaoyu's office hours this week will be on
-Thursday from 4 - 5 PM in Sudikoff 110.
-<li> (01/05/09) The first story time is now on the 
-<a href = "schedule.html">Schedule</a>.
+<li> (02/02/07) Today, Afra will have a review session for the 1st Midterm from 6 &ndash 7 in Sudikoff 115.  Bring your questions!
+<li> (02/01/07) Copies of Homework Four and Solutions to Homework Two are in the box.
+If you were not in class on Friday, I have your graded Homework Two (not in the box.)
+<li> (01/30/08) Yiming reminded me that today's the Microsoft visit:  [1/30 &ndash; 6:00-7:30 PM &ndash; Moore B03].  Take your r&eacute;sum&eacute;s!
+<li> (01/28/08) Ranganath's Office hours for this week will be wed, 3.30-4.30 PM, Thu 5-7 PM.
+<li> (01/28/08) The <b>First Midterm</b> will be on Monday, February 4 in <b>Moore B03</b>.  It will cover the first 9 lectures.
+<li> (01/28/08) Afra's Office hours will be tomorrow, 2-3 PM.  Same bat channel, same bat time.
+<li> (01/25/08) If you accidentally received a homework today that is not 
+yours, please put that homework in Afra's mailbox.  It may have attached 
+itself to your homework.
+<li> (01/25/08) Copies of Homework Three, Solutions to Homework One, and 
+the remaining graded homeworks are in the CS 19 box outside of our 
+classroom (Sudikoff 115).
+<li> (01/25/08) You should now be able to check your grades online using
+the name and password you gave us in Homework One.  If you cannot do it,
+email Ranganath.
+<li> (01/18/08) The <b>First Midterm</b> will be on Monday, February 4.  
+It will cover the first 9 lectures.
+<li> (01/24/08) Comment on Homework 2, Problem 4 (Section 1.7:  Exercise 4):  One way to lower the number of cases is to focus on a, b, or c being the minimum number, so there are 3 cases.  But you cannot do it with just one case WLOG.
+<li> (01/22/08) We will have an x-hour this Thursday.
+<li> (01/22/08) Microsoft is coming to campus:  [1/30 &ndash; 6:00-7:30 PM &ndash; Moore B03].  Prepare your r&eacute;sum&eacute;s! 
+<li> (01/21/08) The TA's office hours for this week are Wed 5:30 - 6:30, Thu 5:00- 7:00
+<li> (01/21/08) Afra will have office hours tomorrow from 2 -3 PM.
+<li> (01/18/08) We will have an x-hour next Thursday.
+<li> (01/18/08) The reading assigned today is 2.3, 2.4 
+     (not 2.4, 4.1, as announced in class.) Afra made a mistake.
+<li> (01/18/08) Next Monday is the MLK holiday, so we will not have class.
+<li> (01/16/08) Comments on first homework, as elaborated in class:
+<ul>
+<li> Problem 4: you are allowed to use direct proofs and arguement,
+     instead of symbolic proofs using logical equivalences.
+<li> Problem 5: you may argue logically, but remember to argue both sides.
+<li> Problem 10: focus on making the second biconditional true by making
+     both sides false.
+<li> Problem 15:  There may be nothing specific you can deduce.  That's OK.
+</ul>
+<li> (01/13/08) The TA's office hours for this week are Wed 5:00 - 6:00, Thu 5:00- 7:00
+<li> (01/14/08) Afra will have office hours Tuesday, 2 - 3 PM.
+<li> (01/11/08) We will <em>not</em> be having the special Saturday 
+X-hour tomorrow.
+<li> (01/11/08) Homework One is now on both the 
+<a href = "schedule.html">Schedule</a> 
+as well as the
+<a href = "resources.html">Resources</a> page.  It is due next Friday.
+<li> (01/09/08) We will <em>not</em> be having an X-hour tomorrow.
+<li> (01/07/08) The
+<a href = "schedule.html">Schedule</a> is updated with the first reading
+assignment, as well as the first Story Time.
 </ul>
 </td>
 
@@ -144,3 +175,4 @@ Thursday from 4 - 5 PM in Sudikoff 110.
 </table>
 </body></html>
 
+nwithi

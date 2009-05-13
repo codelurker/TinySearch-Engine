@@ -1,154 +1,446 @@
-http://www.cs.dartmouth.edu/~afra/personal.html
+http://www.cs.dartmouth.edu/~dfk/people.html
 3
-<html>
-<head>
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-<title>About Afra</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
+<html> <head>
+<title>David Kotz's research group</title>
 </head>
 
-<body bgcolor=#ffffff >
+<BODY BGCOLOR="#EEEEEE" TEXT="#000000">
+<h1><a href="index.html">David Kotz</a>'s research group</h1>
 
-<hr align=center noshade>
+I have a small collection of
+<b><a href="favorites.html">favorite papers and books</a></b>,
+which are valuable references for all my students.
 
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign= top>
+<hr>
 
-<!-- ----- Left-hand side navbar ----- -->
-<td align=right>
-<font size="+1" align=right>
-afra<br>
-zomorodian<br>
-<br>
-</font>
-<a href="./">home</a><br>
-<b>personal</b><br>
-<a href="book.html">book</a><br>
-<a href="papers.html">papers</a><br>
-<a href="teaching.html">teaching</a><br>
-<a href="goodies.html">goodies</a><br>
-<br><br>
-</td>
+<h2>Current</h2>
 
-<!-- ----- Interior left margin ----- -->
-<td width=25>&nbsp;</td> 
+<!-- ------------------------------------------------------- -->
+<h4> Postdoctoral Fellows</h4>
+<ul>
+  <li> <a href="/~sbratus">Sergey Bratus</a> (2001-2005, 2007-date)
+       (Ph.D from Northeastern University, 1999).
+       <br>2008: <em>Wireless security and
+       the <a href="http://www.cs.dartmouth.edu/~dist">DIST</a> project</em>.
+       <br>2007: <em>Wireless security 
+       (related to <a href="http://www.cs.dartmouth.edu/~map">MAP</a> project</em>).
+       <br>2001-2005: <em>Intrusion analysis 
+       (<a href="http://kerf.cs.dartmouth.edu">Kerf</a> project</em>).
+       <br>Sergey 
+       is a Research Assistant Professor of <a href="/" >Computer Science</a>
+       and has long been affiliated with <a href="http://www.ists.dartmouth.edu">ISTS</a>.
+  
+  <li> <a href="http://www.cs.dartmouth.edu/~mhshin/">Minho Shin</a> (2007-date)
+       (Ph.D from UMD, 2007).
+       <br><em>Scalable, secure sensor systems</em>
+       (<a href="/~sensorlab/metrosense">Metrosense</a> project).
+       <br>Minho is an <a href="http://www.ists.dartmouth.edu">ISTS</a> Fellow.
 
-<!-- ----- Eye candy ---- -->
-<td>
+</ul>
+       
+<!-- ------------------------------------------------------- -->
+<h4> Doctoral students</h4>
+<ul>
+  <li> <a href="/~keren/">Keren Tan</a>, Ph.D student (2006-date).
+       <br><em>wireless network security</em>:
+       the <a href="/~map">MAP</a> project
+       and more recently
+       the <a href="http://www.cs.dartmouth.edu/~dist">DIST</a> project</em>.
 
-<table cellspacing=0 cellpadding=0 border=0>
-<tr>
-<td>
-<img src="images/yosemite.jpg" width = 100</a>
-<td>
-<tr>
+</ul>
+
+<!-- ------------------------------------------------------- -->
+<h4> Master's students</h4>
+<ul>
+  <li> Janani Sriram, M.S. student (now Tanzeem Choudhury's student)
+       <br><em>Data Assurance in Medical Sensor Applications</em>
+</ul>
+
+<!-- ------------------------------------------------------- -->
+<h4> Undergraduate students  </h4>
+<ul>
+  <li><em>None currently.</em></li>
+</ul>
+
+<!-- ------------------------------------------------------- -->
+<h4> Research staff  </h4>
+<ul>
+  <li> Punch Taylor, helping to deploy wireless APs in the
+       <a href="/~dist">DIST</a> project
+
+  <li> <a href="/~bennet">Bennet Vance</a>, programmer in the
+       <a href="/~map">MAP</a> and <a href="/~dist">DIST</a> projects
+
+  <li> <a href="/~jyeo">Jihwang Yeo</a>, programmer for
+       <a href="http://crawdad.cs.dartmouth.edu">CRAWDAD</a> project
+</ul>
+
+<hr>
+
+<!-- ------------------------------------------------------- -->
+<h2>Former</h2>
+
+<h4> Completed Postdoctoral Fellows</h4>
+<ul>
+  <li> <a href="http://www.cs.dartmouth.edu/~akapadia/">Apu Kapadia</a> (2005-2008)
+       (Ph.D from UIUC, 2005).
+       <br><em>Scalable, secure sensor systems</em>.
+       <br>Apu was an <a href="http://www.ists.dartmouth.edu">ISTS</a> Fellow.
+
+  <li> <a href="http://www.cs.dartmouth.edu/~locasto/">Mike Locasto</a> (2008)
+       (Ph.D from Columbia, 2007).
+       <a href="http://www.cs.dartmouth.edu/~map">MAP</a> project</em>.
+       <br>Mike was an <a href="http://www.ists.dartmouth.edu">ISTS</a> Fellow.
+
+  <li> <a href="http://www.linkedin.com/pub/1/307/19b">Vijay Bhuse</a> (2007)
+       (Ph.D from Western Michigan University, 2007).
+       <br><em>security and privacy in sensor networks</em>
+       (<a href="/~sensorlab/metrosense">Metrosense</a> project).
+
+  <li> <a href="http://www.linkedin.com/pub/5/887/487">Yong Sheng</a> (2006-07)
+       (Ph.D from Dartmouth College, 2006).
+       <br><em>Wireless security</em> (<a href="/~map">MAP</a> project).
+       <br>Yong was an <a href="http://www.ists.dartmouth.edu">ISTS</a> Fellow.
+       He is now at Google.
+
+  <li> <a href="http://www.cs.st-andrews.ac.uk/~tristan/">Tristan Henderson</a> (2003-06)
+       (Ph.D from University College London, 2003).
+       <br><em>Wireless-network measurement and security</em>.
+       <br>Tristan began as a postdoc but was promoted to
+       Research Assistant Professor.
+       <br>Now a Lecturer in the School of Computer Science at
+       <a href="http://www.cs.st-andrews.ac.uk/">University
+       of St.&nbsp;Andrews</a> in Scotland.
+       
+  <li> <a href="http://www.minkyong.com/">Minkyong Kim</a>
+       (2004-2006)
+       (Ph.D from University of Michigan, 2004).
+       <br><em>Mobility modeling</em>.
+       <br>Now at IBM T.J. Watson Research Center.
+
+  <li> <a href="http://www.cc.gatech.edu/~arnab/">Arnab Paul</a> (2005)
+       (Ph.D from Georgia Tech, 2005).
+       <br>Now at Intel in Portland.
+
+  <li> <a href="http://www.dti.unimi.it/~cremonini/">Marco Cremonini</a> (2000-2001).
+       <br>
+       Now an Assistant Professor at the Department of Information
+       Technology of the University of Milan, Italy.
+</ul>
+
+<h4> Completed Doctoral students</h4>
+<table>
+<tr valign=top>
 <td align=center>
-<font size = "-2">
-<a href = "http://afra.smugmug.com/gallery/256240/1/10056565">
-<i>Yosemite Falls</i></a>
-</font>
+<a href=photos/graduation2008b.jpg><img src=photos/graduation2008b-small.jpg  align=center alt="2008 group" width=200></a>
+</td>
+<td align=left>
+<ul>
+
+  <li> <a href="http://www.linkedin.com/pub/2/270/2b8">Udayan Deshpande</a> (2008),
+       <a href="/reports/abstracts/TR2008-620/"><em>A Dynamically
+                    Refocusable Sampling Infrastructure for 802.11
+                    Networks</em></a>
+                    and the  <a href="/~map">MAP</a> project.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at <a href="http://live.com">Microsoft Live</a>.
+       
+  <li> <a href="/~mingli/">Ming Li</a> (2008),
+       <a href="/reports/abstracts/TR2008-621/"><em>Group-Aware
+                    Stream Filtering</em></a> and the <a href="/~solar/">Solar</a> project.
+
+  <li> <a href="/~snanda">Soumendra Nanda</a> (2008), 
+       <a href="/reports/abstracts/TR2008-619/"><em>Mesh-Mon:
+                    a Monitoring and Management System for
+                    Wireless Mesh Networks</em></a>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at <a href="http://baesystems.com">BAE Systems</a>.
+
+  <li> <a href="/~lsong/">Libo Song</a> (2008),
+       <a href="/reports/abstracts/TR2008-611/"><em>Evaluating Mobility Predictors in Wireless Networks for Improving Handoff and Opportunistic Routing</em></a>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at <a href="http://www.bloomberg.com/">Bloomberg</a>.
+
+  <li> <a href="http://www.cs.uiuc.edu/homes/minami/">Kazuhiro Minami</a> (2006),
+       <a href="/reports/abstracts/TR2006-571/"><em>Secure Context-sensitive Authorization</em></a>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now an <a href="http://www.thei3p.org/fellowships/">I3P Fellow</a>
+       at <a href="http://www.cs.uiuc.edu/">UIUC</a>.
+
+  <li> <a href="http://www.cs.uml.edu/~glchen/">Guanling Chen</a> (2004),
+       <a href="/reports/abstracts/TR2004-514/"><em>Solar: Building a context fusion network for pervasive computing</em></a>
+       and the <a href="/~solar/">Solar</a> project.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now an Assistant Professor of Computer Science at
+       <a href="http://www.cs.uml.edu/">University of Massachusetts, Lowell</a>.
+
+  <li> <a href="/~raoldfi/">Ron Oldfield</a> (2003),
+       <a href="/reports/abstracts/TR2003-459/"><em>Efficient I/O
+       for Computational Grid Applications</em></a>;
+       and <a href="armada/">Armada home page</a>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now a
+       Senior Member of the Technical Staff
+       in <a href="http://www.cs.sandia.gov/~bright/9223.html">Scalable Computing Systems</a>
+       at <a href="http://www.sandia.gov/">Sandia National Laboratories</a>.
+       <A HREF=photos/OldfieldGrad.jpg alt=Oldfield><em>photo</em></a>
+       
+  <li> <a href="http://faculty1.coloradocollege.edu/~jbredin/">Jonathan Bredin</a> (2001),
+       <em><a href="/reports/abstracts/TR2001-408/">Market-Based
+       Control of Mobile-agent Systems</a></em>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now an Associate Professor of Mathematics at
+       <a href="http://www.coloradocollege.edu">Colorado College</a>.
+       
+  <li> <a href="http://www.jonh.net/~jonh/">Jon Howell</a> (2000),
+       <a href="jonh/research/dissertation/"><em>Naming and sharing resources across administrative boundaries</em></a>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at Microsoft Research.
+       
+  <li> <a href="nils/">Nils Nieuwejaar</a> (1996),
+       <a href="/reports/abstracts/TR96-300/"><em>Galley:
+       A New Parallel File System for Parallel Applications</em></a>;
+       and <a href="nils/galley.html">Galley home page</a>.
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at Sun Microsystems.
+</ul>
 </td>
 </tr>
 </table>
 
-<!-- ----- Interior right margin ----- -->
-<td width=25>&nbsp;</td> 
-
-<!-- ----- Main body ----- -->
-
-<td>
-<!-- <b><a href="cv.pdf">curriculum vitae</a> <img src = "images/new.gif"></b>
-(updated 02/05)
-<br>
-<br>
--->
-<b>current position</b>
-<p>
-I am an Assistant Professor in the 
-<a href = "http://www.cs.dartmouth.edu">Department of Computer Science</a>
-at 
-<a href = "http://www.dartmouth.edu/">Dartmouth College</a>.
-Feel free to drop by my office at 
-<a href = "http://www.cs.dartmouth.edu/contact.php">163 Sudikoff</a>.
-My email address is my
-first name at CS dot dartmouth dot edu.
-<br>
-<p>
-
-<b>previous positions</b>
-<p>
-During the fall of 2006, I was a Research Professor at
-<a href = "http://www.msri.org">MSRI</a>, where
-I was part of the program titled 
-<a href =
-"http://www.msri.org/calendar/programs/ProgramInfo/243/show_program">
-Computational Applications of Algebraic Topology</a>.
-<p>
-From January 2004 to June 2006, I was a Post-Doctoral Fellow in 
-<a href = "http://biox.stanford.edu/">Bio-X</a> and the 
-<a href = "http://www.cs.stanford.edu">Department of Computer Science</a>
-at
-<a href = "http://www.stanford.edu">Stanford University</a>.
-I was part of two groups:
-the <a href = "http://geometry.stanford.edu/member/guibas">Leonidas Guibas Laboratory</a>
-and
-<a href = "http://math.stanford.edu/comptop/">TMSCSCS</a>.  
-<p>
-From July through December 2003, I was
-away from Stanford, traveling
-in five countries.
-During that time, I was a guest researcher</a> at the
-<a href = "http://www.mpi-sb.mpg.de/">Max-Planck-Institut f&uuml;r Informatik</a> in 
-<a href = "http://www.saarbruecken.de">Saarbr&uuml;cken</a>, 
-Germany, for about five months, where I worked with
-<a href = "http://www.mpi-sb.mpg.de/~kettner/">Lutz Kettner</a>.
-<p>
-From October 2001 through June 2003, I was a Post-Doctoral Fellow
-at Stanford.
-<p>
-<b>academic background</b>
-<p>
-I completed my Ph.D. in October 2001 from the 
-<a href = "http://www.cs.uiuc.edu">Department of Computer Science</a>
-at
-<a href = "http://www.uiuc.edu">University of Illinois at
-Urbana-Champaign</a>.  
-I was a <em>Visiting Scholar</em> in the 
-<a href = "http://www.cs.duke.edu">Department of Computer Science</a>
-at
-<a href = "http://www.duke.edu">Duke University</a> from 1999 to 2001
-during my graduate work.
-<br>
-<br>
-Previously, I received my B.S. in Computer Science from the 
-<a href = "http://www.cs.stanford.edu">Department of Computer Science</a>
-at
-<a href = "http://www.stanford.edu">Stanford University</a> in 1996.  I did
-some research on color acquisition and automatic shape acquisition (part of
-the <a href = "http://graphics.stanford.edu/projects/faxing/">3D Fax
-Project</a>) in the 
-<a href = "http://graphics.stanford.edu">Stanford Computer Graphics
-Laboratory</a> as an undergraduate.
-<br>
-<br>
-
-I graduated from 
-
-<a href = "http://www.iusd.k12.ca.us/uhs/">University High School</a>
-
-in Irvine, California, in 1992, but I first spent three years in
-<em>Rolling Hills High School</em>, which merged with Palos Verdes and
-Miraleste High Schools to form
-
-<a href = "http://www.pvphs.com">Palos Verdes 
-Peninsula High School</a>
-
-in 1991.  My family then moved to 
-<a href = "http://www.irvinecompany.com">Irvine</a>.
-
-<!-- ----- Right-hand margin ----- -->
-<td width=25>&nbsp;</td>
+<table>
+<tr valign=bottom>
+<td align=center>
+ <a href=photos/DeshpandeGrad.jpg><img src=photos/DeshpandeGrad-small.jpg
+  align=center alt="Udayan Deshpande" width=100></a>
+  <br> <font size=-1>Udayan Deshpande</font> 
+  <br> <font size=-1>2008</font> 
+</td>
+<td align=center>
+ <a href=photos/MingLiGrad.jpg><img src=photos/MingLiGrad-small.jpg
+  align=center alt="Ming Li" width=100></a>
+  <br> <font size=-1>Ming Li</font> 
+  <br> <font size=-1>2008</font> 
+</td>
+<td align=center>
+ <a href=photos/SongGrad.jpg><img src=photos/SongGrad-small.jpg
+  align=center alt="Libo Song" width=100></a>
+  <br> <font size=-1>Libo Song</font> 
+  <br> <font size=-1>2008</font> 
+</td>
+<td align=center>
+ <a href=photos/MinamiGrad.jpg><img src=photos/MinamiGrad-small.jpg
+  align=center alt="Kazuhiro Minami" width=100></a>
+  <br> <font size=-1>Kazuhiro Minami</font> 
+  <br> <font size=-1>2006</font> 
+</td>
+<td align=center>
+ <a href=photos/ChenGrad.jpg><img src=photos/ChenGrad-small.jpg
+  align=center alt="Guanling Chen" width=100></a>
+  <br> <font size=-1>Guanling Chen</font> 
+  <br> <font size=-1>2004</font> 
+</td>
+<td align=center>
+ <a href=photos/OldfieldGrad.jpg><img src=photos/OldfieldGrad-small.jpg
+  align=center alt="Ron Oldfield" width=100></a>
+  <br> <font size=-1>Ron Oldfield</font> 
+  <br> <font size=-1>2003</font> 
+</td>
 </tr>
 </table>
-<hr align=center noshade>
-</body>
+
+<h4> Completed Master's students</h4>
+
+<ul>
+  <li> <a href="/~jiangzh">Zhenhui Jiang</a> (M.S. 2005)
+       <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-566/"><em>A Combined Routing Method for Ad hoc Wireless Networks</em></a>
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at Systra, Inc. in Lebanon, NH.
+
+  <li> <a href="/~wangjue/">Jue Wang</a> (M.S. 2004) <a href="/reports/abstracts/TR2004-513/"><em>Performance Evaluation of a Resource Discovery Service</em></a>
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at Visa, Inc. in Portland, Maine.
+
+  <li> Ting Cai (M.S. 1997):
+       <em>Extensions to the STARFISH parallel file-system simulator.</em>
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at Microsoft.
+
+  <li> Saurab Nog (M.S. 1996)
+       <em>A docking system for mobile agents.</em>
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at Microsoft.
+
+  <li> <a href="http://www.crowcastle.net/preston/">Preston Crow</a> (M.S. 1994)
+       <em>``Single-Address-Space'' Operating Systems.</em>
+       <br>&nbsp;&nbsp;&nbsp;
+       Now at EMC.
+
+  <li> <a href="http://www.nd.edu/~akumar/index.html">Alok Kumar</a> (M.E. 1993)
+       <em>A Framework for Visualizing the Activities of Multiprocessor File Systems.</em>
+       <br>&nbsp;&nbsp;&nbsp;
+       Now an Assistant Professor of Finance at
+       University of Notre Dame's Mendoza College of Business.
+
+</ul>
+
+<!-- ------------------------------------------------------- -->
+<h4> Completed B.A. students in the
+     <a href="/academics/honors.html">honors program</a>
+     - alphabetically
+</h4>
+<ul>
+  <li> Jay Artz '00, <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2000-372/"><em>Personal Radio</em></a>.
+       
+  <li> Debbie Chyi '00, <a href="/reports/abstracts/TR2000-370/"><em>An Infrastructure for a Mobile-Agent System that Provides Personalized Services to Mobile Devices</em></a>.
+       
+  <li> Cenk Ergan '00, <em>Porting the Minix File System to Windows NT.</em>
+       
+  <li> Jeff Fielding '08, <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-623/"><em>Linkability in Activity Inference Data Sets</em></a>.
+       
+  <li> Jim Gochee '92,
+       <a href="/reports/abstracts/TR94-218/"><em>SPEDE:
+       A Simple Programming Environment for Distributed Execution</em></A>.
+
+  <li> Brendan Hahn '92,
+       <em>Anthrax: A System for Parallel Distributed Computation</em>.
+
+  <li> <a href="http://www.kenharker.com/">Ken Harker '95</a>,
+       <a href="/reports/abstracts/TR95-258/"><em>TIAS: A
+       Transportable Intelligent Agent System</em></a>.
+
+  <li> Ammar Khalid '01,
+       <a href="/reports/abstracts/TR2001-391/"><em>A Directory Infrastructure to Support Mobile Services</em></a>.
+
+  <li> Clara Lee '03,
+       <a href="/reports/abstracts/TR2003-455/"><em>Persistence and Prevalence in the Mobility of Dartmouth Wireless Network Users</em></a>.
+       
+  <li> Chris Masone '02
+       <a href="/reports/abstracts/TR2002-426/"><em>Role Definition  Language (RDL): A Language to Describe Context-Aware Roles</em></a>.
+       
+  <li> Arun Mathias '01,
+       <a href="/reports/abstracts/TR2001-392/"><em>SmartReminder: A Case Study on Context-Sensitive Applications</em></a>.
+
+  <li> Ayorkor Mills-Tettey '01
+       <a href="/reports/abstracts/TR2001-390/"><em>Mobile Voice Over IP (MVOIP): An Application-level Protocol</em></a>.
+
+  <li> Cal Newport '04,
+<a href="/reports/abstracts/TR2004-504/"><em>Simulating mobile ad hoc networks: a quantitative evaluation of common MANET simulation models</em></a>.
+
+
+  <li> Scott M. Silver '96,
+       <a href="/reports/abstracts/TR96-287/"><em>Implementation and
+       Analysis of Software Based Fault Isolation</em></a>.
+
+  <li> Pablo Stern '01,
+       <a href="/reports/abstracts/TR2001-393/"><em>Measuring early usage of Dartmouth's wireless network</em></a>.
+
+  <li> Joel Thomas '96, <a href="/reports/abstracts/TR96-288/"><em>The Panda Array I/O Library on the Galley Parallel File System</em></a>.
+       
+  <li> Song Bac Toh '95,
+       <a href="/reports/abstracts/TR95-260/"><em>Simulation of
+       a Video-on-Demand System</em></a>.
+
+  <li> Abe White '02,
+       <a href="/reports/abstracts/TR2002-427/"><em>Performance and  Interoperability In Solar</em></a>.
+       
+  <li> Eric White '98, <em>A Comparison of Mobile Agent Migration Mechanisms</em>.
+
+</ul>
+
+<hr>
+
+
+<!-- ------------------------------------------------------- -->
+<h4> Other former graduate students</h4>
+<ul>
+  <li> <a href="/~jbaek/">John Baek</a> (wireless security)
+  <li> <a href="/~dxoigmn">Cory Cornelius</a>
+  (<a href="http://metrosense.cs.dartmouth.edu/">MetroSense</a> project)
+  <li> Clint Hepner (mobile agents on PalmOS)
+  <li> Mark Montague (multiprocessor file systems)
+  <li> Brian Premore (parallel file systems)
+  <li> Chris Langmead (mobile agents)
+  <li> Dan Peebles
+  (<a href="http://metrosense.cs.dartmouth.edu/">MetroSense</a> project)
+  <li> Lin Zhong (worm traffic on the wireless network)
+
+</ul>
+
+<!-- ------------------------------------------------------- -->
+<h4> Other former undergraduates</h4>
+<ul>
+  <li> Ilya Abyzov '05   (study of VoIP/wireless on campus)
+  <li> Kalpana Bagri '95
+  <li> Matt Carter '98, parallel file systems
+  <li> Edwin Chong '98
+  <li> Ruslan Dimov '08, programmer on
+       the <a href="http://crawdad.cs.dartmouth.edu">CRAWDAD project</a>
+  <li> Marjorie Lathrop '96
+  <li> Dana Malajian '10, WISP student in
+       the <a href="http://crawdad.cs.dartmouth.edu">CRAWDAD project</a>
+  <li> Sriram Radhakrishnan '95
+  <li> Rajiv Wickremesinghe '95
+  <li> Kobby Essien '02 (measuring campus-wide wireless usage)
+  <li> Amanda Eubanks '03      (pervasive computing, hand-held computers)
+  <li> Adrian Hartline '03  (context-aware web portal)
+  <li> Spencer Lawley '06 (wireless network security)
+  <li> Chris Lentz '03 (mapping wireless networks)
+  <li> Kelly Duggar '06 (location-aware app)
+  <li> David Blinn '06 (wireless network)
+  <li> Nick Christman '08, privacy in location-aware applications 
+  <li> Jon Jacobson '06, junior programmer for
+       <a href="http://crawdad.cs.dartmouth.edu">CRAWDAD</a> project
+  <li> <a href="/~zhiyuan">Zhiyuan (Jack) Zhang '10</a>;
+  <a href="http://www.cs.dartmouth.edu/~sensorlab/metrosense/">MetroSense</a>
+</ul>
+
+<!-- ------------------------------------------------------- -->
+<h4> Other former undergraduates</h4>
+(most <a href="http://agent.cs.dartmouth.edu/">mobile agents</a> students
+co-advised with <a href="/~rus/">Daniela Rus</a>)
+<ul>
+  <li> Ryan Acton '00
+  <li> Mihai Banulescu '99 (applications)
+  <li> Miranda Barrows '96 (network prediction)
+  <li> Christian Bennett '99 (lab manager)
+  <li> Bill Bleier '98 (Agent Java)
+  <li> Mike Brewer '99
+  <li> James Chalfant '99  (agent-tracking tool)
+  <li> Nathan Cook '98    (lab management)
+  <li> Michael Corr (agent-tracking tool)
+  <li> Joe Edelman '99 (electronic currency, yellow pages, applications) 
+  <li> Mark Giles '96 (navigation)
+  <li> David Gondek '98    (Agent Scheme)
+  <li> Mark Hoagland '98  (demo)
+  <li> David Hofer '97 (lab management)
+  <li> Ahsan Kabir '98     (Agent Scheme)
+  <li> <a href="/~sasho">Alex Iliev</a> '01 (agent-tracking visualization)
+  <li> Vishesh Khemani '98 (laptop support, debugger, agent tracker)
+  <li> Jason Kochel '99       (logistics) 
+  <li> Dawn Lawrie '97 (navigation)
+  <li> Rob Leathern '97 (economics) 
+  <li> David Marmaros '01 (personal radio)
+  <li> Tom Millett '98 (demo)
+  <li> Josh Mills '97      (Agent Java)
+  <li> Neha Narula '03      (wireless networks, hand-held computers)
+  <li> Jack Pien '98
+  <li> Fred Reiss '00
+  <li> Garth Sainio '98    (laptops, measurement)
+  <li> Dan Scholnick '00   
+  <li> Jun Shen '98 (laptop support)
+  <li> Matt Soldo '99 (communication)
+  <li> Jeffrey Steeves '99  (resource managers)
+  <li> Tarim Wasim '99 (sound support)
+  <li> Jake Wegmann '97 (sound and graphics) 
+  <li> Eric White '98       (Agent Java)
+  <li> Alik Widge '99 (Agent Scheme)
+  <li> Tiffany Wong '01      (wireless networks, hand-held computers)
+  <li> Jeff Zimpleman '00       (performance measurements)
+</ul>
+
+<hr>
+<!-- hhmts start -->
+Last modified: Mon Jun  9 06:49:05 2008
+<!-- hhmts end -->
+</body> </html>

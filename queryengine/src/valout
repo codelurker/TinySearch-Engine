@@ -1,0 +1,287 @@
+==19541== Memcheck, a memory error detector.
+==19541== Copyright (C) 2002-2007, and GNU GPL'd, by Julian Seward et al.
+==19541== Using LibVEX rev 1804, a library for dynamic binary translation.
+==19541== Copyright (C) 2004-2007, and GNU GPL'd, by OpenWorks LLP.
+==19541== Using valgrind-3.3.0, a dynamic binary instrumentation framework.
+==19541== Copyright (C) 2000-2007, and GNU GPL'd, by Julian Seward et al.
+==19541== 
+==19541== My PID = 19541, parent PID = 29582.  Prog and args are:
+==19541==    query
+==19541==    index.dat
+==19541==    ../../data
+==19541== 
+--19541-- 
+--19541-- Command line
+--19541--    query
+--19541--    index.dat
+--19541--    ../../data
+--19541-- Startup, with flags:
+--19541--    --leak-check=yes
+--19541--    --log-file=valout
+--19541--    -v
+--19541-- Contents of /proc/version:
+--19541--   Linux version 2.6.27.9-73.fc9.i686 (mockbuild@) (gcc version 4.3.0 20080428 (Red Hat 4.3.0-8) (GCC) ) #1 SMP Tue Dec 16 15:25:05 EST 2008
+--19541-- Arch and hwcaps: X86, x86-sse1-sse2
+--19541-- Page sizes: currently 4096, max supported 4096
+--19541-- Valgrind library directory: /usr/lib/valgrind
+--19541-- Reading syms from /lib/ld-2.8.so (0x4000000)
+--19541-- Reading syms from /net/da/melgares/public_html/cs23/lab6/queryengine/src/query (0x8048000)
+--19541-- Reading syms from /usr/lib/valgrind/x86-linux/memcheck (0x38000000)
+--19541--    object doesn't have a dynamic symbol table
+--19541-- Reading suppressions file: /usr/lib/valgrind/default.supp
+--19541-- REDIR: 0x4016ad0 (index) redirected to 0x3802cf63 (vgPlain_x86_linux_REDIR_FOR_index)
+--19541-- Reading syms from /usr/lib/valgrind/x86-linux/vgpreload_core.so (0x401F000)
+--19541-- Reading syms from /usr/lib/valgrind/x86-linux/vgpreload_memcheck.so (0x4021000)
+==19541== WARNING: new redirection conflicts with existing -- ignoring it
+--19541--     new: 0x04016ad0 (index               ) R-> 0x04024f60 index
+--19541-- REDIR: 0x4016ca0 (strlen) redirected to 0x4025210 (strlen)
+--19541-- Reading syms from /lib/libc-2.8.so (0x404D000)
+--19541-- REDIR: 0x40c2b90 (rindex) redirected to 0x4024e40 (rindex)
+--19541-- REDIR: 0x40c2710 (strlen) redirected to 0x40251f0 (strlen)
+--19541-- REDIR: 0x40bec50 (malloc) redirected to 0x4024a30 (malloc)
+--19541-- REDIR: 0x40c3a80 (memset) redirected to 0x4025f30 (memset)
+--19541-- REDIR: 0x40c2210 (strcpy) redirected to 0x4025250 (strcpy)
+--19541-- REDIR: 0x40c3f90 (memcpy) redirected to 0x4025660 (memcpy)
+--19541-- REDIR: 0x40c1e80 (strcat) redirected to 0x4024fc0 (strcat)
+--19541-- REDIR: 0x40c3580 (memchr) redirected to 0x4025610 (memchr)
+--19541-- REDIR: 0x40c4ba0 (strchrnul) redirected to 0x4026000 (strchrnul)
+==19541== Invalid write of size 1
+==19541==    at 0x40AD72C: vsprintf (in /lib/libc-2.8.so)
+==19541==    by 0x409574A: sprintf (in /lib/libc-2.8.so)
+==19541==    by 0x804BC56: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x41d0bd9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== Invalid read of size 1
+==19541==    at 0x4024FFD: strcat (mc_replace_strmem.c:186)
+==19541==    by 0x804BC68: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x41d0bd9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+--19541-- REDIR: 0x40bc840 (free) redirected to 0x4023850 (free)
+--19541-- REDIR: 0x40c2a40 (strncpy) redirected to 0x4025320 (strncpy)
+--19541-- REDIR: 0x40c3ae0 (mempcpy) redirected to 0x4026060 (mempcpy)
+==19541== 
+==19541== Invalid write of size 1
+==19541==    at 0x40AD72C: vsprintf (in /lib/libc-2.8.so)
+==19541==    by 0x409574A: sprintf (in /lib/libc-2.8.so)
+==19541==    by 0x804BC56: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x5697ff9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== Invalid read of size 1
+==19541==    at 0x4024FFD: strcat (mc_replace_strmem.c:186)
+==19541==    by 0x804BC68: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x5697ff9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== Conditional jump or move depends on uninitialised value(s)
+==19541==    at 0x804B8B2: getLength (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AB4: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+--19541-- REDIR: 0x40c21a0 (strcmp) redirected to 0x40254f0 (strcmp)
+==19541== 
+==19541== Process terminating with default action of signal 2 (SIGINT)
+==19541==    at 0x411AEF3: __read_nocancel (in /lib/libc-2.8.so)
+==19541==    by 0x40B7FCA: _IO_default_uflow (in /lib/libc-2.8.so)
+==19541==    by 0x40B9581: __uflow (in /lib/libc-2.8.so)
+==19541==    by 0x40AC1A5: _IO_getline_info (in /lib/libc-2.8.so)
+==19541==    by 0x40AC0F0: _IO_getline (in /lib/libc-2.8.so)
+==19541==    by 0x40AAFD9: fgets (in /lib/libc-2.8.so)
+==19541==    by 0x8048A72: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== ERROR SUMMARY: 2049161 errors from 5 contexts (suppressed: 13 from 1)
+==19541== 
+==19541== 1 errors in context 1 of 5:
+==19541== Conditional jump or move depends on uninitialised value(s)
+==19541==    at 0x804B8B2: getLength (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AB4: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 6 errors in context 2 of 5:
+==19541== Invalid read of size 1
+==19541==    at 0x4024FFD: strcat (mc_replace_strmem.c:186)
+==19541==    by 0x804BC68: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x5697ff9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 6 errors in context 3 of 5:
+==19541== Invalid write of size 1
+==19541==    at 0x40AD72C: vsprintf (in /lib/libc-2.8.so)
+==19541==    by 0x409574A: sprintf (in /lib/libc-2.8.so)
+==19541==    by 0x804BC56: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x5697ff9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A8E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 1024574 errors in context 4 of 5:
+==19541== Invalid read of size 1
+==19541==    at 0x4024FFD: strcat (mc_replace_strmem.c:186)
+==19541==    by 0x804BC68: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x41d0bd9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 1024574 errors in context 5 of 5:
+==19541== Invalid write of size 1
+==19541==    at 0x40AD72C: vsprintf (in /lib/libc-2.8.so)
+==19541==    by 0x409574A: sprintf (in /lib/libc-2.8.so)
+==19541==    by 0x804BC56: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==  Address 0x41d0bd9 is 0 bytes after a block of size 1 alloc'd
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BBFF: removeNewLines (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804C5CB: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+--19541-- 
+--19541-- supp:     13 dl-hack3-1
+==19541== 
+==19541== IN SUMMARY: 2049161 errors from 5 contexts (suppressed: 13 from 1)
+==19541== 
+==19541== malloc/free: in use at exit: 11,842,572 bytes in 165,655 blocks.
+==19541== malloc/free: 185,154 allocs, 19,499 frees, 13,981,587 bytes allocated.
+==19541== 
+==19541== searching for pointers to 165,655 not-freed blocks.
+==19541== checked 11,286,116 bytes.
+==19541== 
+==19541== 
+==19541== 1,000 bytes in 1 blocks are definitely lost in loss record 2 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B7A7: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 1,000 bytes in 1 blocks are possibly lost in loss record 4 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B5EE: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 1,000 bytes in 1 blocks are definitely lost in loss record 5 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B4A4: formList (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AA6: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 1,000 bytes in 1 blocks are definitely lost in loss record 6 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804C4DD: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 20,000 bytes in 1 blocks are definitely lost in loss record 8 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804C580: reloadIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048A1E: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 40,008 bytes in 1 blocks are definitely lost in loss record 10 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804BD3D: InitIndex (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804894E: initList (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x80489CF: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 62,000 bytes in 62 blocks are definitely lost in loss record 11 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B5EE: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 63,000 bytes in 63 blocks are definitely lost in loss record 12 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B9B7: getFilePath (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804B6D0: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 63,000 bytes in 63 blocks are definitely lost in loss record 13 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B3BD: prepList (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A477: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 126,000 bytes in 63 blocks are definitely lost in loss record 15 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B704: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 128,000 bytes in 64 blocks are definitely lost in loss record 16 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B672: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== 
+==19541== 128,000 bytes in 64 blocks are definitely lost in loss record 17 of 19
+==19541==    at 0x4024AEE: malloc (vg_replace_malloc.c:207)
+==19541==    by 0x804B632: printMeta (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x804A4BE: checkArgs (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541==    by 0x8048AE8: main (in /net/da/melgares/public_html/cs23/lab6/queryengine/src/query)
+==19541== 
+==19541== LEAK SUMMARY:
+==19541==    definitely lost: 633,008 bytes in 384 blocks.
+==19541==      possibly lost: 1,000 bytes in 1 blocks.
+==19541==    still reachable: 11,208,564 bytes in 165,270 blocks.
+==19541==         suppressed: 0 bytes in 0 blocks.
+==19541== Reachable blocks (those to which a pointer was found) are not shown.
+==19541== To see them, rerun with: --leak-check=full --show-reachable=yes
+--19541--  memcheck: sanity checks: 2149 cheap, 48 expensive
+--19541--  memcheck: auxmaps: 0 auxmap entries (0k, 0M) in use
+--19541--  memcheck: auxmaps_L1: 0 searches, 0 cmps, ratio 0:10
+--19541--  memcheck: auxmaps_L2: 0 searches, 0 nodes
+--19541--  memcheck: SMs: n_issued      = 368 (5888k, 5M)
+--19541--  memcheck: SMs: n_deissued    = 0 (0k, 0M)
+--19541--  memcheck: SMs: max_noaccess  = 65535 (1048560k, 1023M)
+--19541--  memcheck: SMs: max_undefined = 0 (0k, 0M)
+--19541--  memcheck: SMs: max_defined   = 24 (384k, 0M)
+--19541--  memcheck: SMs: max_non_DSM   = 368 (5888k, 5M)
+--19541--  memcheck: max sec V bit nodes:    0 (0k, 0M)
+--19541--  memcheck: set_sec_vbits8 calls: 0 (new: 0, updates: 0)
+--19541--  memcheck: max shadow mem size:   6192k, 6M
+--19541-- translate:            fast SP updates identified: 2,304 ( 89.1%)
+--19541-- translate:   generic_known SP updates identified: 163 (  6.3%)
+--19541-- translate: generic_unknown SP updates identified: 118 (  4.5%)
+--19541--     tt/tc: 42,216 tt lookups requiring 42,292 probes
+--19541--     tt/tc: 42,216 fast-cache updates, 3 flushes
+--19541--  transtab: new        2,361 (51,251 -> 737,299; ratio 143:10) [0 scs]
+--19541--  transtab: dumped     0 (0 -> ??)
+--19541--  transtab: discarded  6 (153 -> ??)
+--19541-- scheduler: 214,957,405 jumps (bb entries).
+--19541-- scheduler: 2,149/247,300 major/minor sched events.
+--19541--    sanity: 2150 cheap, 48 expensive checks.
+--19541--    exectx: 769 lists, 50 contexts (avg 0 per list)
+--19541--    exectx: 2,253,827 searches, 2,253,778 full compares (999 per 1000)
+--19541--    exectx: 340,187 cmp2, 4,098,365 cmp4, 0 cmpAll
+--19541--  errormgr: 32 supplist searches, 680 comparisons during search
+--19541--  errormgr: 2,049,174 errlist searches, 4,098,401 comparisons during search

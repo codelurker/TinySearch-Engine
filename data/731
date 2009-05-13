@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/assignments.html
+http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/projects.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -35,104 +35,73 @@ http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/assignments.html
 </div>
 
 <div class="content">
-<h2>Assignments</h2>
+<h2>Final Project</h2>
 
-<span style="text-decoration: underline;">Please include
-CS 88/188 in the subject line of all your emails about the class and/or
-assignments</span><br />
+<div style="text-align: justify;">I will provide a few
+project ideas
+but you are&nbsp; encouraged to choose a topic (with my approval)
+that
+matches your research interests. Students are encouraged to do projects
+in groups of two but individual projects are also acceptable. Group
+projects need to have roughly twice the contribution of an individual
+project. Feel free to use the available datasets (with proper
+reference) for your project - <br />
 
-<br />
-
-<span style="font-weight: bold;">Paper Presentation</span><br />
-
-You will be required to present a few of the papers that are being
-discussed during the course. I recommend that you choose papers that
-match most with your interests and with your final project.
-Presentations should clearly address the paper's motivation, the
-research contribution - specifically addressing the strengths and
-weaknesses, and the results. <br />
+<a style="color: rgb(0, 0, 0);" href="http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Fall08/dataset.html">
+http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/dataset.html</a></div>
 
 <br />
 
-Depending on the depth and difficulty of the
-paper, make your presentation about 20-30 minutes long. I encourage you
-to take a more investigate approach - what makes this paper
-interesting? How could you do better? Think about the pros and cons
-from different angle - usability, computational efficiency, complexity,
-accuracy, and richness of the system or algorithm. The presentations
-should be done using powerpoint or some other presentation software of
-your
-choice - I will request you to give me either a .ppt or .pdf version of
-your slides.<br />
+You can choose one of two different flavors of projects -<br />
 
 <br />
 
-<span style="font-weight: bold;">Written Critique </span><br />
-
-Each student is required to submit a short written critique
-(approximately 1 page) for each paper. It is due at 6pm the day before
-the class. The critique should (i) identify and list the technical
-challenges the researchers are trying to solve (ii) describe the new
-ideas (iii) discuss the strength and limiations of the propsed approach
-and (iv) suggest potential improvements.<br />
+A project where you implement some of the main ideas from a paper you
+read in class but explore a new application scenario or create a new
+and compelling demo.<br />
 
 <br />
 
-You can send me your critique either in plain text or pdf
-attachment.&nbsp; if your are presenting a paper in class you do
-not
-need to send me a
-written critique for that paper. I expect you to incorporate the
-answers to the
-questions into your presentation. Given the size of the class, I will
-not be able to read every
-single written critique which I deeply regret. I will randomly
-sample&nbsp;
-(uniformly across all students) a subset for which I will provide
-feedback.&nbsp; <br />
+<div style="text-align: center;"><span style="font-weight: bold;">OR</span><br />
+
+</div>
 
 <br />
 
-Due: The day before class by 8pm EDT.<br />
+<div style="text-align: justify;">A project where you
+propose a new
+algorithm (or an extension to an exisiting algorithm) that is related
+to one of the techniques covered in class. You will be graded on the
+novelty and depth of your idea as well as the implementation. For this
+type of project you won't be penalized if your idea does not give you
+the result you expect. But you should make a convincing argument for
+why you think your idea will be successful in your proposal and devoted
+enough time exploring why the idea did not work.<br />
 
+</div>
+
+<span style="font-weight: bold;"><br />
+
+</span>
+<h2>The fine print ...</h2>
+
+Those of you who are first year graduate students and
+are unsure about the scope of the project - please come talk to me. It
+may seem like a daunting task at first but projects can be fun and a
+great way to get started on research. I will provide some project ideas
+after October 2, 2008. But first I wanted to give you the opportunity
+to think about the types of problem that excite you before biasing your
+thinking. Depending on your interest and experience I am happy to work
+with you in finding a project that will be a good fit - not all
+projects have to have a lot of coding. You can explore ideas on how
+computational systems can be used by people - if you want to propose
+interesting user study or behavioral experiment towards that goal I am
+happy to work with you in figuring out the right project. If you are
+mathematically inclined and want to develop a new algorithm you are
+welcome to do so but you need to have some way to evaluate your
+techniques with real data (this can simply be coding it up in Matlab
+and running some experiments).
 <br />
-
-<span style="font-weight: bold;">Project Proposal</span><br />
-
-Each student or group is required to submit a 1-2 page proposal for the
-final project. The proposal should answer the following questions: (i)
-what problem are you trying to solve? (ii) why is it important or
-useful? (iii) what are the hard problems and how will solve them? (iv)
-how will you evaluate/measure success?<br />
-
-<br />
-
-For a multi-person project, please include how you will divide the
-tasks amongst yourselves. <br />
-
-Due: October 15, 2008 by 12:00pm EDT <span style="color: rgb(255, 0, 0); font-weight: bold;">(note new
-due date)</span><br />
-
-<br />
-
-<span style="font-weight: bold;">Mid-term Presentation</span><br />
-
-Each student or group is required to do a mid-term project presentation
-and submit a written update on their progress on the final project
-goals.<br />
-
-Presentations will be on November 4 and 6, 2008<br />
-
-<br />
-
-<span style="font-weight: bold;">Project Presentation and
-Report</span><br />
-
-Each student or group is required to do a final project presentation
-and submit a written report (10 pages).
-Presentations will be in class on December 2 and 3, 2008<br />
-
-Project report due December 3, 2008 by 11:59pm EDT<br />
 
 <br />
 
@@ -144,5 +113,4 @@ Project report due December 3, 2008 by 11:59pm EDT<br />
 
 </body>
 </html>
-/>
-á
+fonti

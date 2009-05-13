@@ -1,15 +1,15 @@
-http://www.cs.dartmouth.edu/~theory/winter_2006.html
+http://www.cs.dartmouth.edu/~theory/fall_2005.html
 3
 <html>
 <head>
-<title>Theory Reading Group - Winter 2006</title>
+<title>Theory Reading Group - Fall 2005 </title>
 </head>
 <body bgcolor="#fffff0" text="#004040" link="#006A57" alink="#006A57" 
 vlink="#008080">
 
 <font face="verdana, helvetica, arial" size="+1">
 <b><center>
-Theory Reading Group - Winter 2006
+Theory Reading Group - Fall 2005
 <br>
 </b></center>
 </font>
@@ -17,69 +17,97 @@ Theory Reading Group - Winter 2006
 <blockquote> <p> Welcome to the Theory Reading Group at Dartmouth's CS
 Department! We have vigorous, exciting discussions/presentations on
 recent research in Theoretical CS, accompanied by choice snacks. We meet
-on Wednesdays 4:30-5:30 in Sudikoff 114. Everyone is welcome; email
-"theory" at "cs" if you'd like to join the discussion. 
-
-In this term, we will primarily investigate the 
-computational aspect of game theory. 
+on Tuesdays 3:45-4:45 in Sudikoff 114. Everyone is welcome; email
+"theory" at "cs" if you'd like to join the discussion.
 
 <p>
-<h3>Winter 2006 Schedule </h3>
+<h3>Fall 2005 Schedule </h3>
 
 <p>
 
-<p> <b>Jan 18, 2006 (Chien-Chung)</b> 
+<p> <b>Sep 27, 2005 (Amit)</b> 
 <ul> 
 <li> 
-We will start with the elementary materials of 
-game thoery in the first week. The following link is the  
-slides of the game theory course taught by 
-<a href="www.cis.upenn.edu/~mkearns">Mike Kearns </a> at Upenn. 
-Chien-Chung is going to present. <a href="Papers/nips.pdf">Basics of Game Theory</a> 
+The EQUALITY problem in communication complexity: two non-trivial
+protocols and their analyses. <br>
+Partly based on the paper
+<a href="Papers/ambainis-sm.pdf">Communication Complexity in a
+3-Computer Model</a>, Andris Ambainis;
+Algorithmica 16 (3) : 298--301, 1996. 
 </ul><p>
 
-<p> <b>Jan 25, 2006 (David Wagner)</b>
+<b>Oct 4, 2005 (Anna)</b>
 <ul>
-<li> David Wagner will present a very important technique 
-in linear programming: primal-dual algorithm. If you have the 
-book <a
-href="http://www.amazon.com/gp/product/0486402584/qid=1137875385/sr=8-2/ref=pd_bbs_2/103-7425715-9312636?n=507846&s=books&v=glance">
-Combinatorial Optimization</a> written by Papadimitriou and Steiglitz, 
-you can read Chapter~2 and Theorem~3.1 to get a rough idea what he is 
-going to talk about. 
+<li>
+<a href="Papers/chor-pir.pdf">Private Information Retrieval</a>, Benny
+Chor, Oded Goldreich, Madhu Sudan; JACM 45 (6) : 965--982, 1998.
 </ul><p>
 
-
-<p> <b>Feb 1, 2006 (Joshua Brody)</b>
+<b>Oct 11, 2005 (Anna)</b>
 <ul>
-<li> The original 
-speaker David Wagner could not come to the reading group. 
-So Joshua Brody give us an improvised talk on his research 
-on the ``odd'' perfect number (if such a thing exists). 
-
+<li>
+We will continue to discuss the private information retrieval paper from
+last week. Please come with questions!
 </ul><p>
 
-<p> <b>Feb 8, 2006</b>
+<b>Oct 18, 2005 (Chittaranjan)</b>
 <ul>
-<li> Lisa Fleischer gives a talk about her work on market equilibrium. 
-
+<li>
+<a href="http://www.cs.uchicago.edu/files/tr_authentic/TR-2001-07.ps">
+Randomized simultaneous messages: solution of a problem of Yao in
+communication complexity</a>, L&aacute;szl&oacute; Babai, Peter Kimmel; 
+TR-2001-07, CS Dept, U. Chicago, 2001. The main result is a matching lower
+bound for the upper bound in the paper presented on Sep 27.
 </ul><p>
 
-<p> <b>Feb 15, 2006 (Khanh Do Ba)</b>
+<b>Oct 26, 2005 (Chittaranjan)</b>
 <ul>
-<li> Khanh presents the FOCS 2005 paper: 
-<a href="Papers/akv-2playergames.pdf">On the Complexity of Two-PlayerWin-Lose Games</a>. 
-
+<li>
+We will continue the discussion of the Babai-Kimmel paper, led by
+Chittaranjan.
 </ul><p>
 
+<b>Nov 1, 2005 (Amit)</b>
+<ul>
+<li>
+Amit will wrap up the proof of the lower bound that we have been
+discussing during the previous two meetings. <br> Useful link:
+<a href="http://www.cs.princeton.edu/courses/archive/spring01/cs598a/assignments/hw3.ps">
+A homework set from a course of Andrew Yao</a>.
+</ul><p>
 
+<b>Nov 8, 2005 (Raz)</b>
+<ul>
+<li>
+Rajendra Magar will discuss a more advanced Private Information Retrieval
+from <a href="http://www.cs.dartmouth.edu/~theory/Papers/ambainis-pir.pdf">
+Upper bound on the communication complexity of private information retrieval
+</a>, Andris Ambainis; ICALP 1997. This will be a follow-up to Anna's 
+presentations. 
+</ul><p>
+
+<b>Nov 15, 2005 (Raz)</b>
+<ul>
+<li>
+Raz will continue and conclude the previous week's reading.
+</ul><p>
+
+<p><i>No meeting on Nov 22, 2005; Thanksgiving break</i></p>
+
+<b>Nov 29, 2005 (Amit)</b>
+<ul>
+<li>
+Wrap-up for this term (details TBA); discussion about future plans.
+</ul><p>
+
+</blockquote>
+
+<hr>
 
 <center>
 <font size="-1" face=" verdana, helvetica, arial">
-Theory Reading Group | theory@cs.dartmouth.edu |  Updated 14 Jan 2006 <br>
-Page maintained by <a href="http://www.cs.dartmouth.edu/~villars">Chien-Chung Huang</a>
-<br>
-Old Page: <a href= "fall_2005.html">Theory Seminar of Fall term in 2005 </a>
+Theory Reading Group | theory@cs.dartmouth.edu |  Updated 27 Sep 2005 <br>
+Page maintained by <a href="www.cs.dartmouth.edu/~ac">Amit Chakrabarti</a>
 </font>
 </center>
 

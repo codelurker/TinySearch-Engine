@@ -1,104 +1,79 @@
-http://www.cs.dartmouth.edu/~cmasone
+http://www.cs.dartmouth.edu/~cbk
 2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
 
-<HTML>
-<HEAD>
-<TITLE>Chris Masone</TITLE>
+<body>
+<table width="100%" border=0>
+<tr>
+<td valign=top>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</td>
+</tr>
+</table>
 
-<SCRIPT LANGUAGE="JavaScript" SRC="scripts.js">
-</SCRIPT>
+<table width="100%" border=0><tbody>
 
-</HEAD>
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
 
-<BODY onLoad="javascript:set_for_size()">
-<TABLE cellpadding="0" cellspacing="0" border="0" align="center" width=62%>
-<TR>
-<TD>
-<A HREF="graphics/Dizno.png"><IMG SRC="graphics/Dizno100.png" align=right height=100 border=0></A>
-</TD>
-<TD width=10> </TD>
-<TD VALIGN=Bottom>
-<font class=content>
-<FONT SIZE=6>
-Chris Masone, Ph.D. Candidate<BR>
-Department of Computer Science
-</FONT>
-<P>
-<A HREF=mailto:cmasone@dartmouth.edu>cmasone@dartmouth.edu</A> &bull; 6211 Sudikoff, Hanover, NH 03755
-</P>
-</TD>
-</TR>
-<TR>
-<TD colspan=3 align=center valign=top>
-<HR>
-<TABLE BORDER=0>
-<TR>
-<TD width=48% valign=top>
-<font class=content>
-<H2>Research Interests</H2>
-<FONT SIZE=+1>
-<UL>
-  <LI>Human-Computer Interaction
-  <LI>Hybrid PKIs 
-  <LI>Secure Mail
-</UL>
-</FONT>
-</TD>
-<TD WIDTH=1> </TD>
-<TD width=48% valign=top>
-<font class=content>
-<H2>Personal Interests</H2>
-<FONT SIZE=+1>
-<UL>
-  <LI><A HREF="http://www.dartmouth.edu/~aires">The Dartmouth Aires</A></LI>
-  <LI>Audio Engineering<A HREF="Let%20Me%20Entertain%20You.mp3"><IMG SRC="mp3.png" ALT="mp3" border=0></A></LI>
-</UL>
-</FONT>
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Home</div><br>
 
-</TD>
-</TR>
-<TR>
-<TD colspan=3>
-<font class=content>
-<H2>Where Am I?</H2>
-I sit in 059 Sudikoff, which is in the new addition, in the basement.  Continue past 005, go through the door at the end of the hall there.  Take a left, a right, and then another left, and you should find me.  I might be in 045, the PKI/Trust lab, across the hall from my office as well.
-</font>
-</TD>
-</TR>
-<TR>
-<TD colspan=3>
-<font class=content>
-<H2>Publications</H2>
-<UL>
-<p>
-  <LI>C. Masone, K.-H. Baek, S. W. Smith.<BR>
-    <B>"WSKE: WebServer-Key-Enabled Cookies."</b>
-    <cite>Proceedings of Usable Security 2007 (USEC ’07),</cite>
-    February 2007.
-  </LI>
-  <BR>
-  <LI>C. Masone, S. W. Smith.<BR>
-    <B>"Towards Usefully Secure Email."</B>
-    <cite>IEEE Technology and Society Magazine, Special Issue on Security and Usability,</cite> 
-    March 2007.
-  </LI>
-  <BR>
-  <li> S.W. Smith, C. Masone, S. Sinclair.<br>
-    <a href="/~sws/abstracts/sms04.shtml"><b>"Expressing Trust in Distributed Systems: the Mismatch Between Tools and Reality."</b></a>
-    <cite>Forty-Second Annual Allerton Conference on Communication, Control, and Computing.</cite><br>
-    (Invited paper.)  September 2004.
-  </li>
-  <BR>
-  <LI>R.S. Gray, D. Kotz, C. Newport, N. Dubrovsky, A. Fiske, J. Liu, C. Masone, S. McGrath, Y. Yuan.<BR>
-    <B>"Outdoor experimental comparison of four ad hoc routing algorithms."</b>
-    <CITE>Proceedings of the 7th ACM international symposium on Modeling, Analysis and Simulation of Wireless and Mobile Systems</Cite>.
-    October 2004.
-  </li>
+<table width="100%">
+<tr><td>
+<table cellpadding="0">
+<tr><td><i>Email</i></td><td><a href="mailto:&#099;&#098;&#107;&#064;&#099;&#115;&#046;&#100;&#97;&#114;&#116;&#109;&#111;&#117;&#116;&#104;&#046;&#101;&#100;&#117;">&#099;&#098;&#107;&#064;&#099;&#115;&#046;&#100;&#97;&#114;&#116;&#109;&#111;&#117;&#116;&#104;&#046;&#101;&#100;&#117;</a></td></tr>
+<tr><td><i>Mail</i></td><td>6211 Sudikoff Laboratory, Hanover, NH 03755</td></tr>
+<tr><td><i>Office</i></td><td>Sudikoff 250</td></tr>
+<tr><td><i>Phone</i>&nbsp;</td><td>603-646-3385</td></tr>
+<tr><td><i>Fax</i></td><td>603-646-1672</td></tr>
+</table>
+</td>
+<td><div align="right"><img src="images/cbk-web.jpg" alt="mug shot" border=0></div></td>
+</tr>
+</table>
 
-</UL>
-</TD>
-</TR>
+&nbsp;<br>&nbsp;<br>
 
-</TABLE>
-</BODY>
-</HTML>
+<table align=center>
+<tr>
+<td><a href="multimodal.html"><img src="images/multimodal-small.jpg" alt="multimodal"></a></td>
+<td width=50></td>
+<td><a href="nmr.html"><img src="images/nmr-graph-small.jpg" alt="nmr"></a></td><td width=50></td>
+<td><a href="oligomer.html"><img src="images/2hyn-small.jpg" alt="oligomer"></a></td>
+</tr>
+</table>
+
+<br><br>
+
+<table align=center>
+<tr>
+<td><a href="mrf.html"><img src="images/mrf-small.jpg" alt="graphical models"></a></td>
+<td width=50></td>
+<td><a href="recombination.html"><img src="images/recomb-small.jpg" alt="recombination"></a></td>
+</tr>
+</table>
+
+</td></tr>
+
+</tbody></table>
+</body>
+</html>
+li>
+i

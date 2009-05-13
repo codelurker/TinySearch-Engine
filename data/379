@@ -1,59 +1,31 @@
-http://www.cs.dartmouth.edu/~sergey/cs108
+http://www.cs.dartmouth.edu/~rockmore/old-sep.html
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<html>
- <head>
-  <title>Index of /~sergey/cs108</title>
- </head>
- <body>
-<h1>Index of /~sergey/cs108</h1>
-<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
-<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/~sergey/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="817-1984.pdf">817-1984.pdf</a></td><td align="right">30-Oct-2008 06:05  </td><td align="right">1.9M</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="A%20Tiny%20Guide%20to%20Programming%20in%2032-bit%20x86%20Assembly%20Language.pdf">A Tiny Guide to Programming in 32-bit x86 Assembly Language.pdf</a></td><td align="right">01-Feb-1999 12:54  </td><td align="right"> 80K</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="DTrace-User-Guide.pdf">DTrace-User-Guide.pdf</a></td><td align="right">27-Jan-2009 08:19  </td><td align="right">532K</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Device_Drivers_Hands_on_Lab.pdf">Device_Drivers_Hands_on_Lab.pdf</a></td><td align="right">27-Jan-2009 08:19  </td><td align="right">554K</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="IASPbackground.ppt">IASPbackground.ppt</a></td><td align="right">22-Jan-2009 20:39  </td><td align="right">704K</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Linker%20and%20Libraries%20Guide.pdf">Linker and Libraries Guide.pdf</a></td><td align="right">30-Oct-2008 06:05  </td><td align="right">1.9M</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="cat.truss">cat.truss</a></td><td align="right">03-Feb-2009 22:32  </td><td align="right">3.5K</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="chpt_mdb_os.pdf">chpt_mdb_os.pdf</a></td><td align="right">10-Mar-2006 05:44  </td><td align="right">3.7M</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="debian_rc_script">debian_rc_script</a></td><td align="right">05-Mar-2009 19:30  </td><td align="right">9.8K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="drivers.txt">drivers.txt</a></td><td align="right">11-Mar-2009 10:12  </td><td align="right">2.2K</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="dtrace-internals-x86.pdf">dtrace-internals-x86.pdf</a></td><td align="right">28-Jan-2009 03:25  </td><td align="right">240K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="f00f-bug.txt">f00f-bug.txt</a></td><td align="right">13-Jan-2009 19:18  </td><td align="right">772 </td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="gcc-inline-asm.pdf">gcc-inline-asm.pdf</a></td><td align="right">11-Jan-2000 10:32  </td><td align="right">111K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l1.txt">l1.txt</a></td><td align="right">08-Jan-2009 03:38  </td><td align="right">8.1K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l2.txt">l2.txt</a></td><td align="right">09-Jan-2009 01:20  </td><td align="right">7.1K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l3.txt">l3.txt</a></td><td align="right">14-Jan-2009 18:29  </td><td align="right">4.7K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l4.txt">l4.txt</a></td><td align="right">16-Jan-2009 00:48  </td><td align="right">5.3K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l5.txt">l5.txt</a></td><td align="right">20-Jan-2009 22:02  </td><td align="right">5.9K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l6.txt">l6.txt</a></td><td align="right">22-Jan-2009 21:51  </td><td align="right"> 16K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l7.txt">l7.txt</a></td><td align="right">28-Jan-2009 03:21  </td><td align="right">7.2K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l8.txt">l8.txt</a></td><td align="right">29-Jan-2009 23:33  </td><td align="right">4.2K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l9.txt">l9.txt</a></td><td align="right">04-Feb-2009 01:14  </td><td align="right">6.2K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l10.txt">l10.txt</a></td><td align="right">06-Feb-2009 22:03  </td><td align="right">5.4K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l11.txt">l11.txt</a></td><td align="right">10-Feb-2009 19:12  </td><td align="right">5.8K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l12.txt">l12.txt</a></td><td align="right">12-Feb-2009 23:03  </td><td align="right">7.0K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l13.txt">l13.txt</a></td><td align="right">17-Feb-2009 21:43  </td><td align="right">4.9K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l14.txt">l14.txt</a></td><td align="right">25-Feb-2009 03:28  </td><td align="right">7.8K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l15.txt">l15.txt</a></td><td align="right">27-Feb-2009 01:08  </td><td align="right">5.5K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="l17.txt">l17.txt</a></td><td align="right">05-Mar-2009 22:32  </td><td align="right">9.7K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mmap-cat.d">mmap-cat.d</a></td><td align="right">03-Feb-2009 22:33  </td><td align="right">358 </td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="mmap-cat.trace">mmap-cat.trace</a></td><td align="right">03-Feb-2009 22:33  </td><td align="right">174K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="network-config-notes.txt">network-config-notes.txt</a></td><td align="right">09-Jan-2009 00:36  </td><td align="right">1.2K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="pmap-cat.txt">pmap-cat.txt</a></td><td align="right">03-Feb-2009 22:32  </td><td align="right">853 </td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="procdents.d">procdents.d</a></td><td align="right">14-Jan-2009 18:27  </td><td align="right">458 </td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="random-notes.txt">random-notes.txt</a></td><td align="right">16-Mar-2009 01:49  </td><td align="right">385 </td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="solaris-on-x86.pdf">solaris-on-x86.pdf</a></td><td align="right">09-Jan-2009 00:38  </td><td align="right">3.1M</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="spacs.txt">spacs.txt</a></td><td align="right">28-Jan-2009 03:48  </td><td align="right">716 </td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ssh-key-howto.html">ssh-key-howto.html</a></td><td align="right">28-Jan-2009 03:52  </td><td align="right">3.4K</td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="suspend-on-file-read.d">suspend-on-file-read.d</a></td><td align="right">27-Feb-2009 00:41  </td><td align="right">577 </td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="threads.txt">threads.txt</a></td><td align="right">20-Jan-2009 22:03  </td><td align="right">3.6K</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="udis86/">udis86/</a></td><td align="right">15-Jan-2009 02:14  </td><td align="right">  - </td></tr>
-<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="virtual-box-links.txt">virtual-box-links.txt</a></td><td align="right">17-Jan-2009 00:44  </td><td align="right">261 </td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="x86_newnew.pdf">x86_newnew.pdf</a></td><td align="right">01-Feb-1999 12:54  </td><td align="right"> 80K</td></tr>
-<tr><th colspan="5"><hr></th></tr>
-</table>
-<address>Apache/2.2.9 (Fedora) Server at www.cs.dartmouth.edu Port 80</address>
-</body></html>
-ngi
+<HEAD>
+<TITLE>Separated at Birth???????? </TITLE>
+<BODY>
+<H2>Separated at Birth???????? </H2>
+<TABLE BORDER>
+<TR>
+  <TD>Mug Shots</TD>
+  <TD><IMG SRC="http://coos.dartmouth.edu/~zhu/images/rockmore.gif"></TD><TD><IMG SRC="./rockmoreb.gif"></TD>
+</TR>
+<TR>
+  <TD>Advanced Degrees</TD><TD>Ph.D.</TD><TD>Ph.D.</TD>
+</TR>
+<TR>
+ <TD>Institutions</TD><TD>Harvard Univ.</TD><TD>M.I.T.V.</TD>
+</TR>
+<TR>
+ <TD>Favorite Quotes</TD><TD>"Goofus is cool"</TD><TD>"Goofus is cool"</TD>
+</TR>
+</TABLE>
+
+<BR>
+<BR>
+<H2>The Boys: Professors Charlie Olson (Ph.D. Auburn) and Digger Rockmore (Ph.D. Harvard)</H2>
+<BR>
+<IMG ALIGN=MIDDLE SRC="http://www.cs.dartmouth.edu/~olson/boys.gif">
+<BR>
+<H2>The Boys with graduate student Heidi Dixon</H2>
+<BR>
+<IMG ALIGN=MIDDLE SRC="triplet2.jpg">ocess,i

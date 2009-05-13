@@ -1,25 +1,29 @@
-http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Spring2009/matlab.html
+http://www.cs.dartmouth.edu/~cs38/Winter09/index.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Accessing MATLAB: HOWTO</title></head>
-<body><h1>Accessing MATLAB</h1><hr style="width: 100%; height: 2px;"><h2>Using MATLAB in Sudikoff Lab001</h2><ol><li><big>Make sure you have a department Linux account.&nbsp; </big><big><span style="font-weight: normal;"></span></big></li><li><big><span style="font-weight: normal;">Log into a machine first. In the top menu, choose</span> "Application"-"System Tools"-"Terminal", <span style="font-weight: normal;">and enter</span> "matlab" <span style="font-weight: normal;">in the black terminal window. The MATLAB graphical interface will pop out in a few seconds. <span style="font-style: italic;">(Notice
-that because the MATLAB version&nbsp; in Lab001 comes with very few
-toolboxes,&nbsp; many MATLAB built-in functions such as </span>&nbsp;imshow(),&nbsp;mvnrnd() <span style="font-style: italic;">may not be available.) &nbsp;</span></span></big></li></ol><h2>Using MATLAB on your own computer (recommended)</h2><ul><li><big>Dartmouth College provides students free MATLAB copies, which could be found at <a href="http://caligari.dartmouth.edu/downloads/matlab/">http://caligari.dartmouth.edu/downloads/matlab/</a>.
-We recommend installing MATLAB on your own laptop using this link
-because it comes together with many toolboxes. During the installation
-process, please select all optional toolboxes in case you may need them
-in the near future. If you cannot find the right copy for your
-operating system (e.g. Linux), you may contact <a href="mailto:susan.a.schwarz@dartmouth.edu">Susan A. Schwarz</a> for assistance.</big><a href="mailto:susan.a.schwarz@dartmouth.edu"><big> </big></a></li><li><big>A&nbsp;remote
-license server is required to run your MATLAB after installation, which
-means you *HAVE TO* remain connected to the internal Dartmouth network
-every time you start MATLAB.You can do so by connecting either through
-on-campus wired networks sockets, through the "Dartmouth Secure" wifi
-spot (click <a href="http://www.dartmouth.edu/comp/support/library/connect-on/win/wireless.html">here</a> for howtos on setting up the secure wifi), or through a VPN connection (click <a href="http://www.dartmouth.edu/comp/support/library/safecomputing/defenses/network/transit/vpn/">here</a> for howtos on setting up VPN)&nbsp; if you are off campus.</big></li></ul><h2>Using MATLAB remotely</h2><big>If
-you don't want to install MATLAB, and Lab001 is crowded with other
-students, you can still run MATLAB remotely from your computer. First
-you need to pick a computer in Lab001 that you wnat to log in. Here is <a href="http://www.cs.dartmouth.edu/%7Ewbc/suditour/001/index.html">the list</a>
-of all computers in Lab001. Now we assume you want to log into the
-computer named "Spruce", and your department account is "xxx".<br></big><ul><li><h3>For Unix/MacOSX/Linux Users</h3></li><ul><li><big>Install X Window System if you are using MacOSX. Here is <a href="http://developer.apple.com/opensource/tools/runningx11.html">how</a>. Usually X Window System is installed for the latest MacOSX.</big></li><li><big>In
-Linux/OSX/Unix, open a terminal or the xterm window, and type the
-following. The "-Y" parameter ensures that ssh will forward the GUI
-MATLAB interface to your own screen.</big></li></ul></ul><table style="text-align: left; background-color: rgb(84, 200, 88); width: 638px; height: 92px;" border="0" cellpadding="2" cellspacing="2"><tbody><tr><td><div style="text-align: left;"><div style="text-align: left;"><span style="font-weight: bold;">&nbsp;yourmac:~$ssh -Y xxx@spruce.cs.dartmouth.edu</span><br style="font-weight: bold;"></div><span style="font-weight: bold;">......<br>(You will be asked to accept encryption keys and enter your department account password) </span><br style="font-weight: bold;"><span style="font-weight: bold;">......<br>spruce:~$matlab</span>&nbsp;</div></td></tr></tbody></table><br><ul><ul><li><big>MATLAB interface will pop out on your screen in a few seconds.</big></li></ul><li><h3>For Windows Users</h3></li><ul><li><big>Install and configure Putty and Xming. Here is <a href="http://www.cse.unsw.edu.au/%7Ehelpdesk/documentation/Putty.html">a tutorial</a> on it.&nbsp;</big></li><li><big>Use spruce.cs.dartmouth.edu as your hostname, and your department account/password as your username and user password in Putty.</big></li><li><big>Once you are on spruce, type matlab in Putty .</big><span style="font-weight: bold;"></span></li></ul></ul><span style="font-weight: bold;"></span><h2>Please contact&nbsp;TA at cs134@cs.dartmouth.edu for any question regarding accessing MATLAB.</h2></body></html>
+
+
+<title>CS38: Lectures</title></head>
+ 
+<body>
+
+<h1>
+  <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">CS38: Security and Privacy, Winter 2009 - Home Page<br>
+</h1>
+<h1>&nbsp;</h1>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big>Be sure you regularly check the <a href="http://www.dartmouth.edu/~blackboard">Dartmouth Blackboard</a> system for course announcements!</h2>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big><a href="./Purpose.html">Course goals</a></h2>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big><a href="./Logistics.html">Logistics</a></h2>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big><a href="./Syllabus.html">Syllabus</a></h2>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big><a href="./Resources.html">Textbook and resources</a></h2>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big><a href="./Projects.html">Projects</a></h2>
+<h2><big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT=""> </big><a href="./Projects.html"></a>Homework assignments</h2>
+<p></p>
+<p>&nbsp;</p>
+<hr>
+&nbsp;&nbsp;&nbsp;
+<b>Charles C. Palmer</b>
+&nbsp;&nbsp;&nbsp;
+&lt; <a href="mailto:ccpalmer@dartmouth.edu"><b>ccpalmer@dartmouth.edu</b></a>&gt;
+</body>
+ </html>
+              

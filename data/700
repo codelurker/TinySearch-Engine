@@ -1,7 +1,7 @@
-http://www.cs.dartmouth.edu/~cs58/work
+http://www.cs.dartmouth.edu/~cs58/resources
 3
 <html> <head>
-<title>CS58: Coursework</title>
+<title>Textbook and Resources</title>
 </head>
  
 <body>
@@ -10,14 +10,14 @@ http://www.cs.dartmouth.edu/~cs58/work
 <h2> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
 
-Coursework
+Textbook and Resources
 <br> 
  CS58, Operating Systems, Fall 2008
 </h2> 
-<i> www.cs.dartmouth.edu/~cs58/work/index.shtml</i> 
+<i> www.cs.dartmouth.edu/~cs58/resources/index.shtml</i> 
  &nbsp;&nbsp;&nbsp; 
  
-<i> Last modified: Saturday, 06-Sep-2008 15:45:23 EDT</i> 
+<i> Last modified: Saturday, 06-Sep-2008 15:56:44 EDT</i> 
  
 <hr> 
  
@@ -26,15 +26,89 @@ Coursework
 <p>
 
 
-The best way to understand what operating systems <i>do</i>
-is to roll up your sleeves, get your hands dirty, and work with one.
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Official Textbook</b>
+</big><br>
 <p>
-Consequently, we will emphasize
-programming projects:
-working on top of operating systems...and then building your own.
+Silberschatz, Galvin, and Gagne.
+<cite>Operating System Concepts.</cite>
+Eigth Edition, 2009. (Yes, that's what the book says.)  John Wiley.
 <p>
-We will also have some more traditional homework
-assignments; but the main learning tool is the programming.
+
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Useful References</b>
+</big><br>
+<p>
+<ul>
+<li> B. Kernighan and D. Ritchie. 
+<cite>The C Programming Language (2nd Edition).</cite>
+Prentice-Hall, 1988.
+<li> B. Nichols, D. Buttlar and J. Farrell. 
+<cite>Pthreads Programming.</cite>
+O'Reilly, 1996.
+<li>Stevens and Rago.
+<cite>Advanced Programming in the UNIX Environment.</cite>
+Addison-Wesley, 2005 (2nd edition).
+</ul>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Other Books</b>
+</big><br>
+<p>
+<ul>
+<li>
+M. Beck, et al.
+<cite>Linux Kernel Programming (3rd Edition).</cite>
+Addison-Wesley, 2002.
+<li>
+D. Bovet and M. Cesati.
+<cite>Understanding the Linux Kernel (3rd Edition).</cite>
+O'Reilly, 2005.
+<li> 
+<a name="brooks">F. Brooks.</a>
+<cite>The Mythical Man-Month (Anniversary Edition).</cite>
+Addision-Wesley, 1995.
+<li>
+<a name="kp">B. Kernighan and R. Pike.</a>
+<cite>The Practice of Programming.</cite> 
+Addison-Wesley. 1999.
+<li>
+McDougall and Mauro.
+<cite>Solaris Internals: Solaris 10 and OpernSolaris Kernel Architecture
+(2nd Edition).</cite>
+Prentice Hall, 2006.
+<li>
+A. Oram and M. Loukides.
+<cite>Programming with GNU Software.</cite>
+O'Reilly, 1995.
+<li>
+B. Schneier
+<cite>Applied Cryptography (2nd Edition).</cite>
+Wiley, 1996.
+<li>
+A. Tanenbaum.
+<cite>Computer Networks (4th Edition).</cite>
+Prentice-Hall.
+<li>
+A. Tanenbaum.
+<cite>Modern Operating Systems (2nd Edition).</cite> 
+Prentice-Hall, 2001.
+(The substantially different first edition is also useful.)
+</ul>
 
 <p>
 
@@ -43,142 +117,189 @@ assignments; but the main learning tool is the programming.
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<a name="programming"><b>Homework and Programming Projects</b></a>
+<b>UNIX and Linux</b>
 </big><br>
 
 <p>
-In this course, we'll be doing some small programming projects
-that work with operating systems concepts---processes, threads,
-synchronization---from the <i>outside</i>.
-We'll also do regular homework, that will consist of 
-"thought" problems, on paper.
-<p>
-But then we'll do a large project
-from the <i>inside</i>:  where we build an entire
-operating system for a simulated machine.
-<p>
-This is going to be cool.  Everything comes together, and you 
-get that amazing feeling where it all suddenly makes sense.
-<p>
 
-<hr>
-<h4>A Word of Caution</h4>
-
-Systems programming is complex.
-(Why do you think Windows crashes so often?)
-<p>
-Unlike a basic programming class,
-this is not the sort of thing where you can run three test
-cases and get full marks.
-To prepare you for the real world, we will
-be doing more exhaustive testing,
-as well as continuing to 
-stress 
-things like cleanliness of design and clarity of code.
-<p>
-But the end result will be:
-you'll be a more highly skilled software engineer,
-ready for advanced work and the real world.
-
-<hr>
-<h4>Alone and Together</h4>
-
-You will do the initial programming assigments alone, so
-everyone comes up to speed.
-<p>
-However, you'll do the big project in a team of three.
-So, when you're doing the initial ones alone, think about
-finding good team members.  Be sure to consider mundane criteria such as
-who spends time in the lab the same time you do.
-
-<hr>
-<h4>OS Tool</h4>
-
-For the big OS project, 
-we will use the <cite>Yalnix</cite> tool.
-(The name is a Texas pun on "Unix.")  
-<P>
-Yalnix consists of:
+Tools:
 <ul>
-<li> a support library and build environment that 
-lets you write kernel-level code for a simulated machine,
-but it run it all (with relatively good performance) as a user-level
-process on an 005 Linux machine
-<li> specifications for an operating system 
-that you will write for this simulated machine
-</ul>
-
-<hr>
-<h4>Why Yalnix?</h4>
-For many years, this course had used the Nachos instructional tool
-from Berkeley.  However, many students found it a bit unwieldy.
-So... I looked into alternatives, and discovered Yalnix,
-origininally developed by Dave Johnson, and used at CMU, Rice, Utah,
-and Chicago.  Throughout the Internet,
-students  gave Nachos mixed reviews; but students who had used Yalnix
-were uniformly positive.
+<li> From your Linux account, you can access manual pages for most commands 
+and functions with the <tt>man</tt> command, e.g.
+<pre>
+    man getpid
+</pre>
+will tell you about the <tt>getpid( )</tt> system call.
+For an alternative interface, check out <tt>xman</tt>.
 <p>
-In the summer of 2001,
-with help from Dave Johnson and Evan Knop '01,
-I ported Yalnix (written for Solaris/SPARC) to
-run on Linux/x86.
-John Konkle and Tim Tregubov then
-helped upgrade the Sudikoff machines so that they could run it.
+If you don't know what the command is, 
+<tt>man -k</tt>
+lets you look up manpages by keyword.  
+In the response, the numbers in parens indicate section
+numbers; use <tt>man -S</tt> to specify section.
+<li> I also recommend <tt>a2ps</tt> for printing source code.
+Getting lots of code on one page makes it easier to see the flow
+(if your eyes can handle it).  
+However, be warned that recent Linux installations default
+to A4 paper; you can handle that by 
+<pre>
+    a2ps --medium=letter
+</pre>
+<li> Life is much easier if you use an editor that recognizes
+your syntax, and highlights and indents appropriately. 
 <p>
-
-<hr>
-<h4>Language</h4> 
-This course will use the C programming language.  This is for two
-main reasons:
-<ul>
-<li> C is still one of the dominant languages for OS construction.
-E.g., you'll need to be able to work with C, if you want to read
-and add to the Linux kernel.
-<li> As a high-level language that does very little magic
-"under the covers," C is appropriate for a course whose purpose
-is shedding light on what happens under those covers.
+I like 
+<tt>emacs</tt>.  (There are various X-enhanced versions around.)
+But your mileage may vary.
 </ul>
 <p>
-If you need help getting used to 
-C,  <tt>malloc</tt> and <tt>free</tt>,
-we might be running a help session early in the course.
+ Dartmouth CS has an <a href="http://www.cs.dartmouth.edu/unix/"><b>introduction to Unix</b></a> 
+site.
+<p>
+ ATT has an interesting site on the 
+<a href="http://www.bell-labs.com/history/unix/">
+<b>history of Unix.</b></a></li>
+<p>
+Bovet and Cesati's book (above)
+is a good introduction
+to the internal structure of Linux.
+<p>
+Stevens
+is a good desktop reference for heavy-duty systems programming.
+<p>
+Here is a site with
+<a href="http://lxr.linux.no/source/"><b>browsable Linux source</b></a>.
+If you want to know which one to look up...
+you can use <tt>uname -a</tt> to figure out the version and architecture
+running on a particular machine.
 
 <hr>
 <p> 
  
 <big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
 
-<b>Grading</b>
+<b>GNU Tools</b>
 </big><br>
 <p>
-Here's what I'm thinking:
-<ul>
-<li> small programming projects and Yalnix checkpoints: 20%
-<li> the Yalnix project: 30%
-<li> final exam: 30%
-<li> midterm:   20%
-</ul>
-(This is subject to change.)
-<p>
-<strong>Note again: this is subject to change.  At my discretion, I may accord a significant chunk of credit to class participation: showing up most of the time.</strong>
 
+<cite>Programming with GNU Software</cite> (above)
+is a good reference book, with a chapter
+on each of the major tools: <tt>gcc</tt>, <tt>gdb</tt>, etc.
 <p>
-Historically, I've tended to give exams and major projects
-where:
+
+On-line resources:
 <ul>
-<li> It's very difficult to score 90%
-<li> but the median grade ends up a B+.  Or maybe even higher.
+<li> <a href="http://gcc.gnu.org/onlinedocs/gcc-4.1.2/gcc/"><b>gcc</b></a>
+<li> <a href="http://sources.redhat.com/gdb/current/onlinedocs/gdb.html"><b>gdb</b></a>
+<li> <a href="http://www.gnu.org/software/make/manual/make.html"><b>make</b></a>
+<li> <a href="http://www.gnu.org/software/libc/manual/"><b>glibc</b></a>
 </ul>
 <p>
-In other words: I'm going to try to make this challenging enough
-so you grow your mind...  but don't worry about the grade;
-work hard and have fun with the material!  
+(See also
+<a href="http://www.cs.dartmouth.edu/~dwagn/cs58/tutorial/"><b>Dave's
+C/GDB tutorial</b></a>)
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>glibc</b>
+</big><br>
 <p>
-<strong>You're going to build an operating system.
-Seeing all perspectives, you're going to understand operating systems.
-It's all going to come together.</strong>
+
+You can find the source to the currently installed glibc 
+on kancamagus, at /usr/src/debug/glibc-20071017T2029.  (Well, that's current, as of this writing.)
+<p>
+In theory, if you link to the debug version (via -static -L/usr/lib/debug/usr/lib), then you can use gdb to see what happens in your library calls.   (But you'll have to use the dir command in gdb to tell it to where to look for the source.)
+<p>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Threads</b>
+</big><br>
+<p>
+
+<cite>Pthreads Programming</cite> (above)
+is an excellent guide to 
+to the POSIX threads package.
+<p>
+
+<a name="birrell">Andrew Birrell's</a>
+<cite>"An Introduction to Programming with
+  Threads"</cite> is a classic paper full of much good wisdom.
+<A HREF="SRC-035.ps"><b>ps</b></A>,
+<A HREF="SRC-035.pdf"><b>pdf</b></A>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Security</b>
+</big><br>
+
+<p>
+A nice (and free) guide to cryptography:
+<a name="rsafaq">
+RSA Laboratories.
+<cite>Frequently Asked Questions about Today's Cryptography.</cite>
+Version 4.1. May 2000.  
+<a href="rsalabs_faq41.pdf"><b>(pdf---with internal links)</b></a>
+</a>
+<p>
+<a href="http://catless.ncl.ac.uk/Risks/"><b>The Risks Digest</b></a>
+<p>  
+<a href="http://www.securityfocus.com/"><b>SecurityFocus</b></a>
+(where BugTraq comes from)
+<p>
+<a href="http://www.cert.org/"><b>CERT</b></a>
+(US gov't-funded security response center at CMU)
+<p>
+<a href="http://www.cs.dartmouth.edu/~sws/wazzu/"><b>my wazzu collection</b></a>
+
+<p>
 
 
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Misc</b>
+</big><br>
+<p>
+
+<a name="lampson">
+B. Lampson.</a>
+"Hints for Computer System Design."
+<cite>9th ACM Symposium on Operating Systems Principles.</cite>
+1983. <b><a href="lampson.pdf">PDF</a></b>
+<p>
+
+<b><a href="ascii.html">ASCII</a></b>
+<p>
+<A HREF="http://foldoc.doc.ic.ac.uk/foldoc/contents.html"><b>Brighton Computing Dictionary</b></a>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>C</b>
+</big><br>
+
+The Kernighan and Ritchie book is the standard desktop reference.
+<p>
+
+<a href="http://www-h.eng.cam.ac.uk/help/tpl/languages/C/teaching_C/"><b>Tim Love's guide</b></a>
+
+<p>
+<a href="http://www.cs.dartmouth.edu/~dwagn/cs58/tutorial/"><b>Dave's
+C/GDB tutorial</b></a>
 
 <p> 
  
@@ -186,7 +307,7 @@ It's all going to come together.</strong>
 <b> 
 <IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
 
-<A HREF="/~cs58/"><b>Back to CS58 Home Page</b></A>
+<A HREF="/~cs58/"><b>Back to  C58 Home Page</b></A>
 </b> 
 &nbsp;&nbsp;&nbsp; 
 <a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
@@ -197,3 +318,5 @@ It's all going to come together.</strong>
  
 
 </body> </html>
+
+rmanyi

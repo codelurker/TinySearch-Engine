@@ -1,45 +1,36 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR2007-594
+http://www.cs.dartmouth.edu/reports/abstracts/TR2004-510
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth TR2007-594 </TITLE>
-<META NAME="description" CONTENT="Exploring the Integration of Memory Management and Trusted Computing">
-<META NAME="number" CONTENT="TR2007-594">
-<META NAME="year" CONTENT="2007">
-<META NAME="title" CONTENT="Exploring the Integration of Memory Management and Trusted Computing">
-<META NAME="abstract" CONTENT=" This thesis addresses vulnerabilities in current Trusted Computing
-architecture by exploring a design for a better Trusted Platform
-Module (TPM); one that integrates more closely with the CPU's Memory
-Management Unit (MMU). We establish that software-based attacks on
-trusted memory can be carried out undetectably by an adversary on
-current TCG/TPM implementations. We demonstrate that an attacker with
-sufficient privileges can compromise the integrity of a TPM-protected
-system by modifying critical loaded code and static data after
-measurement has taken place. More specifically, these attacks
-illustrate the Time Of Check vs. Time of Use (TOCTOU) class of
-attacks.
-
- We propose to enhance the MMU, enabling it to detect when memory
-containing trusted code or data is being maliciously modified at
-run-time. On detection, it should be able to notify the TPM of these
-modifications. We seek to use the concepts of selective memory
-immutability as a security tool to harden the MMU, which will result
-in a more robust TCG/TPM implementation. To substantiate our ideas for
-this proposed hardware feature, we designed and implemented a software
-prototype system, which employs the monitoring capabilities of the Xen
-virtual machine monitor.
-
- We performed a security evaluation of our prototype and validated
-that it can detect all our software-based TOCTOU attacks. We applied
-our prototype to verify the integrity of data associated with an
-application, as well as suggested and implemented ways to prevent
-unauthorized use of data by associating it with its owner process. Our
-performance evaluation reveals minimal overhead.
-">
-<META NAME="author" CONTENT="Nihal A. D'Cunha">
+<TITLE> Dartmouth TR2004-510 </TITLE>
+<META NAME="description" CONTENT="Greenpass RADIUS Tools for Delegated Authorization in Wireless Networks">
+<META NAME="number" CONTENT="TR2004-510">
+<META NAME="year" CONTENT="2004">
+<META NAME="title" CONTENT="Greenpass RADIUS Tools for Delegated Authorization in Wireless Networks">
+<META NAME="abstract" CONTENT="   Dartmouth's Greenpass project extends how public key cryptography can be used 
+to secure the wireless LAN with a RADIUS (Remote Authentication Dial In User 
+Service) server that is responsible for handling authentication requests from 
+clients (called supplicants in the 802.1x authentication model).  This thesis 
+describes the design and implementation of the authentication process of 
+Greenpass, specifically what decisions are made in determining who is granted 
+access and how a small modification of already existing protocols can be used 
+to provide guest access in a way that better reflects how delegation of 
+authority works in the real world.  
+	Greenpass takes advantage of the existing PKI to authenticate local 
+Dartmouth users via X.509 identity certificates using EAP-TLS.  We use the 
+flexibility of SPKI/SDSI (Simple Public Key Infrastructure/Simple Distributed 
+Security Infrastructure) authorization certificates to distribute the 
+responsibility of delegating access to guests to certain authorized delegators, 
+avoiding some of the necessary steps and paperwork associated with having a 
+large centralized entity responsible for the entire institution.  This thesis 
+also discusses how our solution can be adapted to support different methods of 
+guest delegation and investigates the possibility of eliminating the 
+cumbersome central entity and administrative overhead traditionally 
+associated with public key cryptography.  ">
+<META NAME="author" CONTENT="Sung Hoon Kim">
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 <!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
@@ -133,67 +124,57 @@ performance evaluation reveals minimal overhead.
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> Exploring the Integration of Memory Management and Trusted Computing </b></font><br>
+<font size=+2><b> Greenpass RADIUS Tools for Delegated Authorization in Wireless Networks </b></font><br>
 <font size=+1><b>
- <A HREF="../../authors/DCunha,Nihal.A..shtml">Nihal A. D'Cunha</A>
+ <A HREF="../../authors/Kim,Sung.Hoon.shtml">Sung Hoon Kim</A>
 <br>
-Dartmouth TR2007-594
+Dartmouth TR2004-510
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
 </P><P>
- This thesis addresses vulnerabilities in current Trusted Computing
-architecture by exploring a design for a better Trusted Platform
-Module (TPM); one that integrates more closely with the CPU's Memory
-Management Unit (MMU). We establish that software-based attacks on
-trusted memory can be carried out undetectably by an adversary on
-current TCG/TPM implementations. We demonstrate that an attacker with
-sufficient privileges can compromise the integrity of a TPM-protected
-system by modifying critical loaded code and static data after
-measurement has taken place. More specifically, these attacks
-illustrate the Time Of Check vs. Time of Use (TOCTOU) class of
-attacks.
-
+   Dartmouth's Greenpass project extends how public key cryptography can be used 
+to secure the wireless LAN with a RADIUS (Remote Authentication Dial In User 
+Service) server that is responsible for handling authentication requests from 
+clients (called supplicants in the 802.1x authentication model).  This thesis 
+describes the design and implementation of the authentication process of 
+Greenpass, specifically what decisions are made in determining who is granted 
+access and how a small modification of already existing protocols can be used 
+to provide guest access in a way that better reflects how delegation of 
+authority works in the real world.  
 </P><P>
- We propose to enhance the MMU, enabling it to detect when memory
-containing trusted code or data is being maliciously modified at
-run-time. On detection, it should be able to notify the TPM of these
-modifications. We seek to use the concepts of selective memory
-immutability as a security tool to harden the MMU, which will result
-in a more robust TCG/TPM implementation. To substantiate our ideas for
-this proposed hardware feature, we designed and implemented a software
-prototype system, which employs the monitoring capabilities of the Xen
-virtual machine monitor.
-
-</P><P>
- We performed a security evaluation of our prototype and validated
-that it can detect all our software-based TOCTOU attacks. We applied
-our prototype to verify the integrity of data associated with an
-application, as well as suggested and implemented ways to prevent
-unauthorized use of data by associating it with its owner process. Our
-performance evaluation reveals minimal overhead.
-
+	Greenpass takes advantage of the existing PKI to authenticate local 
+Dartmouth users via X.509 identity certificates using EAP-TLS.  We use the 
+flexibility of SPKI/SDSI (Simple Public Key Infrastructure/Simple Distributed 
+Security Infrastructure) authorization certificates to distribute the 
+responsibility of delegating access to guests to certain authorized delegators, 
+avoiding some of the necessary steps and paperwork associated with having a 
+large centralized entity responsible for the entire institution.  This thesis 
+also discusses how our solution can be adapted to support different methods of 
+guest delegation and investigates the possibility of eliminating the 
+cumbersome central entity and administrative overhead traditionally 
+associated with public key cryptography.  
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-M.S. Thesis.  Advisor: Sean Smith.
+Masters thesis.  Advisor: Sean Smith
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR2007-594.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (556KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR2004-510.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (7936KB)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR2007-594.ascii">plain text</a>]
-  [<a href="TR2007-594.bib">BIB</a>]
-  [<a href="TR2007-594.bibtex">BibTeX</a>]
-  [<a href="TR2007-594.refer">Refer</a>]
+  [<a href="TR2004-510.ascii">plain text</a>]
+  [<a href="TR2004-510.bib">BIB</a>]
+  [<a href="TR2004-510.bibtex">BibTeX</a>]
+  [<a href="TR2004-510.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
-Nihal A. D'Cunha, 
-"Exploring the Integration of Memory Management and Trusted Computing."
-Dartmouth Computer Science Technical Report TR2007-594,
-May 2007.
+Sung Hoon Kim, 
+"Greenpass RADIUS Tools for Delegated Authorization in Wireless Networks."
+Dartmouth Computer Science Technical Report TR2004-510,
+June 2004.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->
@@ -224,3 +205,4 @@ explicit permission of the copyright holder.
 
 </BODY>
 </HTML>
+i

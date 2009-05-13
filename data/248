@@ -1,174 +1,58 @@
-http://www.cs.dartmouth.edu/~tanzeem/press/press.html
+http://www.cs.dartmouth.edu/~farid/research/animation.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<html>
 <head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-
-  
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<!-- #BeginEditable "doctitle" -->
-
-
-  
-
-
-
-  
-  <title>Press</title>
-<!-- #EndEditable -->
-  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
-
-
-  
-  <style type="text/css">
-.style1 {
-color: #006699;
-}
-  </style>
+<title> Animation </title>
 </head>
-
-
-<body>
-
-
-<!-- Begin Container -->
-<div id="container"><!-- Begin Masthead -->
-<div id="masthead">
-<h1><a href="#">Tanzeem Choudhury</a></h1>
-
-
-<h3>Assistant Professor</h3>
-
-
-<h4>Computer Science, Dartmouth College</h4>
-
-
-</div>
-
-
-<!-- End Masthead --><!-- Begin Navigation -->
-<div id="navigation">
-<ul>
-
-
-  <li><a href="../index.html">About</a></li>
-
-
-  <li><a href="../pubs/pubs.html">Publications</a></li>
-
-
-  <li><a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a></li>
-
-
-  <li><a href="../students/students.html">Students</a></li>
-
-
-  <li><a href="../teaching/teaching.html">Teaching</a></li>
-
-
-  <li><a href="press.html">Press</a></li>
-
-
-  <li><a href="../links/links.html">Links</a></li>
-
-
-  <li><a href="../contact/contact.html">Contact</a></li>
-
-
-</ul>
-
-
-</div>
-
-
-<!-- End Navigation --><!-- Begin content_container -->
-<div id="content_container"><!-- Begin Left Column -->
-<div id="column_left"><!-- #BeginEditable "content" -->
-<ul>
-
-
-  <li>Northwestern University Media Management Center blog. 2009.
-&nbsp;<a href="http://www.mediainfocenter.org/MMCDigiMe/index.asp">What
-if News is Searched for You?</a></li>
-
-
-  <li>National Science Foundation. 2009. &nbsp;<a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494"><span class="pageheadline">Computer Science--A Growing Field That
-Needs a Few (More) Good Women</span></a></li>
-
-
-  <li><span class="pageheadline">Dartmouth.com.
-2008. <a href="http://thedartmouth.com/2008/09/25/news/tech/">Choudhury
-Honored for Tech Research</a><br />
-
-
-    </span></li>
-
-
-  <li>MIT Technology Review. 2008. <a href="http://www.technologyreview.com/Infotech/20844/page1/">
-The Future of Mobile Social Networking</a></li>
-
-
-  <li>MIT Technology Review. 2007. <a href="http://www.technologyreview.com/Infotech/19196/">Making
-Phones Polite</a></li>
-
-
-  <li>MIT Technology Review. 2007. <a href="http://www.technologyreview.com/Infotech/18990/">The
-iPhones Untapped Potential</a></li>
-
-
-  <li>MIT Technology Review. 2007. <a href="http://www.technologyreview.com/Infotech/19185/">
-Keeping Gadets from Interrupting</a></li>
-
-
-  <li>Business + Strategy. 2007. <a href="http://www.strategy-business.com/press/article/07307?pg=all">
-The Science of Subtle Signals</a></li>
-
-
-  <li>CNET news. 2007. <a href="http://www.news.com/2300-1008_3-6192284-1.html">Intel's
-Science Fair</a></li>
-
-
-  <li>Scientific American Frontiers: <a href="http://www.pbs.org/saf/1309/features/digital2.htm">
-Digital World</a>. 2003.</li>
-
-
-  <li>BBC documentary: Tomorrow's World. Memory Glasses featuring
-my wearable face recognition project. Aired May 10, 2000 on BBC1<br />
-
-
-    <br />
-
-
-  </li>
-
-
-</ul>
-
-
-<!-- #EndEditable --></div>
-
-
-<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
-<div id="footer">
-<p><a href="../index.html">About</a> |
-<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a>
-| <a href="../students/students.html">Students</a>
-|
-<a href="../teaching/teaching.html">Teaching</a> |
-<a href="press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
-
-
-</div>
-
-
-<!-- End Footer --></div>
-
-
-<!-- End content_container --></div>
-
-
-<!-- End Container -->
-</body>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top> 
+<b> Animation </b>
+<BR>
+<p>
+We are interested in finding low-dimensional representations of
+complex human motions.  For example, each frame of the 3-D motion
+sequence shown to the right can be described by a 36-dimensional
+vector (12 joints, each with X,Y,Z values).  
+
+<BR><BR>
+
+We have been developing computational techniques for reducing the
+dimensionality of this data into a lower and perceptually meaningful
+space.  In this example, we are able to find a one-dimensional
+representation that corresponds to the inherent one-dimensional nature
+of the motion.
+
+<BR><BR>
+
+<i>(Collaborative work with Fred Henle and <a
+href="http://www.cs.duke.edu/~brd"> Bruce Donald</a>)</i>
+
+<td>&nbsp&nbsp</td>
+
+<td valign=top> <BR><BR><img src="jump.gif" alt="alternative text"> 
+
+</tr>
+</table>
+<BR>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=right>
+	<font size=-1><i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	<a href="research.html"> Research</a> 	
+	</i></font>
+</td>
+</tr>
+</table>
 </html>
-ni
+

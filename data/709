@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
+http://www.cs.dartmouth.edu/%7Ecampbell/cs78/assignments.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -11,6 +11,54 @@ http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -28,6 +76,30 @@ http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
@@ -36,7 +108,31 @@ http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
   
   
   
-  <title>resources</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>assignments</title>
 </head>
 
 
@@ -49,7 +145,6 @@ http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
 
 
 
-<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big>Computer Science 78<br>
 
 
 
@@ -61,187 +156,394 @@ http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
 
 
 
-<span style="font-weight: bold;">resources</span></big></big></big></big><big><big style="font-family: Arial;"><big><big><span style="font-weight: bold;">
-</span></big></big></big></big>
-<h2 style="font-weight: normal;"><small><small>There are a number of useful links for networking and programming resources on this page.&nbsp;</small></small></h2>
 
 
-<h2><small><small style="font-weight: normal;">Feel free to send me addition URLs to link in.</small></small><br>
 
 
-<span style="font-family: Times New Roman,Times,serif;"></span></h2>
 
 
-<h2><span style="font-family: Times New Roman,Times,serif;">Networking Reources</span></h2>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">History, IETF, etc.</span></h2>
 
 
-<a href="http://www.isoc.org/internet/history/brief.shtml">A Brief History of the Internet</a><br>
+
+
+
+<big><big style="font-family: Arial;"><big><big>Computer Science 78<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: bold;">lab assignments -&nbsp; hacking, part II.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></big></big></big></big><br style="font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><big style="font-weight: bold;">Lab&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Assigned
+Date&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+Dute Date</big><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp; </span><span style="font-family: Times New Roman,Times,serif;"><span style="text-decoration: underline;"></span></span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><span style="text-decoration: underline;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></span><a href="lab1.html"><span style="font-family: Times New Roman,Times,serif;">Lab1 - Packet sniffing</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Monday</span><span style="font-family: Times New Roman,Times,serif;"> March&nbsp; 30&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Friday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 3 &nbsp;(12 midnight)&nbsp; </span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 
-<a href="http://www.ietf.org/">Internet Engineering Task Force (IETF)</a> Sets protocols and publishes <a href="http://www.ietf.org/rfc.html">Requests for Comment (RFCs)</a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"></span><a href="lab2.html"><span style="font-family: Times New Roman,Times,serif;">Lab2 - Reverse engineering sockets</span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab2.html">: a puzzle</a> &nbsp;&nbsp;&nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Friday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 3 </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sunday, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 12 </span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
 
 
 <br>
 
 
-<a href="http://en.wikipedia.org/wiki/Internet">http://en.wikipedia.org/wiki/Internet</a><br>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Transport Protocols</span></h2>
 
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc793.htm">RFC 793 (rfc793) - Transmission Control Protocol (TCP)</a><br>
 
 
-<br>
 
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc768.html">RFC 768 (rfc768) - User Datagram Protocol (UDP)</a><br>
 
-<br>
 
-<a href="http://www.ietf.org/rfc/rfc3550.txt">RTP: A Transport Protocol for Real-Time Applications</a>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">IP Protocols</span></h2>
 
 
-<a href="http://www.rfc-editor.org/rfc/rfc791.txt">Internet Protocol (IP)</a><br>
 
 
-<a href="http://www.rfc-editor.org/rfc/rfc792.txt"><br>
 
 
-Internet Control Message Protocol (ICMP)</a><br>
 
+</span><a href="lab3.html"><span style="font-family: Times New Roman,Times,serif;">Lab3 - IM application</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Monday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 13 </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; Sunday, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 19 &nbsp;(</span><span style="font-family: Times New Roman,Times,serif;">12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Routing Protocols</span></h2>
 
 
-<a href="http://www.ietf.org/rfc/rfc2328.txt">OSPF Version 2</a><br>
 
 
-<br>
 
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1771.html">RFC 1771 (rfc1771) - A Border Gateway Protocol 4 (BGP-4)</a><br>
 
 
-<br>
 
 
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc2453.html">RFC 2453 (rfc2453) - Routing Information Protocol (RIP) Version 2</a><a href="http://www.rfc-editor.org/rfc/rfc792.txt"></a><br>
 
 
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Some Applications we'll look at:</span></h2>
 
-
-<a href="http://www.ietf.org/rfc/rfc2616.txt">Hypertext Transfer Protocol -- HTTP/1.1</a><br>
-
-<br>
-
-<a href="http://www.faqs.org/rfcs/rfc821.html">RFC821 - Simple Mail Transfer Protocol (SMTP)</a><br>
-
-
-<br>
-
-<a href="http://www.ietf.org/rfc/rfc1939.txt">Post Office Protocol - Version 3</a><br>
-
-<br>
-
-<a href="http://james.apache.org/server/rfclist/imap4/rfc2060.txt">Internet Message Access Protocol, Version 4rev1 (IMAP4rev1)</a><a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1035.html"><br>
-
-</a>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Plumbing:</span></h2>
-
-<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1035.html">RFC 1035 (rfc1035) - Domain names - implementation and specification</a><br>
-
-
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Link layer:</span></h2>
-
-
-<a href="http://en.wikipedia.org/wiki/Data_link_layer">http://en.wikipedia.org/wiki/Data_link_layer</a><br>
-
-
-<span style="font-style: italic;"><br>
-
-
-</span><a href="http://en.wikipedia.org/wiki/IEEE_802.11">Wi-Fi - aka IEEE 802.11</a><br>
-
-
-<br>
-
-
-<a href="http://standards.ieee.org/getieee802/802.11.html">The IEEE 802.11 Specification</a><span style="font-style: italic;"><span style="font-style: italic;"></span></span>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Papers we will read:</span></h2>
-
-
-Bram Cohen's <a href="http://bittorrent.org/bittorrentecon.pdf">Incentives Build Robustness in BitTorrent</a><br>
-
-
-<br>
-
-
-David Clark's <a href="http://portal.acm.org/citation.cfm?id=52336">The design philosophy of the&nbsp; DARPA internet protocol</a>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Tools we'll use:</span></h2>
-
-
-<a href="http://www.wireshark.org/">Wireshark for packet sniffing</a><br>
-
-
-<br>
-
-
-<a href="http://www.faqs.org/rfcs/rfc1393.html">Traceroute</a><a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html"></a>
-<h2><span style="font-family: Times New Roman,Times,serif;">Programming Resources </span></h2>
-
-
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Linux books/links</span></h2>
-
-
-
-
-
-
-
-These books two available online to Dartmouth Students<br>
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><a href="http://proquest.safaribooksonline.com/0596100795">Linux in a Nutshell, 5th edition (currently not available)</a><br>
-
-
-
-
-
-
-
-</span>
 <span style="font-family: Times New Roman,Times,serif;"><br>
 
 
 
 
 
-The book I really wanted to list here Running Linux, 5th edition does
-not seem to be available on Safari Books yet. I've not used this book
-but looks useful. It includes many advanced issues we will not cover
-but it could be a useful reference. Let me know.<br>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+</span><a href="lab4.html"><span style="font-family: Times New Roman,Times,serif;">Lab4 - DartNet: Simple Reliable Transport (SRT-SIG)</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Monday,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> April&nbsp; 20</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sunday</span><span style="font-family: Times New Roman,Times,serif;">, April&nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> 28 &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><a href="lab5.html"><span style="font-family: Times New Roman,Times,serif;">Lab5 - DartNet: Simple Reliable Transport (SRT-GBN)</span></a><span style="font-family: Times New Roman,Times,serif;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Monday </span><span style="font-family: Times New Roman,Times,serif;">,&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">April&nbsp; 27</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;Sunday, &nbsp;May 3</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
 
 
 <br>
@@ -250,33 +552,124 @@ but it could be a useful reference. Let me know.<br>
 
 
 
-<a href="http://proquest.safaribooksonline.com/0596009585">Linux System Programming</a><br>
 
 
 
 
 
 
-<span style="font-weight: bold;"><br>
 
 
 
-</span><a href="http://www.linuxdevcenter.com/lpt/a/6109">What Is the X Window System</a>, from O'Reilly's linux devcenter.com<br>
-
-
-<br>
-
-
-<a href="http://www.computerhope.com/unix.htm#04">Unix commands on the web</a><br>
 
 
 
 </span>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">X and C</span></h2>
 
 
 
-<span style="font-family: Times New Roman,Times,serif;"><a href="http://developer.apple.com/opensource/tools/runningx11.html">Configuring and Running X11 Applications on Mac OS X</a><br>
+
+
+
+
+<a href="lab6.html"><span style="font-family: Times New Roman,Times,serif;">Lab6 - DartNet: Overlay Network </span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab6.html">(ON)</a>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Monday, May 4</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Sunday, May 10</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp;</span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><a href="lab7.html"><span style="font-family: Times New Roman,Times,serif;">Lab7 - DartNet: Simple Network Protocol</span></a><span style="font-family: Times New Roman,Times,serif;"><a href="lab7.html">
+(SNP)</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Monday, May 11</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family: Times New Roman,Times,serif;"> &nbsp; &nbsp; &nbsp;Sunday, &nbsp;May&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">17 </span><span style="font-family: Times New Roman,Times,serif;">(12&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">midnight</span><span style="font-family: Times New Roman,Times,serif;">)&nbsp; </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is an initial schedule that might change. You will be informed in advance if that is the case. All assignments<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are due at 12 midnight.<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -284,80 +677,72 @@ but it could be a useful reference. Let me know.<br>
 
 
 
-<a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs23/putty-cygwin-tutorial.pdf">PuTTY/Cygwin Tutorial</a><br>
 
 
 
-<br>
 
 
 
-<a href="http://www.cs.dartmouth.edu/%7Ewbc/suditour/001/index.html">Sudikoff Lab 101 tour</a><br>
 
 
 
-<br>
+
+
+As part of getting you to complete we allow the weekend to work on the labs. Typically labs are given out at <br>
 
 
 
-<a href="http://www.cs.dartmouth.edu/%7Echris/cs23/tedjensen/">A Tutorial on Pointers and Arrays in C, by Ted Jensen</a><br>
 
 
 
-<br>
 
 
 
-<a href="http://en.wikipedia.org/wiki/C_programming_language">The Wikipedia entry for the C programming language</a><br>
 
 
 
-<br>
+
+
+Monday @ class and due at midnight on Sunday. There are TA hours on Wednesday, Saturday, <br>
 
 
 
-<a href="http://groups.google.com/group/comp.lang.c/browse_frm/thread/1ce1b07f3725e0c7?q=%22Why+is+C+good%3F%3F%3F%22&amp;hl=en&amp;pli=1">The USENET discussion Why is C good?</a><br>
 
 
 
-<br>
 
 
 
-C Programming Notes, by Steve Summit (Experimental College, University of Washington)<br>
 
 
 
-&nbsp;&nbsp;&nbsp; <a href="http://www.cs.dartmouth.edu/%7Echris/cs23/summit-intro/">Introductory C Programming, chapters 1-14</a><br>
+
+and Sunday in support of these assignments. You can mail the TA anytime - he is mostly always around<br>
 
 
 
-&nbsp;&nbsp;&nbsp; <a href="http://www.cs.dartmouth.edu/%7Echris/cs23/summit-intermediate/">Intermediate C Programming, chapters 15-25</a><br>
 
 
 
-<br>
 
 
 
-A list of <a href="http://cplus.kompf.de/posixlist.html">POSIX Library Functions</a><br>
 
 
 
-<br>
+
+and available.<br>
 
 
 
-To obtain further details about any function listed here, on the
-Sudikoff lab computers type&nbsp;&nbsp;&nbsp;&nbsp; man functionname<br>
 
 
 
-<br>
 
 
 
-<a href="http://www.cs.dartmouth.edu/%7Echris/cs23/make-documentation/">GNU make</a><br>
+
+
 
 
 
@@ -365,79 +750,82 @@ Sudikoff lab computers type&nbsp;&nbsp;&nbsp;&nbsp; man functionname<br>
 
 
 
-<a href="http://www-mrsrl.stanford.edu/%7Ebrian/cvstutorial/">cvs</a><br>
 
 
 
-</span>
-<h2 style="font-weight: normal; font-style: italic;"><span style="font-family: Times New Roman,Times,serif;">Editors</span></h2>
 
 
 
-<span style="font-family: Times New Roman,Times,serif;">I recommend, emacs or vi or vim - up to you.<br>
 
 
 
-<br>
+
+
+Labs 4-7 are the DartNet set. As part of Lab7 you build the overlay network with SRT and SNP and then run your IM app<br>
 
 
 
-I use <a href="http://aquamacs.org/">Aquamacs Emac </a>on my mac<br>
 
 
 
-<br>
 
 
 
-I also like <a href="http://www.vim.org/">gvim</a><br>
 
 
 
-<br>
+
+
+over the network. This is challenging and very cool once you get it working. In essence you have bult a simplified internet<br>
 
 
 
-or just type vi or emacs at the command line. <br>
 
 
 
-<br>
 
 
 
-Some&nbsp;tutorials:<br>
 
 
 
-<br>
+
+
+stack. Now is that cool!<br>
 
 
 
-</span><span style="font-family: Times New Roman,Times,serif;"><a href="http://www2.lib.uchicago.edu/keith/tcl-course/emacs-tutorial.html">Emacs Tutorial</a><br>
 
 
 
-<br>
 
 
 
-<a href="http://blog.interlinked.org/tutorials/vim_tutorial.html">vim Tutorial</a><br>
+&nbsp;<br>
 
 
 
-<br>
 
 
 
-</span><span style="font-family: Times New Roman,Times,serif;"><a href="http://www.eng.hawaii.edu/Tutor/vi.html">vi tutorial</a> <br>
 
 
-</span>
-<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Socket Programming:</span></h2>
+You will write approximately 3000 lines of C code for the assignments and 3500 lines&nbsp;for the group <br>
 
 
-<a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html">Socket programming</a><br>
+
+
+
+
+
+
+project (shared between the group members). </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Note, there is some code reuse for the DartNet set of labs.</span><br>
+
+
+
+
+
+
 
 
 <span style="font-family: Times New Roman,Times,serif;">
@@ -445,14 +833,151 @@ Some&nbsp;tutorials:<br>
 
 
 
-</span><br>
 
 
 
 
 
 
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><big><big style="font-family: Arial;"><big><big><span style="font-weight: bold;"></span></big></big></big></big>
+Lab 2 (Sockets): 200<br>
+
+
+
+
+
+
+
+
+
+Lab 3 (IM): 483<br>
+
+
+
+
+
+
+
+
+
+Lab 4 (SRT-SIG): 371<br>
+
+
+
+
+
+
+
+
+
+Lab 5 (SRT-GBN): </span><span style="font-family: Times New Roman,Times,serif;">542 </span><span style="font-family: Times New Roman,Times,serif;">(171 new lines) <br>
+
+
+
+
+
+
+
+
+
+Lab 6 (Overlay):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">709 </span><br>
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+Lab 7 (SNP):&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">1169</span><span style="font-family: Times New Roman,Times,serif;">&nbsp; <br>
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+Project: 3586 (shared across the group).<br>
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+See the <a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs78/project.html">project</a> page for the remaining schedule and for important milestones and what is needed for those<br>
+
+
+
+
+
+
+
+milestones.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span>
 </body>
 </html>
-mesNewRi

@@ -1,63 +1,112 @@
-http://www.cs.dartmouth.edu/~dfk/house/deck
+http://www.cs.dartmouth.edu/~tanzeem/teaching/teaching.html
 3
-<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
-<html> <head>
-<title>House phase 7</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+<!-- #BeginEditable "doctitle" -->
+  <title></title>
+
+
+<!-- #EndEditable -->
+  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+  </style>
 </head>
 
+
 <body>
-<center>
-<h1><a href="./">Dave and Pam's house</a></h1>
 
-<h3>Back to
-  <em><a href="../phase6.html">Phase 6</a>: move in</em></h3>
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
 
-<hr>
+<h3>Assistant Professor</h3>
 
-<h3>Phase 7: Deck and Garage addition</h3>
+<h4>Computer Science, Dartmouth College</h4>
 
-<em>Click on a picture for a closeup view.</em><p>
-I don't have many pix here yet, just the finished product.
+</div>
 
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
+<ul>
 
-<h3>Summer 1998 </h3>
+  <li><a href="../index.html">About</a></li>
 
-<a href=house.jpg><img src=half/house.jpg></a><br>
-The new look: a garage (and mudroom, which is hiding), a walkway,
-and the side deck. 
-<p>
+  <li><a href="../pubs/pubs.html">Publications</a></li>
 
-<a href=garage.jpg><img src=half/garage.jpg></a><br>
-The new garage and mudroom.  Not quite attached but close enough so you don't get too wet when it's raining.
-<p>
+  <li><a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
 
-<a href=walkway-deck.jpg><img src=half/walkway-deck.jpg></a><br>
-The new walkway from driveway to deck.
-<p>
+  <li><a href="../students/students.html">Students</a></li>
 
-<a href=deck-top.jpg><img src=half/deck-top.jpg></a><br>
-View of the deck.
-<p>
+  <li><a href="teaching.html">Teaching</a></li>
 
-<a href=deck-left.jpg><img src=half/deck-left.jpg></a><br>
-Left view of the deck.
-<p>
+  <li><a href="../press/press.html">Press</a></li>
 
-<a href=deck-right.jpg><img src=half/deck-right.jpg></a><br>
-Right view of the deck.
-<p>
+  <li><a href="../links/links.html">Links</a></li>
 
-<hr>
+  <li><a href="../contact/contact.html">Contact</a></li>
 
-<h3>Two years later, we added a major <a href="../addition/">addition</a>.</h3>
-<p>
+</ul>
 
-</center>
+</div>
 
-<hr>
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
+<blockquote><span style="font-weight: bold;">Fall
+2008<br />
 
-<address><a href="http://www.cs.dartmouth.edu/~dfk/">David Kotz &lt;dfk@cs.dartmouth.edu&gt;</a></address>
-<!-- hhmts start -->
-Last modified: Fri Oct  4 04:58:20 2002
-<!-- hhmts end -->
-</body> </html>
+  </span>
+  <ul>
+
+    <li><a href="CS188-Fall08/index.html">CS 88/188
+Intelligent Systems Seminar: Computational Techniques for Modeling
+Human Behavior</a> </li>
+
+  </ul>
+
+  <span style="font-weight: bold;"> </span>
+  <ul>
+
+  </ul>
+
+  <span style="font-weight: bold;">Winter 2009<br />
+
+  </span>
+  <ul>
+
+    <li><a href="CS188-Winter09/index.html">CS
+88/188 Intelligent Systems Seminar: Community Sensing and Modeling</a>
+    </li>
+
+  </ul>
+
+</blockquote>
+
+<!-- #EndEditable --></div>
+
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="../index.html">About</a> |<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a>
+| <a href="../students/students.html">Students</a>
+|
+<a href="teaching.html">Teaching</a> |
+<a href="../press/press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
+
+</div>
+
+<!-- End Footer --></div>
+
+<!-- End content_container --></div>
+
+<!-- End Container -->
+</body>
+</html>

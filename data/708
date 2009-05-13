@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~campbell/cs78/project.html
+http://www.cs.dartmouth.edu/~campbell/cs78/resources.html
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -11,22 +11,6 @@ http://www.cs.dartmouth.edu/~campbell/cs78/project.html
 
 
 
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
@@ -44,14 +28,6 @@ http://www.cs.dartmouth.edu/~campbell/cs78/project.html
 
 
 
-
-
-
-
-
-
-
-
   
   
   
@@ -60,26 +36,11 @@ http://www.cs.dartmouth.edu/~campbell/cs78/project.html
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  <title>project</title>
+  <title>resources</title>
 </head>
 
 
 <body>
-
-
-
-
-
-
-
 
 
 
@@ -100,6 +61,144 @@ http://www.cs.dartmouth.edu/~campbell/cs78/project.html
 
 
 
+<span style="font-weight: bold;">resources</span></big></big></big></big><big><big style="font-family: Arial;"><big><big><span style="font-weight: bold;">
+</span></big></big></big></big>
+<h2 style="font-weight: normal;"><small><small>There are a number of useful links for networking and programming resources on this page.&nbsp;</small></small></h2>
+
+
+<h2><small><small style="font-weight: normal;">Feel free to send me addition URLs to link in.</small></small><br>
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span></h2>
+
+
+<h2><span style="font-family: Times New Roman,Times,serif;">Networking Reources</span></h2>
+
+
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">History, IETF, etc.</span></h2>
+
+
+<a href="http://www.isoc.org/internet/history/brief.shtml">A Brief History of the Internet</a><br>
+<br>
+
+
+<a href="http://www.ietf.org/">Internet Engineering Task Force (IETF)</a> Sets protocols and publishes <a href="http://www.ietf.org/rfc.html">Requests for Comment (RFCs)</a><br>
+
+
+<br>
+
+
+<a href="http://en.wikipedia.org/wiki/Internet">http://en.wikipedia.org/wiki/Internet</a><br>
+
+
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Transport Protocols</span></h2>
+
+
+<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc793.htm">RFC 793 (rfc793) - Transmission Control Protocol (TCP)</a><br>
+
+
+<br>
+
+
+<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc768.html">RFC 768 (rfc768) - User Datagram Protocol (UDP)</a><br>
+
+<br>
+
+<a href="http://www.ietf.org/rfc/rfc3550.txt">RTP: A Transport Protocol for Real-Time Applications</a>
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">IP Protocols</span></h2>
+
+
+<a href="http://www.rfc-editor.org/rfc/rfc791.txt">Internet Protocol (IP)</a><br>
+
+
+<a href="http://www.rfc-editor.org/rfc/rfc792.txt"><br>
+
+
+Internet Control Message Protocol (ICMP)</a><br>
+
+
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Routing Protocols</span></h2>
+
+
+<a href="http://www.ietf.org/rfc/rfc2328.txt">OSPF Version 2</a><br>
+
+
+<br>
+
+
+<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1771.html">RFC 1771 (rfc1771) - A Border Gateway Protocol 4 (BGP-4)</a><br>
+
+
+<br>
+
+
+<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc2453.html">RFC 2453 (rfc2453) - Routing Information Protocol (RIP) Version 2</a><a href="http://www.rfc-editor.org/rfc/rfc792.txt"></a><br>
+
+
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Some Applications we'll look at:</span></h2>
+
+
+<a href="http://www.ietf.org/rfc/rfc2616.txt">Hypertext Transfer Protocol -- HTTP/1.1</a><br>
+
+<br>
+
+<a href="http://www.faqs.org/rfcs/rfc821.html">RFC821 - Simple Mail Transfer Protocol (SMTP)</a><br>
+
+
+<br>
+
+<a href="http://www.ietf.org/rfc/rfc1939.txt">Post Office Protocol - Version 3</a><br>
+
+<br>
+
+<a href="http://james.apache.org/server/rfclist/imap4/rfc2060.txt">Internet Message Access Protocol, Version 4rev1 (IMAP4rev1)</a><a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1035.html"><br>
+
+</a>
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Plumbing:</span></h2>
+
+<a href="../../cs23/spring_web/www.faqs.org/rfcs/rfc1035.html">RFC 1035 (rfc1035) - Domain names - implementation and specification</a><br>
+
+
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Link layer:</span></h2>
+
+
+<a href="http://en.wikipedia.org/wiki/Data_link_layer">http://en.wikipedia.org/wiki/Data_link_layer</a><br>
+
+
+<span style="font-style: italic;"><br>
+
+
+</span><a href="http://en.wikipedia.org/wiki/IEEE_802.11">Wi-Fi - aka IEEE 802.11</a><br>
+
+
+<br>
+
+
+<a href="http://standards.ieee.org/getieee802/802.11.html">The IEEE 802.11 Specification</a><span style="font-style: italic;"><span style="font-style: italic;"></span></span>
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Papers we will read:</span></h2>
+
+
+Bram Cohen's <a href="http://bittorrent.org/bittorrentecon.pdf">Incentives Build Robustness in BitTorrent</a><br>
+
+
+<br>
+
+
+David Clark's <a href="http://portal.acm.org/citation.cfm?id=52336">The design philosophy of the&nbsp; DARPA internet protocol</a>
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Tools we'll use:</span></h2>
+
+
+<a href="http://www.wireshark.org/">Wireshark for packet sniffing</a><br>
+
+
+<br>
+
+
+<a href="http://www.faqs.org/rfcs/rfc1393.html">Traceroute</a><a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html"></a>
+<h2><span style="font-family: Times New Roman,Times,serif;">Programming Resources </span></h2>
+
+
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Linux books/links</span></h2>
 
 
 
@@ -107,51 +206,7 @@ http://www.cs.dartmouth.edu/~campbell/cs78/project.html
 
 
 
-
-<span style="font-weight: bold;">projects<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</span></big></big></big></big><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</big><big style="font-family: Helvetica,Arial,sans-serif;"><br>
-
-
-
-
-
-
-
-
-
-
-
-
-<big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></big>There are no lectures during the last two weeks of the course. <br>
-
-
+These books two available online to Dartmouth Students<br>
 
 
 
@@ -165,11 +220,7 @@ http://www.cs.dartmouth.edu/~campbell/cs78/project.html
 
 
 
-
-
-<div style="text-align: left;">During that time you will be working in
-teams programming N810s. These are embedded Linux devices that have a
-bunch of wireless interfaces and sensors (GPS for example).<br>
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><a href="http://proquest.safaribooksonline.com/0596100795">Linux in a Nutshell, 5th edition (currently not available)</a><br>
 
 
 
@@ -177,136 +228,17 @@ bunch of wireless interfaces and sensors (GPS for example).<br>
 
 
 
-
-</div>
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-&nbsp; <img style="width: 311px; height: 253px;" alt="Nokia 810s" src="N810.jpg"><br>
-
-
-
-
-
-
+</span>
 <span style="font-family: Times New Roman,Times,serif;"><br>
 
 
-This was last years project</span><span style="font-family: Times New Roman,Times,serif;"> description</span><span style="font-family: Times New Roman,Times,serif;"> (TBA) we may change this - we likely will. More on that <br>
 
 
-as we move along. </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;The Webpage for last year's project including resources, description can be found here.</span><br>
 
-
-<span style="font-family: Times New Roman,Times,serif;"><br>
-
-
-
-
-
-
-</span><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;">Important Project Description, Teams, and Milestones</big><span style="font-family: Times New Roman,Times,serif;"><font style="font-weight: bold;" size="+1"><big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></font><br>
-
-
-</span><span style="font-family: Times New Roman,Times,serif;"></span>
-
-
-
-<span style="font-family: Times New Roman,Times,serif;"><br>
-
-</span><span style="font-family: Times New Roman,Times,serif;">
-
-
-Lecture 20</span><span style="font-family: Times New Roman,Times,serif;"> kickoffs the project by announding the project teams. <br>
-
-
-Also, we will release the project description at the end of class.<br>
-
-
-<br>
-
-Projects really get started when the last programming is handed in on Sunday May 17; we then<br>
-
-give a could of tuorials:<br>
-
-</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"><br>
-
-
-</span>Lecture 22 &nbsp; Monday</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">Project and tutorial I on N810s
-(Cory)</span><br>
-
-
-<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
-
-
-
-
-Lecture &nbsp;23 &nbsp; Wednesday &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Project and tutorial II on
-N810s (Cory)</span><span style="font-family: Times New Roman,Times,serif;"><br>
-
-</span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
-
-
-
-
-
-
-</span><span style="font-family: Times New Roman,Times,serif;">The
-following set of deadlines are important for the progress of the
-project. Please note that you need to provide documentation for the
-design/code reviews and the final project submission.<br>
-
-
-
-
-</span><span style="font-family: Times New Roman,Times,serif;"><br>
-
-
-
-
-Notice
-that we will use cvs for code management for the project. All code
-needs to be signed as part of the submission. In addition, the final
-report has to be written using latex and the source and a pdf submitted
-in the project cvs directory.<br>
-
-
-
-
-
-
-
-</span><span style="font-family: Times New Roman,Times,serif;"><br>
-
-
-
-
-
-
-<span style="font-weight: bold;"></span></span><span style="font-family: Times New Roman,Times,serif;">
-
-
-
-Project webpage including the description and resources found here.<br>
-
+The book I really wanted to list here Running Linux, 5th edition does
+not seem to be available on Safari Books yet. I've not used this book
+but looks useful. It includes many advanced issues we will not cover
+but it could be a useful reference. Let me know.<br>
 
 
 
@@ -318,93 +250,7 @@ Project webpage including the description and resources found here.<br>
 
 
 
-
-
-
-
-
-
-The
-following set of deadlines are important for the progress of the
-project. Please note that you need to provide documentation for the
-design and code reviews and the final project submission. <br>
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-Notice that we will use cvs for code management for the project. All
-code needs to be signed as part of the submission. In addition, the
-final report has to be written using latex and the source and a pdf
-submitted in the project cvs directory.<br>
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">4-7 PM Friday May 22 design review</span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">.</span> The
-project review should include requirements, Design Spec
-(inputs/outputs, data flow, data structures, pseudo-code) and
-functional decomposition; How the project implementation breaks down
-who is doing what. The project review material is due 12 PM day before
-review Send tarball documentation to cs78@cs.dartmouth.edu<br>
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-<span style="font-weight: bold;"></span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"> 4-7 PM Friday May 29 code review</span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">. </span>The
-code review should include the Implementation Spec, unit tests and
-whatever code is written up until the review point. The code review
-material is due 12 PM day before review. Send tarball documentation and
-source tree to cs78@cs.dartmouth.edu<br>
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-<span style="font-weight: bold;">4-7 PM Tuesday June 2 demo or die day</span>. Project presentation (design overview, lessons learnt, etc) and demo of project.<br>
-
+<a href="http://proquest.safaribooksonline.com/0596009585">Linux System Programming</a><br>
 
 
 
@@ -414,38 +260,188 @@ source tree to cs78@cs.dartmouth.edu<br>
 <span style="font-weight: bold;"><br>
 
 
-12 AM Wednesday June 3 project reports due</span>.
-The report written in latex includes description of the project, the
-Design Spec, functional decomposition of the system, Implementation
-Spec, lessons learnt. The appendix includes all code and unit tests.
-All materials should be signed into the teams cvs project page. The PDF
-of the project report should be sent to cs78@cs.dartmouth.edu<br>
 
-<br>
-
-</span><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><br>
-
-
-
-
+</span><a href="http://www.linuxdevcenter.com/lpt/a/6109">What Is the X Window System</a>, from O'Reilly's linux devcenter.com<br>
 
 
 <br>
 
 
+<a href="http://www.computerhope.com/unix.htm#04">Unix commands on the web</a><br>
 
 
 
-
-</big><span style="font-family: Times New Roman,Times,serif;"><br>
-
-
+</span>
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">X and C</span></h2>
 
 
 
+<span style="font-family: Times New Roman,Times,serif;"><a href="http://developer.apple.com/opensource/tools/runningx11.html">Configuring and Running X11 Applications on Mac OS X</a><br>
 
 
 
+<br>
+
+
+
+<a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs23/putty-cygwin-tutorial.pdf">PuTTY/Cygwin Tutorial</a><br>
+
+
+
+<br>
+
+
+
+<a href="http://www.cs.dartmouth.edu/%7Ewbc/suditour/001/index.html">Sudikoff Lab 101 tour</a><br>
+
+
+
+<br>
+
+
+
+<a href="http://www.cs.dartmouth.edu/%7Echris/cs23/tedjensen/">A Tutorial on Pointers and Arrays in C, by Ted Jensen</a><br>
+
+
+
+<br>
+
+
+
+<a href="http://en.wikipedia.org/wiki/C_programming_language">The Wikipedia entry for the C programming language</a><br>
+
+
+
+<br>
+
+
+
+<a href="http://groups.google.com/group/comp.lang.c/browse_frm/thread/1ce1b07f3725e0c7?q=%22Why+is+C+good%3F%3F%3F%22&amp;hl=en&amp;pli=1">The USENET discussion Why is C good?</a><br>
+
+
+
+<br>
+
+
+
+C Programming Notes, by Steve Summit (Experimental College, University of Washington)<br>
+
+
+
+&nbsp;&nbsp;&nbsp; <a href="http://www.cs.dartmouth.edu/%7Echris/cs23/summit-intro/">Introductory C Programming, chapters 1-14</a><br>
+
+
+
+&nbsp;&nbsp;&nbsp; <a href="http://www.cs.dartmouth.edu/%7Echris/cs23/summit-intermediate/">Intermediate C Programming, chapters 15-25</a><br>
+
+
+
+<br>
+
+
+
+A list of <a href="http://cplus.kompf.de/posixlist.html">POSIX Library Functions</a><br>
+
+
+
+<br>
+
+
+
+To obtain further details about any function listed here, on the
+Sudikoff lab computers type&nbsp;&nbsp;&nbsp;&nbsp; man functionname<br>
+
+
+
+<br>
+
+
+
+<a href="http://www.cs.dartmouth.edu/%7Echris/cs23/make-documentation/">GNU make</a><br>
+
+
+
+<br>
+
+
+
+<a href="http://www-mrsrl.stanford.edu/%7Ebrian/cvstutorial/">cvs</a><br>
+
+
+
+</span>
+<h2 style="font-weight: normal; font-style: italic;"><span style="font-family: Times New Roman,Times,serif;">Editors</span></h2>
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">I recommend, emacs or vi or vim - up to you.<br>
+
+
+
+<br>
+
+
+
+I use <a href="http://aquamacs.org/">Aquamacs Emac </a>on my mac<br>
+
+
+
+<br>
+
+
+
+I also like <a href="http://www.vim.org/">gvim</a><br>
+
+
+
+<br>
+
+
+
+or just type vi or emacs at the command line. <br>
+
+
+
+<br>
+
+
+
+Some&nbsp;tutorials:<br>
+
+
+
+<br>
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"><a href="http://www2.lib.uchicago.edu/keith/tcl-course/emacs-tutorial.html">Emacs Tutorial</a><br>
+
+
+
+<br>
+
+
+
+<a href="http://blog.interlinked.org/tutorials/vim_tutorial.html">vim Tutorial</a><br>
+
+
+
+<br>
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"><a href="http://www.eng.hawaii.edu/Tutor/vi.html">vi tutorial</a> <br>
+
+
+</span>
+<h2 style="font-style: italic; font-weight: normal;"><span style="font-family: Times New Roman,Times,serif;">Socket Programming:</span></h2>
+
+
+<a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html">Socket programming</a><br>
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+<br>
 
 
 
@@ -456,24 +452,7 @@ of the project report should be sent to cs78@cs.dartmouth.edu<br>
 
 
 
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><big><big style="font-family: Arial;"><big><big><span style="font-weight: bold;"></span></big></big></big></big>
 </body>
 </html>
+mesNewRi

@@ -1,300 +1,156 @@
-http://www.cs.dartmouth.edu/~cs5/install/eclipse-winxp.html
+http://www.cs.dartmouth.edu/~cs8/W2009
 3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Exam dates, times, and locations -->
+
+
+
+
+
+
+
+<!-- E-Mail address for the TA handling new Unix accounts -->
+
+
+
 <html>
 <head>
-<title>Installing Java and Eclipse on Windows</title>
+  <title>COSC 8 Winter 2009 Home Page</title>
+  <link rel="stylesheet" type="text/css" href="cs8.css">
+  <link rel="shortcut icon" href="img/lambda.ico">
 </head>
 <body>
 
-<h1>Installing Java and Eclipse on Windows</h1>
 
-This page tells you how to download Java and Eclipse for Windows.
-It is oriented toward Windows XP, but the instructions should work for
-Windows Vista as well, except that there will be minor cosmetic
-differences in the screen shots and a few changes noted below.  
-If you need help, blitz <a
-href="mailto:cs5help@cs.dartmouth.edu">cs5help@cs.dartmouth.edu</a>.
-
-<p>
-
-<h2>Downloading and installing Java</h2>
-
-<ul>
-  <li> Click the link <a href="http://java.com">http://java.com</a>.
-       <p>
-
-  <li> Click on the green button that reads "Free Java Download."
-       <p>
-
-  <li> Follow the directions that appear.
-  
-<!--   <li> Click the link  -->
-<!--        <a href="http://java.sun.com/javase/downloads/index_jdk5.jsp">http://java.sun.com/javase/downloads/index_jdk5.jsp</a>. -->
-<!--        Scroll down until you see "Java Runtime Environment (JRE) 5.0 Update 12"  -->
-<!--        and click the "Download" button. -->
-       
-<!--        <p> -->
-<!--        <CENTER> -->
-<!--        <img src="JRE_Download.gif"> -->
-<!--        </CENTER> -->
-<!--        <p> -->
-			 
-<!--   <li> A new page should load. Select "Accept License Agreement" (about half-way  -->
-<!--        down the page). Click the link, "Windows Offline Installation,  -->
-<!--        Multi-language." A popup should appear. Click the "Save File" button.  -->
-<!--        Then double-click the downloaded file. An installer should load. Click  -->
-<!--        the "Accept" button. When the installation has completed, click "Finish." -->  
-</ul>
-
-<h2>Downloading and installing Eclipse</h2>
-
-<ul>
-  <li> Click this 
-       <a href="eclipse-SDK-3.4-win32.zip">
-       link</a>. Download the file eclipse-SDK-3.4-win32.zip and then unzip 
-       it (extract all files). Open the unzipped folder. Right-click
-       the folder "eclipse" and click
-       "Cut." In the address bar, type in C:\Program Files and press enter. Then
-       go to Edit -> Paste. The folder "eclipse" should appear. Double-click it. 
-       Then right-click eclipse.exe and click Send To -> Desktop (create 
-       shortcut). 
-
-       <p>
-       <CENTER>
-       <img src="eclipse.jpg">
-       </CENTER>
-       <p>
-</ul>
-
-<h2>Configuring Eclipse to run with Java</h2>
-
-<ul>
-  <li> Go to your desktop and double-click the icon "Shortcut to 
-       eclipse.exe." A popup should appear. Check the check box and click "OK".
-
-       <p>
-       <CENTER>
-       <img src="workspace_launcher.jpg">
-       </CENTER>
-       <p>
-			 
-  <li> When Eclipse has finished loading, click the "Workbench" link on the 
-       right.
-
-       <p>
-       <CENTER>
-       <img src="welcome_screen.gif">
-       </CENTER>
-       <p>
-			 
-  <li> Go to Window -> Preferences and then go to Java -> Installed JRE's. 
-       If you see jre1.5.0_12, make sure it is the only item checked. If you 
-       don't see it, click "Search," select the Java folder in My Computer -> 
-       Local Disk (C:) -> Program Files, and click "OK." When the search is 
-       done, check only jre1.5.0_12 and click "OK."  If you don't see
-       jre1.5.0_12 but do see jre 1.6.0 or jre 1.6.0_05, choose the version
-       of jre 1.6.0_XX with the largest value of XX.  
-
-       <p>
-       <CENTER>
-       <img src="installed_jre.jpg">
-       </CENTER>
-       <p>
-
-       <em>Windows Vista users:</em> You will be allowed to select only
-       jre1.6.0_05.  Go ahead and select that. 
-       
-  <li> In the same window, click "Compiler" in the left section, set 
-       "Compiler compliance level" to 5.0, and click "OK."
-       If you are in Vista or see only compliance levels of the form
-       1.x, choose 1.6.  (This should be the default.)
-
-       <p>
-       <CENTER>
-       <img src="compiler.jpg">
-       </CENTER>
-       <p>
-			 
-</ul>				 
-
-
-Congratulations.  You have installed Java and Eclipse, and you
-have configured Eclipse!
-
-<h2>Configuring Eclipse to make it like mine</h2>
-
-You should make your version of Eclipse look like mine.  Do the
-following.
-<p>
-
-<ul>
-     
-  <li> In Eclipse, click Window -> Preferences.  This
-       will bring up a window with two panes.  On the left is a list of
-       things you can configure.
-
-  <li> Click the plus sign to the left of "General."  Then click on
-       the plus sign to the left of "Appearance."  Then click on
-       "Colors and Fonts."  You should see a window like this:
-                                   
-       <p>
-
-       <center>
-       <img src="custom01.jpg">
-       </center>
-       <p>
-
-  <li> In the scrollable window in the middle, click on the plus sign
-       next to "Java."  Then scroll down within that window and
-       <em>double-click</em> on "Java Editor Text Font."
-                                   
-       <p>
-       <center>
-
-       <img src="custom02.jpg">
-       </center>
-       <p>
-
-       As you can see, there's some text following "Java Editor Text Font."
-       Don't worry about it.
-
-  <li> The following window will pop up:
-                                   
-       <p>
-       <center>
-       <img src="custom03.jpg">
-       </center>
-
-       <p>
-
-       On the right, where you can select the size, click "12".
-       Then close this window by clicking on the window's close button.
-
-  <li> Close up the "General" preferences by clicking on the minus sign to
-       the left of "General."  Click the plus sign next to "Java" and
-       then click the plus sign next to "Code Style."
-       Then click "Formatter."  Here's what you should see:
-                                   
-       <p>
-       <center>
-       <img src="custom04.jpg">
-       </center>
-       <p>
-
-  <li> Click the button that says "New..."  You'll see a window such
-       as this one:
-                                   
-       <p>
-       <center>
-       <img src="custom05.jpg">
-       </center>
-       <p>
-
-       You can type in any profile name you like.  I used "CS 5":
-                                   
-       <p>
-       <center>
-
-       <img src="custom06.jpg">
-       </center>
-       <p>
-
-       Then click "OK."
-
-  <li> You should see a window that looks like this:
-                                   
-       <p>
-       <center>
-       <img src="custom07.jpg">
-       </center>
-
-       <p>
-
-       Change the Tab size to 2:
-                                          
-       <p>
-       <center>
-       <img src="custom08.jpg">
-       </center>
-       <p>
-
-       You'll see that the Indentation size automatically changes as well.
-
-  <li> Click on "Blank Lines," and after "Between import groups" and
-       "Before declarations of the same kind," change the values
-       1 to 0:
-                                          
-       <p>
-
-       <center>
-       <img src="custom09.jpg">
-       </center>
-       <p>
-
-  <li> Click on "Control Statements," and check the boxes as I've done
-       here:
-                                          
-       <p>
-       <center>
-       <img src="custom10.jpg">
-
-       </center>
-       <p>
-
-       Click "OK."
-
-  <li> Now click on the minus signs to close up "Java."  Click on the
-       triangle next to "Run/Debug," and then click on "Console."
-                                          
-       <p>
-       <center>
-       <img src="custom11.jpg">
-       </center>
-       <p>
-
-  <li> Click on the green color sample next to "Standard In text color."
-       You'll get a color picker. Select a dark green. (You're at Dartmouth.  
-			 What other color could you possibly want?)
-                                          
-       <p>
-       <center>
-       <img src="custom12.jpg">
-       </center>
-       <p>
-
-       Click "OK" to close the color picker window, and click "OK"
-       again to close the Preferences window.
-
-  <li> Finally, I don't use the Task List and Outline panes, which
-       are on the right-hand side of the window.  Click on the "X"
-       next to "Task List" and next to "Outline" in the tabs of these
-       panes:
-                                          
-       <p>
-       <center>
-       <img src="custom13.gif">
-
-       </center>
-       <p>
-
-       You'll get something like this:
-                                          
-       <p>
-       <center>
-       <img src="custom14.jpg">
-       </center>
-       <p>
-
-       Now you've got your Eclipse set up the same as mine!
-
-</ul>
-
+<table class="index" style="width: 100%">
+<tr>
+  <td colspan="4" align="center">
+    <img src="img/main-title.png" width="503" height="160"
+         alt="COSC 8--Problem Solving with Computer Science">
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="announce.shtml">
+    <img src="img/announce.png" width="64" height="64"
+         alt="Announcements"></a>
+  </td>
+  <td>
+    <h1><a href="announce.shtml">
+    Announcements</a></h1>
+    <p>Last updated:
+    10-January-2009</p>
+  </td>
+  <td>
+    <a href="materials.shtml">
+    <img src="img/materials.png" width="64" height="64"
+         alt="Course materials"></a>
+  </td>
+  <td>
+    <h1><a href="materials.shtml">
+    Course Materials</a></h1>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="info.shtml">
+    <img src="img/info.png" width="64" height="64"
+         alt="Course information"></a>
+  </td>
+  <td>
+    <h1><a href="info.shtml">
+    Course Information</a></h1>
+  </td>
+  <td>
+    <a href="software.shtml">
+    <img src="img/lambda.png" width="64" height="64"
+         alt="Course software"></a>
+  </td>
+  <td>
+    <h1><a href="software.shtml">
+    Course Software</a></h1>
+  </td>
+</tr>
+</table>
 <hr>
-<address><a href="http://www.cs.dartmouth.edu/~scot/">Scot Drysdale</a></address>
-<!-- hhmts start -->
-Last modified: Tue Mar 25 2008
-<!-- hhmts end -->
+<p class="pageinfo">
+  <a href="http://www.cs.dartmouth.edu/">
+  Department of Computer Science</a>,
+  <a href="http://www.dartmouth.edu/">
+  Dartmouth College</a>,
+  Hanover, New Hampshire, USA
+</p>
+<p class="updated">
+  
+  Last modified: 27-December-2008
+</p>
+
 
 </body>
 </html>
-i
+lyii

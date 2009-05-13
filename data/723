@@ -1,29 +1,94 @@
-http://www.cs.dartmouth.edu/~cs105/Homework/hw.08.html
+http://www.cs.dartmouth.edu/~cs105/Homework/final.html
 3
 <html><head>
-<title>CS105 02F: Homework 8</title>
+<title>CS105 02F: Final Exam</title>
 </head><body>
 
 <h1>
 <a href="index.html">CS105 02F</a>:
-<a href="homework.html">Homework</a> 08
+<a href="homework.html">Final Exam</a> 
 </h1>
 <strong>Assigned:</strong>
-Friday, November 22, 2002<br>
+Monday, December 2, 2002<br>
 <strong>Due:</strong>
-Wednesday   December 4, 2002<br>
+Saturday, December 7, 2002 at 1 pm<br>
+
+<p>
+You <b>may not</b> discuss these problems with anyone except
+Prof. Drysdale.  You are to work alone.  You <b>may not</b> 
+use any materials other
+than class notes and the two textbooks to solve them.
 
 <ol>
-<li> MR Exercise 8.4 (p. 203).  
-<li> MR Exercise 8.7 (p. 207)
-<li> MR Problem 8.1 (p. 229)  EXTRA CREDIT
-<li> MR Problem 8.6 (p. 230)  
-<li> CLRS 35-5 (p. 1051)
-<li> Devise a polynomial-time 3/2-approximation algorithm for the Traveling
-     Salesman Problem when the cost function satisfies the triangle 
-     inequality.  Hint - you may use the fact that you can find a minimum 
-     weight perfect matching on a complete graph with 2m vertices in time 
-     polynomial in m.
+<li> CLRS 35-1 (p. 1049) <br> <br>
+<li> MR Problem 1.8 (a) (p. 26).   <br> <br>
+<li> MR Exercise 8.7 (p. 230)  Give an exact expression for the
+     expected length of the path between an element <i>x</i> whose rank
+     is <i>k</i> and an element <i>y</i> whose rank is <i>k+r</i>. <br> <br>
+
+<li> Consider a collection of <i>m</i> sets <i>S<sub>j</sub></i> drawn 
+     from some universe 
+     <i>U</i>.  The goal is to try to find the smallest set <i>Z</i> 
+     whose intersection 
+     with every set <i>S<sub>j</sub></i> is non-empty.  (<i>Z</i> is called a 
+     hitting set - it hits every one of the <i>S<sub>j</sub></i>.) <br> <br>
+
+     <ol>
+     <li> Create an integer program whose solution solves this 
+          problem.  Explain why it solves the problem. <br> <br>
+     
+     <li> Show how to relax the integer program to create a linear 
+          program.  Suppose that the objective function to this 
+          linear program has an optimal solution <i>w</i>.  Show how to 
+          use randomized rounding to get a set
+          <i>Z</i> of expected size <i>w</i> which is expected to intersect
+          at least a fixed fraction of the sets <i>S<sub>j</sub></i>.  
+          Give a specific lower
+          bound on the expected fraction of sets intersected. <br> <br>
+
+     <li> Give a good bound on the probability that the size of 
+          the set <i>Z</i> found is
+          larger than <i>cw</i>, for any constant <i>c</i> &gt 1.  
+          For which values of 
+          <i>c</i> is the probability given by your bound no larger than 
+          <i>e<sup>-w</sup></i>?
+           <br> <br>
+     </ol>
+
+<li> The Aethernet corporation has developed a protocol to allow
+     <i>n</i> machines to communicate on a shared wire.  Time is divided
+     into fixed slots.  In a slot, any machine that wants to send
+     information to another can broadcast it onto the wire.  If
+     exactly one machine broadcasts in a given time slot, then 
+     that broadcast is successful.  If more than one machine 
+     broadcasts, then the broadcast fails.  <p>Their protocol is
+     simple - whenever a machine wants to broadcast, with probability
+     1/<i>n</i> it broadcasts in the current slot.  It succeeds if nobody
+     else tries to broadcast in that slot.  If it chooses not to
+     broadcast or tries and fails it repeats the process in the next 
+     time slot. <br> <br>
+
+     <ol>
+     <li> Show that even if all machines are trying to broadcast
+          in a given slot, there is a constant probability that some 
+          machine will succeed.  Give a good approximation of 
+          this constant probability as n grows large. <br> <br>
+
+     <li> Assume that the machines are all trying to send infinite
+          sequences of packets, so that each wants to send a packet
+          in every time slot.  What is the expected time until every
+          machine has sent at least one packet? <br> <br>
+
+     <li> Again assume that the machines are all trying to send infinite
+          sequences of packets, so that each wants to send a packet
+          in every time slot.  Show that over a sufficient length of 
+          time (number of time slots), with high probability every 
+          machine broadcasts at least some constant times 1/<i>n</i> of the
+          times it wants to send a message 
+          (thus achieving a fair share of the bandwidth). In other
+          words, if there are <i>s</i> slots and M is one of the machines,
+          then with high probability, M broadcasts in Omega(<i>s/n</i>) slots.
+     </ol> 
 </ol> 
 
 
