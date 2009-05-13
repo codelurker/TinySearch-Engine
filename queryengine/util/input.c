@@ -55,9 +55,6 @@ char* getFilePath(char* dirname, int file) {
 	sfile = NULL;
 		
 	return(path);
-	
-	free(path);
-	path = NULL;
 }
 
 // reads in a file and returns a string

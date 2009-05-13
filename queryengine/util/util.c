@@ -101,6 +101,7 @@ void printMeta(char *dirname, char** result) {
 		
 		FILE* fp; fp = fopen(path, "r");
 		if(fp == NULL) {
+			free(temp);
 			i++;
 			break;
 		}
@@ -109,6 +110,8 @@ void printMeta(char *dirname, char** result) {
 		BZERO(buffer, 2000);
 		
 		if(fgets(buffer, 2000, fp) == NULL) {
+			free(temp);
+			free(buffer);
 			i++;
 			break;
 		}
@@ -117,6 +120,9 @@ void printMeta(char *dirname, char** result) {
 			fprintf(data, "%s DocID: %s URL:%s", freq, id, buffer);
 		}
 		fclose(fp);
+		free(temp);
+		free(buffer);
+		free(path);
 		i++;
 	}
 	fclose(data);
@@ -126,6 +132,7 @@ void printMeta(char *dirname, char** result) {
 	BZERO(command, 1000);
 	strcpy(command, "sort -rn < data > data.sort");
 	system(command);
+	free(command);
 	
 	FILE* sorted;
 	sorted = fopen("data.sort", "r");

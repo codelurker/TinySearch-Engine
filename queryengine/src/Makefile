@@ -1,5 +1,5 @@
 CC      =  gcc
-CFLAGS  =  -Wall -pedantic -std=c99
+CFLAGS  =  -g -Wall -pedantic -std=c99
 EXEC    =  query
 OBJS    =  query.o logic.o hash.o util.o input.o dictionary.o
 SRCS    =  query.c logic.c hash.c dictionary.c ../util/util.c ../util/input.c dictionary.c

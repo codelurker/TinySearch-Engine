@@ -1,3 +1,13 @@
+/*
+	By: Ricky A. Melgares '11
+	
+	Filename: dictionary.c
+	Description: contains various functions that relate to the dictionary 
+	structure such as adding elements or retrieving information from 
+	elements in the structure.
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
