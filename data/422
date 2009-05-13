@@ -1,37 +1,20 @@
-http://www.cs.dartmouth.edu/~sasho/resume
+http://www.cs.dartmouth.edu/~wbc/google-pen-repair
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+
+
 <head>
-  <meta content="text/html; charset=ISO-8859-1"
- http-equiv="content-type">
-  <title>Alexander Iliev resume</title>
-  <meta content="Alex Iliev" name="author">
+<title>Google Pen Repair</title>
 </head>
+
 <body>
-<h1>Alexander Iliev resume</h1>
-
+<h2>Google Pen Repair</h2>
+<img src="GooglePenRepair.jpg">
+This Google Pen cracked on the top, and 
+was not able to hold the cartrige in, but I repaired it
+by wrapping it with nylon thread
 <p>
-The original is in OpenDocument format, all the rest are exported and perhaps
-touched up a bit.
-</p>
-
-<p>
-<a href="iliev-resume.odt">Open Document (the original)</a><br>
-<a href="iliev-resume.html">XHTML</a><br>
-<a href="iliev-resume.pdf">PDF (best export)</a><br>
-<a href="iliev-resume.doc">Microsoft Word</a><br>
-<a href="iliev-resume.txt">Plain text</a><br>
-</p>
-
-<hr width="100%" size="2">Maintained by <a href="./">Alex Iliev</a><br>
-<hr>
-    
-<!--time-start-->
-Last modified: May 29, 2006
-<!--time-end-->
-
+There have been
+4178
+ visitors sinceSept 11, 2005</p>
 
 </body>
-</html>
-ti

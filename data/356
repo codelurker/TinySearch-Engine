@@ -1,42 +1,280 @@
-http://www.cs.dartmouth.edu/~thc/software.html
+http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:SpecialPages
 3
-<html> <head>
-<title>Other Software by Tom Cormen</title>
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.14.0" />
+		<meta name="robots" content="noindex,nofollow" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/~robotics/mediawiki/opensearch_desc.php" title="RobotLab (en)" />
+		<link rel="alternate" type="application/rss+xml" title="RobotLab RSS Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="RobotLab Atom Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Special pages - RobotLab</title>
+		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/shared.css?195" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/commonPrint.css?195" type="text/css" media="print" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/main.css?195" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE50Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE55Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE60Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE70Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/~robotics/mediawiki/skins/common/IEFixes.js?195"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
 
-<body>
-<h1>Other Software</h1>
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/~robotics/mediawiki/skins";
+		var wgArticlePath = "/~robotics/mediawiki/index.php/$1";
+		var wgScriptPath = "/~robotics/mediawiki";
+		var wgScript = "/~robotics/mediawiki/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "http://www.cs.dartmouth.edu";
+		var wgCanonicalNamespace = "Special";
+		var wgCanonicalSpecialPageName = "Specialpages";
+		var wgNamespaceNumber = -1;
+		var wgPageName = "Special:SpecialPages";
+		var wgTitle = "SpecialPages";
+		var wgAction = "view";
+		var wgArticleId = 0;
+		var wgIsArticle = false;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 0;
+		var wgVersion = "1.14.0";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
 
-<dl>
-  <dd>
-       <IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=TOP>
-       <strong><a
-       href="ViC/index.shtml">ViC*</a>:</strong>
-       a language and runtime system to support out-of-core data-parallel
-       computing with C*.
-       
-<p>
-       <dd>
-       <IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=TOP>
-       <strong><a
-       href="http://www.netlib.org/mpi/contrib/bmmc.tgz">libbmmc_mpi.a</a>:</strong>
-       a library to perform fast BMMC permutations for any multiprocessor
-       system that supports MPI.
-       
-<p>
-       <dd>
-       <IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=TOP>
-       <strong><a
-       href="clrscode">clrscode</a>:</strong> a package for LaTeX2e that
-     allows you to typeset pseudocode just as we do in <i>Introduction
-     to Algorithms</i>, Second edition.
-       
-</dl>
+		<script type="text/javascript" src="/~robotics/mediawiki/skins/common/wikibits.js?195"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/~robotics/mediawiki/skins/common/ajax.js?195"></script>
+		
+<style type="text/css">
+<!--
+.highlight {
+    background-color: yellow;
+}
+.blockquote {
+	border-left: 12px solid #BBBBBB;
+	margin:5px 0 5px -25px;
+	padding:0;
+	padding-left: 15px;
+}
+-->
+</style>		<script type="text/javascript" src="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns--1 ns-special page-Special_SpecialPages skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Special pages</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From RobotLab</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<h4 class='mw-specialpagesgroup'>Maintenance reports</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:BrokenRedirects" title="Special:BrokenRedirects">Broken redirects</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:DeadendPages" title="Special:DeadendPages">Dead-end pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:DoubleRedirects" title="Special:DoubleRedirects">Double redirects</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:LongPages" title="Special:LongPages">Long pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:AncientPages" title="Special:AncientPages">Oldest pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:LonelyPages" title="Special:LonelyPages">Orphaned pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:FewestRevisions" title="Special:FewestRevisions">Pages with the fewest revisions</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:WithoutInterwiki" title="Special:WithoutInterwiki">Pages without language links</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ProtectedPages" title="Special:ProtectedPages">Protected pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ProtectedTitles" title="Special:ProtectedTitles">Protected titles</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ShortPages" title="Special:ShortPages">Short pages</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:UncategorizedCategories" title="Special:UncategorizedCategories">Uncategorized categories</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:UncategorizedFiles" title="Special:UncategorizedFiles">Uncategorized files</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:UncategorizedPages" title="Special:UncategorizedPages">Uncategorized pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:UncategorizedTemplates" title="Special:UncategorizedTemplates">Uncategorized templates</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:UnusedCategories" title="Special:UnusedCategories">Unused categories</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:UnusedFiles" title="Special:UnusedFiles">Unused files</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:UnusedTemplates" title="Special:UnusedTemplates">Unused templates</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:WantedCategories" title="Special:WantedCategories">Wanted categories</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:WantedFiles" title="Special:WantedFiles">Wanted files</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:WantedPages" title="Special:WantedPages">Wanted pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:WantedTemplates" title="Special:WantedTemplates">Wanted templates</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>List of pages</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:AllPages" title="Special:AllPages">All pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:PrefixIndex" title="Special:PrefixIndex">All pages with prefix</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Categories" title="Special:Categories">Categories</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:Disambiguations" title="Special:Disambiguations">Disambiguation pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ListRedirects" title="Special:ListRedirects">List of redirects</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Login / sign up</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:UserLogin" title="Special:UserLogin">Log in / create account</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Users and rights</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:BlockList" title="Special:BlockList">Blocked IP addresses and usernames</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ChangePassword" title="Special:ChangePassword">Change password</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Preferences" title="Special:Preferences">Preferences</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:Contributions" title="Special:Contributions">User contributions</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ListGroupRights" title="Special:ListGroupRights">User group rights</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:ListUsers" title="Special:ListUsers">User list</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Recent changes and logs</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:NewFiles" title="Special:NewFiles">Gallery of new files</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Log" title="Special:Log">Logs</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Watchlist" title="Special:Watchlist">My watchlist</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:NewPages" title="Special:NewPages">New pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked" title="Special:RecentChangesLinked">Related changes</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Media reports and uploads</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:ListFiles" title="Special:ListFiles">File list</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:FilePath" title="Special:FilePath">File path</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:MIMESearch" title="Special:MIMESearch">MIME search</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:FileDuplicateSearch" title="Special:FileDuplicateSearch">Search for duplicate files</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Upload" title="Special:Upload">Upload file</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Wiki data and tools</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:PopularPages" title="Special:PopularPages">Popular pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Statistics" title="Special:Statistics">Statistics</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:AllMessages" title="Special:AllMessages">System messages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Version" title="Special:Version">Version</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Redirecting special pages</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:LinkSearch" title="Special:LinkSearch">External links</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Random" title="Special:Random">Random page</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:RandomRedirect" title="Special:RandomRedirect">Random redirect</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:Search" title="Special:Search">Search</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>High use pages</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:MostLinkedCategories" title="Special:MostLinkedCategories">Most linked-to categories</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:MostLinkedFiles" title="Special:MostLinkedFiles">Most linked-to files</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:MostLinkedPages" title="Special:MostLinkedPages">Most linked-to pages</a></li>
+</ul></td><td width='10%'></td><td width='30%' valign='top'><ul><li><a href="/~robotics/mediawiki/index.php/Special:MostLinkedTemplates" title="Special:MostLinkedTemplates">Most linked-to templates</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:MostCategories" title="Special:MostCategories">Pages with the most categories</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:MostRevisions" title="Special:MostRevisions">Pages with the most revisions</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Page tools</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:Export" title="Special:Export">Export pages</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere" title="Special:WhatLinksHere">What links here</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<h4 class='mw-specialpagesgroup'>Other special pages</h4>
+<table style='width: 100%;' class='mw-specialpages-table'><tr><td width='30%' valign='top'><ul>
+<li><a href="/~robotics/mediawiki/index.php/Special:Bibliography" title="Special:Bibliography">Bibliography</a></li>
+<li><a href="/~robotics/mediawiki/index.php/Special:BookSources" title="Special:BookSources">Book sources</a></li>
+</ul></td><td width='30%' valign='top'></td></tr></table>
+<div class="mw-specialpages-notes"><hr />
+<ul><li> Normal special pages.
+</li><li> <span class="mw-specialpagerestricted">Restricted special pages.</span>
+</li></ul>
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:SpecialPages">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:SpecialPages</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-special" class="selected"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="This is a special page, you cannot edit the page itself">Special page</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special:SpecialPages" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://www.cs.dartmouth.edu/~robotics/mediawiki/images/a/a5/Lablogo.png);" href="/~robotics/mediawiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-the_lab'>
+		<h5>the lab</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Projects"><a href="/~robotics/mediawiki/index.php/Main_Page">Projects</a></li>
+				<li id="n-Publications"><a href="/~robotics/mediawiki/index.php/Publications">Publications</a></li>
+				<li id="n-Join-the-lab"><a href="/~robotics/mediawiki/index.php/Join_the_lab">Join the lab</a></li>
+				<li id="n-Equipment-notes"><a href="/~robotics/mediawiki/index.php/Equipment_notes">Equipment notes</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-people'>
+		<h5>people</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Devin-Balkcom-.28P.I..29"><a href="/~robotics/mediawiki/index.php/Devin_Balkcom">Devin Balkcom (P.I.)</a></li>
+				<li id="n-Paritosh-Kavathekar"><a href="/~robotics/mediawiki/index.php/Paritosh_Kavathekar">Paritosh Kavathekar</a></li>
+				<li id="n-Matthew-Bell"><a href="/~robotics/mediawiki/index.php/Matthew_Bell">Matthew Bell</a></li>
+				<li id="n-Andrei-Furtuna"><a href="/~robotics/mediawiki/index.php/Andrei_Furtuna">Andrei Furtuna</a></li>
+				<li id="n-Govind-Krishnan"><a href="/~robotics/mediawiki/index.php/Govind_Krishnan">Govind Krishnan</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-courses'>
+		<h5>courses</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Intro-to-Robotics"><a href="http://cs54.wikidot.com">Intro to Robotics</a></li>
+				<li id="n-Robotics-Camp"><a href="http://robotcamp.wikidot.com">Robotics Camp</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/~robotics/mediawiki/index.php/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Search RobotLab [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+<li id="t-specialpages"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/~robotics/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="privacy"><a href="/~robotics/mediawiki/index.php/RobotLab:Privacy_policy" title="RobotLab:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/~robotics/mediawiki/index.php/RobotLab:About" title="RobotLab:About">About RobotLab</a></li>
+					<li id="disclaimer"><a href="/~robotics/mediawiki/index.php/RobotLab:General_disclaimer" title="RobotLab:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
 
-
-<hr>
-<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
-<!-- hhmts start -->
-Last modified: Wed Aug 31 22:12:08 2005
-<!-- hhmts end -->
-</body> </html>
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.373 secs. --></body></html>

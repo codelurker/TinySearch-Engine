@@ -1,301 +1,595 @@
-http://www.cs.dartmouth.edu/~hughes/music.html
+http://www.cs.dartmouth.edu/~miluzzo/cv.html
 3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>James M. Hughes - Dartmouth College</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="style.css">
+  <title>Emiliano Miluzzo :: curriculum vitae</title>
+  <style type="text/css">
+
+a.three:link {color: #006600; text-decoration: none}
+a.three:visited {color: #006600; text-decoration: none}
+a.three:hover {background: #000000; color: #FFFFFF}
+
+a.four:link {color: #006600; text-decoration: none}
+a.four:visited {color: #006600; text-decoration: none}
+a.four:hover {background: #000000; color: #FF0000}
+
+#coolmenu{
+border: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
+border-bottom-width: 0;
+width: 177px;
+position: absolute; top: 188px; left: 8px;
+background-color: #E6E6E6;
+}
+
+* html #coolmenu{ /*IE only rule, to negate the padding below IE includes in menu width.*/
+width: 177px;
+}
+
+#coolmenu a{
+font: bold 13px Arial;
+padding: 5px;
+padding-left: 20px;
+display: block;
+width: 100%;
+color: black;
+text-decoration: none;
+border-bottom: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+
+#coolmenu a:hover{
+background-color: black;
+color: white;
+}
+
+  </style>
+  <script charset="utf-8" id="injection_graph_func"
+ src="injection_graph_func.js"></script>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!-- ImageReady Slices (website_new.psd) -->
-<table id="Table_01" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-	<tr height="30">
-	   <td width="35"></td>
-		<td colspan="6">
-			</td>
-	</tr>
-	<tr>
-		<td rowspan="5" background="images/menu_filler.jpg">
-			</td>
-		<td rowspan="5" background="images/index_03.jpg" width="226">
-			<!-- <img src="images/index_03.jpg" width="226" height="108" alt="">--></td>
-		<td rowspan="5" background="images/index_04.jpg">
-			<!--<img src="images/index_04.jpg" width="224" height="108" alt="">--></td>
-		<td rowspan="4" background="images/index_05_new.jpg" height="97" width="134">
-			<!--<img src="images/index_05.jpg" width="134" height="97" alt="">--></td>
-		<td colspan="2" background="images/index_06_new.jpg" height="16">
-			<!--<img src="images/index_06_new.jpg" width="202" height="16" alt="">--></td>
-		<td rowspan="5" background="images/menu_filler.jpg" width="100%">
-			<!--<img src="images/index_07.png" width="17" height="108" alt="">--></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="index.html"><img src="images/index_08_new.jpg" width="96" height="27" alt="" border="0"></a></td>
-		<td>
-			<a href="music.html"><img src="images/index_09_new.jpg" width="106" height="27" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="about.html"><img src="images/index_10_new.jpg" width="96" height="24" alt="" border="0"></a></td>
-		<td>
-			<a href="art.html"><img src="images/index_11_new.jpg" width="106" height="24" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="research.html"><img src="images/index_12_new.jpg" width="96" height="30" alt="" border="0"></a></td>
-		<td>
-			<a href="contact.html"><img src="images/index_13_new.jpg" width="106" height="30" alt="" border="0"></a></td>
-	</tr>
-	<tr height="11">
-		<td colspan="3" background="images/index_14.jpg">
-			<!--<img src="images/index_14.jpg" width="336" height="11" alt="">--></td>
-	</tr>
-	<tr height="100%">
-		<td>
-			</td>
-		<td background="images/sidebar_filler.jpg" width="226" class="sidebar">
-        <!-- SIDEBAR CONTENT AREA -->
-        <br><br>
-        James Hughes<br>
-        6211 Sudikoff Lab<br>
-        Dartmouth College<br>
-        Hanover, NH 03755<br><br>
-        hughes (at) cs<br>(dot) dartmouth (dot) edu<br><br>
-        Office:  (603) 646-8751
-        <br><br><br>
-        <img src="images/dartmouth_shield.png" width="135">
-        
-        </td>
-		<td colspan="4" width="577" class="content">
-		<!-- PRIMARY CONTENT AREA -->	
-		<table cellpadding=0 cellspacing=0 width=100% class="content_table">
-        <tr height=25><td colspan=3></td></tr>
-        <tr><td width=75></td><td>
-Here you will find most of the music I have made over the past several years.<br><br>
-I began producing electronic music in high school with a friend under the name "Psycho Kinetics," but have since branched out into other forms as diverse as lo-fi rock and classical composition.  
-<br><br>
-All titles here are available for download off this page.  
-<br><br>
-Music &copy; 2001-2009 James Hughes et al.  All music is released under the Creative Commons "Attribution Non-Commericial No Derivatives" license.<br><br><center><img src="images/by-nc-nd.png" height="25%" width="25%"></center><br>Please see further <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">license information</a> and <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode">full legal text</a>.<br><br>
+<body style="background-image: url(Background.gif);">
+<div
+ style="top: 30px; position: absolute; z-index: 1; left: 245px; width: 317px;"><big><big
+ style="font-weight: bold;"><big><span
+ style="font-family: courier new,courier,monospace;">
+Emiliano Miluzzo</span></big></big><span style="font-style: italic;">
+</span></big></div>
+<a
+ href="http://www.cs.dartmouth.edu/~miluzzo">
+<img style="position: absolute; top: 10px; left: 10px;"
+ src="emi4.jpg" border="0" height="138" width="177"></a>
+<a
+ href="http://www.dartmouth.edu/">
+<img style="position: absolute; top: 20px; left: 900px;"
+ src="dartlogo.gif" border="0" height="94" width="99"></a>
+<img
+ style="position: absolute; top: 70px; left: 245px;"
+ src="stripe.jpg" height="8" width="620"> <img
+ style="position: absolute; top: 630px; left: 245px;"
+ src="stripe.jpg" height="21" width="740"> <img
+ style="position: absolute; top: 430px; left: 8px;"
+ src="dx_band.jpg" height="800" width="177">
+<center><big> </big></center>
+<div id="coolmenu">
+<big><a href="http://www.cs.dartmouth.edu/~miluzzo/index.html">Personal
+Biography</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/research.html">Research</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/publications.html">Publications</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/cv.html">Curriculum
+Vitae</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/links.html">Interesting
+Links</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/download.html">Download</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/photos.html">Pictures</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html">Contact
+Information</a>
+</big>
+<center><big> </big></center>
+</div>
+<div
+ style="top: 117px; left: 245px; position: absolute; z-index: 1; width: 738px;"><big><big><span
+ style="font-style: italic; font-family: Arial;">
+<p><small>Curriculum Vitae</small> </p>
+<hr></span></big>
+</big>
+<div style="overflow: auto; height: 410px; width: 738px;"><big><big><span
+ style="font-family: Arial;"></span></big><span
+ style="font-family: Arial;"><small><a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/miluzzo_CV.pdf"><span
+ class="three" style="font-family: arial,sans-serif;">PDF
+version</span></a></small><br>
+<br>
+</span></big><span class="three"
+ style="font-family: arial,sans-serif;"><big
+ style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Contact
+Information</big><br>
+</span></big></big></big></big></big></big>
+</span>
+<p class="Risultato"
+ style="text-align: left; font-family: arial,sans-serif;"
+ align="left"><span class="three"
+ style="font-family: arial,sans-serif;">Dartmouth
+College,
+Computer Science Department<o:p></o:p></span></p>
+<p class="Risultato"
+ style="text-align: left; font-family: arial,sans-serif;"
+ align="left"><span class="three"
+ style="font-family: arial,sans-serif;">6211
+Sudikoff Laboratory<span style="font-size: 10pt;">&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </span><br>
+Hanover, <st1:place w:st="on"><st1:city w:st="on">NH</st1:city> <st1:postalcode
+ w:st="on">03755-3510</st1:postalcode>, <st1:country-region w:st="on">USA</st1:country-region></st1:place><o:p></o:p></span></p>
+<!--<p class="Risultato"
+ style="text-align: left; font-family: arial,sans-serif;"
+ align="left"><span class="three"
+ style="font-family: arial,sans-serif;">Email:
+miluzzo@cs.dartmouth.edu<o:p></o:p></span></p>!-->
+<p class="Risultato"
+ style="text-align: left; font-family: arial,sans-serif;"
+ align="left"><span class="three"
+ style="font-family: arial,sans-serif;">Web: <span style="">&nbsp;</span>www.cs.dartmouth.edu/~miluzzo
+<o:p></o:p></span></p>
+<span style="font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;"><br>
+</span></span><span class="three"
+ style="font-family: arial,sans-serif;"><big
+ style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Education</big></span></big></big></big></big></big></big><font
+ style="font-family: arial,sans-serif;" color="#000000"><font
+ size="-1"><big><b><span style="text-decoration: underline;"><br>
+</span></b></big></font></font>
+</span>
+<p class="MsoNormal"
+ style="margin-top: 6pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;">Dartmouth
+College,
+Hanover, NH, USA<o:p></o:p></span></p>
+<p class="MsoNormal"
+ style="margin-top: 6pt; text-indent: 6pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;"><b
+ style="">-
+Sept. 2005 -
+Present:<span style="">&nbsp; </span></b>Ph. D. Computer
+Science candidate<o:p></o:p></span></p>
+<p class="MsoNormal"
+ style="margin-top: 6pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;">University
+of Rome La Sapienza, Rome, Italy<o:p></o:p></span></p>
+<address style="font-family: arial,sans-serif;"><span
+ style="font-style: normal;" lang="IT"><span style=""><span
+ class="three" style="font-family: arial,sans-serif;">&nbsp;</span></span><span
+ style=""><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;</span></span><span
+ class="three" style="font-family: arial,sans-serif;">- M.
+Sc.
+and B. Sc.
+(04/2003), GPA: 3.8<br>
+<o:p></o:p></span></span></address>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<br style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Research</big></span></big></big></big></big></big></big><font
+ style="font-family: arial,sans-serif;" color="#000000"><font
+ size="-1"><big><b><span style="text-decoration: underline;"><br>
+</span></b></big></font></font>
+</span>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;">09/2005
+- Present:
+Dartmouth College, Dept. of Computer Science, Hanover,
+NH<o:p></o:p></span></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;"><i>Graduate
+Research Assistant - Designing, developing and testing wireless sensor networks systems
+under the supervision of Prof. Andrew T. Campbell.</i><i><o:p></o:p></i></span></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt 22.15pt; text-indent: -17.1pt; font-family: arial,sans-serif;"><span
+ style=""><span
+ style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"></span></span><span
+ dir="ltr"><span class="three"
+ style="font-family: arial,sans-serif;">
+<b style="">&nbsp;&nbsp;&nbsp;&nbsp;
+- CenceMe<o:p></o:p></b></span></span></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt 22.15pt; text-indent: -17.1pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;"><b
+ style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b
+ style="">
+</b>
+Currently developing and evolving CenceMe, the first application that integrates sensing and social networking. By using sensors (e.g., accelerometer, microphone, GPS, and compass if available) of-the-shelf devices such as mobile phones and machine learning techniques applied to the sensor data, CenceMe determines the activity and social context of a person and export this information on Facebook, MySpace, and Twitter. A prototype of CenceMe has been built for Symbian S60 phones and is currently available for Apple iPhone on the App Store.
+<br>
+<br>
+<b style="">
+- MetroSense Project<o:p></o:p></b></span></span></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt 22.15pt; text-indent: -17.1pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;"><b
+ style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b>MetroSense<b
+ style="">
+</b>is
+an architecture
+to support people-centric
+urban sensing
+at scale. We designed the architecture to exploit resources asymmetry
+and symbiotically
+operate with existing networks infrastructures. Part of the
+architecture is the
+opportunistic sensor networking model which exploits the uncontrolled
+mobility
+of people and vehicles to efficiently support sensing and
+communications in
+large scale urban settings. We are currently building the MetroSense
+infrastructure
+in the Dartmouth College Campus and it is already operational in the
+Computer
+Science building.<span style="">&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt 22.15pt; text-indent: -17.1pt; font-family: arial,sans-serif;"><span
+ style=""><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><o:p></o:p></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt 22.15pt; text-indent: -22.15pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;">09/2004
+- 08/2005: Columbia University, COMET Group, <st1:place w:st="on"><st1:city
+ w:st="on">New York</st1:city>, <st1:state w:st="on">NY</st1:state></st1:place><o:p></o:p></span></p>
+<p class="MsoBodyText"
+ style="margin: 6pt 0in 0.0001pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;"><i>Visiting
+Researcher under the</i><i> supervision of Prof. Andrew
+T. Campbell.</i><i><span style="">&nbsp;&nbsp; </span></i><span
+ style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></p>
+<p class="MsoNormal"
+ style="margin-left: 22.15pt; font-family: arial,sans-serif;"><span
+ style=""><span
+ style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"></span></span><span
+ dir="ltr"><span class="three"
+ style="font-family: arial,sans-serif;"><b style="">- The
+Armstrong Project</b></span></span><span class="three"
+ style="font-family: arial,sans-serif;"><br>
+<b style="">Medium Access Protocol: </b>Design,
+development, and analysis of a
+new hybrid TDMA/CSMA protocol (Funneling-MAC) to mitigate the funneling
+effect, a
+phenomenon
+that occurs in choke points in wireless sensor networks causing
+congestion and
+packets loss.<o:p></o:p></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">04/2003
+- 08/2004: INFO-COM Dept,
+University of Rome La Sapienza, Rome, Italy<o:p></o:p></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;"><i>Research
+Assistant
+under
+the supervision of Prof. Francesca Cuomo.<o:p> <br>
+</o:p></i></span></p>
+<ul style="margin-top: 0in; font-family: arial,sans-serif;"
+ type="disc">
+  <span class="three" style="font-family: arial,sans-serif;">
+  <li class="MsoNormal" style="">Study and
+implementation, using C, of solutions to improve Quality of Service in
+802.11 Wireless LAN networks.<o:p></o:p></li>
+  <li class="MsoNormal" style="">Study of the
+challanges to integrate Digital Video Broadcasting and UMTS within the
+European project <i>ePerSpace</i>, Towards the Era of
+Personal
+Services at Home and Everywhere.<o:p></o:p></li>
+  </span>
+</ul>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Publications<br>
+</big></span></big></big></big></big></big></big>
+</span>
 
-<a href="#pop">Indie pop/rock</a><br>
-<a href="#classical">Classical</a><br>
-<a href="#electronic">Electronic</a><br><br>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Emiliano Miluzzo, James M. H. Oakley, Hong Lu, Nicholas D. Lane, Ronald A. Peterson, <br>Andrew T. Campbell,"<span
+ style="font-family: arial,sans-serif;">Evaluating the iPhone as a Mobile Platform for People-Centric Sensing Applications</span>",
+In Proc. of <i> Intl Workshop on Urban, Community, and Social Applications of <br>Networked Sensing Systems (UrbanSense08)</i>,
+Raleigh, NC, USA, Nov. 4, 2008.
+<br>
+</o:p></span></p>
 
-<a name="pop"></a><i><font size=5>Indie pop/rock<br>(as James Hughes)</font></i>
-<br><br>
-<font size=4>Britten remixes (2008)</font><br>
-<a href="music/britten/salley_gardens.mp3">(down by the) Salley Gardens</a><br>
-<a href="music/britten/abraham.mp3">Abraham</a><br>
-<a href="music/britten/none_to_soothe.mp3">None to Soothe</a>
-<br><br>
-<font size=4>Houston E.P. (2007)</font><br>
-<a href="music/houston_ep/Sometime Next Year.mp3">Sometime Next Year</a><br>
-<a href="music/houston_ep/Anna 1.mp3">Anna 1</a><br>
-<a href="music/houston_ep/December 28.mp3">December 28</a><br>
-<a href="music/houston_ep/Anna 2.mp3">Anna 2</a><br>
-<a href="music/houston_ep/A Million Moments.mp3">A Million Moments</a><br><br>
-<font size=4>Misc. -- Updated 12/31/07</font><br>
-<a href="music/houston_ep/We came to an understanding.mp3">We came to an understanding</a>(2007)<br>
-<a href="music/sounds/lines_crossing.mp3">Lines Crossing</a>(2007)<br>
-<a href="music/sounds/when_I_die.mp3">When I Die</a>(2007)<br>
-<a href="music/sounds/the_way_you_pull_me_in.mp3">The way you pull me in</a>(2007)<br>
-<a href="music/sounds/no_good_news.mp3">No Good News (edit)</a>(2007)<br>
-<a href="music/sounds/night_walk.mp3">Night Walk (piano edit)</a>(2007)<br>
-<a href="music/sounds/kiss_the_moonlight.mp3">Kiss the Moonlight</a>(2007)<br>
-<a href="music/sounds/dont_come_crying.mp3">Don't Come Crying</a>(2007)<br>
-<a href="music/sounds/No Good News.mp3">No Good News</a>(2007)<br>
-<a href="music/sounds/Wicked Lies and Lily Roses.mp3">Wicked Lies &amp; Lily Roses</a>(2007)<br>
-<a href="music/sounds/Bow Down.mp3">Bow Down</a>(2007)<br>
-<a href="music/sounds/Night Walk.mp3">Night Walk</a>(2007)<br><br>
-<font size=4> "Sounds from Behind the Door" (2007) </font><br>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Emiliano Miluzzo, Nicholas D. Lane, Kristóf Fodor, Ronald A. Peterson, Hong Lu, Mirco Musolesi, 
+Shane. B. Eisenman, Xiao Zheng, Andrew T. Campbell,<br>"<span
+ style="font-family: arial,sans-serif;">Sensing Meets Mobile Social Networks: The Design, 
+Implementation and Evaluation of the <br>CenceMe Application</span>",
+In Proc. of <i> 6th ACM Conference on Embedded Networked Sensor Systems (SenSys '08)</i>,
+Raleigh, NC, USA, Nov. 5-7, 2008.
+<br>
+</o:p></span></p>
 
-<a href="music/sounds/sounds.zip">Entire album (.zip format, 192k mp3)</a><br>
-1. <a href="music/sounds/01 (Nevsky Prospect).mp3">(Nevsky Prospect)</a>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Andrew T. Campbell, Shane B. Eisenman, Kristóf Fodor, Nicholas D. Lane, Hong Lu, 
+Emiliano Miluzzo, Mirco Musolesi, Ronald A. Peterson and Xiao Zhen,"<span
+ style="font-family: arial,sans-serif;">Transforming the Social Networking Experience with Sensing Presence 
+from Mobile Phones</span>",
+(Demo Abstract) In Proc. of <i> 6th ACM Conference on Embedded Networked Sensor Systems (SenSys '08)</i>,
+Raleigh, NC, USA, Nov. 5-7, 2008.
 <br>
-2. <a href="music/sounds/02 Hold Me Closer.mp3">Hold Me Closer</a>
-<br>
-3. <a href="music/sounds/03 Turning Around in Place.mp3">Turning Around in Place</a>
-<br>
-4. <a href="music/sounds/04 (He was already on the stairs...).mp3">(He was already on the stairs...)</a>
+</o:p></span></p>
 
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Emiliano Miluzzo, Nicholas D. Lane, Andrew T. Campbell, Reza Olfati-Saber,<br>"<span
+ style="font-family: arial,sans-serif;">CaliBree: a Self-Calibration System for Mobile Sensor Networks</span>",<br>
+In Proc. of <i> International Conference on Distributed Computing in Sensor <br>Networks (DCOSS 2008)</i>,
+Santorini Island, Greece, June 11-14, 2008.
 <br>
-5. <a href="music/sounds/05 Triumph of Reason.mp3">Triumph of Reason</a>
-<br>
-6. <a href="music/sounds/06 Please Speak to Me, My Angel.mp3">Please Speak to Me, My Angel</a>
-<br>
-7. <a href="music/sounds/07 In the Beginning.mp3">In the Beginning</a>
-<br>
-8. <a href="music/sounds/08 To A.I.S..mp3">To A.I.S.</a>
-<br>
+</o:p></span></p>
 
-9. <a href="music/sounds/09 (...in the crossroads, bow down, and kiss the earth).mp3">(...in the crossroads, bow down, and kiss the earth)</a>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Andrew T. Campbell, Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald Peterson, Hong Lu, Xiao Zheng,
+Mirco Musolesi, Kristof Fodor, Gahng-Seop Ahn,"<span
+ style="font-family: arial,sans-serif;">The Rise of People-Centric Sensing</span>",
+In <i>IEEE Internet Computing Special Issue on Mesh Networks, 2008</i>, 2008.
 <br>
-10. <a href="music/sounds/10 My Enemy.mp3">My Enemy</a>
-<br>
-11. <a href="music/sounds/11 My Son the Wanderer.mp3">My Son the Wanderer</a>
-<br>
-12. <a href="music/sounds/12 Benediction.mp3">Benediction</a>
-<br>
-13. <a href="music/sounds/13 (Seven Years in Exile).mp3">(Seven Years in Exile)</a>
+</o:p></span></p>
 
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Andrew T. Campbell, Shane B. Eisenman, Kristóf Fodor, Nicholas D. Lane, Hong Lu,
+Emiliano Miluzzo, Mirco Musolesi, Ronald A. Peterson and Xiao Zhen,"<span
+ style="font-family: arial,sans-serif;">CenceMe: Injecting Sensing Presence into Social Network Applications 
+using Mobile Phones</span>",
+(Demo Abstract) In Proc. of <i> Ninth ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc '08)</i>,
+Hong Kong, May 27-30, 2008.
 <br>
-14. <a href="music/sounds/14 Upstairs in Chicago (195_).mp3">Upstairs in Chicago (195?)</a>
-<br>
-15. <a href="music/sounds/Song for B..mp3">Song for B. (bonus track)</a>
-<br><br>
+</o:p></span></p>
 
-<font size=4>Miscellaneous</font><br><br>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Mirco Musolesi, Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Tanzeem Choudhury, Andrew T. Campbell,"<span
+ style="font-family: arial,sans-serif;">The Second Life of a Sensor: Integrating Real-world Experience in Virtual Worlds using Mobile Phones</span>",
+In Proc. of <i> Fifth Workshop on Embedded Networked Sensors (HotEmNets 2008)</i>,
+June 2008, Charlottesville, Virginia, USA.
+<br>
+</o:p></span></p>
 
-<a href="music/misc/James Hughes - Gun Failure (in a dream).mp3">Gun Failure (in a dream)</a>(2005)
-<br><br>
-<a href="music/misc/James Hughes - What Was That You Said.mp3">What Was That You Said?</a>(2004)
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Emiliano Miluzzo,
+Xiao Zheng, Krist&#243f Fodor, Andrew T. Campbell, <br>"<span
+ style="font-family: arial,sans-serif;">Radio Characterization
+of 802.15.4 and its Impact on the Design of Mobile Sensor Networks</span>",<br>
+In Proc. of <i> Fifth European Conference on Wireless Sensor Networks <br>(EWSN 2008)</i>,
+Bologna, Italy, Jan. 30/31 - Feb 1, 2008.
+<br>
+</o:p></span></p>
 
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Andrew T. Campbell, Shane B. Eisenman, Kristóf Fodor, Nicholas D. Lane, Hong Lu,
+Emiliano Miluzzo, Mirco Musolesi, Ronald A. Peterson and Xiao Zhen,"<span style="font-family: arial,sans-serif;">CenceMe: Injecting Sensing Presence into Social Network Applications using Mobile Phones</span>",
+(Demo Abstract) In Proc. of <i> Ninth Workshop on Mobile Computing Systems and Applications (HotMobile 2008)</i>,
+Silverado Resort, Napa Valley, CA, USA, Feb. 25-26, 2008.
 <br>
-<a href="music/misc/James Hughes - If Laughing Makes You Cry.mp3">If Laughing Makes You Cry</a>(2004)
-<br>
-<a href="music/misc/James Hughes - City Lights (Indecisive).mp3">City Lights (Indecisive)</a>(2004)
-<br>
-<a href="music/misc/James Hughes - Happy Valentine's Day.mp3">Happy Valentine's Day</a>(2004)
-<br>
-<a href="music/misc/James Hughes - Indie Rock Fantasy.mp3">Indie Rock Fantasy</a>(2004)
-<br>
-<a href="music/misc/James Hughes - Summer's Sleeping, Winter's Dead.mp3">Summer's Sleeping, Winter's Dead</a>(2004)
-<br>
-<a href="music/misc/James Hughes - The Economics Song.mp3">The Economics Song</a>(2004)
+</o:p></span></p>
 
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Nicholas D. Lane, Shane B. Eisenman, Mirco Musolesi, Emiliano Miluzzo, Andrew T. Campbell,"<span style="font-family: arial,sans-serif;">Urban Sensing Systems: Opportunistic or Participatory?</span>", In Proc. of <i> Ninth Workshop on Mobile Computing Systems and Applications (HotMobile 2008)</i>,
+Silverado Resort, Napa Valley, CA, USA, Feb. 25-26, 2008.
 <br>
-<a href="music/misc/Nate Krefman & James Hughes - In the Cracks (Of my imperfect world).mp3">In the Cracks (Of my imperfect world)</a>(2004)(with Nate Krefman, music &amp; lyrics &copy; 2004 Nate Krefman)
-<br><br>
-<font size=4>as Perfect Defect</font><br><br>
-<a href="music/misc/Perfect Defect - Heaven's Asleep.mp3">Heaven's Asleep</a>(2004)
-<br>
-<a href="music/misc/Perfect Defect - Landslide (Punk Mix).mp3">Landslide (Punk Mix)</a>(2004)
-<br><br>
-<i><font size=5>Classical</font></i><a name="classical"></a>
+</o:p></span></p>
 
-<br><br>
-<a href="music/misc/James Hughes - piece-1-WI2005.mp3">Piece 1, Winter 2005</a>(2005)
-<br><br>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">
+Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Andrew T. Campbell,
+"CenceMe - Injecting Sensing Presence into Social Networking Applications",
+(Invited paper) In <i>
+Proc. of Second European Conference on Smart Sensing and Context (EuroSSC 2007)</i>, Lake District, UK, October 23-25, 2007.<o:p>
+<br>
+</o:p></span></p>
 
-<i><font size=5>Electronic</font></i><a name="electronic"></a>
-<br><br>
-<font size=4>as James Hughes</font>
-<br><br>
-<a href="music/misc/James Hughes & Stephen Sellers - Temporal Flux (underground).mp3">Temporal Flux (underground)</a>(2004)
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Shane
+B. Eisenman,
+Emiliano Miluzzo, Nicholas D. Lane, Ronald A. Peterson, Gahng-Seop Ahn,
+Andrew T. Campbell,
+"The BikeNet Mobile Sensing System for Cyclist Experience Mapping",
+In <i>Proc. of Fifth ACM Conference on Embedded Networked
+Sensor Systems (SenSys 2007)</i>, Sydney, Australia, Nov. 6-9, 2007.<o:p>
 <br>
-<a href="music/misc/James Hughes & Stephen Sellers - Standard Deviation.mp3">Standard Deviation</a>(2004)(with Stephen Sellers)
-<br><br>
+</o:p></span></p>
 
-<font size=4>as Psycho Kinetics</font>
-<br><br>
-<font size=4>"A Reason" (2002-2004)</font>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Nicholas D. Lane, Shane B. Eisenman, Emiliano Miluzzo, Mirco Musolesi, Andrew T. Campbell,"<span style="font-family: arial,sans-serif;">Urban Sensing: Opportunistic or Participatory?</span>", In Proc. of <i> First Workshop Sensing on Everyday Mobile Phones in Support of Participatory Research
+</i>, Sydney, Australia, November 6, 2007.
 <br>
-1. <a href="music/a_reason/120.mp3">120</a>
-<br>
-2. <a href="music/a_reason/Gebrochener Stern aus Glas.mp3">Gebrochener Stern aus Glas</a>
-<br>
-3. <a href="music/a_reason/AM (new mix).mp3">AM (new mix)</a>
+</o:p></span></p>
 
-<br>
-4. <a href="music/a_reason/Lux Nova (2003 Edit).mp3">Lux Nova (2003 Edit)</a>
-<br>
-5. <a href="music/a_reason/Aurora (2003).mp3">Aurora (2003)</a>
-<br>
-6. <a href="music/a_reason/Shadow of Faith.mp3">Shadow of Faith</a>
-<br>
-7. <a href="music/a_reason/dotOut (ambient dancefloor mix).mp3">.Out (ambient dancefloor mix)</a>
-<br>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Gahng-Seop
+Ahn,
+Emiliano Miluzzo, Andrew T. Campbell, Se Gi Hong and Francesca Cuomo,
+"Funneling-MAC:
+A Localized, Sink-Oriented MAC For Boosting Fidelity in Sensor
+Networks",
+In <i>Proc. of Fourth ACM Conference on Embedded Networked Sensor
+Systems
+(SenSys 2006)</i>, Boulder, Colorado, USA, Nov. 1-3, 2006.<o:p> <br>
+</o:p></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Gahng-Seop
+Ahn,
+Emiliano Miluzzo, Andrew T. Campbell, "A Funneling-MAC for High
+Performance Data Collection in Sensor Networks", (Demo Abstract), In <i>Proc.
+of Fourth ACM Conference on Embedded Networked Sensor Systems (SenSys
+2006)</i>,
+Boulder, Colorado, USA, Nov. 1-3, 2006.<o:p> <br>
+</o:p></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Emiliano
+Miluzzo, Nicholas D. Lane, and Andrew T. Campbell, "Virtual Sensing
+Range",
+(Poster Abstract), In <i>Proc. of Fourth ACM Conference on Embedded
+Networked
+Sensor Systems (SenSys 2006)</i>, Boulder, Colorado, USA, Nov. 1-3,
+2006.<o:p> <br>
+</o:p></span></p>
+<p class="MsoNormal"
+ style="text-align: left; font-family: arial,sans-serif;"
+ align="left"><span class="three"
+ style="font-family: arial,sans-serif;">Shane B.
+Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald A. Peterson,
+Gahng-Seop
+Ahn, and Andrew T. Campbell, "Metrosense Project: People-Centric
+Sensing
+at Scale", In <i>Proc. of First Workshop on World-Sensor-Web (WSW 2006)</i>,
+Boulder, Colorado, USA, Oct. 31, 2006.&nbsp; <o:p></o:p></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Andrew
+T.
+Campbell, Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald
+Peterson, "People-Centric Urban Sensing" (Invited Paper), In <i>Proc.
+of Second ACM/IEEE Annual International Wireless Internet Conference
+(WICON
+2006)</i>, Boston, USA, August 2-5, 2006. <i><o:p></o:p></i></span></p>
 
-8. <a href="music/a_reason/Sonnenuntergang (Luna del Mar Mix).mp3">Sonnenuntergang</a>
-<br>
-9. <a href="music/a_reason/dotOut (trance mix).mp3">.Out (trance mix)</a>
-<br>
-10. <a href="music/a_reason/SpinEqualsOneHalf.mp3">Spin = 1/2</a>
-<br>
-11. <a href="music/a_reason/For This Life.mp3">For This Life</a>
-<br>
-12. <a href="music/a_reason/The Forebears of This Planet.mp3">The Forebears of This Planet</a>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Committee</big></span></big></big></big></big></big></big><br
+ style="font-family: arial,sans-serif;">
+</span>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">Panel Co-Chair of First ACM MobiHoc S3 Workshop, co-located with ACM MobiHoc 2009.<o:p></o:p></span></p>
 
-<br><br>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Industry</big></span></big></big></big></big></big></big><br
+ style="font-family: arial,sans-serif;">
+</span>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;">04/2002
+- 04/2003: SIEMENS Mobile
+Communications, Milan, Italy.<o:p></o:p></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;"><i>Intern
+under the
+mentorship
+of Dr. Giovanna De Zen<o:p>&nbsp; <br>
+</o:p></i></span></p>
+<p class="MsoNormal"
+ style="margin-left: 39.25pt; text-indent: -17.1pt; font-family: arial,sans-serif;"><span
+ style=""><span
+ style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"></span></span><span
+ dir="ltr"><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;
+Study of the
+challanges to integrate and achieve interoperablility between Wireless
+LAN 802.11&nbsp; networks
+and 3G UMTS cellular networks.<o:p></o:p></span></span></p>
+<p class="MsoNormal"
+ style="margin-left: 39.25pt; text-indent: -17.1pt; font-family: arial,sans-serif;"><span
+ style=""><span
+ style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"></span></span><span
+ dir="ltr"><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;&nbsp;
+Development and
+testing, using C and C++, of an experimental platform to authenticate
+and
+authorize a Wireless LAN client to a cellular network server via a
+802.11
+access link.<o:p></o:p></span></span></p>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Teaching<br>
+</big></span></big></big></big></big></big></big>
+</span>
+<p style="font-family: arial,sans-serif;" class="MsoHeading7"><span
+ style="font-size: 11pt;" lang="IT"><span class="three"
+ style="font-family: arial,sans-serif;">04/2007 -
+06/2007: Department of
+Computer
+Science, Dartmouth College, Hanover, NH, USA<o:p></o:p></span></span></p>
+<p style="font-family: arial,sans-serif;" class="MsoNormal"><span
+ class="three" style="font-family: arial,sans-serif;"><i>Teaching
+Assistant </i>for the
+undergraduate course Computer Networks in the
+Computer Science
+Department.<o:p></o:p></span></p>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Computer
+skills</big></span></big></big></big></big></big></big><br
+ style="font-family: arial,sans-serif;">
+</span>
+<p class="MsoHeading9"
+ style="margin-left: 124.75pt; text-indent: -124.75pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;">Languages
+and
+Packages:<span style=""> </span>ObjectiveC, nesC, C/C++,
+Visual C++, Java/JME, php, bash, perl, <br>&nbsp;&nbsp;&nbsp;Microsoft Office,
+Open Office, LaTeX.<o:p></o:p></span></p>
+<p class="MsoNormal"
+ style="margin-left: -27pt; font-family: arial,sans-serif;"><span
+ style=""><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span class="three"
+ style="font-family: arial,sans-serif;">Development Environments: Xcode, Eclipse.<o:p></o:p></span></p>
+<p class="MsoNormal"
+ style="margin-left: -27pt; font-family: arial,sans-serif;"><span
+ style=""><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span class="three"
+ style="font-family: arial,sans-serif;">OS: IBM PC (DOS,Windows), Mac OS, UNIX, Linux, Solaris, TinyOS. <o:p></o:p></span></p>
 
-<font size=4>"Ambient Demo" (2002)</font>
-<br>
-1. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 01 - The Infinite Meaning of Time.mp3">The Infinite Meaning of Time</a>
-<br>
-2. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 02 - Orion.mp3">Orion</a>(with Kinesh Patel)
-<br>
-3. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 03 - Mind Shaper.mp3">Mind Shaper</a>(with Camille Belzil)
-<br>
+<span class="three" style="font-family: arial,sans-serif;"><br
+ style="font-family: arial,sans-serif;">
+<big style="font-family: arial,sans-serif;"><big><big><big><big><big><span
+ style="font-size: 11pt; font-weight: bold;" lang="IT"><big>Languages
+</big></span></big></big></big></big></big></big><br
+ style="font-family: arial,sans-serif;">
+</span>
+<p class="MsoHeading9"
+ style="margin-left: 124.75pt; text-indent: -124.75pt; font-family: arial,sans-serif;"><span
+ class="three" style="font-family: arial,sans-serif;">Italian:<span style=""> </span>
+native speaker.<o:p></o:p></span></p>
+<p class="MsoNormal"
+ style="margin-left: -27pt; font-family: arial,sans-serif;"><span
+ style=""><span class="three"
+ style="font-family: arial,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span class="three"
+ style="font-family: arial,sans-serif;">English: fluent.<o:p></o:p></span></p>
 
-4. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 04 - Alchemy.mp3">Alchemy</a>
-<br>
-5. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 05 - The Infinite Meaning of Time - Remix.mp3">The Infinite Meaning of Time - Remix</a>(with Kinesh Patel)
-<br>
-6. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 06 - AM.mp3">AM (original mix)</a>
-<br>
-7. <a href="music/ambient_demo/Psycho Kinetics - Ambient Demo - 07 - The Edge of Reality.mp3">The Edge of Reality</a>(with Kinesh Patel)
-<br><br>
 
-<font size=4>"Logical Progression" (2001) with Kinesh Patel</font>
-<br>
-1. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 01 - Faithbomb (DJ Psycho Remix).mp3">Faithbomb (remix)</a>
-<br>
-2. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 02 - Ayla Part 3 (DJ Kinetics Remix).mp3">Ayla Part 3 (remix)</a>
-<br>
-3. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 03 - Flying Away (Dance Mix).mp3">Flying Away (Dance Mix)</a>
-<br>
-4. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 04 - Journey Beyond.mp3">Journey Beyond</a>
-
-<br>
-5. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 05 - Liebe (DJ Psycho Remix).mp3">Liebe (remix)</a>
-<br>
-6. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 06 - Flying Away (Epic Trance Mix).mp3">Flying Away (Epic Trance Mix)</a>
-<br>
-7. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 07 - Star City Meltdown.mp3">Star City Meltdown</a>(with Camille Belzil)
-<br>
-8. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 08 - Lux Nova.mp3">Lux Nova</a>
-<br>
-
-9. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 09 - Harmony.mp3">Harmony</a>
-<br>
-10. <a href="music/log_prog/Psycho Kinetics - Logical Progression - 10 - Logical Progression.mp3">Logical Progression</a><br><br><br>
-
-		</td><td width=75></td></tr></table>	
-        
-        <td></td>
-			
-        </td>
-	</tr>
-	
-	<tr>
-		<td>
-			<img src="images/spacer.gif" width="35" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="226" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="224" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="134" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="55" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="56" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="43" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="100%" height="1" alt=""></td>
-		<!--<td>
-			<img src="images/spacer.gif" width="55" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="57" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="100%" height="1" alt=""></td>-->
-	</tr>
-
-	
-</table>
-<!-- End ImageReady Slices -->
+</div>
+</div>
+<div
+ style="position: absolute; top: 665px; height: 21px; left: 829px; width: 151px;"><big><big><small><small><small
+ style="font-style: italic;"><span style="font-family: verdana;"><small>last
+modified: March 2009</small></span></small></small></small><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></big></big></div>
+<div
+ style="position: absolute; top: 660px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><big><big><small>
+<font size="-1"><small><sup>&copy; Emiliano Miluzzo</sup></small></font>
+</small></big></big></div>
 </body>
 </html>
-i

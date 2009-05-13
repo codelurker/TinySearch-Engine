@@ -1,117 +1,63 @@
-http://www.cs.dartmouth.edu/~theory
+http://www.cs.dartmouth.edu/~wbc/suditour/index.html
 2
-<!DOCTYPE HTML SYSTEM "html.dtd">
-<HTML><HEAD><TITLE> Theory and Algorithms at Dartmouth </TITLE></HEAD>
-<BODY BGCOLOR="#FFFFee" TEXT="000000" LINK="0000C1" VLINK="FF0000" 
-ALINK="FF6CF8">
-<H1>Theory and Algorithms </H1>
 
-The theory of computing is the study of efficient computation, 
-models of computational processes, and their limits. 
-It has emerged over the past few decades as a deep and fundamental 
-scientific discipline.  Many fundamental questions are still
-unanswered.
-This field has potential to substantially impact
-current issues in the development of systems and software, the 
-nation's network and communications infrastructure, and the 
-physical and biological sciences.
-
-<p>
-Our faculty and students are actively involved in areas 
-such as the design of fundamental algorithms, 
-combinatorial optimization, 
-distributed and parallel computation,
-machine learning, computational complexity theory, 
-computational geometry and topology, 
-dynamical systems, multimedia and image processing, compression,
-and the computational sciences.
-
-<h2> Reading Group </h2> Dartmouth has an active theory reading group.
-We have vigorous, exciting discussions/presentations on recent
-research in theoretical computer science (TCS).  Everyone is welcome;
-consult the <a href="winter_2009.html">TRG web page</a> for more details.
-<p>
-
-<h2> Faculty </h2>
-
-<ul>
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~ac">
-Amit Chakrabarti</a>
-</b>
-works on complexity theory, with an emphasis on proving
-lower bounds in concrete computational models, and to a lesser extent on
-approximation algorithms and space-efficient streaming algorithms. He is
-a co-inventor of the "information complexity" paradigm. He received an
-NSF Career Award in 2005.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~thc">
-Tom Cormen</a>
-</b>
-works on algorithm engineering and parallel computing.  He
-focuses on algorithms and software infrastructure to mitigate the high
-latency inherent in accessing the outer levels of the memory hierarchy and
-in interprocessor communication.  He is coauthor of the leading textbook on
-computer algorithms, <i>Introduction to Algorithms</i>.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~scot">
-Scot Drysdale</a>
-</b>
-works in computational geometry.  Much of his work has been
-on Voronoi diagrams for various shapes and distance measures, on Delaunay
-triangulations, and on applications of these structures.  He has also worked
-on problems arising from numerically controlled machining.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~lkf">
-Lisa Fleischer</a>
-</b>
-works on algorithm design and analysis for problems in
- network routing and design, combinatorial optimization, 
-and linear programming.  Her recent work focusses in the area
-of algorithmic economics and game theory.  She received
-the Fulkerson Prize in 2003, an NSF Career Award in 2000.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~prasad">
-Prasad Jayanti</a>
-</b>
-works on concurrent/distributed algorithms and lower bounds, especially for
-problems relating to synchronization and fault tolerance in asynchronous
-systems.  His recent work includes snapshot algorithms, abortable locks, and
-priority locks.  He received the Alfred P. Sloan Research Fellowship in 2000.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~rockmore">
-Dan Rockmore</a>
-</b>
-works mainly in applied and computational harmonic
-analysis, primarily related to generalizations of the fast Fourier
-transform. He has worked in signal and image processing and
-computational biology. He is also Chairman of the Department of
-Mathematics and on the external faculty of the Santa Fe Institute
-where he is Director of the Complex Systems Summer School.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~pw">
-Peter Winkler</a>
-</b>
-devises and studies algorithms, for example those which
-rely on rapidly mixing Markov chains.  His methods usually involve
-combinatorics, probability or statistical physics. Formerly Director of
-Fundamental Mathematics Research at Bell Labs, he is now Albert
-Bradley Third Century Professor in the Sciences at Dartmouth, and
-is on the faculties of both computer science and mathematics.
-<p>
-<b> 
-<a href="http://www.cs.dartmouth.edu/~afra">
-Afra Zomorodian</a>
-</b>
-works in computational topology.  He is known for his work on the
-theory of persistent homology and its applications.
-</p>
-</ul>
-
+<html>	
+  <body>
+      <ul>
+	<table border=0>
+	  <tr>
+	      <td width = 100>
+	          <li>
+		  <a href="001/index.html"><font size="+2">001</font></a>
+	    <td>  
+	    <td width = 100>
+	      <a href="001/index.html"><img src="photos/s001-1t.jpg"></a>
+	    <td> 
+	  </tr>
+	  <tr>
+	    <td width = 100>
+	      <li>
+	      <a href="003/index.html"><font size="+2">003</font></a>
+	    <td>
+	    <td width = 100>
+	      <a href="003/index.html"><img src="photos/s003-3t.jpg"></a>
+	    <td>
+	  </tr>
+	  <tr>
+	    <td width = 100>
+	      <li>
+	      <a href="005/index.html"><font size="+2">005</font></a>
+	    <td>
+	    <td width = 100>
+	      <a href="005/index.html"><img src="2002-12-02-photos/005-tiny.jpg"></a>
+	    <td>
+	  </tr>
+	<tr>
+	<td><li><a href="011/index.html"><font size="+2">011</font></a></td>
+	</tr>
+	</table>
+	
+      <li><a href="s1/sudi_first_floor.html">First floor map</a>
+      <li><a href="s2/sudi_second_floor.html">Second floor map</a>
+      <li><a href="tech/index.html">Machine Room area</a>
+      <li><a href="switches/index.html">switches</a>
+      <li><a href="switches/access-points.html">access points </a>
+      <li><a href="servers/servers.html">servers</a>
+      <li><a href="servers/power.html">remote power switches</a>
+      <li><a href="http://www.dartmouth.edu/~blocked/"> are you blocked ?? </a>
+      <li><a href="http://netmon-network.dartmouth.edu">Dartmouth netmon</a>
+      <li><a href="ac/index.html">How the heating and air conditioning works</a>
+      <li><a href="construction-03-04">new addition</a>
+      <li><a href="check-computers/data.html">linux computers currently down</a>
+      <li><a href="backup/index.html">what server backs up what computer</a>
+      <li><a href="switches/ports.html">ports in new addition</a>
+    </ul>
+    <h3>Note: these pages might not be correctly updated with computer
+names and locations.</h3>  The new database is 
+<a href="http://www.cs.dartmouth.edu/~data/sudi_db/index.html">
+here</a>.  
+Only the switch and access point tables are being maintained.
+The photos are also kind of old.
+  </body>
+  </html>
+<em>mi

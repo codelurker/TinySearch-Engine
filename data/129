@@ -1,138 +1,319 @@
-http://www.cs.dartmouth.edu/farid/research/tampering.html
+http://www.cs.dartmouth.edu/FG
 2
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-
-<title> Digital Forensics & Tampering </title>
+<title>FG</title>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+<body bgcolor="#ffffff" text="#000033" link="#000064" alink="#000033" 
+vlink="#000033">
 
+<center>
+<img src="FG-Logo.gif">
+</center>
 
-<table align=center width=750 border=0>
-<tr>
+<blockquote> 
 
-<td valign=top > 
-<b> Digital Forensics & Tampering</b>
-<BR>
+<font size="+2"><b>FG Version 1.4</b></font>
+<br>
+<b>(released July 2006)</b>
+
 <p>
-We are <a href="digitaltampering">living in a world</a> where seeing
-(or hearing) is no longer believing. The technology that allows for
-digital media to be manipulated and distorted is developing at
-break-neck speeds. And at the same time, our understanding of the
-technological, ethical, and legal implications is lagging behind.  We
-are, therefore, developing mathematical and computational algorithms
-to detect tampering in digital media (in the absence of any type of
-digital watermark or signature). To do so, we quantify statistical
-correlations that result from specific forms of digital tampering, and
-devise detection schemes to reveal these correlations.
-</td>
 
-<td> &nbsp&nbsp </td>
+ABCDEFG (<u>A</u>synchronous <u>B</u>uffered <u>C</u>omputation
+<u>D</u>esign and <u>E</u>ngineering <u>F</u>ramework
+<u>G</u>enerator), which we shorten to FG and pronounce "effigy," is a
+programming environment for pipeline-structured programs. Such
+programs pass buffers among asynchronous stages, so that while one
+stage accesses high-latency data, other stages can make progress.  The
+FG project is supported by DARPA, IBM, and the National Science
+Foundation.  You can <a href="#fgdownload">download FG version 1.4</a>
+from this page.
 
-<!--<td valign=top> <IMG SRC="brad_cher.jpg" width=393 height=256> </td>-->
-<td valign=top> 
-<A onmouseover='ducks.src="police_ducks2.jpg"' onmouseout='ducks.src="police_ducks.jpg"'><IMG NAME="ducks" SRC="police_ducks.jpg" width=400 height=267> </A> 
-<BR>
-<div align=center>
-<i><font size=-1> The rendered spheres in the overlay reveal lighting differences.</font> </i>
-</div>
 
-</td>
-</tr>
+<p>
+<a name="fgdescr"></a>
+<font size="+1"><b>About FG</font></b>
 
-<tr>
-<td colspan=3>
-<BR>
-In related work, we have developed techniques to differentiate between
-<a href="cgorphoto.html">photographic and photorealistic</a> images,
-and to detect the presence of <a href="steganography.html">hidden
-messages</a> embedded within digital images.
+<blockquote>
 
-<BR><BR>
+FG is a programming environment for asynchronous programs that run on
+clusters and fit into a pipeline framework.  It enables the programmer
+to write a series of synchronous functions and represents them as
+stages of an asynchronous pipeline.  FG mitigates the high latency
+inherent in interprocessor communication and accessing the outer
+levels of the memory hierarchy.  It overlaps separate pipeline stages
+that perform communication, computation, and I/O by running the stages
+asynchronously.  Each stage maps to a thread.  Buffers, whose sizes
+correspond to block sizes in the memory hierarchy, traverse the
+pipeline.  FG makes such  programs easier
+to write, smaller, and faster.  
 
-<i>(Collaborative work with 
-<a href="http://www.mit.edu/~kimo"> Kimo Johnson</a>, 
-<a href="http://www.cs.dartmouth.edu/~erickee"> Eric Kee</a>, 
-Alin Popescu, 
-<a href="http://www.cs.dartmouth.edu/~whwang">Weihong Wang</a>, and
-Jeff Woodward)</i>
+<p>
 
-<BR><BR>
+New features in FG version 1.4 include disjoint and intersecting
+pipelines. FG allows you to run more than one pipeline concurrently on
+one processor. This flexibility enables cluster computations in which a given processor may send more or less data than it receives. Please see pages 32-36 in the <a href="fg_tutorial.pdf">FG tutorial</a> for details.
 
-<b>Contact me at <a href=http://hanyfarid.org/maat/>Ma'at Consulting</a> for more
-information about our consulting services.</b> <BR><BR>
-</td>
-</tr>
 
-</table>
+</blockquote>
 
-<HR>
+<font size="+1"><b>People</font></b>
+<ul>
+  <li> <a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen</a>
+  <li> Priya Natarajan
+</ul>
 
-<table align=center width=750>
-<tr>
-<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+<font size="+1"><b>FG Alumni</b></font>
 
-<td nowrap width=500 valign=top><font size=-1><i>
-<b>Image:</b>
-<ol>
-  <li> A Survey of Image Forgery Detection <a href="../publications/spm09.html">(spm09)</a><BR>
-  <li> Exposing Digital Forgeries from JPEG Ghosts <a href="../publications/tifs09.html">(tifs09)</a><BR>
-  <li> Photo Fakery and Forensics <a href="../publications/advcomp09.html">(advcomp09)</a><BR>
-  <li> Digital Doctoring: can we trust photographs? <a href="../publications/deception09.html">(deception09)</a><BR>
-  <li> Digital Image Ballistics from JPEG Quantization: A Followup Study <a href="../publications/tr08.html">(tr08)</a><BR>
-  <li> Digital Image Forensics <a href="../publications/sciam08.html">(sciam08)</a><BR>
-  <li> Photography Changes What We Are Willing To Believe <a href="../publications/click08.html">(click08)</a> <BR>
-  <li> Digital Image Forensics <a href="../publications/aafs08a.html">(aafs08a)</a> <BR>
-  <li> Lighting and Optical Tools for Image Forensics  <a href="../publications/mkjthesis07.html">(thesis07)</a> <BR>
-  <li> Detecting Photographic Composites of People <a href="../publications/iwdw07.html">(iwdw07)</a><BR>
-  <li> Exposing Digital Forgeries in Complex Lighting Environments <a href="../publications/tifs07a.html">(tifs07)</a><BR>
-  <li> Exposing Digital Forgeries Through Specular Highlights on the Eye <a href="../publications/ih07.html">(ih07)</a><BR>
-  <li> Digital Image Ballistics from JPEG Quantization <a href="../publications/tr06a.html">(tr06a)</a><BR>
-  <li> Digital Doctoring: How to tell the real from the fake <a href="../publications/significance06.html">(significance06)</a><BR>
-  <li> Metric Measurements on a Plane from a Single Image <a href="../publications/tr06.html">(tr06)</a><BR>
-  <li>Exposing Digital Forgeries in Scientific Images <a href="../publications/acm06a.html">(acm06a)</a> <BR>
-  <li>Exposing Digital Forgeries Through Chromatic Aberration <a href="../publications/acm06c.html">(acm06c)</a> <BR>
-  <li>Exposing Digital Forgeries by Detecting Inconsistencies in Lighting <a href="../publications/acm05.html">(acm05)</a> <BR>
-  <li>Statistical Tools for Digital Image Forensics <a href="../publications/apthesis05.html">(thesis05)</a> <BR>
-  <li>Exposing Digital Forgeries in Color Filter Array Interpolated Images <a href="../publications/sp05a.html">(sp05a)</a> <BR>
-  <li>Exposing Digital Forgeries by Detecting Traces of Re-sampling <a href="../publications/sp05.html">(sp05)</a> <BR>
-  <li>Exposing Digital Forgeries by Detecting Duplicated Image Regions <a href="../publications/tr04.html">(tr04)</a> <BR>
-  <li>Statistical Tools for Digital Forensics <a href="../publications/ih04.html">(ih04)</a> <BR>
-  <li>A Picture Tells a Thousand Lies <a href="../publications/ns03.html">(ns03)</a> <BR>
-  <li>Detecting Digital Forgeries Using Bispectral Analysis <a href="../publications/tr99.html">(tr99)</a> <BR>
-  <li> Digital Forensics Lecture at NIST in 2008 (<a href="../talks/FaridNist08_high.mov">high-res</a> | <a href="../talks/FaridNist08_med.mov">med-res</a> )
-  <li><a href="../publications/publications.html#seeingpress">Popular Press</a>
-</ol>
+<ul>
+  <li> Elena Riccio Davidson, Ph.D. 2006
+  <li> Geeta Chaudhry Petrovic, Ph.D. 2004
+  <li> Elizabeth Hamon (Dartmouth '03)
+  <li> Brunn Roysden (Dartmouth '04)
+  <li> Cristina Maracine (Dartmouth '04)
+  <li> Senate Taka (Dartmouth '08)
+  <li> Wei Zhang, M.S. 2007
+</ul>
 
-<b>Video:</b>
-<ol>
-  <li> Detecting Re-Projected Video <a href="../publications/ih08.html">(ih08)</a> <BR>
-  <li> Digital Video Forensics <a href="../publications/aafs08b.html">(aafs08b)</a> <BR>
-  <li> Video Stabilization and Enhancement <a href="../publications/tr07.html">(tr07)</a><BR>
-  <li>Exposing Digital Forgeries in Video by Detecting Duplication <a href="../publications/acm07.html">(acm07)</a> <BR>
-  <li> Exposing Digital Forgeries in Interlaced and De-Interlaced Video <a href="../publications/tifs07.html">(tifs07)</a> <BR>
-  <li>Exposing Digital Forgeries in Video by Detecting Double MPEG Compression <a href="../publications/acm06b.html">(acm06b)</a> <BR>
-  <li><a href="../publications/publications.html#seeingpress">Popular Press</a></ol>
+<font size="+1"><b>FG Papers</b></font>
 
-<b>Printer:</b>
-<ol>
-  <li> Printer Profiling for Forensics and Ballistics <a href="../publications/acm08.html">(acm08)</a> <BR>
-</ol>
+<ul>
 
-</i></font> </td>
+<li><a href="fg-spaa-brief.pdf">The 
+FG Programming Environment: Good and Good <i>For</i> You</a>. 18th ACM 
+Symposium on Parallel Algorithms and Architectures (SPAA 2006) brief 
+announcement, July 2006.
 
-<td valign=top align=right>
-        <font size=-1><i>
-        <a href="../home.html"> Home</a> &nbsp &nbsp
-        <a href="research.html"> Research</a>
-        </i></font>
-</td>
-</tr>
-</table>
+<li> <a href="FG-ipdps-final.pdf">Building on a Framework: Using FG for More Flexibility and Improved Performance in Parallel Programs</a>.  19th International Parallel and Distributed Processing Symposium (IPDPS 2005).
 
+<li><a href="fg-pphec-final.pdf">The FG Programming Environment: Reducing Source Code Size for Parallel Programs Running on Clusters</a>. Second Workshop on Productivity and Performance in High-End Computing (P-PHEC 2005), pp. 27--34.
+
+  <li> <a href="PDCS.pdf">FG:
+       A Framework Generator for Hiding Latency in Parallel Programs Running
+       on Clusters</a>.  17th International Conference on Parallel and Distributed Computing Systems (PDCS 2004), pp. 137--144.
+
+
+  <li> <a href="whitepaper.pdf">Asynchronous
+       Buffered Computation Design and Engineering Framework Generator
+       (ABCDEFG)</a>. White paper for HECRTF, June 2003.
+
+</ul>
+
+
+
+<a name="fgdownload"></a>
+<font size="+1"><b>Download FG</b></font>
+
+<blockquote>
+
+Here is everything you need for FG version 1.4. We have a <a
+href="fg_tutorial.pdf">tutorial</a> to get you started, and you can
+follow the instructions below to install FG.
+
+<p>
+
+<ul>
+
+  <li> <a href="fg1.4.tgz">Download FG version 1.4</a>
+
+  <li> <a href="fg_tutorial.pdf">FG tutorial and reference</a>
+
+</ul>
+
+<p>
+
+If you download and use FG, we invite you to send email to <a
+href="mailto:fg@cs.dartmouth.edu">fg@cs.dartmouth.edu</a> to let us
+know that you're using it.
+
+<p>
+
+You will need the standard pthread interface library and g++ to
+install and run FG.  Download <a
+href="fg1.4.tgz">fg1.4.tgz</a>.
+Then run the following command from your terminal to unzip the
+tarball:
+
+<blockquote> 
+<code>tar -xvzf fg1.4.tgz</code>
+</blockquote>
+
+This command will unzip the FG files into a directory called
+<code>fg1.4</code>. Now you can adjust debugging options and make the
+FG library.  There are three debugging options that you can set:
+<code>FGLOG</code> for the log file, <code>FGDEBUG</code> for
+debugging options, and <code>FGTIMER</code> for timing options.  If
+you choose to leave all three options unset, you can make the FG
+library with the following command:
+
+<blockquote>
+<code>make libfg.a</code>
+</blockquote>
+
+You can set the debugging options explicitly in the Makefile, or you
+can set them on the command line.  The <code>FGLOG</code> variable may
+be set to <code>-DLOGA</code> or <code>-DLOGW</code>, which you would
+set on the command line with one of the following:
+
+<blockquote>
+<code>make FGLOG=-DLOGA libfg.a
+<br>
+make FGLOG=-DLOGW libfg.a</code>
+</blockquote>
+       
+If you set either option for <code>FGLOG</code>, FG prints information
+about your program, including warnings and errors, to a log file.
+With the first argument, FG appends all the information to the log
+file, and with the second it overwrites the existing log file.
+
+<p>
+
+The <code>FGDEBUG</code> variable may be set to <code>-DVERBOSE</code>:
+
+<blockquote>
+<code>make FGDEBUG=-DVERBOSE libfg.a</code>
+</blockquote>
+
+With this setting, FG continually prints information about the program
+as it progresses, along with any errors or warnings. It also prints timestamps along with each message. If
+<code>FGLOG</code> is set, FG prints this information to the log file.
+Otherwise, it prints to standard output.
+
+<p>
+
+Finally, you may set the <code>FGTIMER</code> variable to
+<code>-DTIMERPIPELINE</code> or <code>-DTIMERALL</code>, which you
+would set on the command line with one of the following:
+
+<blockquote>
+<code>make FGTIMER=-DTIMERPIPELINE libfg.a
+<br>    
+make FGTIMER=-DTIMERALL libfg.a</code>
+</blockquote>
+
+The first option times the the pipeline when the first
+stage begins executing until the final stage finishes executing.  The
+second option times the pipeline from the very first call to FG until
+the pipeline is dismantled.  If <code>FGLOG</code> is set, FG prints the
+timings to the log file.  Otherwise, it prints the timings to standard
+output.
+
+<p>
+
+You may combine any of the three debugging options in any way.  If you
+would rather not use the command line, you can change the settings
+directly in the Makefile, which is in the <code>fg1.4</code> directory.
+
+<p>
+
+By default, the FG log file is named FG.log, and it is stored in the
+directory where you run your program.  You may change both the name
+and the directory with environment variables, however.  FG uses the
+environment variable <code>FGLOGNAME</code> for the filename and
+<code>FGLOGDIR</code> for the directory.
+
+<p>
+
+Any files you create that need to use FG classes and methods must
+include the file <code>fg1.4/FG.h</code>. When compiling a program
+written with FG, you must link in the FG library file. If your program
+is called <code>fgtest.cc</code>, and your <code>fg1.4</code>
+directory is located at <code>/net/grad/laney/fg1.4/</code>, you would
+build your FG program as follows:
+
+<blockquote>
+<code>g++ fgtest.cc -o fgtest -L/net/grad/laney/fg1.4 -lfg -lpthread</code>
+</blockquote>
+
+Then you can run the executable file <code>fgtest</code> as usual.
+
+<p>
+
+Because FG creates a multi-threaded program (even if you specify
+only one thread), you should ensure that all the software you link
+with FG works in a multi-threaded environment.  Be particularly careful
+if you are using MPI for interprocessor communication, for not all
+implementations of MPI are thread-safe.
+
+<p>
+
+Because they are multi-threaded, FG programs also can create
+performance problems associated with disk I/O.  On many systems,
+when you run multi-threaded code, C stdio locks a file
+every time a thread reads or writes it and unlocks the file when the thread
+finishes reading or writing.  The use of locks can slow down
+performance considerably, especially in a program where disk I/O is a
+time sink.  It can be useful to instead use the unlocked versions of C
+stdio functions.  We have found that using <code>fread_unlocked()</code> for
+reading and <code>fwrite_unlocked()</code> for writing can be significantly
+faster than using the locked counterparts.  Check the man page entry
+for <code>unlocked_stdio</code> to determine the support in your system for
+unlocked I/O.
+
+<p>
+
+Any questions or comments, please email <a
+href="mailto:fg@cs.dartmouth.edu">fg@cs.dartmouth.edu</a>.
+
+</blockquote>
+
+<p>
+
+<font size="+1"><b>Sample Code</b></font>
+
+<blockquote>
+The following are sample FG programs from the  <a
+href="fg_tutorial.pdf">FG tutorial</a>. You can download these files and build them with the FG library as described above.
+
+<ul>
+<li><a href="samples/example2.1.cc">Example 2.1</a>
+
+Try out FG with a simple example.
+
+<li><a href="samples/example2.2.cc">Example 2.2</a>
+
+Implicit threads.
+
+<li><a href="samples/example3.1.cc">Example 3.1</a>
+
+Using the caboose.
+<li><a href="samples/example3.2.cc">Example 3.2</a>
+
+Auxiliary thumbnails and buffers.
+<li><a href="samples/example3.3.cc">Example 3.3</a>
+
+Thumbnail parameters.
+<li><a href="samples/example4.1.cc">Example 4.1</a>
+
+Stage parameters.
+
+<li><a href="samples/example4.2.cc">Example 4.2</a>
+
+Thread initialization and cleanup functions.
+
+<li><a href="samples/example4.3.cc">Example 4.3</a>
+
+Multistage threads.
+
+<li><a href="samples/example5.1.cc">Example 5.1</a>
+
+Soft barriers.
+
+<li><a href="samples/example5.2.cc">Example 5.2</a>
+Macros.
+
+<li>Input files for some examples:
+<ul>
+<li><a href="samples/read_file.dat">read_file.dat</a> For Examples 4.2 and 4.3.
+</ul>
+
+</ul>
+</blockquote>
+
+</blockquote>
+
+<p>
+&nbsp;
+
+</body>
 </html>
-
-
-yi

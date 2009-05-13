@@ -1,3 +1,112 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit&amp;section=1
+http://www.cs.dartmouth.edu/~cbk/multimodal.html
 3
-xQ)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Research : Multimodal</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<p>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Multimodal Protein Structure</div><br>
+
+<img src="images/multimodal.jpg" alt="multimodal">
+
+<p>With the extensive development of genomic sequencing and rapid
+protein expression, there are now many more targets available for
+protein structure determination than can be completed by even the most
+advanced automated methods.  Many of these targets also present
+well-known experimental difficulties for the traditional methods of
+crystallography and NMR.  However, help in interpreting the genomic
+data is available from computational techniques that use knowledge
+extracted from the database of experimentally determined structures,
+in order to predict structures for proteins with different sequences.
+The effective use of these computational techniques would be greatly
+enhanced by the ability to rapidly discriminate among and confirm
+predictions with experimental data that can be acquired rapidly and
+easily.  For example, appropriate experimental methods can provide
+measurements of distance (e.g. by chemical cross-linking of specific
+residues), assays of residue accessibility (e.g. by chemical
+modification of surface residues), and low-resolution
+characterizations of shape (e.g. by solution scattering).</p>
+
+<p>We are developing a comprehensive computational-experimental
+protocol for the rapid discrimination of predicted protein structure
+via multiple modes of experimental data.  The multimodal
+discrimination approach poses challenging computational problems in
+combining rather sparse, noisy information from different experimental
+methods and describing quantitatively the extent of discrimination
+provided.  Associated reasoning algorithms overcome problems of noise
+and sparsity by uncovering consistent sets of features, targeting
+clarifying queries in response to conflicts, and planning additional
+experiments.</p>
+
+<b>Papers</b>
+<ul>
+<li>T.E. Williamson, B.A. Craig, E. Kondrashkina, C.
+Bailey-Kellogg, and A.M. Friedman, "Analysis of self-associating
+proteins by singular value decomposition of solution scattering
+data", <i>Biophys. J.</i>, 2008, 94:4906-4923.
+<a href="abs.html#biophysj07">abstract</a>.
+<a href="http://www.biophysj.org/cgi/content/full/94/12/4906">official version</a>.
+</li>
+
+<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg,
+"Optimizing Bayes error for protein structure model selection by
+stability mutagenesis", Proc. CSB, 2008, pp. 99-108.
+<a href="abs.html#csb08">abstract</a>.
+<a href="papers/csb08.pdf">paper</a>.</li>
+
+<li>X. Ye, P.K. O'Neil, A.N. Foster, M.J. Gajda, J. Kosinski,
+M.A. Kurowski, A.M. Friedman, and C. Bailey-Kellogg, "Probabilistic
+cross-link analysis and experiment planning for high-throughput
+elucidation of protein structure", <i>Protein Sci.</i>, 2004, 13:3298-3313.
+<a href="abs.html#prosci04">abstract</a>.  
+<a href="http://www.proteinscience.org/cgi/content/full/13/12/3298">paper</a>.
+</li>
+
+<li>S. Potluri, A.A. Khan, A. Kuzminykh, J.M. Bujnicki, A.M. Friedman,
+and C. Bailey-Kellogg, "Geometric analysis of cross-linkability for
+protein fold discrimination", Proc. Pacific Symposium on Biocomputing
+(PSB), 2004.
+<a href="abs.html#psb04">abstract</a>.
+<a href="papers/psb04.pdf">pdf</a>.
+</li>
+
+</ul>
+
+</td></tr>
+
+<!-- footer -->
+<tr><td colspan=2 height=20></td></tr>
+<tr><td class=hr colspan=2 height=2></td></tr>
+<tr><td class=footer colspan=2>
+<!-- hhmts start -->
+Last modified: Tue Jun 29 15:19:16 EDT 2004
+<!-- hhmts end -->
+</td></tr>
+
+</tbody></table>
+</body>
+</html>

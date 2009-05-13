@@ -242,31 +242,30 @@ http://www.cs.dartmouth.edu/
 
 <h1>Featured Research</h1>			
 
-		<h2 class = "break">Green Lite Dartmouth</h2>
+		<h2 class = "break">Inferring Social Networks Automatically using Sensor Data</h2>
 
 
-<img src="content/features_research/bear-small.png"
-     alt="Green Lite Dartmouth" />
+<img src="content/features_research/tc_isnasd.png"
+     alt="FG pipeline" />
 
 
 <p>
-<a href="~lorie">Prof. Lorie Loeb</a>
+<a href="~tanzeem">Prof. Tanzeem Choudhury</a>
 
 <p>
 
-Information visualization, real-time energy data retrieval and  
-analysis, animation, social and behavioral sciences, environmental  
-science, statistical analysis, game technology and computation all  
-come together to encourage resource conservation at Dartmouth and  
-beyond. We ask the fundamental question: how can complex information  
-about energy use be displayed in ways that encourage people to change  
-their behavior?  
-<a href = "http://greenlite.dartmouth.edu">Green Lite Dartmouth</a>
-visualizes complex, real-time energy data in simple, meaningful and 
-dynamic ways.  When electric use (plug load and lighting), for
-example, is low, the polar bear in the display is  
-happy and playful. As electric use goes up, the polar bear becomes  
-more distressed and his well-being is endangered.
+The structure and dynamics of social networks are of critical importance to
+many social phenomena, ranging from organizational efficiency to the spread
+of knowledge and disease. However, advances in modeling the <em>dynamics</em> of
+social networks has been limited due to the lack of rich temporal data. By
+developing new machine learning methods that can infer the structure and
+dynamics of social networks from mobile sensor data, we are investigating
+ways to unobtrusively study social interactions and networks over extended
+periods of time. A deeper understanding of people's interactions will have
+significant impacts, not only on the social science research literature,
+but also enable the development of socially aware ubiquitous computing
+systems that are cognizant of and responsive to users' engagement with
+their social environment.
 	</div>
 	
 	

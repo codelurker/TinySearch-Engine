@@ -1,111 +1,70 @@
-http://www.cs.dartmouth.edu/farid/teaching
+http://www.cs.dartmouth.edu/~whwang/papers/bibtex.html#zhang_wang06
 3
 <html>
+
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-
-<title> Hany Farid: Teaching </title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Weihong Wang: Bibtex</title>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
-<HR>
-<table align=center width=700>
-<tr>
-<td align=center> <font size=-1><b><a href="../home.html">HOME</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="../group.html">PEOPLE</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="../publications">PAPERS</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="../research">RESEARCH</a></b></font> </td>
-<td align=center> <font size=-1><b>TEACHING</b></font> </td>
-<td align=center> <font size=-1><b><a href="../tutorials">TUTORIALS</a></b></font> </td>
-</tr>
-</table>
-<HR>
-<BR>
 
-<table align=center cellpadding=5 width=650>
-<tr>
-<td class=xl999 align=left valign=top colspan=1>
-<b>Present:</b> <BR>
+<PRE>
+<a name="wang_farid08"></a>
+@INPROCEEDINGS{wang-farid08,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Detecting Re-Projected Video",
+	BOOKTITLE = "10th International Workshop on Information Hiding",
+	YEAR      = "2008",
+	ADDRESS   = "Santa Barbara, CA",
+}
 
+<a name="wang_farid07"></a>
+@ARTICLE{wang-farid07,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Exposing Digital Forgeries in Interlaced and De-Interlaced Video",
+	JOURNAL   = "IEEE Transactions on Information Forensics and Security",
+	NUMBER    = "2",
+	VOLUME    = "3",
+	PAGES     = "438-449",
+	YEAR      = "2007",
+}
 
-<BR>
+<a name="wang_farid07_2"></a>
+@INPROCEEDINGS{wang-farid07-2,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Exposing Digital Forgeries in Video by Detecting Duplication",
+	BOOKTITLE = "ACM Multimedia and Security Workshop",
+	YEAR      = "2007",
+	ADDRESS   = "Dallas, TX",
+}
 
-<b>Past:</b><BR>	
-<font size=-1>
-        &nbsp Concepts in Computing 
-        <a href="cs4/summer.08">CS 4</a> (Summer 08) <BR>
+<a name="wang_farid06"></a>
+@INPROCEEDINGS{wang-farid06,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Exposing Digital Forgeries in Video by Detecting Double \protect{MPEG} Compression",
+	BOOKTITLE = "ACM Multimedia and Security Workshop",
+	YEAR      = "2006",
+	ADDRESS   = "Geneva, Switzerland",
+}
 
-        &nbsp Numerical and Computational Tools 
-        <a href="cs136/summer.08">CS 36/136</a> (Summer 08) <BR>
+<a name="zhang_wang06"></a>
+@inproceedings{zhang_wang06,
+	AUTHOR    = "Sheng Zhang and Weihong Wang and James Ford and Fillia Makedon",
+	TITLE     = "Learning from Incomplete Ratings Using Non-negative Matrix Factorization",
+	BOOKTITLE = "SIAM International Conference on Data Mining",
+	YEAR      = "2006",
+	ADDRESS   = "Bethesda, MD",
+}
 
-        &nbsp  Concepts in Computing  
-	<a href="cs4/summer.07">CS 4</a> (Summer 07) <BR>
+<a name="zhang_wang05"></a>
+@inproceedings{zhang_wang05,
+	AUTHOR    = "Sheng Zhang and Weihong Wang and James Ford and Fillia Makedon and Justin Pearlman",
+	TITLE     = "Using Singular Value Decomposition Approximation for Collaborative Filtering",
+	BOOKTITLE = "7th IEEE International Conference on E-Commerce Technology",
+	YEAR      = "2005",
+	ADDRESS   = "Munich, Germany",
+ }
 
-	&nbsp Numerical and Computational Tools 
-	<a href="cs136/summer.07">CS 36/136</a> (Summer 07) <BR>
-
-        &nbsp  Concepts in Computing 
-	<a href="cs4/winter.06">CS 4</a> (Winter 06) <BR>
-
-        &nbsp Numerical Methods in Computer Vision 
-	<a href="cs88/cs88.fall.04.html">CS 188/88</a> (Fall 04)  <BR>
-
-        &nbsp  Concepts in Computing 
-	<a href="cs4/summer.03/cs4.summer.03.html">CS 4</a> (Summer 03) <BR>
-
-        &nbsp Concepts in Computing 
-	<a href="cs4/summer.02/cs4.summer.02.html">CS 4</a> (Summer 02) <BR>
-
-        &nbsp Data Structures and Programming  
-	<a href="cs15">CS 15</a> (Winter 02)<BR>
-
-	&nbsp Data Structures and Programming 
-	<a href="cs15/fall.01/cs15.fall.01.html">CS 15</a> (Fall 01)<BR>
-
-	&nbsp Numerical Linear Algebra 
-	<a href="cs106/cs106.spring.01.html">CS106</a> (Spring 01) <BR>
-
-	&nbsp Data Structures and Programming 
-	<a href="cs15/winter.01/cs15.winter.01.html"CS15>CS 15</a> 
-	(Winter 01) <BR>
-
-	&nbsp Data Structures and Programming
-	<a href="cs15/fall.00/cs15.fall.00.html"CS15> CS 15</a> 
-	(Fall 00) <BR>
-
- 	&nbsp Fundamentals of Image  Processing 
-	<a href="cs88/spring00/cs88.spring.00.html"> CS 188/88</a> 
-	(Spring 00) <BR>
-
-	&nbsp Programming Languages
-	<a href="cs68/cs68.winter.00.html"> CS 68</a> (Winter 00) <BR>
-
-	&nbsp Data Structures and Programming 
-	<a href="cs15/fall.99/cs15.fall.99.html"> CS 15</a> 
-	(Fall 99) <BR>
-
-	&nbsp Fundamentals of Image Processing 
-	<a href="iap99/iap99.html"> IAP</a> (99)<BR><BR>
-</font>
-</td> 
-
-<td width=185 align=center valign=top>
-<IMG SRC="yadda.gif" border="0" width=181 height=137>
-
-<BR><BR> 
-
-Thinking of taking a class with me? Here are my past <a
-href="reviews.html">teaching reviews</a>
-</td>
-
-</tr>
-
-</table>
-
-
-<HR>
 
 </html>
-
-
-
+i

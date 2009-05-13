@@ -1,136 +1,15 @@
-http://www.cs.dartmouth.edu/~farid/research
+http://www.cs.dartmouth.edu/~wbc/suditour/check-computers/data.html
 3
-<html>
-<head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-
-<title> Hany Farid: Research </title>
-</head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
-<HR>
-<table align=center width=700>
-<tr>
-<td align=center> <font size=-1><b><a href="../home.html">HOME</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="../group.html">PEOPLE</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="../publications">PAPERS</a></b></font> </td>
-<td align=center> <font size=-1><b>RESEARCH</b></font> </td>
-<td align=center> <font size=-1><b><a href="../teaching">TEACHING</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="../tutorials">TUTORIALS</a></b></font> </td>
-</tr>
-</table>
-<HR>
-<p>
-
-<table align=center cellpadding=0 cellspacing=0 width=750 border=0>
-<tr>
-<td>
-<p>
-I lead the <a href="../group.html"> Image Science Group</a> whose
-research focuses on digital forensics, image analysis, computer
-vision, and human perception.  Below are short descriptions of some of
-our past and current work (the bold-face headings correspond to our
-most current work).  <BR><BR><BR> 
-</td> 
-</tr> 
-</table>
-
-
-<table align=center cellpadding=0 cellspacing=0 width=750 border=0>
-<tr>
-<td width=150 class=xl999> <img src="../icon/bradchericon.gif" border=0 width=64 height=64> </td>
-<td width=150 class=xl999> <img src="../icon/egypticon.gif" border=0 width=64 height=64> </td>
-<td width=150 class=xl999> <img src="../icon/researchicon.gif" border=0 width=64 height=64> </td>
-</tr>
-
-
-<tr>
-<td class=xl999 align=left valign=top> <b>IMAGE ANALYSIS</b> </td>
-<td class=xl999 align=left valign=top> <b>COMPUTER VISION</b> </td>
-<td class=xl999 align=left valign=top> <b>HUMAN VISION</b> </td>
-</tr>
-
-
-<tr>
-<td   class=xl999> <a href="artforensics.html"> Art Forensics</a> </td>
-<td   class=xl999> <a href="blind2.html">Lens Distortion</a> </td>
-<td   class=xl999> <a href="grouping.motion.html"> Motion Grouping</a>  </td>
-</tr>
-
-<tr>
-<td   class=xl999> <a href="derivative.html"> Derivative Filters</a> </td>
-<td   class=xl999> <a href="blind.html"> Luminance Non-Linearities</a></td>
-<td   class=xl999> <a href="grouping.object.html"> Recognition & Grouping</a></td>
-</tr>
-
-<tr>
-<td   class=xl999> <b><a href="tampering.html">Digital Forensics</a></b>  </td>
-<td   class=xl999> <a href="range.html"> Range Estimation</a> </td>
-<td   class=xl999> <b><a href="search.clutter.html"> Searching Clutter</a></b> </td>
-</tr>
-
-<tr>
-<td   class=xl999> <b><a href="cgorphoto.html"> Graphics or Photo</a></b> </td>
-<td   class=xl999> <a href="../orozco">Reconstructing Orozco</a> </td>
-<td   class=xl999> <a href="grouping.synchrony.html"> Temporal Synchrony</a> </td>
-</tr>
-<tr>
-<td   class=xl999> <a href="steerable.html"> Steerable Filters</a> </td>
-<td   class=xl999> <b><a href="../egypt/reconstruction.html"> Reconstructing Tombs</a></b> </td>
-<td   class=xl999> <a href="grouping.texture.html"> Texture Grouping</a> </td>
-</tr>
-
-<tr>
-<td   class=xl999> <a href="steganography.html">Steganography</a> </td>
-<td   class=xl999> <a href="separation.html"> Separating Reflections</a></td>
-<td   class=xl999> <a href="transparency.html"> Transparency</a> </td> 
-</tr>
-
-<tr>
-<td   class=xl999></td>
-<td   class=xl999> <a href="phototop/"> Surface Topography</a></td>
-</tr>
-
-<tr>
-<td   class=xl999> </td>
-<td   class=xl999> <a href="telepresence.html"> Telepresence</a></td>
-</tr>
-
-<tr>
-<td  colspan=8 class=xl999> &nbsp </td>
-</tr>
-
-
-<tr>
-<td width=70 class=xl999> <img src="../icon/medicalimageicon.gif" border=0 width=64 height=64> </td>
-<td width=70 class=xl999> <img src="../icon/compbioicon.gif" border=0 width=64 height=64> </td>
-<td width=70 class=xl999> <img src="../icon/magicicon.gif" border=0 width=64 height=64> </td>
-</tr>
-
-<tr>
-<td  class=xl999 align=left valign=top> <b>MEDICAL IMAGING</b> </td>
-<td  class=xl999 align=left valign=top> <b>COMPUTATIONAL BIOLOGY</b> </td>
-<td  class=xl999 align=left valign=top> <b>MISC.</b> </td>
-</tr>
-
-<tr>
-<td   class=xl999> <a href="imageneuro.html">Image-Guided Neurosurgery</a></td>
-<td   class=xl999> <a href="msclassify.html">Mass. Spec. Classify</a></td>
-<td   class=xl999> <a href="fracderiv.html">Fractional Derivative</a></td>
-</tr>
-
-
-<tr>
-<td   class=xl999> <a href="registration.html">Image Registration</a></td>
-<td   class=xl999> <b><a href="morphologicalevolution.html">Morphological Evolution</a></b></td>
-<td   class=xl999> <a href="fracFourier.html"> Fractional Fourier </a> </td>
-</tr>
-
-<tr>
-<td   class=xl999></td>
-<td   class=xl999> <a href="protein.html"> Protein Design</a></td>
-</tr>
-
-</table>
-
-</html>
+<head><title>unix hosts down</title>
+<meta http-equiv="REFRESH" content="600"><META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE"></head>
+<body><ul>
+<h3>linux computers down</h3><li>darkspear
+<li>everest
+<li>jefferson-slave29
+<li>livarot
+<li>mulan
+<li>orizaba
+<li>padl
+<hr>
+</ul>5-13 5:7
+</body>

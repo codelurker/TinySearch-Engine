@@ -1,27 +1,58 @@
-http://www.cs.dartmouth.edu/~dfk/caricature
+http://www.cs.dartmouth.edu/~farid/research/animation.html
 3
-<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
-<html> <head>
-<title>David Kotz, a caricature</title>
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Animation </title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<table align=center width=750 border=0>
+<tr>
 
-<center>
-<h1><a href="../">David Kotz</a></h1>
-
-Click for ...
- <a href="dfk0.125.JPG">50% size</a> ...
- <a href="dfk0.20.JPG">80% size</a> ...
- <a href="dfk0.50.JPG">200% size</a> ...
- <a href="dfk1.00.GIF">400% size</a>.
-
+<td valign=top> 
+<b> Animation </b>
+<BR>
 <p>
+We are interested in finding low-dimensional representations of
+complex human motions.  For example, each frame of the 3-D motion
+sequence shown to the right can be described by a 36-dimensional
+vector (12 joints, each with X,Y,Z values).  
 
-<IMG width=396 height=585 src="dfk0.25.JPG" align=top><p>
+<BR><BR>
 
-Drawn by "Patrick", a caricature artist at Sea World in San Diego, August 1999.
+We have been developing computational techniques for reducing the
+dimensionality of this data into a lower and perceptually meaningful
+space.  In this example, we are able to find a one-dimensional
+representation that corresponds to the inherent one-dimensional nature
+of the motion.
 
-</center>
+<BR><BR>
 
-</body> </html>
+<i>(Collaborative work with Fred Henle and <a
+href="http://www.cs.duke.edu/~brd"> Bruce Donald</a>)</i>
+
+<td>&nbsp&nbsp</td>
+
+<td valign=top> <BR><BR><img src="jump.gif" alt="alternative text"> 
+
+</tr>
+</table>
+<BR>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=right>
+	<font size=-1><i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	<a href="research.html"> Research</a> 	
+	</i></font>
+</td>
+</tr>
+</table>
+</html>
+

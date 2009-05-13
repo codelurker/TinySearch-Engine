@@ -1,207 +1,166 @@
-http://www.cs.dartmouth.edu/~rapjr
+http://www.cs.dartmouth.edu/~wbc
 2
-<html>
-<title> Ron Peterson </title>
-<body>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<head>
+<TITLE>Wayne Cripps, his home page with Lute Stuff</TITLE>
+<link rel="Next" href="lute/index.html">
+<META Name="description" Content="Wayne Cripps, his page
+with information about lutes">
+<META Name="keywords" Content="Wayne Cripps, lute, music, Renaissance">
+</head>
 
-<h4>I'm a grant-funded Senior Programmer with the <br>Dartmouth Computer Science
-Department.<br>
-If you need some engineering help on your grant project
-<br>email me at rapjr at cs.dartmouth.edu or call 603-646-0524<br>
-and we can discuss it.</h4>
+
+<body bgcolor="#ffffff">
+<table border=4 width=460>
+<tr>
+<td> <a href="bookmark/bookmark.html">Bookmarks</a> </td>
+<td> <a href="lute/lute.html">Lute</a> </td>
+<td> <a href="/~lsa/index.html">LSA</a> </td>
+<td> <a href="http://www.eotsweb.org/forecasts.php">weather</a> </td>
+<td><a href="birds/index.html">bird pictures</a></td>
+<td><a href="elms/index.html">Elms</a></td>
+<td><a href="cederqvist-1.11.10.html/cvs.html">CVS Docs</a></td>
+<td><a href="http://www.big-bunny.com/">BB</a>
+</tr>
+
+<tr>
+<td> <a href="http://forecast.weather.gov/MapClick.php?CityName=Lebanon&state=NH&site=GYX">Weather</a> </td>
+<td> <A HREF="bookmark/bk_mando.html">Mandolin</A> </td>
+<td> <A HREF="led/WWW/LED.html">LED</A> </td>
+<td><a href="../~cindy/index.html">Cindy</a></td>
+<td><a href="http://www.altavista.com/cgi-bin/query?pg=q&text=yes">AV</a>
+<a href="http://www.google.com/univ/dartmouth">GoogD</a></td>
+<td><a href="../~vinnie">Vinnie</a></td>
+<td><a href="http://www.google.com">Google</a></td>
+<td><a href="http://www.mbr-pwrc.usgs.gov/id/framlst/infocenter.html">bds</a></td>
+</tr>
+</table>
+
+
+<H1>
+<a href="main/wayne3.gif">W</a><a href="main/wayne-by-scout.jpg">ay</a><a href="main/wbc-lute1.jpg">ne</a> <a href="main/wayne-3.gif"> Cri</a><a href="main/MomDadMe0.jpg">pp</a><a href="me/ava-dinner-98-cur.jpg">s</a>
+</H1>
+
+<B>Systems Manager for Unix in <a href="http://www.cs.dartmouth.edu">Computer Science</a>, 
+<a href="http://www.dartmouth.edu"> Dartmouth College</a>
+</B>
+<br>
+<B>(603) 646-3198</B>
+<BR>
+<img src="wbc.gif" alt="wbc">
+<h2>Computer Help</h2>
+<a href="../~faq">Frequently asked Computer questions</a><br>
+<a href="secure">Some security tips for Linux owners</a><br>
+<a href="suditour/index.html">Computers in the CS Department</a>
+<h3>his bookmarks</h3>
+<table border=4 width=570>
+<tr>
+<td><A href="../~data/sudi_db/index.html">data</a></td>
+<td> </td>
+<td><a href="lute/forsale.html">Lutes for sale</a></td>
+<td><a href="http://aa.usno.navy.mil/data/docs/RS_OneDay.html">sunrise</a></td>
+<td><a href="bountifu/index.html">Bountiful</a></td>
+</tr>
+
+
+<tr>
+<td colspan=2><a href="w-hartford/White_river_pan.jpg">white river west hartford</a>
+<a href="w-hartford/index.html"> details </a>
+</td>
+<td><A href="test/test.html">Test</a>
+    <a href="http://en.wikipedia.org/wiki/">wikipedia</a></td>
+<td><a href="http://www.cs.dartmouth.edu/~wbc/tab-serv/tab-serv.cgi?drafts">Tab Drafts</a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.vpr.net/community/school_closings/">school closings</a>
+<a href="http://www.thewmurchannel.com/closings/index.html">wmur</a>
+</td>
+<td><a href="http://waterdata.usgs.gov/vt/nwis/uv?01144000">water level</a></td>
+<td><a href="http://www.h2oline.com/505121.asp">wilder dam </a></td>
+<td><a href="ctm">CTM</a></td>
+<td><a href="https://corptime.dartmouth.edu/">Calendar</td>
+</tr>
+<tr>
+<td><a href="http://www.cvshome.org/docs/manual/cvs-1.11.7/cvs.html">cvs docs</a></td>
+<td><a href="http://terraserver-usa.com/">terraserver</a></td>
+<td><a href="clr.html">Fix CLR</a> <a href="makeinf_mf_on_fc5.html">Fix mf</a>
+<td><a href="bat/index.html">bat</a>
+<a href="http://www.emcinsignia.com/supportupdates/updates/"> Dantz </a>
+<td><a href="http://www.dartmo.com/">dart. bldgs</a></td>
+</td>
+</tr>
+<tr>
+<td><a href="http://libcat.dartmouth.edu">Library catalog</a></td>
+<td><a href="http://www.dartmouth.edu/~store/pricelist.html">computer store</a></td>
+<td><a href="old-computers/index.html">used computers</a></td>
+<td><a href="http://www.dartmouth.edu/comp/resources/network/config/"> hostmaster</a></td>
+<td><a href="http://docs.info.apple.com/article.html?artnum=75459">OSX shortcuts</a></td>
+</tr>
+
+<tr>
+<td><A HREF="../~cindy/harps/index.html">Cindy's Harp</A></td>
+<td><A HREF="pipes/pipes.htm">My Bagpipe</A></td>
+<td><A HREF="instmnts/index.html">My Instruments</A></td>
+<td><A HREF="../~cindy/jasper/index.html">Jasper </a><a href="Jasper/rory-apr-01.jpg"> Rory</a>
+<td><a href="http://douglasalvordart.com">Doug Alvord</a></td>
+</tr>
+
+<tr>
+<td><A HREF="main/family-1.gif">My Family</A></td>
+<td><a href="http://urza.dartmouth.edu/cgi-bin/cricket/grapher.cgi?target=%2Fswitch-interfaces%2Fborder%2Fborder1-rt%2Fvlan512;view=Octets"> border router</td>
+<td><a href="http://search.ebay.com/ws/search/AdvSearch?sofindtype=13">Ebay basic</a> </td>
+<td><a href="http://search.ebay.com/ws/search/AdvSearch?sofindtype=13&_trksid=m37">Ebay advanced</a></td>
+<td><a href="http://www.dartmouth.edu/comp/support/library/software/security/pki/test.html"> Test Token </a>
+</tr>
+
+<tr>
+<td><a href="http://goatisland.cs.dartmouth.edu">heat humidity</a>
+</td>
+<td><a href="http://www.jjeffords.com/">blocked hosts</a></td>
+<td><a href="http://license.dartmouth.edu/">video furnace</a></td>
+<td><a href="http://listserv.dartmouth.edu/scripts/wa.exe?A0=uv-birders&D=0&F=&H=0&O=D&S=&T=1/">UV Birders</a></td>
+</tr>
+
+
+<tr>
+</tr>
+
+<tr>
+<td><a href="google-pen-repair"> gpr</a></td>
+<td><a href="https://oracle-www.dartmouth.edu/dart/agroucho/eic.web_menu.show"> Assets</a></td>
+<td><a href="https://www.dartmouth.edu/~oasis"> Oasis</a></td>
+<td><a href="http://www.cs.dartmouth.edu/awstats/awstats.pl"> Web Stats</a>
+<td><a href="https://torridon.dartmouth.edu:8443/dsview/protected/units/units/device/overview.do?oid=11047681"> remote console</a>
+</tr>
+
+<tr>
+<td><a href="planetlab.html"> planetlab </a></td>
+<td><a href="http://www.dartmouth.edu/comp/support/library/connect-on/win/wireless.html">Dart Secure</a></td>
+<td><a href="http://tools.web-max.ca/dsbl.php">check blacklists</a></td>
+<td><a href="http://dartware.com/downloads/binaries/index.html">Dartware downloads</a></td>
+</tr>
+<tr>
+<td><a href="http://blue-power-1.cs.dartmouth.edu"> blue power </a>
+<a href="http://jefferson-power-4.cs.dartmouth.edu"> jef p4 </a><br>
+<a href="http://green-power-1.cs.dartmouth.edu"> green pow 1 </a> 
+<a href="http://green-power-2.cs.dartmouth.edu"> green pow 2 </a> 
+<a href="http://killington-power-1.cs.dartmouth.edu"> kil pow</a></td>
+</tr>
+</table>
+<p>There have been
+68567
+ visitors since March 28, 1998</p>
 <hr>
-Projects and people I'm involved with:
-<p>
-<a href="http://sensorlab.cs.dartmouth.edu/">The Sensor Networks Group</a>
-<p>
-<a href="http://cmc.cs.dartmouth.edu">The Center for Mobile Computing</a>
-<p>
-<a href="http://www.ists.dartmouth.edu/">Institute For Security Technology Studies</a>
-<pre>
-
-
-</pre>
-<a href="http://metrosense.cs.dartmouth.edu">MetroSense</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://metrosense.cs.dartmouth.edu/metro-people.html">MetroSense People</a> 
-</div>
-<p>
-<a href="http://www.ists.dartmouth.edu/cstrc/projects.php#place">PLACE</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://www.ists.dartmouth.edu/directors-office/mission.php">David</a> 
-<a href="http://www.cs.dartmouth.edu/~dfk/">Kotz</a>
-<p>
-<a href="http://www.cs.dartmouth.edu/~campbell/">Andrew Campbell</a>
-<p>
-<a href="http://www.cs.dartmouth.edu/~tristan/">Tristan Henderson</a>
-<p>
-<a href="http://www.dartmouth.edu/~socy/faculty/anthony.html">Denise Anthony</a>
-</div>
-<p>
-<a href="http://www.ists.dartmouth.edu/er3c/projects.php#responders">First Responder Sensing and Communication</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://groups.csail.mit.edu/drl/">Rus Robotics Laboratory</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
-<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
-<p>
-<a href="http://people.csail.mit.edu/kotay/">Keith Kotay</a>
-</div>
-<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
-<p>
-<a href="http://www.grasp.upenn.edu/">GRASP Laboratory of Robotics Research and Education</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://www.grasp.upenn.edu/people/kumar.html">Vijay Kumar</a> 
-</div>
-<p>
-<a href="http://www.ists.dartmouth.edu/projects/frsensors/artemis/index.htm">Artemis</a> <a href="http://www.ists.dartmouth.edu/er3c/projects.php#cander">CANDER</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://engineering.dartmouth.edu/thayer/faculty/susanmcgrath.html">Susan</a> 
-<a href="http://www.ists.dartmouth.edu/er3c/mission.php">McGrath</a>
-<p>
-<a href="http://www.ists.dartmouth.edu/people-researchers.php">Chris Carella</a>
-</div>
-<p>
-<a href="http://www.cat.csiro.au/cmst/automation/expertise/heli/">CSIRO Autonomous Helicopter Project</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
-<p>
-<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
-<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
-</div>
-<p>
-<a href="http://www-robotics.usc.edu/~avatar/">AVATAR Autonomous Flying Vehicle Project</a>
-<div style="margin-left: 40px;">
-<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
-<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
-<p>
-<a href="http://www-robotics.usc.edu/~gaurav/">Gaurav Sukhatme</a>
-<p>
-<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
-<p>
-<a href="http://www-robotics.usc.edu/~srik/">Srikanth Saripalli</a>
-<p>
-<a href="http://www-robotics.usc.edu/~shrabar/">Stefan Hrabar</a>
-</div>
-</div>
-<p>
-<a href="http://kerf.cs.dartmouth.edu">Kerf</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://www.ists.dartmouth.edu/directors-office/mission.php">David</a> 
-<a href="http://www.cs.dartmouth.edu/~dfk/">Kotz</a>
-<p>
-<a href="http://www.ccs.neu.edu/home/jaa/">Javad Aslam</a>
-<p>
-<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
-<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
-<p>
-<a href="http://www.cs.dartmouth.edu/~sergey/">Sergey Bratus</a>
-</div>
-<p>
-<a href="http://www.newscientist.com/article.ns?id=dn5079">Virtual Fences for herding cows</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
-<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
-<p>
-<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
-<p>
-<a href="http://www.cs.rit.edu/~zjb/">Zack Butler</a>
-<p>
-<a href="http://www.ars.usda.gov/pandp/people/people.htm?personid=148">Dean Anderson, Research Animal Scientist</a>
-</div>
-<p>
-<a href="http://agent.cs.dartmouth.edu">D'Agents</a>
-<p>
-<div style="margin-left: 40px;">
-<a href="http://www.ists.dartmouth.edu/directors-office/mission.php">David</a> 
-<a href="http://www.cs.dartmouth.edu/~dfk/">Kotz</a>
-<p>
-<a href="http://actcomm.dartmouth.edu/gvc/">George Cybenko</a>
-<p>
-<a href="http://actcomm.thayer.dartmouth.edu/rgray/">Bob Gray</a>
-<p>
-<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
-<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
-</div>
-<p>
-<a href="http://www.InterOscitor.com">InterOscitor</a>
-<p>
-<a href="http://www.sover.net/~ronp">Peterson Enterprises</a>
-<p>
+Tusker and Snouter and Gouger and Rooter<br>
+A'Tuin... Berilia, Tubul, Great T'Phon and Jerakeen
 <hr>
-Miscellaneous Research Related Pictures
-<p>
-<a href="metrosense/bikenet/IMG_0689.JPG"><img src="metrosense/bikenet/IMG_0689.JPG" WIDTH=50%></a>
-<p>
-<img src="N80BlueMote.jpg">
-<p>
-<a href="usc/Penn05/images/IMG_2608.JPG"><img src="usc/Penn05/images/thumb/IMG_2608.JPG"></a>
-<p>
-<img src="AvatarSensors.jpg">
-<p>
-<img src="CowCollar.jpg">
-<p>
-<img src="EmtSwatTeam.jpg">
-<p>
-<img src="rubble.jpg">
-<p>
-<!img src="flashlight.jpg">
-<img src="joeflashmote.jpg">
-<p>
-<img src="Mantis.jpg">
-<p>
-<img src="basement.jpg">
-<p>
-<img src="accelerometer.jpg">
-<p>
-<img src="chemical.jpg">
-<p>
-<img src="cluster1.jpg">
-<p>
-<img src="crystal.jpg">
-<p>
-<img src="CraneRobotSensors.jpg">
-<p>
-<img src="collar.gif">
-<p>
-<img src="architecture.png">
-<p>
-<img src="panarama.jpg">
-<p>
-<img src="ChlorineSensed.gif">
-<p>
-<img src="Doorway.jpg">
-<p>
-<h3>In previous lives:</h3>
-<h4>I've spent some time working on the electronic countermeasures system for the F-22 Raptor</h4>
-<a href="http://en.wikipedia.org/wiki/F-22"><img src="FA-22_Raptor.jpg" WIDTH=50%></a>
-<h4>most of which involved doing missile simulations and computer graphics</h4>
-<a href="http://www.sover.net/~ronp/Consulting/fusion01.jpg">
-<img src="http://www.sover.net/~ronp/Consulting/fusion01.jpg" WIDTH=50%></a>
-<p>
-<a href="http://www.sover.net/~ronp/Consulting/doppler01.jpg"><img src="http://www.sover.net/~ronp/Consulting/doppler01.jpg" WIDTH=50%></a>
-
-<h4>I spent a summer working on a Tokamak nuclear fusion reactor</h4>
-<h4>My job was to build electronics circuits and keep the amplifiers for</h4>
-<h4>the optical fibers used for data collection calibrated.</h4>
-<img src="Rentor1.jpg" WIDTH=50%>
-<img src="Rentor5.jpg" WIDTH=50%>
-<p>
-<h4>I spent another summer doing laser spectroscopy with the fellow on the left in this picture:</h4>
-<img src="jrb-em-dmc.jpg">
-<p>
-<h4>The first computer I ever programmed, an IBM 1620, programmed via punchcards</h4)
-<img src="IBM_1620_Model_1.jpg">
-<p>
-<p>
+students arrive from school confident that they know nearly everything, and they leave
+years later certain that they know practically nothing.  Where did the knowlege go in the 
+meantime?  Into the university, of course, where it is carefully dried and stored.  
+(Terry Pratchett, "The Science of Discworld" 44
 </body>
 </html>
+

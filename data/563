@@ -1,89 +1,76 @@
-http://www.cs.dartmouth.edu/farid/egypt/sennedjem.html
+http://www.cs.dartmouth.edu/~farid/research/imageneuro.html
 3
 <html>
 <head>
 <LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-<title>The Burial Chamber of Sennedjem</title>
+
+<title> Image-Guided Neurosurgery </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=750>
+<table align=center width=750 border=0>
 <tr>
-<td width=350 valign=top> 
-<b> The burial chamber of Sennedjem </b>
+<td valign=top > 
+<b> Image-Guided Neurosurgery </b>
 <BR>
 <p>
-
-Shown to the right are a pair of photographs taken from each end of
-Sennedjem's burial chamber.  The extensive distortions are due to the
-curved ceiling, the wide-angle lens, and the inherent effects of
-perspective projection.  Under these conditions it is nearly
-impossible to obtain a complete distortion-free view of the burial
-chamber.
-
-<BR><BR>
-
-In order to create a single distortion-free mosaic, we digitally
-estimate and remove these distortions.  To see how this works consider
-the pair of images of neighboring ceiling panels shown <a
-href="sennedjem/senimage2.jpeg"> here</a>. The distortions are
-estimated by first specifying the initial (yellow circles) and desired
-(red circles) position of several points in the image.  A non-linear
-mapping characterizing the distortions is then automatically
-estimated.  The distortions are removed by warping the initial image
-according to this mapping as shown <a href="sennedjem/senimage2.jpeg">
-here</a>.  Where necessary, the aspect ratio is adjusted and
-variations in lighting are manually corrected by locally adjusting the
-color/lightness.  Finally, neighboring images are combined by manually
-overlaying their common parts and removing the overlapping areas.
+Magnetic resonance (MR) and computed tomography (CT) images provide a
+detailed 3-D description of patient anatomy.  During neurosurgery it
+is often desirable to establish a correspondence between these
+pre-operative images and real-time images of the patient (as shown to
+the right).  In so doing, the position of a surgical target (e.g., a
+tumor), clearly visible in the MR or CT image, can be more easily
+visualized by the surgeon.
 
 <BR><BR>
 
-We begin with sixteen photographs with nearly full coverage of
-Sennedjem's burial chamber. The distortions in each image are removed
-and then seamlessly combined to form a complete and distortion-free
-view of the entire burial chamber as shown to the right (at 1/40 resolution).
-These images can then be combined with a three-dimensional computer
-model of the burial chamber giving an immersive experience of this
-chamber's beauty [Quicktime Movies: <a href="sennedjem/senmovie1.qt">
-310x240 (18MB)</a>; <a href="sennedjem/senmovie2.qt"> 155x120 (9MB)</a>]
+We have developed a system that allows for the real-time overlay of
+pre-operative MR or CT imagery onto a surgeon's operating microscope
+view.  To accomplish this, our system estimates the transformation
+between the pre-operative image space and the continually changing
+surgical space - this estimation must be accurate to within 1 mm.
 
 <BR><BR>
 
-<a href=sennedjem/virtualtomb/jME_sennedjem.jnlp>Virtual Tomb</a> (use
-arrow keys to move, shift-arrow to change view direction, ESC to quit)
+<i>(Collaborative work with Hai Sun and <a
+href="http://engineering.dartmouth.edu/thayer/faculty/keithpaulsen.html">Keith
+Paulsen</a>)</i>
 
-</td> 
+<td> &nbsp&nbsp </td>
 
-<td>&nbsp&nbsp</td>
-
-<td width=400 valign=top align=left>
-<BR><BR>
-<IMG SRC = "sennedjem/senimage1.jpeg" width=385 height=532>
-<BR>
-<BR>
-<A HREF="sennedjem/senimage3.jpeg"><IMG SRC="sennedjem/senimage3a.jpeg" width=385 height=82></A>
+<td valign=top> <IMG SRC="imageneuro.jpg" width=304 height=304> <BR>
 </td>
 </tr>
 </table>
 
-
-
 <HR>
+
+
 <table align=center width=750>
 <tr>
-<td align=left>
-<i><a href="../egypt/reconstruction.html">Related material</a></i>
-</td>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></t\
+d>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Stereopsis-Guided Brain Shift Compensation <a href="../publications/medimg05.html">(medimg05)</a> <BR>
+  <li>Cortical Surface Tracking Using a Stereoscopic Operating Microscope <a href="../publications/neuro05.html">(neurosurgery05)</a> <BR>
+  <li>Stereopsis-Guided Brain Shift Compensation <a href="../publications/hsthesis05.html">(thesis05)</a> <BR>
+  <li>A Non-Contacting 3-D Digitizer for Use in Image-Guided Neurosurgery <a href="../publications/sfn03.html">(sfn03)</a> <BR>
+  <li>Estimating Cortical Surface Motion Using Stereopsis for Brain Deformation Models <a href="../publications/miccai03a.html">(miccai03)</a> <BR>
+  <li>A Non-Contacting 3-D Digitizer For Use in Image-Guided Neurosurgery <a href="../publications/assfn03.html">(assfn03)</a> <BR>
+  <li>Real-time Correction Scheme for Calibration and Implementation of Microscope-Guided Neurosurgery <a href="../publications/spie02.html">(spie02)</a>
+</ol>
+</i></font> </td>
 
 <td valign=top align=right>
-	<i>
-	<a href="../home.html"> Home</a> &nbsp &nbsp
-	</i>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
 </td>
 </tr>
 </table>
 </html>
-
-suresafi
+lei

@@ -1,111 +1,3 @@
-http://www.cs.dartmouth.edu/~nymble
+http://www.cs.dartmouth.edu/~sismat
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/REC-html401/loose.dtd">
-<html>
-<head>
-  <title>Nymble Project: Anonymous IP-Address Blocking</title>
-  <meta name="author" content="Tiger Huang">
-  <link href="style.css" rel="stylesheet" type="text/css">
-  <link rel="shortcut icon" type="image/x-icon" href="./images/nymble_favicon.ico">
-</head>
-<body>
-<div id="header">
-    <div id="logo">
-        <a href="index.php"><img style="border: 0px solid ; width: 14.89em; height: 3.794em;" alt="logo" src="nymble_logo_white.jpg"></a>
-    </div>
-    <div id="menu">
-    	<ul>
-		    <li><a href="index.php" accesskey="1" title="">Home</a></li>			
-		    <li><a href="overview.php" accesskey="2" title="">Overview</a></li>
-		    <li><a href="docs.php" accesskey="3" title="">Docs</a></li>
-		    <li><a href="download.php" accesskey="4" title="">Download</a></li>
-		    <li><a href="links.php" accesskey="5" title="">Links</a></li>
-		    <li><a href="people.php" accesskey="6" title="">People</a></li>
-	    </ul>
-    </div>        
-</div>
-<div id="container">
-    <div id="body">
-        <div id="bg">
-            <div id="l">
-                <div id="content">
-                    <h2>Nymble: Anonymous IP-Address Blocking</h2>
-                        <p>Anonymizing networks such as <a href="https://www.torproject.org"><b>Tor</b></a> provide privacy to users by hiding
-                        their IP addresses from servers. For example, Tor uses a volunteer
-                        network of nodes, which help redirect users' communications thereby
-                        making it difficult to infer the users' IP addresses. Unfortunately,
-                        some users have abused such networks to deface websites such as
-                        Wikipedia. Since servers are unable to block anonymous users, their
-                        normal response is to simply block the entire anonymizing network,
-                        denying anonymous access to <em>honest and dishonest users alike</em></p>
-
-                        <p>Nymble is a credential system that can be used in conjunction with
-                        anonymizing networks such as Tor to selectively block anonymous users
-                        <em>while maintaining their privacy</em>. Nymble offers the following
-                        properties:<p>
-                        <ul>
-                        <li><b>Anonymous blacklisting:</b> A server can block the IP address of a misbehaving user 
-                            <em>without knowing the identity of the user or his/her IP address.</em></li>
-                        <li><b>Privacy:</b> Honest and misbehaving users both remain anonymous.</li>
-                        <li><b>Backward anonymity:</b> The blacklisted user's previous activity remains anonymous/unlinkable, and is refused future connections.</li>
-                        <li><b>Blacklist-status awareness:</b> A user can check whether he/she has been blocked before accessing services at the server.</li>
-                        <li><b>Subjective judging:</b> Since misbehaving users are blocked without compromising their privacy, 
-                            servers can provide their own definition of "misbehavior".
-                        </ul>
-
-                        <p>We hope that Nymble will make anonymizing networks such as Tor more
-                        acceptable to servers that are concerned about abuse from a handful of misbehaving users. Indeed, a few
-                        bad apples should not spoil the fun for the rest of
-                        us!</p>
-                </div>
-            </div>
-            <div id="r">
-                <div class="content" style="padding: 30px 30px 30px 30px;">
-    <h2>Recent News:</h2>
-    <br>
-    <em>December 7, 2008</em>
-    <p>
-    New Technical Report Released.
-    </p>   
-    <em>June 16, 2008</em>
-    <p>
-    Presentation at MIT Lincoln Lab.
-    </p>   
-    <em>May 9, 2008</em>
-    <p>
-    Presentation at IBM Zurich Research Laboratory.
-    </p>   
-    <em>May 1, 2008</em>
-    <p>
-    Nymble code available on <a href="http://github.com/dxoigmn/nymble/">git</a>.
-    </p>   
-    <em>April 16, 2008</em>
-    <p>
-    Presentation at Harvard.
-    </p>   
-    <em>April 3, 2008</em>
-    <p>
-    Presentation at Rochester Institute of Technology. 
-    </p>
-    <em>March 5, 2008</em>
-    <p>
-    Apu Kapadia gives Nymble presentation at Dartmouth.<br> 
-    </p>
-</div>
-
-
-
-
-
-  
-            </div>
-        </div>
-    </div>
-    <div id="footer">
-<p>Copyright &copy; 2008 Trustees of Dartmouth College, All Rights Reserved.</p>
-</div>
-
-</div>
-</body>
-</html>
-dates.i
+<html><head><title>SISMAT: Secure Information Systems Mentoring and Training</title><style type="text/css"><!--bod1{color: black; font-size: 13px; font-family:arial}bod2{color: #33CC00; font-size: 13px; font-family:arial}header{color: #336699; font-size: 20px; font-family:arial}caption{color: black; font-size: 11px; font-family:arial}a:link{color:#33CC00; font-size: 13px; font-family:arial; text-decoration:none; font-weight:bold}a:hover{color:#33CC00; font-size: 13px; font-family:arial; text-decoration:underline; font-weight:bold}a:visited{color:#339900; font-size: 13px; font-family:arial; text-decoration:none; font-weight:bold}--></style></head><body bgcolor="#FFFFFF"><div align="center">  <p>&nbsp;</p>  <table width=700 border=0 cellpadding="0" cellspacing="0">            <tr>    <td align="left" valign="top">      </td>  <td align="right" valign="top">  <p>&nbsp; <img src="grow.jpg">   </td>  <td align="left" valign="top">   &nbsp;    </td>  <td align="left" valign="top" width="500"><table  border=0 cellpadding="0" cellspacing="0"><tr><td align="left">  <p><header>Students</header>  <br><bod1>Learn about secure systems.  Get a summer internship.  Bring it home with an independent study or thesis project.</bod1></td></tr><tr><td align="right" valign="top">  <a href="students.shtml">learn more</a> -  <a href="apply.shtml">apply</a></td></tr><tr><td align="left">  <p><br><header>Professors</header>  <br><bod1>Mentor a talented undergraduate.  Network with others in  your field.  Get support developing secure system curricula for your  institution.</bod1></td></tr><tr><td align="right" valign="top">  <a href="profs.shtml">learn more</a>  -  <a href="apply.shtml">apply</a></td></tr><tr><td align="left">  <p><br><header>Intern Supervisors</header> <br><bod1>Identify an  internship project.  Be matched with a motivated undergraduate  trained and chosen for the position.  Bring insight into your  company's needs to institutions of higher learning.</bod1></td></tr><tr><td align="right" valign="top">  <a href="industry.shtml">learn more</a>  -  <a href="hire.shtml">hire an intern</a></td></tr></table>  </td>           <td align="left" valign="top"> </td></tr>                         </table></div></body></html>pi

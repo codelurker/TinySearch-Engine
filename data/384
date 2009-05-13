@@ -1,107 +1,126 @@
-http://www.cs.dartmouth.edu/~doug/icosi/index.html
+http://www.cs.dartmouth.edu/~rockmore/chron.html
 3
-<html>
-<title>
-Rainbow Icosahedra
-</title>
-<body>
-<h1>Rainbow Icosahedra</h1>
-This puzzle was inspired by playing with a 
-<a href="http://www.magz.com">Magz</a> magnetic ball-and-stick toy:
-how to color (in the usual mathematical sense) the
-edges of an icosahedron with 6 colors?
-<p>
-Why use six colors, when 
-it's easy with five? 
-[<a href="http://www.mathpages.com/home/kmath095.htm">MathPages.com</a>]
-Notice that <i>C</i>(6,3), the number of combinations of 6 colors
-taken 3 at a time, is 20--the same as the number of faces.
-Now the problem gets interesting!
-You may enjoy trying it before looking at my solutions.
-<p>
-<b>Problem.</b>
-In how many ways, distinct under symmetries of the icosahedron
-and renaming of the colors, can the edges of
-a regular icosahedron be colored with 6 colors so that
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all 5 edges meeting at any vertex have different colors, and 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;each combination of 3 distinct colors occurs on the boundary
-of some face?
-<p>
-<b>Observation 1.</b>
-In any such coloring each
-color must appear on exactly 5 of the 30 edges
-of the icosahedron.
-For consider one color, say red.
-<i>C</i>(5,2)=10 is the number of pairs of non-red colors, and hence
-the number of distinctly colored triangles with one red edge.
-Since each red edge borders two triangles, there must be 5 red edges.
-<p>
-<b>Observation 2.</b>
-Think of the 5 edges of one color as a "tile",
-albeit a completely disconnected one.  Then we can address the problem 
-without attention to colors:
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;find all the distinct shapes of tiles; 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;find all the ways of tiling the icosahedron with these shapes; and
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discard tilings in which 2 faces touch the same 3 tiles.
-<p>
-A Haskell program to carry out this plan
-revealed just 18 tile shapes and 12 tilings. 
-<p>
-One tiling has 3-fold rotational symmetry: <a href="3fold.ps">PostScript</a>
-or <a href="3fold.pdf">PDF</a> or <a href="3fold.html">HTML</a> (lower quality).
-<p>
-Four tilings have 5-fold rotational symmetry:
-<a href="5fold.ps">PostScript</a>
-or <a href="5fold.pdf">PDF</a>.
-<p>
-The other seven tilings lack symmetry: <a href="1fold.ps">PostScript</a>
-or <a href="1fold.pdf">PDF</a>.
-<p>
-<h4>Some properties of the tilings</h4>
-No tiling has a symmetry group of even order,
-despite the abundance of even-order subgroups in the
-icosahedral group.
-In particular, no tiling is invariant under
-reflection, 180-degree rotation, or central inversion coupled
-with renaming of colors.
-<p>
-Every tiling uses tiles of more than one shape.
-However the 3-fold symmetric tiling can be
-seen as 3 congruent bicolor supertiles.
-<p>
-Each of the 18 tile shapes occurs in some tiling.
-<h4> Related 5-colorings</h4>
-Branko Grunbaum suggested looking for 5-colorings in
-which each combination of colors occurs on exactly
-two faces with the colors in opposite
-sequence on the two faces.
-All 13 such colorings have even-order symmetry groups.
-One example
-has the full symmetry of the icosahedron:
-<a href="5color.ps">PostScript</a>,&nbsp;
-<a href="5color.pdf">PDF</a>.
-<h4> Dual problems</h4>
-By duality, one can color the edges of a dodecahedron
-with 6 colors so that every combination of 3 colors
-meets at exactly one vertex, or with 5 colors so that
-every sequence of three colors occurs clockwise about exactly
-one vertex.
-<p>
-John Conway found there are three
-<a href="http://www.neverendingbooks.org/index.php/quintominal-dodecahedra.html">5-colorings of the edges of a
-dodecahedron</a> such that each of the twelve
-5-color necklaces, distinct under rotation and reversal,
-occurs around some face.
-These colorings are dual to 5-colorings of the
-edges of an icosahedron in which every sequence
-of 5 colors occurs
-clockwise or else counterclockwise about exactly one vertex.
-<hr>
-<i>Modified February 11, 2006; March 24, 2008.</i>
-</body>
-</html>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="Microsoft Word 97/98">
+<TITLE>Pi</TITLE>
+</HEAD>
+<BODY TEXT="#000000" LINK="#0000FF" VLINK="#FF0000" ALINK="#00FF00" BGCOLOR="#FFFFFF">
+
+<P>
+From <I><FONT SIZE=+1><B>THE CHRONICLE</B></FONT> of High Education</I> March 12, 1999
+</P>
+
+<TABLE BORDER="0">
+	<TR>
+	<TD WIDTH="175" ALIGN=left>
+<FONT FACE="Times" SIZE=+1>W</FONT><FONT FACE="Times"
+SIZE=1>ELL,</FONT> it's finally happened. The
+fragrance industry has discovered "math appeal." Givenchy has a new
+men's cologne called Pi. In a recent National Public Radio segment, the
+reporter David Kestenbaurn attributed the name of this new scent to the
+public's growing love of technology, and the perception of
+technology--and hence mathematics and numbers--as cool. <BR><BR>
+
+But maybe we're not giving Givenchy enough credit.
+Was it just some marketing intuition on the company's part that brought
+about the fragrance Pi, or was it a more subtle appreciation of the
+number in and of itself9 Because if any number were poised to make a
+fashion statement, it would be pi.<BR><BR>
+
+To begin with, this is a number that has an exotic
+Greek name, and it's one-word appellation echoes the sexy Madonna, Cher,
+and Fabio. Of course, when we refer to pi in writing, we use a delicate
+and mysterious symbol, just as we do for the artist formerly known as
+Prince. In addition, pi is already famous to people around the world,
+recognized since 2000 </FONT><FONT FACE="Times" SIZE=1>B.C.</FONT> 
+as the ratio of the circumference of any circle to
+its diameter. That is, take any circle, and measure the distance
+around--that's the circumference. Then compare that to the diameter--the
+distance across when you go through the center. What you'll find is that
+you need just a little more than three times the diameter to get the
+circumference--and the exact number of diameters you need is pi. That is
+true for every circle. Pi is universal! 
+<BR><BR>
+So exactly what number is pi? 
+		</TD>
+		<TD WIDTH="330" ALIGN=CENTER>
+		
+    <TABLE BORDER="0">
+	<TR>
+		<TD WIDTH="300" ALIGN=CENTER>&nbsp;		
+		<IMG SRC="pi.gif" WIDTH="310" ALIGN=top HSPACE="1" VSPACE="1">		
+		</TD>
+	</TR>
+	<TR>
+		<TD ALIGN=CENTER>
+<TABLE BORDER="0">
+	<TR>
+	    <TD WIDTH="5" ALIGN=CENTER>&nbsp;</TD>
+		<TD WIDTH="155" ALIGN=left>&nbsp;
+		<BR><BR>
+		Well, as with many alluring things, pi is hard to pin
+down. You see, pi is an "irrational" number. That means that when you
+figure out pi's decimal expansion--that is, calculate its value beyond the
+decimal point--you find that pi is full of surprises. If pi were
+"rational"--in other words, a fraction--we would get either an expansion
+that stopped somewhere, such as 3.14, or one that repeated itself,<BR><BR>
+		</TD>
+		<TD WIDTH="10" ALIGN=CENTER>&nbsp;</TD>
+		<TD WIDTH="155" ALIGN=left>
+		<BR><BR>
+		such as
+3.141414. But, instead, the list of digits that we get seems so
+arbitrary as to be almost whimsical. There is no telling what will come
+next, as you try to calculate its exact value.<BR><BR>
+
+ But to say simply that pi is irrational doesn't even
+begin to speak to the difficulty we have in describing pi. Its
+unpredict<BR><BR>
+		</TD>
+		<TD WIDTH="5" ALIGN=CENTER>&nbsp;</TD>
+	</TR>
+</TABLE>
+</TD>
+	</TR>
+</TABLE>
+</TD>
+		<TD WIDTH="175" ALIGN=left >
+		ability is cabalistic and mysterious, for, even more
+than irrational, pi is "transcendental." Although some irrational
+numbers satisfy the simple relations of a polynomial (meaning that some
+combination of their powers add up to zero, in which case they are
+"algebraic"), the powers of pi are not subject to such simple coercion.
+One might even say, as mathematicians do, that they are independent!<BR><BR>
+
+Foreign, unpredictable, otherworldly, yet as common
+as a circle, the number pi teases and tempts us--it's easy to find, but
+hard to know. Why, among mathematicians there still rages a fierce,
+unsettled debate about whether pi is a "normal" number--that is, whether
+the digits 0 through 9 each occur on average one-tenth of the time in
+the never-ending decimal expansion of pi. The questions that surround
+pi's normalcy make it a veritable poster number for the fashion world's
+ambiguous and androgynous advertising campaigns.<BR><BR>
+
+So that's pi--an exotic, sensual paradox. Surely
+Givenchy must have known that this tiny name contained such a wealth of
+meaning and emotion. And, just think, there is an infinity of other
+numbers out there with similar qualities from which the fragrance and
+fashion world may choose. I suppose that if Pi is a hit, we may even
+begin to see fragrances named after functions. Of course, you need look
+no further than trigonometry to find two likely candidates: tan and
+sin.<BR><BR>
+
+<I><FONT FACE="Geneva" SIZE=1><B>Daniel Rockmore</B> 
+is an associate professor of mathematics and computer science at Dartmouth 
+College.</FONT></I>
+
+</TD>
+
+	</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+Wecareeá

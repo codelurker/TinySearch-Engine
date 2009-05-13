@@ -1,130 +1,14 @@
-http://www.cs.dartmouth.edu/~tristan
+http://www.cs.dartmouth.edu/~wbc/makeinf_mf_on_fc5.html
 3
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-
-    <title>Tristan Henderson
- | Home         
-</title>
-<link rel="stylesheet" href="http://www.cs.st-andrews.ac.uk/~tristan/include/style.css" type="text/css" /><link rel="stylesheet" href="http://www.cs.st-andrews.ac.uk/~tristan/include/css/sidebar/hide.css" type="text/css" />
-<meta name="description" content="Homepage of Tristan Henderson, Lecturer in Computer Science at the University of St Andrews, Scotland. Research interests: wireless networking, multiplayer networked games." />
-<meta http-equiv="Content-Style-Type" content="text/css" />
-
-<style type="text/css">
-/*<![CDATA[*/
-#pageHeader {
-height: 192px;
-background-image: url("http://www.cs.st-andrews.ac.uk/~tristan/include/images/banners/east_sands_4.jpg");
-}
-/*]]>*/
-</style>
 
 
-</head>
-
-<body>
-<div id="border">
-<div id="wrapper">
-<div id="navcontainer">
-<ul>
-<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/index.php" >Home</a></li>
-<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/research/" >Research</a></li>
-<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/teaching/" >Teaching</a></li>
-<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/photos/" >Photos</a></li>
-<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/misc/" >Misc</a></li>
-<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/about/" >About</a></li>
-</ul>
-</div>
-<div id="pageHeader">
-<h1>Tristan Henderson</h1>
-<h2>Lecturer, <a href="http://www.cs.st-andrews.ac.uk">CompSci</a>,
-<a href="http://www.st-andrews.ac.uk">St Andrews</a></h2>
-</div>
-<div id="container">
-<div id="sidebarContainer">
-<div id="sidebar">
-<br /></div>
-</div>
-<div id="contentContainer">
-<div id="content">
-
-<p>Welcome to my website. As you may have guessed from the
-text above, I work in the <a href=
-"http://www.cs.st-andrews.ac.uk">School of Computer Science</a> at
-the <a href="http://www.st-andrews.ac.uk">University of St
-Andrews</a> in Scotland. Please browse the links to find out more
-about me and what I do, or take a look at my <a href=
-"research/pubs.php">papers</a>. Or here are some ways to <a href=
-"about/contact.php">reach me</a>.</p>
-
-<hr />
-
-<h3>Notices</h3>
-
-<ul>
-
-<li>We have a new baby girl!</li>
-
-<li>New research project: <a href="http://www.pvnets.org">Privacy
-Value Networks</a>.</li>
-
-<li>New funded PhD opportunities in <a 
-href="http://www.cs.st-andrews.ac.uk/stacc">Cloud Computing</a>.</li>
-
-<li>In general I am always on the lookout for good PhD students 
-&mdash; see my <a href=
-"research/">research page</a> for more. Funding is currently
-available for qualified students (including overseas students) &mdash; 
-see the <a href=
-"http://www.sicsa.ac.uk/graduate-academy/prize-studentships/sicsa-prize-studentships/">
-SICSA</a> pages. Note that I do <b>not</b> have funding
-for overseas undergraduate internships &mdash; the numerous 
-requests that I receive for these are ignored.</li>
-
-<li>We hold regular <a href="http://scone.cs.st-andrews.ac.uk/">SCONE</a>
-(SCOttish Networking Event) meetings for anyone who is interested in networking and systems. Please consider coming to our
-next meeting &mdash; Edinburgh, <a href=
-"http://scone.cs.st-andrews.ac.uk/wiki/Meeting12032009">
-12 March</a>.</li>
-
-<li>I am responsible for publicity and recruitment in our School.
-If you are thinking about studying Computer Science at St Andrews, 
-take a look at the relevant <a href=
-"http://www.cs.st-andrews.ac.uk/prospective-ug">School webpages</a>
-and please consider <a href=
-"http://www.st-andrews.ac.uk/admissions/VisitingtheUniversity/">visiting
-us</a>.</li>
-
-<li>I am currently involved with the following events. Please
-consider submitting something if you can.
-
-<ul>
-<li>Programme Committee, <a href="http://www.mmsys.org/">Multimedia Systems 2010</a></li>
-<li>Steering/Programme Committee, <a href="http://www-poleia.lip6.fr/~netgames2009/">NetGames 2009</a></li>
-<li>Programme Committee, <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/index.php">WOSN 2009</a></li>
-<li>Programme Committee, <a href="http://hotplanetconf.net/">HotPlanet</a></li>
-<li>Steering/Programme Committee, <a href="http://www.extremecom.org/">ExtremeCom</a></li>
-<li>Publicity Chair, <a href="http://www.mobiquitous.org/">Mobiquitous 2009</a></li>
-<li>Publicity Chair, <a href="http://www.nossdav.org/2009/">NOSSDAV 2009</a></li>
-</ul>
-</li>
-
-</ul>
-
-</div>
-</div>
-<div class="clearer"></div>
-<div id="footer"></div>
-
-</div>
-<div id="crawdadfooter"><a href="http://crawdad.org/"></a></div>
-</div>
-</div>
+<head><title>
+</title>Making mf run on fc5</head>
 </body>
-</html>
-
-re i
+<ul>
+<li> this assumes that you have /usr/share/texmf/metafont/config/mf.ini
+hanging around somewhere..
+<li>mf -ini /usr/share/texmf/metafont/config/mf.ini (as root)
+<li>this means you can use \mode:=mf
+</ul>
+</body>

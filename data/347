@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:WhatLinksHere/Main_Page
+http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Publications
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
@@ -6,12 +6,14 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:WhatLinksHere/
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta http-equiv="Content-Style-Type" content="text/css" />
 		<meta name="generator" content="MediaWiki 1.14.0" />
-		<meta name="robots" content="noindex,nofollow" />
+		<meta name="keywords" content="Publications" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Publications&amp;action=edit" />
+		<link rel="edit" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Publications&amp;action=edit" />
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="search" type="application/opensearchdescription+xml" href="/~robotics/mediawiki/opensearch_desc.php" title="RobotLab (en)" />
 		<link rel="alternate" type="application/rss+xml" title="RobotLab RSS Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=rss" />
 		<link rel="alternate" type="application/atom+xml" title="RobotLab Atom Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-		<title>Pages that link to &quot;Main Page&quot; - RobotLab</title>
+		<title>Publications - RobotLab</title>
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/shared.css?195" type="text/css" media="screen" />
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/commonPrint.css?195" type="text/css" media="print" />
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/main.css?195" type="text/css" media="screen" />
@@ -35,20 +37,20 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:WhatLinksHere/
 		var wgVariantArticlePath = false;
 		var wgActionPaths = {};
 		var wgServer = "http://www.cs.dartmouth.edu";
-		var wgCanonicalNamespace = "Special";
-		var wgCanonicalSpecialPageName = "Whatlinkshere";
-		var wgNamespaceNumber = -1;
-		var wgPageName = "Special:WhatLinksHere";
-		var wgTitle = "WhatLinksHere";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Publications";
+		var wgTitle = "Publications";
 		var wgAction = "view";
-		var wgArticleId = 0;
-		var wgIsArticle = false;
+		var wgArticleId = "8";
+		var wgIsArticle = true;
 		var wgUserName = null;
 		var wgUserGroups = null;
 		var wgUserLanguage = "en";
 		var wgContentLanguage = "en";
 		var wgBreakFrames = false;
-		var wgCurRevisionId = 0;
+		var wgCurRevisionId = "264";
 		var wgVersion = "1.14.0";
 		var wgEnableAPI = true;
 		var wgEnableWriteAPI = true;
@@ -76,49 +78,87 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:WhatLinksHere/
 -->
 </style>		<script type="text/javascript" src="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
 	</head>
-<body class="mediawiki ltr ns--1 ns-special page-Special_WhatLinksHere skin-monobook">
+<body class="mediawiki ltr ns-0 ns-subject page-Publications skin-monobook">
 	<div id="globalWrapper">
 		<div id="column-content">
 	<div id="content">
 		<a name="top" id="top"></a>
-				<h1 id="firstHeading" class="firstHeading">Pages that link to &quot;Main Page&quot;</h1>
+				<h1 id="firstHeading" class="firstHeading">Publications</h1>
 		<div id="bodyContent">
 			<h3 id="siteSub">From RobotLab</h3>
-			<div id="contentSub">← <a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;redirect=no" title="Main Page">Main Page</a></div>
+			<div id="contentSub"></div>
 									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
-			<form action="/~robotics/mediawiki/index.php"><input name="title" type="hidden" value="Special:WhatLinksHere" /><fieldset>
-<legend>What links here</legend>
-<label for="mw-whatlinkshere-target">Page:</label>&nbsp;<input name="target" size="40" value="Main Page" id="mw-whatlinkshere-target" /> <label for="namespace">Namespace:</label>&nbsp;<select id="namespace" name="namespace" class="namespaceselector">
-<option value="" selected="selected">all</option>
-<option value="0">(Main)</option>
-<option value="1">Talk</option>
-<option value="2">User</option>
-<option value="3">User talk</option>
-<option value="4">RobotLab</option>
-<option value="5">RobotLab talk</option>
-<option value="6">File</option>
-<option value="7">File talk</option>
-<option value="8">MediaWiki</option>
-<option value="9">MediaWiki talk</option>
-<option value="10">Template</option>
-<option value="11">Template talk</option>
-<option value="12">Help</option>
-<option value="13">Help talk</option>
-<option value="14">Category</option>
-<option value="15">Category talk</option>
-<option value="222">Bib</option>
-<option value="223">BibTalk</option>
-</select> <input type="submit" value="Go" /></fieldset></form>
-<fieldset>
-<legend>Filters</legend>
-<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;hidetrans=1" title="Special:WhatLinksHere/Main Page">Hide transclusions</a>&nbsp;|&nbsp;<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;hidelinks=1" title="Special:WhatLinksHere/Main Page">Hide links</a>&nbsp;|&nbsp;<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;hideredirs=1" title="Special:WhatLinksHere/Main Page">Hide redirects</a>
-</fieldset>
-<p>The following pages link to <b><a href="/~robotics/mediawiki/index.php/Main_Page" title="Main Page">Main Page</a></b>:
-</p>View (previous 50) (next 50) (<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=20" title="Special:WhatLinksHere/Main Page">20</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=50" title="Special:WhatLinksHere/Main Page">50</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=100" title="Special:WhatLinksHere/Main Page">100</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=250" title="Special:WhatLinksHere/Main Page">250</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=500" title="Special:WhatLinksHere/Main Page">500</a>)<ul id="mw-whatlinkshere-list"><li><a href="/~robotics/mediawiki/index.php?title=Dartmouth_Robotics&amp;redirect=no" title="Dartmouth Robotics">Dartmouth Robotics</a> (redirect page) <span class="mw-whatlinkshere-tools">(<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere&amp;target=Dartmouth_Robotics" title="Special:WhatLinksHere">← links</a>)</span>
-</li><li><a href="/~robotics/mediawiki/index.php/Matthew_Bell" title="Matthew Bell">Matthew Bell</a>  <span class="mw-whatlinkshere-tools">(<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere&amp;target=Matthew_Bell" title="Special:WhatLinksHere">← links</a>)</span></li>
-<li><a href="/~robotics/mediawiki/index.php/Andrei_Furtuna" title="Andrei Furtuna">Andrei Furtuna</a>  <span class="mw-whatlinkshere-tools">(<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere&amp;target=Andrei_Furtuna" title="Special:WhatLinksHere">← links</a>)</span></li>
-</ul>View (previous 50) (next 50) (<a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=20" title="Special:WhatLinksHere/Main Page">20</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=50" title="Special:WhatLinksHere/Main Page">50</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=100" title="Special:WhatLinksHere/Main Page">100</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=250" title="Special:WhatLinksHere/Main Page">250</a> | <a href="/~robotics/mediawiki/index.php?title=Special:WhatLinksHere/Main_Page&amp;limit=500" title="Special:WhatLinksHere/Main Page">500</a>)<div class="printfooter">
-Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:WhatLinksHere">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:WhatLinksHere</a>"</div>
+			<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Interpreting_publications"><span class="tocnumber">1</span> <span class="toctext">Interpreting publications</span></a></li>
+<li class="toclevel-1"><a href="#Robot_geodesics"><span class="tocnumber">2</span> <span class="toctext">Robot geodesics</span></a></li>
+<li class="toclevel-1"><a href="#Manipulating_flexible_materials"><span class="tocnumber">3</span> <span class="toctext">Manipulating flexible materials</span></a></li>
+<li class="toclevel-1"><a href="#Rigid-body_manipulation"><span class="tocnumber">4</span> <span class="toctext">Rigid-body manipulation</span></a></li>
+<li class="toclevel-1"><a href="#Other_topics"><span class="tocnumber">5</span> <span class="toctext">Other topics</span></a></li>
+<li class="toclevel-1"><a href="#Undergraduate_research"><span class="tocnumber">6</span> <span class="toctext">Undergraduate research</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Interpreting_publications" id="Interpreting_publications"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit&amp;section=1" title="Edit section: Interpreting publications">edit</a>]</span> <span class="mw-headline"> Interpreting publications </span></h2>
+<p>Conference papers in computer science are typically rigorous and self-sufficient papers of at least six pages in length.  All papers on this page are peer-reviewed, unless otherwise noted.  However, in some cases later publications make previous publications obsolete; this is denoted by indentation in the following list.
+</p>
+<a name="Robot_geodesics" id="Robot_geodesics"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit&amp;section=2" title="Edit section: Robot geodesics">edit</a>]</span> <span class="mw-headline">Robot geodesics</span></h2>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFChitsazBalkcomMason2009">Chitsaz, Hamid Reza; Balkcom, Devin; Mason, Matthew&#32;(2009),&#32;"Minimum wheel-rotation trajectories for differential-drive mobile robots",&#32;<i>International Journal of Robotics Research</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Minimum+wheel-rotation+trajectories+for+differential-drive+mobile+robots&amp;rft.jtitle=International+Journal+of+Robotics+Research&amp;rft.aulast=Chitsaz&amp;rft.aufirst=Hamid+Reza&amp;rft.au=Chitsaz%2C+Hamid+Reza&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2009&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFChitsazLaValleBalkcomMason2009">Chitsaz, Hamid Reza; LaValle, Steven; Balkcom, Devin; Mason, Matthew&#32;(2006),&#32;"An explicit characterization of minimum wheel-rotation paths for differential drives",&#32;<i>Methods and Models in Automation and Robotics</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An+explicit+characterization+of+minimum+wheel-rotation+paths+for+differential+drives&amp;rft.jtitle=Methods+and+Models+in+Automation+and+Robotics&amp;rft.aulast=Chitsaz&amp;rft.aufirst=Hamid+Reza&amp;rft.au=Chitsaz%2C+Hamid+Reza&amp;rft.au=LaValle%2C+Steven&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li><li> <cite style="font-style:normal" class="" id="CITEREFChitsazLaValleBalkcomMason2009">Chitsaz, Hamid Reza; LaValle, Steven; Balkcom, Devin; Mason, Matthew&#32;(2006),&#32;"Minimum wheel-rotation paths for differential-drive mobile robots",&#32;<i>IEEE International Conference on Robotics and Automation</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Minimum+wheel-rotation+paths+for+differential-drive+mobile+robots&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Chitsaz&amp;rft.aufirst=Hamid+Reza&amp;rft.au=Chitsaz%2C+Hamid+Reza&amp;rft.au=LaValle%2C+Steven&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFFurtunaBalkcomChitsazKavathekar2009">Furtuna, Andrei; Balkcom, Devin; Chitsaz, Hamid Reza; Kavathekar, Paritosh&#32;(2008),&#32;"Generalizing the Dubins and Reeds-Shepp cars:  fastest paths for bounded-velocity mobile robots.",&#32;<i>IEEE International Conference on Robotics and Automation</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Generalizing+the+Dubins+and+Reeds-Shepp+cars%3A++fastest+paths+for+bounded-velocity+mobile+robots.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Furtuna&amp;rft.aufirst=Andrei&amp;rft.au=Furtuna%2C+Andrei&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Chitsaz%2C+Hamid+Reza&amp;rft.au=Kavathekar%2C+Paritosh&amp;rft.date=2008&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2000),&#32;"Extremal trajectories for bounded-velocity differential-drive robots.",&#32;<i>IEEE International Conference on Robotics and Automation</i>:  2479-2484</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Extremal+trajectories+for+bounded-velocity+differential-drive+robots.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2000&amp;rft.pages=2479-2484&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomKavathekarMason2009">Balkcom, Devin; Kavathekar, Paritosh; Mason, Matthew&#32;(2008),&#32;"The time-optimal trajectories for an omni-directional vehicle",&#32;<i>International Journal of Robotics Research</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+time-optimal+trajectories+for+an+omni-directional+vehicle&amp;rft.jtitle=International+Journal+of+Robotics+Research&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Kavathekar%2C+Paritosh&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2008&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomKavathekarMason2009">Balkcom, Devin; Kavathekar, Paritosh; Mason, Matthew&#32;(2006),&#32;"The minimum-time trajectories for an omni-directional vehicle",&#32;<i>Workshop on the Algorithmic Foundations of Robotics</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+minimum-time+trajectories+for+an+omni-directional+vehicle&amp;rft.jtitle=Workshop+on+the+Algorithmic+Foundations+of+Robotics&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Kavathekar%2C+Paritosh&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2002),&#32;"<a href="http://www.cs.dartmouth.edu/~robotics/papers/djb-ijrr02.pdf" class="external text" title="http://www.cs.dartmouth.edu/~robotics/papers/djb-ijrr02.pdf" rel="nofollow">Time-optimal trajectories for differential drive vehicles</a>",&#32;<i>International Journal of Robotics Research</i>&#32;<b>21</b>&#32;(3):  199-217</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%5Bhttp%3A%2F%2Fwww.cs.dartmouth.edu%2F%7Erobotics%2Fpapers%2Fdjb-ijrr02.pdf+Time-optimal+trajectories+for+differential+drive+vehicles%5D&amp;rft.jtitle=International+Journal+of+Robotics+Research&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2002&amp;rft.volume=21&amp;rft.issue=3&amp;rft.pages=199-217&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2000),&#32;"Time-optimal trajectories for bounded-velocity differential-drive robots.",&#32;<i>IEEE International Conference on Robotics and Automation</i>:  2499-2504</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Time-optimal+trajectories+for+bounded-velocity+differential-drive+robots.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2000&amp;rft.pages=2499-2504&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2000),&#32;"Extremal trajectories for bounded-velocity differential-drive robots.",&#32;<i>IEEE International Conference on Robotics and Automation</i>:  1747-1752</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Extremal+trajectories+for+bounded-velocity+differential-drive+robots.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2000&amp;rft.pages=1747-1752&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2000),&#32;"Geometric construction of time-optimal trajectories for differential drive robots.",&#32;<i>Workshop on the Algorithmic Foundations of Robotics,</i>:  377-389</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Geometric+construction+of+time-optimal+trajectories+for+differential+drive+robots.&amp;rft.jtitle=Workshop+on+the+Algorithmic+Foundations+of+Robotics%2C&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2000&amp;rft.pages=377-389&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+</li></ul>
+<a name="Manipulating_flexible_materials" id="Manipulating_flexible_materials"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit&amp;section=3" title="Edit section: Manipulating flexible materials">edit</a>]</span> <span class="mw-headline"> Manipulating flexible materials </span></h2>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBellBalkcom2009">Bell, Matthew; Balkcom, Devin&#32;(2008),&#32;"Knot tying with single-piece fixtures.",&#32;<i>IEEE International Conference on Robotics and Automation</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Knot+tying+with+single-piece+fixtures.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Bell&amp;rft.aufirst=Matthew&amp;rft.au=Bell%2C+Matthew&amp;rft.au=Balkcom%2C+Devin&amp;rft.date=2008&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2008),&#32;"Robotic origami folding",&#32;<i>International Journal of Robotics Research</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Robotic+origami+folding&amp;rft.jtitle=International+Journal+of+Robotics+Research&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2008&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2004),&#32;"Introducing robotic origami folding",&#32;<i>IEEE International Conference on Robotics and Automation</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Introducing+robotic+origami+folding&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2004&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomDemaineDemaineOschendorf2009">Balkcom, Devin; Demaine, Erik; Demaine, Martin; Oschendorf, John; You, Zhong&#32;(2006),&#32;"Folding shopping bags",&#32;<i>The 4th International Conference on Origami in Science, Mathematics, and Education.</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Folding+shopping+bags&amp;rft.jtitle=The+4th+International+Conference+on+Origami+in+Science%2C+Mathematics%2C+and+Education.&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Demaine%2C+Erik&amp;rft.au=Demaine%2C+Martin&amp;rft.au=Oschendorf%2C+John&amp;rft.au=You%2C+Zhong&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<a name="Rigid-body_manipulation" id="Rigid-body_manipulation"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit&amp;section=4" title="Edit section: Rigid-body manipulation">edit</a>]</span> <span class="mw-headline"> Rigid-body manipulation </span></h2>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFLoomis2009">Loomis, Anne&#32;(2006),&#32;"Computation reuse  in statics and dynamics problems for assemblies of rigid bodies.",&#32;<i>Dartmouth College Master's Thesis</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Computation+reuse++in+statics+and+dynamics+problems+for+assemblies+of+rigid+bodies.&amp;rft.jtitle=Dartmouth+College+Master%27s+Thesis&amp;rft.aulast=Loomis&amp;rft.aufirst=Anne&amp;rft.au=Loomis%2C+Anne&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFLoomisBalkcom2009">Loomis, Anne; Balkcom, Devin&#32;(2006),&#32;"Computation reuse for rigid-body dynamics.",&#32;<i>International Conference on Intelligent Robots and Systems</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Computation+reuse+for+rigid-body+dynamics.&amp;rft.jtitle=International+Conference+on+Intelligent+Robots+and+Systems&amp;rft.aulast=Loomis&amp;rft.aufirst=Anne&amp;rft.au=Loomis%2C+Anne&amp;rft.au=Balkcom%2C+Devin&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomTrinkle2009">Balkcom, Devin; Trinkle, Jeffrey&#32;(2002),&#32;"Computing wrench cones for planar rigid-body contact tasks.",&#32;<i>International Journal of Robotics Research</i>:  1053-1066</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Computing+wrench+cones+for+planar+rigid-body+contact+tasks.&amp;rft.jtitle=International+Journal+of+Robotics+Research&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Trinkle%2C+Jeffrey&amp;rft.date=2002&amp;rft.pages=1053-1066&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomTrinkleGottlieb2009">Balkcom, Devin; Trinkle, Jeffrey; Gottlieb, Eric&#32;(2002),&#32;"Computing wrench cones for planar contact tasks.",&#32;<i>IEEE International Conference on Robotics and Automation</i>:  869-875</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Computing+wrench+cones+for+planar+contact+tasks.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Trinkle%2C+Jeffrey&amp;rft.au=Gottlieb%2C+Eric&amp;rft.date=2002&amp;rft.pages=869-875&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomTrinkleGottlieb2009">Balkcom, Devin; Trinkle, Jeffrey; Gottlieb, Eric&#32;(2002),&#32;"A sensorless insertion strategy for rigid planar parts.",&#32;<i>IEEE International Conference on Robotics and Automation</i>:  882-887</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+sensorless+insertion+strategy+for+rigid+planar+parts.&amp;rft.jtitle=IEEE+International+Conference+on+Robotics+and+Automation&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Trinkle%2C+Jeffrey&amp;rft.au=Gottlieb%2C+Eric&amp;rft.date=2002&amp;rft.pages=882-887&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<a name="Other_topics" id="Other_topics"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit&amp;section=5" title="Edit section: Other topics">edit</a>]</span> <span class="mw-headline"> Other topics </span></h2>
+<ul><li><cite style="font-style:normal" class="" id="CITEREFRayJoslinMurphyBarlow2009">Ray, Laura; Joslin; Murphy; Barlow; Brande; Balkcom&#32;(2006),&#32;"Dynamic Mobile Robots for Emergency Surveillance and Situational Awareness.",&#32;<i>IEEE Workshop on Saftety, Security, and Rescue Robotics, 2006.</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dynamic+Mobile+Robots+for+Emergency+Surveillance+and+Situational+Awareness.&amp;rft.jtitle=IEEE+Workshop+on+Saftety%2C+Security%2C+and+Rescue+Robotics%2C+2006.&amp;rft.aulast=Ray&amp;rft.aufirst=Laura&amp;rft.au=Ray%2C+Laura&amp;rft.au=Joslin&amp;rft.au=Murphy&amp;rft.au=Barlow&amp;rft.au=Brande&amp;rft.au=Balkcom&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<ul><li> <cite style="font-style:normal" class="" id="CITEREFBalkcomMason2009">Balkcom, Devin; Mason, Matthew&#32;(2002),&#32;"Progress in desktop robotics",&#32;<i>The Eleventh Yale Workshop on Adaptive and Learning Systems</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Progress+in+desktop+robotics&amp;rft.jtitle=The+Eleventh+Yale+Workshop+on+Adaptive+and+Learning+Systems&amp;rft.aulast=Balkcom&amp;rft.aufirst=Devin&amp;rft.au=Balkcom%2C+Devin&amp;rft.au=Mason%2C+Matthew&amp;rft.date=2002&amp;rfr_id=info:sid/en.wikipedia.org:Publications"><span style="display: none;">&nbsp;</span></span>
+</li></ul>
+<a name="Undergraduate_research" id="Undergraduate_research"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit&amp;section=6" title="Edit section: Undergraduate research">edit</a>]</span> <span class="mw-headline"> Undergraduate research </span></h2>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 11931/1000000
+Post-expand include size: 89307/2097152 bytes
+Template argument size: 23979/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key robo_wiki:pcache:idhash:8-0!1!0!!en!2 and timestamp 20090513081545 -->
+<div class="printfooter">
+Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Publications">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Publications</a>"</div>
 						<!-- end content -->
 						<div class="visualClear"></div>
 		</div>
@@ -130,14 +170,17 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 		<div class="pBody">
 			<ul>
 	
-				 <li id="ca-nstab-special" class="selected"><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere/Main_Page" title="This is a special page, you cannot edit the page itself">Special page</a></li>			</ul>
+				 <li id="ca-nstab-main" class="selected"><a href="/~robotics/mediawiki/index.php/Publications" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/~robotics/mediawiki/index.php?title=Talk:Publications&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/~robotics/mediawiki/index.php?title=Publications&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
 		</div>
 	</div>
 	<div class="portlet" id="p-personal">
 		<h5>Personal tools</h5>
 		<div class="pBody">
 			<ul>
-				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special:WhatLinksHere" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Publications" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
 			</ul>
 		</div>
 	</div>
@@ -191,8 +234,10 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 		<h5>Toolbox</h5>
 		<div class="pBody">
 			<ul>
+				<li id="t-whatlinkshere"><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere/Publications" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Publications" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
 <li id="t-specialpages"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
-			</ul>
+				<li id="t-print"><a href="/~robotics/mediawiki/index.php?title=Publications&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/~robotics/mediawiki/index.php?title=Publications&amp;oldid=264" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
 		</div>
 	</div>
 		</div><!-- end of the left (by default at least) column -->
@@ -200,6 +245,8 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 			<div id="footer">
 				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/~robotics/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
 			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 5 May 2009, at 15:48.</li>
+					<li id="viewcount">This page has been accessed 351 times.</li>
 					<li id="privacy"><a href="/~robotics/mediawiki/index.php/RobotLab:Privacy_policy" title="RobotLab:Privacy policy">Privacy policy</a></li>
 					<li id="about"><a href="/~robotics/mediawiki/index.php/RobotLab:About" title="RobotLab:About">About RobotLab</a></li>
 					<li id="disclaimer"><a href="/~robotics/mediawiki/index.php/RobotLab:General_disclaimer" title="RobotLab:General disclaimer">Disclaimers</a></li>
@@ -208,4 +255,4 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 </div>
 
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
-<!-- Served in 0.324 secs. --></body></html>
+<!-- Served in 0.266 secs. --></body></html>

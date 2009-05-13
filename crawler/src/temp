@@ -1,223 +1,895 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Sean's Map Page</title>
+
+
+
+
+
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type" />
+
+
+
+
+  
+  
+  
+  
+  <title>Program for AAAI Spring Symposium 2009 - Human Behavior Modeling</title>
 </head>
+
+
 <body>
 
-<table width=100%>
-<tr>
-<td align=center>
-<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">
-</td>
-<td align=left>
-<b>
-<big><big>
-
-Sean's Map Page
-</big></big><br>
-
-</b>
-<td align=right>
-<i> www.cs.dartmouth.edu/~sws/maps/index.shtml<br>
-
-Last modified: 06/23/05 10:01:50 AM
-</i>
-</td>
-</tr>
-</table>
-<hr>
-
-<p>
-
-<p>
-          
 
 
 
-<hr>
-<hr>
-<h2>Orienteering Introduction</h2>
 
-Now and then, the Hanover Conservation Council has asked me to prepare
-an "introduction to orienteering" session, using the new Storrs Pond O-map.
-<p>
-Here are the materials I used for the last one, in November 2004.
-We've long since taken the control flags down, but the locations may still be 
-marked with a short piece of blue surveyor's tape, if you're lucky.
-<p>
-<b>Note that control #42 can be a bit tricky---use caution!</b>
-<ul>
-<li> <a href="handout.pdf"><b>Notes</b></a>
-<li> <a href="clues.pdf"><b>Clue sheet</b></a>
-<li> <a href="nov2004.pdf"><b>Map</b></a>
-</ul>
-<hr>
-<hr>
-
-<h2>Orienteering Maps</h2>
-
-Over the years, Dartmouth has made orienteering maps of a few
-regions in the area.
-Brian Kunz of the Office of Outdoor Programs kindly lent me a
-stack of floppies, and I'm gradually working on extracting 
-workable data from them. Below is what I have so far.
-
-<p>
-
-<h3> Burnt Mountain </h3>
-I've poked around here a little bit---it's quite interesting,
-and the field-checked part of the map is very good.
-The northern part looks like it
-connects with some Hanover-owned land, documented in the "Burnt Mountain"
-map from the Hanover Trails Association.
-<p>
-To reach the dead-end on the upper right, head down 120 to the hospital/
-Lebanon Co-op traffic light, turn right, then keep going.
-<ul>
-<li> <a href="burnt/ormap.eps"><b>
-The whole giant map, as an encapsulated postscript file.</b></a></li>
-<li> 
-The northern half, printable on 8.5 x 11 paper, as 
-<a href="burnt/north.ps"><b>postscript</b></a> and
-<a href="burnt/north.pdf"><b>PDF</b></a>.
-</li>
-<li> The southern half, printable on 8.5 x 11 paper, 
-as <a href="burnt/south.ps"><b>postscript</b></a> and
-<a href="burnt/south.pdf"><b>PDF</b></a>.</li>
-</ul>
-
-<p>
-<h3> Storrs Pond </h3>
-I've worked a bit with a paper copy of a 1:10000 version of this map.
-Be warned: since the map was made, the've built a few more ski trails
-throughout (see link below),
-and done a bit of logging on the eastern end.
-<ul>
-<li> 
-The whole giant map, as encapsulated postscript files,
-backwards, in single colors:
-<a href="storrs/blue.eps"><b>blue</b></a>,
-<a href="storrs/black.eps"><b>black</b></a>,
-<a href="storrs/yellow.eps"><b>yellow</b></a>,
-<a href="storrs/green.eps"><b>green</b></a>,
-<a href="storrs/brown.eps"><b>brown</b></a>
-</li>
-<li> 
-The western half, printable on 8.5 x 11 paper,
-as <a href="storrs/east.ps"><b>postscript</b></a> and
-<a href="storrs/east.pdf"><b>PDF</b></a>.</li>
-<li> 
-The eastern half, printable on 8.5 x 11 paper, 
-as <a href="storrs/west.ps"><b>postscript</b></a> and
-<a href="storrs/west.pdf"><b>PDF</b></a>.</li>
-</ul>
-
-<hr>
-<hr>
-
-<h2><a href="waterworks/">The Old Aqueduct System</a></h2>
-<hr>
-<hr>
-<h2>Hanover Trails</h2>
-<a href="http://www.cs.dartmouth.edu/~doug/"><b>Doug McIlroy</b></a>
-has been working with re-surveying Hanover-area trails.
-<a href="http://www.hanovernh.org/stories/storyReader$95"><b>Here</b></a>
-is the latest official data.
-<hr>
-<hr>
-<h2>Historic USGS Maps</h2>
-
-UNH has <b>old</b> <a href="http://docs.unh.edu/towns/HanoverNewHampshireMapList.htm"><b>USGS maps online</b></a>, if you're interested in the way things
-used to be.
-<hr>
-<hr>
-<h2>Oak Hill XC Trails</h2>
-
-<a href="oakhill2000.gif"><b>here</b></a>
-is the Silver Fox Ski Touring Center's map of the Oak Hill/Storrs Pond
-ski trails.  
-<p>
-You may also find some elevation profiles 
-<a href="http://www.dartmouth.edu/%7Encaaski/venues/index.html"><b>here</b></a>
-
-<hr>
-<hr>
-<h2><a name="VMBA">Upper Valley MTB Trails</a></h2>
-
-The <a href="http://www.vmba.org/"><b>Vermont Mountain Biking Association</b>
-</a> has compiled an amazing free map of the trails and old roads in 
-the Vermont side of the Upper Valley region.
-<p>
-<a href="http://www.vmba.org/maps/uvmaps.html"><b>The VMBA map site</b></a>
-<p>
-Locally cached copies (for Dartmouth use only):
-<ul>
-<li> <a href="vmba/mapfront.pdf"><b>the 5-megabyte map</b></a>
-<li> <a href="vmba/backcopy.html"><b>instructions</b></a>
-<li> <a href="vmba/assess.html"><b>the trail annotations</b></a>
-</ul>
-<p>
-<hr>
-<hr>
-<h2>Weather</h2>
-
-I find that the <a href="http://www.intellicast.com/Local/USLocalWide.asp?loc=usnhct10999&seg=LocalWeather&prodgrp=RadarImagery&product=RegionalRadarLoop&prodnav=none"><b>regional loop</b></a>
-at Intellicast is a good way to time my bike rides so I don't get caught in a storm.
-
-<br>
-<br>
-
-<p>
-
-<hr>
-<table width=100%>
-<tr>
-<td align=center>
-<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/icons/back.gif" ALT="">
-</td>
-<td align=left>
-<b>
-
-<a href="/~sws/fun/">
-Back to Sean's Fun Page</a>
-</b>
-</td>
-<td align=right>
-<i>Maintained by 
-<a href="http://www.cs.dartmouth.edu/~sws/">Sean Smith</a>,
-<a href="mailto:sws@cs.dartmouth.edu">sws@cs.dartmouth.edu</a>
-</i>
-</td>
-</tr>
-</table>
-</font>
+<br />
 
 
+
+
+
+<br />
+
+
+
+
+
+<p style="text-align: left;" class="MsoNormal"><o:p>&nbsp;</o:p><big style="font-family: monospace;"><big><span style="position: absolute; z-index: 14; width: 696px; left: 164px; font-weight: bold; bottom: auto; font-family: Palatino Linotype; top: 16px; height: 156px;">
+<div v:shape="_x0000_s1038" style="padding: 2.85pt;" class="shape">
+<p style="text-align: center;" class="MsoTitle3"><big><span style="" lang="en-US">AAAI Spring Symposium 2009<br />
+
+
+
+
+
+H</span><span style="text-transform: none;" lang="en-US">uman
+Behavior Modeling</span></big></p>
+
+
+
+
+
+</div>
+
+
+
+
+
+</span></big></big><span style="position: absolute; z-index: 17; width: 120px; height: 87px; top: 35px; left: 45px;"><img src="image3171.jpg" v:shapes="_x0000_s1041" height="87" width="120" /></span></p>
+
+
+
+
+
+<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><b style=""><span style="font-size: 12pt; line-height: 115%;"></span></b></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-weight: bold; font-family: Palatino Linotype;"><big>All accepted papers for the Human Behavior Modeling Symposium can be downloaded from <a style="color: rgb(204, 0, 0);" target="_blank" href="http://www.aaai.org/Library/Symposia/Spring/ss09-04.php">AAAI Library</a></big></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><b style=""><span style="font-size: 12pt; line-height: 115%;"><span style="color: rgb(204, 0, 0);">Monday &nbsp;March
+23, 2009</span><o:p></o:p></span></b></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">9:00am -9:10am</span><br />
+
+Welcome and introduction to the symposium<br style="font-weight: bold;" />
+
+
+
+
+
+</big></p>
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">9:10am -10:30am</span><br style="font-weight: bold;" />
+
+
+
+
+
+<b style="">Keynote: Eric Horvitz, Microsoft
+Research <br />
+
+
+
+
+
+</b></big><span style="font-weight: bold;">
+Title:&nbsp;Models of Human Behavior: Principles and Practice</span><br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<big><span style="font-weight: bold;">10:30am
+-11:00am</span><b style="font-weight: bold;"> Coffee
+Break<br />
+
+
+
+
+
+</b><br />
+
+
+
+
+
+<span style="font-weight: bold;">11:00am - 12:30pm</span></big><b style=""><big><span style="font-weight: bold;">
+Sneak Preview (90 seconds each)</span></big></b></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; margin-left: 40px; font-family: Palatino Linotype;"><b style=""><big><span style="font-weight: bold;">Each
+participant provides a very brief summary of their work and identifies
+one key challenge in the domain of Human Behavior Modeling that we should discuss during the symposium</span></big></b></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><b style=""><big><span style="font-weight: bold;"></span></big></b><br />
+
+
+
+
+
+<big><span style="font-weight: bold;">12:30pm -
+2:00pm </span><b style="font-weight: bold;">Lunch
+Break</b><br style="font-weight: bold;" />
+
+
+
+
+
+<br style="font-weight: bold;" />
+
+
+
+
+
+<span style="font-weight: bold;"></span></big></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">2:00pm - 3:30pm</span></big><b style=""><big><span style="font-weight: bold;">
+Panel&nbsp;</span><br style="font-weight: bold;" />
+
+
+
+
+
+</big></b></p>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><b style=""><br />
+
+Topic: Resources for Research on Large-Scale Human Behavior Modeling:
+Opportunities
+and Challenges<br />
+
+Lead: Daniel Gatica Perez, IDIAP<br />
+
+Panelists: Nathan Eagle (Santa Fe/MIT), Donald Patterson (UC Irvine),
+Chris Wren (Google), and Danny Wyatt (University of Washington)<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<o:p></o:p></b></div>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">3:30pm - 4:00pm Coffee Break</span><br style="font-weight: bold;" />
+
+
+
+
+
+<br />
+
+
+
+
+
+<span style="font-weight: bold;">4:00pm - 5:30pm Oral
+Presentations (30 minutes each)</span></big></p>
+
+
+
+
+
+<br style="font-family: Palatino Linotype;" />
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;">
+<div style="margin-left: 40px;"><b style=""><br />
+
+
+
+
+
+</b></div>
+
+
+
+
+
+<b style="">Stochastic Models of Large-Scale Human
+Behavior on the Web&nbsp;</b><br />
+
+
+
+
+
+Kristina
+Lerman and Tad Hogg,&nbsp;</div>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; margin-left: 40px; font-family: Palatino Linotype;">
+<b style="">Prediction and Discovery of Users'
+Desktop Behavior&nbsp;</b><br />
+
+
+
+
+
+Omid Madani,
+Hung Bui and Eric Yeh&nbsp;</p>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><b style=""><br />
+
+
+
+
+
+Capturing Individual and Group Behavior
+with Wearable Sensors&nbsp;</b><br />
+
+
+
+
+
+Daniel
+Olguin Olguin, Peter A. Gloor, and Alex (Sandy) Pentland <br />
+
+
+
+
+
+</div>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><b style=""><br />
+
+
+
+
+
+</b></div>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;"><br />
+
+
+
+
+
+6:00pm - 7:00pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><b style="font-weight: bold;">Reception</b><br style="" />
+
+
+
+
+
+<span style="font-size: 11pt; line-height: 115%;"></span><o:p></o:p><br />
+
+
+
+
+
+<b style=""><span style="font-size: 12pt; line-height: 115%;"><span style="color: rgb(204, 0, 0);"></span></span></b></big></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><b style=""><span style="font-size: 12pt; line-height: 115%;"><span style="color: rgb(204, 0, 0);">Tuesday &nbsp;March
+24, 2009</span><o:p></o:p></span></b></big></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">9:00am - 10:30am</span><br style="font-weight: bold;" />
+
+
+
+
+
+<b style="">Keynote: Dieter Fox, University of Washington <br />
+
+
+
+
+
+</b></big><span style="font-weight: bold;">
+Title:&nbsp;Location-based Activity Recognition</span><br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<big><span style="font-weight: bold;">10:30am
+-11:00am</span><b style="font-weight: bold;"> Coffee
+Break<br />
+
+
+
+
+
+</b><br />
+
+
+
+
+
+<span style="font-weight: bold;">11:00am - 12:30pm</span></big><b style=""><big><span style="font-weight: bold;">
+Oral Presentations (30 minutes each)</span></big></b><b style=""><br />
+
+
+
+
+
+</b></p>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><b style=""><br />
+
+
+
+
+
+</b><span style="font-weight: bold;">Understanding
+Effects of Feedback on Group Collaboration</span><br style="font-weight: bold;" />
+
+
+
+
+
+Taemie Kim and Alex (Sandy) Pentland<br />
+
+
+
+
+
+&nbsp;<br />
+
+
+
+
+
+<span style=""></span><span style="font-weight: bold;">Collective Modeling of
+Human Social Behavior</span><br style="font-weight: bold;" />
+
+
+
+
+
+Danny Wyatt<br />
+
+
+
+
+
+<span style=""></span><span style="font-weight: bold;"><br />
+
+
+
+
+
+Behavior Recognition in Video with
+Extended Models of Feature Velocity Dynamics </span><br style="font-weight: bold;" />
+
+
+
+
+
+Ross Messing and Christopher Pal<br />
+
+
+
+
+
+</div>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><br />
+
+
+
+
+
+<big><span style="font-weight: bold;">12:30pm -
+2:00pm </span><b style="font-weight: bold;">Lunch
+Break</b><br style="font-weight: bold;" />
+
+
+
+
+
+<br style="font-weight: bold;" />
+
+
+
+
+
+<span style="font-weight: bold;"></span></big></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">2:00pm - 3:30pm</span></big><b style=""><big><span style="font-weight: bold;">&nbsp;</span></big></b><big><span style="font-weight: bold;">Oral
+Presentations (30 minutes each)</span></big><b style=""><big><span style="font-weight: bold;"></span><br style="font-weight: bold;" />
+
+
+
+
+
+</big></b></p>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><b style=""><br />
+
+
+
+
+
+</b><b style="">Human
+Behavior Modeling with Maximum Entropy
+Inverse Optimal Control <o:p></o:p></b><br />
+
+
+
+
+
+Brian D.
+Ziebart, Andrew Maas, J.Andrew Bagnell, and Anind K. Dey <br />
+
+
+
+
+
+</div>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; margin-left: 40px; font-family: Palatino Linotype;"><b style="">Modeling Social Diffusion Phenomena
+using Reality Mining <o:p></o:p></b><br />
+
+
+
+
+
+Anmol Madan, and Alex&nbsp;(Sandy) Pentland<br />
+
+
+
+
+
+</p>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><b style=""><br />
+
+
+
+
+
+Object-Use Activity Monitoring:
+Feasibility for People with Cognitive Impairments<o:p></o:p></b><br />
+
+
+
+
+
+Mark R.
+Hodges, Mark W. Newman, and Martha E. Pollack<br />
+
+
+
+
+
+</div>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;"><big><span style="font-weight: bold;"><br />
+
+
+
+
+
+</span></big><br />
+
+
+
+
+
+</div>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">3:30pm - 4:00pm Coffee Break</span><br style="font-weight: bold;" />
+
+
+
+
+
+<br />
+
+
+
+
+
+<span style="font-weight: bold;">4:00 - 5:30 Poster
+presentation (all papers including orals)</span></big></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><br style="font-weight: bold;" />
+
+
+
+
+
+</p>
+
+
+
+
+
+<div style="margin-left: 40px; font-family: Palatino Linotype;">1.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Kay-Yut
+Chen and Tad Hogg,
+<span style="font-weight: bold;">Modeling Risky Economic
+Decision-Making with Bounded Rationality</span><br />
+
+
+
+
+
+2.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wen
+Dong, <span style="font-weight: bold;">A Network Analysis
+of Road
+Traffic with Vehicle Tracking Data</span><br />
+
+
+
+
+
+3.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Mark
+R. Hodges, Mark W. Newman, and
+Martha E. Pollack,<span style="">&nbsp; </span><span style="font-weight: bold;">Object-Use Activity
+Monitoring: Feasibility for People with Cognitive Impairments</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+4.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Peter
+Kiefer, <span style="font-weight: bold;">SCTAG: A Mildly
+Context-Sensitive Formalism For Modeling Complex Intentions in
+Spatially
+Structured Environments</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+5.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Taemie
+Kim and Alex (Sandy)
+Pentland,<span style="">&nbsp; </span><span style="font-weight: bold;">Understanding Effects of
+Feedback on Group Collaboration</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+6.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Bruno
+Lepri, Ankur Mani, Alex (Sandy)
+Pentland, Fabio Pianesi, <span style="font-weight: bold;">Honest
+Signals in the Recognition of Functional Relational
+Roles in Meetings</span><br />
+
+
+
+
+
+7.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Kristina
+Lerman and Tad Hogg, <span style="font-weight: bold;">Stochastic
+Models of Large-Scale Human Behavior on the Web</span><o:p></o:p><br />
+
+
+
+
+
+8.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Anmol
+Madan, and Alex&nbsp;(Sandy) Pentland,
+<span style="font-weight: bold;">Modeling Social Diffusion
+Phenomena using Reality Mining</span><o:p></o:p><br />
+
+
+
+
+
+9.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Omid
+Madani, Hung Bui and Eric Yeh,
+<span style="font-weight: bold;">Prediction and Discovery
+of Users&rsquo; Desktop Behavior</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+10.<span style="">&nbsp;&nbsp; </span>Negin
+Nejati and Tolga Konik , <span style="font-weight: bold;">Probabilistic
+Relational Learning of Human Behavior Models</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+11.<span style="">&nbsp;&nbsp; </span>Daniel
+Olguin Olguin, Peter A. Gloor, Alex
+(Sandy) Pentland, <span style="font-weight: bold;">Capturing
+Individual and Group Behavior with Wearable Sensors</span><o:p></o:p><br />
+
+
+
+
+
+12.<span style="">&nbsp;&nbsp; </span>Donald
+J. Patterson, <span style="font-weight: bold;">Global
+Priors of Place
+and Activity Tags</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+13.<span style="">&nbsp;&nbsp; </span>Ross
+Messing and Christopher Pal, <span style="font-weight: bold;">Behavior
+Recognition in Video with Extended Models of Feature Velocity Dynamics</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+14.<span style="">&nbsp;&nbsp; </span>Tsu-yu
+Wu, Jane Yung-jen Hsu, <span style="font-weight: bold;">Continuous
+Recognition of Daily Activities from Multiple Heterogeneous Sensors</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+15.<span style="">&nbsp;&nbsp; </span>Danny
+Wyatt, <span style="font-weight: bold;">Collective
+Modeling of Human
+Social Behavior</span><o:p style="font-weight: bold;"></o:p><br />
+
+
+
+
+
+16.<span style="">&nbsp;&nbsp; </span>Brian
+D. Ziebart, Andrew Maas, J.Andrew
+Bagnell, and Anind K. Dey,<span style="">&nbsp; </span><span style="font-weight: bold;">Human
+Behavior Modeling with Maximum Entropy Inverse Optimal Control</span></div>
+
+
+
+
+
+<big style="font-family: Palatino Linotype;"><span style="font-weight: bold;"><br />
+
+
+
+
+
+6:00 pm - 7:30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Plenary session&nbsp;</span></big><br style="font-family: Palatino Linotype;" />
+
+
+
+
+
+<p style="font-family: Palatino Linotype;" class="MsoNormal"><small><o:p></o:p></small></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><b style=""><span style="font-size: 12pt; line-height: 115%;"><span style="color: rgb(204, 0, 0);">Wednesday &nbsp;March
+25, 2009</span><o:p></o:p></span></b></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">8:30am - 9:45am</span><br style="font-weight: bold;" />
+
+
+
+
+
+<b style="">Keynote: Alex (Sandy) Pentland, MIT <br />
+
+
+
+
+
+</b></big><span style="font-weight: bold;">
+Title:&nbsp;Human Dynamics: From Honest Signals to Tribal Structure</span>
+
+
+
+
+</p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">9:45am - 10:30am</span>
+(open discussion)<br style="font-weight: bold;" />
+
+
+
+
+
+</big><span style="font-weight: bold;">Grand
+Challenges in Human Behavior Modeling</span></p>
+
+
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; font-family: Palatino Linotype;"><big><span style="font-weight: bold;">10:30-11:00</span><b style="font-weight: bold;"> Coffee Break<br />
+
+
+
+
+
+</b><br />
+
+
+
+
+
+<span style="font-weight: bold;">11:00:12:30</span><b style=""><big><small><span style="font-weight: bold;">
+Wrap-up</span></small><br style="font-weight: bold;" />
+
+
+
+
+
+</big></b></big></p>
+
+
+
+
+
+<big><br />
+
+
+
+
+
+</big>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

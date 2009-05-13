@@ -1,79 +1,3 @@
-http://www.cs.dartmouth.edu/farid/egypt/inherkhau.html
+http://www.cs.dartmouth.edu/~scot/VoronoiTool.html
 3
-<html>
-<head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-<title>The Burial Chamber of Inherkhau</title>
-</head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
-
-
-<table align=center width=800>
-<tr>
-<td valign=top rowspan=2>
-<b> The burial chamber of Inherkhau </b>
-<BR>
-<p>
-
-As with the <a href="sennedjem.html">burial chamber of Sennedjem</a>
-we have created, from 32 individual photographs, a single
-distortion-free mosaic of the burial chamber of Inherkhau.  Shown to
-the right is the progression of the North wall (after removing
-geometric distortions).  The final reconstruction shown below is at
-1/16 resolution.
-
-<BR><BR>
-
-<a href=inherkhau/virtualtomb/jME_inherkhau.jnlp>Virtual Tomb</a> (use
-arrow keys to move, shift-arrow to change view direction, ESC to quit)
-</td>
-
-<td> &nbsp&nbsp </td>
-
-<td> <a href="inherkhau/step1a.jpg"><font size=+2>1.</font> 
-   <IMG SRC="inherkhau/step1b.jpg" border=0 width=184 height=89></a> </td>
-<td> <a href="inherkhau/step2a.jpg"><font size=+2>2.</font> 
-    <IMG SRC="inherkhau/step2b.jpg" border=0 width=184 height=89></a> </td>
-<td> <a href="inherkhau/step3a.jpg"><font size=+2>3.</font> 
-    <IMG SRC="inherkhau/step3b.jpg" border=0 width=184 height=89></a> </td>
-</tr>
-
-<tr>
-
-<td> &nbsp&nbsp </td>
-<td> <a href="inherkhau/step4a.jpg"><font size=+2>4.</font> 
-    <IMG SRC="inherkhau/step4b.jpg" border=0 width=184 height=89></a> </td>
-<td><a href="inherkhau/step5a.jpg"> <font size=+2>5.</font> 
-    <IMG SRC="inherkhau/step5b.jpg" border=0 width=184 height=89></a> </td>
-<td> <a href="inherkhau/step6a.jpg"><font size=+2>6.</font> 
-    <IMG SRC="inherkhau/step6b.jpg" border=0 width=184 height=89></a> </td>
-
-</tr>
-
-<tr>
-<td colspan=20>
-<BR><BR>
-<A HREF="inherkhau/inherkhau.jpg"><IMG SRC = "inherkhau/inherkhau1.jpg" width=800 height=158></A>
-<BR><BR>
-</td>
-</tr>
-</table>
-
-<HR>
-<table align=center width=800>
-<tr>
-<td align=left>
-<i><a href="../egypt/reconstruction.html">Related material</a></i>
-</td>
-
-<td valign=top align=right>
-	<i>
-	<a href="../home.html"> Home</a> &nbsp &nbsp
-	</i>
-</td>
-</tr>
-</table>
-</html>
-
-trclassi
+<HTML><HEAD><TITLE>Voronoi Tool</TITLE></HEAD><BODY><center><H3>Voronoi Tool</H3><APPLET CODEBASE="VoronoiToolClasses" CODE="VoronoiTool.class" WIDTH=601 HEIGHT=755></APPLET><HR></center></BODY></HTML>

@@ -1,96 +1,210 @@
-http://www.cs.dartmouth.edu/~afra
+http://www.cs.dartmouth.edu/~dfk
 2
-<html>
-<head>
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-<title>Afra's Home Page</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
-</head>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD><TITLE>David Kotz</TITLE></HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>David Kotz, Professor of <a href="/">Computer Science</a></H1>
 
-<body bgcolor=#ffffff >
-
-<hr align=center noshade>
-
-<table cellspacing=0 cellpadding=0 border=0>
+<table>
 <tr valign=top>
-
-<!-- ----- Left-hand side navbar ----- -->
-<td align=right>
-<font size="+1" align=right>
-afra<br>
-zomorodian<br>
-<br>
-</font>
-<b>home</b><br>
-<a href="personal.html">personal</a><br>
-<a href="book.html">book</a><br>
-<a href="papers.html">papers</a><br>
-<a href="teaching.html">teaching</a><br>
-<a href="goodies.html">goodies</a><br>
-<br>
-<br>
-</td>
-
-<!-- ----- Interior left margin ----- -->
-<td width=25>&nbsp;</td> 
-
-<!-- ----- Page body ----- -->
 <td>
-
-<table cellspacing=0 cellpadding=0 border=0>
-<tr>
-<td>
-<img align=top src = "images/afra-leily-08-08.png">
-</td>
-<tr>
-<td align=right>
-<font size = "-2"><i>
-<a href = http://leily.smugmug.com/gallery/5811951_XzuAC#360168214_kR6xu"">With my
-niece Leily</a></i></font>
-<!-- <a href = "http://afra.smugmug.com/gallery/736796/2/32407797">Red Square,
-Moscow, Russia</a></i></font>
-<a href = "http://afra.smugmug.com/gallery/71133/1/2462530">
-Oia, Santorini, Greece</a></i></font> -->
-
-</td>
-</tr>
-</table>
-
+  <center>
+    <IMG width=415 height=353 align=top alt="photo" src="photos/Kotz2003-4small.jpg">
+  </center>
 </td>
 
-<!-- ----- Right-hand margin ----- -->
-<td width=25>&nbsp;</td>
-</tr>
-</table>
+<td> 
 
-<hr align=center noshade>
-<center>-
-<a href="http://graphics.stanford.edu/~ngelfand/pages/tnd/tnd.php">tnd (rip)</a> -
-<a href="http://afra.smugmug.com">photos</a> 
-<!-- -
-<a href="zomorodian-vitae.pdf">cv</a>-
--->
-</center>
-<hr align=center noshade>
+<h3>
+    Ph.D. <A HREF="http://www.cs.duke.edu/">Duke University</A>, 1991.<br>
+    A.B. <A HREF="http://www.dartmouth.edu/">Dartmouth College</A>,
+	<a href="http://www.alum.dartmouth.org/classes/86/">1986</a>.<br>
+    <A HREF="http://www.choate.edu/">Choate Rosemary Hall</A>, 1982.
+</h3>
+<p>
 
-<table cellspacing=2 cellpadding=2 border=0>
-<tr valign=top>
-<td>Dartmouth Search</td>
-<td>
-<!-- Google CSE Search Box Begins  -->
-<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
-  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
-  <input type="text" name="q" size="25" />
-  <input type="submit" name="sa" value="Search" />
+<strong>Search my web pages:</strong><br>
+<form name="seek" method="get" action="http://search.dartmouth.edu/query.html">
+<input type=hidden name=qp value="+url:www.cs.dartmouth.edu/~dfk/">
+<input type=hidden name=qs value="">
+<input type=hidden name=qc value="">
+<input type=hidden name=ws value="0">
+<input type=hidden name=qm value="0">
+<input type=hidden name=st value="1">
+<input type=hidden name=nh value="10">
+<input type=hidden name=lk value="1">
+<input type=hidden name=rf value="0">
+<input type=hidden name=oq value="">
+<input type=hidden name=rq value="0">
+<input type="text" name="qt" size="15" value="" maxlength="200">
+<input type=submit value=" Search ">
+<FONT SIZE="2">
+&nbsp;&nbsp;<a href="http://search.dartmouth.edu/help/">Help</a>
+</FONT>
 </form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
-<!-- Google CSE Search Box Ends -->
+
+<p></p>  
+<p>
+<a href="#contact">Contact information</a> (below)
+<!-- this award is too old to display any more
+  <p>
+  <p>
+  <p>
+  <a href="http://www.educause.edu/awards/network/2004/winners.asp"><img src="EDUCAUSE-award.gif" width=361 height=101 border=0 alt="2004 EDUCAUSE Award for Excellence in Networking"></a>
+ -->
+
+<p></p>  
+<p>
+  <FONT size=2 color=#980000>
+  Local Time and Weather in Bangalore, India<br>
+  (where I am currently on sabbatical)<br>
+  </FONT>
+  <A href="http://www.wunderground.com/global/stations/43295.html">
+  <IMG height=41 width=122 alt="Click for Bangalore, India Forecast"
+       src="http://banners.wunderground.com/banner/gizmotimetemp_both/global/stations/43295.gif"></A>
+</p>
+
 </td>
 </tr>
-
 </table>
-</body>
 
-</html>
 
-Seeai
+<table>
+<tr>
+<td valign=middle bgcolor=lightgreen width="60%">
+<font size="+1"><b>Professional</b></font>
+</td>
+<td valign=middle bgcolor=lightblue>
+<font size="+1"><b>Personal</b></font>
+</td>
+</tr>
+<tr>
+<!-- -------------------- -->
+<!-- Professional section -->
+<td valign=top>
+<table>
+<tr valign=top align=left>
+<td> <!-- photo -->
+<a href="photos/Kotz2001small.jpg"><IMG width=75 height=111 align=left alt="formal photo" src="photos/Kotz2001tiny.jpg"></a>
+</td>
+<td align=left> <!-- list -->
+<ul>
+  <li><a href="vita.pdf">My vita</a> (pdf) and <a href="bio-dfk.txt">short bio</a></li>
+
+  <!-- 
+  <li><a href="schedule.html">My schedule</A></li>
+  -->
+
+  <li><a href="papers/">My research interests, and papers</a></li>
+       
+  <li> <a href="people.html">My group</a></li>
+       
+  <li><a href="teaching.html">My courses</a>
+</ul>
+</td>
+</tr>
+<tr align=left valign=top>
+<td colspan=2> <!-- list -->
+<b>Current Activities:</b>
+<ul>
+  <li> <a href="http://www.cies.org">Fulbright Research Scholar</a> to
+  <a href="http://ece.iisc.ernet.in">IISc</a> in Bangalore, India, 2008-09 
+  <li> <a href="http://www.ists.dartmouth.edu">Institute for Security,
+  Technology, and Society</a> (ISTS), Principal Investigator 
+  <li> <a href="http://www.ieee.org/web/membership/fellows/index.html" >IEEE Fellow</a>
+  and member of the
+  <a href="http://www.computer.org">IEEE Computer Society</a></li>
+  <li> Senior Member of the <a href="http://www.acm.org">ACM</a></li>
+  <li> Member of <a
+  href="http://www.usenix.org/students/universityoutreach.html">USENIX</a>,
+  and University Campus Liaison
+  <li><a href="http://www.icdcn.org/">ICDCN</a> Program committee member</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<!-- -------------------- -->
+<!-- Personal section     -->
+<td valign=top>
+<table>
+<tr align=left valign=top>
+<td> <!-- photo -->
+<a href="caricature/"><IMG border=0 width=79 height=117 align=left alt="caricature drawing" src="caricature/dfk0.05.JPG"></a>
+</td>
+<td> <!-- list -->
+<ul>
+  <li> My three <a href="kids.html">kids</a>.
+       
+  <li> My invention, the <a href="seatpack/">seatpack</a>.
+       
+  <li> My house projects: <a href="house/">1997</a>,
+       <a href="house/deck/">1998</a>,
+       <a href="house/addition/">2000</a>,
+       <a href="house/patio/">2005</a>,
+       <a href="house/walls/">2006</a>,
+       <a href="house/riverbank/">2006</a>, and
+       <a href="house/boatshed/">2007</a>.
+  <li> You can rent our <a href="http://homepage.mac.com/pcjenkins/Kiawah/beach-house.html">beach house</a> in South Carolina.
+  <li> I was an early co-author of <a href="http://www.gnuplot.info">gnuplot</a>.
+</ul>
+</td>
+</tr>
+<tr align=left valign=top>
+<td> <!-- photo -->
+<a href="outdoors/"><IMG border=0 width=75 height=100 align=left alt="winter photo" src="photos/dfk-ski-tiny.jpg"></a>
+</td>
+<td> <!-- list -->
+<ul>
+  <li> <a name="hiking" href="outdoors/hiking.html">Hiking and skiing</a>
+  <li> <a name="travel" href="trips/">Travel and trips</a>
+</ul>
+<tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3><a name="contact">Contact information</a>, and how to pronounce Kotz:</h3>
+<b>I am on sabbatical in India through May and will return to Dartmouth in mid-July.</b>
+<ul>
+  <li> Pronounce "Kotz" like "coats", not "cots".  Thanks!
+  <li> Email: lastname at cs.dartmouth.edu
+<!--   <li> Telephone <B> (603) 646-1439 </B> <BR>  -->
+  <li> Fax:   (206) 339-3145 (delivered by email through faxaway.com) <BR> 
+  <li> Paper mail (through mid-June 2009):<p>
+	David Kotz, Visiting Professor<br>
+	Department of Electrical Communication Engineering
+	(<a href="http://ece.iisc.ernet.in/" >ECE</a>)<br>
+	Indian Institute of Science
+  	(<a href="http://www.iisc.ernet.in/" >IISc</a>)<br>
+	Bangalore, 560 012, INDIA
+       <p>
+  <!-- 
+       <pre>
+       Professor David Kotz
+       Department of Computer Science
+       Dartmouth College
+       6211 Sudikoff Laboratory
+       Hanover, NH  03755-3510 USA
+       </pre>
+ -->
+  <li> <a href="Kotz.vcf"><img src=vcard.png align=center>&nbsp;vCard</a> containing all of the above
+</ul>
+
+<p>
+<hr>
+<p>
+
+<!-- hhmts start -->
+Last modified: Thu Oct 30 09:42:40 IST 2008
+<!-- hhmts end -->
+
+</BODY>
+</HTML>
+Á

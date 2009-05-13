@@ -1,143 +1,207 @@
-http://www.cs.dartmouth.edu/~jv
+http://www.cs.dartmouth.edu/~rapjr
 2
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-
-Design by Free CSS Templates
-http://www.freecsstemplates.org
-Released for free under a Creative Commons Attribution 2.5 License
-
-Title      : Interlude
-Version    : 1.0
-Released   : 20080903
-Description: A multi-column, fixed-width design for 800x600 resolutions.
-
--->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Jason Vertrees, Phd</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<link href="default.css" rel="stylesheet" type="text/css" />
-</head>
+<html>
+<title> Ron Peterson </title>
 <body>
-<!-- start header -->
-<div id="header">
-	<div id="logo">
-		<h1><a href="http://www.cs.dartmouth.edu/~jv">Jason Vertrees</a></h1>
-		<p><a href="http://www.cs.dartmouth.edu/~jv">Postdoctoral Research Fellow in Computational Biology</a></p>
-	</div>
+
+<h4>I'm a grant-funded Senior Programmer with the <br>Dartmouth Computer Science
+Department.<br>
+If you need some engineering help on your grant project
+<br>email me at rapjr at cs.dartmouth.edu or call 603-646-0524<br>
+and we can discuss it.</h4>
+<hr>
+Projects and people I'm involved with:
+<p>
+<a href="http://sensorlab.cs.dartmouth.edu/">The Sensor Networks Group</a>
+<p>
+<a href="http://cmc.cs.dartmouth.edu">The Center for Mobile Computing</a>
+<p>
+<a href="http://www.ists.dartmouth.edu/">Institute For Security Technology Studies</a>
+<pre>
+
+
+</pre>
+<a href="http://metrosense.cs.dartmouth.edu">MetroSense</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://metrosense.cs.dartmouth.edu/metro-people.html">MetroSense People</a> 
 </div>
-<hr />
-<!-- end header -->
-<!-- start page -->
-<div id="wrapper">
-	<div id="page">
-		<!-- start content -->
-		<div id="content">
-			<div class="post">
-				<p class="date">October<b>9</b></p>
-				<h2 class="title">Welcome</h2>
-				<p class="meta"><small>`whoami` | present research | past research | pymol &amp; PyMOLWiki</small></p>
-				<div class="entry">
-					<h4>`whoami`</h4>
-					<p>
-						I am a postdoctoral researcher working with <a href="">Simon Kasif</a> at <a href="http://www.bu.edu/">BU</a> and <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> here at <a href="http://www.dartmouth.edu">Dartmouth College</a>.  In May, 2008, I completed my PhD in theoretical biophysics.  My dissertation supervisor was <a href="http://http://www.hbcg.utmb.edu/hilser/index.htm/">Vincent Hilser</a>.
-					</p>
-
-					<h4>Current Research</h4>
-					<p>
-					I am presently using machine learning to determine if we can predict protein function from small molecule docking experiments.  This is a new project.
-					</p>
-
-					<h4>Past Research</h4>
-					<p>
-					My previous research focused on the nature the protein fold through a statistical thermodynamic model. Biologists are well aware that proteins are highly dynamic macromolecules. Proteins are not static structures&#8212;they're dynamic species sampling a huge array of conformational states. We augmented current methods and produced new knowledge about proteins by considering them in this manner. For more information see <a href="http://www.hbcg.utmb.edu/hilser/publications.htm">Dr. Hilser's Publications</a> or <a href="">my dissertation</a>.
-					</p>
-
-					<h4>PyMOL &amp; The PyMOLWiki</h4>
-					<p>
-					I also spend a fair amount of my time working with the open-source molecular visualization program, <a href="http://www.pymol.org/">PyMOL</a> and the PyMOL support &amp; documentation site I run, the <a href="http://www.pymolwiki.org/">PyMOLWiki</a>.  (The image in the title bar at the top of this page is DNA &amp; was created in <a href="http://www.pymol.org/">PyMOL</a>.
-					</p>
-				</div>
-			</div>
-		</div>
-		<!-- end content -->
-		<!-- start sidebar -->
-		<div id="sidebar">
-			<ul>
-				<li id="categories">
-					<h2>Other Stuff</h2>
-					<ul>
-						<li><a href="media/Jason_Vertrees_CV.pdf">Curriculum Vitae</a> [pdf]</li>
-						<li><a href="media/Jason_Vertrees_Dissertation.pdf">Disseration</a> [pdf: 13 MB]</li>
-					</ul>
-					<h2>Coding Notes</h2>
-					<ul>
-						<li><a href="ajax_binary_embedded_data.html">AJAX &amp; Embedded Binary Data</a></li>
-					</ul>
-					<h2>Contact</h2>
-					<ul>
-						<li>
-							<p class="info">Jason Vertrees, PhD<br />6211 Sudikoff Laboratory<br />Room #252<br />Hanover, NH 03755</p>
-							<p class="info">jv _@_ cs dot dartmouth _dot_ edu</p>
-							<p class="info">(603) 646.8724</p>
-						</li>
-					</ul>
-				</li>
-			
-			<img src="me.jpg" style="border: 0; float: right"/>
-
-		</div>
-		<!-- end sidebar -->
-		<br style="clear: both;" />
-	</div>
+<p>
+<a href="http://www.ists.dartmouth.edu/cstrc/projects.php#place">PLACE</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://www.ists.dartmouth.edu/directors-office/mission.php">David</a> 
+<a href="http://www.cs.dartmouth.edu/~dfk/">Kotz</a>
+<p>
+<a href="http://www.cs.dartmouth.edu/~campbell/">Andrew Campbell</a>
+<p>
+<a href="http://www.cs.dartmouth.edu/~tristan/">Tristan Henderson</a>
+<p>
+<a href="http://www.dartmouth.edu/~socy/faculty/anthony.html">Denise Anthony</a>
 </div>
-<!-- end page -->
-<!-- start footer -->
-<div id="wrapper2">
-	<div id="footer">
-		<ul>
-			<li class="first">
-				<h2>Research</h2>
-				<ul>
-					<li><a href="http://en.wikipedia.org/wiki/Protein">Proteins</a></li>
-					<li><a href="http://en.wikipedia.org/wiki/Computational_biology">Computational Biology</a></li>
-					<li><a href="http://en.wikipedia.org/wiki/Protein_docking">Protein Docking</a></li>
-					<li><a href="http://en.wikipedia.org/wiki/Statistical_thermodynamics">Statistical Thermodynamics</a></li>
-					<li><a href="http://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a></li>
-					<li><a href="http://en.wikipedia.org/wiki/Statistics">Statistics</a></li>
-				</ul>
-			</li>
-			<li>
-				<h2>Cool Things</h2>
-				<ul>
-					<li><a href="http://en.wikipedia.org/wiki/Machu_Picchu">Machu Picchu, Peru</a></li>
-					<li><a href="http://www.railtrails.org/index.html">Rail Trails</a></li>
-					<li><a href="http://www.usatriathlon.org/">Triathlon/Duathlon</a></li>
-					<li><a href="http://www.freechess.org/">Chess</a></li>
-					<li><a href="http://www.dogfish.com/">Dogfish Head Brewery</a></li>
-				</ul>
-			</li>
-			<li>
-				<h2>Stuff to Know</h2>
-				<ul>
-					<li><a href="http://www.latex-project.org/">LaTeX</a></li>
-					<li><a href="http://www.linux.org/">Linux</a></li>
-					<li><a href="http://www.r-project.org/">The R Project</a></li>
-					<li><a href="http://www.pymol.org/">PyMOL</a></li>
-					<li><a href="http://tldp.org/LDP/abs/html/">BASH</a></li>
-					<li><a href="http://en.wikipedia.org/wiki/Object-oriented_programming"></a>OOP</li>
-				</ul>
-			</li>
-		</ul>
-	</div>
-	<p id="legal"> &copy;2007 Interlude. All Rights Reserved.
-		&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-		Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-		Icons by <a href="http://famfamfam.com/">FAMFAMFAM</a>.	<a href="http://validator.w3.org/check/referer" class="xhtml" title="This page validates as XHTML">Valid <abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="http://jigsaw.w3.org/css-validator/check/referer" class="css" title="This page validates as CSS">Valid <abbr title="Cascading Style Sheets">CSS</abbr></a> </p>
+<p>
+<a href="http://www.ists.dartmouth.edu/er3c/projects.php#responders">First Responder Sensing and Communication</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://groups.csail.mit.edu/drl/">Rus Robotics Laboratory</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
+<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
+<p>
+<a href="http://people.csail.mit.edu/kotay/">Keith Kotay</a>
 </div>
-<!-- end footer -->
+<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
+<p>
+<a href="http://www.grasp.upenn.edu/">GRASP Laboratory of Robotics Research and Education</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://www.grasp.upenn.edu/people/kumar.html">Vijay Kumar</a> 
+</div>
+<p>
+<a href="http://www.ists.dartmouth.edu/projects/frsensors/artemis/index.htm">Artemis</a> <a href="http://www.ists.dartmouth.edu/er3c/projects.php#cander">CANDER</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://engineering.dartmouth.edu/thayer/faculty/susanmcgrath.html">Susan</a> 
+<a href="http://www.ists.dartmouth.edu/er3c/mission.php">McGrath</a>
+<p>
+<a href="http://www.ists.dartmouth.edu/people-researchers.php">Chris Carella</a>
+</div>
+<p>
+<a href="http://www.cat.csiro.au/cmst/automation/expertise/heli/">CSIRO Autonomous Helicopter Project</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
+<p>
+<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
+<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
+</div>
+<p>
+<a href="http://www-robotics.usc.edu/~avatar/">AVATAR Autonomous Flying Vehicle Project</a>
+<div style="margin-left: 40px;">
+<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
+<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
+<p>
+<a href="http://www-robotics.usc.edu/~gaurav/">Gaurav Sukhatme</a>
+<p>
+<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
+<p>
+<a href="http://www-robotics.usc.edu/~srik/">Srikanth Saripalli</a>
+<p>
+<a href="http://www-robotics.usc.edu/~shrabar/">Stefan Hrabar</a>
+</div>
+</div>
+<p>
+<a href="http://kerf.cs.dartmouth.edu">Kerf</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://www.ists.dartmouth.edu/directors-office/mission.php">David</a> 
+<a href="http://www.cs.dartmouth.edu/~dfk/">Kotz</a>
+<p>
+<a href="http://www.ccs.neu.edu/home/jaa/">Javad Aslam</a>
+<p>
+<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
+<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
+<p>
+<a href="http://www.cs.dartmouth.edu/~sergey/">Sergey Bratus</a>
+</div>
+<p>
+<a href="http://www.newscientist.com/article.ns?id=dn5079">Virtual Fences for herding cows</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
+<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
+<p>
+<a href="http://www.ict.csiro.au/staff/peter.corke/">Peter Corke</a>
+<p>
+<a href="http://www.cs.rit.edu/~zjb/">Zack Butler</a>
+<p>
+<a href="http://www.ars.usda.gov/pandp/people/people.htm?personid=148">Dean Anderson, Research Animal Scientist</a>
+</div>
+<p>
+<a href="http://agent.cs.dartmouth.edu">D'Agents</a>
+<p>
+<div style="margin-left: 40px;">
+<a href="http://www.ists.dartmouth.edu/directors-office/mission.php">David</a> 
+<a href="http://www.cs.dartmouth.edu/~dfk/">Kotz</a>
+<p>
+<a href="http://actcomm.dartmouth.edu/gvc/">George Cybenko</a>
+<p>
+<a href="http://actcomm.thayer.dartmouth.edu/rgray/">Bob Gray</a>
+<p>
+<a href="http://people.csail.mit.edu/rus/">Daniela</a> 
+<a href="http://www.csail.mit.edu/biographies/PI/bioprint.php?PeopleID=2226">Rus</a>
+</div>
+<p>
+<a href="http://www.InterOscitor.com">InterOscitor</a>
+<p>
+<a href="http://www.sover.net/~ronp">Peterson Enterprises</a>
+<p>
+<hr>
+Miscellaneous Research Related Pictures
+<p>
+<a href="metrosense/bikenet/IMG_0689.JPG"><img src="metrosense/bikenet/IMG_0689.JPG" WIDTH=50%></a>
+<p>
+<img src="N80BlueMote.jpg">
+<p>
+<a href="usc/Penn05/images/IMG_2608.JPG"><img src="usc/Penn05/images/thumb/IMG_2608.JPG"></a>
+<p>
+<img src="AvatarSensors.jpg">
+<p>
+<img src="CowCollar.jpg">
+<p>
+<img src="EmtSwatTeam.jpg">
+<p>
+<img src="rubble.jpg">
+<p>
+<!img src="flashlight.jpg">
+<img src="joeflashmote.jpg">
+<p>
+<img src="Mantis.jpg">
+<p>
+<img src="basement.jpg">
+<p>
+<img src="accelerometer.jpg">
+<p>
+<img src="chemical.jpg">
+<p>
+<img src="cluster1.jpg">
+<p>
+<img src="crystal.jpg">
+<p>
+<img src="CraneRobotSensors.jpg">
+<p>
+<img src="collar.gif">
+<p>
+<img src="architecture.png">
+<p>
+<img src="panarama.jpg">
+<p>
+<img src="ChlorineSensed.gif">
+<p>
+<img src="Doorway.jpg">
+<p>
+<h3>In previous lives:</h3>
+<h4>I've spent some time working on the electronic countermeasures system for the F-22 Raptor</h4>
+<a href="http://en.wikipedia.org/wiki/F-22"><img src="FA-22_Raptor.jpg" WIDTH=50%></a>
+<h4>most of which involved doing missile simulations and computer graphics</h4>
+<a href="http://www.sover.net/~ronp/Consulting/fusion01.jpg">
+<img src="http://www.sover.net/~ronp/Consulting/fusion01.jpg" WIDTH=50%></a>
+<p>
+<a href="http://www.sover.net/~ronp/Consulting/doppler01.jpg"><img src="http://www.sover.net/~ronp/Consulting/doppler01.jpg" WIDTH=50%></a>
+
+<h4>I spent a summer working on a Tokamak nuclear fusion reactor</h4>
+<h4>My job was to build electronics circuits and keep the amplifiers for</h4>
+<h4>the optical fibers used for data collection calibrated.</h4>
+<img src="Rentor1.jpg" WIDTH=50%>
+<img src="Rentor5.jpg" WIDTH=50%>
+<p>
+<h4>I spent another summer doing laser spectroscopy with the fellow on the left in this picture:</h4>
+<img src="jrb-em-dmc.jpg">
+<p>
+<h4>The first computer I ever programmed, an IBM 1620, programmed via punchcards</h4)
+<img src="IBM_1620_Model_1.jpg">
+<p>
+<p>
 </body>
 </html>

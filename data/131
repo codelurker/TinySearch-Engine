@@ -1,114 +1,89 @@
-http://www.cs.dartmouth.edu/~map
+http://www.cs.dartmouth.edu/farid/egypt/reconstruction.html
 2
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
+<html>
 <head>
-    <title>MAP
- | Security through measurement for wireless LANs         
-</title>
-<link rel="stylesheet" href="http://www.cs.dartmouth.edu/~map/include/style.css" type="text/css" /><link rel="icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" />
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<title> Egyptian Tombs and Monuments</title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<body>
-<div class="outer pc75">
-<div class="inner mg177">
-<div class="title">
-<span class="name"><a href="http://www.cs.dartmouth.edu/~map"><img
-    src="img/map-logo.png" alt="MAP logo"></a></span>
-</div>
-</div>
-</div>
-<div id="navcontainer">
-<ul id="navlist">
-    <li id="active"><a href="http://www.cs.dartmouth.edu/~map/index.php"  id="current">Home</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/papers.php" >Papers</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/biblio.php" >Bibliography</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/links.php" >Links</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/wiki.php" >Wiki</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/people.php" >People</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/mapstats.php" >MAP Testbed</a></li>
-</ul>
-<br/>
-<div id="navimgcontainer">
-<a href="http://www.hsarpacyber.com"><img src="img/dhs.jpg" alt="DHS logo" title="Sponsored by HSARPA as part of the Cyber Security Research and Development (CSRD) program" height=100></a>
-<a href="http://www.ists.dartmouth.edu"><img src="img/ists.png" alt="ISTS logo" width=50></a>
-<a href="http://www.arubanetworks.com"><img src="img/aruba.png" alt="Aruba Networks logo"></a>
-<a href="http://www.cs.uml.edu"><img src="img/uml.gif" alt="UMass Lowell logo"></a>
-</div>
-</div>
-<div id="content">
+<table align=center width=900>
 
-<p><b>PRESS COVERAGE:</b> December 2006 article in <a href="http://www.networkworld.com/news/2006/120706-intelligent-scaleable-wlan-defense-darpa.html"><img src="img/nwlogo-06.gif" alt="network world"></img></a></p>
-
-<p><b>Overview</b></p>
+<tr>
+<td valign=top colspan=3>
+<b> Reconstructing Ancient Egyptian Tombs and Monuments</b>
+<BR> 
 <p>
-        With the rise of Voice over
-    wireless LAN (VoWLAN), any complete WiFi security solution must address
-    denial of service attacks, such as kicking off other clients, consuming
-    excessive bandwidth, or spoofing access points, to the detriment of
-    legitimate clients. Even an authorized client may be able to sufficiently
-    disrupt service quality to make the network ineffective for legitimate
-    clients.</p>
+It is ironic that the Ancient Egyptian tombs, once sealed, were not
+intended to be seen by outsiders. Yet the highly valued and often
+reproduced tomb decorations have had a profound influence on art and
+have contributed significantly to our understanding of the Ancient
+Egyptian culture. We describe how recent advances in computational and
+digital technology can add a new perspective to these marvels of
+antiquity. Of particular interest to us has been the development of a
+technique for digital reconstruction of tombs, allowing for the
+creation of undistorted panoramic views of tomb interiors that are
+simply unattainable with traditional imaging methods.  We have also
+applied similar computational techniques to bring a new perspective to
+several monuments of Ancient Egypt.
 
-    <p> We take a three-point, <i>MAP (Measure, Analyze, Protect)</i>
-    approach to develop an integrated and extensible framework to
-    address existing and future attacks on WiFi networks.
-    Specifically, we focus our efforts on an integrated set of new
-    components that allow a WiFi network operator to measure and
-    analyze WiFi and VoWLAN activity, and in real-time to identify and
-    defend against MAC-layer attacks on that infrastructure.
-    Our plan includes three overlapping phases: research, prototype
-    development, and deployment on a large portion of Dartmouth's
-		campus-wide wireless network.</p>
-    
-    <p><b>Measurement:</b> we have developed novel and scalable techniques to
-    collect multi-channel MAC-layer traces of the wireless
-    environment, building on our wireless-measurement infrastructure. Our
-		independant and coordinated channel sampling strategies dynamically
-		adapt to current channel conditions. These are augmented by our refocusing
-		mechanism which takes input from the analysis engines to further improve
-		relevant frame capture.
+<BR><BR>
 
-    </p>
+Click on a tomb or monument to see more, or read about <a
+href="tombhistory"> A Brief History of Ancient Egyptian Tombs</a>.
+<BR><BR>
 
-    <p><b>Analysis:</b> We have developed novel anomaly and signature detection
-		techniques. Our MAC spoofing detection algorithm is based on RSSI observed at
-		the air monitors.
-    </p>
+<i>(Collaborative work with <a href="http://www.chem.rochester.edu/faculty/faculty.php?name=farid">Samir Farid</a>)</i>
 
-    <p><b>Protection:</b> we will develop a
-    policy-driven protection engine that leverages existing defense mechanisms;
-    the R&amp;D challenge here is to integrate them into our analysis framework
-    and to evaluate the impact of automated defenses on well-behaved users in a
-    network.</p>
+</td>
 
-    <div class="bodybold">Deployment</div>
-    <p>With our partner, <a
-        href="http://www.arubanetworks.com/">Aruba Networks</a>, we
-    will develop and deploy prototypes for testing in Phase 1-2, and
-    in the third phase we are deploying our prototypes across
-    Dartmouth' next-generation campus-wide WiFi network; this testbed
-    provides valuable data for the research team and valuable input
-    into Aruba's product pipeline.</p>
+<td> &nbsp </td>
 
-    <div class="bodybold">Novelty</div>
-    <p>We plan significant, novel extensions to existing
-    technology; these techniques have never been applied to WiFi
-    networks, to VoWLAN applications, or at the scale necessary for
-    large deployment. Our integrated end-to-end MAP approach is new,
-    and our proposed campus-wide deployment is unprecedented in scope
-    and scale.</p>
-    
-    <p>Our MAP approach provides a new foundation for wireless network
-    security, able to dynamically measure, analyze and protect a WiFi
-    network against existing and novel threats, including rogue
-    clients and access points, with a focus on VoWLAN use cases.</p>
-    
+<td valign=bottom align=center rowspan=2>
+<a href="obelisk.html"> <BR> Thutmose I <BR>
+<img src="obelisk/obelisksnap.jpg" width=120 height=399></a> 
+</td>
+</tr>
 
+<tr>
+  <td valign=bottom align=center> 
+  <a href="sennedjem.html">
+  <BR>Sennedjem<BR>
+  <img src="sennedjem/sennedjemsnap.jpg" width=195 height=103></a> </td>
 
-</div>
-</body>
+  <td valign=bottom align=center> 
+  <BR><a href="inherkhau.html">Inherkhau<BR>
+  <img src="inherkhau/inherkhausnap.jpeg" width=250 height=103></a></td>
+
+  <td valign=bottom align=center> 
+  <BR><a href="rekhmira.html">Rekh-mi-Ra<BR>
+  <img src="rekhmira/rekhmirasnap.jpg" width=272 height=103></a></td>
+</tr>
+
+</table>
+
+<BR>
+<HR>
+<table align=center width=900>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+   <li>Unfolding Sennedjem's Tomb <a href="../publications/kmt01.html">(kmt01)</a> <BR>
+   <li>Reconstructing Ancient Egyptian Tombs <a href="../publications/vaa01.html">(vaa01)</a> <BR>
+   <li><a href="../orozco/">Jose Clemente Orozco</a> 
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="../research/research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+
 </html>

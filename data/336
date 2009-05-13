@@ -1,3 +1,98 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1
+http://www.cs.dartmouth.edu/~cbk/mrf.html
 3
-xQ)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Research : Graphical Models of Proteins</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<p>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Graphical Models of Proteins</div><br>
+
+<img src="images/mrf.jpg" alt="graphical model"/><br/><br/>
+
+<p>Protein sequences are constrained both at individual residues
+(conservation) and in relation to each other (covariation).  Selective
+pressures to maintain structure and function have constrained
+sequences over time and across species.  Constraints thus manifested
+in sequence-structure-function relationships can be inferred from the
+evolutionary record, along with information from available structural
+studies and functional assays.  Identified relationships can then be
+employed in all different `directions', e.g., to predict function from
+the sequence of a newly-discovered protein, discriminate predicted
+structures for a sequence according to functional tests, and design
+variant (homologous) protein sequences with related functions.</p>
+
+<p>We are developing approaches to learn and use probabilistic
+graphical models (aka Markov random fields) that capture significant
+conservation and coupling observable in a multiply-aligned set of
+sequences.  By incorporating structural information, our models can
+provide mechanistic explanations for observed constraints.  By
+incorporating functional class information, they can perform
+interpretable classification of new sequences, explaining decisions in
+terms of the underlying conservation and coupling constraints.  By
+incorporating information about interacting proteins, they can
+identify "cross-coupling" constraints and make explainable predictions
+about novel interactions.  Finally, the models can be used
+generatively, to design new sequences consistent with the modeled
+constraints, and thus predicted to be folded and functional.</p>
+
+<b>Papers</b>
+<ul>
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
+models of protein-protein interaction specificity from correlated
+mutations and interaction data", <i>Proteins</i>, in press.
+<a href="abs.html#proteins09">abstract</a>.
+
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Protein design
+by sampling an undirected graphical model of residue constraints", 
+<i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>,
+in press.
+<a href="abs.html#tcbb08">abstract</a>.
+<a href="papers/tcbb08.pdf">preprint</a>.
+</li>
+
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
+models of residue coupling in protein families", <i>IEEE/ACM
+Transactions on Computational Biology and Bioinformatics</i>, 2008, 5:183-197.
+<a href="abs.html#tcbb07">abstract</a>.
+<a href="http://www2.computer.org/portal/web/csdl/doi/10.1109/TCBB.2007.70225">official version</a>.
+<a href="papers/tcbb07.pdf">preprint</a>.
+</li>
+
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
+models of residue coupling in protein families", Proc. BioKDD, 2005.
+<a href="abs.html#biokdd05">abstract</a>.
+<a href="papers/biokdd05.pdf">pdf</a>.  
+Copyright 2005, ACM.
+</li>
+
+</ul>
+
+</td></tr>
+
+</tbody></table>
+</body>
+</html>

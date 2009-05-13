@@ -1,38 +1,60 @@
-http://www.cs.dartmouth.edu/~dfk/schedule.html
+http://www.cs.dartmouth.edu/~dfk/house
 3
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <title>David Kotz's Schedule</title>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<html> <head>
+<title>Dave and Pam's house</title>
 </head>
-<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#551A8B" alink="#0000FF">
 
-<h1><a href="http://www.cs.dartmouth.edu/~dfk/">David Kotz's</a> Schedule</h1>
+<body>
+<a href=full/h67.jpg><img src=half/h67.jpg lowsrc=lowsrc/h67.jpg align=left></a>
+<h1><a href="../">Dave</a> and Pam's house</h1>
+<br clear=all>
 
-I am on sabbatical during the 2008-09 academic year, at the
-Indian Institute of Science (IISc) in Bangalore, India, 
-from August 2008 through mid-July 2009. 
-
-<!-- 
-<h2>Class hours, 2008</h2>
-I teach in the 10A slot, that is, TuTh 10am-noon.
-
-<h2>Office hours, 2008</h2>
+<h2>1997-98 initial construction.</h2>
+<a href=full/h72.jpg><img src=half/h72.jpg lowsrc=lowsrc/h72.jpg align=right></a>
+We built a post&nbsp;&amp;&nbsp;beam house in Lyme, NH.  The timber
+frame was designed and cut by the <a
+href="http://www.davisframe.com/">Davis Frame Company</a>.  They
+deliver a complete shell package: cut timber frame, wall and roof
+panels, roof shingles, windows and doors, and siding.  Our general
+contractor, Rick Webb of 
+<a href="http://www.rdwebbandson.com/">R.&nbsp;D. Webb &amp;Son</a> 
+of Sunapee NH, constructed it.
+We did much of the work ourselves
+(installing interior insulation, kitchen cabinets and counters,
+computer and telephone wiring, vinyl flooring, closet shelving,
+landscaping, wallpaper, and numerous little things).
 <p>
-I have no regular office hours.
-You can try to stop by, but it can be hard to find me free.
-It's better to 
-<a href="/~dfk/#contact">contact my assistant</a> for an appointment. 
+
+<ul>
+<li><a href="phase1.html">Phase 1:</a> Foundation and first-floor deck</li>
+<li><a href="phase2.html">Phase 2:</a> Timber-frame erection</li>
+<li><a href="phase3.html">Phase 3:</a> Wall and roof panels</li>
+<li><a href="phase4.html">Phase 4:</a> Siding, roofing, rough-in work</li>
+<li><a href="phase5.html">Phase 5:</a> Finish work</li>
+<li><a href="phase6.html">Phase 6:</a> Move in! (Thursday December 18)</li>
+</ul>
+
+<h2><a href="deck/">1998: Deck and garage</a></h2>
+<h2><a href="addition/">2000: a major addition</a></h2>
+<h2><a href="patio/">2005: a patio</a></h2>
+<h2><a href="walls/">2006: retaining walls and garden</a></h2>
+<h2><a href="riverbank/">2006: reconstructing the riverbank</a></h2>
+
 <p>
- -->
 
-<h2><a name="trips" href="trips.txt">Upcoming trips</a></h2>
+<hr>
 
-<h2><a href="schedule_past.html">Past trips</a></h2>
+<p>
+<center>
+<h3>Part of the <em>Timber Frame, Post And Beam, &amp; Barn Homes</em> WebRing</h3>
+<script language=javascript src="http://ss.webring.yahoo.com/navbar?f=j&y=dhaynes_ca&u=97009518710006441"></script>
+</center>
+<p>
+<hr>
 
-</body>
-</html>
-
-
-, opti
+<!-- hhmts start -->
+Last modified: Tue Jan 30 11:40:11 2007
+<!-- hhmts end -->
+</body> </html>
+eafraii

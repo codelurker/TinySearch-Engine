@@ -1,8 +1,8 @@
-http://www.cs.dartmouth.edu/~cbk/multimodal.html
+http://www.cs.dartmouth.edu/~cbk/research.html
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head><title>Chris Bailey-Kellogg : Research : Multimodal</title>
+<head><title>Chris Bailey-Kellogg : Research</title>
 <meta http-equiv=content-type content="text/html; charset=us-ascii">
 <link href="style.css" type="text/css" rel="stylesheet">
 </head>
@@ -29,82 +29,59 @@ http://www.cs.dartmouth.edu/~cbk/multimodal.html
 
 <!-- content -->
 <td valign=top>
-<div class=header align=center>Multimodal Protein Structure</div><br>
+<div class=header align=center>Research</div><br>
 
-<img src="images/multimodal.jpg" alt="multimodal">
+<p>In general, my lab's research focuses on mixed
+computational-experimental approaches to the structural and functional
+understanding of and control over the molecular machinery of the cell.
+We are developing algorithms and systems to automatically plan
+experiments, predict outcomes, interpret data, revise models, and so
+forth.  The figures below point to pages with high-level descriptions
+of some of our current projects.</p>
 
-<p>With the extensive development of genomic sequencing and rapid
-protein expression, there are now many more targets available for
-protein structure determination than can be completed by even the most
-advanced automated methods.  Many of these targets also present
-well-known experimental difficulties for the traditional methods of
-crystallography and NMR.  However, help in interpreting the genomic
-data is available from computational techniques that use knowledge
-extracted from the database of experimentally determined structures,
-in order to predict structures for proteins with different sequences.
-The effective use of these computational techniques would be greatly
-enhanced by the ability to rapidly discriminate among and confirm
-predictions with experimental data that can be acquired rapidly and
-easily.  For example, appropriate experimental methods can provide
-measurements of distance (e.g. by chemical cross-linking of specific
-residues), assays of residue accessibility (e.g. by chemical
-modification of surface residues), and low-resolution
-characterizations of shape (e.g. by solution scattering).</p>
+<table align=center>
+<tr>
+<td><a href="multimodal.html"><img src="images/multimodal-small.jpg" alt="multimodal"></a></td>
+<td width=50></td>
+<td><a href="nmr.html"><img src="images/nmr-graph-small.jpg" alt="nmr"></a></td><td width=50></td>
+<td><a href="oligomer.html"><img src="images/2hyn-small.jpg" alt="oligomer"></a></td>
+</tr>
+</table>
 
-<p>We are developing a comprehensive computational-experimental
-protocol for the rapid discrimination of predicted protein structure
-via multiple modes of experimental data.  The multimodal
-discrimination approach poses challenging computational problems in
-combining rather sparse, noisy information from different experimental
-methods and describing quantitatively the extent of discrimination
-provided.  Associated reasoning algorithms overcome problems of noise
-and sparsity by uncovering consistent sets of features, targeting
-clarifying queries in response to conflicts, and planning additional
-experiments.</p>
+<br><br>
 
-<b>Papers</b>
+<table align=center>
+<tr>
+<td><a href="mrf.html"><img src="images/mrf-small.jpg" alt="graphical models"></a></td>
+<td width=50></td>
+<td><a href="recombination.html"><img src="images/recomb-small.jpg" alt="recombination"></a></td>
+</tr>
+</table>
+
+<br><br>
+
+<p>This work is funded in part by the following:</p>
 <ul>
-<li>T.E. Williamson, B.A. Craig, E. Kondrashkina, C.
-Bailey-Kellogg, and A.M. Friedman, "Analysis of self-associating
-proteins by singular value decomposition of solution scattering
-data", <i>Biophys. J.</i>, 2008, 94:4906-4923.
-<a href="abs.html#biophysj07">abstract</a>.
-<a href="http://www.biophysj.org/cgi/content/full/94/12/4906">official version</a>.
-</li>
-
-<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg,
-"Optimizing Bayes error for protein structure model selection by
-stability mutagenesis", Proc. CSB, 2008, pp. 99-108.
-<a href="abs.html#csb08">abstract</a>.
-<a href="papers/csb08.pdf">paper</a>.</li>
-
-<li>X. Ye, P.K. O'Neil, A.N. Foster, M.J. Gajda, J. Kosinski,
-M.A. Kurowski, A.M. Friedman, and C. Bailey-Kellogg, "Probabilistic
-cross-link analysis and experiment planning for high-throughput
-elucidation of protein structure", <i>Protein Sci.</i>, 2004, 13:3298-3313.
-<a href="abs.html#prosci04">abstract</a>.  
-<a href="http://www.proteinscience.org/cgi/content/full/13/12/3298">paper</a>.
-</li>
-
-<li>S. Potluri, A.A. Khan, A. Kuzminykh, J.M. Bujnicki, A.M. Friedman,
-and C. Bailey-Kellogg, "Geometric analysis of cross-linkability for
-protein fold discrimination", Proc. Pacific Symposium on Biocomputing
-(PSB), 2004.
-<a href="abs.html#psb04">abstract</a>.
-<a href="papers/psb04.pdf">pdf</a>.
-</li>
-
+<li>An NIH R01: "Automated NMR Assignment and Protein Structure Determination" to B.R. Donald (Duke).</li>
+<li>An Alfred P. Sloan Research Fellowship, to C. Bailey-Kellogg.</li>
+<li>A grant from the NSF SEIII program: "Integration of Multimodal
+Experiments for Protein Structure", to C. Bailey-Kellogg, B.A. Craig
+(Statistics, Purdue) and A.M. Friedman (Biological Sciences,
+Purdue).</li> 
+<li>An NSF CAREER award: "Sparse Spatial Reasoning for
+High-Throughput Protein Structure Determination", to C. Bailey-Kellogg.</li>
 </ul>
 
-</td></tr>
+<p>We gratefully acknowledge previous support from the following:</p>
+<ul>
+<li>An award from the Showalter Foundation: "Distribution Functions of
+Standard Free Energies of Protein-Protein Association", to
+C. Bailey-Kellogg and M. Laskowski (Chemistry, Purdue).</li>
+<li>A grant from Purdue's Computing Research Institute, through the
+PRF-SIRG program: "Multimodal Discrimination of Protein Fold", 
+to C. Bailey-Kellogg and A. Friedman (Biological Sciences, Purdue).</li>
+</ul>
 
-<!-- footer -->
-<tr><td colspan=2 height=20></td></tr>
-<tr><td class=hr colspan=2 height=2></td></tr>
-<tr><td class=footer colspan=2>
-<!-- hhmts start -->
-Last modified: Tue Jun 29 15:19:16 EDT 2004
-<!-- hhmts end -->
 </td></tr>
 
 </tbody></table>

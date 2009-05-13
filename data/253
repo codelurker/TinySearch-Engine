@@ -1,85 +1,154 @@
-http://www.cs.dartmouth.edu/~rangak/index.html
+http://www.cs.dartmouth.edu/~afra/personal.html
 3
-<html><head>
+<html>
+<head>
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+<title>About Afra</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
 
-<link type="text/css" href="index.css" rel="stylesheet" title="default"></head><body>
+<body bgcolor=#ffffff >
 
-<div id="pageHeader">
-					<h1>
-					<br>Ranganath Kondapally
-	<!--					<a>
-						<xsl:attribute name="href">
-							<xsl:value-of select="soul/logo/about/link/url"/>
-						</xsl:attribute>
-					<img>
-						<xsl:attribute name="src">
-							../images/<xsl:value-of select="soul/logo/image"/>
-						</xsl:attribute>
-						<xsl:attribute name="alt">
-							<xsl:value-of select="soul/logo/description"/>
-						</xsl:attribute>
-					</img> 
-					</a>-->
-				</h1>
-				</div>
+<hr align=center noshade>
 
+<table cellspacing=0 cellpadding=0 border=0>
+<tr valign= top>
 
-	<div id="direct">
-		<h1>
+<!-- ----- Left-hand side navbar ----- -->
+<td align=right>
+<font size="+1" align=right>
+afra<br>
+zomorodian<br>
+<br>
+</font>
+<a href="./">home</a><br>
+<b>personal</b><br>
+<a href="book.html">book</a><br>
+<a href="papers.html">papers</a><br>
+<a href="teaching.html">teaching</a><br>
+<a href="goodies.html">goodies</a><br>
+<br><br>
+</td>
 
+<!-- ----- Interior left margin ----- -->
+<td width=25>&nbsp;</td> 
 
-				<a href="index.html">Home</a>
-				<a href="Research.html">Research</a>
-				<a href="Resume.html">Resume</a>
-				<a href="Personal.html">Personal</a>
-				<a href="Contact.html">Contact</a>
-		</h1>	
-	</div>
-						<div id="central">
-<!--	<div id="derived">
-				<p>
-					<br>
-					<br>
-					<br>
-				<a href="http://iiit.net/">About IIIT</a><br><br>
+<!-- ----- Eye candy ---- -->
+<td>
 
-				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/resources.html">Resources</a><br><br>
-				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/research.html">Research</a><br><br>
-				<a href="http://students.iiit.ac.in/%7Eranganath/rpl/xml/index.php">Papers Library</a><br><br>
-				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/courses.html">Courses</a>
-					<br><br><br><br>
-					<br><br><br><br>
-					<br><br><br><br>
-					<br><br><br><br>
-					<br><br><br>
-				</p>
-	</div>
-	-->			<div id="mesg">
-		<p id="intro">
-				I am a PhD student in Computer Science Department, Dartmouth College. 
-Previously I was working with Microsoft India Development Center at Hyderabad. I was working with the Microsoft Windows Terminal Services team. 
-I was part of Windows Vista and Windows Server 2008  releases. Prior to that I completed my Btech in Computer Science from IIIT Hyderabad.
-		</p>
-<p id="PHeader">
-My research interests:</p>
-<p id="PBody">
-</p>
-<li>Algorithms</li>
-<li>Theoritical aspects of computer science </li>
-<p></p>
+<table cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td>
+<img src="images/yosemite.jpg" width = 100</a>
+<td>
+<tr>
+<td align=center>
+<font size = "-2">
+<a href = "http://afra.smugmug.com/gallery/256240/1/10056565">
+<i>Yosemite Falls</i></a>
+</font>
+</td>
+</tr>
+</table>
 
+<!-- ----- Interior right margin ----- -->
+<td width=25>&nbsp;</td> 
 
-				</div>
-				</div>
+<!-- ----- Main body ----- -->
 
-				<div id="end">
-				<br>
-				</div>
-				<div id="bottom">
-				Designed &amp; maintained by K.Ranganath . Any queries/problems mail to 
-rangak AT cs [.] dartmouth [.] edu
-				<br>
-Microsoft Windows Terminal Services, Windows Vista and Windows Server 2008 are trademarks of Microsoft. <br>Acknowledments to www.mezzoblue.com/zengarden for css resources and help
-				
-				</div>
-			</body></html>
+<td>
+<!-- <b><a href="cv.pdf">curriculum vitae</a> <img src = "images/new.gif"></b>
+(updated 02/05)
+<br>
+<br>
+-->
+<b>current position</b>
+<p>
+I am an Assistant Professor in the 
+<a href = "http://www.cs.dartmouth.edu">Department of Computer Science</a>
+at 
+<a href = "http://www.dartmouth.edu/">Dartmouth College</a>.
+Feel free to drop by my office at 
+<a href = "http://www.cs.dartmouth.edu/contact.php">163 Sudikoff</a>.
+My email address is my
+first name at CS dot dartmouth dot edu.
+<br>
+<p>
+
+<b>previous positions</b>
+<p>
+During the fall of 2006, I was a Research Professor at
+<a href = "http://www.msri.org">MSRI</a>, where
+I was part of the program titled 
+<a href =
+"http://www.msri.org/calendar/programs/ProgramInfo/243/show_program">
+Computational Applications of Algebraic Topology</a>.
+<p>
+From January 2004 to June 2006, I was a Post-Doctoral Fellow in 
+<a href = "http://biox.stanford.edu/">Bio-X</a> and the 
+<a href = "http://www.cs.stanford.edu">Department of Computer Science</a>
+at
+<a href = "http://www.stanford.edu">Stanford University</a>.
+I was part of two groups:
+the <a href = "http://geometry.stanford.edu/member/guibas">Leonidas Guibas Laboratory</a>
+and
+<a href = "http://math.stanford.edu/comptop/">TMSCSCS</a>.  
+<p>
+From July through December 2003, I was
+away from Stanford, traveling
+in five countries.
+During that time, I was a guest researcher</a> at the
+<a href = "http://www.mpi-sb.mpg.de/">Max-Planck-Institut f&uuml;r Informatik</a> in 
+<a href = "http://www.saarbruecken.de">Saarbr&uuml;cken</a>, 
+Germany, for about five months, where I worked with
+<a href = "http://www.mpi-sb.mpg.de/~kettner/">Lutz Kettner</a>.
+<p>
+From October 2001 through June 2003, I was a Post-Doctoral Fellow
+at Stanford.
+<p>
+<b>academic background</b>
+<p>
+I completed my Ph.D. in October 2001 from the 
+<a href = "http://www.cs.uiuc.edu">Department of Computer Science</a>
+at
+<a href = "http://www.uiuc.edu">University of Illinois at
+Urbana-Champaign</a>.  
+I was a <em>Visiting Scholar</em> in the 
+<a href = "http://www.cs.duke.edu">Department of Computer Science</a>
+at
+<a href = "http://www.duke.edu">Duke University</a> from 1999 to 2001
+during my graduate work.
+<br>
+<br>
+Previously, I received my B.S. in Computer Science from the 
+<a href = "http://www.cs.stanford.edu">Department of Computer Science</a>
+at
+<a href = "http://www.stanford.edu">Stanford University</a> in 1996.  I did
+some research on color acquisition and automatic shape acquisition (part of
+the <a href = "http://graphics.stanford.edu/projects/faxing/">3D Fax
+Project</a>) in the 
+<a href = "http://graphics.stanford.edu">Stanford Computer Graphics
+Laboratory</a> as an undergraduate.
+<br>
+<br>
+
+I graduated from 
+
+<a href = "http://www.iusd.k12.ca.us/uhs/">University High School</a>
+
+in Irvine, California, in 1992, but I first spent three years in
+<em>Rolling Hills High School</em>, which merged with Palos Verdes and
+Miraleste High Schools to form
+
+<a href = "http://www.pvphs.com">Palos Verdes 
+Peninsula High School</a>
+
+in 1991.  My family then moved to 
+<a href = "http://www.irvinecompany.com">Irvine</a>.
+
+<!-- ----- Right-hand margin ----- -->
+<td width=25>&nbsp;</td>
+</tr>
+</table>
+<hr align=center noshade>
+</body>

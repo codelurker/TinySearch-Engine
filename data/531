@@ -1,3 +1,71 @@
-http://www.cs.dartmouth.edu/~pw
+http://www.cs.dartmouth.edu/~wbc/suditour/servers/power.html
 3
-Hi, I haven't set my webpage up yet.  Thank you for visiting.
+
+
+<h1>Power Distribution in 011 Sudikoff</h1>
+
+<table border=3>
+ <tr><td colspan=2>s011-power1</td><td> 129.170.213.241</td></tr>
+ <tr>
+  <td>1</td><td>pisgah</td>
+ </tr><tr>
+  <td>2</td><td>green plug 1</td>
+ </tr><tr>
+  <td>3</td><td>new-bear</td>
+ </tr><tr>
+  <td>4</td><td>backup-3</td>
+ </tr><tr>
+  <td>5</td><td>tape drive</td>
+ </tr>
+ 
+<tr><td> </td></tr>
+
+ <tr><td colspan=2>s011-power2</td><td> 129.170.213.244</td></tr>
+ <tr>
+  <td>1&nbsp;&nbsp;</td><td>empty</td>
+ </tr><tr>
+  <td>2</td><td>tahoe</td>
+ </tr><tr>
+  <td>3</td><td>concentrator 215.235</td>
+ </tr><tr>
+  <td>4</td><td> old mail (new oct 2005)</td>
+ </tr><tr>
+  <td>5</td><td>tahoe switch 212.211 e</td>
+ </tr><tr>
+  <td>6</td><td>green plug 2</td>
+ </tr>
+
+<tr><td> </td></tr>
+
+ <tr><td colspan=2>s011-power3</td><td> 129.170.214.45</td></tr>
+ <tr>
+  <td>1</td><td>mirrors-athena </td>
+ </tr><tr>
+  <td>2</td><td>215.225  procurve sw to power 1, 2, 3</td>
+ </tr><tr>
+  <td>3</td><td>katahdin </td>
+ </tr><tr>
+  <td>4</td><td>new mail (new may 2008)</td>
+ </tr>
+
+<tr><td> </td></tr>
+
+ <tr><td colspan=2>s011-power4</td><td> 129.170.215.140</td></tr>
+ <tr>
+  <td>1</td><td>CVS</td>
+ </tr><tr>
+  <td>2</td><td>galehead</td>
+ </tr>
+
+<tr><td> </td></tr>
+
+ <tr><td colspan=2>s011-power5</td><td> 129.170.215.141</td></tr>
+ <tr>
+  <td>1</td><td>cs</td>
+ </tr><tr>
+  <td>2</td><td>aeolus</td>
+ </tr>
+
+</table>
+
+</ti

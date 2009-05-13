@@ -1,178 +1,21 @@
-http://www.cs.dartmouth.edu/farid/photos/photos.html
+http://www.cs.dartmouth.edu/~wkerr/studyschedule.html
 3
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-<title> Hany Farid: Image Science Group </title>
+<title> Digital Lighting Design Paradigm Study Schedule </title>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
-
-
-<b>The <a href="../group.html">Image Science Group</a> Photo Gallery</b>
-<BR>	
-<BR>	
-
-<table cellpadding=4 width=450>
-
-<tr>
-<td> <b>February '07</b> </td>
-<td valign=top colspan=6> Kimo</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="kimo2.jpg"><IMG SRC="kimo2.thumbnail.jpg" border="0"></a></td>
-</tr>
-
-<tr>
-<td> <b>August '04</b> </td>
-<td valign=top colspan=6> Kimo</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="kimo.jpg"><IMG SRC="kimo.thumbnail.jpg" border="0"></a></td>
-</tr>
-
-
-<tr>
-<td> <b>June '04</b> </td>
-<td valign=top colspan=6> Hai's graduation (goodbye Hai - we will miss you)</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="hai5.jpg"><IMG SRC="hai5.thumbnail.jpg" border="0"></a></td>
-<td><a href="hai4.jpg"><IMG SRC="hai4.thumbnail.jpg" border="0"></a></td>
-<td><a href="hai3.jpg"><IMG SRC="hai3.thumbnail.jpg" border="0"></a></td>
-<td><a href="hai2.jpg"><IMG SRC="hai2.thumbnail.jpg" border="0"></a></td>
-<td><a href="hai1.jpg"><IMG SRC="hai1.thumbnail.jpg" border="0"></a></td>
-<td><a href="hai6.jpg"><IMG SRC="hai6.thumbnail.jpg" border="0"></a></td>
-</tr>
-
-<tr>
-<td> <b>June '04</b> </td>
-<td valign=top> Will and Joe </td>
-<td valign=top> Joe and Will </td>
-</tr>
-<tr>
-<td></td>
-<td><a href="will.joe.2.jpg"><IMG SRC="will.joe.2.thumbnail.jpg" border="0"></a></td>
-<td><a href="will.joe.1.jpg"><IMG SRC="will.joe.1.thumbnail.jpg" border="0"></a></td>
-</tr>
-
-<tr>
-<td> <b>June '03</b> </td>
-<td valign=top colspan=5> Senthil's graduation (goodbye Senthil - we will miss you)</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="spgrad3M.jpg"><IMG SRC="spgrad3.thumbnail.jpg" border="0"></a></td>
-<td><a href="spgrad2M.jpg"><IMG SRC="spgrad2.thumbnail.jpg" border="0"></a></td>
-<td><a href="spgrad1M.jpg"><IMG SRC="spgrad1.thumbnail.jpg" border="0"></a></td>
-<td><a href="spgrad6M.jpg"><IMG SRC="spgrad6.thumbnail.jpg" border="0"></a></td>
-</tr>
-
-
-<tr>
-<td> <b>April '03</b> </td>
-<td valign=top colspan=5> Group </td>
-</tr>
-<tr>
-<td></td>
-<td><a href="group.jpg"><IMG SRC="group.thumbnail.gif" border="0"></a></td>
-<td><a href="group2.jpg"><IMG SRC="group2.thumbnail.gif" border="0"></a></td>
-<td><a href="hany2.jpg"><IMG SRC="hany2.thumbnail.jpg" border="0"></a></td>
-</tr>
-
-
-<tr>
-<td> <b>February '03</b> </td>
-<td valign=top colspan=3> Arjun (at 3 months) and family</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="arjun1.gif"><IMG SRC="arjun1.thumbnail.gif" border="0"></a></td>
-<td><a href="arjun2.gif"><IMG SRC="arjun2.thumbnail.gif" border="0"></a></td>
-</tr>
-
-
-<tr>
-<td> <b>July '02</b> </td>
-<td valign=top>Siwei</td>
-<td valign=top>Larry, Moe, Curly</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="siwei.gif"><IMG SRC="siwei.thumbnail.gif" border="0"></a></td>
-<td><a href="stooges.gif"><IMG SRC="stooges.thumbnail.gif" border="0"></a></td>
-</tr>
-
-
-<tr><td><BR></td></tr>
-<tr>
-<td> <b>July '01</b> </td>
-<td valign=top>Lab Renovations</td>
-</tr>
-<tr>
-<td></td>
-<td><a href="lab.jpeg"><IMG SRC="lab.thumbnail.gif" border="0"></a></td>
-</tr>
-
-
-<tr><td><BR></td></tr>
-
-
-<tr>
-<td> <b>May '00</b> </td>
-<td valign=top>Senthil</td>
-<td valign=top>Max</td>
-<td valign=top>Max</td>
-</tr>
-
-<tr>
-<td></td>
-<td><a href="senthil.gif"><IMG SRC="senthil.thumbnail.gif" border="0"></a></td>
-<td><a href="max.gif"><IMG SRC="max.thumbnail.gif" border="0"></a></td>
-<td><a href="max2.gif"><IMG SRC="max2.thumbnail.gif" border="0"></a></td>
-</tr>
-
-
-<tr><td><BR></td></tr>
-
-
-<tr>
-<td> <b>April '00</b> </td>
-<td valign=top>Jethro </td>
-<td valign=top>Alin </td>
-<td valign=top>Andy </td>
-<td valign=top>Kate </td>
-<td valign=top>David </td>
-</tr>
-
-<tr>
-<td></td>
-<td><a href="jethro.gif"><IMG SRC="jethro.thumbnail.gif" border="0"></a></td>
-<td><a href="alin.gif"><IMG SRC="alin.thumbnail.gif" border="0"></a></td>
-<td><a href="andy.gif"><IMG SRC="andy.thumbnail.gif" border="0"></a></td>
-<td><a href="kate.gif"><IMG SRC="kate.thumbnail.gif" border="0"></a></td>
-<td><a href="david.gif"><IMG SRC="david.thumbnail.gif" border="0"></a></td>
-</tr>
-
-
-<tr><tr><td><BR></td></tr>
-
-
-<td> <b>March '00</b> </td>
-<td valign=top>our neighbor <BR> Digger</td>
-<td valign=top>Hany</td>
-</tr>
-
-<tr>
-<td></td>
-<td><a href="digger.gif"><IMG SRC="digger.thumbnail.gif" border="0"></a></td>
-<td><a href="hany.gif"><IMG SRC="hany.thumbnail.gif" border="0"></a></td>
-</tr>
-
-</table>
-
+<body bgcolor="#FFFFFF" text="#000000" link="#FFDA9E" vlink="#FFDA9E" alink="B7B5F7">
+<center>
+Study will be held in the Computer Science building at Dartmouth, Sudikoff 154.<br>
+Times range from 8:00am in the morning to 10:00pm at night.<br>  
+Study times are available from Dec. 5 to Dec. 18. <br>
+Use buttons at top left of calendar to browse from week to week.<br>
+<iframe src="//www.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qd7k1n40nkqjr1n9blrfces7ns%40group.calendar.google.com&amp;color=%237A367A&amp;src=v5e2b5rijha85d9hibrafeqff8%40group.calendar.google.com&amp;color=%234E5D6C&amp;ctz=America%2FNew_York" style=" border-width:0 " width="800" height="800" frameborder="0" scrolling="no"></iframe><br>
+Study will be held in the Computer Science building at Dartmouth, Sudikoff 154.
+</center>
+</body>
 </html>
 
+
+
+	

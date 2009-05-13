@@ -1,155 +1,194 @@
-http://www.cs.dartmouth.edu/~afra/personal.html
-3
-<html>
+http://www.cs.dartmouth.edu/~tanzeem/index.html
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-<title>About Afra</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
+
+
+  
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+
+
+  
+
+
+
+  
+  <title>Tanzeem Choudhury's Webpage</title>
+<!-- #EndEditable -->
+  <link href="styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+
+  
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+.style2 {
+margin-top: 6px;
+}
+.style3 {
+color: #FF0000;
+}
+  </style>
 </head>
 
-<body bgcolor=#ffffff >
 
-<hr align=center noshade>
+<body>
 
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign= top>
 
-<!-- ----- Left-hand side navbar ----- -->
-<td align=right>
-<font size="+1" align=right>
-afra<br>
-zomorodian<br>
-<br>
-</font>
-<a href="./">home</a><br>
-<b>personal</b><br>
-<a href="book.html">book</a><br>
-<a href="papers.html">papers</a><br>
-<a href="teaching.html">teaching</a><br>
-<a href="goodies.html">goodies</a><br>
-<br><br>
-</td>
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
 
-<!-- ----- Interior left margin ----- -->
-<td width=25>&nbsp;</td> 
 
-<!-- ----- Eye candy ---- -->
-<td>
+<h3>Assistant Professor</h3>
 
-<table cellspacing=0 cellpadding=0 border=0>
-<tr>
-<td>
-<img src="images/yosemite.jpg" width = 100</a>
-<td>
-<tr>
-<td align=center>
-<font size = "-2">
-<a href = "http://afra.smugmug.com/gallery/256240/1/10056565">
-<i>Yosemite Falls</i></a>
-</font>
-</td>
-</tr>
-</table>
 
-<!-- ----- Interior right margin ----- -->
-<td width=25>&nbsp;</td> 
+<h4>Computer Science, Dartmouth College</h4>
 
-<!-- ----- Main body ----- -->
 
-<td>
-<!-- <b><a href="cv.pdf">curriculum vitae</a> <img src = "images/new.gif"></b>
-(updated 02/05)
-<br>
-<br>
--->
-<b>current position</b>
-<p>
-I am an Assistant Professor in the 
-<a href = "http://www.cs.dartmouth.edu">Department of Computer Science</a>
-at 
-<a href = "http://www.dartmouth.edu/">Dartmouth College</a>.
-Feel free to drop by my office at 
-<a href = "http://www.cs.dartmouth.edu/contact.php">163 Sudikoff</a>.
-My email address is my
-first name at CS dot dartmouth dot edu.
-<br>
-<p>
+</div>
 
-<b>previous positions</b>
-<p>
-During the fall of 2006, I was a Research Professor at
-<a href = "http://www.msri.org">MSRI</a>, where
-I was part of the program titled 
-<a href =
-"http://www.msri.org/calendar/programs/ProgramInfo/243/show_program">
-Computational Applications of Algebraic Topology</a>.
-<p>
-From January 2004 to June 2006, I was a Post-Doctoral Fellow in 
-<a href = "http://biox.stanford.edu/">Bio-X</a> and the 
-<a href = "http://www.cs.stanford.edu">Department of Computer Science</a>
-at
-<a href = "http://www.stanford.edu">Stanford University</a>.
-I was part of two groups:
-the <a href = "http://geometry.stanford.edu/member/guibas">Leonidas Guibas Laboratory</a>
-and
-<a href = "http://math.stanford.edu/comptop/">TMSCSCS</a>.  
-<p>
-From July through December 2003, I was
-away from Stanford, traveling
-in five countries.
-During that time, I was a guest researcher</a> at the
-<a href = "http://www.mpi-sb.mpg.de/">Max-Planck-Institut f&uuml;r Informatik</a> in 
-<a href = "http://www.saarbruecken.de">Saarbr&uuml;cken</a>, 
-Germany, for about five months, where I worked with
-<a href = "http://www.mpi-sb.mpg.de/~kettner/">Lutz Kettner</a>.
-<p>
-From October 2001 through June 2003, I was a Post-Doctoral Fellow
-at Stanford.
-<p>
-<b>academic background</b>
-<p>
-I completed my Ph.D. in October 2001 from the 
-<a href = "http://www.cs.uiuc.edu">Department of Computer Science</a>
-at
-<a href = "http://www.uiuc.edu">University of Illinois at
-Urbana-Champaign</a>.  
-I was a <em>Visiting Scholar</em> in the 
-<a href = "http://www.cs.duke.edu">Department of Computer Science</a>
-at
-<a href = "http://www.duke.edu">Duke University</a> from 1999 to 2001
-during my graduate work.
-<br>
-<br>
-Previously, I received my B.S. in Computer Science from the 
-<a href = "http://www.cs.stanford.edu">Department of Computer Science</a>
-at
-<a href = "http://www.stanford.edu">Stanford University</a> in 1996.  I did
-some research on color acquisition and automatic shape acquisition (part of
-the <a href = "http://graphics.stanford.edu/projects/faxing/">3D Fax
-Project</a>) in the 
-<a href = "http://graphics.stanford.edu">Stanford Computer Graphics
-Laboratory</a> as an undergraduate.
-<br>
-<br>
 
-I graduated from 
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
+<ul>
 
-<a href = "http://www.iusd.k12.ca.us/uhs/">University High School</a>
 
-in Irvine, California, in 1992, but I first spent three years in
-<em>Rolling Hills High School</em>, which merged with Palos Verdes and
-Miraleste High Schools to form
+  <li><a href="index.html">About</a></li>
 
-<a href = "http://www.pvphs.com">Palos Verdes 
-Peninsula High School</a>
 
-in 1991.  My family then moved to 
-<a href = "http://www.irvinecompany.com">Irvine</a>.
+  <li><a href="pubs/pubs.html">Publications</a></li>
 
-<!-- ----- Right-hand margin ----- -->
-<td width=25>&nbsp;</td>
-</tr>
-</table>
-<hr align=center noshade>
+
+  <li><a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
+
+
+  <li><a href="students/students.html">Students</a></li>
+
+
+  <li><a href="teaching/teaching.html">Teaching</a></li>
+
+
+  <li><a href="press/press.html">Press</a></li>
+
+
+  <li><a href="links/links.html">Links</a></li>
+
+
+  <li><a href="contact/contact.html">Contact</a></li>
+
+
+</ul>
+
+
+</div>
+
+
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
+<p class="style2">I work on
+developing machine learning techniques for systems that can reason
+about human activities, interactions, and social networks in everyday
+environments. I joined the <a href="http://www.cs.dartmouth.edu">computer
+science department of Dartmouth</a> in 2008. Prior to that I was
+a member of the research staff at <a href="http://www.intel-research.net/seattle/">Intel Research
+Seattle</a>.<br />
+
+
+<br />
+
+
+I received my Ph.D. degree from the <a href="http://www.media.mit.edu/">Media Laboratory</a>
+at the Massachusetts Institute of Technology (MIT). I created the
+sociometer and my&nbsp;<a href="pubs/choudhury_phd_thesis.pdf">thesis</a>&nbsp;was
+the first to show the feasibility of automatically capturing and
+modeling social networks based on face-to-face conversations that occur
+in the physical world. I also hold a B.S. in electrical engineering
+from the <a href="http://www.ece.rochester.edu/">University
+of Rochester</a>, and M.S. from the <a href="http://www.media.mit.edu/">MIT Media Laboratory.</a><br />
+
+
+<br />
+
+
+<span style="font-weight: bold; color: rgb(204, 0, 0); font-style: italic;">What's
+new</span><br />
+
+
+</p>
+<img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /> <a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494">Computer Science -- A Growing Field That Needs a Few (More) Good Women.</a>
+<p class="style2" style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"> </span></p>
+<p class="style2" style="color: rgb(0, 0, 0);"><img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /><span style="color: rgb(0, 0, 0);"> Recipient of&nbsp;National
+Science Foundation <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=0845683">
+Faculty Early Career Development Award</a> (NSF CAREER)</span>.</p>
+
+
+<p class="style2" style="color: rgb(0, 0, 0);"><img style="width: 50px; height: 27px;" alt="TR35logo" src="images/TR35logo.jpg" /><a><span style="color: rgb(0, 0, 0);"> Named
+one of </span></a><a href="http://www.technologyreview.com/tr35/">MIT Technology
+Review's TR 35 for 2008</a>: Top 35 innovators under the age of
+35.<br />
+
+
+</p>
+
+
+<p class="style2"> <img style="width: 38px; height: 27px;" alt="LoCA2009logo" src="images/loca2009.png" /> I am also
+the program co-chair (along with <a href="http://www.cs.ucd.ie/staff/aquigley/home/">Aaron
+Quigley</a>) of <a href="http://loca2009.context-aware.org/">LoCA
+2009</a> (4th International Symposium on Location and
+Context-Awareness)</p>
+<p class="style2"><img style="border: 0px solid ; width: 37px; height: 27px;" alt="AAAIlogo" src="images/image320.jpg" /><a href="http://research.microsoft.com/%7Eakapoor/"> Ashish
+Kapoor</a>, <a href="http://www.cs.rochester.edu/u/kautz/">Henry
+Kautz</a>, and I organized the <a href="http://www.aaai.org/Library/Symposia/Spring/ss09-04.php">AAAI
+Spring 2009 Symposium</a> on <a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09">Human
+Behavior Modeling</a><br />
+
+
+</p>
+
+
+<p class="style2"><br />
+</p>
+
+
+<!-- #EndEditable --></div>
+
+
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="index.html">About</a>
+|
+<a href="pubs/pubs.html">Publications</a> | <a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a> | <a href="students/students.html">Students</a> |
+<a href="teaching/teaching.html">Teaching</a> |
+<a href="press/press.html">Press</a> | <a href="links/links.html">Links</a> | <a href="contact/contact.html"> Contact</a></p>
+
+
+</div>
+
+
+<!-- End Footer --></div>
+
+
+<!-- End content_container --></div>
+
+
+<!-- End Container --><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3810501; var sc_invisible=1; var sc_partition=34; var sc_click_stat=1; var sc_security="9ceb4d35"; </script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a
+href="http://www.statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/3810501/0/9ceb4d35/1/" alt="web stats"
+></a></div></noscript>
+
+
+<!-- End of StatCounter Code -->
 </body>
-ace-i
+</html>
+ad <i

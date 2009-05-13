@@ -1,66 +1,137 @@
-http://www.cs.dartmouth.edu/~map/links.php
+http://www.cs.dartmouth.edu/farid/research/research.html
 3
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
+<html>
 <head>
-    <title>MAP
- | links         
-</title>
-<link rel="stylesheet" href="http://www.cs.dartmouth.edu/~map/include/style.css" type="text/css" /><link rel="icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" />
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Research </title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+<HR>
+<table align=center width=700>
+<tr>
+<td align=center> <font size=-1><b><a href="../home.html">HOME</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../group.html">PEOPLE</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../publications">PAPERS</a></b></font> </td>
+<td align=center> <font size=-1><b>RESEARCH</b></font> </td>
+<td align=center> <font size=-1><b><a href="../teaching">TEACHING</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../tutorials">TUTORIALS</a></b></font> </td>
+</tr>
+</table>
+<HR>
+<p>
 
-<body>
-<div class="outer pc75">
-<div class="inner mg177">
-<div class="title">
-<span class="name"><a href="http://www.cs.dartmouth.edu/~map"><img
-    src="img/map-logo.png" alt="MAP logo"></a></span>
-</div>
-</div>
-</div>
-<div id="navcontainer">
-<ul id="navlist">
-    <li><a href="http://www.cs.dartmouth.edu/~map/index.php" >Home</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/papers.php" >Papers</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/biblio.php" >Bibliography</a></li>
-<li id="active"><a href="http://www.cs.dartmouth.edu/~map/links.php"  id="current">Links</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/wiki.php" >Wiki</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/people.php" >People</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/mapstats.php" >MAP Testbed</a></li>
-</ul>
-<br/>
-<div id="navimgcontainer">
-<a href="http://www.hsarpacyber.com"><img src="img/dhs.jpg" alt="DHS logo" title="Sponsored by HSARPA as part of the Cyber Security Research and Development (CSRD) program" height=100></a>
-<a href="http://www.ists.dartmouth.edu"><img src="img/ists.png" alt="ISTS logo" width=50></a>
-<a href="http://www.arubanetworks.com"><img src="img/aruba.png" alt="Aruba Networks logo"></a>
-<a href="http://www.cs.uml.edu"><img src="img/uml.gif" alt="UMass Lowell logo"></a>
-</div>
-</div>
-<div id="content">
+<table align=center cellpadding=0 cellspacing=0 width=750 border=0>
+<tr>
+<td>
+<p>
+I lead the <a href="../group.html"> Image Science Group</a> whose
+research focuses on digital forensics, image analysis, computer
+vision, and human perception.  Below are short descriptions of some of
+our past and current work (the bold-face headings correspond to our
+most current work).  <BR><BR><BR> 
+</td> 
+</tr> 
+</table>
 
-Some useful 802.11 and VoIP security resources.
 
-<ul>
-    <li><a href="http://www.wifipedia.org/">WiFipedia</a></li>
-    <li><a href="http://802.11-security.com/security/links">802-11
-        security</a></li>
-    <li><a href="http://www.wirelessve.org/">Wireless Vulnerabilities
-        &amp; Exploits</a></li>
-    <li><a href="http://www.drizzle.com/~aboba/IEEE/">The Unofficial
-        802.11 Security Web Page</a></li>
-    <li><a href="http://www.wi-foo.com/">Wi-Foo - The Secrets of
-        Wireless Hacking</a></li>
-    <li><a href="http://www.vopsecurity.org/">Voice over Packet
-        Security</a></li>
-    <li><a href="http://www.voipsa.org/">VoIP Security
-        Alliance</a></li>
-    <li><a href="http://www.voip-info.org/">voip-info.org</a></li>
-</ul>
+<table align=center cellpadding=0 cellspacing=0 width=750 border=0>
+<tr>
+<td width=150 class=xl999> <img src="../icon/bradchericon.gif" border=0 width=64 height=64> </td>
+<td width=150 class=xl999> <img src="../icon/egypticon.gif" border=0 width=64 height=64> </td>
+<td width=150 class=xl999> <img src="../icon/researchicon.gif" border=0 width=64 height=64> </td>
+</tr>
 
-</div>
-</body>
+
+<tr>
+<td class=xl999 align=left valign=top> <b>IMAGE ANALYSIS</b> </td>
+<td class=xl999 align=left valign=top> <b>COMPUTER VISION</b> </td>
+<td class=xl999 align=left valign=top> <b>HUMAN VISION</b> </td>
+</tr>
+
+
+<tr>
+<td   class=xl999> <a href="artforensics.html"> Art Forensics</a> </td>
+<td   class=xl999> <a href="blind2.html">Lens Distortion</a> </td>
+<td   class=xl999> <a href="grouping.motion.html"> Motion Grouping</a>  </td>
+</tr>
+
+<tr>
+<td   class=xl999> <a href="derivative.html"> Derivative Filters</a> </td>
+<td   class=xl999> <a href="blind.html"> Luminance Non-Linearities</a></td>
+<td   class=xl999> <a href="grouping.object.html"> Recognition & Grouping</a></td>
+</tr>
+
+<tr>
+<td   class=xl999> <b><a href="tampering.html">Digital Forensics</a></b>  </td>
+<td   class=xl999> <a href="range.html"> Range Estimation</a> </td>
+<td   class=xl999> <b><a href="search.clutter.html"> Searching Clutter</a></b> </td>
+</tr>
+
+<tr>
+<td   class=xl999> <b><a href="cgorphoto.html"> Graphics or Photo</a></b> </td>
+<td   class=xl999> <a href="../orozco">Reconstructing Orozco</a> </td>
+<td   class=xl999> <a href="grouping.synchrony.html"> Temporal Synchrony</a> </td>
+</tr>
+<tr>
+<td   class=xl999> <a href="steerable.html"> Steerable Filters</a> </td>
+<td   class=xl999> <b><a href="../egypt/reconstruction.html"> Reconstructing Tombs</a></b> </td>
+<td   class=xl999> <a href="grouping.texture.html"> Texture Grouping</a> </td>
+</tr>
+
+<tr>
+<td   class=xl999> <a href="steganography.html">Steganography</a> </td>
+<td   class=xl999> <a href="separation.html"> Separating Reflections</a></td>
+<td   class=xl999> <a href="transparency.html"> Transparency</a> </td> 
+</tr>
+
+<tr>
+<td   class=xl999></td>
+<td   class=xl999> <a href="phototop/"> Surface Topography</a></td>
+</tr>
+
+<tr>
+<td   class=xl999> </td>
+<td   class=xl999> <a href="telepresence.html"> Telepresence</a></td>
+</tr>
+
+<tr>
+<td  colspan=8 class=xl999> &nbsp </td>
+</tr>
+
+
+<tr>
+<td width=70 class=xl999> <img src="../icon/medicalimageicon.gif" border=0 width=64 height=64> </td>
+<td width=70 class=xl999> <img src="../icon/compbioicon.gif" border=0 width=64 height=64> </td>
+<td width=70 class=xl999> <img src="../icon/magicicon.gif" border=0 width=64 height=64> </td>
+</tr>
+
+<tr>
+<td  class=xl999 align=left valign=top> <b>MEDICAL IMAGING</b> </td>
+<td  class=xl999 align=left valign=top> <b>COMPUTATIONAL BIOLOGY</b> </td>
+<td  class=xl999 align=left valign=top> <b>MISC.</b> </td>
+</tr>
+
+<tr>
+<td   class=xl999> <a href="imageneuro.html">Image-Guided Neurosurgery</a></td>
+<td   class=xl999> <a href="msclassify.html">Mass. Spec. Classify</a></td>
+<td   class=xl999> <a href="fracderiv.html">Fractional Derivative</a></td>
+</tr>
+
+
+<tr>
+<td   class=xl999> <a href="registration.html">Image Registration</a></td>
+<td   class=xl999> <b><a href="morphologicalevolution.html">Morphological Evolution</a></b></td>
+<td   class=xl999> <a href="fracFourier.html"> Fractional Fourier </a> </td>
+</tr>
+
+<tr>
+<td   class=xl999></td>
+<td   class=xl999> <a href="protein.html"> Protein Design</a></td>
+</tr>
+
+</table>
+
 </html>
-rmani
+es<ai

@@ -1,84 +1,94 @@
-http://www.cs.dartmouth.edu/~wbc/suditour/003/index.html
+http://www.cs.dartmouth.edu/farid/research/cgorphoto.html
 3
 <html>
-  <head>
-    <title>003</title>
-  </head>
-  <body link="black" alink="black" vlink="black">
-    <h2>Computers in Sudikoff 003</h2>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-    <table border=3>
-      <tr>
-	<td width=60> </td>
-	<td width=60> </td>
-	<td width=30> </td>
-	<td width=60> </td>
-	<td width=60> </td>
-	<td width=30> </td>
-	<td width=60> </td>
-      </tr>
-      <tr>
-	<td width=60>happyfeet<br>windows</td>
-	<td width=60>shrek<br>windows</td>
-	<td width=30> </td>
-	<td width=60>robots<br>windows</td>
-	<td width=60>polarexpress<br>windows</td>
-	<td width=30> </td>
-	<td width=60><br>windows</td>
-      </tr>
-      <tr>
-	<td width=60>iceage<br>windows</td>
-	<td width=60>cars<br>windows</td>
-	<td width=30> </td>
-	<td width=60>madagascar<br>windows</td>
-	<td width=60>incredibles<br>windows</td>
-	<td width=30> </td>
-	<td width=60>franconia<br>linux</td>
-      </tr>
-      <tr>
-	<td width=60>antz<br>windows</td>
-	<td width=60>findingnemo<br>windows</td>
-	<td width=30> </td>
-	<td width=60>jimmyneutron<br>windows</td>
-	<td width=60>titanae<br>windows</td>
-	<td width=30> </td>
-	<td width=60>stratton<br>linux</td>
-      </tr>
-      <tr>
-	<td width=60>toystory<br>windows</td>
-	<td width=60>monstersinc<br>windows</td>
-	<td width=30> </td>
-	<td width=60>overthehedge<br>windows</td>
-	<td width=60>bugslife<br>windows</td>
-	<td width=30> </td>
-	<td width=60>s003<br>printer</td>
-      </tr>
-    </table>
+<title> Computer Generated or Photographic? </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-    <table>
-      <tr>
-	<td>
-	  <a href="../photos/s003-1.jpg"><img src="../photos/s003-1t.jpg"></a>
-	</td>
-	<td>
-	  <a href="../photos/s003-2.jpg"><img src="../photos/s003-2t.jpg"></a>
-	</td>
-	<td>
-	  <a href="../photos/s003-3.jpg"><img src="../photos/s003-3t.jpg"></a>
-	</td>
-	<td>
-	  <a href="../photos/s003-4.jpg"><img src="../photos/s003-4t.jpg"></a>
-	</td>
-	<td>
-	  <a href="../photos/s003-5.jpg"><img src="../photos/s003-5t.jpg"></a>
-	</td>
-	<td>
-	  <a href="../photos/s003-6.jpg"><img src="../photos/s003-6t.jpg"></a>
-	</td>
-      </tr>
-    </table>
+<table align=center width=750 border=0>
+<tr>
 
-updated April 04 2007<br>
-  </body>
+<td valign=top > 
+<b> Computer Generated or Photographic? </b>
+<BR>
+<p>
+
+Computer graphics rendering software is capable of generating highly
+photorealistic images that are often very difficult to differentiate
+from photographic images.  We have, however, developed a method for
+differentiating between photographic and computer generated
+(photorealistic) images. Specifically, we have shown that a
+statistical model based on first- and higher-order wavelet statistics
+reveals subtle but significant differences between photographic and
+photorealistic images.  This work has begun to have interesting <a
+href="../publications/tr04a.html">legal applications</a> in light of
+the 2002 United States Supreme Court ruling that effectively legalized
+"virtual child pornography".
+
+<BR><BR>
+
+In related work, we have developed techniques to detect traces of <a
+href="tampering.html">digital tampering</a>, and to detect the
+presence of <a href="steganography.html">hidden messages</a> embedded
+within digital images.
+
+<BR><BR>
+
+<a href="cgorphoto.m">Matlab routines</a>
+
+<BR><BR>
+
+<i>(Collaborative work with 
+<a href="http://www.cs.albany.edu/~lsw"> Siwei Lyu</a>)</i>
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top> <IMG SRC="cgorphoto.jpg" width=284 height=360> <BR>
+<div align=right> <font size=-1> <i>
+CG image by Mihai Anghelescu
+</i></font></div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan=3>
+<BR><BR>
+<b>Contact me at <a href=http://hanyfarid.org/maat/>Ma'at Consulting</a> for more
+information about our consulting services.</b> <BR><BR>
+</td>
+</tr>
+
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Photorealistic Rendering: How Realistic Is It? <a href="../publications/vss07.html">(vss07)</a>
+  <li>Natural Image Statistics for Digital Image Forensics <a href="../publications/slthesis05.html">(thesis05)</a> <BR>
+  <li>How Realistic is Photorealistic? <a href="../publications/sp05b.html">(sp05)</a> <BR>
+  <li>Creating and Detecting Doctored and Virtual Images: Implications to The Child Pornography Prevention Act <a href="../publications/tr04a.html">(tr04a)</a> <BR>
+  <li>Higher-Order Wavelet Statistics and their Application to Digital Forensics <a href="../publications/sacv03.html">(sacv03)</a> 
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
 </html>
-i
+
+

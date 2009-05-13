@@ -1,76 +1,116 @@
-http://www.cs.dartmouth.edu/~rangak/Personal.html
+http://www.cs.dartmouth.edu/~afra/teaching.html
 3
-<html><head>
+<html>
+<head>
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+<title>Afra's Teaching</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
 
-<link type="text/css" href="index.css" rel="stylesheet" title="default"></head><body>
+<body bgcolor=#ffffff >
 
-<div id="pageHeader">
-					<h1>
-					<br>Ranganath Kondapally
-	<!--					<a>
-						<xsl:attribute name="href">
-							<xsl:value-of select="soul/logo/about/link/url"/>
-						</xsl:attribute>
-					<img>
-						<xsl:attribute name="src">
-							../images/<xsl:value-of select="soul/logo/image"/>
-						</xsl:attribute>
-						<xsl:attribute name="alt">
-							<xsl:value-of select="soul/logo/description"/>
-						</xsl:attribute>
-					</img> 
-					</a>-->
-				</h1>
-				</div>
+<hr align=center noshade>
 
+<table cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
 
-	<div id="direct">
-		<h1>
+<!-- ----- Left-hand side navbar ----- -->
+<td align=right>
+<font size="+1" align=right>
+afra<br>
+zomorodian<br>
+<br>
+</font>
+<a href="./">home</a><br>
+<a href="personal.html">personal</a><br>
+<a href="book.html">book</a><br>
+<a href="papers.html">papers</a><br>
+<b>teaching</b><br>
+<a href="goodies.html">goodies</a><br>
+<br><br>
+</td>
 
+<!-- ----- Interior left margin ----- -->
+<td width=25>&nbsp;</td> 
 
-				<a href="index.html">Home</a>
-				<a href="Research.html">Research</a>
-				<a href="Resume.html">Resume</a>
-				<a href="Personal.html">Personal</a>
-				<a href="Contact.html">Contact</a>
-		</h1>	
-	</div>
-						<div id="central">
-<!--	<div id="derived">
-				<p>
-					<br>
-					<br>
-					<br>
-				<a href="http://iiit.net/">About IIIT</a><br><br>
+<!-- ----- Page body ----- -->
+<td>
 
-				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/resources.html">Resources</a><br><br>
-				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/research.html">Research</a><br><br>
-				<a href="http://students.iiit.ac.in/%7Eranganath/rpl/xml/index.php">Papers Library</a><br><br>
-				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/courses.html">Courses</a>
-					<br><br><br><br>
-					<br><br><br><br>
-					<br><br><br><br>
-					<br><br><br><br>
-					<br><br><br>
-				</p>
-	</div>
-	-->			<div id="mesg">
-		<p id="intro">
-			Loading...........				
-		</p>
+<!-- ----- Interior table for content ---- -->
+<table cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+
+<!-- ----- Eye candy ---- -->
+<td>
+<table cellspacing=0 cellpadding=0 border=0>
+<tr><td align = center valign = top><br></td></tr>
+<tr><td align = center valign = top><img  src="images/2.png" width=90></td></tr>
+<tr><td align = center valign = top><br></td></tr>
+<tr><td align = center valign = top><img  src="images/3hole.png" width=100></td></tr>
+<tr><td align = center valign = top><br></td></tr>
+</table>
+</td> 
+
+<!-- ----- Margin ----- -->
+<td width=25>&nbsp;</td> 
 
 
-				</div>
-				</div>
+<!-- ----- Content, finally ----- -->
+<td>
 
-				<div id="end">
-				<br>
-				</div>
-				<div id="bottom">
-				Designed &amp; maintained by K.Ranganath . Any queries/problems mail to 
-rangak AT cs [.] dartmouth [.] edu
-				<br>
-Microsoft Windows Terminal Services, Windows Vista and Windows Server 2008 are trademarks of Microsoft. <br>Acknowledments to www.mezzoblue.com/zengarden for css resources and help
-				
-				</div>
-			</body></html>ø
+<!-- <h4>Winter 2008 Courses</h4>
+<ul>
+</ul>
+-->
+
+<h4>Courses Taught</h4>
+<p>
+All courses at 
+<a href = "http://www.cs.dartmouth.edu">Dartmouth College</a>, 
+unless noted otherwise.
+<ul>
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/ct">Introduction to 
+Computational Topology (COSC 85/185)</a>, Spring 2009.
+</ul>
+<p>
+<ul>
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter09">Discrete
+    Mathematics for Computer Science (COSC 19)</a>, Winter 2009.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs44/winter09">Artificial Intelligence (COSC 44)</a>,
+  Winter 2009.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter08/">Discrete
+    Mathematics for Computer Science (COSC 19)</a>, Winter 2008.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/cs44/winter08">Artificial Intelligence (COSC 44)</a>,
+  Winter 2008.
+<li><a href = 
+"http://www.cs.dartmouth.edu/~afra/courses/ct/spring07/">Introduction to 
+Computational Topology (COSC 85/185)</a>, Spring 2007.
+<li><a href =
+"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter07/">Discrete
+Mathematics for Computer Science (COSC 19)</a>, Winter 2007.
+<li><a href =
+"http://graphics.stanford.edu/courses/cs468-04-winter/">Introduction to
+Computational Topology (CS 468)</a>, 
+<a href = "http://www.cs.stanford.edu">Stanford University</a>, Winter 2004.
+<li><em>Mini-Kurse:  Topology for Computing</em>, 
+<a href = "http://www.mpi-inf.mpg.de/">Max-Planck-Institut f&uuml;r 
+Informatik</a>, Winter 2003.
+<li><a href =
+"http://graphics.stanford.edu/courses/cs468-02-fall/">Introduction to
+Computational Topology (CS 468)</a>, 
+<a href = "http://www.cs.stanford.edu">Stanford University</a>, Fall 2002.
+</ul>
+</td>
+</table>
+<!-- ----- Right-hand margin ----- -->
+<td width=32>&nbsp;</td>
+</tr> 
+</table>
+<hr align=center noshade>
+</body>
+</html>

@@ -1,39 +1,18 @@
-http://www.cs.dartmouth.edu/~data/sudi_db
+http://www.cs.dartmouth.edu/~tim/bio
 3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head><title>Search Sudikoff Computer Database</title></head>
+  <head>
+    <title>Bio</title>
+  </head>
 
-<body>
-<table width=600 border=0>
-   <tr>
-	<td width=150 heigth=150 align=center>
-	<img src=bear_oval.jpg>
-	</td>
+  <body bgcolor="#000033" text="#CCCCFF" link="#FFFFFF" vlink="#FFFFFF" alink="#CCFFCC">
+    <center><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><h1>Bio</h1></center>
 
-	<td width=450 heigth=150 align=center>
-	<font size=5>
-	<b>Search Sudikoff Computer Database</b>
-	</font>
-	</td>
-    </tr>
+It is hard to write about oneself. Here is what someone else wrote about me:
+<a href="profile.pdf">bio</a>
 
-    <tr>
-	<td></td>
-	<td>
-	<p><br><br>
-	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_search.cgi>
-	Search database</a>
-	<p>
-	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_insert.cgi>
-	Insert a Computer into the database </a>
-	<p>
-	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_delete.cgi>
-	Delete a Computer from the database </a>
-	<p>
-	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_update.cgi>
-	Update a Computer in the database </a>
-	</td>
-    </tr>
-</table>
-</body>
+    <hr>
+  </body>
 </html>
+et)i

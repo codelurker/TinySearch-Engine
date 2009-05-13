@@ -1,177 +1,160 @@
-http://www.cs.dartmouth.edu/~afra/book.html
-3
-<html>
+http://www.cs.dartmouth.edu/~tanzeem/students/students.html
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-<title>Afra's Book</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
+
+
+  
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+
+
+  
+
+
+
+  
+  <title></title>
+<!-- #EndEditable -->
+  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+
+  
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+  </style>
 </head>
 
-<body bgcolor=#ffffff >
 
-<hr align=center noshade>
+<body>
 
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign=top>
 
-<!-- ----- Left-hand side navbar ----- -->
-<td align=right>
-<font size="+1" align=right>
-afra<br>
-zomorodian<br>
-<br>
-</font>
-<a href="./">home</a><br>
-<a href="personal.html">personal</a><br>
-<b>book</b><br>
-<a href="papers.html">papers</a><br>
-<a href="teaching.html">teaching</a><br>
-<a href="goodies.html">goodies</a><br>
-<br><br>
-</td>
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
 
-<!-- ----- Interior left margin ----- -->
-<td width=25>&nbsp;</td> 
 
-<!-- ----- Page body ----- -->
-<td>
+<h3>Assistant Professor</h3>
 
-<!-- ----- Interior table for content ---- -->
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign=top>
 
-<!-- ----- Eye candy ---- -->
-<td>
-<table cellspacing=0 cellpadding=0 border=0>
-<tr><td><img src="thesis/1mbn.ribbons.jpg" width = 100></td></tr>
-<tr><td><br></td></tr>
-<tr><td><img align=left src="thesis/zKFI.24893.8137.v1.gif" width = 100></td></tr>
-<tr><td><br></td></tr>
-<tr><td><img align=left src="thesis/gramicidincycles.gif" width = 100></td></tr>
-<tr><td><br></td></tr>
-<tr><td><img align=left src="thesis/fivetetra.gif" width = 100></td></tr>
-<tr><td><br></td></tr>
-<tr><td><img align=left src="thesis/bigbearing.4025.70852.gif" width = 100></td></tr>
-<tr><td><br><br></td></tr>
-<tr><td><img align=left src="thesis/iran.gif" width = 100></td></tr>
-<tr><td><br><br><br></td></tr>
-<tr><td><img align=left src="thesis/zFAU.tfl.gif" width = 100></td></tr>
-</table>
-</td>
+<h4>Computer Science, Dartmouth College</h4>
 
-<!-- ----- Margin ----- -->
-<td width=25>&nbsp;</td> 
 
-<!-- ----- Content, finally ----- --> 
-<td> 
-<b>Topology for Computing</b><br>
-Afra Zomorodian<br>
-Cambridge Monographs on Applied and Computational Mathematics (No. 16)<br>
-<br>
-<a href = "http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521836662">
-Cambridge Catalogue</a><br>
-<a href = "http://books.google.com/books?id=oKEGGMgnWKcC">Google
-  Book Search</a> <img src = "images/new.gif"><br>
-<a href = "http://www.amazon.com/exec/obidos/tg/detail/-/0521836662/qid=1104185117/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-3479416-4472923?v=glance&s=books&n=507846">
-Amazon</a><br>
-</font>
-<p>
-<b>Courses:</b><p>
-In addition to my own 
-<a href = "teaching.html">courses</a> 
-at Stanford, MPII, and Dartmouth, 
-my monograph has been used by other instructors in their courses:
+</div>
+
+
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
 <ul>
-<li><a href = "http://datachallengecooperative.org/math581">Image and Data
-  analysis</a>, 
-<a href = "http://hermay.org/bwc/vixie.html">Kevin R. Vixie</a>,
-<a href = "http://ddma.lanl.gov/team/Members/asaki">Thomas J. Asaki</a>, and
-<a href = "http://www.math.wsu.edu/math/faculty/bkrishna/">Bala
-  Krishnamoorthy</a>, 
-<a href = "http://www.math.wsu.edu/">Washington State University</a>
-<li><a href = "http://cs.nyu.edu/~yap/classes/modeling/06f/">Computational
-Topology and Geometry, 
-<a href = "http://cs.nyu.edu/yap/">Chee Yap</a>, 
-<a href = "http://www.nyu.edu/">New York University</a>
-<li>
-<a href = "http://tclab.kaist.ac.kr/~otfried/cs700fall2006/">Topology for
-Computing</a>, 
-<a href = "http://tclab.kaist.ac.kr/~otfried/">Otfried Cheong</a> and 
-<a href = "http://tclab.kaist.ac.kr/~sunghee/">Sunghee Choi</a>, 
-<a href = "http://www.kaist.ac.kr/">KAIST</a>, Daejeon, Korea
-<li> 
-<a href = "http://www.mpi-inf.mpg.de/~jgiesen/tch/sem06/sem06.html">Computational
-Topology (Seminar)</a>, 
-<a href = "http://www.mpi-inf.mpg.de/~jgiesen/">Joachim Giesen</a> and
-<a href = "http://www.mpi-inf.mpg.de/~msagralo/">Michael Sagraloff</a>,
-<a href = "http://www.mpi-inf.mpg.de/">MPII</a>,
-Saarbr&uuml;cken, Germany
-<li> Computational Topology,
-<a href = "http://www.fmi.uni-sofia.bg/en/lecturers/ci/stavrova">Dimitrina
-Stavrova</a>, 
-<a href = "http://www.uni-sofia.bg/">University of Sofia</a>, Bulgaria 
-</ul>
-If you use my book for your course, please contact me so I may list your
-course.
-<p>
 
-<b>Book Description:</b><p>
-<img align = right src = "images/book.png">
-The emerging field of
-computational topology utilizes theory from topology and the power of
-computing to solve problems in diverse fields. Recent applications include
-computer graphics, computer-aided design (CAD), and structural biology,
-all of which involve understanding the intrinsic shape of some real or
-abstract space. A primary goal of this book is to present basic concepts
-from topology and Morse theory to enable a non-specialist to grasp and
-participate in current research in computational topology. The author
-gives a self-contained presentation of the mathematical concepts from a
-computer scientist's point of view, combining point set
-topology, algebraic topology, group theory, differential manifolds, and
-Morse theory. He also presents some recent advances in the area, including
-topological persistence and hierarchical Morse complexes. Throughout, the
-focus is on computational challenges and on presenting algorithms and data
-structures when appropriate.
-<p>
-This book is based primarily on my doctoral dissertation, available from
-my <a href = "papers.html">papers</a> 
-page.
-It incorporates material developed for my course on computational topology.
-<p>
-<b>Contents:</b>
 
-<ul>
-  <li><b>1. Introduction</b>
-  <li><b>Part I:  Mathematics</b>
-  <ul>
-     <li>2.  Spaces and Filtrations
-     <li>3.  Group Theory
-     <li>4.  Homology
-     <li>5.  Morse Theory
-     <li>6.  New Results
-  </ul>
-  <li><b>Part II:  Algorithms</b>
-  <ul>
-     <li>7.  The Persistence Algorithms
-     <li>8.  Topological Simplification
-     <li>9.  The Morse-Smale Complex Algorithm
-     <li>10.  The Linking Number Algorithm
-  </ul>
-  <li><b>Part III:  Applications</b>
-  <ul>
-     <li>11.  Software
-     <li>12.  Experiments
-     <li>13.  Applications
-  </ul>
+  <li><a href="../index.html">About</a></li>
+
+
+  <li><a href="../pubs/pubs.html">Publications</a></li>
+
+
+  <li><a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a></li>
+
+
+  <li><a href="students.html">Students</a></li>
+
+
+  <li><a href="../teaching/teaching.html">Teaching</a></li>
+
+
+  <li><a href="../press/press.html">Press</a></li>
+
+
+  <li><a href="../links/links.html">Links</a></li>
+
+
+  <li><a href="../contact/contact.html">Contact</a></li>
+
+
 </ul>
-</font>
-</td>
-</table>
-<!-- ----- Right-hand margin ----- -->
-<td width=32>&nbsp;</td>
-</tr> 
-</table>
-<hr align=center noshade>
+
+
+</div>
+
+
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
+<blockquote><span style="font-weight: bold;">Current
+Graduate Students<br />
+
+
+  </span>
+  
+  <ul>
+
+
+    <li><a href="http://www.cs.washington.edu/homes/danny/">Danny
+Wyatt</a>, University of Washington</li>
+
+
+    <li>Daniel Peebles</li>
+    <li><a href="http://www.cs.dartmouth.edu/%7Elinmu/">Mu Lin</a></li>
+
+
+  
+  </ul>
+
+
+  <span style="font-weight: bold;">Undergraduate Students</span><br />
+
+
+  
+  <ul>
+
+
+    <li>Jeff Fielding</li>
+
+
+    
+    <ul>
+
+
+      <li>Senior thesis: Linkability in Activity Inference Data
+Sets</li>
+
+
+    
+    </ul>
+
+
+  
+  </ul>
+
+
+</blockquote>
+
+
+<!-- #EndEditable --></div>
+
+
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="../index.html">About</a> |<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a> | <a href="students.html">Students</a> |
+<a href="../teaching/teaching.html">Teaching</a> |
+<a href="../press/press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
+
+
+</div>
+
+
+<!-- End Footer --></div>
+
+
+<!-- End content_container --></div>
+
+
+<!-- End Container -->
 </body>
 </html>
-
+worldEi

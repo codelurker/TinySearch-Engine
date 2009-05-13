@@ -1,3 +1,144 @@
-http://www.cs.dartmouth.edu/~miluzzo/three
+http://www.cs.dartmouth.edu/~miluzzo/research.html
 3
-xQ)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Emiliano Miluzzo :: projects</title>
+  <style type="text/css">
+
+a.three:link {color: #006600; text-decoration: none}
+a.three:visited {color: #006600; text-decoration: none}
+a.three:hover {background: #000000; color: #FFFFFF}
+
+#coolmenu{
+border: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
+border-bottom-width: 0;
+width: 177px;
+position: absolute; top: 188px; left: 8px;
+background-color: #E6E6E6;
+}
+
+* html #coolmenu{ /*IE only rule, to negate the padding below IE includes in menu width.*/
+width: 177px;
+}
+
+#coolmenu a{
+font: bold 13px Arial;
+padding: 5px;
+padding-left: 20px;
+display: block;
+width: 100%;
+color: black;
+text-decoration: none;
+border-bottom: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+
+#coolmenu a:hover{
+background-color: black;
+color: white;
+}
+
+  </style>
+  <script charset="utf-8" id="injection_graph_func"
+ src="injection_graph_func.js"></script>
+</head>
+<body style="background-image: url(Background.gif);">
+<div
+ style="top: 30px; position: absolute; z-index: 1; left: 245px; width: 317px;"><big><big
+ style="font-weight: bold;"><big><span
+ style="font-family: courier new,courier,monospace;">
+Emiliano Miluzzo</span></big></big><span style="font-style: italic;">
+</span></big></div>
+<a
+ href="http://www.cs.dartmouth.edu/~miluzzo">
+<img style="position: absolute; top: 10px; left: 18px;"
+ src="emi5.jpg" border="0" height="178" width="187"></a>
+<a
+ href="http://www.dartmouth.edu/">
+<img style="position: absolute; top: 20px; left: 900px;"
+ src="dartlogo.gif" border="0" height="94" width="99"></a>
+<img
+ style="position: absolute; top: 70px; left: 245px;"
+ src="stripe.jpg" height="8" width="620"> <img
+ style="position: absolute; top: 630px; left: 245px;"
+ src="stripe.jpg" height="21" width="740"> <img
+ style="position: absolute; top: 430px; left: 8px;"
+ src="dx_band.jpg" height="800" width="177">
+<center><big> </big></center>
+<div id="coolmenu">
+<big><a href="http://www.cs.dartmouth.edu/~miluzzo/index.html">Personal
+Biography</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/research.html">Research</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/publications.html">Publications</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/cv.html">Curriculum
+Vitae</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/links.html">Interesting
+Links</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/download.html">Download</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/photos.html">Pictures</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html">Contact
+Information</a>
+</big>
+<center><big> </big></center>
+</div>
+<div
+ style="top: 117px; left: 245px; position: absolute; z-index: 1; width: 738px;"><big><big><span
+ style="font-style: italic; font-family: Arial;">
+<p><small>Research</small> </p>
+<hr></span></big>
+</big>
+<div style="text-align: justify;"><big><big><span
+ style="font-family: Arial;"></span></big><span
+ style="font-family: Arial;"><br>
+</span></big><span style="font-family: arial;">I am
+currently working on the
+design and development of new protocols and applications for Wireless
+Sensor Networks embedded systems. </span><br
+ style="font-family: arial,sans-serif;">
+<br style="font-family: arial,sans-serif;">
+<span style="font-family: arial,sans-serif;"> I am one of the
+designers of the </span><a
+ style="font-family: arial,sans-serif;" class="three"
+ href="http://www.cs.dartmouth.edu/~sensorlab/funneling-mac">Funneling-MAC</a><span
+ style="font-family: arial,sans-serif;">, as part of the </span><a
+ style="font-family: arial,sans-serif;" class="three"
+ href="http://www.comet.columbia.edu/armstrong">Armstrong Project</a><span
+ style="font-family: arial,sans-serif;">, and
+I'm currently involved in the design and development of </span><a
+ style="font-family: arial,sans-serif;" class="three"
+ href="http://metrosense.cs.dartmouth.edu/">MetroSense</a><span
+ style="font-family: arial,sans-serif;">, a people-centric
+urban sensor network architecture at scale.</span></div>
+
+<div style="text-align: justify;"><big><span style="font-family: Arial;"><small
+ style="font-family: arial,sans-serif;"><br>Check this out, the application 
+that will revolutionize the way social networks work.
+</small>
+<br>
+<br>
+</span></big></div>
+</div>
+<!--<a  href="http://metro1.cs.dartmouth.edu/cenceMe/account/index.php?id=2">-->
+<a  href="http://cenceme.org">
+<img style="position: absolute; top: 430px; left: 490px;"
+ src="cenceme.jpg" border="0" height="74" width="200"></a>
+
+
+<div
+ style="position: absolute; top: 665px; height: 21px; left: 849px; width: 131px;"><big><big><small><small><small
+ style="font-style: italic;"><span style="font-family: verdana;"><small>last
+modified: Feb. 2008</small></span></small></small></small><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></big></big></div>
+<div
+ style="position: absolute; top: 660px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><big><big><small>
+<font size="-1"><small><sup>&copy; Emiliano Miluzzo</sup></small></font>
+</small></big></big></div>
+</body>
+</html>
+n><i

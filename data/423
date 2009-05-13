@@ -1,112 +1,29 @@
-http://www.cs.dartmouth.edu/~sasho/publications.html
+http://www.cs.dartmouth.edu/~wbc/planetlab.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-  <title>Alex Iliev publications</title>
-  <meta http-equiv="content-type"
- content="text/html; charset=ISO-8859-1">
-  <meta name="author" content="Alex Iliev">
-
-  <style type="text/css">
-    li { margin-top: 1ex; }
-  </style>
-
-</head>
-<body>
-<h1>Alex Iliev Publications</h1>
-
-<h2>Refereed Articles</h2>
-
 <ul>
-
-<li>  Alexander Iliev and S. W. Smith.<br>
-<b>Faerieplay on Tiny Trusted Third Parties (Work in
-  Progress)</b><br>
-<cite>WATC '06 Fall: The Second Workshop on Advances in Trusted Computing</cite><br>
-<a href="papers/watc2006-iliev-smith.pdf">Local PDF</a>
-
-<li>Alexander Iliev and Sean Smith<br>
-<b>Protecting Client Privacy with Trusted Computing at
-                  the Server: Two Case Studies</b><br>
-<cite>
-<a href="http://www.computer.org/security/">IEEE Security and Privacy</a>,
-<a
-                  href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isYear=2005&isnumber=30742&Submit32=Go+To+Issue">3(2)</a>
-</cite><br>
-March 2005<br>
-<a
-                  href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=30742&arnumber=1423957&count=15&index=4">IEEE
-                  Xplore article page</a>
-</li>
-
-<li>  Alexander Iliev and Sean Smith.<br>
-<b>Private Information Storage with Logarithmic-space Secure Hardware</b><br>
-<cite>I-NetSec04: 3rd Working Conference on Privacy and Anonymity in Networked
-and Distributed Systems</cite>,<br>
-Kluwer. Aug 2004.<br>
-<a href="papers/iliev-inetsec04.pdf">Local PDF</a>
-
-<li> Alex Iliev and Sean Smith<br>
-<b>Privacy-Enhanced Directory Services</b><br>
-<a href="http://middleware.internet2.edu/pki03/"><cite>PKI Research Workshop
-2003</cite></a>,
-April 2003<br>
-<a href="http://middleware.internet2.edu/pki03/presentations/09.pdf">PDF</a>
-</li>
-
-<li>Alex Iliev and Sean Smith<br clear="all">
-      <b>Prototyping an Armored Data Vault: Rights Management on Big Brother's
-      Computer.</b><br clear="all">
-    <cite>Privacy-Enhancing Technologies 2002</cite>, <a
- href="http://www.springeronline.com/sgw/cda/frontpage/0,11855,4-164-2-72397-0,00.html">Springer-Verlag</a> 
-<a
-      href="http://www.springerlink.com/openurl.asp?genre=issue&issn=0302-9743&volume=2482">LNCS 2482</a>,
-April 2002<br>
-<a href="papers/vault.pdf">Local PDF</a><br>
-</li>
+<li>
+planetlab1 and planetlab2  are linux computers (that don't get the
+Beagle virus) but do run CoDeeN, a proxy server experiment.
+(CoDeeN does log all transactions!  It is not anonymous)
+The planetlab project is based at Princeton, and is a testbed
+for experimenting and developing the internet of the future.
+<li>
+you can read about PlanetLab here.
+<a href="http://www.planet-lab.org/"> http://www.planet-lab.org/ </a>
+<li>
+and about virus complaints here..
+<a href="http://www.planet-lab.org/doc/guides/tech">
+http://www.planet-lab.org/doc/guides/tech  section 5.1 </a>
+<li>
+you can read about CoDeeN here..
+<a href="http://codeen.cs.princeton.edu/">
+http://codeen.cs.princeton.edu/</a>
+<li>
+if you wish to register a complaint you can email.
+support@planet-lab.org
+<li>
+David Kotz (dfk AT cs DOT dartmouth DOT edu) is the Dartmouth PI for the
+PlanetLab project.
 
 </ul>
-
-
-<h2>Technical Reports</h2>
-
-A list of TRs not yet published otherwise.
-
-<ul>
-
-<li>
-Alexander Iliev and Sean Smith<br>
-<b>More Efficient Secure Function Evaluation Using Tiny Trusted Third
-Parties</b><br>
-Dartmouth <a
-href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-551/">TR2005-551</a>,
-July 2005<br>
-<a href="ftp://ftp.cs.dartmouth.edu/TR/TR2005-551.pdf">PDF</a>
-</li>
-
-<li>
-Alexander Iliev and Sean Smith<br>
-<b>Towards Tiny Trusted Third Parties</b><br>
-Dartmouth <a
-href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-547/">TR2005-547</a>,
-July 2005<br>
-<a href="ftp://ftp.cs.dartmouth.edu/TR/TR2005-547.pdf">PDF</a>
-</li>
-</li>
-
-</ul>
-
-
-
-
-<hr width="100%" size="2">Maintained by <a href="./">Alex Iliev</a><br>
-<hr>
-
-<!--time-start-->
-Last modified: May 08, 2007
-<!--time-end-->
-
-</body>
-</html>
 

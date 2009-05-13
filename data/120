@@ -1,202 +1,66 @@
-http://www.cs.dartmouth.edu/farid/group.html
+http://www.cs.dartmouth.edu/farid/job.html
 2
 <html>
+
 <head>
 <LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
 <title> Hany Farid: Image Science Group </title>
 </head>
+
+
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<HR>
-<table align=center width=700>
+<table align=center width=730>
 <tr>
-<td align=center> <font size=-1><b><a href="home.html">HOME</a></b></font> </td>
-<td align=center> <font size=-1><b>PEOPLE</b></font> </td>
-<td align=center> <font size=-1><b><a href="publications">PAPERS</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="research">RESEARCH</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="teaching">TEACHING</a></b></font> </td>
-<td align=center> <font size=-1><b><a href="tutorials">TUTORIALS</a></b></font> </td>
-</tr>
-</table>
-<HR>
-<BR>
+<td width=350>
 
-<table align=center cellpadding=5 width=750>
-<tr>
-<td valign=top align=left valign=top>
-<BR>
-<BR>
-<IMG SRC="group2.png" border="0" width=300 height=237>
-</td> 
+<b>Postdoctoral Research Fellow</b>
 
-<td align=left valign=center> 
-<table>
-<tr><td>
-The research of the <b>Image Science Group</b> focuses on topics in
-digital forensics, image analysis, computer vision, and human perception. 
+<p>
 
+The <a href="http://www.cs.dartmouth.edu/farid/group.html">Image
+Science Group</a> at Dartmouth is searching for a postdoc with skills
+and interest in digital forensics. 
+
+<p>
+
+The candidate must have finished their Ph.D. and have some experience
+in digital forensics, digital image processing, and have strong
+mathematical and programming skills (MatLab and Java a plus).
+
+<p>
+
+The postdoc will work with <a
+href="http://www.cs.dartmouth.edu/farid">Professor Hany Farid</a> and
+his group in the area of <a
+href="http://www.cs.dartmouth.edu/farid/research/tampering.html">digital
+forensics</a>.
+</td>
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top width=360>
 <BR><BR>
-The Image Science Group <a href="isg">repository</a> <BR>
-The Image Science Group <a href="photos/photos.html">photo gallery</a> <BR>
-The Image Science Group Year in Review: <BR>
-&nbsp&nbsp
-        <a href="yearinreview08.html">2008</a> | 
-        <a href="yearinreview07.html">2007</a> | 
-        <a href="yearinreview06.html">2006</a> | 
-        <a href="yearinreview05.html">2005</a> | 
-        <a href="yearinreview04.html">2004</a> | 
-        <a href="yearinreview03.html">2003</a>
+<img src="job.jpg" width=360 height=256>
+</td>
+</tr>
 
-<BR><BR>
-</td> </tr>
-<tr> <td class=xl999>
-We are grateful for the support from: <BR>
-<font size=-1>
-        &nbsp&nbsp National Science Foundation (DBI-0754773), 2008 <BR>
-        &nbsp&nbsp National Science Foundation (CNS-0708209), 2007 <BR>
-        &nbsp&nbsp Department of Homeland Security (2006-CS-001-000001), 2007 <BR>
-        &nbsp&nbsp John Simon Guggenheim Fellowship, 2006 <BR>
-        &nbsp&nbsp US Air Force (FA8750-06-C-0011), 2006 <BR>
-        &nbsp&nbsp National Science Foundation (DEB-0516104), 2005 <BR>
-	&nbsp&nbsp Bureau of Justice Assistance (2005-DD-BX-1091), 2005 <BR>
-        &nbsp&nbsp Department of Homeland Security (2000-DT-CX-K001), 2005 <BR>
-        &nbsp&nbsp Microsoft Corp. 2005, 2006, 2007, 2009 <BR>
-        &nbsp&nbsp Adobe Systems, Inc., 2004, 2006, 2008 <BR>
-	&nbsp&nbsp Sony Music Fellowship, 2004 <BR>
-        &nbsp&nbsp Alfred P. Sloan Fellowship, 2002 <BR>
-	&nbsp&nbsp National Institute of Justice (2000-DT-CX-K001), 2000 <BR>
-	&nbsp&nbsp National Science Foundation CAREER (IIS-99-83806), 1999 <BR>
-	&nbsp&nbsp National Science Foundation (EIA-98-02068), 1998 <BR>
-</font>
-</td></tr>
+<tr>
+<td colspan=3>
+<p>
+Dartmouth College is an Ivy League college with graduate programs in
+the sciences, engineering, medicine, and business. It is located in
+the beautiful small town of Hanover NH, about two hours northwest of
+Boston. Interested candidates should send their vita (pdf) to Hany
+Farid, farid@cs.dartmouth.edu.
+</td>
+</tr>
+
+
+
 </table>
-</td>
-</tr>
-</table>
-
-
-<table align=center cellpadding=3 width=750>
-<tr>
-   <td class=xl999 align=left valign=top colspan=3> 
-     <b>Position Available:</b> <a href=job.html>Postdoctoral Research Fellow</a>
-   </td>
-</tr>
-
-<tr>
-<td class=xl999 align=left valign=top> 
-<b> Current Members</b> <BR>
-        &nbsp&nbsp Daniel Hopkins '10 <BR>
-        &nbsp&nbsp <a href="http://www.cs.dartmouth.edu/~erickee"> 
-	        Eric Kee</a> <BR>
-	&nbsp&nbsp  <a href="http://www.cs.dartmouth.edu/~whwang">
-	        Weihong Wang</BR> </a>
-	&nbsp&nbsp  Bennet Vance</BR>
-	&nbsp&nbsp  Jeff Woodward</BR>
-</td>
-
-<td class=xl999 align=left valign=top> 
-<b> Status</b> <BR>
-        &nbsp&nbsp Math <BR>
-	&nbsp&nbsp Ph.D., CS <BR>
-	&nbsp&nbsp Ph.D., CS <BR>
-	&nbsp&nbsp Programmer <BR>
-	&nbsp&nbsp Programmer <BR>
-</td>
-
-
-<td class=xl999 align=left valign=top>
-<b> Research</b> <BR>
-        &nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
-        &nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
-        &nbsp&nbsp <a href="research/tampering.html">Digital Video Forensics</a> <BR>
-        &nbsp&nbsp - <BR>
-        &nbsp&nbsp - <BR>
-</td>
-</tr>
-
-
-<tr>
-<td class=xl999 align=left valign=top>
-<b> Former Members</b> <BR>
-	&nbsp&nbsp Fred Henle (2002) <BR>
- 	&nbsp&nbsp <a href="http://www.mit.edu/~kimo">
-	        Kimo Johnson</a> (2007)<BR>
-	&nbsp&nbsp <a href="http://www.cs.albany.edu/~lsw/">
-	        Siwei Lyu</a> (2005) <BR>
-	&nbsp&nbsp David Martin '00 <BR>	
-	&nbsp&nbsp Joseph Pechter '04 <BR>
-	&nbsp&nbsp William Pechter '04 <BR>
-	&nbsp&nbsp Senthil Periaswamy (2003)<BR>
-	&nbsp&nbsp Andrew Pierce '02 <BR>
-	&nbsp&nbsp Alin Popescu (2005) <BR>
-	&nbsp&nbsp <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> '03 <BR>
-	&nbsp&nbsp Katherine Sherwin '01 <BR>
-	&nbsp&nbsp Hai Sun (2004)<BR>
-</td>
-
-<td class=xl999 align=left valign=top>
-	<BR>&nbsp&nbsp - <BR>
-	&nbsp&nbsp Ph.D., CS (<a href="publications/mkjthesis07.html">dissertation</a>)<BR>
-	&nbsp&nbsp Ph.D., CS (<a href="publications/slthesis05.html">dissertation</a>)<BR>
-	&nbsp&nbsp Senior Thesis, CS <BR>
-	&nbsp&nbsp Senior Thesis, CS <BR>
-	&nbsp&nbsp Senior Thesis, CS <BR>
-	&nbsp&nbsp Ph.D., CS 
-	           (<a href="publications/spthesis03.html">dissertation</a>)<BR>
-	&nbsp&nbsp Math <BR>
-	&nbsp&nbsp Ph.D., CS (<a href="publications/apthesis05.html">dissertation</a>)<BR>
-	&nbsp&nbsp Religion <BR>
-	&nbsp&nbsp Eng/Phys <BR>
-	&nbsp&nbsp Ph.D., Eng (<a href="publications/hsthesis05.html">dissertation</a>)<BR>
-</td>
-
-<td class=xl999 align=left valign=top>
-	<BR>&nbsp&nbsp <a href="research/animation.html">Animation</a> <BR>
-	&nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
-	&nbsp&nbsp <a href="research/cgorphoto.html">CG or Photo?</a> <BR>
-	&nbsp&nbsp <a href="research/flash.html">Depth from Flash</a> <BR>
-	&nbsp&nbsp Avatar <BR>
-	&nbsp&nbsp Avatar <BR>
-	&nbsp&nbsp <a href="research/registration.html">
-		Medical Image Registration</a> <BR>
-	&nbsp&nbsp <a href="research/reducedim.html">
-		Dimensionality Reduction</a> <BR>
-	&nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
-	&nbsp&nbsp Research Assistant <BR>
-	&nbsp&nbsp <a href="publications/hbm01.html">
-	        Tracking Neuronal Pathways</a> <BR>
-	&nbsp&nbsp <a href="research/imageneuro.html">
-	        Image-Guided Neurosurgery</a><BR>
-</td>
-</tr>
-<tr>
-<td align=left valign=top>
-<b> Collaborators </b> <BR>
-&nbsp&nbsp <a href="http://web.mit.edu/persci/people/adelson/index.html">Ted Adelson</a>
-<BR> 
-&nbsp&nbsp <a href="http://crab.rutgers.edu/~mbravo/home.html">Mary Bravo</a>
-<BR> 
-&nbsp&nbsp David Finnegan 
-<BR>
-&nbsp&nbsp <a href="http://www.enallagma.com">Mark McPeek </a>
-<BR>
-&nbsp&nbsp <a href="http://www.cns.nyu.edu/~eero">Eero Simoncelli</a>
-</td>
-
-<td align=left, valign=top colspan=2>
-<b> Affiliation</b> <BR>
-&nbsp&nbsp Brain and Cognitive Sciences, MIT <BR>
-&nbsp&nbsp Psychology, Rutgers <BR>
-&nbsp&nbsp Cold Regions Research and Engineering Laboratory <BR>
-&nbsp&nbsp Biology, Dartmouth <BR>
-&nbsp&nbsp Center for Neural Science, NYU 
-</td>
-</tr>
-</table>
-
-<BR><BR>
 
 </body>
 </html>

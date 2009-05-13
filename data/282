@@ -1,177 +1,51 @@
-http://www.cs.dartmouth.edu/~igorpapa/research.htm
+http://www.cs.dartmouth.edu/~csrs/history.html
 3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta http-equiv="Content-Language" content="en-us">
-<title>Research</title>
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<meta name="Microsoft Theme" content="axis 011, default">
+<title>Computer Science Research Symposium '08</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<body background="_themes/axis/axibkgnd.gif" bgcolor="#FFFFFF" text="#000000" link="#339933" vlink="#996600" alink="#CC9900"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="150" colspan="2" align="center"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <img border="0" src="resear2.jpg" width="171" height="132"><!--mstheme--></font></td>
-    <td align="center"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <!--webbot bot="Navigation" s-type="banner" s-rendering="graphics" S-Orientation B-Include-Home B-Include-Up U-Page S-Target startspan --><img src="_derived/research.htm_cmp_axis010_bnr.gif" width="600" height="150" border="0" alt="Research"><!--webbot bot="Navigation" i-checksum="20405" endspan --> <!--mstheme--></font></td>
-  </tr>
-</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td style="border-bottom-style: solid; border-bottom-width: 1" align="right"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <h4 align="left">&nbsp;<!--webbot bot="Navigation" S-Orientation="horizontal" S-Rendering="graphics" S-Type="siblings" B-Include-Home="TRUE" B-Include-Up="FALSE" startspan --><script language="JavaScript"><!--
-MSFPhover = 
-  (((navigator.appName == "Netscape") && 
-  (parseInt(navigator.appVersion) >= 3 )) || 
-  ((navigator.appName == "Microsoft Internet Explorer") && 
-  (parseInt(navigator.appVersion) >= 4 ))); 
-function MSFPpreload(img) 
-{
-  var a=new Image(); a.src=img; return a; 
-}
-// --></script><script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/home_cmp_axis010_hbtn.gif"); MSFPnav1h=MSFPpreload("_derived/home_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="index.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/home_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Home" align="middle" name="MSFPnav1"></a> <img src="_derived/research.htm_cmp_axis010_hbtn_p.gif" width="140" height="46" border="0" alt="Research" align="middle"> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav2n=MSFPpreload("_derived/CV.htm_cmp_axis010_hbtn.gif"); MSFPnav2h=MSFPpreload("_derived/CV.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="CV.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="_derived/CV.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="C.V. / Resume" align="middle" name="MSFPnav2"></a> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/favorite.htm_cmp_axis010_hbtn.gif"); MSFPnav3h=MSFPpreload("_derived/favorite.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="favorite.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/favorite.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Interests" align="middle" name="MSFPnav3"></a> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav4n=MSFPpreload("_derived/photo.htm_cmp_axis010_hbtn.gif"); MSFPnav4h=MSFPpreload("_derived/photo.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="photo.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="_derived/photo.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Usefull URL's" align="middle" name="MSFPnav4"></a> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav5n=MSFPpreload("_derived/end.htm_cmp_axis010_hbtn.gif"); MSFPnav5h=MSFPpreload("_derived/end.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="end.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src"><img src="_derived/end.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Interests" align="middle" name="MSFPnav5"></a><!--webbot bot="Navigation" i-checksum="36382" endspan --></h4>
-    <!--mstheme--></font></td>
-  </tr>
-</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="75" style="border-left-style:none; border-left-width:medium; border-right-style:solid; border-right-width:1; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<p>&nbsp;</p>
-    <!--mstheme--></font></td>
-    <td valign="top" width="5" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
-    <td valign="top" width="100%" height="100%" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <center>
-    <p align="left"><b><font size="4">Microrobotics / MEMS (MicroElectroMechanical 
-    Systems)</font></b></p>
-    <p align="left">The focus of my Ph.D. thesis is to develop a microrobotic system that can achieve
-    controlled microassembly. Our robots measure 250 x 60 
-    x 12 microns, and are
-    created from polycrystaline silicon. Our work on multi-microrobotic systems 
-    yielded first example of cooperating microrobots. We have used our 
-    interacting devices to implement a novel microassembly scheme. </p>
-    <p align="left"><b>Microrobot Movies:</b></p>
-    <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">
-    <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-553/">An 
-    Untethered, Electrostatic, Globally-Controllable MEMS Micro-Robot</a></p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-    <!--msthemelist--></table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left"><b>Publications (selected):</b></p>
-    <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">Planar Microassembly by Parallel Actuation of MEMS 
-    Microrobots (with B. R. Donald and C. Levey). <i>Journal 
-    of Microelectromechanical Systems</i>, 2008, in press.</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">Assembly of Planar Structures by Parallel Actuation of MEMS 
-    Microrobots (with B. R. Donald and C. Levey). <i>Technical Digest of the 
-    2008 Solid-State Sensor and Actuator Workshop</i>, 2008, in press.</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">An Untethered, Electrostatic, Globally-Controllable MEMS 
-    Micro-Robot (with B. R. Donald, C. Levey, C. McGray, and D. Rus). <i>Journal 
-    of Microelectromechanical Systems</i>, 2006; 15(<b>1</b>):1-15. [<a href="http://www.cs.dartmouth.edu/~igorpapa/jmems06-pdf-reprint.pdf">PDF</a>,
-    <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-553/">
-    Supplementary Material (Videos)</a>]</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">A Steerable, Untethered, 250 x 60 µm MEMS Mobile Micro-Robot 
-    (with B. R. Donald, C. Levey, C. McGray, and D. Rus). <i>12th International 
-    Symposium of Robotics Research (ISRR)</i>, October 12-15, 2005, San 
-    Francisco, CA. [<a href="http://www.cs.dartmouth.edu/~igorpapa/ISRR2005_Final_DonaldPaprotny.pdf">PDF</a>]</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-    <!--msthemelist--></table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left"><b>In Press:</b></p>
-    <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">
-    <a href="http://www.dartmouth.edu/~news/releases/2005/09/14.html">Dartmouth 
-    press release (2005), video, and photos</a>.</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">
-    <a href="http://www.nytimes.com/2005/10/11/science/11FIND.html">New York 
-    Times, 10/11/05</a> [<a href="http://www.cs.dartmouth.edu/~igorpapa/NYTimes10-11-05-with-banner.pdf">PDF</a>]</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">
-    <a href="http://www.newscientist.com/article.ns?id=dn8007&feedId=online-news_rss20">
-    New Scientist, 9/16/05 </a></p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left"><a href="http://msnbc.msn.com/id/9356412/">MSNBC, 9/15/05</a> </p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">Discover Magazine, 2006: 26(2), p.16. [<a href="http://www.cs.dartmouth.edu/~igorpapa/discover-magazine06.pdf">PDF</a>]</p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">
-    <a href="http://www.popsci.com/popsci/technology/generaltechnology/411ca91bc98b7010vgnvcm1000004eecbccdrcrd.html">
-    Popular Science</a> </p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-    <!--msthemelist--></table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">&nbsp;</p>
-    <p align="left"><b><font size="4">Operations Research / Discrete-Event Simulation / 
-    Semiconductor Process 
-    Optimization </font></b></p>
-    <p align="left">This research area constituted my  graduate work during my 
-    Masters Degree and and working with Semiconductor Factory (Fab) Automation. The main research project, which I was involved with over many 
-    years in cooperation with PRI Automation, AutoSimulations, SimCon and
-    <a href="http://www.brooks.com/">Brooks Automation</a>, aimed at 
-    streamlining the Discrete-Event Simulation (DES) process. I developed a 
-    number of tools which provided the capabilities of automatic model 
-    generation, and were designed mainly to support logistics planning&nbsp; in 
-    the 
-    Semiconductor industry. </p>
-    <p align="left"><b>Publications (selected):</b></p>
-    </center>
-    <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-      <p align="left">Streamlining the Fab Design Process through Rapid Modeling 
-      and Design Environment (RMDE) (with&nbsp; W. Hellinck) <i>MASM 2002, 
-      International Conference on Modeling and Analysis of Semiconductor 
-      Manufacturing</i>, 2002, Phoenix, AZ. <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-      <p align="left">A Methodology for Synthesizing Distributed Embodiment in 
-      Homogenous Multi-Agent Systems. Masters Thesis, Arizona State University, 
-      May 2001.<!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-      <p align="left">Emulating the Run-Time Behavior of a Conservative 
-      Distributed Semiconductor Manufacturing Simulation (with J. Fowler)&nbsp;
-      <i>2001 International Conference on Semiconductor Manufacturing 
-      Operational Modeling and Simulation (SMOMS01)</i>, 2001, Seattle, WA. [<a href="http://www.cs.dartmouth.edu/~igorpapa/Paprotny_SMOMS.pdf">PDF</a>]<!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/axis/aaxibul1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-      <p align="left">Reducing Model Creation Cycle Time by Automated Conversion 
-      of a CAD AMHS Layout Design (with W. Zhao, G. T. Mackulak ) <i>1999 Winter 
-      Simulation Conference</i>, 1999, Phoenix, AZ. [<a href="http://www.cs.dartmouth.edu/~igorpapa/Wsc99_Paprotny.pdf">PDF</a>]</p>
-    <center>
-      <p></p>
-      <!--mstheme--></font><!--msthemelist--></td></tr>
-    <!--msthemelist--></table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">&nbsp;</p>
-    </center></li>
-    <!--mstheme--></font></td>
-  </tr>
-</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-<p align="center"><small>
-<!--webbot bot="Navigation" S-Orientation="horizontal" S-Rendering="html" S-Bar="Bars" S-Btn-Nml="&lt;A HREF=&quot;#URL#&quot; TARGET=&quot;#TARGET#&quot; STYLE=&quot;text-decoration: none;&quot;&gt;#LABEL#&lt;/A&gt;" S-Btn-Sel="#LABEL#" S-Btn-Sep="&amp;nbsp;|&amp;nbsp;" S-Type="siblings" B-Include-Home="TRUE" B-Include-Up="FALSE" startspan --><nobr><A HREF="index.htm" TARGET="" STYLE="text-decoration: none;">Home</A></nobr>&nbsp;|&nbsp;<nobr>Research</nobr>&nbsp;|&nbsp;<nobr><A HREF="CV.htm" TARGET="" STYLE="text-decoration: none;">C.V.&nbsp;/&nbsp;Resume</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="favorite.htm" TARGET="" STYLE="text-decoration: none;">Interests</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="photo.htm" TARGET="" STYLE="text-decoration: none;">Usefull&nbsp;URL&#39;s</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="end.htm" TARGET="" STYLE="text-decoration: none;">Interests</A></nobr><!--webbot bot="Navigation" i-checksum="48087" endspan -->
-</small></p>
-<p><i><small>This site was last updated
-<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%m/%d/%y" startspan -->05/02/08<!--webbot bot="Timestamp" i-checksum="13270" endspan --> </small></i>
-</p>
+<body>
+<img src="banner.jpg">
 
-<!--mstheme--></font></body>
+<br>
+<br>
+<br>
 
-</html>
+<table style="text-align: left;" width=85%>
+
+<tr>
+<td width=10%></td>
+<td valign="top">
+<table class="navbar">
+<tr><td><a href="index.html">Home</a></td></tr>
+<tr><td><a href="schedule.html">Program</a></td></tr>
+<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
+<tr><td><a href="history.html">History</a></td></tr>
+<tr><td><a href="faq.html">FAQ</a></td></tr>
+<tr><td><a href="contact.html">Contact Us</a></td></tr>
+</table>
+</td>
+
+<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
+
+<td>
+
+<h3>Previous editions of the CSRS</h3>
+<hr width=80%>
+
+<table>
+<tr><td><a href="2006/index.html">CSRS 2006</a></td></tr>
+<tr><td><a href="2007/index.html">CSRS 2007</a></td></tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body></html>
+
+
+
+

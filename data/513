@@ -1,76 +1,73 @@
-http://www.cs.dartmouth.edu/farid/research/imageneuro.html
+http://www.cs.dartmouth.edu/farid/publications/hsthesis05.html
 3
 <html>
 <head>
 <LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-<title> Image-Guided Neurosurgery </title>
+<title> Hany Farid: Papers </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=750 border=0>
+<table align=center width=650>
 <tr>
-<td valign=top > 
-<b> Image-Guided Neurosurgery </b>
-<BR>
-<p>
-Magnetic resonance (MR) and computed tomography (CT) images provide a
-detailed 3-D description of patient anatomy.  During neurosurgery it
-is often desirable to establish a correspondence between these
-pre-operative images and real-time images of the patient (as shown to
-the right).  In so doing, the position of a surgical target (e.g., a
-tumor), clearly visible in the MR or CT image, can be more easily
-visualized by the surgeon.
+<td>
+
+<dl>
+<dt> <b>  Stereopsis-Guided Brain Shift Compensation  </b>
+<dd> H. Sun <i> (advisor: H. Farid and K. Paulsen) </i>
+<dd> Ph.D. Dissertation, Thayer School of Engineering,
+     Dartmouth College, 2005 
 
 <BR><BR>
+<dd>	<a href="hsthesis05.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#sun05">Bibtex</a>
 
-We have developed a system that allows for the real-time overlay of
-pre-operative MR or CT imagery onto a surgeon's operating microscope
-view.  To accomplish this, our system estimates the transformation
-between the pre-operative image space and the continually changing
-surgical space - this estimation must be accurate to within 1 mm.
+        
+</dl>
+<p><BR>
 
-<BR><BR>
+Brain deformation models have proven to be a powerful tool in
+compensating for soft tissue deformation during image-guided
+neurosurgery. The accuracy of these models can be improved by
+incorporating intraoperative measurements of brain motion. We have
+designed and implemented a passive intraoperative stereo vision (iSV)
+system capable of estimating the 3-D shape of the surgical scene in
+near real-time. The motion of the estimated cortical surface is then
+tracked over time. This cortical motion is used to guide a full brain
+model, which subsequently updates a preoperative MR volume. We have
+found that the iSV system is accurate to within approximately
+1mm. Executing on a 1.1 GHz Pentium machine, the 3-D estimation from a
+stereo pair of 1024 x 768 resolution images requires approximately 60
+seconds of computation. Based on data from representative clinical
+cases, we show that stereopsis guidance improves the accuracy of brain
+shift compensation both at and below the cortical
+surface. Specifically, we report an average error reduction of 3.7mm
+relative to the model estimate without using intraoperative data. In
+addition, advantages of our iSV system include its fast acquisition
+rates, predominantly automated steps, and overall accuracy. These
+characteristics allow us to capture other important cortical behavior
+such as the tissue resection and the pulsatile motion of the cortical
+surface. 
 
-<i>(Collaborative work with Hai Sun and <a
-href="http://engineering.dartmouth.edu/thayer/faculty/keithpaulsen.html">Keith
-Paulsen</a>)</i>
-
-<td> &nbsp&nbsp </td>
-
-<td valign=top> <IMG SRC="imageneuro.jpg" width=304 height=304> <BR>
 </td>
 </tr>
 </table>
 
 <HR>
-
-
-<table align=center width=750>
+<table align=center width=650>
 <tr>
-<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></t\
-d>
-
-<td width=500 valign=top><font size=-1><i>
-<ol>
-  <li>Stereopsis-Guided Brain Shift Compensation <a href="../publications/medimg05.html">(medimg05)</a> <BR>
-  <li>Cortical Surface Tracking Using a Stereoscopic Operating Microscope <a href="../publications/neuro05.html">(neurosurgery05)</a> <BR>
-  <li>Stereopsis-Guided Brain Shift Compensation <a href="../publications/hsthesis05.html">(thesis05)</a> <BR>
-  <li>A Non-Contacting 3-D Digitizer for Use in Image-Guided Neurosurgery <a href="../publications/sfn03.html">(sfn03)</a> <BR>
-  <li>Estimating Cortical Surface Motion Using Stereopsis for Brain Deformation Models <a href="../publications/miccai03a.html">(miccai03)</a> <BR>
-  <li>A Non-Contacting 3-D Digitizer For Use in Image-Guided Neurosurgery <a href="../publications/assfn03.html">(assfn03)</a> <BR>
-  <li>Real-time Correction Scheme for Calibration and Implementation of Microscope-Guided Neurosurgery <a href="../publications/spie02.html">(spie02)</a>
-</ol>
-</i></font> </td>
-
+<td align=left>
+<i><a href="../research/imageneuro.html">Related material</a></i>
+</td>
 <td valign=top align=right>
-        <font size=-1><i>
+	<i>
         <a href="../home.html"> Home</a> &nbsp &nbsp
-        <a href="research.html"> Research</a>
-        </i></font>
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
 </td>
 </tr>
 </table>
 </html>
-lei
+i

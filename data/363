@@ -1,319 +1,42 @@
-http://www.cs.dartmouth.edu/~lkf/papers.html
+http://www.cs.dartmouth.edu/~thc/software.html
 3
-<!DOCTYPE HTML SYSTEM "html.dtd">
-<HTML><HEAD><TITLE> Lisa Fleischer: Papers </TITLE></HEAD>
-<BODY BGCOLOR="FFFFee" TEXT="000000" LINK="0000C1" VLINK="FF0000" 
-ALINK="FF6CF8">
-<h2> Research of <a href = index.html > Lisa K. Fleischer</a> </h2>
-<p> 
-If you would like to receive a copy of a paper not available here,
-you can email me at my three initials at cs dot dartmouth dot edu.
-<p>
-I work in design of algorithms for problems in
-network routing and design, game theory, combinatorial optimization, 
-linear and integer programming.
-My research focusses on both exact algorithms and approximation algorithms.  
-<p>
-Some recent papers:
-<p>
-<b>  
-Equilibria of Atomic Flow Games are not Unique
-</b> <br>
-(with Umang Bhaskar, Darrell Hoy, Chien-Chung Huang) 
-To appear in SODA, January 2009.  
-<A href="papers/bhaskaru.pdf">pdf</A>. 
-<p>
-<b>  
-Submodular Approximation: Sampling-Based Algorithms and Lower Bounds
-</b> <br>
-(with Zoya Svitkina) To appear in FOCS, October 2008. 
-<A href="papers/submopt8.pdf">pdf</A>. 
-<p>
-<b>  
-Fast-Converging Tatonnement Algorithms for One-Time and Ongoing Market Problems
-</b> <br> (with Richard Cole) STOC, May 2008. 
-<A href="papers/fp299-rev1.pdf">pdf</A>. 
-<p>
-<b> Prompt Mechanisms for Online Auctions </b> <br>
-(with Richard Cole and Shahar Dobzinski) Symposium on Algorithmic Game Theory, 
-April 2008.
-<A href="papers/online.pdf">pdf</A>. 
-<p>
-<b> Simple Cost-Sharing Schemes for Multicommodity Rent-or-Buy and Stochastic
-Steiner Tree </b> <br>
-(with J. Konemann, S. Leonardi, and G. Schaefer) STOC, May 2006.
-<A href="papers/stoc06.pdf">pdf</A>. 
-<p>
-<b>
-Ordering by Weighted Number of Wins Gives a Good Ranking for 
-Weighted Tournaments </b> <br>
-(with D. Coppersmith and A. Rudra).
-<i> 17th Annual Symposium on Discrete Algorithms (SODA), </i> 
-January, 2006. <A href="papers/fas.pdf">pdf</A>. 
-<p>
-<b>
-Tight Approximation Algorithms for Maximizing General
-Assignment Problems </b> <br>
-(with M. Goemans, V. Mirrokni, and M. Sviridenko).  
-<i> 17th Annual Symposium on Discrete Algorithms (SODA), </i>
-January 2006. <A href="papers/soda06-sap.pdf">pdf</A>. 
-<p>
-<b>
-Tolls for Heterogeneous Selfish Users in Multicommodity Networks and
-Generalized Congestion Games </b> <br> 
-(with K. Jain and M. Mahdian).
-<i> 45th Annual Symposium of the Foundations of Computer Science (FOCS), </i>
-October, 2004, 277-285. <A href="papers/tolls16.ps.gz">ps.gz</A>, 
-<A href="papers/tolls16.pdf">pdf</A>. 
-<p>
-<b>
-Linear Tolls Suffice: New Bounds and Algorithms for Tolls in
-Single Source Networks</b> <br>
-<i> Theoretical Computer Sci. </i> <b> 348</b>:2-3 (2005), 217-225.
-Special issue devoted to ICALP 2004.
-<A href="papers/tolls-journal.ps.gz">ps.gz</A>. 
-<A href="papers/tolls-journal.pdf">pdf</A>. 
-<p>
-<b>
-Quickest Flows Over Time </b> <br>
-(with M. Skutella). To appear in <i> SIAM J. Computing </i>. 
-<A href="papers/FS2.pdf">pdf</A> 
-<br>
-Journal version combining parts of a SODA 2003 paper
-and an IPCO 2002 paper (listed below).
-<p>
-<b>
-Efficient Algorithms for Separated Continuous Linear Programs:
-the Multicommodity Flow Problem </b> <br>
-<b> with Holding Costs and Extensions. </b> (with Jay Sethuraman). 
-<i> Math. of Operations Research </i>. <b> 30</b>:4 (2005), 916-938.  
-<A href="papers/mhc-mor.pdf">pdf</A> 
-<br>
-Extended, improved version of SODA 2003 extended abstract:
-<b> Approximating Optimal Control of Fluid Networks </b>
-<p>
-<b> Further Improvements in Competitive Guarantees for QoS Buffering </b>
-<br>
-(with N. Bansal, T. Kimbrel, M. Mahdian, B. Schieber, M. Sviridenko).
-<br>
-<i> 31st Annual Colloquium on Autonomata, Languages, and Programming (ICALP) 
-</i> July 2004, 196-207.  
-<A href="papers/buffer-icalp.ps.gz">ps.gz</A>. 
-<A href="papers/buffer-icalp.pdf">pdf</A>. 
-<p>
-<b> 
-Polynomial-Time Separation of a Superclass of Simple Comb Inequalities
-</b> <br> 
-(with A. Letchford and A. Lodi)
-To appear in <i> Math. of Operations Research </i>
-<A href="papers/simpleDPfinal.ps.gz"> ps.gz</A>.
-<A href="papers/simpleDPfinal.pdf">pdf</A>
-<p>
-<b>
-Iterative Rounding 2-Approximation Algorithms for Minimum-Cost
-Vertex Connectivity Problems </b> <br>
-(with K. Jain and D. P. Williamson) 
-To appear in <i> Journal Comput. System Sci. </i> special issue
-devoted to FOCS 2001. <br>
-(Combines FOCS 2001 paper and IPCO 2001 paper listed below.)
-<A href="papers/iterative6.ps.gz"> ps.gz</A>.
-<A href="papers/iterative6.pdf">pdf</A>
-<P>
-Some other papers organized by topic:
-<ul>
-<li>
-<a href = "#time"> network routing and scheduling</a> 
-</li> <li>
-<a href = "#submod"> submodular functions </a> 
-</li> <li>
-<a href = "#multi"> multicommodity flows and approximation schemes for linear programs</a> 
-</li> <li>
-<a href = "#connect"> network design and connectivity </a> 
-</li> <li>
-<a href = "#tsp"> TSP and other graph problems </a> 
-</li> 
-<p>
-<hr> </p>
+<html> <head>
+<title>Other Software by Tom Cormen</title>
+</head>
 
-<H2><A NAME="time"></A> Network Routing and Scheduling </H2>
-<p>
-<b>
-Minimum Cost Flows Over Time without Intermediate Storage </b>
-(with Martin Skutella). 
-<i> 35th ACM/SIAM Symp. on Discrete Algorithms (SODA), </i>
-January 2003, 66-75.  
-<A href="papers/cost-soda.pdf">pdf</A> contains
-a section not in the above SICOMP paper.
-<p>
-<b>
-The Quickest Multicommodity Flow Problem </b> 
-(with Martin Skutella). 
-<i> Integer Programming and Combinatorial Optimization (IPCO) 
-Conference Proceedings </i>, LNCS 2337, May 2002, 36-53.
-<A href="papers/FS-ipco02.ps.gz">ps.gz</A> 
-<p>
-<b>
- Universally Maximum Flow with Piece-wise 
-Constant Capacity Functions </b>
-<i> Networks </i>, <b> 38 </b> (2001), no. 3, 1-11.
-(Extended abstract appeared in Proceedings of IPCO 1999.)
-<p>
-<b>
-Optimal Rounding of Instantaneous Fractional Flows Over Time </b> 
-(with James B. Orlin).  <i> SIAM J. on Discrete Math. </i>
-<b> 13 </b> (2000), no.2, 145-153.
-<A href="papers/FO-journal.ps.gz">ps.gz</A>
-<P> 
-<b> Faster Algorithms for the Quickest Transshipment Problem.</b>  
-<i> SIAM J. on Optimization </i> <b> 12 </b> (2001), no. 1, 18-35.
-(This is a revision of extended abstract in SODA 1998.)
-<P>
-<b> Efficient Continuous-Time Dynamic Network Flow Algorithms </b> (with
-Eva Tardos), <I> Operations Research Letters </i> <b> 23 </b> 
-(1998) pp. 71-80.
-<P>
-<b> 
-Scheduling Parallelizable Tasks to Minimize Average Response Time </b>
-(with J. Turek, W. Ludwig, J. L. Wolf, P. Tiwari, J. Glasgow,
-U. Schweigelshohn, P. S. Yu), <i> ACM Symposium on Parallel Algorithms
-and Architectures (SPAA) </i> Cape May, 1994.
-<p>
-<hr> </p>
+<body>
+<h1>Other Software</h1>
 
-<H2><A NAME="submod"></A> Submodular Functions </H2>
+<dl>
+  <dd>
+       <IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=TOP>
+       <strong><a
+       href="ViC/index.shtml">ViC*</a>:</strong>
+       a language and runtime system to support out-of-core data-parallel
+       computing with C*.
+       
 <p>
-<b>
-A Push-Relabel Framework for Submodular Function Minimization
-and Applications to Parametric Optimization </b> (with Satoru Iwata)
-<i> Discrete Applied Mathematics </i>, <b> 131 </b> (2003) 311-322.
-Special issue on submodularity.
-<A href="papers/prsf6.ps.gz">ps.gz</A>.
-<A href="papers/prsf6.pdf">pdf</A>
+       <dd>
+       <IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=TOP>
+       <strong><a
+       href="http://www.netlib.org/mpi/contrib/bmmc.tgz">libbmmc_mpi.a</a>:</strong>
+       a library to perform fast BMMC permutations for any multiprocessor
+       system that supports MPI.
+       
 <p>
-<b>
-A Combinatorial, Strongly Polynomial-Time Algorithm 
-for Minimizing Submodular Functions
-</b> (with Satoru Iwata and Satoru Fujishige), 
-<i> Journal of the ACM </i> <b> 48 </b> (2001), no. 4, 761-777.
-<A href="papers/sfm.ps.gz">ps.gz</A>.
-<A href="papers/sfm.pdf">pdf</A>
-(An extended abstract appeared in STOC 2000.)
-<p>
-<b>
-Improved Algorithms for Submodular Function Minimization and Submodular
-Flow </b>
-(with Satoru Iwata)
-<i> Proceedings of the 32nd ACM Symposium on Theory of Computing </i>,
-May, 2000.
-<p>
-<b>
-A Faster Capacity Scaling Algorithm for Minimum Cost Submodular Flow </b>
-(with Satoru Iwata and S. Thomas McCormick)
-<i> Math. Programming </i> <b> 92 </b> (2002), no. 1, 119-139.
-<A href="papers/subflow.ps.gz">ps.gz</A>.
-<A href="papers/subflow.pdf">pdf</A>
-<p>
-<b>
-Recent Progress in Submodular Function Minimization </b>
-<i> OPTIMA: Mathematical Programming Society Newsletter </i>, 
-September 2000, no.64, 1-11.
-<p>
-<hr> </p>
-
-<H2><A NAME="multi"></A> Multicommodity Flows and Approximation Schemes
-for Linear Programs </H2>
-<p>
-<b>
-Fast Approximation Algorithms for Fractional Covering Problems
-with Box Constraints </b> 
-<i> Proceedings of the 36th ACM/SIAM Symposium on Discrete Algorithms </i>,
-January 2004.  Journal version: <A href="papers/lp-journal.ps.gz"> ps.gz</A>.
-<A href="papers/lp-journal.pdf">pdf</A>
-<p>
-<b>
-A Scalable Algorithm for the Minimum Expected Cost, Restorable Flow Problem
-</b>, (with Adam Meyerson, Iraj Saniee, Bruce Shepherd, and Aravind Srinivasan)
-Presented at DIMACS <A href = "http://dimacs.rutgers.edu/Workshops/QoS/">
-Mini-Workshop</a> on Quality of Services Issues on the 
-Internet, February, 2001, as 
-<a href = "http://dimacs.rutgers.edu/Workshops/QoS/abstracts.html#fleischer">
-Fast and efficient bandwith reservation for robust routing</a>.
-Preliminary version available as 
-<a href = "http://www.corc.ieor.columbia.edu/"> CORC</a>
-technical report TR-2003-10.  February 2004 version:
-<A href="papers/recovery22.ps.gz"> ps.gz</A>.
-<A href="papers/recovery22.pdf"> pdf</A>.
-<p>
-<b>
-Approximating Fractional Multicommodity Flows Independent of
-the Number of Commodities </b>,
-<i> SIAM J. Discrete Math. </i> <b> 13 </b> (2000), no. 4, 505-520.
-<A href="papers/lpmulti.ps.gz"> ps.gz</A>.
-<A href="papers/lpmulti.pdf"> pdf</A>.
-(This is a revision of extended abstract in FOCS 1999.)
-<p>
-<b> 
-Fast and Simple Approximation Schemes for Generalized Flow </b> 
-(with Kevin D. Wayne).  
-<i> Math. Programming </i> <b> 91 </b> (2002), no 2, 215-238.
-<A href="papers/packing5.ps.gz"> ps.gz</A>.
-<A href="papers/genflow.pdf"> pdf</A>.
-(This is a generalization of an extended abstract in SODA 1999.)
-<p>
-<hr> </p>
+       <dd>
+       <IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=TOP>
+       <strong><a
+       href="clrscode">clrscode</a>:</strong> a package for LaTeX2e that
+     allows you to typeset pseudocode just as we do in <i>Introduction
+     to Algorithms</i>, Second edition.
+       
+</dl>
 
 
-<H2><A NAME="connect"></A> Network Design and Connectivity </H2>
-<p>
-<b>
-An Iterative Rounding 2-Approximation Algorithm for the 
-Element Connectivity Problem 
-</b> (with Kamal Jain and David Williamson).  
-<i> 42nd Annual Symposium of the Foundations of Computer Science </i>, 
-(October 2001), 339-347.
-<p>
-<b>
-A 2-approximation for Minimum Cost {0,1,2} Vertex
-Connectivity </b>.
-<i> Proceedings of Integer Programming and Combinatorial Optimization </i>
-(June 2001), 115-129. 
-<p>
-<b>
-Strengthening Integrality Gaps for Capacitated Network Design and
-Covering Problems </b>
-(with Robert D. Carr, Vitus J. Leung, and Cynthia A. Phillips)
-<i>Proceedings of the 11th ACM/SIAM Symposium on Discrete Algorithms,</i>
-January 2000.  
-<A href="papers/soda6.ps.gz"> ps.gz</A>.
-<A href="papers/soda6.pdf">pdf</A>
-<p>
-<hr> </p>
-
-<H2><A NAME="tsp"></A> TSP and other graph problems </H2>
-
-<P>
-<b> 
-Separating Maximally Violated Combs in Planar
-Graphs </b> (with Eva Tardos), 
-<i> Mathematics of Operations Research </i> <b> 24 </b>:1 
-(1999) pp. 130-148.  (This is a revision
-of extended abstract in IPCO 1996.)
-<p> 
-<b>
-Building Chain and Cactus Representations of All Minimum Cuts
-from Hao-Orlin in the Same Asymptotic Run Time. </b>
-<i> Journal of Algorithms </i> 33 (1999) no. 1, 51-72.
-(This is revision of extended abstract in IPCO 1998.)
-<p>
-<b>
-On Identifying Strongly Connected Components in Parallel </b>
-(with Bruce Hendrickson and Ali Pinar)
-<i> Proceedings of IRREGULAR </i> 2000, LNCS 1800, 505-511.
-Simplified version also with Don Coppersmith available
-as IBM Research Report RC23744: 
-<A href="http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/d8e3597a4172437b8525709f006e42b0?OpenDocument">pdf</A>
-<p>
-</P>
-<HR>
-<ADDRESS> Last updated March 2008.</ADDRESS>
-</BODY></HTML>
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Wed Aug 31 22:12:08 2005
+<!-- hhmts end -->
+</body> </html>

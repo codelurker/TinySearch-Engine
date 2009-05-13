@@ -1,87 +1,114 @@
-http://www.cs.dartmouth.edu/~niclane/index.html
+http://www.cs.dartmouth.edu/~ltzeng/page.html
 3
-<html>
-<head>
-<title>Nicholas D. Lane</title>
-<style type="text/css">
-  html, body {
-	  margin: 0px;
-		padding: 0px;
-		font-family: monospace;
-  }
+<HTML>
+<HEAD>
+  <TITLE>inside my web house</TITLE>
+  <STYLE>
+    <!--
+      a { text-decoration: none }
+     -->
+  </STYLE>
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#ffffff" LINK="#6666ff" VLINK="#9933cc">
 
-  h3,h2,h1 {
-   padding: 0px;
-	 margin: 0px;
-	 margin-top: 0px;
-	 margin-bottom: 0px;
-	}
-</style>
-</head>
-<body>
-<table cellpadding=0 background=\"white\" border=\"0\" width="*" height="100%" cellspacing=0>
-<tr valign=top>
-	<td bgcolor="#444444">
-		<img src='me_sm.jpg'>
-	</td>
-	<td>
-		<table cellpadding=0 background=\"white\" border=\"0\" width="500px" height="*" cellspacing=6>
-		<tr>
-			<td width="105">
-				<div valign='top' align='left'>
-				<img src='logo.jpg'>
-			</td>
-			<td >
-				<h1>Nicholas D. Lane</h1>
-					niclane at cs dot dartmouth dot edu<BR>
-					<BR>
-					<a href='index.html'>index</a> | <a href='papers.html'>papers</a> | <a href='talks.html'>talks</a> |
-					<a href='meetings.html'>meetings</a> | <a href='resume.pdf'>resume</a>
-			</td>
-		</tr>
-		<tr cellpadding=5 cellspacing=5>
-			<td colspan=2 cellpadding=5 cellspacing=5 >
-			    <BR>
-					<h2>What's new</h2>
-					Hong Lu, Wei Pan, Nicholas D. Lane, Tanzeem Choudhury, Andrew T. Campbell, "Scalable Sound Sensing
-					for People-Centric Sensing Applications on Mobile Phones", ACM MobiSys 2009, Kraków, Poland, 22-25
-					June 2009.
-					<BR><BR>
-					<h2>Interests</h2>
-					Mobile phone based sensing applications and systems. Intersection of machine learning, mobile
-					systems and computer networking.
-					<BR><BR>
-          <h2>Affiliations</h2>
-					I work with some great people as part of: the <a
-					href='http://www.cs.dartmouth.edu/~sensorlab/'>Sensor Networks Group</a>, the <a
-					href='http://metrosense.cs.dartmouth.edu'>MetroSense</a> project and <a
-					href='http://cenceme.org'>CenceMe</a>. 
-          <BR><BR>
-					<h2>My Research</h2>
- I am a 4th year PhD student working with <a href='http://www.cs.dartmouth.edu/~campbell'>Andrew T.
- Campbell</a> in the Sensor Lab at Dartmouth. My research interests
- revolve around people-centric sensing applications and systems. I am an experimentalist who likes
- to build prototype mobile sensing systems based on well founded models.  I have worked on a variety of
- sensing platforms (e.g., mote-class sensors, mobile phones) and have experience not only in evaluating
- network and system performance but have conducted a number of user studies and analyzed sensor data; for
- example, when designing classifiers that recognize forms of human behavior.  Results from my research have
- been published in number of conferences including ACM SenSys, ACM MobiSys, Pervasive, and HotMobile. I have
- worked on a number of aspects of people-centric sensing systems including: system architecture, applications
- (e.g., CenceMe), localization, calibration, sensor co-ordination and the classification of high level events
- (e.g., music is playing) from a wide range of low-level sensor modalities (e.g., audio, location,
-		 accelerometer). I have also worked in industry before leaping into research.
-			  </tt>
-			</td>
-		</tr>
-		</table>
-	</td>
-</tr>
-</table>
-</body>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-639085-1";
-urchinTracker();
-</script>
-</html>
+<CENTER>
+<TABLE height="100%"><TR><TD align=center>
+
+<TABLE width="70%" cellspacing=4 cellpadding=4>
+  <TR>
+    <TD>
+
+       <FONT COLOR="#DD0000">
+       <B>
+       "It's humans versus demonic critters -- I prefer being the
+       demonic critters."
+       </B>
+       </FONT>
+
+       <BLOCKQUOTE>
+       That's my former officemate/roommate for you.  Hmmm...
+       </BLOCKQUOTE>
+
+       <FONT COLOR="#DD0000" SIZE=5>
+       <P>Here are a few other random things.</P>
+       </FONT>
+
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+      <PRE>
+      RANT
+
+        Cross references:
+           1. bombast             
+     
+        1. rant \'rant\ \-in-le-\ vb [obs. D ranten, randen] 
+           1: to talk in a noisy, excited, or declamatory manner 
+	   2: to scold vehemently : to utter in a bombastic 
+              declamatory fashion - rant.er n - rant.ing.ly av
+
+        2. rant n 1a: a bombastic extravagant speech 
+           1b: bombastic extravagant language 
+           dial Brit 2: a rousing good time
+      </PRE>
+      <BLOCKQUOTE>     
+         I like to write <A
+         HREF="http://damia90e.blogspot.com/">rants</A>.
+      </BLOCKQUOTE>
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+
+      I do various <A HREF="activities/">activities</A>.  
+      I have some <A HREF="friends.html">friends</A>.
+      Here are some <A HREF="Fall03/">pictures</A> from Fall 2003.
+
+      <BLOCKQUOTE>
+      I keep an <A HREF="lists.html">obligatory list of links</A> to
+      completely random things.
+      </BLOCKQUOTE>
+
+      Here is something amazingly <A
+      HREF="http://www.allanna.net/">cute</A>.
+
+    </TD>
+  </TR>
+
+<!--//
+  <TR>
+    <TD>
+
+      <P>&nbsp;</P>
+
+      <BLOCKQUOTE>
+      I also have a <A HREF="http://www.al2.com/~ltzeng">VERY OLD
+      homepage</A>.  This is the page I made in 1995.  The only thing
+      of interest there is my <A
+      HREF="http://www.al2.com/~ltzeng/nongeek.html">Non-Geek
+      Page</A>.  The site is completely obsolete.  I'm in the process
+      of retiring it, but like I said, I don't have much time to spend
+      on this...
+      </BLOCKQUOTE>
+
+    </TD>
+  </TR>
+
+  <TR>
+    <TD align="center">
+
+      <P>&nbsp;</P>
+      <FONT SIZE="+2"><A HREF="http://www.cs.dartmouth.edu/~kitchen">Kitchen Crew Page</A></FONT>
+
+    </TD>
+  </TR>
+//-->
+
+</TABLE>
+
+</TD></TR></TABLE>
+</CENTER>
+
+</BODY>
+</HTML>

@@ -1,78 +1,75 @@
-http://www.cs.dartmouth.edu/~mckeeman/cs118/index.html
+http://www.cs.dartmouth.edu/~doug/explan.html#words
 3
-<!-- FILE:    index.html
-     PURPOSE: CS118 Information
-     MODS:    Rebelsky - 1996.03    - original
-              McKeeman - 1999.07.22 - revised for Spring 2000
-              McKeeman - 2002.03.25 - revised for Spring 2002
-              McKeeman - 2002.04.05 - revised for Spring 2003
-              McKeeman - 2007.03.26 - revised for Spring 2007
-              McKeeman - 2007.03.25 - revised for Spring 2008
-  -->
-
 <html>
 <head>
-<title>CS118: Course Information</title>
+<title>Gallery explanation</title>
 </head>
-
-<body bgcolor="#FFF0D0">
-
-<!-- the following table head provides margins and textbook like appearance -->
-<table>
-<tr><td></td></tr>
-<tr><td width=50></td><td width=600>
-
-<h2><a href="index.html">CS118</a> Programming Languages</h2>
-<h1><a href="http://www.cs.dartmouth.edu">Department of Computer Science</a></h1>
-<h2>Course Information</h2>
-
+<body>
+<h1>Notes on the <a href="index.html#gallery">gallery</a></h1>
+<h2><a name="maps"> Maps from my Christmas cards</a></h2>
 <p>
-This web of documents serves as guide to Dartmouth's graduate course in 
-<a href =
-"http://www.cs.dartmouth.edu/academics/grad/cs_118.html">
-<em>Programming Languages</em></a>.
-</p>
-
-<P>
-    <A HREF="xcom/README.html">xcom README</A>
-</P>
-
-<P>
-Certain portions of the class materials will be made available only as
-as printed handouts. 
-See my linux home directory ~mckeeman/xcom/README.html 
-for specific information about the 2008 offering.
-</P>
-
+<b>Ring of Fire.</b>  The great chain of volcanoes is usually depicted
+as surrounding the Pacific Ocean.  Here the perspective is
+reversed and the volcanoes surround the continents.
+<blockquote>
+Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:
+For I, saith the Lord, will be unto her a wall of fire round about.
+&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;Zechariah 2:4-5
+</blockquote>
 <p>
-<a href="course_guide.html">Course Guide</a><p>
-<a href="course_content.html">Course Content</a><p>
-<a href="course_assignments.html">Assignments</a><p>
-<a href=lectures>Lecture Plans</a><p>
-<a href="references/references.html">References</a><p>
-<a href="course_software.html">Course Software</a><p>
-</p>
+<b>Jerusalem Trefoil.</b>  Three circles of different sizes are drawn 
+on the globe roughly to encompass each of three continents, with each
+circle passing through Jerusalem.  Then the circles are
+stretched conformally into trefoil leaves.
+<p>
+<b>Way to go.</b>  On this map for shepherds and magi a line from any point 
+to Bethlehem shows the great-circle direction
+to Bethlehem (but not the great circle itself).
+Within the inner hemisphere directions are conventional;
+north up, east to the right.  Within the outer hemisphere they
+are inverted--north down, east still to the right.
+Peter McIlroy suggested this
+arrangement of the hemispheres, which are usually
+presented as two conventionally oriented sheets.
 
+<h3>Conformal polygonal hemispheres</h3>
+<b><a href="maps/penta.jpg">Big star.</a></b> Northern and 
+southern hemispheres are pentagons.
+<p>
+<b><a href="maps/hex.jpg">Sea whirled.</a></b> 
+Hemispheres are
+triangles, with which the plane can be tiled continuously.
+The orientation here (hemispheres bounded by 80&deg;E and 100&deg;W;
+vertices at 90&deg;S and 30&deg;N) is chosen to display the continuity
+of the major oceans. In an extended tiling,
+the coastlines of North
+America and Eurasia would be trebled like Antarctica's.
+<p>
+Two decades after the math for conformal polygons was published
+(H. A. Schwarz, 1869), conformal square hemispheres
+appeared in cartography (C. S. Peirce, 1888),
+but triangles came considerably later (O. S. Adams,
+1925) and pentagons not for a century
+(J. P. Snyder, unpublished).
+My <a href="map.tar.gz">map program</a> can draw the 3- through 8-sided members
+of this series.
+<h2><a name="words">Word squares</a></h2>
+<p>These squares, which I found by
+exhaustive search in Webster's Collegiate Dictionary, were
+nominated as best of their sizes by
+the nonpareil word-gamester, Dmitri Borgmann;
+see A. Ross Eckler, <em>Making the Alphabet Dance</em>,
+St. Martin, 1995.
+More squares have been published in 
+<a href="http://www.wordways.com"><em>Word Ways</em></a>;
+see my <a href="doug.bib">bibliography</a>.
+A <a href="squares.c">C program</a> for the search
+still exists, simplified from the original, which had to be
+contorted to squeeze into a tiny DEC PDP-11.
 <hr>
-
-<p>
-<table>
-<tr><td>
-Created:
-</td><td>
-<i>March 26, 1996</i>
-</td></tr>
-<tr><td>
-Last modified:
-</td><td>
-<i>March 25, 2008</i>
-</td></tr>
-</table>
-</p>
-
-<!-- the following table end provides margins and textbook like appearance -->
-</td><td width=50></td></tr>
-</table>
-
+<a href="index.html">Doug McIlroy's home page</a>
+<hr>
+<em>Modified January 6, 2009.</em>
+<br><br>
 </body>
 </html>

@@ -1,3 +1,159 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit&amp;section=2
+http://www.cs.dartmouth.edu/~cbk/nmr.html
 3
-XDxQ)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Research : NMR Assignment</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<p>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>NMR Assignment</div><br>
+
+<table cellpadding=0>
+<tr>
+<td><img src="images/spectrum.jpg" alt="spectrum"></td>
+<td width=25>&nbsp;</td>
+<td><img src="images/nmr-graph.jpg" alt="graph"></td>
+</tr>
+</table>
+
+<p>Nuclear magnetic resonance (NMR) spectroscopy allows scientists to
+study protein structure, dynamics, and interactions in solution.  A
+necessary first step required for such applications is determining the
+resonance assignment, mapping spectral data (e.g. figure above left)
+to atoms and residues in the primary sequence.  Automated resonance
+assignment algorithms rely on information regarding connectivity
+(e.g. through-bond atomic interactions) and amino acid type.  We are
+pursuing a graph-based approach (figure above right) that abstracts
+possible connectivity information as edges between residue vertices,
+based on possible matches between spectral peaks.  The edges in the
+graph, in combination with sequence information, then drive the
+assignment process.  Unfortunately there is a great deal of ambiguity
+in edges; the above graph illustrates a correct subgraph (red)
+obscured by some such noise (black).</p>
+
+<p>We are studying several problems and approaches in automated NMR
+resonance assignment.  We are developing a random graph model
+capturing the correlation structure in ambiguous edges, and we are
+using this model as the basis for an efficient algorithm for
+characterizing, from connectivity information alone, consistent sets
+of connected fragments.  Further, we are studying the combination of
+connectivity and sequence information and developing a Bayesian
+statistical model that properly accounts for sources of uncertainty.
+This model allows quantification of the overall amount of information
+used, which can vary widely across experimental labs.  By measuring
+the overall plausibility of assignments, we can base our analysis on
+all assignments (not just the optimal one) that are supported by the
+data.  Finally, we are pursuing an approach based on connectivity
+information in the unassigned NOESY (through-space) spectrum; for
+example, the above figure actually shows a portion of the
+connectivities in a beta sheet, as detected by the <i>Jigsaw</i>
+program.  Our work here generalizes sequential connectivies to higher
+dimensions (2D and even 3D).</p>
+
+<b>Papers</b>
+<ul>
+<li>F. Xiong, G. Pandurangan, and C. Bailey-Kellogg,
+"Contact replacement for NMR resonance assignment", Proc. ISMB, 2008;
+published in <i>Bioinformatics</i>, 2008, 24:i105-i213.
+<a href="abs.html#ismb08">abstract</a>.
+<a href="http://bioinformatics.oxfordjournals.org/cgi/content/full/24/13/i205">official version</a>.
+<a href="papers/ismb08.pdf">preprint</a>.</li>
+  
+<li>F. Xiong and C. Bailey-Kellogg, "A hierarchical
+grow-and-match algorithm for backbone resonance assignments
+given 3D structure", Proc. IEEE BIBE, 2007, pp. 403-410.
+<a href="abs.html#bibe07">abstract</a>.
+<a href="papers/bibe07.pdf">preprint</a>.</li>
+
+<li>H. Kamisetty, C. Bailey-Kellogg, and G. Pandurangan, "An
+efficient randomized algorithm for contact-based NMR backbone
+resonance assignment", <i>Bioinformatics</i>, 2006, 22:172-80.
+<a href="abs.html#bioinformatics06">abstract</a>.
+<a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/bti786?ijkey=j9Hh0m4DczPaHmu&keytype=ref">official abstract</a>.
+<a href="http://bioinformatics.oxfordjournals.org/cgi/reprint/bti786?ijkey=j9Hh0m4DczPaHmu&keytype=ref">paper</a>.
+</li>
+
+<li>O. Vitek, C. Bailey-Kellogg, B. Craig, and J. Vitek, "Inferential
+backbone assignment for sparse data", <i>J. Biomolecular NMR</i>, 
+2006, 35:187-208.  <a href="abs.html#jbnmr06">abstract</a>.  
+<a href="http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10858-006-9027-8">official version</a>.
+</li>
+
+<li>O. Vitek, C. Bailey-Kellogg, B. Craig, P. Kuliniewicz, J. Vitek,
+"Reconsidering complete search algorithms for protein backbone NMR
+assignment", Proc. ECCB, 2005, published in <i>Bioinformatics</i>, 2005, 
+21:ii230-236.
+<a href="abs.html#eccb05">abstract</a>.  
+<a href="papers/eccb05.pdf">pdf</a>.  
+</li>
+
+<li>C. Bailey-Kellogg, S. Chainraj, and G. Pandurangan, "A Random
+Graph Approach to NMR Sequential Assignment", <i>J. Comp. Biol.</i>,
+2005, 12:569-583.
+<a href="http://www.liebertonline.com/doi/abs/10.1089/cmb.2005.12.569">paper</a>.<br/>
+Conference version: Proc. RECOMB, 2004, pp. 58-67.
+<a href="abs.html#recomb04">abstract</a>.
+<a href="papers/recomb04.pdf">pdf</a>.
+</li>
+
+<li>O. Vitek, J. Vitek, B. Craig, and C. Bailey-Kellogg, "Model-based
+assignment and inference of protein backbone nuclear magnetic
+resonances", <i>Statistical Applications in Genetics and Molecular Biology</i>,
+2004, 3(1), article 6, 1-33.
+<a href="abs.html#sagmb04">abstract</a>.
+<a href="http://www.bepress.com/sagmb/vol3/iss1/art6">paper</a>.
+<a href="papers/sagmb04.pdf">local pdf</a>.
+</li>
+
+<li>C. Bailey-Kellogg, A. Widge, M.J. Berardi, J.H. Bushweller, and
+B.R. Donald, "The NOESY Jigsaw: automated protein secondary structure
+and main-chain assignment from sparse, unassigned NMR data,"
+<i>J. Computational Biology</i>, 2000, 7:537-558.
+<a href="abs.html#jcb00">abstract</a>.
+<a href="papers/jcb00.pdf">pdf</a>.<br/>
+Conference version: 
+Proc. RECOMB, 2000, pp. 33-44.
+<a href="abs.html#recomb00">abstract</a>.
+<a href="papers/recomb00.ps.gz">postscript</a>.
+</li>
+
+</ul>
+
+</td></tr>
+
+<!-- footer -->
+<tr><td colspan=2 height=20></td></tr>
+<tr><td class=hr colspan=2 height=2></td></tr>
+<tr><td class=footer colspan=2>
+<!-- hhmts start -->
+Last modified: Tue Jun 29 15:19:21 EDT 2004
+<!-- hhmts end -->
+</td></tr>
+
+</tbody></table>
+</body>
+</html>
+i

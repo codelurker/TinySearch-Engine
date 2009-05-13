@@ -1,186 +1,207 @@
-http://www.cs.dartmouth.edu/farid/yearinreview08.html
+http://www.cs.dartmouth.edu/farid/home.html
 3
 <html>
 <head>
 <LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
-<title> Hany Farid: Image Science Group </title>
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+   var isNS4 = (document.layers) ? true : false;
+   var isIE4 = (document.all && !document.getElementById) ? true : false;
+   var isIE5 = (document.all && document.getElementById) ? true : false;
+   var isNS6 = (!document.all && document.getElementById) ? true : false;
+   var home_bg_index;
+
+   function pickhome_bg() {
+      home_bg_index = 9;
+      filename = "home_bg" + home_bg_index + ".gif";
+      photo = new Image(); photo.src = filename;
+      document.home_bg.src = photo.src;
+   }
+
+   function setvis( name, val ) {
+      if( isNS4 ) {
+          p = document.layers[name];
+	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
+      } else {
+	if( isIE4 ){
+          p = document.all[name].style;
+	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else if( isIE5 || isNS6 ) {
+          p = document.getElementById(name).style;
+	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else {
+          p = document.getElementById(name).style;
+	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
+	}
+      }
+   }
+//-->
+</SCRIPT>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066"
+      onLoad="pickhome_bg();">
 
-<table align=center width=750>
-<tr>
-<td>
 
-<p>
-<b> Year in Review: 2008 </b>
-<p>
+<META name="keywords" content="Hany Farid, Hani Farid, research, vision, image
+processing, computer vision, machine vision, human vision, steerable
+filters, derivative filters, fractional derivatives, fractional
+fourier transform, range estimation, image separation, separating
+reflections, digital forgery, digital tampering, digital forensics,
+expert witness, steganography, steganalysis, secret messages, motion
+grouping, texture grouping, temporal synchrony, transparency,
+tutorials, primer, matlab, bispectrum, bicoherence, blind gamma
+correction, image non-linearity, mathematics for kids, math for kids,
+mathematics stories, math stories, reconstructing egyptian tombs,
+unfolding egyptian tombs, virtual egyptian tombs, egyptian tomb,
+egyptian murals, Orozco murals, vrml, visual illusions">
 
-I hope that this email finds you all well.  I write to update you on
-the happenings of the <a href="group.html">Image Science Group</a>.
-The group currently consists of Dan Hopkins, Eric Kee, Weihong Wang,
-and Jeff Woodward.  Our lab has had a fun and productive year.  Our
-main focus continues to be in the area of digital forensics, in which,
-thanks to all of you, we have made incredible advances.
+<META Name="description" Content="Hany Farid, Professor,
+Image Science Group, Department of Computer Science, Dartmouth
+College">
 
-<p>
-<HR>
-<p>
+   <map name="menubar">
+   <area shape="rect" coords="35,105,95,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('me',1);setvis('medot',1);"
+      onmouseout="setvis('me',-1);setvis('medot',-1);">
 
-We welcome Dan Hopkins '10 to our lab. Dan took CS 36/136 (Numerical
-and Computational Tools) with me this summer, and I was so impressed
-with him that I asked him to join our group.  Dan is working on how to
-locally estimate, from a single image, signal to noise ratio. If
-successful this will prove to be a powerful forensic tools for
-detecting differences in sensor noise, additive noise, or JPEG
-quality.
+   <area shape="rect" coords="100,105,160,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('info',1);setvis('infodot',1);"
+      onmouseout="setvis('info',-1);setvis('infodot',-1);">
 
-<p>
-<HR>
-<p>
+   <area shape="rect" coords="230,108,295,123"
+      href="group.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('peopledot',1);"
+      onmouseout="setvis('peopledot',-1);">
 
-<a href=http://www.cs.dartmouth.edu/~erickee>Eric Kee</a> bravely dove
-into the relatively new area of document forensics. In our first
-published work in this area, Eric showed that different printers
-introduce distinct distortions into the printed characters, and that
-these distortions can be used to detect inconsistencies across a
-document, and for ballistic purposes -- that of linking a document to
-a printer.
+   <area shape="rect" coords="230,131,295,146"
+      href="publications/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('papersdot',1);"
+      onmouseout="setvis('papersdot',-1);">
 
-<dd> <a href="publications/acm08.html">Printer Profiling for Forensics and Ballistics</a> </dd>
-<dd> E. Kee and H. Farid </dd>
-<dd> ACM Multimedia and Security Workshop, Oxford, UK, 2008 </dd>
+   <area shape="rect" coords="230,154,318,167"
+      href="research/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('researchdot',1);"
+      onmouseout="setvis('researchdot',-1)">
 
-<BR>
+   <area shape="rect" coords="230,175,317,188"
+      href="teaching" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('teachingdot',1);"
+      onmouseout="setvis('teachingdot',-1);">
 
-Eric is currently slugging through some difficult, but very exciting,
-new work that I think will raise our work in digital image forensics
-to an entirely new level of sophistication... stay tuned...
+   <area shape="rect" coords="230,196,316,210"
+      href="tutorials" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('tutorialsdot',1);"
+      onmouseout="setvis('tutorialsdot',-1);">
 
-<p>
-<HR>
-<p>
+   <area shape="rect" coords="585,105,665,125"
+      onmouseover="setvis('contact',1);setvis('contactdot',-1);setvis('contactdot',1);">
 
-Building on his earlier work, <a
-href="http://www.cs.dartmouth.edu/~whwang/">Weihong Wang</a> continues
-to develop new video forensic tools.  In his most recent paper,
-Weihong developed a clever geometric algorithm for detecting boot-leg
-video that was recorded from a movie screen.
+   <area shape="rect" coords="375,233,435,246"
+      href="egypt/reconstruction.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('egyptdot',1);"
+      onmouseout="setvis('egyptdot',-1);">
 
-<dd> <a href=publications/ih08.html> Detecting Re-Projected Video </a> </dd>
-<dd> W. Wang and H. Farid </dd>
-<dd> 10th International Workshop on Information Hiding, Santa Barbara, CA, 2008 </dd>
+   <area shape="rect" coords="375,252,450,265"
+      href="myphotos"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('photosdot',1);"
+      onmouseout="setvis('photosdot',-1);">
 
-<BR>
+   <area shape="rect" coords="375,271,460,284"
+      href="illusions/monster.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('illusiondot',1);"
+      onmouseout="setvis('illusiondot',-1);">
 
-<table width=750>
-<tr>
-<td valign=top>
-<p>
-To give some intution behind this technique, consider this scene from
-the movie <i>Live Free Or Die Hard</i> as viewed from the side of the
-movie theater.  Notice that the rectangular screen will be imaged with
-perspective distortion. Weihong has shown that when recorded from such
-a position, the projected movie contains very specific distortions in
-the intrinsic camera matrix -- namely the camera skew is
-non-zero. These distortions can be used to detect such re-recorded
-video.
-</td>
-<td> &nbsp&nbsp </td>
-<td> <img src=photos/weihong_rerecord.jpg width=349 height=218> </td>
-</tr>
-</table>
+   <area shape="rect" coords="375,290,475,303"
+      href="mathkids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('mathkidsdot',1);"
+      onmouseout="setvis('mathkidsdot',-1);">
 
-<p>
-<HR>
-<p>
+   <area shape="rect" coords="375,309,505,326"
+      href="sciencekids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('sciencekidsdot',1);"
+      onmouseout="setvis('sciencekidsdot',-1);">
+  </map>
 
-Jeff Woodward (Woody) continues to port all of our forensic tools from
-Matlab into a stand-alone software package.  We delivered this
-software to the FBI's forensic lab in March of 2008, and continue to
-expand on this software to include both image and video forensic
-applications.
 
-<p>
-<HR>
-<p>
+  <div id="home" style="position:absolute; left:50; top:50; visibility:show">
+       <img src="home.gif" border="0" usemap="#menubar" name="home_bg">
+  </div>
 
-In large part due to your efforts, the field of digital image
-forensics has matured to the extent that special journal issues have
-begun to appear.  Here is a survey paper on image forgery detection
-that will appear in a special journal issue on digital forensics.
+  <div  style="position:absolute; left:88; top:185">   
+       <a href="cv.pdf"><font color=#291C5E>cv</font></a>  
+       <font color=#291C5E>&</font>
+       <a href="bio.html"><font color=#291C5E>bio</font></a>
+  </div>
 
-<dd> <a href="publications/spm09.html">A Survey of Image Forgery Detection</a> </dd>
-<dd> H. Farid </dd>
-<dd> IEEE Signal Processing Magazine, 2009 </dd>
+  <div id="me" style="position:absolute; left:185; top:195; visibility:hidden">
+       <img src="icon/meicon4.jpg" border="0">
+  </div>
 
-<p>
-<HR>
-<p>
+  <div id="contact" style="position:absolute; left:585; top:246; 
+       visibility:hidden"> <img src="icon/contact.gif" border="0">
+  </div>
 
-As for me, most significantly, I have been named the director of
-the <a href="http://www.dartmouth.edu/~neukom">Neukom Institute for
-Computational Science</a> at Dartmouth whose broad mandate is to
-support scholarship and curricular development in the computational
-sciences, social sciences, and humanities.
+  <div id="info" style="position:absolute; left:51px; top:268px; 
+       visibility:hidden"> <img src="icon/info.gif" border="0">
+  </div>
 
-<BR><BR>
+  <div id="peopledot" style="position:absolute;  left:268px; top:163px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-As always, you can find on my web page copies of
-our <a href="publications/publications.html">papers</a>
-and <a href="publications/publications.html#popularpress">popular
-press</a> accounts of our work.  And you can see a short
-<a href="http://www.pbs.org/wgbh/nova/sciencenow/0301/03.html">profile</a>
-about me and our lab's work that appeared on NOVA ScienceNow (watch
-for cameo appearances by Kimo, Eric, Weihong, and Woody).
+  <div id="papersdot" style="position:absolute;  left:268px; top:183px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<p>
-<HR>
-<p>
+   <div id="researchdot" style="position:absolute;  left:268px; top:204px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-In alumni news, 
-<ul>
+   <div id="teachingdot" style="position:absolute;  left:268px; top:225px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<li> <a href="http://www.mit.edu/~kimo">Kimo Johnson</a> is finishing
-his first year of post-doctoral work at MIT and Adobe Labs, where he
-is working on a wide variety of topics.
+   <div id="tutorialsdot" style="position:absolute;  left:268px; top:246px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<li> <a href="http://www.cs.albany.edu/~lsw/">Siwei Lyu</a> accepted a
-position at SUNY Albany as an Assistant Professor of Computer Science.
-Sadly, I will be a "grandfather" to Siwei's first Ph.D. student.
+   <div id="contactdot" style="position:absolute;  left:625px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<li> Senthil Periaswamy is working at iCAD in Ohio where he continues
-to do interesting work in medical imaging, and is now director of his
-own group.
+   <div id="egyptdot" style="position:absolute;  left:418px; top:284px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<li> Alin Popescu continues to work at Renesys Inc. here in Hanover,
-NH.
+   <div id="photosdot" style="position:absolute;  left:418px; top:306px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<li> <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> has
-been living in Los Angeles, CA and working in various corners of the
-movie industry. I am thrilled that Jethro has agreed to handle all of
-the multi-media needs for me in my role as director of the Neukom
-Institute for Computational Science.
+   <div id="illusiondot" style="position:absolute;  left:418px; top:326px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<li> Kate Sherwin is in Austin, TX where she continues to work in the
-field of computational finance. Kate spent a few days with me in Santa
-Cruz this Spring where we joyously (for me at least) talked
-mathematics. You are all welcome to visit me anytime.
+   <div id="mathkidsdot" style="position:absolute;  left:418px; top:348px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-</ul>
+   <div id="sciencekidsdot" style="position:absolute;  left:418px; top:368px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<p>
-<HR>
-<p>
+   <div id="infodot" style="position:absolute;  left:215px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-I hope that this email finds you all well and happy.  Please stay in
-touch and let me know how things are.
-
-</td>
-</tr>
-</table>
+   <div id="medot" style="position:absolute;  left:76px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
 </body>
 </html>
-graduati
+
+

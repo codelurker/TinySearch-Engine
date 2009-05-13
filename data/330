@@ -1,98 +1,79 @@
-http://www.cs.dartmouth.edu/~cbk/mrf.html
+http://www.cs.dartmouth.edu/farid/egypt/inherkhau.html
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head><title>Chris Bailey-Kellogg : Research : Graphical Models of Proteins</title>
-<meta http-equiv=content-type content="text/html; charset=us-ascii">
-<link href="style.css" type="text/css" rel="stylesheet">
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<title>The Burial Chamber of Inherkhau</title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<body>
-<p>
-<font class=me>Chris Bailey-Kellogg</font><br>
-<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
-<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
-</p>
 
-<table width="100%" border=0><tbody>
-
+<table align=center width=800>
 <tr>
-<!-- navigation -->
-<td valign=top align=left width=200><br>
-<a href="index.html" class=nav>home</a><br>
-<a href="research.html" class=nav>research</a><br>
-<a href="pubs.html" class=nav>publications</a><br>
-<a href="lab.html" class=nav>lab</a><br>
-<a href="teaching.html" class=nav>teaching</a><br>
-<a href="personal.html" class=nav>personal</a><br>
+<td valign=top rowspan=2>
+<b> The burial chamber of Inherkhau </b>
+<BR>
+<p>
+
+As with the <a href="sennedjem.html">burial chamber of Sennedjem</a>
+we have created, from 32 individual photographs, a single
+distortion-free mosaic of the burial chamber of Inherkhau.  Shown to
+the right is the progression of the North wall (after removing
+geometric distortions).  The final reconstruction shown below is at
+1/16 resolution.
+
+<BR><BR>
+
+<a href=inherkhau/virtualtomb/jME_inherkhau.jnlp>Virtual Tomb</a> (use
+arrow keys to move, shift-arrow to change view direction, ESC to quit)
 </td>
 
-<!-- content -->
-<td valign=top>
-<div class=header align=center>Graphical Models of Proteins</div><br>
+<td> &nbsp&nbsp </td>
 
-<img src="images/mrf.jpg" alt="graphical model"/><br/><br/>
+<td> <a href="inherkhau/step1a.jpg"><font size=+2>1.</font> 
+   <IMG SRC="inherkhau/step1b.jpg" border=0 width=184 height=89></a> </td>
+<td> <a href="inherkhau/step2a.jpg"><font size=+2>2.</font> 
+    <IMG SRC="inherkhau/step2b.jpg" border=0 width=184 height=89></a> </td>
+<td> <a href="inherkhau/step3a.jpg"><font size=+2>3.</font> 
+    <IMG SRC="inherkhau/step3b.jpg" border=0 width=184 height=89></a> </td>
+</tr>
 
-<p>Protein sequences are constrained both at individual residues
-(conservation) and in relation to each other (covariation).  Selective
-pressures to maintain structure and function have constrained
-sequences over time and across species.  Constraints thus manifested
-in sequence-structure-function relationships can be inferred from the
-evolutionary record, along with information from available structural
-studies and functional assays.  Identified relationships can then be
-employed in all different `directions', e.g., to predict function from
-the sequence of a newly-discovered protein, discriminate predicted
-structures for a sequence according to functional tests, and design
-variant (homologous) protein sequences with related functions.</p>
+<tr>
 
-<p>We are developing approaches to learn and use probabilistic
-graphical models (aka Markov random fields) that capture significant
-conservation and coupling observable in a multiply-aligned set of
-sequences.  By incorporating structural information, our models can
-provide mechanistic explanations for observed constraints.  By
-incorporating functional class information, they can perform
-interpretable classification of new sequences, explaining decisions in
-terms of the underlying conservation and coupling constraints.  By
-incorporating information about interacting proteins, they can
-identify "cross-coupling" constraints and make explainable predictions
-about novel interactions.  Finally, the models can be used
-generatively, to design new sequences consistent with the modeled
-constraints, and thus predicted to be folded and functional.</p>
+<td> &nbsp&nbsp </td>
+<td> <a href="inherkhau/step4a.jpg"><font size=+2>4.</font> 
+    <IMG SRC="inherkhau/step4b.jpg" border=0 width=184 height=89></a> </td>
+<td><a href="inherkhau/step5a.jpg"> <font size=+2>5.</font> 
+    <IMG SRC="inherkhau/step5b.jpg" border=0 width=184 height=89></a> </td>
+<td> <a href="inherkhau/step6a.jpg"><font size=+2>6.</font> 
+    <IMG SRC="inherkhau/step6b.jpg" border=0 width=184 height=89></a> </td>
 
-<b>Papers</b>
-<ul>
-<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
-models of protein-protein interaction specificity from correlated
-mutations and interaction data", <i>Proteins</i>, in press.
-<a href="abs.html#proteins09">abstract</a>.
+</tr>
 
-<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Protein design
-by sampling an undirected graphical model of residue constraints", 
-<i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>,
-in press.
-<a href="abs.html#tcbb08">abstract</a>.
-<a href="papers/tcbb08.pdf">preprint</a>.
-</li>
+<tr>
+<td colspan=20>
+<BR><BR>
+<A HREF="inherkhau/inherkhau.jpg"><IMG SRC = "inherkhau/inherkhau1.jpg" width=800 height=158></A>
+<BR><BR>
+</td>
+</tr>
+</table>
 
-<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
-models of residue coupling in protein families", <i>IEEE/ACM
-Transactions on Computational Biology and Bioinformatics</i>, 2008, 5:183-197.
-<a href="abs.html#tcbb07">abstract</a>.
-<a href="http://www2.computer.org/portal/web/csdl/doi/10.1109/TCBB.2007.70225">official version</a>.
-<a href="papers/tcbb07.pdf">preprint</a>.
-</li>
+<HR>
+<table align=center width=800>
+<tr>
+<td align=left>
+<i><a href="../egypt/reconstruction.html">Related material</a></i>
+</td>
 
-<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
-models of residue coupling in protein families", Proc. BioKDD, 2005.
-<a href="abs.html#biokdd05">abstract</a>.
-<a href="papers/biokdd05.pdf">pdf</a>.  
-Copyright 2005, ACM.
-</li>
-
-</ul>
-
-</td></tr>
-
-</tbody></table>
-</body>
+<td valign=top align=right>
+	<i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	</i>
+</td>
+</tr>
+</table>
 </html>
+
+trclassi

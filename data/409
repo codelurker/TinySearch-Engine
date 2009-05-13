@@ -1,56 +1,85 @@
-http://www.cs.dartmouth.edu/~wbc/clr.html
+http://www.cs.dartmouth.edu/~wbc/bookmark/bk_mando.html
 3
-<html>
-<head>
-<title>Thisngs to look for</title>
-</head>
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (X11; I; Linux 2.0.35 i686) [Netscape]">
+    <meta NAME="keywords" content="wayne cripps mandolin useful links">
+   <TITLE>Wayne Cripps's Mandolin Links</TITLE>
+</HEAD>
+<BODY>
 
-<body>
-<h2>things to check when tom can't run dvips</h2>
-on his textbook and other stuff with the same latex setup..
-<ul>
-<li>NEW - I changed tom's *.fd files to only have lower
-case font names in them.  Then I edited 
-/usr/share/texmf/dvips/config/config.ps and added 
-<pre>
-p +/usr/share/texmf/fonts/map/dvips/tetex/mt-plus.map
-</pre> which points to a new map file with the map file for teh y+y fonts in it.
-Now it seems that psfonts.map is no longer included, and the
-program <code>updmap</code> is no longer included.
+<UL>
+<LI> <A HREF="http://www.mandolincafe.com/">Mandolin Cafe</A></LI>
+<LI> <A HREF="http://www.mandozine.com/">Mandozine</A></LI>
+artists</A></LI>
+<LI><A HREF="http://www.monteleone.net/">John Monteleone</A></LI>
+<LI>
+<A HREF="http://www.lmo.org/">Louisville mandolin orchestra</A></LI>
+<LI><A HREF="http://www.gryphonstrings.com">Gryphon Strings</A></LI>
+<li><A HREF="http://www.geocities.com/Paris/5701/music.htm">Mike</A>&nbsp; Nelson</LI> 
+<LI> <A HREF="http://www.coloradocase.com/">Colorado case company</A></LI> 
+<LI>
+<A HREF="http://www.reddiamondmandolins.com/">Red Diamond Mandolins</A></LI>
+<LI> <A HREF="http://www.PhoenixMandolins.com/">Phoenix Mandolins</A></LI>
+<LI> <A HREF="http://sjryder.com/">Steve Ryder Electric mandolin</A></LI>
+<LI> <A HREF="http://www.FRETS.com">Frets.com - hide glue articles</A></LI>
 
-<li>check /usr/share/texmf/dvips/config/psfonts.map<br>
-&nbsp;&nbsp;look for <pre>
-RMTMI  RMTMI &lt;RMTMI.pfb
-MTSYN  MTSYN &lt;MTSYN.pfb
-RMTMIB RMTMIB &lt;RMTMIB.pfb
-MTEX   MTEX &lt;MTEX.pfb
-MTMS   MTMS &lt;MTMS.pfb 
-MTSYB  MTSYB &lt;MTSYB.pfb
-</pre>
-Usually this is enough to fix things.  The times fonts seem to come with
-RedHat linux nowadays.
-<li>running /usr/share/texmf/dvips/config/updmap will make a new psfonts.map<br>
-&nbsp;&nbsp;this will overwrite what was done above
+<LI>
+<A HREF="http://www.frets.com/FRETSPages/Luthier/Data/Materials/GlueTest/gluetest.html">Glue
+heat test pictures</A></LI>
 
-<li>edit /usr/share/texmf/dvips/config/config.ps<br>
-&nbsp;&nbsp;uncomment the lines for Type1 as specified
+<LI>
+<A HREF="http://www.frets.com/FRETSPages/Luthier/Data/Materials/hideglue.html">How
+to use hide glue</A></LI>
 
-<li>check /usr/share/texmf/ls-R<br>
-&nbsp;&nbsp;first cd to /usr/share/texmf, then<br>
-&nbsp;&nbsp;run /usr/bin/mktexlsr<br>
-&nbsp;&nbsp;this is necessary if fonts are added
+<LI>
+<A HREF="http://world.std.com/~ereilly/perfect.html">tuning clip</A></LI>
 
-<li> fonts are in..<br>
-&nbsp;&nbsp;/usr/share/texmf/fonts/tfm/MathTimes/ (tfm)<br>
-&nbsp;&nbsp;/usr/share/texmf/fonts/tfm/MathTimesPlus/ (tfm)<br>
-&nbsp;&nbsp;/usr/share/texmf/fonts/type1/MathTime/ (pfb)<br>
-&nbsp;&nbsp;/usr/share/texmf/dvips/pfb/MathTime/ (pfb)<br>
-&nbsp;&nbsp;not sure which of last two is read..  looks like <br>
-&nbsp;&nbsp;/usr/share/texmf/fonts/type1/MathTime<br><br>
-&nbsp;&nbsp;/usr/share/texmf/fonts/vf/MathTime<br>
-&nbsp;&nbsp;/usr/share/texmf/fonts/vf/MathTimePlus<br>
+<LI>
+<A HREF="http://www.allenguitar.com/luthier.htm">Allen Guitar</A></LI>
 
-</ul>
-</body>
-</html>
+<li><a href="http://www.oldwavemandolins.com">Bill Bussman's new site</a>
+<LI>
+<A HREF="http://www.zianet.com/bussmann/">Bill Bussman&nbsp; old wave instruments</A></LI>
 
+<LI><A HREF="http://www.mandolincentral.com/wood.html">Randy Wood Mandolins</A></LI>
+<LI> <A HREF="http://www.smart-instruments.com/">A Lawrence
+Smart Mandolin</A></LI>
+<LI>
+<A HREF="http://www.rolandwhite.com/">Roland White</A></LI>
+
+<LI>
+<A HREF="http://www.bluegrassworld.com/instruments/soundtoearth">Sound
+to Earth</A></LI>
+<li><a href="http://soundtoearth.com/">webber</a>
+<li>
+<a href="http://www.12fret.com/retail/mwoodley.htm">Woodley Mandolins</a>
+<li>
+<a href="http://www.emando.com/">
+Electric Mandolin</a>
+<li><a href="http://www.afvbm.com/strad.htm">
+So you found a Stradivarius in the attic</a>
+<li><a href="http://www.stellingbanjo.com/"> Stelling makes expensive mandolins</a>
+<li><a href="http://www.geocities.com/Nashville/Stage/1228/MandoPics/index.htm">Pertti's mandolins</a>
+<li><a href="http://www.birdnest.org/birdj">Tao of the Mandolin</a>
+<li><a href="http://www.bluettbros-violins.com/main.html">Bluett Mandolins</a>
+<li><a href="http://www.users.csbsju.edu/~eknuth/mandotab">Old time tunes in mando tab</a>
+<li><a href="http://members.tripod.com/Liteways/index.html">J Coon's mandolin sound samples</a>
+<li><a href="http://www.albert-mueller.de">Albert & Mueller mandolins</a>
+<li><a href="http://www.bacornguitars.com/">Bacorn Mandolins and Guitars </a>
+<li><a href="http://www.vanden.co.uk/">Vanden Instruments</a>
+<li><a href="http://www.ratliffmandolins.com">Ratliff Mandolins</a>
+<li><a href="http://www.mandolinsandmore.com/">Mitch Simpson dealer</a>
+<li><a href="http://www.paperclipdesign.com/19ctunes/mandopic.htm">
+  Old mandolin pictures</a>
+<li><a href="http://www.cumberlandacoustics.com/"> Steve Smith bridges </a>
+<li><a href="http://www.bluegrasscollege.org:8080/Bluegrass/Bluegrass?component=instruments&handler=GotoInstrument&id=3">bluegrass college <a>
+<li><a href="http://www.cs.dartmouth.edu/~wbc/instmnts/mandolin/index.html">Red Diamond Mandolin for sale</a>
+<p>There have been  <a>
+23546
+ visitors since July 22, 2002</p>
+
+</UL>
+</BODY>
+</HTML>

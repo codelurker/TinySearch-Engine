@@ -1,121 +1,113 @@
-http://www.cs.dartmouth.edu/~miluzzo/download.html
+http://www.cs.dartmouth.edu/~sasho/privdir
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head>
-  <title>Emiliano Miluzzo :: download page</title>
+  <head>
+
   <style type="text/css">
-
-a.three:link {color: #006600; text-decoration: none}
-a.three:visited {color: #006600; text-decoration: none}
-a.three:hover {background: #000000; color: #FFFFFF}
-
-#coolmenu{
-border: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
-border-bottom-width: 0;
-width: 177px;
-position: absolute; top: 188px; left: 8px;
-background-color: #E6E6E6;
+.math {
+    font-style: italic;
 }
+</style>
 
-* html #coolmenu{ /*IE only rule, to negate the padding below IE includes in menu width.*/
-width: 177px;
-}
+    <title>Private Directory Server Project</title>
 
-#coolmenu a{
-font: bold 13px Arial;
-padding: 5px;
-padding-left: 20px;
-display: block;
-width: 100%;
-color: black;
-text-decoration: none;
-border-bottom: 1px; /* If border needed replace this line with: border-bottom: solid black;*/
-}
+  </head>
 
-html>body #coolmenu a{ /*Non IE rule*/
-width: auto;
-}
+  <body>
+    <h1>Private Directory Server Project</h1>
+
+<p>
+This is the home of the <em>Private Information Retrieval</em> (PIR) Server
+project of <a href="/~sasho/">Alex Iliev</a> and <a href="/~sws/">Sean
+Smith</a>, at the Dartmouth College <a
+href="http://www.cs.dartmouth.edu/~pkilab/">PKI Lab</a>.
+</p>
+
+<h2>Objectives</h2>
+<p>
+PIR aims to enable a user Aphro to retrieve information from a server, without
+the server being able to tell what she got. For example Aphro may want to get a
+book description from a library website, but she for whatever reason doesn't
+want the library to know which book it was. More accurately, she doesn't want
+the library <em>to be able to know</em>.
+</p>
+<p>
+In this prototype we address the less sexy subject of retrieving X.509
+certificates from an LDAP certificate directory.
+</p>
+<p>
+When Bacchus wants to send an encrypted message to Cupid, he needs Cupid's
+public key. In many setups he gets the key with a certificate from some
+directory, say one run by Mercury. Mercury however then knows that
+Bacchus wants to send a secret message to Cupid&mdash;there's part of the secret
+gone! What Bacchus would prefer is if he could fetch Cupid's certificate from
+Mercury, and Mercury could only learn that Bacchus retrieved <em>some</em>
+certificate from his directory.
+</p>
+
+<h2>Approach</h2>
+<p>
+We make use of <em><a
+href="http://www.cs.dartmouth.edu/~sws/research/#tech">secure
+coprocessors</a></em> (SCOP) at the server site.
+</p>
+
+<p>
+A trivial solution to the problem would be to put the whole database (X.509
+directory in our case) inside the coprocessor. Then, Aphro could connect
+securely (eg. SSL) to the SCOP and retrieve her desired certificate. Since
+computation in the SCOP cannot be observed, even by root at the host machine
+(<em>root secure</em>), the certificate retrieval is private to Aphro.
+</p>
+
+<p>
+The problem with the above is that the current SCOP of choice&ndash;the IBM
+4758&ndash;has 4MB of RAM. Thus, the database has to be stored partially or
+fully outside the SCOP, on the host. The challenge then becomes that the SCOP,
+on behalf of Aphro, privately retrieves an item from a database stored on the
+untrusted host.
+</p>
+
+<p>
+The essence of the current approach is that the SCOP performs a <em>private
+permutation</em> on the database, and then reads items directly from the
+permuted database. The permutation is private in the sense that the host should
+not know the correspondence between items in the original and permuted datasets.
+We currently use a Benes permutation network to carry out the permutation.
+</p>
+
+<p>
+Lately we have been investigating how to compute and perform a private
+permutation using a logarithmic amount of space inside the SCOP. The previous
+approach required using <span class="math">O(N lg N)</span> bits to store a
+random permutation, and that much again to compute the routing of the Benes
+network.
+</p>
 
 
-#coolmenu a:hover{
-background-color: black;
-color: white;
-}
+<h2>Prototype</h2>
+<ul>
+<li><a href="privdir-2.tar.gz">privdir.tar.gz</a> <span class="date">1 August,
+2003</span>.</li>
+<li><a href="privdir.tar.gz">privdir.tar.gz</a> <span class="date">12 February,
+      2003</span>.</li>
+</ul>
 
-  </style>
-  <script charset="utf-8" id="injection_graph_func"
- src="injection_graph_func.htm"></script>
-</head>
-<body style="background-image: url(Background.gif);">
-<div
- style="top: 30px; position: absolute; z-index: 1; left: 245px; width: 317px;"><big><big
- style="font-weight: bold;"><big><span
- style="font-family: courier new,courier,monospace;">
-Emiliano Miluzzo</span></big></big><span style="font-style: italic;">
-</span></big></div>
-<a
- href="http://www.cs.dartmouth.edu/~miluzzo">
-<img style="position: absolute; top: 10px; left: 10px;"
- src="emi7.jpg" border="0" height="138" width="177"></a>
-<a
- href="http://www.dartmouth.edu/">
-<img style="position: absolute; top: 20px; left: 900px;"
- src="dartlogo.gif" border="0" height="94" width="99"></a>
-<img
- style="position: absolute; top: 70px; left: 245px;"
- src="stripe.jpg" height="8" width="620"> <img
- style="position: absolute; top: 630px; left: 245px;"
- src="stripe.jpg" height="21" width="740"> <img
- style="position: absolute; top: 430px; left: 8px;"
- src="dx_band.jpg" height="800" width="177">
-<center><big> </big></center>
-<div id="coolmenu">
-<big><a href="http://www.cs.dartmouth.edu/~miluzzo/index.html">Personal
-Biography</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/research.html">Research</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/publications.html">Publications</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/cv.html">Curriculum
-Vitae</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/links.html">Interesting
-Links</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/download.html">Download</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/photos.html">Pictures</a>
-<a href="http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html">Contact
-Information</a>
-</big>
-<center><big> </big></center>
-</div>
-<div
- style="top: 117px; left: 245px; position: absolute; z-index: 1; width: 738px;"><big><big><span
- style="font-style: italic; font-family: Arial;">
-<p><small>Download</small> </p>
-<hr></span></big>
-</big>
-<div style="text-align: justify;"><big><big><span
- style="font-family: Arial;"></span></big><span
- style="font-family: Arial;"><br>
-</span></big><span style="font-family: arial,sans-serif;">-
-Restricted access </span><a
- style="font-family: arial,sans-serif;" class="three"
- href="http://www.cs.dartmouth.edu/%7Emiluzzo/restricted/private.html">here</a><span
- style="font-family: arial, sans-serif;">.</span></div>
-<div style="text-align: justify;"><big><span style="font-family: Arial;"><small><br>
-</small>
-<br>
-<br>
-</span></big></div>
-</div>
-<div
- style="position: absolute; top: 665px; height: 21px; left: 849px; width: 131px;"><big><big><small><small><small
- style="font-style: italic;"><span style="font-family: verdana;"><small>last
-modified: July 2007</small></span></small></small></small><span
- style="font-weight: bold; font-family: verdana;"><br>
-</span><span style="font-weight: bold; font-family: verdana;"></span></big></big></div>
-<div
- style="position: absolute; top: 660px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><big><big><small>
-<font size="-1"><small><sup>&copy; Emiliano Miluzzo</sup></small></font>
-</small></big></big></div>
-</body>
+
+<h2>Workshop Paper</h2>
+Linked from the <a href="../publications.html">publications</a> page.
+
+<h2>Tech Report</h2>
+<a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2003-442/">Dartmouth
+TR2003-442</a>
+
+
+    <hr>
+    <address><a href="http://www.cs.dartmouth.edu/~sasho/">Alex Iliev</a></address>
+<!-- Created: Wed Feb 12 17:38:38 EST 2003 -->
+<!--time-start-->
+Last modified: Feb 20, 2004
+<!--time-end-->
+  </body>
 </html>
-t:i

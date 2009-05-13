@@ -1,8 +1,8 @@
-http://www.cs.dartmouth.edu/~cbk/recombination.html
+http://www.cs.dartmouth.edu/~cbk/teaching.html
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head><title>Chris Bailey-Kellogg : Research : Protein Recombination</title>
+<head><title>Chris Bailey-Kellogg : Teaching</title>
 <meta http-equiv=content-type content="text/html; charset=us-ascii">
 <link href="style.css" type="text/css" rel="stylesheet">
 </head>
@@ -29,97 +29,45 @@ http://www.cs.dartmouth.edu/~cbk/recombination.html
 
 <!-- content -->
 <td valign=top>
-<div class=header align=center>Protein Recombination</div><br>
+<div class=header align=center>Teaching</div><br>
 
-<table cellpadding=0>
-<tr>
-<td><img src="images/recomb.jpg" alt="recombination"></td>
-<td width=100>&nbsp;</td>
-<td><img src="images/recomb-plan.jpg" alt="planning"/></td>
-</tr>
-</table>
+<h3>Dartmouth</h3>
 
-<p>Protein engineering by site-directed recombination generates
-libraries of hybrid proteins (or "chimeras") by mimicking the mixing
-and inheritance that occur in natural reproduction.  As shown in the
-left-hand figure, a set of homologous parent genes are recombined at
-defined breakpoint locations, yielding a combinatorial set of hybrids.
-Subsequent screening/selection then identifies hybrids with desirable
-functional characteristics.</p>
+<p>CS 2 (Programming for Interactive Digital Arts): <a
+href="2/">Winter 2009</a>, <a href="2/08w">Winter 2008</a>.</p>
 
-<p>We are developing techniques to optimize the planning of
-recombination experiments.  For example, as shown in the right-hand
-figure, when selecting breakpoints, one must consider the trade-off
-between the stability and the diversity of the resulting hybrids.
-Given a family of homologous proteins (here just a cartoon fragment of
-a multiple sequence alignment), we select a small number of parents to
-be recombined at specific locations, generating a library of hybrids.
-Recombination may perturb the previously observed correlations between
-amino acid types for interacting residues, here at positions 1 and 8,
-thereby possibly affecting stability.  Furthermore, the resulting
-library may have more or less diversity; the choice of breakpoint
-location on the top yields hybrids that are identical to the parents,
-while that on the bottom results in sequence space being sampled
-relatively uniformly, with an equal number of mutations between each
-hybrid and each parent.  Our methods simultaneously optimize both
-these criteria.</p>
+<p>CS 4 (Concepts in Computing): <a href="4/">Summer 2009</a>, <a
+href="4/06x">Summer 2006</a>.</p>
 
-<p>We are also developing techniques to optimize the robotic assembly
-of the planned library.</p>
+<p>CS 43/143 (Introduction to Bioinformatics, for undergraduate and
+graduate students): <a href="bio/">Spring 2008</a>;<br/>formerly 88/188: <a
+<a href="bio/05fall">Fall 2005</a>, <a href="bio/05spring">Spring 2005</a>.</p>
 
-<b>Papers</b>
-<ul>
-<li>W. Zheng, K.E. Griswold, and C. Bailey-Kellogg, "Protein fragment
-swapping: a method for asymmetric, selective site-directed
-recombination", Proc. RECOMB, 2009, to appear.</li>
+<p>CS 68 (Programming Languages): <a href="68/">Winter 2006</a>,
+<a href="68/05winter">Winter 2005</a>.</p>
 
-<li>W. Zheng, A.M. Friedman, and C. Bailey-Kellogg,
-"Algorithms for joint optimization of stability and diversity in planning
-combinatorial libraries of chimeric proteins", Proc. RECOMB, 2008,
-pp. 300-314.
-<a href="abs.html#recomb08">abstract</a>.
-<a href="http://dx.doi.org/10.1007/978-3-540-78839-3_26">official version</a>.
-<a href="papers/recomb08.pdf">preprint</a>.</li>
+<p>CS 98 (EPICS, engineering projects in community service, for
+undergraduate culminating experience): <a
+href="http://www.cs.dartmouth.edu/~epics/">EPICS site</a>.</p>
 
-<li>L.V. Avramova, J. Desai, S. Weaver, A.M. Friedman, and C.
-Bailey-Kellogg, "Robotic hierarchical mixing for the production of
-combinatorial libraries of proteins and small molecules", <i>J.
-Comb. Chem.</i>, 10:63-68, 2008. <a href="abs.html#jcc07">abstract</a>.
-<a href="http://pubs.acs.org/cgi-bin/abstract.cgi/jcchff/2008/10/i01/abs/cc700106e.html">paper</a>.</li>
+<h3>Purdue</h3>
 
-<li>W. Zheng, X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Algorithms
-for selecting breakpoint locations to optimize diversity in protein
-engineering by site-directed protein recombination", Proc. CSB, 2007,
-pp. 31-40.
-<a href="abs.html#csb07">abstract</a>.
-<a href="papers/csb07.pdf">preprint</a>.</li>
+<p>This section serves as an archive of my teaching while at Purdue,
+in case some of the web pages are still useful.</p>
 
-<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Hypergraph model of
-multi-residue interactions in proteins: sequentially-constrained
-partitioning algorithms for optimization of site-directed protein
-recombination", <i>J. Computational Biology</i>, 2007, 14:777-790.
-<a href="abs.html#jcb07">abstract</a>.
-<a
-href="http://www.liebertonline.com/doi/abs/10.1089/cmb.2007.R016">official version</a>.
-<a href="papers/jcb07.pdf">preprint</a>.<br/>
-Conference version: Proc. RECOMB, 2006, 15-29.
-<a href="abs.html#recomb06">abstract</a>.
-<a href="http://dx.doi.org/10.1007/11732990_2">official version</a>.
-</li>
+<p><a href="490B/">CS 490B</a> (undergraduate bioinformatics,
+team-taught and cross-listed in biology and statistics)</p>
 
-<li>L. Saftalov, P.A. Smith, A.M. Friedman, and C. Bailey-Kellogg,
-"Site-directed combinatorial construction of chimaeric genes:
-general method for optimizing assembly of gene fragments",
-<i>Proteins</i>, 2006, 64:629-642.
-<a href="abs.html#proteins06b">abstract</a>.
-<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/112656549/ABSTRACT">official version</a>.
-<a href="papers/proteins06b.pdf">preprint</a>.
-</li>
-</ul>
+<p><a href="590B/">CS 590B</a> (graduate computational biology).</p>
 
-</td></tr>
+<p><a href="jclub/">Computational biology journal club</a>.</p>
+
+<p><a href="490E/">CS 490E</a> (<a
+href="http://epics.ecn.purdue.edu/">EPICS</a>, Engineering Projects in
+Community Service); advisor of <a
+href="http://epics.ecn.purdue.edu/vri/">VRI</a> (Volunteer Resource
+Infrastructure) team.</p> </td></tr>
 
 </tbody></table>
 </body>
 </html>
-i

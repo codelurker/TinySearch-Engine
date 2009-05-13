@@ -1,49 +1,90 @@
-http://www.cs.dartmouth.edu/~map/mapstats.php
+http://www.cs.dartmouth.edu/farid/egypt/rekhmira.html
 3
-<html>
-	<body bgcolor=#809a80 textcolor=#111111>
-	<head>
-		<title>MAP Testbed</title>
-	</head>
-	<center>
-	<font color=#111111>
-		<h3> MAP testbed deployment at Sudikoff, the CS department building</h3>
-		<img src="images/Sudikoff-700x500.jpg" height="500" width="700"> <br>
-		<br>
 
-		<table width="700" cellpadding="0" cellspacing="0" border="0">
-		  <tr bgcolor="blue" width="100%"><td>
-			<table width="100%" cellpadding="5" cellspace="0" border="0"><tr>	
-				<td bgcolor=#809a80>Real-time pages</td>
-			  	<td bgcolor=#809a80><a href="basset.php" target="_">Basset Stats</a></td>
-			  	<td bgcolor=#809a80><a href="merger.php" target="_">Merger Stats</a></td>
-			  	<td bgcolor=#809a80><a href="detector.php" target="_">Detectors Stats</a></td>
-			  	<!--
-				<td bgcolor=#809a80><a href="alert1/alert-www.py?host=bonne&port=7999&count=15" target="_">Alerts</a></td>
-				-->	
-			</tr><tr>
-				<td bgcolor=#809a80>Recorded screenshots</td>
-			  	<td bgcolor=#809a80><a href="recorded/2007_02_24_22/basset.php" target="_">Basset Stats</a></td>
-			  	<td bgcolor=#809a80><a href="recorded/2007_02_24_22/merger.php" target="_">Merger Stats</a></td>
-			  	<td bgcolor=#809a80><a href="recorded/2007_02_24_22/detector.php" target="_">Detectors Stats</a></td>
-			  	<td bgcolor=#809a80><a href="recorded/2007_02_24_22/alerts.php" target="_">Alerts</a></td>
-			</tr></table>
-		</td></tr></table>
-<!--
-		<hr width="80%" size=2 color="blue">
-		<a href="merger.php">
-			<img src="images/merger-InFrames-InRedundant-InRetransmitted.png"></a><br>
-		<a href="merger.php">Merger Stats</a>
-		<br><br>
-		<a href="basset.php">
-			<img src="images/AM-BassetTx.png"></a><br>
-		<a href="basset.php">Basset Stats</a>
-		<br><br>
-		<a href="detector.php">
-			<img src="images/detector-SeqnTimeAlerts.png"></a><br>
-		<a href="detector.php">Detector Stats</a> 
-		<br><br>
--->	</center>
-	</font>
-	</body>
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<title>The passage of Rekh-mi-Ra's tomb</title>
+</head>
+
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750>
+<tr>
+<td valign=top width=380>
+<BR>
+<b> The passage of Rekh-mi-Ra's tomb </b>
+<BR>
+<p>
+As with the burial chambers of <a href="sennedjem.html">Sennedjem</a>
+and <a href="inherkhau.html">Inherkhau</a> we plan to create a single
+distortion-free mosaic of the passage of Rekh-mi-Ra's tomb (also
+transliterated as Rekh-mi-Re).  Shown to the right is (1) an original
+image, and (2) the image after correcting for color/lighting
+imbalances<sup>*</sup>, and (3) planar distortion.
+
+<p>
+
+Shown below is the result of the first step in the reconstruction
+process.  Shown is a composite of five separate images (at
+approximately 1/4 resolution -- these images were taken with a Kodak
+DCS PRO 14N digital camera with a 14 megapixel 1:1 CMOS sensor, using
+a Nikon 18-35 mm lens.)  This scene depicts Rekh-mi-Ra, followed by
+attendants, inspecting craftsmen.  Top register: jewelers and
+stone-vase makers; Second register: leather workers and rope makers;
+Third register: carpenters, statue-, furniture- and shrine-makers;
+Fourth register: metal workers, casting of copper door, vase makers,
+and weighing of gold and silver.
+
+<p>
+
+For point of reference, the diagram below shows a top and cross
+sectional view of the the tomb [<i>Norman de Garis Davies, The tomb of
+Rekh-mi-Re at Thebes</i>].  The passage is 24m (78.7ft) long, 1.8m
+(5.9ft) wide, and reaches a maximum height of 7.3m (23.9ft).  The
+shaded area in the sectional view roughly corresponds to the composite
+shown below.
+
+<p>
+
+<sup>*</sup> <i>Thanks to John Hamilton of Eastman Kodak for the color
+balancing algorithm</i>
+</td>
+
+<td>&nbsp&nbsp</td>
+
+<td valign=top>
+<BR><BR><BR>
+<a href="rekhmira/rekhmira_rectify1.jpg">
+      <img src="rekhmira/rekhmira_rectify2.jpg" width=193 height=396> </a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan=3>
+<IMG SRC="rekhmira/rekhmira1.jpg" width=750 height=371>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td align=left>
+<i><a href="../egypt/reconstruction.html">Related material</a></i>
+</td>
+
+<td valign=top align=right>
+	<i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	</i>
+</td>
+</tr>
+</table>
+
 </html>
+
+mei

@@ -1,95 +1,75 @@
-http://www.cs.dartmouth.edu/~doug/pubs.html
+http://www.cs.dartmouth.edu/~doug/explan.html#maps
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-<TITLE>Publications</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
-</HEAD>
-<BODY>
-<H2>Publications by M. D. McIlroy</H2>
-<H3>Complete publication list:
-  <SMALL><A href="doug.bib">bibtex</A> or <A  href="bib.ps.gz">gzipped PostScript</A></SMALL></H3>
-<H3>Selected publications</H3>
-<P><B>Languages and systems</B>
-<BR>M. D. McIlroy, <B>Macro</B> instruction 
-extension of compiler languages, <CITE>CACM</CITE> <B>3</B> (1960) 214-220 
-<BR>A. G. Hume and M. D. McIlroy, <CITE><B>Unix</B> Research System, 10th 
-Edition,</CITE> Saunders College Publishing, Philadelphia (1990) ISBN 
-0-03-047352-5 (Vol. I), 0-03-047329-5 (Vol. II)
-<BR>J. Bentley, D. E. Knuth and 
-M. D. McIlroy, Programming pearls, <CITE>CACM</CITE> <B>29</B> (1986) 471-483. 
-<B>Literate program and critique</B> 
-<P><B>Security</B>
-<BR>M. D. McIlroy, <B>Virology</B> 101, <CITE>Computing  Systems</CITE> <B>2</B> (1989) 173-181,
- <A href="v101.ps.gz">gzipped PostScript</A> 
-<BR>D. D. Clark et al (including M. D. McIlroy),
-  <CITE><A href="http://www.nap.edu/readingroom/enter2.cgi?0309043883.html">
-  <B>Computers at Risk</B></A></CITE>, National Academy Press, Washington (1991) 
-<BR>M. D. McIlroy  and J. A. Reeds,
-  <A href="IX"><I>The IX <B>Multilevel-Secure UNIX</B> System</I></A>
-  AT&T Bell Laboratories CSTR #163 (1992). A compendium of papers
-<P><B>Graphics</B>
-<BR>M. D. McIlroy, Best approximate <B>circles</B> on integer 
-grids, <CITE>ACM Trans. on Graphics</CITE>, <B>2</B> (1983) 237-263 
-<BR>M. D. McIlroy, A note on discrete representation of <B>lines</B>,
-  <CITE>AT&amp;T Tech. J.</CITE>, <B>64</B> (1985) 481-490 
-<BR>M. D. McIlroy, Getting raster <B>ellipses</B> right,
-  <CITE>ACM Transactions on graphics</CITE> <B>11</B> 
-  (1992) 259-275. Preprinted in <CITE>There is no royal road to programming:
-  a trilogy on raster ellipses and programming methodology</CITE>,
-  AT&amp;T Bell Laboratories CSTR #155 (1990),
-  <A href="155.ps.gz">gzipped PostScript</A> 
-<BR>M. D. McIlroy, <B>Number theory</B> in computer graphics, in S. A. Burr (ed.), 
-  <CITE>The Unreasonable Effectiveness of Number Theory,</CITE>
-  Proceedings of Symposia in Applied Mathematics <B>46</B>, Am. Math. Soc.,
-  Providence (1992) 105-121 
-<P><B>Algorithms</B>
-<BR>J. W. Hunt and M. D. McIlroy,
-  <CITE>An algorithm for differential <B>file comparison</B></CITE>,
-  Bell Telephone Laboratories CSTR #41 (1976),
-  <A href="diff.ps">PostScript</A> (text edited from OCR, figures redrawn)</A> 
-<BR>P. M. McIlroy, K. Bostic and M. D. McIlroy, Engineering <B>radix sort</B>, 
-  <CITE>Computing Systems</CITE> <B>6</B> (1993) 5-27
-  <A href="radix.ps.gz">gzipped PostScript</A> (preprint)
-<BR>M. D. McIlroy, A killer <B>adversary for quicksort</B>, 
-  <CITE>Software--Practice and Experience</CITE> <B>29</B> (1999) 341-344,
-  <A href="mdmspe.ps.gz">gzipped PostScript</A> or 
-  <A href="http://www.cs.dartmouth.edu/~doug/mdmspe.pdf">pdf</A>
-<BR>M. D. McIlroy, The music of streams,
-  <CITE>Information Processing Letters <B>77</B> (2001) 189-195</CITE>.
-  <B>Power series</B> <A href="music.ps.gz">gzipped PostScript</A> 
-  (preprint), PDF available from
-  <A href="http://www.mathematicsweb.org/mathematicsweb/show/Index.htt">mathematicsweb.org</A> 
-<BR>M. D. McIlroy, Enumerating the strings of <B>regular languages</B>,
-  <CITE>J. Functional Programming</CITE> <B>14</B> (2004) 503-518
-  <A href="nfa.ps.gz">gzipped PostScript</A> (preprint),
-  <A href="nfa.hs">Haskell code</A> 
-<P><B>Text processing</B>
-<BR>M. D. McIlroy, <CITE><B>Synthetic English speech</B> by rule,</CITE>
-  Bell Telephone Laboratories CSTR #14 (1974)
-  <a href="speak.tar">tar file</a> of scanned pages (11MB)
-<BR>M. D. McIlroy, Development of a <B>spelling</B> list,
-  <CITE>IEEE Trans. on Communications</CITE> <B>30</B> (1982) 91-99,
-  <A href="spell.ps.gz">gzipped PostScript</A> 
-<P><B>Milieu</B>
-<BR>M. D. McIlroy, Mass produced <B>software components</B></A>, 
-  <CITE>
-<a href="http://homepages.cs.ncl.ac.uk/brian.randell/NATO">Proc. NATO Software Eng. Conf.</a></CITE>, Garmisch, Germany (1968) 138-155, 
-  <A href="components.txt">text</A>
-<BR>W. S. Brown, B. D. Holbrook, and M. D. McIlroy, <B>Computer science</B>
-  [at Bell Labs], in S. Millman (ed.) <CITE>A History of Engineering and Science   in the Bell System, Communication Sciences (1925-1980)</CITE>,
-  AT&amp;T Bell Laboratories (1984).
-<BR>J. Hartmanis et al (including M. D. McIlroy),
-  <CITE><A href="http://www.nap.edu/readingroom/books/ctf">
-  <B>Computing the Future</B></A></CITE>, National Academy Press,
-  Washington (1994)
-<BR>T. Hughes et al (including M. D. McIlroy),
-  <A href="http://www.nap.edu/readingroom"><CITE>Funding a Revolution:
-  <B>Government Support</B> for Computing Research</CITE></A>,
-  National Academy Press, Washington (1998) 
-<HR>
-<EM>Modified June 19, 2007</EM>
-</BODY>
-</HTML>
->*ñ
+<html>
+<head>
+<title>Gallery explanation</title>
+</head>
+<body>
+<h1>Notes on the <a href="index.html#gallery">gallery</a></h1>
+<h2><a name="maps"> Maps from my Christmas cards</a></h2>
+<p>
+<b>Ring of Fire.</b>  The great chain of volcanoes is usually depicted
+as surrounding the Pacific Ocean.  Here the perspective is
+reversed and the volcanoes surround the continents.
+<blockquote>
+Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:
+For I, saith the Lord, will be unto her a wall of fire round about.
+&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;Zechariah 2:4-5
+</blockquote>
+<p>
+<b>Jerusalem Trefoil.</b>  Three circles of different sizes are drawn 
+on the globe roughly to encompass each of three continents, with each
+circle passing through Jerusalem.  Then the circles are
+stretched conformally into trefoil leaves.
+<p>
+<b>Way to go.</b>  On this map for shepherds and magi a line from any point 
+to Bethlehem shows the great-circle direction
+to Bethlehem (but not the great circle itself).
+Within the inner hemisphere directions are conventional;
+north up, east to the right.  Within the outer hemisphere they
+are inverted--north down, east still to the right.
+Peter McIlroy suggested this
+arrangement of the hemispheres, which are usually
+presented as two conventionally oriented sheets.
+
+<h3>Conformal polygonal hemispheres</h3>
+<b><a href="maps/penta.jpg">Big star.</a></b> Northern and 
+southern hemispheres are pentagons.
+<p>
+<b><a href="maps/hex.jpg">Sea whirled.</a></b> 
+Hemispheres are
+triangles, with which the plane can be tiled continuously.
+The orientation here (hemispheres bounded by 80&deg;E and 100&deg;W;
+vertices at 90&deg;S and 30&deg;N) is chosen to display the continuity
+of the major oceans. In an extended tiling,
+the coastlines of North
+America and Eurasia would be trebled like Antarctica's.
+<p>
+Two decades after the math for conformal polygons was published
+(H. A. Schwarz, 1869), conformal square hemispheres
+appeared in cartography (C. S. Peirce, 1888),
+but triangles came considerably later (O. S. Adams,
+1925) and pentagons not for a century
+(J. P. Snyder, unpublished).
+My <a href="map.tar.gz">map program</a> can draw the 3- through 8-sided members
+of this series.
+<h2><a name="words">Word squares</a></h2>
+<p>These squares, which I found by
+exhaustive search in Webster's Collegiate Dictionary, were
+nominated as best of their sizes by
+the nonpareil word-gamester, Dmitri Borgmann;
+see A. Ross Eckler, <em>Making the Alphabet Dance</em>,
+St. Martin, 1995.
+More squares have been published in 
+<a href="http://www.wordways.com"><em>Word Ways</em></a>;
+see my <a href="doug.bib">bibliography</a>.
+A <a href="squares.c">C program</a> for the search
+still exists, simplified from the original, which had to be
+contorted to squeeze into a tiny DEC PDP-11.
+<hr>
+<a href="index.html">Doug McIlroy's home page</a>
+<hr>
+<em>Modified January 6, 2009.</em>
+<br><br>
+</body>
+</html>

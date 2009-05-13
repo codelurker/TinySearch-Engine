@@ -1,101 +1,27 @@
-http://www.cs.dartmouth.edu/~tanzeem/contact/contact.html
+http://www.cs.dartmouth.edu/~dfk/caricature
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
-<head>
-
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-
-<!-- #BeginEditable "doctitle" -->
-  <title></title>
-
-
-<!-- #EndEditable -->
-  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
-
-  <style type="text/css">
-.style1 {
-color: #006699;
-}
-  </style>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<html> <head>
+<title>David Kotz, a caricature</title>
 </head>
 
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
 
-<body>
+<center>
+<h1><a href="../">David Kotz</a></h1>
 
-<!-- Begin Container -->
-<div id="container"><!-- Begin Masthead -->
-<div id="masthead">
-<h1><a href="#">Tanzeem Choudhury</a></h1>
+Click for ...
+ <a href="dfk0.125.JPG">50% size</a> ...
+ <a href="dfk0.20.JPG">80% size</a> ...
+ <a href="dfk0.50.JPG">200% size</a> ...
+ <a href="dfk1.00.GIF">400% size</a>.
 
-<h3>Assistant Professor</h3>
+<p>
 
-<h4>Computer Science, Dartmouth College</h4>
+<IMG width=396 height=585 src="dfk0.25.JPG" align=top><p>
 
-</div>
+Drawn by "Patrick", a caricature artist at Sea World in San Diego, August 1999.
 
-<!-- End Masthead --><!-- Begin Navigation -->
-<div id="navigation">
-<ul>
+</center>
 
-  <li><a href="../index.html">About</a></li>
-
-  <li><a href="../pubs/pubs.html">Publications</a></li>
-
-  <li><a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
-
-  <li><a href="../students/students.html">Students</a></li>
-
-  <li><a href="../teaching/teaching.html">Teaching</a></li>
-
-  <li><a href="../press/press.html">Press</a></li>
-
-  <li><a href="../links/links.html">Links</a></li>
-
-  <li><a href="contact.html">Contact</a></li>
-
-</ul>
-
-</div>
-
-<!-- End Navigation --><!-- Begin content_container -->
-<div id="content_container"><!-- Begin Left Column -->
-<div id="column_left"><!-- #BeginEditable "content" -->
-<blockquote>
-  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">Computer
-Science Department</p>
-
-  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">Dartmouth
-College</p>
-
-  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">6211
-Sudikoff</p>
-
-  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">Hanover,
-NH 03755</p>
-
-  <p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">t
-a n z e e m . c h o u d h u r y @ d a r t m o u t h . e d u</p>
-
-</blockquote>
-
-<!-- #EndEditable --></div>
-
-<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
-<div id="footer">
-<p><a href="../index.html">About</a> |<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV.pdf">C.V.</a>
-| <a href="../students/students.html">Students</a>
-|
-<a href="../teaching/teaching.html">Teaching</a> |
-<a href="../press/press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
-
-</div>
-
-<!-- End Footer --></div>
-
-<!-- End content_container --></div>
-
-<!-- End Container -->
-</body>
-</html>
-ead><i
+</body> </html>

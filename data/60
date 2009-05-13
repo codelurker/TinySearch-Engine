@@ -1,288 +1,269 @@
-http://www.cs.dartmouth.edu/~thc
+http://www.cs.dartmouth.edu/~robotics
 2
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<HTML>
-<HEAD>
-<TITLE>Thomas H. Cormen</TITLE>
-<link REL="SHORTCUT ICON" HREF="images/cormen-tiny.jpg">
-</HEAD>
-<BODY TEXT="#000068" LINK="#060FDF" VLINK="#060FDF" ALINK="#DC24C5" BGCOLOR="#FFFFFF">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.14.0" />
+		<meta name="keywords" content="Main Page,Devin Balkcom" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit" />
+		<link rel="edit" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/~robotics/mediawiki/opensearch_desc.php" title="RobotLab (en)" />
+		<link rel="alternate" type="application/rss+xml" title="RobotLab RSS Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="RobotLab Atom Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>RobotLab</title>
+		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/shared.css?195" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/commonPrint.css?195" type="text/css" media="print" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/main.css?195" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE50Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE55Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE60Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/IE70Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/~robotics/mediawiki/skins/common/IEFixes.js?195"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
 
-<!-- <TABLE CELLPADDING="10" CELLSPACING="0" WIDTH="475"> -->
-<TABLE CELLPADDING="10" CELLSPACING="0">
-<TR VALIGN=TOP>
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/~robotics/mediawiki/skins";
+		var wgArticlePath = "/~robotics/mediawiki/index.php/$1";
+		var wgScriptPath = "/~robotics/mediawiki";
+		var wgScript = "/~robotics/mediawiki/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "http://www.cs.dartmouth.edu";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Main_Page";
+		var wgTitle = "Main Page";
+		var wgAction = "view";
+		var wgArticleId = "1";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = "255";
+		var wgVersion = "1.14.0";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
 
-<TD ALIGN=LEFT VALIGN=TOP WIDTH=151>
+		<script type="text/javascript" src="/~robotics/mediawiki/skins/common/wikibits.js?195"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/~robotics/mediawiki/skins/common/ajax.js?195"></script>
+		
+<style type="text/css">
+<!--
+.highlight {
+    background-color: yellow;
+}
+.blockquote {
+	border-left: 12px solid #BBBBBB;
+	margin:5px 0 5px -25px;
+	padding:0;
+	padding-left: 15px;
+}
+-->
+</style>		<script type="text/javascript" src="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Main_Page skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Main Page</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From RobotLab</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><br />
+We are interested in the mechanics of locomotion and manipulation -- the interface between robots and the physical world. We have studied exact optimal trajectories for vehicles, robot origami folding, knot-tying, grasping cloth, and robust minimal-sensing control of rigid-body contact tasks.  The PI is <a href="/~robotics/mediawiki/index.php/Devin_Balkcom" title="Devin Balkcom">Devin Balkcom</a>.
+</p>
+<a name="Projects" id="Projects"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit&amp;section=1" title="Edit section: Projects">edit</a>]</span> <span class="mw-headline">Projects</span></h2>
+<table cellspacing="5">
 
-<IMG SRC="images/Cormen05.jpg"><P>
+<tr>
+<td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th> <a name="Knot-tying_machines" id="Knot-tying_machines"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Knot-tying machines</span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">  <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Knot.png" class="image" title="Knot.png"><img alt="" src="/~robotics/mediawiki/images/0/00/Knot.png" width="128" height="94" border="0" /></a></div> How hard is knot-tying, and what are the limitations of fixturing?  We have built fixtures such that string pushed through the fixture (by hand or pressurized air) is tied into a knot.
+</td></tr></table>
+</td><td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th> <a name="Protein_structure_from_x-ray_scattering" id="Protein_structure_from_x-ray_scattering"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Protein structure from x-ray scattering</span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">  We have studied one component of the problem of elucidating three-dimensional structure from solution scattering data, determining the distribution of interatomic distances, the P(r) curve.  We propose a set of linear constraints to precisely describe the space of all consistent P(r) curves, as a polytope of histogram values or Fourier coefficients.
+</td></tr></table>
+</td></tr>
+<tr>
+<td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th> <a name="Geodesics_for_rigid_planar_robots" id="Geodesics_for_rigid_planar_robots"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Geodesics for rigid planar robots</span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">  <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Omni.jpg" class="image" title="Omni.jpg"><img alt="" src="/~robotics/mediawiki/images/7/71/Omni.jpg" width="128" height="121" border="0" /></a></div>  We characterize the shortest paths for a model of rigid bodies in the plane.  These results include the shortest paths for the well-known Dubins and Reeds-Shepp cars as special cases, and also apply to a model of a differential-drive robot, to parts being stably pushed by a robot arm, and to several varieties of omni-directional mobile robots.
+</td></tr></table>
+</td><td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th> <a name="Grasping_Cloth" id="Grasping_Cloth"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Grasping Cloth</span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">
+<table>
+<tr>
+<td style="vertical-align:top"> <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Cloth_grasping.png" class="image" title="Cloth grasping.png"><img alt="" src="/~robotics/mediawiki/images/b/b8/Cloth_grasping.png" width="128" height="96" border="0" /></a></div>
+</td><td style="vertical-align:top"> Pulling on the two ends of a string immobilizes the string.  Pulling on the four corners of a square piece of cloth immobilizes the cloth.  Pulling on the five points of a star immobilizes the star.  For all these examples, it is sufficient to just grasp the convex vertices.  Is this true in general?  We have shown that there exist polygons for which up to one third of concave vertices need to be grasped (example shown at left), but that there are no polygons for which more than one third of the concave vertices must be grasped.
+</td></tr></table>
+</td></tr></table>
+</td></tr>
+<tr>
+<td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th> <a name="Robotic_origami_folding" id="Robotic_origami_folding"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Robotic origami folding</span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">  <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Origami.jpg" class="image" title="Origami.jpg"><img alt="" src="/~robotics/mediawiki/images/1/12/Origami.jpg" width="128" height="77" border="0" /></a></div>  We built a robot capable of folding a paper hat, paper airplane, and paper cup. We have also analyzed more complicated folding techniques;for example, our work with Erik and Martin Demaine questions whether ordinary paper shopping bags can be mathematically folded.
+</td></tr></table>
+</td><td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th> <a name="Rigid-body_manipulation" id="Rigid-body_manipulation"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Rigid-body manipulation</span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">  We  designed an algorithm for computing all possible forces and torques consistent with constraints on the motion of rigid bodies, and used the algorithm to compute parts-seating plans that are robust to incomplete or incorrect sensor information and to frictional indeterminacy.
+</td></tr></table>
+</td></tr></table>
+<a name="Undergraduate_projects" id="Undergraduate_projects"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit&amp;section=2" title="Edit section: Undergraduate projects">edit</a>]</span> <span class="mw-headline"> Undergraduate projects</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/~robotics/mediawiki/index.php/File:Swatbot.JPG" class="image" title="Wheeled SWAT robot"><img alt="" src="/~robotics/mediawiki/images/thumb/e/e3/Swatbot.JPG/180px-Swatbot.JPG" width="180" height="135" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/~robotics/mediawiki/index.php/File:Swatbot.JPG" class="internal" title="Enlarge"><img src="/~robotics/mediawiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Wheeled SWAT robot</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/~robotics/mediawiki/index.php/File:Climbingrobot.jpg" class="image" title="Toy climbing robot"><img alt="" src="/~robotics/mediawiki/images/1/10/Climbingrobot.jpg" width="180" height="138" border="0" class="thumbimage" /></a>  <div class="thumbcaption">Toy climbing robot</div></div></div>
+<p>At the request of the central New Hampshire SWAT team, Bell, Krishnan, and undergraduate Hoy built wheeled and tracked robots for remote surveillance.  The robots met with great enthusiasm, but currently are in need of some repair and possibly redesign.  Contact Balkcom if you're an undergraduate at Dartmouth and would like to work on this project.  
+</p><p>Undergraduate Matt Elwin won the "class of 1959 prize", for his work on folding cartons with fixtures.  Bell, while an undergraduate, won the C.S. department's Kemeny prize for his work on a toy rock-climbing robot, and published a short paper and poster about this robot at ICRA 2006.  Rosa, Pyke, and Kevin Olds worked on the problem of freeing mobile robots stuck in sand, which led to a short paper/poster at the IEEE ICRA conference.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 57/1000000
+Post-expand include size: 6726/2097152 bytes
+Template argument size: 2305/2097152 bytes
+Expensive parser function count: 0/100
+-->
 
-</TD>
+<!-- Saved in parser cache with key robo_wiki:pcache:idhash:1-0!1!0!!en!2 and timestamp 20090513011915 -->
+<div class="printfooter">
+Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Main_Page">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Main_Page</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/~robotics/mediawiki/index.php/Main_Page" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/~robotics/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Main_Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://www.cs.dartmouth.edu/~robotics/mediawiki/images/a/a5/Lablogo.png);" href="/~robotics/mediawiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-the_lab'>
+		<h5>the lab</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Projects"><a href="/~robotics/mediawiki/index.php/Main_Page">Projects</a></li>
+				<li id="n-Publications"><a href="/~robotics/mediawiki/index.php/Publications">Publications</a></li>
+				<li id="n-Join-the-lab"><a href="/~robotics/mediawiki/index.php/Join_the_lab">Join the lab</a></li>
+				<li id="n-Equipment-notes"><a href="/~robotics/mediawiki/index.php/Equipment_notes">Equipment notes</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-people'>
+		<h5>people</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Devin-Balkcom-.28P.I..29"><a href="/~robotics/mediawiki/index.php/Devin_Balkcom">Devin Balkcom (P.I.)</a></li>
+				<li id="n-Paritosh-Kavathekar"><a href="/~robotics/mediawiki/index.php/Paritosh_Kavathekar">Paritosh Kavathekar</a></li>
+				<li id="n-Matthew-Bell"><a href="/~robotics/mediawiki/index.php/Matthew_Bell">Matthew Bell</a></li>
+				<li id="n-Andrei-Furtuna"><a href="/~robotics/mediawiki/index.php/Andrei_Furtuna">Andrei Furtuna</a></li>
+				<li id="n-Govind-Krishnan"><a href="/~robotics/mediawiki/index.php/Govind_Krishnan">Govind Krishnan</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-courses'>
+		<h5>courses</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Intro-to-Robotics"><a href="http://cs54.wikidot.com">Intro to Robotics</a></li>
+				<li id="n-Robotics-Camp"><a href="http://robotcamp.wikidot.com">Robotics Camp</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/~robotics/mediawiki/index.php/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Search RobotLab [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere/Main_Page" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Main_Page" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;oldid=255" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/~robotics/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 30 April 2009, at 00:43.</li>
+					<li id="viewcount">This page has been accessed 2,056 times.</li>
+					<li id="privacy"><a href="/~robotics/mediawiki/index.php/RobotLab:Privacy_policy" title="RobotLab:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/~robotics/mediawiki/index.php/RobotLab:About" title="RobotLab:About">About RobotLab</a></li>
+					<li id="disclaimer"><a href="/~robotics/mediawiki/index.php/RobotLab:General_disclaimer" title="RobotLab:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
 
-<TD ALIGN=LEFT VALIGN=TOP>
-
-<H2>Thomas H. Cormen<br>
-Professor of Computer Science</H2>
-
-<p>
-
-Ph.D., <A HREF="http://www.csail.mit.edu/">Massachusetts Institute of
-Technology</A>, 1992.<P>
-
-<H3>Research Interests</H3>
-
-Algorithm engineering, parallel computing, speeding up computations
-with high latency.<br>
-Computer science writing.
-
-<br>
-<br>
-
-<DL>
-<DD>
-<B>
-<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=center> 
-  <A HREf="papers.html">Papers</A><BR> 
-<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=center>
-     <A HREf="http://www.cs.dartmouth.edu/FG/">FG</A>
-     <!-- <a href="http://www.cs.dartmouth.edu/FG/"><IMG SRC="new.gif" ALT="*" ALIGN=center border=0></a> --><br>
-<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9
-     ALIGN=center>
-   <A HREf="software.html">Other software</A><BR> 
-<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=CENTER>
-     <a href="papers/cormen-vita.pdf">Vita</a>
-</B>
-</DL>
-
-</TD>
-</TR>
-</TABLE>
-
-<TR VALIGN=TOP>
-<TD COLSPAN="2">
-
-<hr>
-
-Are you looking for solutions to exercises and problems in
-<i>Introduction to Algorithms</i>?
-
-<p>
-
-If you are, then see the <a href="#solutions">frequently asked
-question and answer</a> below.
-
-<p>
-
-If you request solutions from me, I will not respond.
-
-<hr>
-
-I receive many requests from students who want to work with me as
-interns or as graduate students.  I am not taking on any interns or
-new graduate students at this time.
-
-<hr>
-
-From July 2004 through June 2008, I was the director of the <a
-href="http://www.dartmouth.edu/~writing/">Dartmouth Institute for
-Writing and Rhetoric</a>.
-
-<hr>
-
-<h3>Graduate Students</h3>
-
-Current graduate student:
-<ul>
-  <li> <a href="http://www.cs.dartmouth.edu/~priya/">Priya Natarajan</a>
-</ul>
-
-Former graduate students:
-<ul>
-  <li> Alex Colvin, Ph.D. 1999
-  <li> Geeta Chaudhry Petrovic, Ph.D. 2004 [<a href="images/Cormen&Chaudhry.JPG">Photo</a> of Geeta and me at 2004 Dartmouth graduation]
-  <li> Elena Riccio Strange (formerly Elena Riccio Davidson), Ph.D. 2006
-  <li> Len Wisniewski, Ph.D. 1996
-  <li> Melissa Hirschl Chawla, M.S. 1997
-  <li> <a href="http://www.cs.washington.edu/homes/miker/">Michael Ringenburg</a>, M.S. 2001
-  <li> Georgi Vassilev, M.S. 1994
-</ul>
-
-<hr>
-
-<h3><i>Introduction to Algorithms</i></h3>
-
-Yes, I am coauthor of <i>Introduction to Algorithms</i>, along with <a
-href="http://supertech.csail.mit.edu/~cel">Charles Leiserson</a>, <a
-href="http://theory.csail.mit.edu/~rivest">Ron Rivest</a>, and <a
-href="http://www.ieor.columbia.edu/~cs2035">Cliff Stein</a>.  Here are
-answers to a few frequently asked questions about <i>Introduction to
-Algorithms</i>:
-<dl>
-  <dt> <i>I see that there are two versions of the second edition,
-       one published by The MIT Press and one published by McGraw-Hill.
-       How do the two versions differ?</i>
-  <dd> Other than minor differences in the covers, the book content
-       in the two versions is identical.  McGraw-Hill also includes a CD
-       (see the next question).
-       <p>
-
-  <dt> <i>Are the algorithms in the book implemented in a real programming
-       language, rather than just pseudocode?</i>
-  <dd> McGraw-Hill now includes with the book a CD containing Java
-       implementations of all the algorithms in Parts I-VI.  The CD also
-       has Javadoc-generated web pages that document all the classes.
-       <p>
-
-  <dt> <a name="errata"></a><i>Where can I find a list of errata?</i>
-  <dd> We maintain an <a href="clrs-2e-bugs">errata page</a> that allows
-       you to list errors by date, by page, by severity, or by discoverer.
-       There is even an incremental update feature, allowing you to list
-       only the errors posted since the last date that you asked about.
-       <p>
-
-  <dt> <i>How do I report errors?</i>
-  <dd> First, please visit the <a href="clrs-2e-bugs">errata page</a>
-       to verify that the error has not been reported already.  Once
-       you have determined that you have found an unreported error,
-       send email to <a
-href="mailto:algorithm-bugs@mitpress.mit.edu">algorithm-bugs@mitpress.mit.edu</a>.  We will respond as quickly as possible, often within a day.
-       <p>
-
-  <dt> <i>Do you correct errors?</i>
-  <dd> Yes.  Each time a new printing is produced, it contains corrections
-       to all errors that have been reported by that time.  The <a
-       href="clrs-2e-bugs">errata page</a> indicates in which printing
-       each error was corrected.
-       <p>
-
-  <dt> <i>What is the difference between an edition and a printing?</i>
-  <dd> Each edition is a major revision of the book.  The first edition
-       of <i>Introduction to Algorithms</i> was published in 1990, and
-       the second edition did not appear until 2001.  A printing for a
-       given edition occurs when the publisher needs to manufacture more
-       copies.  As the answer to the previous question indicates, we
-       have been correcting errors in each printing of the second
-       edition.  We perturb the pagination as little as possible when
-       correcting errors for a new printing.
-       <p>
-
-  <dt> <a name="solutions"></a><i>Can I get solutions to exercises and
-       problems?</i>       
-  <dd> If you are an instructor who has adopted the book for course use,
-       yes.  Otherwise, no, and please do not ask me for solutions; I
-       will not respond.
-       Instructors who have adopted the book for course use can get
-       the Instructor's Manual, which has lecture notes and solutions
-       to some (but not all) of the exercises and problems.  You'll
-       need to contact either The MIT Press (if you are outside the U.S.
-       and Canada) or McGraw-Hill (if you are within the U.S. or Canada)
-       for passwords to access the manual site and the files.  You cannot
-       get the passwords from me or from any of my coauthors.
-       <p>
-
-  <dt> <i>How can I typeset pseudocode to make it look like the pseudocode
-       in the book?</i>
-  <dd> In June 2003, I made available the <code>clrscode</code> package
-       for LaTeX2e.  You can download the package and its documentation
-       (in either PostScript or PDF) by clicking <a
-       href="clrscode">here</a>.  The package is also on the
-       <a href="http://www.ctan.org/tex-archive/macros/latex/contrib/clrscode/?filename=macros/latex/contrib/clrscode/&preferredCTAN=tug.ctan.org&action=/tools/filesearch&catstring=macros/latex/contrib/clrscode/">CTAN website</a>.
-       <p>
-
-  <dt> <i>Where are the web sites for the book?</i>
-  <dd> The MIT Press site is <a
-       href="http://mitpress.mit.edu/algorithms">http://mitpress.mit.edu/algorithms</a>.
-       The McGraw-Hill site is <a href="http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072970545">http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072970545</a>,
-       and you can find the McGraw-Hill Online Learning Center for the
-       book at <a
-       href="http://www.introductiontoalgorithms.com">http://www.introductiontoalgorithms.com</a>
-       (also <a
-       href="http://www.introtoalgorithms.com">http://www.introtoalgorithms.com</a>).
-       <p>
-
-  <dt> <i>Are you guys going to produce a third edition?</i>
-  <dd> Yes.  Click <a href="CLRS3e">here</a> for more information.
-       
-</dl>
-
-<hr>
-
-<h3>Miscellaneous Personal Stuff</h3>
-
-My brother-in-law, Tony Pecora, is the first patient in the US to
-undergo the Edmonton Protocol for treatment of juvenile diabetes.
-Check out his website at <a
-href="http://www.isletsupporter.com">http://www.isletsupporter.com</a>.
-
-<p>
-
-My wife, Nicole, and I took a <a href="bbqtour">Barbecue tour</a> of
-the South in August 1998.
-
-<p>
-
-I was the Ice Man for the <a href="http://www.mdbbq.com">Maryland
-State Barbecue Championship</a> in 2003, 2004, and 2005.  Here's a <a
-href="ICE.jpg">photo</a> from the 2005 contest of me with a
-quad-runner full of 40-pound bags of ice.  The photo was taken by the
-<a href="http://www.dizzypigbbq.com/">Dizzy Pigs</a>, the 2005 and
-2006 Grand Champions.  Even with the megaphone, I was pretty hoarse by
-the end of the second day.  The Dizzy Pigs, and all the other
-contestants, can explain why.
-
-<p>
-
-In September 1997, Nicole and I finished hiking all 48 of the
-4000-foot peaks in the <a
-href="http://www.cs.dartmouth.edu/whites/summits_alf.html">White
-Mountains</a> of New Hampshire.
-
-<p>
-
-Have you ever noticed <a href="bank">something odd about bank deposit
-slips</a>?
-
-<hr>
-
-<h3>Contact Information</h3>
-
-I am on sabbatical July 1, 2008 through June 30, 2009.  The best way
-to contact me is by email at <a
-href="mailto:thc@cs.dartmouth.edu">thc@cs.dartmouth.edu</a>.  If you
-must find me some other way:
-
-<p>
-
-U.S. Mail:<br>
-Department of Computer Science<br>
-Dartmouth College<br>
-6211 Sudikoff Laboratory<br>
-Hanover, NH 03755-3510
-
-<p>
-
-Office:<br>
-204 Sudikoff Laboratory
-
-<p>
-
-Phone:<br>
-Voice: 603-646-2417<br>
-Fax: 603-646-1672
-
-<P><HR SIZE=4>
-<H4> 
-<IMG ALIGN="MIDDLE" SRC="images/Dtree.gif" WIDTH=34 HEIGHT=39> 
-<A HREF="/">Back to Dartmouth Computer Science Home Page</A> 
-</H4>
-</TD>
-</TR>
-
-<hr>
-<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
-<!-- hhmts start -->
-Last modified: Mon Apr  6 21:08:45 2009
-<!-- hhmts end -->
-</body> </html>
-
-</BODY>
-</HTML>
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.371 secs. --></body></html>

@@ -1,208 +1,238 @@
-http://www.cs.dartmouth.edu/~farid/home.html
+http://www.cs.dartmouth.edu/~wbc/suditour/ac/index.html
 3
-<html>
-<head>
-<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
-
-<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
-
-<SCRIPT LANGUAGE="JavaScript">
-<!--
-   var isNS4 = (document.layers) ? true : false;
-   var isIE4 = (document.all && !document.getElementById) ? true : false;
-   var isIE5 = (document.all && document.getElementById) ? true : false;
-   var isNS6 = (!document.all && document.getElementById) ? true : false;
-   var home_bg_index;
-
-   function pickhome_bg() {
-      home_bg_index = 9;
-      filename = "home_bg" + home_bg_index + ".gif";
-      photo = new Image(); photo.src = filename;
-      document.home_bg.src = photo.src;
-   }
-
-   function setvis( name, val ) {
-      if( isNS4 ) {
-          p = document.layers[name];
-	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
-      } else {
-	if( isIE4 ){
-          p = document.all[name].style;
-	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
-	} else if( isIE5 || isNS6 ) {
-          p = document.getElementById(name).style;
-	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
-	} else {
-          p = document.getElementById(name).style;
-	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
-	}
-      }
-   }
-//-->
-</SCRIPT>
-</head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066"
-      onLoad="pickhome_bg();">
-
-
-<META name="keywords" content="Hany Farid, Hani Farid, research, vision, image
-processing, computer vision, machine vision, human vision, steerable
-filters, derivative filters, fractional derivatives, fractional
-fourier transform, range estimation, image separation, separating
-reflections, digital forgery, digital tampering, digital forensics,
-expert witness, steganography, steganalysis, secret messages, motion
-grouping, texture grouping, temporal synchrony, transparency,
-tutorials, primer, matlab, bispectrum, bicoherence, blind gamma
-correction, image non-linearity, mathematics for kids, math for kids,
-mathematics stories, math stories, reconstructing egyptian tombs,
-unfolding egyptian tombs, virtual egyptian tombs, egyptian tomb,
-egyptian murals, Orozco murals, vrml, visual illusions">
-
-<META Name="description" Content="Hany Farid, Professor,
-Image Science Group, Department of Computer Science, Dartmouth
-College">
-
-   <map name="menubar">
-   <area shape="rect" coords="35,105,95,125"
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('me',1);setvis('medot',1);"
-      onmouseout="setvis('me',-1);setvis('medot',-1);">
-
-   <area shape="rect" coords="100,105,160,125"
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('info',1);setvis('infodot',1);"
-      onmouseout="setvis('info',-1);setvis('infodot',-1);">
-
-   <area shape="rect" coords="230,108,295,123"
-      href="group.html" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('peopledot',1);"
-      onmouseout="setvis('peopledot',-1);">
-
-   <area shape="rect" coords="230,131,295,146"
-      href="publications/" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('papersdot',1);"
-      onmouseout="setvis('papersdot',-1);">
-
-   <area shape="rect" coords="230,154,318,167"
-      href="research/" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('researchdot',1);"
-      onmouseout="setvis('researchdot',-1)">
-
-   <area shape="rect" coords="230,175,317,188"
-      href="teaching" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('teachingdot',1);"
-      onmouseout="setvis('teachingdot',-1);">
-
-   <area shape="rect" coords="230,196,316,210"
-      href="tutorials" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('tutorialsdot',1);"
-      onmouseout="setvis('tutorialsdot',-1);">
-
-   <area shape="rect" coords="585,105,665,125"
-      onmouseover="setvis('contact',1);setvis('contactdot',-1);setvis('contactdot',1);">
-
-   <area shape="rect" coords="375,233,435,246"
-      href="egypt/reconstruction.html" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('egyptdot',1);"
-      onmouseout="setvis('egyptdot',-1);">
-
-   <area shape="rect" coords="375,252,450,265"
-      href="myphotos"
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('photosdot',1);"
-      onmouseout="setvis('photosdot',-1);">
-
-   <area shape="rect" coords="375,271,460,284"
-      href="illusions/monster.html" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('illusiondot',1);"
-      onmouseout="setvis('illusiondot',-1);">
-
-   <area shape="rect" coords="375,290,475,303"
-      href="mathkids" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('mathkidsdot',1);"
-      onmouseout="setvis('mathkidsdot',-1);">
-
-   <area shape="rect" coords="375,309,505,326"
-      href="sciencekids" 
-      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('sciencekidsdot',1);"
-      onmouseout="setvis('sciencekidsdot',-1);">
-  </map>
+<html><head><title>heating and air conditioning in sudikoff</title></head>
+<body>
+<h2>Why is it so hot/cold in here?</h2>
+<a href="Sudi-park-1.jpg">Sudikoff</a>
+ lab has two separate systems in it.  One brings in 
+<a href="#fresh">fresh air</a> and the other provides
+<a href="#cooling"> heating and cooling</a>.  These systems are
+completely independent!  It is important to remember that the systems are
+separate when dealing with problems.
+<p>
+<h2><a name="fresh">Fresh Air</a></h2>
+Fresh air is brought into sudikoff from the outside into the 
+<a href="build-in1.jpg">machine room</a>
+in the basement behind the central staircase.  There it is filtered,
+heated (?) and sent to each room of the building through a series of 
+<a href="ducts.jpg">ducts</a>.  Each room has a <a href="fresh005.jpg">fresh air duct</a>, 
+usually on the ceiling.
+In offices the 
+<a href="fresh014.jpg">intake</a> is usually a small grille in a large metal
+panel.  In the large rooms and labs the 
+<a href="fresh005.jpg">fresh air duct</a> looks just like a
+heating/a-c duct, except that it doesn't have a filter inside it.
+The larger rooms and labs also have a return for stale air to go
+back to the machine room.  Smaller rooms don't have an air return. 
+The air from smaller rooms goes out the door, or under the door if it
+is closed, to 
+<a href="freshhal.jpg">returns</a> high up in the hallways.
+<p>
+<h2><a name="cooling">Heating and cooling</a></h2>
+The heating and cooling of rooms in Sudikoff relies on sophisticated
+machinery and controls.  Hot water comes into Sudikoff from the steam plant
+and circulates the building through pipes on the ceilings of the corridors.
+These pipes are labeled, which adds to the "high tech" look that the
+architects wanted for this building.  
+Chilled water from the <a href="#chiller">chiller</a> also circulates through pipes
+in the hallways.  
+<p>
+Both hot and chilled water goes to 
+"fancoil" units which are in each room that is considered habitable.
+The <a href="fancoil.jpg">fancoil</a> units are either on the walls below the windows in 
+smaller offices, or on the ceilings in the larger rooms.  The big
+labs have two <a href="fancoil-005.jpg">fancoil</a> units, 
+with one fresh air unit between 
+them, on the ceiling.  These fancoil units heat or cool the air, as needed,
+and have filters to clean dust out of the air.  A switch which controls
+the *fan speed* of the unit is placed either on the wall, or inside
+the top grill of the under-window units.  If this fan is not running
+the heat or coolness will not get out into the room.
+<p>
+The temperature is controlled by a "microchip" unit in the ceiling
+which reads the temperature at the thermostat on the wall and decides
+whether to heat, cool, or do nothing.  The temperature is set remotely
+by computer at the chiller plant.
+<p>
+The temperature is set to be at least 68 degrees and no more than
+76 degrees in each room when someone is in it.  Of course, these
+temperatures are sensed at the thermostat and if you are sitting closer to
+the fancoil you may be hotter or colder than the thermostat, especially
+in some of the long, narrow rooms.  When the room sensors, the little
+while boxes in the upper corner of the room with the flashing red lights,
+sense that no one is in the room they will let the temperature go up
+to 80 degrees in cooling season, and down to 60 degrees in heating 
+season, on the theory that if no people are in the room it is a waste of energy
+to try and heat or cool it too much.  Within 20 minutes of a 
+person entering the room the temperature should go back within the
+68-76 range.  The 68-76 range is a matter of college policy,
+and it doesn't seem like the heating folks are willing to give any 
+latitude on it.
 
 
-  <div id="home" style="position:absolute; left:50; top:50; visibility:show">
-       <img src="home.gif" border="0" usemap="#menubar" name="home_bg">
-  </div>
+<p>
+<h2><a name="chiller">The Chiller</a></h2>
+Cold water enters the building, cools off the rooms and goes back
+out warm.  It is cooled by the <a href="sudchil1.jpg">
+chiller</a>, which moves the heat
+out of the water and into the outside air at the 
+<a href="S-tower-1.jpg">cooling tower</a>.  Deep underground, 
+off of the 
+<a href="tunnel1.jpg">tunnel</a>, is a large room 
+full of cooling <a href="sudchil2.jpg">machinery</a>.  The warm water from the building 
+goes through tubes.  The other side of these tubes heat up water in a
+lithium bromide
+refrigeration 
+cycle.  
+The lithium bromide solution heats water which then goes to heat
+the fins of the <a href="S-tower-1.jpg">cooling tower</a>, 
+which sends the heat into the outside air.  The 
+<a href="S-tower-outside.jpg">cooling tower</a> is outside Sudikoff
+at ground level.
 
-  <div  style="position:absolute; left:88; top:185">   
-       <a href="cv.pdf"><font color=#291C5E>cv</font></a>  
-       <font color=#291C5E>&</font>
-       <a href="bio.html"><font color=#291C5E>bio</font></a>
-  </div>
+<p>
+The lithium bromide heating cycle breaks down (and damages
+equipment) if the water going in is too cold.  Therefore there
+is a pneumatically controlled bypass valve to bypass the
+chiller and send 
+some of the water that is too cold back into the building.
 
-  <div id="me" style="position:absolute; left:185; top:195; visibility:hidden">
-       <img src="icon/meicon4.jpg" border="0">
-  </div>
+<p>
+<h2><a name="wrong">What Can Go Wrong?</a></h2>
+Apparently a few years ago the chiller was loaded with 
+a bad batch of fluid which corroded the insides, and severely
+stressed it.  It has needed more service than usual since.
+<p>
+In the first few years of operation there was a lot of trouble with the
+microsensors in each room.  If a microsensor goes bad it may turn the 
+heat all the way on on a hot summer day.  There is nothing like
+a 130 degree office!
+<p> 
+A downtime to clean the heat exchanger tubes was scheduled for the hottest part of the
+summer.
+<p>
+Recently (April 2000) a part for the chiller bypass vave that
+was found to be broken in the fall was not ordered or replaced until
+hot weather came.
+<p>
+<h2><a name="fix">What is Being Done</a></h2>
+There is a new campus wide <a href="bigchl1.jpg">chiller</a>
+ just across and <a href="bigchl3.jpg">underneath</a> the
+<a href="lot1.jpg">parking</a> 
+<a href="lot2.jpg">lot</a>.  The <a href="B-chiller2.jpg">cooling tower</a> is
+next to Kellog Auditorium.  
+Chilled water can be <a href="bigchl4.jpg">pumped</a> all over the north end of
+campus from this chilling plant. 
+Plans are to get chilled water from the new big 
+<a href="Big-chiller-1.jpg">chiller</a>
+plant and to stop using the local chiller and cooling tower.  
+This should make us less suceptable to chiller failures.
+<p>
+Future plans for this area call for a new math building
+to be built.  Undoubtedly the chilling faculities of Sudikoff
+will be tied in to those of the Kemeny math building when it is built,
+and that may be when Sudikoff's chilled water is tied in to the
+big chiller across the street.
+<p>
+<a href="problems-01-2005/index.html"> pictures here</a>
+in the spring of 2005  the "controller" that controls the speed of
+the two pumps that send water to the machine room broke.  So the 
+machine room overheated.  I had a hard time convincing the "fixers"
+that the pumps were the problem.  The AC folks put one pump onto
+full on mode and got the room cool again.  After a few months a new 
+controller was installed, which should be much easier to
+switch between pumps.  The old system took an engineer several hours
+to rewire connections!
+<p>
+June 28, 2005 - the CPU board of the chiller failed!
+<p>
+On July 8, 2005, the chiller that will never go down went down for
+4 hours in the evening.  Unfortunately our big cooler was 
+getting a new CPU (it has been down or on backup mode for a week)
+and it went crazy and started heating rather than cooling.  The machine
+room was 85 from 7:30 pm to the next morning, when an AC person came
+in and got it running.  It took a long time to cool down.
+<p>
+At some point, the 
+<a href="problems-01-2005/IMG_8339.JPG">"brain"</a> on CAC 1 failed, 
+and had to be replaced.  After the overheating due to the initial failure,
+I think the machine ran in "full on" mode for a while.  A main chiller
+problem caused overheating while the control was being replaced.
+<p>
+Feb 25 2006, one of the two main pumps on the big chiller broke.
+This slowed down the flow of chilled water, machine room temperature
+was about 78 degrees.  see <a href="problems-feb-28-06/index.html">here</a>
+<p>
+Mar 2 2006, "The Cooling Tower froze last night, which caused the temperature to rise but as of noon today the Chilled water temperature was back to normal. The tower froze as the air line which controls the pump motor had been relocated by the McClaughlin project and not been bled properly upon reinstallation."
+F.R.
+<p>
+Nov 9 2007 New unit failed - 111 degrees f - the technicians were testing/working on the compressor, and
+locked out the chilled water, so the unit could not switch over to backup
+mode.  Old units were off, the heating plant once again ignored
+alarms, no fixers came to turn on old units.
+<hr>
+<a href="chill-water-temp/index.html">
+Here are some normal water temperature readings 
+</a>
+<hr>
+We have one DACD 0732 cooler where:
+<ul>
+<li>DA - DataAire
+<li>C  - chilled water
+<li>D  - Downflow
+<li>07 - cooling capacity in tons
+<li>3  - phase
+<li>2  - 208 volts
+</ul>
 
-  <div id="contact" style="position:absolute; left:585; top:246; 
-       visibility:hidden"> <img src="icon/contact.gif" border="0">
-  </div>
+We also have a DAWD 0832C
 
-  <div id="info" style="position:absolute; left:51px; top:268px; 
-       visibility:hidden"> <img src="icon/info.gif" border="0">
-  </div>
+where
+<ul>
+<li>DA - DataAire
+<li>W  - water cooled
+<li>D  - Downflow
+<li>08 - tons
+<li>3  - phase
+<li>2  - 208 volts
+<li>the final C means "Auxillary chilled water coil 
+(Air or water cooled units)"
+This cooler is meant to run on chilled water, but has compressors 
+to use when the chilled water is not cold (because of a central chiller 
+failure or delivery failure)
+</ul>
+You can read about this 
+<a href="http://www.dataaire.com/inside.cfm?p=service#7"> here </a> 
+as of Nov '05
+<hr>
+Summer of 2006 - new construction!<p>
+During September of 2006 pipes are being installed for a new
+ac unit, as well as changing the path of chilled water for the
+existing two units!  
+<a href="new_pipe_1.jpg">Here </a> 
+is a picture of the pipes in the hall, before insulation.
+<a href="new_pipe_3.jpg">Here </a>  is where they tap
+into the existing chilled water which feeds the fresh air
+handler in the machine room.
+<hr>
+New unit is a Liebert DS105DSC0E1235A
+<ul>
+<li>DS - downdraft standard
+<li>105 - 105 KWatts
+<li>D - cooling type, Dual-Coolint, Air-Colled
+<li>S - Scroll Compressor, R-407C
+<li>C - 208/3/60 voltage
+<li>0 - Rev level 0
+<li>E - 3-stage electric reheat
+<li>I - Infrared humidication
+<li>1235A - Factory Configuration number
+</ul>
 
-  <div id="peopledot" style="position:absolute;  left:268px; top:163px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-  </div>
+by the way, one ton ice equals 12,000 BTU/hour, = 3.516 Kw<br>
+1 kilowatt-hour = 3,413 BTU = 0.28 tons (another article on a/c)
+<hr>
+There have been
+1911
+ visitors since March 28, 1998<br>
 
-  <div id="papersdot" style="position:absolute;  left:268px; top:183px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-  </div>
-
-   <div id="researchdot" style="position:absolute;  left:268px; top:204px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-  </div>
-
-   <div id="teachingdot" style="position:absolute;  left:268px; top:225px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-  </div>
-
-   <div id="tutorialsdot" style="position:absolute;  left:268px; top:246px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-  </div>
-
-   <div id="contactdot" style="position:absolute;  left:625px; top:162px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="egyptdot" style="position:absolute;  left:418px; top:284px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="photosdot" style="position:absolute;  left:418px; top:306px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="illusiondot" style="position:absolute;  left:418px; top:326px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="mathkidsdot" style="position:absolute;  left:418px; top:348px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="sciencekidsdot" style="position:absolute;  left:418px; top:368px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="infodot" style="position:absolute;  left:215px; top:162px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-   <div id="medot" style="position:absolute;  left:76px; top:162px; 
-       visibility:hidden"> <img src="icon/dot.gif" border="0">
-   </div>
-
-</body>
-</html>
-
-
--e06i
+</body></html>

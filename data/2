@@ -242,32 +242,26 @@ http://www.cs.dartmouth.edu/index.php
 
 <h1>Featured Research</h1>			
 
-		<h2 class="break">Approximate Nearest Neighbour Searching</h2>
+		<h2 class="break">Security through measurement for wireless LANs</h2>
 
-<img src="content/features_research/subballs.jpg"
-     alt="Schematic" />
+<img src="content/features_research/dhs.jpg"
+     alt="DHS logo" />
 
+<p> 
+<a href = "~dfk">Prof. David Kotz</a>, 
+<a href = "~campbell">Prof. Andrew Campbell</a>
 
-<p> <a href="~ac">Prof. Amit Chakrabarti</a>
+<p>
 
-<p> Nearest neighbour searching is one of those basic and fascinating
-theoretical problems in computer science that has a host of applications
-in problems from very diverse fields. The problem is widely believed to
-be intractable in high dimensions, but good approximation algorithms
-were discovered in the late 1990s.  </p>
+With the rise of Voice over wireless LAN (VoWLAN), any complete WiFi security solution must address denial of service attacks, such as kicking off other clients, consuming excessive bandwidth, or spoofing access points, to the detriment of legitimate clients. Even an authorized client may be able to sufficiently disrupt service quality to make the network ineffective for legitimate clients.
 
-<p> Our research considers the approximate nearest neighbour search
-(ANNS) problem on the d-dimensional Hamming cube. Building on techniques
-of information complexity and communication complexity from an earlier
-research project of ours, we prove the <em>first unrestricted lower
-bound</em> for this problem. We also improve previous algorithms for
-this problem, ending up with <em>matching upper and lower bounds</em> on
-the number of randomised queries required to solve ANNS.  </p>
+<p>
 
-<p> Shown in the figure is a schematic of the reduction bridging
-communication complexity and ANNS, a key step in our proof. </p>
+We take a three-point, MAP (Measure, Analyze, Protect) approach to develop an integrated and extensible framework to address existing and future attacks on WiFi networks. Specifically, we focus our efforts on an integrated set of new components that allow a WiFi network operator to measure and analyze WiFi and VoWLAN activity, and in real-time to identify and defend against MAC- and IP-layer attacks on that infrastructure. Our plan includes three overlapping phases: research, prototype development, and deployment on Dartmouth's campus-wide wireless network; the third phase is an option.
 
-<p> <a href="http://www.cs.dartmouth.edu/~ac">Read more...</a> </p>
+<p>
+
+<a href="http://www.cs.dartmouth.edu/~map/">Read more...</a>
 	</div>
 	
 	

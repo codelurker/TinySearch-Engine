@@ -1,16 +1,125 @@
-http://www.cs.dartmouth.edu/~wbc/suditour/011/index.html
+http://www.cs.dartmouth.edu/farid/research/registration.html
 3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-<h3>32bit linux computers that students may ssh to </h3>
-<ul>
-<li>carter (scratchbox) 4.1.1 Diablo (sb works)
-<li>carr (scratchbox) 4.1.2 Diablo (sb works)
-<li>hancock (scratchbox) 4.1.2 Diablo (sb works)
-<li>moriah (scratchbox)  4.1.1 Diablo (sb works)
-</ul>
-<h4>this is in 007</h4>
-<ul>
-<li>stratton (scratchbox)  4.0.1 Chinook (does not work)
-<li>osceola (scratchbox)  4.0.1 Chinook (does not work)
-</ul>
-<bri
+<title> Image Registration </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=800 border=0>
+<tr>
+<td valign= top>
+<b> Image Registration </b>
+<BR>
+<p>
+We have developed a general purpose registration algorithm for medical
+images/volumes. Given a source and target image we automatically
+estimate a smooth warp field that brings the source image into
+register with the target image.
+<BR><BR>
+We model the transformation between images as locally affine but
+globally smooth. The model also explicitly accounts for local and
+global variations in image intensities, and for missing data between
+the source and target. This approach is built upon a differential
+multiscale framework, allowing us to capture both large  and
+small scale transformations. 
+<BR><BR>
+Example registration results are shown to the right. This <a
+href="register3d.gif">animated gif</a> shows a 3-D example - on the
+left is the source (with more than 1/2 of the head missing), in the
+middle is the target, and on the right is the registered source
+(with the original head spliced in to show the accuracy of the
+registration).
+<BR><BR>
+<a href="qr_0.1.tar.gz"> Matlab code (qr_0.1.tar.gz) </a> <BR>
+<a href="qr_0.2.tar.gz"> Matlab code (qr_0.2.tar.gz) </a> <BR>
+
+<font size=-1><i>(version 0.2 incorporates the EM algorithm to contend with missing data)</i></font>
+
+<BR><BR>
+
+<i>(Collaborative work with Senthil Periaswamy)</i>
+
+</td>
+<td> &nbsp&nbsp </td>
+<td valign=top>
+<table align=center>
+<tr>
+<td align=center> source</td>
+<td align=center> target</td>
+<td align=center> registered source</td>
+</tr>
+
+<tr>
+<td align=center>
+<img src="register1.gif" width=150 height=150>
+</td>
+<td align=center>
+<img src="register2.gif" width=150 height=150>
+</td>
+<td align=center>
+<img src="register3.gif" width=150 height=150>
+</td>
+</tr>
+
+<tr>
+<td align=center>
+<img src="register6.gif" width=150 height=150>
+</td>
+<td align=center>
+<img src="register7.gif" width=150 height=150>
+</td>
+<td align=center>
+<img src="register8.gif" width=150 height=150>
+</td>
+</tr>
+
+<tr>
+<td align=center>
+<img src="register9.gif" width=150 height=150>
+</td>
+<td align=center>
+<img src="register10.gif" width=150 height=150>
+</td>
+<td align=center>
+<img src="register11.gif" width=150 height=150>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+
+<HR>
+
+<table align=center width=800>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></t\
+d>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Medical Image Registration with Partial Data <a href="../publications/mia05.html">(mia06)</a> <BR> 
+  <li>Elastic Registration with Partial Data <a href="../publications/wbir03.html">(wbir03)</a> <BR> 
+  <li>General-Purpose Medical Image Registration <a href="../publications/spthesis03.html">(thesis03)</a> <BR> 
+  <li>Elastic Registration in the Presence of Intensity Variations <a href="../publications/medimg03.html">(medimg03)</a> <BR> 
+  <li>Differential Elastic Image Registration <a href="../publications/tr01a.html">(tr01)</a> <BR>
+  <li>Differential Affine Motion Estimation for Medical Image Registration <a href="../publications/spie00.html">(spie00)</a>
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+</html>
+

@@ -1,188 +1,146 @@
-http://www.cs.dartmouth.edu/~wbc/led/WWW/LED.html
+http://www.cs.dartmouth.edu/~wbc/bookmark/bookmark.html
 3
-<HTML>
-<HEAD>
-<TITLE>LED Sign Info</TITLE>
-</HEAD>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<html>
+<head>
+<TITLE>Wayne Cripps's Bookmarks</TITLE>
+</head>
+<body>
+<H1>Wayne Cripps's Bookmarks</H1>
 
-<BODY BACKGROUND="watercolor.jpg">
-<IMG SRC="ledsign27t.gif">
+<table border=4>
+<tr>
+<td><a href="bk_mando.html">Mandolin</a></td>
+<td><a href="book_linux.html">linux</a></td>
+<td><a href="book_prog.html">programming and software</a></td>
+<td><a href="book_book.html">Book dealers</a></td>
+</tr>
+<tr>
+<td><a href="book_uke.html">Ukulele</a></td>
+<td><a href="book_mac.html">Mac</a></td>
+<td><a href="book_comp.html">Computers</a></td>
+<td><a href="http://hotwired.lycos.com/webmonkey">Webmonkey</a></td>
+</tr>
+<tr>
+<td><a href="book_dealers.html">Used instrument dealers</a> </td>
+<td><a href="bookcomm.htm">Commercial Computer Links</a></td>
+<td><a href="book_pc.html">PC sales</a></td>
+<td><a href="book_temp.html">temp</a></td>
+</tr>
+<tr>
+<td><a href="book_lapsteel.html">Lap Steel</a></td>
+<td><a href="http://support.microsoft.com/directory/">Microsoft Support</a></td>
+<td><a href="book_finance.html">fin</a></td>
+<td><a href="http://netmon-network.dartmouth.edu">the network</a></td>
+</tr>
+<tr>
+<td> <a href="http://www.provide.net/~cfh/">Vintage Guitar </a> <a href="http://www.amug.org/~necro/clay/feature.html">Info</td>
+<td> <a href="http://search.support.microsoft.com/kb/c.asp?fr=0&SD=GN&LN=EN-US"> MS Knowledge Base</a></td>
+<td>
+<a href="http://msdn.microsoft.com/subscriptions/index">msdn index</a>
+</td>
+<td><a href="cameras.html">Cameras</a></td>
+</tr>
+<tr>
+<td>
+<a href="bk_kayak.html">kayaks</a>
+</td>
+<td>
+<a href="http://www.brettglass.com/spam/paper.html">anti spam paper</a>
+</td>
+<td>
+<a href="http://www.ibiblio.org/wm/paint/">Web Art Museum</a>
+</td>
+<td>
+<a href="../harrypotter/index.html">Harry Potter</a>
+</td>
+</tr>
+<tr>
+<td><a href="book_e.html">Ellie's stuff</a></td>
+<td><a href="book_wireless.html">net and wireless</a>
+<td><a href="elbow.html">tennis elbow</td>
+<td><a href="http://www.dantz.com/index.php3?SCREEN=kbase&ACTION=KBASE&id=27853">
+Retrospect error codes</a>
+</tr>
+<tr>
+<td><a href="http://docs.unh.edu/nhtopos/nhtopos.htm">Old Topo Maps</a></td>
+<td><a href="http://home.earthlink.net/~mkrenitsky/mascoma/default.html">Mascoma audibon</a></td>
+<td><a href="http://www.mbr-pwrc.usgs.gov/Infocenter/infocenter.html">Patuxent Bird ID</a></td>
+<td><a href="http://gmail.google.com/gmail"> gmail</a></td>
+</tr>
+<tr>
+<td><a href="http://www.smcc.demon.nl/webcam/index.html">webcam</a></td>
+<td><a href="http://www.users.bigpond.com/vkelim/DMCFZ10/index.html">FZ10 guide</a><br>
+<a href="http://www.pbase.com/fz10group/root&view=recent">FZ10 pictures</a></td>
+<td><a href="http://groups.yahoo.com/group/FZ10_Users/">FZ10 group</a><br>
+<a href="http://www.pbase.com/fz10group/">FZ10 POTW</a>
 
-<H3>Compatible with java 1.0 and Netscape 2.0b3 or newer</H3>
+</td>
 
-<applet codebase="../LED" code="LED.class" width=500 height=48 align=center>
-   <param name="script" value="../scripts/Demo.led">
-   <param name="border" value="2">
-   <param name="bordercolor" value="100,130,130">
-   <param name="spacewidth" value="3">
-   <param name="wth" value="122">
-   <param name="ht" value="9">
-   <param name="font" value="../fonts/default.font">
-   <param name="ledsize" value="3">
+<td><a href="book_dig_photo.html"> digital photography</a></td>
+</tr>
+<tr>
+<td><a href="http://www.chiffandfipple.com/table2.html">chiff fipple</a></td>
+<td><a href="http://chiffboard.mati.ca/">chiff board</a></td>
+<td><a href="http://www.norwichlibrary.org/">Norwich Library</a>
+<td><a href="http://www.cs.dartmouth.edu/cgi-bin/cgiwrap/cbrash/computerdb/cdb.pl">
+Sandy's Database thing</a></td>
+</tr>
+<tr>
+<td><a href="http://www.zentao.com/guitar/guitar-lessons.html">Guitar lessons</a></td>
+<td><a href="bookpens.html"> pens </a></td>
+<td><a href="http://www.aot.state.vt.us/Planning/MapGIS/Town_Maps1.htm">Vermont Maps</a></td>
+</tr>
+</table>
+tt Rivercrest is 643-1704, and in Claremont 542-6273
 
-   <hr>
-   If you were using a Java-enabled browser,
-   you would see an animated scrolling text sign that looks like this:
-   <BR>
-   <IMG SRC="LEDSign.gif">
-   <hr>
-</applet>
-
-<P>
-</P>
-<H3>About LED Sign V2.7</H3>
-<BLOCKQUOTE>
-This is the newest version of LED Sign.  This will probably the
-last release of LED Sign for a while.  Version 2.7 is basically a
-"performanced enhanced" version of 2.5.  V2.7 will draw the sign
-to the screen quicker, thus producing a "quicker" content feed.
-However, it will only be a blank sign until the font and script
-have completed downloading.  Also in V2.7 is a more complete
-error/warning notification.  If the sign does not load, most
-likely an error and discription of what is causing the error will
-be printed to the java console.  Also check the java console for
-any runtime warnings.
-
-<P>
-Also, by popular demand, LED Sign V2.7 supports frame targets.
-To specify a frame target just append the target name to the end
-of the url, separating the url and target by a comma (','). ie:
-<BR>
-ScrollLeft URL=http://www.javasoft.com,_parent text=Goto Java!
-
-<BR>
-<BR>
-Released: March 21, 1996
-</BLOCKQUOTE>
-
-<FONT COLOR=#FF0000> <H3>* Support Notice *</H3></FONT>
-<BLOCKQUOTE>
-As of the release of LED Sign V2.7, I will no longer provide
-technical support for LED Sign due to time contraints and the
-amount of mail that I receive asking for technical support.  So
-please do not write me asking how to set it up, how to write a
-script, or about a problem you are having.  I feel that I have
-provided a fairly complete set of documentation, much more than
-you will find with other java applets.  If you do write to me
-asking for help, you will have only wasted your time and mine, as
-I will delete the mail.  I really wish I could provide support
-for LED Sign, but I do not have the time with my college
-graduation soon approaching, among other things.  I appreciate
-your understanding.
-
-<P>
-If you have questions about how to set up an applet, check the
-java site at http://www.javasoft.com/.  If you have other
-problems, I would suggest checking the usenet newsgroup
-comp.lang.java.
-
-<P>
-I will continue to improve LED Sign so if you have any bug
-reports or suggestions, please let me know.
-</BLOCKQUOTE>
-
-<H3>Features</H3>
 <UL>
-      <LI>Script controlled
-      <LI>Different colored text (red, orange, yellow, green, cyan, blue, purple, and white)
-      <LI>Different fonts
-      <LI>Different transistions
-      <LI>Displays the current time/date
-      <LI>Variable LED size
-      <LI>URL links - takes you to another page if you click on the sign
-         while a certain message is being displayed.
-      <LI>Frame targets!  Now you can use LED Sign with your
-         frames!
-</UL>
+    <LI><A HREF="../index.html" >Wayne's Home Page with Lute Stuff!</A>
 
+    <li><a href="book_sec.html">security</a>
+    <li><a href="book_search.html">Search Engines</a>
+    <li><a href="photo.html">Photogaphy</A>
+    <li><a href="book_oldm.html">old music</a>
+    <li><a href="book_new_m.html">new music</a>
+	(Newer than 1700, anyways)  
 
-<H3>Usability</H3>
-<BLOCKQUOTE>
-This applet was designed to be "user friendly".  Everything you see
-the sign displaying is run entirely by a script.  LED Sign will
-provide errors and warnings in the Java console of netscape to
-help make the setup easier and quicker.
+    <li><a href="book_audio.html">Audio</a>
+    <li><a href = "book_fun.html"> Fun</a>
+    <li><a href="book_html.html">HTML</a>
+    <li><a href="book_gorey.html">gorey</a>
+    <li><a href="http://www.dartmouth.edu/dnd/dept.html"> Department codes </a>
+    <li><a href="http://www.dartmouth.edu/~purchase/Policies%20&%20Procedures/accountsublist.html"> Account Subcodes (defunct)</a>
+    <li><a href="http://www.dartmouth.edu/~purchase/Policies%20&%20Procedures/account.html"> Account Subcodes</a>
+    <li><a href="http://diglib.dartmouth.edu/dag/browse.php?oparea=Financial+Accounting++Reporting&optop=FAS+Subcodes#mark">Hey - a new subcode page</a>
+    <li><a href="ftp://ftplocal.dartmouth.edu/ethernet/hosts-report">
+		Dartmouth computers</a>
+	<li><a href="http://caligari.dartmouth.edu/~paw/security.html">
+		Pat's security tips</a>
+	<li><a href="book_dental.html">Dental - mercury and root canals</a>
+	<li><a href="book_m+m.html">Martha and the Muffins</a>
+	<li><a href="http://innet.com/~jaymz"> Spice Girls</a>
+	<LI><a href="http://www.cabinessence.com/brian/lyrics/songs.html">Beach Boys Lyrics</a>
+	<li><a href="http://www.dealpilot.com">Acses - books and records </a>
+    <li><a href="book_glue.html">Hide glue</a>
+    <li><a href="http://www.labmed.umn.edu/~john/ccfraud.html">Credit Card Fraud</a>
+    <li><a href="http://www.arin.net">American Registry of Internet Numbers</a>
+    <li><a href="http://www.networksolutions.com">Network solutions</a>
+    <li><a href="http://www.ccgeurope.nl/products/benchmark/faq.html">DLT1 FAQ</a>
+	<li><a href="http://www.tinfoil.com"> Old cylender recordings</a>
+    <li><a href="http://www.withingtonauction.com">Withington auctions</a>
+<li><a href="http://www.homestarrunner.com/sbemail36.html">strongbad</a>
+<li><a href="OMG.html"> Oh My Goddess</a>
+<li><a href="http://home.wxs.nl/%7Eejthart/Reed/">  Reed making </a>
+<li><a href="http://www.patricksky.com/"> pat sky </a>
+<li><a href="http://naomisfancy.virtualave.net/uilleann.html"> reedmaking</a>
+<li><a href="http://www.napiobairi.com/mediatheque.html"> UP recordings</a>
+<li><a href="www.loraine.com"> reed supplies</a>
+<li><a href="http://people.ists.dartmouth.edu/~gbakos/scanning_hosts.txt">ists bad computers</a>
+<li><a href="http://www.lightlink.com/nwhitmer/index.html">Nick Whitmer Bagpipes</a>
+<li><a href="sensors.html">temp and humid sensor info</a>
+<li><a href="http://www.chipmunk.nl/klantenservice/applemodel.html">MAC serial number info</a>
+<li><a href="http://www.thealia.com/"> the alia </a>
 
-<BLOCKQUOTE>
-More on the 
-<A HREF="script.html"> Script Feature</A>.
-<BR>
-Here is the <A HREF="../scripts/Demo.led">Demo script</A> that the sign
-above is running.
-</BLOCKQUOTE>
-</P>
-</BLOCKQUOTE>
+</ul>
 
-<H3>Flexibility</H3>
-<BLOCKQUOTE>
-<P>
-The LED applet also has a large amount of flexibility.  The size, size
-of border, color of border, size of the LED's, and even the font that
-the sign uses are all configurable.  The size and border parameters
-can be easily set in the applet "command line" in the HTML.  The font
-is specified by a data file that contains the shape for each letter.
-The font data file can have as many or few characters as needed.  If a
-character is used in the message but is not in the font data file,
-then it will be substituted by a space.
-
-<BLOCKQUOTE>
-More on 
-<A HREF="font.html">fonts</A>
-.
-<BR>
-More on
-<A HREF="options.html">configurability</A>
-.
-</BLOCKQUOTE>
-</P>
-</BLOCKQUOTE>
-
-<H3>Examples of LED Sign</H3>
-<BLOCKQUOTE>
-Here are <A HREF="Examples.html">some sites</A> that use LED Sign on their pages.
-</BLOCKQUOTE>
-
-<H3>Download LED Sign V2.7</H3>
-<BLOCKQUOTE>
-The UNIX tar/gzip file <A HREF="ftp://ftp.cs.hope.edu/pub/LEDSign/LEDSignV27.tar.gz">LEDSignV27.tar.gz</A>
-
-<P>
-<B>Note:</B> If you are upgrading from LED Sign V2.5 or earlier,
-you will notice that there is a new parameter, "ht".  This is to
-specify the height of the sign in LED's and must be the same as
-the height of the font you are using.  If the "ht" parameter is
-not specified or incorrect, you will get an error or warning in
-the java console.  See the
-<A HREF="options.html">configurability</A> page for more info.
-
-<P>
-If you are running Win95/NT you might need
-<A HREF="ftp://ftp.winzip.com/winzip/winzip95.exe">WinZip95 6.0a</A>
-to unzip and untar the archive.  WinZip will retain the long filenames
-which are needed for the applet to work.
-
-<BR>
-<BR>
-The LED Sign V2.7 distribution comes with all source code,
-pre-compiled binaries, example scripts, fonts, and all the HTML
-documentation you see here.
-</BLOCKQUOTE>
-
-<H2>Questions???</H2>
-<BLOCKQUOTE>
-Check the <A HREF="FAQ.html">LEDSign FAQ</A>.
-</BLOCKQUOTE>
-
-<H3>Known bugs</H3>
-<UL>
-    <LI> None!
-</UL>
-
-<HR>
-<P></P>
-<ADDRESS>
-The LED Sign Java applet is written and Copyright 1995 by
-<A HREF="http://www.cs.hope.edu/~dbrown/">Darrick Brown</A>
-</ADDRESS>
-</BODY>
-</HTML>
+</body></html>

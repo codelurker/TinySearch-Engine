@@ -1,61 +1,30 @@
-http://www.cs.dartmouth.edu/~mckeeman/cs48/index.html
+http://www.cs.dartmouth.edu/~doug/geometry.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- FILE:    cs48/index.html
-     PURPOSE: CS48 Information
-     MODS:    McKeeman - 2000.05.16 - original for Spring 2001
-     MODS:    McKeeman - 2003.03.24 - updated for Spring 2003
-     MODS:    McKeeman - 2009.03.23 - updated for Spring 2009
-  -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-<title>COSC48: Course Information</title>
-</head>
-<body bgcolor="#FFF0D0">
-<!-- the following table head provides margins and textbook like appearance -->
-<table>
-<tr><td></td></tr>
-<tr><td width="50"></td><td width="600">
-<h2><a href="index.html">COSC48</a>
-    Implementation of Programming Languages</h2>
-<h1><a href="http://www.cs.dartmouth.edu">Department of Computer Science</a></h1>
-<h2>Course Information</h2>
-
-This web of documents serves as guide to Dartmouth's undergraduate
-course in <a href = "http://www.cs.dartmouth.edu/academics/undergrad/cs_48.html">
-<em>Compilers</em>.
-</a>
-<h1>under construction</h1>
+<html>
+<title>Dynamic Geometry</title>
+<h2>Dynamic geometry</h2>
+Animated and interactive geometry is often used
+pedagogically for "discovery" or to provide
+vivid circumstantial evidence for theorems, as in
+the inexorable concurrence of medians or the amazing
+<a href="http://www.cut-the-knot.org/Curriculum/Geometry/Feuerbach.shtml">
+Feuerbach tangencies</a>.
+The demonstrations below, however, use dynamic
+geometry not only as an aid to insight, but also as a
+proof technique <i>per se</i>.
 <p>
-  Notes from COSC 48 Spring <a href="2005/index.html">2007</a>
-</p>
+<small>Note.  The pages use Java applets produced by Geometer's Sketchpad,
+and may download a 200K supporting library.</small>
 <p>
-  Notes from an industrial <a href="mxcom/README.html">short course</a> (2009)
-</p>
-<ul>
-<li><a href="course_guide.html">Course Guide</a></li>
-<li><a href="course_content.html">Course Content</a></li>
-<li><a href="course_assignments.html">Assignments</a></li>
-<li><a href="lectures">Lecture Plans</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~mckeeman/cs48/references/references.html">References</a></li>
-<li><a href="course_software.html">Course Software</a></li>
-</ul>
-<hr/>
-<table>
-<tr><td>
-Created:
-</td><td><i>
-May 16, 2000
-</i></td></tr>
-<tr><td>
-Last modified:
-</td><td><i>
-March 23, 2009
-</i></td></tr>
-</table>
-<!-- the following table end provides margins and textbook like appearance -->
-</td><td width="50"></td></tr>
-</table>
-</body>
-</html>
-Ñ
+<a href="SimsonLive.html">Simson line</a>.  I find
+this proof much more engaging than
+visualizations of static Euclidean proofs of this theorem,
+which abound on the Internet.
+<p>
+<a href="icosahedron.html">Existence of the regular
+icosahedron.</a>  This short modern proof
+told to me by Peter Doyle
+stands in dramatic contrast to the
+<a href="http://aleph0.clarku.edu/~djoyce/java/elements/bookXIII/propXIII16.html">intricate argument</a>
+in the culminating book
+of Euclid's <i>Elements</i>, 

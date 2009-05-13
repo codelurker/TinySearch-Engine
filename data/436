@@ -1,17 +1,23 @@
-http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html
+http://www.cs.dartmouth.edu/~miluzzo/index.html
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-  <title>Emiliano Miluzzo :: contact info</title>
+  <title>Emiliano Miluzzo :: homepage</title>
   <style type="text/css">
 
+a.three:link {color: #006600; text-decoration: none}
+a.three:visited {color: #006600; text-decoration: none}
+a.three:hover {background: #000000; color: #FFFFFF}
+
+/*
 a.three:link {color: #009966; text-decoration: none}
 a.three:visited {color: #009966; text-decoration: none}
 a.three:hover {background: #000000; color: #FFFFFF}
+*/
 
 #coolmenu{
-border: 1px;  /* If border needed replace this line with: border-bottom: 1px solid black;*/
+border: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
 border-bottom-width: 0;
 width: 177px;
 position: absolute; top: 188px; left: 8px;
@@ -30,7 +36,7 @@ display: block;
 width: 100%;
 color: black;
 text-decoration: none;
-border-bottom: 1px; /* If border needed replace this line with: border-bottom: solid black;*/
+border-bottom:; /* If border needed replace this line with: border-bottom: solid black;*/
 }
 
 html>body #coolmenu a{ /*Non IE rule*/
@@ -44,8 +50,6 @@ color: white;
 }
 
   </style>
-  <script charset="utf-8" id="injection_graph_func"
- src="injection_graph_func.js"></script>
 </head>
 <body style="background-image: url(Background.gif);">
 <div
@@ -54,22 +58,21 @@ color: white;
  style="font-family: courier new,courier,monospace;">
 Emiliano Miluzzo</span></big></big><span style="font-style: italic;">
 </span></big></div>
-
 <a
  href="http://www.cs.dartmouth.edu/~miluzzo">
 <img style="position: absolute; top: 10px; left: 10px;"
- src="emi6.jpg" border="0" height="138" width="177"></a>
+ src="emi.jpg" border="0" height="138" width="177"></a>
 <a
  href="http://www.dartmouth.edu/">
 <img style="position: absolute; top: 20px; left: 900px;"
  src="dartlogo.gif" border="0" height="94" width="99"></a>
 <img
- style="position: absolute; top: 70px; left: 245px;"
- src="stripe.jpg" height="8" width="620"> <img
- style="position: absolute; top: 630px; left: 245px;"
- src="stripe.jpg" height="21" width="740"> <img
- style="position: absolute; top: 430px; left: 8px;"
- src="dx_band.jpg" height="800" width="177">
+ style="position: absolute; top: 630px; left: 245px;" src="stripe.jpg"
+ height="21" width="740"> <img
+ style="position: absolute; top: 70px; left: 245px;" src="stripe.jpg"
+ height="8" width="620"><img
+ style="position: absolute; top: 430px; left: 8px;" src="dx_band.jpg"
+ height="800" width="177">
 <center><big> </big></center>
 <div id="coolmenu">
 <big><a href="http://www.cs.dartmouth.edu/~miluzzo/index.html">Personal
@@ -90,78 +93,60 @@ Information</a>
 <div
  style="top: 117px; left: 245px; position: absolute; z-index: 1; width: 738px;"><big><big><span
  style="font-style: italic; font-family: Arial;">
-<p><small>Contact Information</small> </p>
+<p><small>Personal Biography</small> </p>
 <hr></span></big>
 </big>
 <div style="text-align: justify;"><big><big><span
  style="font-family: Arial;"></span></big><span
  style="font-family: Arial;"><br>
-</span></big><big style="font-family: Arial,sans-serif;"><font
- style="font-style: italic;" size="-1"><big>e-mail:&nbsp; </big></font><font
- size="-1"><big>[LastName] &lt;at&gt; cs &lt;dot&gt; dartmouth &lt;dot&gt;
-edu
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <br>
+<small>Emiliano Miluzzo received the "Laurea" degree (equivalent to
+BS's and MS's) with full marks <br>
+</small></span><small><span style="font-family: Arial;">in Electrical
+Engineering from
+the
+University of Roma "La Sapienza",
+Italy, in 2003.&nbsp; </span></small> </big></div>
+<p style="font-family: Arial; text-align: justify;">He has been a
+Research Assistant/PhD student in the <a class="three"
+ href="http://net.infocom.uniroma1.it/">Networking Group</a> at the <a
+ class="three" href="http://infocom.uniroma1.it/">INFO-COM
+Department</a> <br>
+of University "La Sapienza" where his advisor was <a class="three"
+ href="http://infocom.uniroma1.it/%7Efranci">Prof. Francesca Cuomo</a>.</p>
+<div style="text-align: justify;"><big> <small><span
+ style="font-family: Arial;">
+In September 2004 he joined the </span><a style="font-family: Arial;"
+ class="three" href="http://www.comet.columbia.edu/">COMET Group</a><span
+ style="font-family: Arial;"> at the </span><a
+ style="font-family: Arial;" class="three"
+ href="http://www.ee.columbia.edu/">Electrical
+Engineering Dept.</a><span style="font-family: Arial;"> of </span><a
+ style="font-family: Arial;" class="three"
+ href="http://www.columbia.edu/">Columbia
+University</a><span style="font-family: Arial;"> <br>
+where
+he&nbsp;worked for one year with Prof. Andrew T. Campbell on Wireless
+Sensor
+Networks topics as a <br>
+member of the </span><a style="font-family: Arial;" class="three"
+ href="http://www.comet.columbia.edu/armstrong">Armstrong Project</a><span
+ style="font-family: Arial;">.</span><br style="font-family: Arial;">
+<br style="font-family: Arial;">
+</small>
+<span style="font-family: Arial;"><small>Since September 2005 he has
+been
+working as a PhD candidate in the Computer
+Science Department <br>
+at Dartmouth College where his advisor is <a class="three"
+ href="http://www.cs.dartmouth.edu/%7Ecampbell">Prof.
+Andrew T. Campbell</a>. Emiliano is a member of the<br>
+<span><a class="three" href="http://www.cs.dartmouth.edu/%7Esensorlab"
+ target="_blank">Sensor Networks Group</a></span> working on the <span><a class="three" href="http://metrosense.cs.dartmouth.edu"
+ target="_blank">Metrosense</a></span> project. He is currently developing and evolving <span><a class="three" href="http://cenceme.org"
+ target="_blank">CenceMe</a></span>, the first application that augments personal presence with sensor data and integrates it with social networking applications.<br>
 <br>
-</big></font></big><big style="font-family: Arial,sans-serif;"><font
- size="-1"><big><font size="-1"><big><font style="font-style: italic;"
- size="-1"><big>office:</big></font><font size="-1"><big>&nbsp;&nbsp;
-Sudikoff
-249</big>&nbsp;&nbsp; <br>
-</font></big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font style="font-style: italic;" size="-1"><big>lab:</big></font><font
- size="-1"><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Sudikoff
-147</big></font></big></font></big></font></big><br>
-<big style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font size="-1"><br>
-</font></big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- style="font-style: italic;" size="-1"><big>mail:</big></font><font
- size="-1"><big>&nbsp;&nbsp;&nbsp;&nbsp; Computer Science
-Department, Dartmouth College
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font size="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</font></big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font size="-1"><big><font size="-1"><big><font
- size="-1"><big><font size="-1"><br>
-&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></big></font></big></font></big></font></big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big>6211 Sudikoff
-Laboratory</big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font size="-1"><big><font size="-1"><big><font
- size="-1"><big><font size="-1">&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </font></big></font></big></font></big></font></big></font></big></font></big><br
- style="font-family: Arial,sans-serif;">
-<big style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; </big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big>Hanover, NH 03755-3510,
-USA</big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font size="-1"><big><font size="-1"><big><font
- size="-1"><big><small><font size="-1"><br>
-<br>
-<br>
-<big style="font-style: italic;">phone:</big></font></small><font
- size="-1"><big> (+1) 603-646-8738</big></font></big></font></big></font></big></font></big></font></big></font></big><big
- style="font-family: Arial,sans-serif;"><font size="-1"><big><font
- size="-1"><big><font size="-1"><big><font size="-1"><big><font
- size="-1"><big><font size="-1"><br>
-<big style="font-style: italic;">fax:</big> &nbsp; &nbsp; &nbsp; <big>(+1)
-603-646-1672<br>
-<br>
-</big></font></big></font></big></font></big></font></big></font></big></font></big></div>
-<div style="text-align: justify;"><big><span style="font-family: Arial;">
+Emiliano has been appointed panel co-chair of <span><a class="three" href="http://synrg.ee.duke.edu/mobihoc09_s3/index.htm" target="_blank">ACM MobiHoc Wireless S3 Workshop 2009</a></span>.
+</small>
 <br>
 <br>
 </span></big></div>
@@ -169,12 +154,21 @@ USA</big></font></big></font></big><big
 <div
  style="position: absolute; top: 665px; height: 21px; left: 849px; width: 131px;"><big><big><small><small><small
  style="font-style: italic;"><span style="font-family: verdana;"><small>last
-modified: July 2007</small></span></small></small></small><span
+modified: Feb. 2009</small></span></small></small></small><span
  style="font-weight: bold; font-family: verdana;"><br>
 </span><span style="font-weight: bold; font-family: verdana;"></span></big></big></div>
 <div
  style="position: absolute; top: 660px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><big><big><small>
 <font size="-1"><small><sup>&copy; Emiliano Miluzzo</sup></small></font>
 </small></big></big></div>
+
+<a href="http://clustrmaps.com/counter/maps.php?url=http://www.cs.dartmouth.edu/~miluzzo/"
+id="clustrMapsLink"><img src="http://clustrmaps.com/counter/index2.php?url=http://www.cs.dartmouth.edu/~miluzzo/"
+style="position: absolute; top: 735px; left: 520px; border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page"
+id="clustrMapsImg" onError="this.onError=null; this.src='http://www2.clustrmaps.com/images/clustrmaps-back-soon.jpg';
+document.getElementById('clustrMapsLink').href='http://www2.clustrmaps.com'" />
+</a>
+
 </body>
 </html>
+er; i

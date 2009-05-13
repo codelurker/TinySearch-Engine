@@ -1,33 +1,96 @@
-http://www.cs.dartmouth.edu/~geethmala
+http://www.cs.dartmouth.edu/~xfei
 2
-<HTML>
+<html>
 
-<HEAD>
-<TITLE>Home Page</TITLE>
-</HEAD>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Reference</title>
+</head>
 
-<BODY>
-<div align="center">
-<h1>Geethmala Sridaran</h1>
-<b> <i>Contact: </i> </b><br>
-Geethmala Sridaran <br>
-6211 Sudikoff Laboratory <br>
-Department of Computer Science <br>
-Dartmouth College <br>
-Hanover NH 03755 <br>
+<body>
 
-<br>
+<p>Fei's Collection of Bioinformatics Resources:</p>
+<!--
+<ol>
+  <li><a href="http://www.c2b2.columbia.edu/index.html">Center for Computational Biology & Bioinformatics in Columbia</a></li>
+  <li><a href="http://www.c2b2.columbia.edu/people/detail_lussier.html">Bio-researchers in Columbia</a></li>
+</ol>
+-->
 
-<b> <i>Email: </i> </b><br>
-<a href="mailto:geethmala.sridaran@dartmouth.edu">Geethmala @ Dartmouth</a> <br>
-<img src="geethmala.jpg" style="padding-top:20px;"/>
-</div>
+<ul>
+  <li>GO (Gene Ontology) Tools: 
+<p><a href="http://www.genome.jp/kegg/">KEGG: Kyoto Encyclopedia of Genes and Genomes</a></p>
+<p><a href="http://sbml.org/index.psp">SBML: System Biology Markup Language</a></p>
+<p><a href="http://www.pubgene.org/tools/GeneSearch/GeneSearch.cgi">PubGene Web Database and Tools</a></p>
+<p><a href="http://www.geneontology.org/GO.tools.microarray.shtml">Tools for Gene Expression Analysis</a></p>
+<p><a href="http://www.geneontology.org/GO.tools.browsers.shtml">Tools for Searching and Browsing GO</a></p>
+<p><a href="http://genomebiology.com/software/">Genome Biology Tool collection</a></p>
+<p><a href="http://www.gmod.org/node/38">GO Graph Viewer at Stanford</a></p>
+<p><a href="http://www.gmod.org/node/43">Pathway visualization tool</a></p>
+<p><a href="http://www.biomedcentral.com/1471-2105/5/84">Treemap visualization</a></p>
+<p><a href="http://www.dbsr.duke.edu/research/softwaredev/applications/desktop/treemapclusterview/default.aspx">Duke Treemap Cluster view</a></p>
 
-<div align="center">
-<p> Masters Student </p>
-</div>
 
-</BODY>
 
-</HTML>
-eneonti
+  </li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+  <li>Machine Learning
+  <p><a href="http://www.stat.umn.edu/PAPERS/html_prints/points/node11.html">On line tutorial on Metropolis-Hastings and Gibbs 
+  Samplers</a></p>
+  <p><a href="http://www.lbreyer.com/java.html">Laird Breyer's Java applets</a></p>
+  <p>&nbsp;</p>
+
+  </li>
+  
+<ur>
+<li>Metabolomics
+	<p><a href="http://www.metabolomicssociety.org/">Metabolomics society</a></p>
+	<p><a href="http://www.esainc.com/Metabolomics/metabolomics.htm">Metabolomics 
+(brief introduction)</a></p>
+	<p><a href="http://www.wellcome.ac.uk/en/genome/thegenome/hg03b003.html">Metabolomics (2)</a></p>
+	<p><a href="http://www.metabolomics.net/home/index.aspx">metabolomics.net (The Metabolomics Portal)</a></p>
+	<p>&nbsp;</p>
+</li>
+</ur>
+
+<li>Tools:
+<p><a href="http://discover.nci.nih.gov/gominer/">GO Miner</a></p>
+<p><a href="http://go.princeton.edu/cgi-bin/GOTermFinder.old">GO Term Finder</a></p>
+<p><a href="http://babelomics.bioinfo.cipf.es/cgi-bin/tools.cgi">FatiGO</a></p>
+<p><a href="http://idconverter.bioinfo.cnio.es/">Clone/Gene ID Converter</a></p>
+<p><a href="http://www.ebi.ac.uk/ego/DisplayGoTerm?id=GO:0003713">EBI QuickGO</a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/gquery/gquery.fcgi?itool=toolbar">NCBI Entrez cross-database search</a></p>
+<p>Gene Map Finder; Unique Genes; Map one type of identifier to another one</p>
+<p><a href="http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/cluster/">Open Source Clustering Software</a></p>
+</li>
+<!--
+<p>Research ideas:</p>
+<p>1) Do gene clustering/marker gene selection for both BU smoking gene data and 
+Magic data/Lung cancer data. Find the genes that appear in both results and try 
+to recognize their roles evolved in a specific pathway or their relationship 
+within the same cluster regarding to Gene Ontology.</p>
+<p>2) Use SBML to analyze the Gene Ontology and see how to build effective 
+visualization tools upon it.</p>
+<p>3) Math descriptions to show the similarity of genes at the leaf level</p>
+<p>&nbsp;</p>
+<p>Perspective Publication:</p>
+<p>1) RECOMB Poster</p>
+<p>2) ISMB Poster</p>
+<p>3) International Journal on Oncology</p>
+<p>4) International Journal of Bioinformatics Research and Applications</p>
+<p>5) CSB poster</p>
+<p>&nbsp;</p>
+-->
+
+</ul>
+
+</body>
+
+</html>

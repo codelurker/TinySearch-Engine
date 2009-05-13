@@ -1,64 +1,56 @@
-http://www.cs.dartmouth.edu/~rockmore/m15f05/math15f05.html
+http://www.cs.dartmouth.edu/~thc/clrscode
 3
-<HEAD><TITLE>MATH 116/W05</TITLE>
-<meta name="keywords" content="Dan Rockmore IMPS, Part 1, Fall,  2005">
-</HEAD>
+<html> <head>
+<title>The clrscode Package for LaTeX2e</title>
+</head>
 
-<BODY BGCOLOR="#FFFFFF"><H1>Mathematics  15.1<br>
-IMPS, Part 1
+<body>
+<h1>The <code>clrscode</code> Package for LaTeX2e</h1>
 
-<H2> Instructor:</H2>  <a href="http://www.cs.dartmouth.edu/~rockmore"> Professor Dan Rockmore </a>
+The <code>clrscode</code> package for LaTeX2e allows you to typeset
+pseudocode just as we do in <i>Introduction to Algorithms</i>,
+Second edition.
 
-<br>
+<p>
 
-Office: 206 Sudikoff Lab (CS building)
+Download <a href="clrscode.sty">clrscode.sty</a> to get the package,
+and either <a href="clrscode.ps">clrscode.ps</a> or <a
+href="clrscode.pdf">clrscode.pdf</a> for documentation (in PostScript
+and PDF, respectively).
 
-<br> 
+<h3>Revisions</h3>
 
-Office hours: M,W 3-4
+<ul>
+  <li> 1.1: 11 June 2003.  Initial revision.
 
-<H2> Graduate TA: </H2>  Giulio Genovese
+  <li> 1.2: 19 June 2003.  Fixed a bug that caused this package to
+       interact badly with the color package.  Thanks to Janne
+       Rinta-M&auml;nty for reporting this bug and suggesting the fix.
 
-<H2> Course Organization:</H2>
-The class meets in <b> Bradley 105 </b>  in the 11 slot - MWF 11:15 - 12:20, x-hour, Tuesday at 12. The x-hour will be used as needed, so count on it.
+  <li> 1.3: 26 Sept 2003.  Changed <code>\codeboxwidth</code> from
+       <code>\textwidth</code> to <code>\linewidth</code> so that the
+       package works in twocolumn mode.  Thanks to David Etherington
+       for reporting this bug and suggesting the fix.
 
-<br>
+  <li> 1.4: 7 November 2003.  Fixed a bug that caused incorrect
+       behavior when the <code>\zi</code> command is used for lines
+       beginning with <code>\Until</code>, <code>\Else</code>,
+       <code>\ElseIf</code>, or <code>\ElseNoIf</code>.  Thanks for
+       Oliver Ernst for reporting this bug.
 
-<b> Tutorial </b> is Su,T,Th, 7-9PM, in <b> 213 Dartmouth Hall </b> 
+  <li> 1.5: 11 November 2003.  Removed a macro that is no longer
+       needed.
 
-<H2> <a href="http://www.cs.dartmouth.edu/~rockmore/m15f05/m15f05-syl.html"> Running Syllabus </H2></a> 
+  <li> 1.6: 14 July 2005.  Added a definition for the <code>\numref</code>
+       macro, which is needed for <code>\setlinenumber</code> and
+       <code>\setlinenumberplus</code>.  Thanks to Matt Suder(?) and
+       Johan Gade.
 
+</ul>
 
-<b> FIRST CLASS: Wednesday, 9/21 </b>
-
-<br> 
-
-<H2>Requirements/Grading: </h2> 
-
-Participation:  5%
-
-<br> 
-HW: 20%
-
-<br> 
-Exam #1: 10/12 @ 7PM, 20%
-
-<br> 
-Exam #2: TBA,   20%
-
-<br> 
-Final: TBA, 35%
-
-<br> 
-
-<h2>Sources:</h2>
-
-<li> Main text: IMPS Textbook (bound notes), by Groszek and Mook, available at the Copy Center.
-
-<br> 
-
-<br> 
-
-
-</body>
-i
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Mon Aug  1 16:08:19 2005
+<!-- hhmts end -->
+</body> </html>

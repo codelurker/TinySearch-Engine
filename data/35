@@ -1,194 +1,114 @@
-http://www.cs.dartmouth.edu/~tanzeem
+http://www.cs.dartmouth.edu/~map
 2
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-
-
-  
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<!-- #BeginEditable "doctitle" -->
-
-
-  
-
-
-
-  
-  <title>Tanzeem Choudhury's Webpage</title>
-<!-- #EndEditable -->
-  <link href="styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
-
-
-  
-  <style type="text/css">
-.style1 {
-color: #006699;
-}
-.style2 {
-margin-top: 6px;
-}
-.style3 {
-color: #FF0000;
-}
-  </style>
+    <title>MAP
+ | Security through measurement for wireless LANs         
+</title>
+<link rel="stylesheet" href="http://www.cs.dartmouth.edu/~map/include/style.css" type="text/css" /><link rel="icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" />
 </head>
 
-
 <body>
-
-
-<!-- Begin Container -->
-<div id="container"><!-- Begin Masthead -->
-<div id="masthead">
-<h1><a href="#">Tanzeem Choudhury</a></h1>
-
-
-<h3>Assistant Professor</h3>
-
-
-<h4>Computer Science, Dartmouth College</h4>
-
-
+<div class="outer pc75">
+<div class="inner mg177">
+<div class="title">
+<span class="name"><a href="http://www.cs.dartmouth.edu/~map"><img
+    src="img/map-logo.png" alt="MAP logo"></a></span>
 </div>
-
-
-<!-- End Masthead --><!-- Begin Navigation -->
-<div id="navigation">
-<ul>
-
-
-  <li><a href="index.html">About</a></li>
-
-
-  <li><a href="pubs/pubs.html">Publications</a></li>
-
-
-  <li><a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
-
-
-  <li><a href="students/students.html">Students</a></li>
-
-
-  <li><a href="teaching/teaching.html">Teaching</a></li>
-
-
-  <li><a href="press/press.html">Press</a></li>
-
-
-  <li><a href="links/links.html">Links</a></li>
-
-
-  <li><a href="contact/contact.html">Contact</a></li>
-
-
+</div>
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+    <li id="active"><a href="http://www.cs.dartmouth.edu/~map/index.php"  id="current">Home</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/papers.php" >Papers</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/biblio.php" >Bibliography</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/links.php" >Links</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/wiki.php" >Wiki</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/people.php" >People</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/mapstats.php" >MAP Testbed</a></li>
 </ul>
+<br/>
+<div id="navimgcontainer">
+<a href="http://www.hsarpacyber.com"><img src="img/dhs.jpg" alt="DHS logo" title="Sponsored by HSARPA as part of the Cyber Security Research and Development (CSRD) program" height=100></a>
+<a href="http://www.ists.dartmouth.edu"><img src="img/ists.png" alt="ISTS logo" width=50></a>
+<a href="http://www.arubanetworks.com"><img src="img/aruba.png" alt="Aruba Networks logo"></a>
+<a href="http://www.cs.uml.edu"><img src="img/uml.gif" alt="UMass Lowell logo"></a>
+</div>
+</div>
+<div id="content">
+
+<p><b>PRESS COVERAGE:</b> December 2006 article in <a href="http://www.networkworld.com/news/2006/120706-intelligent-scaleable-wlan-defense-darpa.html"><img src="img/nwlogo-06.gif" alt="network world"></img></a></p>
+
+<p><b>Overview</b></p>
+<p>
+        With the rise of Voice over
+    wireless LAN (VoWLAN), any complete WiFi security solution must address
+    denial of service attacks, such as kicking off other clients, consuming
+    excessive bandwidth, or spoofing access points, to the detriment of
+    legitimate clients. Even an authorized client may be able to sufficiently
+    disrupt service quality to make the network ineffective for legitimate
+    clients.</p>
+
+    <p> We take a three-point, <i>MAP (Measure, Analyze, Protect)</i>
+    approach to develop an integrated and extensible framework to
+    address existing and future attacks on WiFi networks.
+    Specifically, we focus our efforts on an integrated set of new
+    components that allow a WiFi network operator to measure and
+    analyze WiFi and VoWLAN activity, and in real-time to identify and
+    defend against MAC-layer attacks on that infrastructure.
+    Our plan includes three overlapping phases: research, prototype
+    development, and deployment on a large portion of Dartmouth's
+		campus-wide wireless network.</p>
+    
+    <p><b>Measurement:</b> we have developed novel and scalable techniques to
+    collect multi-channel MAC-layer traces of the wireless
+    environment, building on our wireless-measurement infrastructure. Our
+		independant and coordinated channel sampling strategies dynamically
+		adapt to current channel conditions. These are augmented by our refocusing
+		mechanism which takes input from the analysis engines to further improve
+		relevant frame capture.
+
+    </p>
+
+    <p><b>Analysis:</b> We have developed novel anomaly and signature detection
+		techniques. Our MAC spoofing detection algorithm is based on RSSI observed at
+		the air monitors.
+    </p>
+
+    <p><b>Protection:</b> we will develop a
+    policy-driven protection engine that leverages existing defense mechanisms;
+    the R&amp;D challenge here is to integrate them into our analysis framework
+    and to evaluate the impact of automated defenses on well-behaved users in a
+    network.</p>
+
+    <div class="bodybold">Deployment</div>
+    <p>With our partner, <a
+        href="http://www.arubanetworks.com/">Aruba Networks</a>, we
+    will develop and deploy prototypes for testing in Phase 1-2, and
+    in the third phase we are deploying our prototypes across
+    Dartmouth' next-generation campus-wide WiFi network; this testbed
+    provides valuable data for the research team and valuable input
+    into Aruba's product pipeline.</p>
+
+    <div class="bodybold">Novelty</div>
+    <p>We plan significant, novel extensions to existing
+    technology; these techniques have never been applied to WiFi
+    networks, to VoWLAN applications, or at the scale necessary for
+    large deployment. Our integrated end-to-end MAP approach is new,
+    and our proposed campus-wide deployment is unprecedented in scope
+    and scale.</p>
+    
+    <p>Our MAP approach provides a new foundation for wireless network
+    security, able to dynamically measure, analyze and protect a WiFi
+    network against existing and novel threats, including rogue
+    clients and access points, with a focus on VoWLAN use cases.</p>
+    
 
 
 </div>
-
-
-<!-- End Navigation --><!-- Begin content_container -->
-<div id="content_container"><!-- Begin Left Column -->
-<div id="column_left"><!-- #BeginEditable "content" -->
-<p class="style2">I work on
-developing machine learning techniques for systems that can reason
-about human activities, interactions, and social networks in everyday
-environments. I joined the <a href="http://www.cs.dartmouth.edu">computer
-science department of Dartmouth</a> in 2008. Prior to that I was
-a member of the research staff at <a href="http://www.intel-research.net/seattle/">Intel Research
-Seattle</a>.<br />
-
-
-<br />
-
-
-I received my Ph.D. degree from the <a href="http://www.media.mit.edu/">Media Laboratory</a>
-at the Massachusetts Institute of Technology (MIT). I created the
-sociometer and my&nbsp;<a href="pubs/choudhury_phd_thesis.pdf">thesis</a>&nbsp;was
-the first to show the feasibility of automatically capturing and
-modeling social networks based on face-to-face conversations that occur
-in the physical world. I also hold a B.S. in electrical engineering
-from the <a href="http://www.ece.rochester.edu/">University
-of Rochester</a>, and M.S. from the <a href="http://www.media.mit.edu/">MIT Media Laboratory.</a><br />
-
-
-<br />
-
-
-<span style="font-weight: bold; color: rgb(204, 0, 0); font-style: italic;">What's
-new</span><br />
-
-
-</p>
-<img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /> <a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494">Computer Science -- A Growing Field That Needs a Few (More) Good Women.</a>
-<p class="style2" style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"> </span></p>
-<p class="style2" style="color: rgb(0, 0, 0);"><img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /><span style="color: rgb(0, 0, 0);"> Recipient of&nbsp;National
-Science Foundation <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=0845683">
-Faculty Early Career Development Award</a> (NSF CAREER)</span>.</p>
-
-
-<p class="style2" style="color: rgb(0, 0, 0);"><img style="width: 50px; height: 27px;" alt="TR35logo" src="images/TR35logo.jpg" /><a><span style="color: rgb(0, 0, 0);"> Named
-one of </span></a><a href="http://www.technologyreview.com/tr35/">MIT Technology
-Review's TR 35 for 2008</a>: Top 35 innovators under the age of
-35.<br />
-
-
-</p>
-
-
-<p class="style2"> <img style="width: 38px; height: 27px;" alt="LoCA2009logo" src="images/loca2009.png" /> I am also
-the program co-chair (along with <a href="http://www.cs.ucd.ie/staff/aquigley/home/">Aaron
-Quigley</a>) of <a href="http://loca2009.context-aware.org/">LoCA
-2009</a> (4th International Symposium on Location and
-Context-Awareness)</p>
-<p class="style2"><img style="border: 0px solid ; width: 37px; height: 27px;" alt="AAAIlogo" src="images/image320.jpg" /><a href="http://research.microsoft.com/%7Eakapoor/"> Ashish
-Kapoor</a>, <a href="http://www.cs.rochester.edu/u/kautz/">Henry
-Kautz</a>, and I organized the <a href="http://www.aaai.org/Library/Symposia/Spring/ss09-04.php">AAAI
-Spring 2009 Symposium</a> on <a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09">Human
-Behavior Modeling</a><br />
-
-
-</p>
-
-
-<p class="style2"><br />
-</p>
-
-
-<!-- #EndEditable --></div>
-
-
-<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
-<div id="footer">
-<p><a href="index.html">About</a>
-|
-<a href="pubs/pubs.html">Publications</a> | <a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a> | <a href="students/students.html">Students</a> |
-<a href="teaching/teaching.html">Teaching</a> |
-<a href="press/press.html">Press</a> | <a href="links/links.html">Links</a> | <a href="contact/contact.html"> Contact</a></p>
-
-
-</div>
-
-
-<!-- End Footer --></div>
-
-
-<!-- End content_container --></div>
-
-
-<!-- End Container --><!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=3810501; var sc_invisible=1; var sc_partition=34; var sc_click_stat=1; var sc_security="9ceb4d35"; </script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
-<noscript><div class="statcounter"><a
-href="http://www.statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/3810501/0/9ceb4d35/1/" alt="web stats"
-></a></div></noscript>
-
-
-<!-- End of StatCounter Code -->
 </body>
 </html>
-htmli

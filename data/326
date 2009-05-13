@@ -1,18 +1,22 @@
-http://www.cs.dartmouth.edu/~cbk/personal.html
+http://www.cs.dartmouth.edu/~cbk/index.html
 3
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head><title>Chris Bailey-Kellogg : Personal</title>
+<head><title>Chris Bailey-Kellogg</title>
 <meta http-equiv=content-type content="text/html; charset=us-ascii">
 <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
-<p>
+<table width="100%" border=0>
+<tr>
+<td valign=top>
 <font class=me>Chris Bailey-Kellogg</font><br>
 <a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
 <a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
-</p>
+</td>
+</tr>
+</table>
 
 <table width="100%" border=0><tbody>
 
@@ -29,22 +33,42 @@ http://www.cs.dartmouth.edu/~cbk/personal.html
 
 <!-- content -->
 <td valign=top>
-<div class=header align=center>Personal</div><br>
+<div class=header align=center>Home</div><br>
 
-<h3>Not-So-Random Walk</h3>
-Emory, VA (<a href="http://www.ehcweb.ehc.edu/faculty/fkellogg/">Fred and
-Jeannette Kellogg</a>; <a href="http://www.angelspore.nu/">Mark</a>)<br>
-Cambridge, MA (<a href="http://web.mit.edu/">MIT</a>: <a href="http://www.media.mit.edu/~sandy/">Sandy Pentland</a>: BS/MS)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; + Christine (<a href="http://www.wellesley.edu/">Wellesley</a>)<br>
-Dallas, TX (<a href="http://www.ti.com/">TI</a>: Bruce Flinchbaugh)<br>
-Columbus, OH (<a href="http://www.cis.ohio-state.edu/">OSU</a>: <a href="http://www.parc.xerox.com/spl/members/zhao/">Feng Zhao</a>: PhD)<br>
-Palo Alto, CA (<a href="http://www.parc.xerox.com/">Xerox PARC</a>: <a href="http://www.parc.xerox.com/spl/members/zhao/">Feng Zhao</a>)<br>
-Hanover, NH (<a href="http://www.cs.dartmouth.edu/">Dartmouth</a>: <a href="http://www.cs.dartmouth.edu/~brd/">Bruce Donald</a>: Postdoc)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; + <a href="dorrie.html">Dorrie</a> (<a href="http://uvhs.org/">Upper Valley Humane Society</a>)<br>
-West Lafayette, IN (<a href="http://www.cs.purdue.edu/">Purdue</a>: Assistant Professor)<br>
-Strafford, VT (<a href="http://www.cs.dartmouth.edu/">Dartmouth</a>:
-Assistant then Associate Professor)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; + Amelia<br>
+<table width="100%">
+<tr><td>
+<table cellpadding="0">
+<tr><td><i>Email</i></td><td><a href="mailto:&#099;&#098;&#107;&#064;&#099;&#115;&#046;&#100;&#97;&#114;&#116;&#109;&#111;&#117;&#116;&#104;&#046;&#101;&#100;&#117;">&#099;&#098;&#107;&#064;&#099;&#115;&#046;&#100;&#97;&#114;&#116;&#109;&#111;&#117;&#116;&#104;&#046;&#101;&#100;&#117;</a></td></tr>
+<tr><td><i>Mail</i></td><td>6211 Sudikoff Laboratory, Hanover, NH 03755</td></tr>
+<tr><td><i>Office</i></td><td>Sudikoff 250</td></tr>
+<tr><td><i>Phone</i>&nbsp;</td><td>603-646-3385</td></tr>
+<tr><td><i>Fax</i></td><td>603-646-1672</td></tr>
+</table>
+</td>
+<td><div align="right"><img src="images/cbk-web.jpg" alt="mug shot" border=0></div></td>
+</tr>
+</table>
+
+&nbsp;<br>&nbsp;<br>
+
+<table align=center>
+<tr>
+<td><a href="multimodal.html"><img src="images/multimodal-small.jpg" alt="multimodal"></a></td>
+<td width=50></td>
+<td><a href="nmr.html"><img src="images/nmr-graph-small.jpg" alt="nmr"></a></td><td width=50></td>
+<td><a href="oligomer.html"><img src="images/2hyn-small.jpg" alt="oligomer"></a></td>
+</tr>
+</table>
+
+<br><br>
+
+<table align=center>
+<tr>
+<td><a href="mrf.html"><img src="images/mrf-small.jpg" alt="graphical models"></a></td>
+<td width=50></td>
+<td><a href="recombination.html"><img src="images/recomb-small.jpg" alt="recombination"></a></td>
+</tr>
+</table>
 
 </td></tr>
 

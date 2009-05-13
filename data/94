@@ -1,32 +1,385 @@
-http://www.cs.dartmouth.edu/~ltzeng
+http://www.cs.dartmouth.edu/~keren
 2
-<HTML>
-<HEAD>
-  <TITLE>house page</TITLE>
-  <STYLE>
-    <!--
-      a { text-decoration: none }
-     -->
-  </STYLE>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
 
-</HEAD>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="index.files/filelist.xml">
+<title>Welcome to Keren Tan's Homepage</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author> </o:Author>
+  <o:LastAuthor> </o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2008-08-20T23:56:00Z</o:Created>
+  <o:LastSaved>2008-08-20T23:57:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>549</o:Words>
+  <o:Characters>3130</o:Characters>
+  <o:Company> </o:Company>
+  <o:Lines>26</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3672</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>125</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"Comic Sans MS";
+	panose-1:3 15 7 2 3 3 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:script;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1754818483;
+	mso-list-template-ids:-1082596716;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:\666E\901A\8868\683C;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
 
-<BODY BGCOLOR="#000000" TEXT="#aaddff">
+<body lang=ZH-CN link=blue vlink=blue style='tab-interval:21.0pt'>
 
-<CENTER>
-<TABLE height="100%">
+<div class=Section1>
 
-<TR>
+<p><span lang=EN-US>&nbsp;</span></p>
 
-<TD align=center valign=middle>
-<IMG SRC="title.gif"><BR>
-<A HREF="page.html"><IMG SRC="house.gif" border="0"></A>
-</TD>
+<p><span class=SpellE><strong><span lang=EN-US style='font-size:24.0pt;
+font-family:"Comic Sans MS"'>Keren</span></strong></span><strong><span
+lang=EN-US style='font-size:24.0pt;font-family:"Comic Sans MS"'>
+Tan&nbsp;&nbsp;&nbsp; ^_^</span></strong></p>
 
-</TR>
+<p><span lang=EN-US>&nbsp;</span></p>
 
-</TABLE>
-</CENTER>
+<p><strong><span lang=EN-US style='font-size:18.0pt;font-family:"Comic Sans MS"'>Short
+Biography</span></strong></p>
 
-</BODY>
-</HTML>
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>I am a
+Ph.D. student in the <a href="http://www.cs.dartmouth.edu/">Department of
+Computer Science</a> at <a href="http://www.dartmouth.edu/">Dartmouth College</a>.
+I received my Bachelor and Master degrees in Computer Science from <a
+href="http://www.nuaa.edu.cn/">Nanjing Unversity of Aeronautics and
+Astronautics</a>, <st1:country-region w:st="on"><st1:place w:st="on">China</st1:place></st1:country-region>,
+in 2002 and 2005, respectively. <span style='mso-spacerun:yes'>&nbsp;</span><a
+href="http://www.cs.dartmouth.edu/%7Edfk/">Prof. David Kotz</a> is my
+advisor.&nbsp;I am now working&nbsp;on <span class=GramE>the <span
+style='mso-spacerun:yes'>&nbsp;</span></span><a
+href="http://www.cs.dartmouth.edu/%7Edist/">DIST</a> project. <o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p><strong><span lang=EN-US style='font-size:18.0pt;font-family:"Comic Sans MS"'>Publications</span></strong><span
+lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:18.0pt;font-family:"Comic Sans MS"'>Conference
+Papers</span><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>
+<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>2008<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>Yong <span
+class=SpellE>Sheng</span>, <span class=SpellE>Keren</span> Tan, <span
+class=SpellE>Guanling</span> Chen, David <span class=SpellE>Kotz</span> and
+Andrew Campbell, &quot;Detecting 802.11 MAC layer spoofing using received
+signal strength&quot;, &nbsp;In: <em><span style='font-family:"Comic Sans MS"'>Proceedings
+of the 27th Annual Joint Conference of the IEEE Computer and Communications
+Societies (INFOCOM'08)</span></em>, Phoenix, AZ, pp.1768-1776, 2008. <o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>2004<o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:13.5pt;
+font-family:"Comic Sans MS"'>Keren</span></span><span lang=EN-US
+style='font-size:13.5pt;font-family:"Comic Sans MS"'> Tan, <span class=SpellE>Songcan</span>
+Chen and <span class=SpellE>Daoqiang</span> Zhang, &quot;Robust image <span
+class=SpellE>denoising</span> using kernel-induced measures&quot;, In: <em><span
+style='font-family:"Comic Sans MS"'>Proceedings of the 17th International
+Conference on Pattern Recognition (ICPR'04)</span></em>, <st1:place w:st="on"><st1:City
+ w:st="on">Cambridge</st1:City>, <st1:country-region w:st="on">UK</st1:country-region></st1:place>,
+vol.4, pp.685-688, 2004. [Oral presentation, Acceptance rate 18.1%] <br>
+<br>
+<span class=SpellE>Daoqiang</span> Zhang, <span class=SpellE>Keren</span> Tan
+and <span class=SpellE>Songcan</span> Chen, &quot;Semi-Supervised Kernel-based
+Fuzzy C-Means&quot;, In: <em><span style='font-family:"Comic Sans MS"'>Proceedings
+of the 11th International Conference on Neural Information Processing
+(ICONIP'04),</span></em> Calcutta, India, Lecture Notes in Computer Science,
+vol.3316, pp.1229-1234, 2004. <o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>2003<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>Dao-<span
+class=SpellE>Qiang</span> Zhang, Song-Can Chen, <span class=SpellE>Zhi</span>-Song
+Pan and <span class=SpellE>Ke-Ren</span> Tan, &quot;Kernel-based fuzzy
+clustering incorporating spatial constraints for image segmentation&quot;, In: <em><span
+style='font-family:"Comic Sans MS"'>Proceedings of the 2nd International
+Conference on Machine Learning and Cybernetics (ICMLC'03)</span></em>, Xi'an,
+China, pp.2189-2192, 2003. <o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:18.0pt;font-family:"Comic Sans MS"'>Journal
+Papers</span><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>2008<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>Yong <span
+class=SpellE>Sheng</span>, <span class=SpellE>Guanling</span> Chen, <span
+class=SpellE>Keren</span> Tan, <span class=SpellE>Udayan</span> <span
+class=SpellE>Deshpande</span>, <span class=SpellE>Bennet</span> Vance, <span
+class=SpellE>Hongda</span> Yin, Chris McDonald, Tristan Henderson, David <span
+class=SpellE>Kotz</span>, Andrew Campbell, Joshua Wright, &quot;MAP: A scalable
+monitoring system for dependable 802.11 wireless networks&quot;, Accepted by <i>IEEE
+Wireless Communications Magazine.</i><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>2005<o:p></o:p></span></p>
+
+<p><span class=SpellE><span lang=EN-US style='font-size:13.5pt;font-family:
+"Comic Sans MS"'>Keren</span></span><span lang=EN-US style='font-size:13.5pt;
+font-family:"Comic Sans MS"'> Tan, <span class=SpellE>Songcan</span> Chen,
+&quot;Adaptively weighted sub-pattern PCA for face recognition&quot;,<em><span
+style='font-family:"Comic Sans MS"'> <span class=SpellE>Neurocomputing</span></span></em>,
+vol.64, pp.505-511, Mar 2005. <o:p></o:p></span></p>
+
+<p><span class=SpellE><span class=GramE><span lang=EN-US style='font-size:13.5pt;
+font-family:"Comic Sans MS"'>Daoqiang</span></span></span><span class=GramE><span
+lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'> Zhang, <span
+class=SpellE>Songcan</span> Chen and <span class=SpellE>Keren</span> Tan,
+&quot;Improving the robustness of 'online agglomerative clustering method'
+based on kernel-induce distance measures&quot;, <em><span style='font-family:
+"Comic Sans MS"'>Neural Processing Letters</span></em>, vol.21, pp.45-51, Feb
+2005.</span></span><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p>&nbsp;</o:p></span></p>
+
+<p><b><span lang=EN-US style='font-size:24.0pt;font-family:"Comic Sans MS"'>Public
+Technical Talks</span></b><span lang=EN-US style='font-size:13.5pt;font-family:
+"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>Demonstration
+of the <a href="http://www.cs.dartmouth.edu/%7Emap/">MAP</a> project to:<o:p></o:p></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span lang=EN-US
+     style='font-size:13.5pt;font-family:"Comic Sans MS"'>Naval Research <span
+     class=SpellE>Leboratory</span>, with David <span class=SpellE>Kotz</span>
+     and Yong <span class=SpellE>Sheng</span>, Mar 2007<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span lang=EN-US
+     style='font-size:13.5pt;font-family:"Comic Sans MS"'>U.S. Secret
+     Service(USSS) Electronic Crimes Task Forces(ECTF) at Miami, FL, with Yong <span
+     class=SpellE>Sheng</span> and Joshua Wright, Feb 2007<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span lang=EN-US
+     style='font-size:13.5pt;font-family:"Comic Sans MS"'>Air Force Information
+     Operating Center(AFIOC) at <st1:place w:st="on"><st1:City w:st="on">San
+       Antonio</st1:City>, <st1:State w:st="on">TX</st1:State></st1:place>,
+     with David <span class=SpellE>Kotz</span> and Yong <span class=SpellE>Sheng</span>,
+     Jan 2007<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&quot;Robust
+image <span class=SpellE>denoising</span> using kernel-induced measures&quot;, <st1:place
+w:st="on"><st1:City w:st="on">Cambridge</st1:City>, <st1:country-region w:st="on">UK</st1:country-region></st1:place>,
+Aug 2004 <o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<br>
+</span><b><span lang=EN-US style='font-size:24.0pt;font-family:"Comic Sans MS"'>Contact
+Information</span></b><span lang=EN-US style='font-size:13.5pt;font-family:
+"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>My&nbsp;mailing
+address is:<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp; <span class=SpellE>Keren</span> Tan<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;6211 <span class=SpellE>Sudikoff</span>
+Lab<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<st1:State w:st="on">Hanover</st1:State>,
+NH 03755<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<st1:country-region w:st="on"><st1:place
+ w:st="on">USA</st1:place></st1:country-region><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>For
+email address and phone <span class=GramE>numbers,</span> please enter the
+following link, type in my name and click the &quot;Search&quot; button.
+Thanks!<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><a
+href="http://www.dartmouth.edu/%7Ednd">Dartmouth College People Finder</a> <br>
+</span><span lang=EN-US style='font-size:10.0pt;font-family:"Comic Sans MS"'><br>
+</span><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><br>
+</span><b><span lang=EN-US style='font-size:24.0pt;font-family:"Comic Sans MS"'>Hobbies</span></b><span
+lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'> <o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:18.0pt;font-family:"Comic Sans MS"'>Skiing,
+Kayaking, Fishing</span><span lang=EN-US style='font-size:13.5pt;font-family:
+"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:13.5pt'><span lang=EN-US
+style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p>&nbsp;</o:p></span></p>
+
+<p><b><span lang=EN-US style='font-size:18.0pt;font-family:"Comic Sans MS"'>Related
+Links</span></b><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><a
+href="http://www.ists.dartmouth.edu/">Institute for Security Technology Studies
+(ISTS) at Dartmouth College&nbsp;</a><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><a
+href="http://cmc.cs.dartmouth.edu/">The Center for Mobile Computing at
+Dartmouth College</a><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'><a
+href="http://parnec.nuaa.edu.cn/">Pattern Recognition &amp; Neural Computing
+Group (PARNEC) at NUAA</a><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p><strong><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>Thanks
+a lot for your visiting!&nbsp; </span></strong><span lang=EN-US
+style='font-size:13.5pt;font-family:"Comic Sans MS"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>Last
+update: Jun 26, 2008<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:13.5pt;font-family:"Comic Sans MS"'>&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

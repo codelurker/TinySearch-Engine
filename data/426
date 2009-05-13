@@ -1,67 +1,90 @@
-http://www.cs.dartmouth.edu/~sasho/tttp
+http://www.cs.dartmouth.edu/~pala/courses/cs108_08
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-
-<html>
-
-<head>
-  <title>Tiny Trusted Third Parties</title>
-
-  <link href="../main.css" title="main" rel="stylesheet" type="text/css">
-</head>
-
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en"><head><title>CS 108 - Winter 2008</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="AUTHOR" content="Massimiliano Pala">
+   <link rel="stylesheet" href="../../css/pala-new.css" type="text/css"></head>
 <body>
-  
 
-<h1>Tiny Trusted Third Parties</h1>
+<div class="index">
+<a href="../.." class="off">Home</a> &gt;
+<a href="../../courses.shtml" class="off">Courses</a> &gt;
+<font class="on">CS 108</font>
+</div>
+<div class="border">
+<div class="page_body">
+<!-- Begin: Title -->
+<div style="padding: 10px;">
+	<!-- <font class="backtext">PKI/Trust Lab</font><br /> -->
+	<font class="fronttext">Advanced Operating Systems - CS108</font><br />
+	<font class="backtext">Winter Term 2008 - Dartmouth College</font>
+</div>
 
-<h2>Workshop Paper</h2>
-<p>
-<a href="../papers/watc2006.html">Faerieplay on Tiny Trusted Third
-Parties</a>. We present our work to overcome barriers to the deployment of Secure
-Multiparty Computation assisted by a Trusted Third Party (TTP) in the
-form of hardware-based trustworthy devices, like the IBM 4758 secure
-coprocessor.  We focus on the effective use of <emph>tiny</emph> TTPs (<emph>
-T3Ps</emph>). To eliminate the difficulty of programming a small secure
-device while preserving critical trust properties, in concurrent work
-we designed and prototyped an efficient system, called Faerieplay, to
-execute <emph>arbitrary</emph> programs on T3Ps securely. To eliminate the
-performance and cost obstacles of using secure coprocessors, we are
-currently examining the potential hardware design for a T3P optimized
-for bottleneck operations. We estimate that such a T3P could
-outperform the 4758 by several orders of magnitude, while also having
-a gate-count of only 30K-60K, one to three orders of magnitude smaller
-than the 4758 or hardened CPU systems like AEGIS. We are currently
-proceeding with a proof-of-concept prototype on a Xilinx FPGA.
-</p>
+<!-- End: Title -->
+<!-- Begin: Menu -->
+<!-- Begin: Menu Include -->
+<div class="gold">
+<div class="tl">
+<div class="tr">
+<div class="bl">
+<div class="br">
+<div class="inner">
+<ul class="menu">
+<li class="menu"><a href="index.shtml">Home</a></li>
+<li class="menu"><a href="schedule.shtml">Schedule &amp; Logistics</a></li>
+<li class="menu"><a href="syllabus.shtml">Syllabus</a></li>
+<li class="menu"><a href="coursework.shtml">Coursework</a></li>
+<li class="menu"><a href="http://www.cs.dartmouth.edu/~cs108">Official CS108 Pages</a></li>
+<li class="menu"><a href="../..">Pala Homepage</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
+<!-- End: Menu -->
+<!-- Begin: Main Contents -->
+<div style="margin: 10px; padding: 10px; width: 100%;">
+<div class="tttitle">
+Class Details
+</div>
+<div class="tttbody">
+  <p style="margin-left: 20px;">
+The class analyzes the architecture of modern operating systems,
+starting from a textbooks vision down to the dirty bits.
+</div>
 
-<h2>Technical Reports</h2>
+<!-- #include virtual="includes/lectures.inc" -->
+<div class="tttitle">
+  News
+</div>
+<div class="tttbody">
+   <ul>
+     <li>
+	<span class="date">Jan, Fri 18</span>
+	Additional DTrace links have been posted in the <a href="coursework.shtml">Coursework</a> section.
+     </li>
+     <li>
+	<span class="date">Jan, Thu 17</span>
+	The example scripts that have been discussed in class are available <a href="slides/dtrace-examples.tar">here</a>.
+     </li>
+     <li>
+	<span class="date">Jan, Wed 16</span>
+	DTrace slides are available <a href="slides/dtrace-intro.pdf">here</a>.
+     </li>
+   </ul>
+</div>
 
-<p>
-<a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-547/">Towards Tiny
-Trusted Third Parties</a>. Here we outline our hardware design for a tiny TTP,
-which is optimized for operations like emulating a re-encrypting sorting
-network. These operations dominate the running time of Oblivious RAM and
-Practical PIR algorithms.
-</p>
-
-<p>
-<a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-551/"> More
-Efficient Secure Function Evaluation Using Tiny Trusted Third Parties</a>. Here
-we describe our circuit-based Secure Multiparty Computation (SMC) system, which
-uses tiny TTPs, and improves efficiency with indirect arrays. Indirect arrays
-are a major weakness with exisiting non-TTP protocols.
-</p>
-
-<hr>
-Maintained by <a href="../">Alex Iliev</a>
-
-<hr>
-<!--time-start-->
-Last modified: May 08, 2007
-<!--time-end-->
-
+<!-- End: Main Contents -->
+</div>
+</div>
+<div style="display: inline;" class="footer">
+<a href="../../">Massimiliano Pala</a> @ <a href="http://www.cs.dartmouth.edu">Dartmouth College</a>
+</div>
 </body>
 </html>
+
+ni

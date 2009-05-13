@@ -1,201 +1,208 @@
-http://www.cs.dartmouth.edu/~farid/yearinreview07.html
+http://www.cs.dartmouth.edu/~farid/home.html
 3
 <html>
 <head>
 <LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
-<title> Hany Farid: Image Science Group </title>
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+   var isNS4 = (document.layers) ? true : false;
+   var isIE4 = (document.all && !document.getElementById) ? true : false;
+   var isIE5 = (document.all && document.getElementById) ? true : false;
+   var isNS6 = (!document.all && document.getElementById) ? true : false;
+   var home_bg_index;
+
+   function pickhome_bg() {
+      home_bg_index = 9;
+      filename = "home_bg" + home_bg_index + ".gif";
+      photo = new Image(); photo.src = filename;
+      document.home_bg.src = photo.src;
+   }
+
+   function setvis( name, val ) {
+      if( isNS4 ) {
+          p = document.layers[name];
+	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
+      } else {
+	if( isIE4 ){
+          p = document.all[name].style;
+	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else if( isIE5 || isNS6 ) {
+          p = document.getElementById(name).style;
+	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else {
+          p = document.getElementById(name).style;
+	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
+	}
+      }
+   }
+//-->
+</SCRIPT>
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066"
+      onLoad="pickhome_bg();">
 
-<table align=center width=750>
-<tr>
-<td>
 
-<p>
-<b> Year in Review: 2007 </b>
-<p>
+<META name="keywords" content="Hany Farid, Hani Farid, research, vision, image
+processing, computer vision, machine vision, human vision, steerable
+filters, derivative filters, fractional derivatives, fractional
+fourier transform, range estimation, image separation, separating
+reflections, digital forgery, digital tampering, digital forensics,
+expert witness, steganography, steganalysis, secret messages, motion
+grouping, texture grouping, temporal synchrony, transparency,
+tutorials, primer, matlab, bispectrum, bicoherence, blind gamma
+correction, image non-linearity, mathematics for kids, math for kids,
+mathematics stories, math stories, reconstructing egyptian tombs,
+unfolding egyptian tombs, virtual egyptian tombs, egyptian tomb,
+egyptian murals, Orozco murals, vrml, visual illusions">
 
-I hope that this email finds you all well.  I write to update you on
-the happenings of the <a href="group.html">Image Science Group</a>.
-The group currently consists of Kimo Johnson, Eric Kee, Weihong Wang,
-and Jeff Woodward.  Our lab has had a fun and productive year.  Our
-main focus continues to be in the area of digital forensics, in which,
-thanks to all of you, we have made incredible advances.
+<META Name="description" Content="Hany Farid, Professor,
+Image Science Group, Department of Computer Science, Dartmouth
+College">
 
-<p>
-<HR>
-<p>
+   <map name="menubar">
+   <area shape="rect" coords="35,105,95,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('me',1);setvis('medot',1);"
+      onmouseout="setvis('me',-1);setvis('medot',-1);">
 
-It has been an exciting and productive year for <a
-href="http://www.mit.edu/~kimo/">Kimo Johnson</a> who
-defended his Ph.D. dissertation this summer, was awarded a prestigious
-NSF Postdoctoral Fellowship, and will begin a postdoc jointly at MIT
-and Adobe Research Labs on January of 2008. Kimo's dissertation is
-titled <a
-href=http://www.cs.dartmouth.edu/farid/publications/mkjthesis07.html>
-Lighting and Optical Tools for Image Forensics</a>.
+   <area shape="rect" coords="100,105,160,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('info',1);setvis('infodot',1);"
+      onmouseout="setvis('info',-1);setvis('infodot',-1);">
 
-<p>
+   <area shape="rect" coords="230,108,295,123"
+      href="group.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('peopledot',1);"
+      onmouseout="setvis('peopledot',-1);">
 
-<table width=750>
-<tr>
-<td valign=top>
-Kimo also gave the keynote lecture at the 6th International Workshop
-on Digital Watermarking, where he presented the following paper:
+   <area shape="rect" coords="230,131,295,146"
+      href="publications/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('papersdot',1);"
+      onmouseout="setvis('papersdot',-1);">
 
-<p>
+   <area shape="rect" coords="230,154,318,167"
+      href="research/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('researchdot',1);"
+      onmouseout="setvis('researchdot',-1)">
 
-<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/iwdw07.html>Detecting Photographic Composites of People</a> </dd>
-<dd> M.K Johnson and H. Farid </dd>
-<dd> 6th International Workshop on Digital Watermarking, Guangzhou, China, 2007</dd>
+   <area shape="rect" coords="230,175,317,188"
+      href="teaching" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('teachingdot',1);"
+      onmouseout="setvis('teachingdot',-1);">
 
-<p>
+   <area shape="rect" coords="230,196,316,210"
+      href="tutorials" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('tutorialsdot',1);"
+      onmouseout="setvis('tutorialsdot',-1);">
 
-The emphasis of Kimo's work has been on developing new geometric-based
-tools for digital forensics.  Two particularly nice papers on
-detecting inconsistencies in lighting are available here:
+   <area shape="rect" coords="585,105,665,125"
+      onmouseover="setvis('contact',1);setvis('contactdot',-1);setvis('contactdot',1);">
 
-<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/tifs07a.html>Exposing Digital Forgeries in Complex Lighting Environments</a> </dd>
-<dd> M.K. Johnson and H. Farid </dd>
-<dd> IEEE Transactions on Information Forensics and Security, 2(3):450-461, 2007 </dd>
+   <area shape="rect" coords="375,233,435,246"
+      href="egypt/reconstruction.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('egyptdot',1);"
+      onmouseout="setvis('egyptdot',-1);">
 
-<p>
+   <area shape="rect" coords="375,252,450,265"
+      href="myphotos"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('photosdot',1);"
+      onmouseout="setvis('photosdot',-1);">
 
-<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/ih07.html>Exposing Digital Forgeries Through Specular Highlights on the Eye</a> </dd> 
-<dd> M.K. Johnson and H. Farid </dd> 
-<dd> 9th International Workshop on Information Hiding, Saint Malo, France, 2007 </dd>
+   <area shape="rect" coords="375,271,460,284"
+      href="illusions/monster.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('illusiondot',1);"
+      onmouseout="setvis('illusiondot',-1);">
 
-<p>
+   <area shape="rect" coords="375,290,475,303"
+      href="mathkids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('mathkidsdot',1);"
+      onmouseout="setvis('mathkidsdot',-1);">
 
-Kimo (and his wife) was a particularly good sport when I made him pose
-for this Star magazine cover (notice him kissing Katie in the circular
-inset).
+   <area shape="rect" coords="375,309,505,326"
+      href="sciencekids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('sciencekidsdot',1);"
+      onmouseout="setvis('sciencekidsdot',-1);">
+  </map>
 
-</td>
 
-<td> <img src=photos/kimo_star.jpg width=378 height=500> </td>
-</tr>
-</table>
+  <div id="home" style="position:absolute; left:50; top:50; visibility:show">
+       <img src="home.gif" border="0" usemap="#menubar" name="home_bg">
+  </div>
 
-<p>
-<HR>
-<p>
+  <div  style="position:absolute; left:88; top:185">   
+       <a href="cv.pdf"><font color=#291C5E>cv</font></a>  
+       <font color=#291C5E>&</font>
+       <a href="bio.html"><font color=#291C5E>bio</font></a>
+  </div>
 
-We welcome <a href=http://www.cs.dartmouth.edu/~erickee>Eric Kee</a>
-to our lab.  I met Eric while visiting the CIA.  Eric was at a talk I
-gave as part of his work at the Johns Hopkins University Applied
-Physics Laboratory.  Eric has spent several years working in digital
-forensics, and since coming to Dartmouth has begun some interesting
-new work in digital document forensics.
+  <div id="me" style="position:absolute; left:185; top:195; visibility:hidden">
+       <img src="icon/meicon4.jpg" border="0">
+  </div>
 
-<p>
-<HR>
-<p>
+  <div id="contact" style="position:absolute; left:585; top:246; 
+       visibility:hidden"> <img src="icon/contact.gif" border="0">
+  </div>
 
-<a href="http://www.cs.dartmouth.edu/~whwang/">Weihong Wang</a> has
-been doing some excellent work in digital video forensics.  In his two
-most recent papers, Weihong has extended Alin Popescu's work in image
-forensics to video:
+  <div id="info" style="position:absolute; left:51px; top:268px; 
+       visibility:hidden"> <img src="icon/info.gif" border="0">
+  </div>
 
-<p>
+  <div id="peopledot" style="position:absolute;  left:268px; top:163px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/tifs07.html>Exposing Digital Forgeries in Interlaced and De-Interlaced Video</a> </dd> 
-<dd> W. Wang and H. Farid </dd> 
-<dd> IEEE Transactions on Information Forensics and Security, 2(3):438-449, 2007 </dd>
+  <div id="papersdot" style="position:absolute;  left:268px; top:183px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<p>
+   <div id="researchdot" style="position:absolute;  left:268px; top:204px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/acm07.html>Exposing Digital Forgeries in Video by Detecting Duplication</a> </dd> 
-<dd> W. Wang and H. Farid </dd> 
-<dd> ACM Multimedia and Security Workshop, Dallas, TX, 2007 </dd>
+   <div id="teachingdot" style="position:absolute;  left:268px; top:225px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-<p>
+   <div id="tutorialsdot" style="position:absolute;  left:268px; top:246px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
 
-And Weihong's most recent work will bring some interesting geometric
-techniques to digital forensics.  
+   <div id="contactdot" style="position:absolute;  left:625px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<p>
-<HR>
-<p>
+   <div id="egyptdot" style="position:absolute;  left:418px; top:284px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-Jeff Woodward (Woody) has single-handedly taken all of our digital
-forensic work and ported it into a wonderful stand-alone software
-package.  We plan to deliver this software to the FBI's forensic lab
-in March of 2008.  In addition, Woody and I published a cool technical
-report that describes how to enhance low quality video:
+   <div id="photosdot" style="position:absolute;  left:418px; top:306px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/tr07.html>Video Stabilization and Enhancement</a> </dd> 
-<dd> H. Farid and J.B. Woodward </dd> 
-<dd> Technical Report, TR2007-605, Dartmouth College, Computer Science </dd>
+   <div id="illusiondot" style="position:absolute;  left:418px; top:326px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<p>
-<HR>
-<p>
+   <div id="mathkidsdot" style="position:absolute;  left:418px; top:348px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-As for me, I continue to split my time between Hanover and Santa Cruz,
-CA.  The time in CA is wonderful and productive, and the sunsets
-continue to astound me:
-<p>
-<div align=center> <img src=photos/sunset.jpg height=125 width=700> </div>
-<p>
+   <div id="sciencekidsdot" style="position:absolute;  left:418px; top:368px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-I was also named by Dartmouth as the David T. McLaughlin Distinguished
-Professor of Computer Science.  As always, you can find on my web page
-copies of our <a href="publications/publications.html">papers</a> and
-<a href="publications/publications.html#popularpress">popular
-press</a> accounts of our work.
+   <div id="infodot" style="position:absolute;  left:215px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
-<p>
-<HR>
-<p>
-
-In alumni news, 
-<ul>
-
-<li> <a href="http://www.cs.albany.edu/~lsw/">Siwei Lyu</a> has been a
-postdoc at NYU for the past few years where he has continued to do
-exciting research in the area of natural image statistics.  Siwei
-recently accepted a position at SUNY Albany as an Assistant Professor
-of Computer Science.
-
-<li> Dave Martin moved to San Jose, CA and is a proud new father.
-
-<li> After several years at Siemens, Senthil Periaswamy has moved to
-iCAD in Ohio where he continues to do interesting work in medical
-imaging.
-
-<li> Alin Popescu is working at Renesys Inc. here in Hanover, NH and
-has been enjoying the algorithmic and systems-oriented challenges of
-the job.
-
-<li> <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> has
-been living in Los Angeles, CA and working in various corners of the
-movie industry.  Jethro and I have also been working together on
-developing a one-hour drama series based on the general field of
-digital forensics.
-
-<li> Kate Sherwin has moved to Austin, TX where she is working in the
-field of computational finance.
-
-<li> Hai Sun is at the Oregon Health and Science University as a
-resident in neurosurgery.  Hai continues to do exciting work at the
-crossroads of medicine and engineering.
-
-</ul>
-
-<p>
-<HR>
-<p>
-
-I hope that this email finds you all well and happy.  Please stay in
-touch and let me know how things are.
-
-</td>
-</tr>
-</table>
+   <div id="medot" style="position:absolute;  left:76px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
 
 </body>
 </html>
-i
+
+
+-e06i

@@ -1,63 +1,38 @@
-http://www.cs.dartmouth.edu/~rvs
+http://www.cs.dartmouth.edu/~sharon
 2
-<html>
-<head>
-<title>Rouslan V. Solomakhin</title>
-<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+
+<HTML>
+
+
+<body style="background-color:#FFCCFF"><HEAD>
+<h3 align=center>
+Rong(Sharon) Yang </H3>
+
 </head>
-<body>
-<div id="mainpage">
-<div id="header">
-<div id="id">
-<h1>Rouslan V. Solomakhin</h1>
-<p>Masters Student<br/>
-Department of Computer Science<br/>
-6211 Sudikoff Laboratory<br/>
-Dartmouth College<br/>
-Hanover, New Hampshire &nbsp; 03755-3510<br/>
-Phone: (315) 244-3439<br/>
-E-Mail: <a href="mailto:rvs@cs.dartmouth.edu">rvs@cs.dartmouth.edu</a><br/>
-<a href="https://ssl.cs.dartmouth.edu/~rvs/public-key">public key</a> &nbsp; <a href="vita.html">curriculum vitae</a></p>
-</div> <!-- id -->
-</div> <!-- header -->
-<div id="beef">
-<div id="subbeaf">
-<p>My research interests are security, machine learning, bio-informatics, and algorithmic game theory. I am working with <a href="http://www.cs.dartmouth.edu/~sws/">Sean Smith</a> on security of the power grid.</p>
-<p>I represent computer science graduate students on <a href="http://www.dartmouth.edu/~gsc/">Graduate Student Council</a>. I am the webmaster and a fan of <a href="http://www.dartmouth.edu/~dats/">Dartmouth Argentine Tango Society</a>.
-<p><strong>What's up</strong></p>
-<ul>
-	<li class="past">Fall
-	<ul>
-		<li>COSC 025 Algorithms</li>
-		<li>COSC 058 Operating Systems</li>
-		<li>MATH 022 Linear Algebra with Applications</li>
-		<li>Audit: MATH 008 Calculus</li>
-	</ul>
-	</li>
-	<li class="past">Winter
-	<ul>
-		<li>COSC 105 Algorithms and Data Structures</li>
-		<li>COSC 108 Advanced Operating Systems</li>
-	</ul>
-	</li>
-	<li id="present">Spring
-	<ul>
-		<li>COSC 109 Theory of Computation</li>
-		<li>COSC 078 Computer Networks</li>
-	</ul>
-	</li>
-	<li class="future">Summer
-	<ul>
-		<li>Internship with Microsoft</li>
-	</ul>
-	</li>
-</ul>
-</div> <!-- subbeaf -->
-<div id="lg">&nbsp;</div>
-<div id="footer">
-<p>March 31, 2009</p>
-</div> <!-- footer -->
-</div> <!-- beef -->
-</div> <!-- mainpage -->
+
+
+<HR>
+<body> 
+ Second year Ph.D student at computer science department.<p>
+
+
+<p>
+
+Contact information:<P>
+
+
+Email: Rong.LASTNAME AT dartmouth.edu<P>
+
+
+Office: Room 220 6211 sudikoff<P>
+
+
+Phone:  603-646-8752<p>
+office hour for cs109: 2:00pm-4:00pm wednesdays
+<p>
+
+
 </body>
-</html>
+
+</HTML>
+

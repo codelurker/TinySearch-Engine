@@ -1,128 +1,355 @@
-http://www.cs.dartmouth.edu/~doug
+http://www.cs.dartmouth.edu/~chris
 2
-<h2>M. Douglas McIlroy, Adjunct Professor</h2>
-<img src="doug.jpg" alt="McIlroy photo" align="right"> 
-<br>Department of Computer Science
-<br>6211 Sudikoff Hall
-<br>Dartmouth College 
-<br>Hanover, NH 03755
-<br><a href="mailto:mcilroy@dartmouth.edu">mcilroy@dartmouth.edu</a>
-<br>+1 603 646 1077 
-<hr>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
-<dl>
-<dt>2003 marked my golden anniversary as a <b>programmer</b>. Hooked when Bob 
-Walker introduced his numerical analysis class to Cornell's newly-arrived IBM 
-CPC, I have ever since applied my training in engineering, physics, and math 
-to this endlessly fascinating vocation. I had the good fortune to head the 
-research department at Bell Labs in which <b>Unix</b> was born, and to work 
-with some of the most creative talents in computing. Some things I have worked 
-on: 
-  </dt><dd>
-  <ul>
-    <li>Languages and compilers: <b>macros</b>, Lisp, <b>PL/I</b>, TMG (a compiler-compiler), regular 
-    expressions; influenced Snobol, Altran, C++ 
-    </li><li>Stream processing: Unix <b>pipes</b>, classic coroutine sieve, power 
-    series 
-    </li><li>Computer <b>security</b> 
-    </li><li><b>Unix programs</b>: spell, diff, sort, join, graph, speak, tr, etc. 
-    </li><li><b>Cartography</b>: map projections 
-    </li><li>Algorithms for <b>graphics</b> 
-    </li><li><b>Storage allocation</b> theory and practice; first conservative 
-    garbage collector 
-    </li><li><b>Theorem-proving</b> in logic and geometry 
-    </li><li>Documentation: making <b>Unix manuals</b> short and accurate </li></ul>
-</dd><dt>Upon retiring from Bell Labs, I moved to another happy
-situation, at Dartmouth as adjunct professor of
-<a href="http://www.cs.dartmouth.edu/">Computer Science</a>
-and affiliate of the
-<a href="http://www.ists.dartmouth.edu">Institute
-for Security Technology Studies</a>.  Here I have taught
-<dt><dd>
-    <ul>
-    <li>Advanced operating systems, CS108 
-    </li><li>Information systems, CS33 
-    </li><li>Data structures, CS15 
-    </li><li>Logic of programming, CS188
-    </li><li>Programming languages, CS118 </li></ul>
-</dd><dt>and have given guest lectures in several other
-courses.</dl>
-<hr>
+<html>
 
-<h3><a name="gallery">Gallery</a></h3>
-<table>
-  <tbody>
-  <tr>
-    <td>
-        <img src="volc.gif" alt="Volcano map" height="137" width="144"> 
-    </td><td><img src="tref.gif" alt="Trefoil continents" height="137" width="139"> 
-    </td><td><img src="smile.gif" alt="Smiley world" height="158" width="150"> 
-    </td><td>
-        <img src="pentasmall.jpg" alt="Star world" align="top" height="140" width="140"> 
-  </td></tr><tr>
-    <td><a href="explan.html#maps">Ring of fire</a> 
-    </td><td><a href="explan.html#maps">Jerusalem trefoil</a> 
-    </td><td><a href="explan.html#maps">Way to go</a>
-    </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="explan.html#maps">Big star</a> </td></tr>
-  <tr>
-    <td>
-        <img src="hexsmall.gif" alt="Hexagon map" width="141">
-    </td><td><img src="icosi/icosi.jpg" alt="Coloring">
-    </td><td><img src="SimsonLive.gif" alt="Simson demo">
-  </td></tr><tr>
-    <td><a href="explan.html#maps">Sea whirled</a>
-    </td><td><a href="icosi/index.html">Rainbow icosahedron</a>
-    </td><td>&nbsp;&nbsp;&nbsp;
-	<a href="geometry.html">Dynamic geometry</a>
-  </td></tr></tbody>
+<head>
+    <title>Chris McDonald's homepage</title>
+
+    <meta NAME="keywords" CONTENT="networking, operating systems, security,
+    simulation, cnet, programming, undergraduate, teaching,
+    Computer Science, UWA, Western Australia, Dartmouth College">
+</head>
+
+<BODY BACKGROUND="images/sandwhite.gif"
+	TEXT="#000000" LINK="blue" VLINK="purple">
+
+<p>
+<IMG align="left" SRC="images/australia.gif" ALT="Australian" BORDER=0>
+
+<font color="black">
+
+<b><font color="black" size="+1">Chris McDonald</font></b>
+currently holds the appointments of associate professor in the
+<a href="http://www.csse.uwa.edu.au/">
+School of Computer Science &amp; Software Engineering</a>
+at The University of Western Australia
+and adjunct associate professor in the
+<a href="http://www.cs.dartmouth.edu/">
+Department of Computer Science</a>
+at Dartmouth College, New Hampshire.
+<p>
+
+During the Winter'09 term Chris is visiting Dartmouth
+and presenting the course
+<a href="http://www.cs.dartmouth.edu/~chris/cs23/">CS23 -
+	Software Design and Implementation</a>.
+<p>
+
+Chris has recently taught in the areas of
+computer networking,
+operating systems,
+computer &amp; network security,
+computer architecture,
+distributed systems programming
+at The University of Western Australia and Dartmouth College
+and,
+together with these areas,
+his research interests include
+network simulation,
+ad-hoc &amp; mobile networking,
+programming language implementation,
+and the L<font size="-1">INUX</font> operating system.
+<p>
+
+
+<table border="0" cellspacing="0">
+
+<tr valign=top>
+<td valign="top"><IMG SRC="images/postal.gif" alt="Postal address"></td>
+<td><b>Dr Chris McDonald</b><br>
+	Rm 222,
+        Department of Computer Science<br>
+        Dartmouth College, Sudikoff, H6211<br>
+        Hanover, NH 03755-3510, USA<br>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<IMG SRC="images/phone.gif" alt="Phone number" WIDTH="39" HEIGHT="39">
+    +603 646 8758
+
+<IMG SRC="images/fax.gif" alt="Fax number" WIDTH="39" HEIGHT="39">
+    +603 646 1672
+
+<IMG SRC="images/computer.gif" alt="email address" WIDTH="36" HEIGHT="37">
+    email: <a
+href="mailto:chris%40cs.dartmouth.edu">chris&#64;cs.dartmouth.edu</a>
+</td>
+</tr>
+
 </table>
-<p><a href="explan.html#words">Best Webstern 
-word squares</a>
-</p><pre>      R A C I S M         W A S S A I L 
-      E V I N C E         A N T E N N A 
-      P E R S O N         S T R I N G Y 
-      A S C E N T         S E I Z U R E 
-      S T U C C O         A N N U L A R 
-      T A S T E R         I N G R A T E 
-                          L A Y E R E D    
-</pre>
-<a href="crypt.html">Dual cryptograms</a>
-<pre>HILLARY MENTORS SILVERY VERVAIN; BINDERY  SUCCORS CORRIDA SLOGGER.
-BARRENS HOLDING GARCONS CONCEAL  WALTONS' GYPPING PINNATE GRIFFON.
-</pre>
-<p><a href="powser.html">Power serious: Haskell magic</a>
-</p><pre>revert (0:ft) = rs where rs = 0 : 1/(ft#rs)</pre>
-<a href="tinysort.html">Tiniest C sort function?</a>
-<pre>s(a,b)int*a,*b;{for(int*c=b,t;c>a;)if(t=*c--,*c>t)c[1]=*c,*c=t,c=b;}</pre>
-<hr>
-<h3><a href="pubs.html">Publications</a></h3>
-<hr>
-<h3>Other info</h3>
-<a href="source.html">Source code</a>
-  for map projections, suffix arrays, quicksort and antiquicksort, word squares, etc.
-<br>Original description of <a href="darwin.pdf">Darwin</a>, a 1961 game of 
-  survival of the fittest among programs, progenitor of
-  <a href="http://www.corewars.org/">Core Wars</a>
-<br>Honors: Usenix Association 
-  <a href="http://www.usenix.org/about/flame.html">Flame</a> and
-  <a href="http://www.usenix.org/about/stug.html">Software Tools </a> awards; member
-  <a href="http://www.nae.edu/nae/naepub.nsf/Members+By+UNID/128BD28F0726220585257110004FD04F?opendocument">National Academy of Engineering</a>; fellow <a href="http://www.aaas.org">AAAS</a>
-<br>Erd&#246;s number: 3 (via non-mathematical works, alas)
-<br><a href="biography">Biography</a> &nbsp; | &nbsp; 
-  <a href="http://www.cs.dartmouth.edu/">Dartmouth CS</a> &nbsp; | &nbsp;
-  <a href="http://www.ists.dartmouth.edu">Dartmouth ISTS</a> &nbsp; | &nbsp;
-  <a href="http://cm.bell-labs.com/cm/cs">Bell Labs CSR</a> 
-<hr>
+<p>
+If I'm not in my office, you're most likely to find me in Lab 241.
+<p>
 
-<h3>Extracurricular</h3><a href="http://www.hanovernh.org/stories/storyReader$95">Hanover trails</a>, 
-mapped by a committee that I chair. 
-<br><a href="http://pisecoyachtclub.org/">Piseco Yacht Club</a>
-<br><a href="http://www.valley.net/~invasiveplants">Invasive plants</a> site 
-organized by my wife, Barbara McIlroy. 
-<br>Scenes from <a href="ghana">Ho, Ghana,</a> 2001. 
-<hr>
-<em>Modified August 19, 2008 </em>
+<!--
+<center>
+<TABLE WIDTH=70% CELLPADDING="2" CELLSPACING="0" BORDER="1">
 
-</div></body></html>
-<bi
+<TR ALIGN=center>
+  <TD align=center width="1%"  bgcolor="#cccccc">&nbsp;</TD>
+  <TH width="18%" bgcolor="#cccccc">Mon 16th</TH>
+  <TH width="18%" bgcolor="#cccccc">Tue 17th</TH>
+  <TH width="18%" bgcolor="#cccccc">Wed 18th</TH>
+  <TH width="18%" bgcolor="#cccccc">Thu 19th</TH>
+  <TH width="18%" bgcolor="#cccccc">Fri 20th</TH>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 9am </TH>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" rowspan="3"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" rowspan="3"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 10am </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 11am </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 12noon </TH>
+  <TD bgcolor="lightgreen" rowspan="2"> meeting with <br> team RED,
+		12.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="2"> CS23 class <br> meeting, 12.30pm<br>
+  <TD bgcolor="lightgreen" rowspan="2"> meeting with <br> team BLACK,
+		12.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 1pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 2pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="2"> meeting with <br> team GREEN,
+		2.15pm<br>
+  <TD bgcolor="#dddddd" rowspan="2"> DIST project<br>meeting, 2.00pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 3pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#dddddd" rowspan="3"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 4pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#dddddd" rowspan="2"> CS<br>Colloquium<br>
+  <TD bgcolor="lightgreen" rowspan="1"> meeting with <br> team BLUE, 4pm<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 5pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="1"> meeting with <br> team ORANGE, 5pm<br>
+</TR>
+
+</TABLE>
+</center>
+<p>
+
+
+<center>
+<TABLE WIDTH=70% CELLPADDING="2" CELLSPACING="0" BORDER="1">
+
+<TR ALIGN=center>
+  <TD align=center width="1%"  bgcolor="#cccccc">&nbsp;</TD>
+  <TH width="18%" bgcolor="#cccccc">Mon 23rd</TH>
+  <TH width="18%" bgcolor="#cccccc">Tue 24th</TH>
+  <TH width="18%" bgcolor="#cccccc">Wed 25th</TH>
+  <TH width="18%" bgcolor="#cccccc">Thu 26th</TH>
+  <TH width="18%" bgcolor="#cccccc">Fri 27th</TH>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 9am </TH>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" rowspan="3"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" rowspan="3"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 10am </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="1"> meeting with <br> team GREEN,
+		10am<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 11am </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 12noon </TH>
+  <TD bgcolor="lightgreen" rowspan="2"> meeting with <br> team RED,
+		12.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="2"> meeting with <br> team BLACK,
+	12.30pm<br>
+  <TD bgcolor="dddddd" rowspan="2"> ISTS discussion <br>
+	12-1.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 1pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 2pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#dddddd" rowspan="2"> DIST project<br>meeting, 2pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 3pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="1"> meeting with <br> team BLUE,
+	3pm<br>
+  <TD bgcolor="#dddddd" rowspan="2"> &nbsp;<br>&nbsp;</td>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 4pm </TH>
+  <TD bgcolor="#dddddd" rowspan="2"> ISTS<br>Colloquium, 4.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#dddddd" rowspan="2"> CS<br>Colloquium, 4.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 5pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+</TABLE>
+</center>
+<p>
+
+<center>
+<TABLE WIDTH=70% CELLPADDING="2" CELLSPACING="0" BORDER="1">
+
+<TR ALIGN=center>
+  <TD align=center width="1%"  bgcolor="#cccccc">&nbsp;</TD>
+  <TH width="18%" bgcolor="#cccccc">Mon 2nd</TH>
+  <TH width="18%" bgcolor="#cccccc">Tue 3rd</TH>
+  <TH width="18%" bgcolor="#cccccc">Wed 4th</TH>
+  <TH width="18%" bgcolor="#cccccc">Thu 5th</TH>
+  <TH width="18%" bgcolor="#cccccc">Fri 6th</TH>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 9am </TH>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#dddddd" colspan="3" rowspan="9"> Away from Hanover<br>
+	Wed 4th - Sun 8th March, inclusive.<br>Limited email.</TD>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 10am </TH>
+  <TD bgcolor="#dddddd" colspan="1"> &nbsp; </TD>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 11am </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 12noon </TH>
+  <TD bgcolor="lightgreen" rowspan="2"> meeting with <br> team RED,
+		12.30pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 1pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 2pm </TH>
+  <TD bgcolor="lightgreen" rowspan="1"> meeting with <br> team GREEN,
+		2.00pm<br>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 3pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="#dddddd" rowspan="2"> Mathematica<br>presentation, 3pm
+	</TD>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 4pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+</TR>
+
+<TR ALIGN=center>
+  <TH bgcolor="#cccccc"> 5pm </TH>
+  <TD bgcolor="#ffffff" rowspan="1"> &nbsp;<br>
+  <TD bgcolor="lightgreen" rowspan="1"> meeting with <br> team ORANGE,
+		5.00pm<br>
+</TR>
+
+</TABLE>
+</center>
+<p>
+-->
+
+<p>
+<hr size=1 noshade>
+<p>
+
+<a href="http://www.thomer.com/thomer/vi/vi.html">
+    <IMG SRC="images/vi.gif" ALT="made with vi!" ALIGN="LEFT" BORDER=0></a>
+<!--
+    <IMG SRC="images/budgie.gif" ALT="best viewed with a budgie"
+	ALIGN="RIGHT" BORDER=0>
+-->
+</font>
+
+</body>
+</html>
+i

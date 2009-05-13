@@ -1,85 +1,65 @@
-http://www.cs.dartmouth.edu/~wbc/bookmark/bk_mando.html
+http://www.cs.dartmouth.edu/~cbrash/music.html
 3
-<HTML>
-<HEAD>
-   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
-   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (X11; I; Linux 2.0.35 i686) [Netscape]">
-    <meta NAME="keywords" content="wayne cripps mandolin useful links">
-   <TITLE>Wayne Cripps's Mandolin Links</TITLE>
-</HEAD>
-<BODY>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Colin Brash's Music</title>
+<link rel="stylesheet" type="text/css" href="css/screen.css">
+<link rel="stylesheet" type="text/css" href="css/music.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" />
+<link rel="stylesheet" type="text/css" href="css/iemusic.css">
+<![endif]-->
+</head>
 
-<UL>
-<LI> <A HREF="http://www.mandolincafe.com/">Mandolin Cafe</A></LI>
-<LI> <A HREF="http://www.mandozine.com/">Mandozine</A></LI>
-artists</A></LI>
-<LI><A HREF="http://www.monteleone.net/">John Monteleone</A></LI>
-<LI>
-<A HREF="http://www.lmo.org/">Louisville mandolin orchestra</A></LI>
-<LI><A HREF="http://www.gryphonstrings.com">Gryphon Strings</A></LI>
-<li><A HREF="http://www.geocities.com/Paris/5701/music.htm">Mike</A>&nbsp; Nelson</LI> 
-<LI> <A HREF="http://www.coloradocase.com/">Colorado case company</A></LI> 
-<LI>
-<A HREF="http://www.reddiamondmandolins.com/">Red Diamond Mandolins</A></LI>
-<LI> <A HREF="http://www.PhoenixMandolins.com/">Phoenix Mandolins</A></LI>
-<LI> <A HREF="http://sjryder.com/">Steve Ryder Electric mandolin</A></LI>
-<LI> <A HREF="http://www.FRETS.com">Frets.com - hide glue articles</A></LI>
 
-<LI>
-<A HREF="http://www.frets.com/FRETSPages/Luthier/Data/Materials/GlueTest/gluetest.html">Glue
-heat test pictures</A></LI>
+<!-- Namespace source file -->
+<script type="text/javascript" src="src/js/yui/YAHOO.js"></script>
 
-<LI>
-<A HREF="http://www.frets.com/FRETSPages/Luthier/Data/Materials/hideglue.html">How
-to use hide glue</A></LI>
+<!-- Connection Manager source file -->
+<script type="text/javascript" src="src/js/yui/connection.js" ></script>
 
-<LI>
-<A HREF="http://world.std.com/~ereilly/perfect.html">tuning clip</A></LI>
+<!-- Music source file -->
+<script type="text/javascript" src="src/js/ccb/music.js" ></script>
 
-<LI>
-<A HREF="http://www.allenguitar.com/luthier.htm">Allen Guitar</A></LI>
+<!-- Other JS -->
+<script language="javascript">
+  function init() {
+    var musicScript = 'http://www.cs.dartmouth.edu/cgi-bin/cgiwrap/cbrash/list_music.pl';
+    var musicTagId = 'ccbmusic';
 
-<li><a href="http://www.oldwavemandolins.com">Bill Bussman's new site</a>
-<LI>
-<A HREF="http://www.zianet.com/bussmann/">Bill Bussman&nbsp; old wave instruments</A></LI>
+    var callback = {
+      success: renderMusic,
+      failure: renderFailureMsg,
+      argument: musicTagId
+    }
 
-<LI><A HREF="http://www.mandolincentral.com/wood.html">Randy Wood Mandolins</A></LI>
-<LI> <A HREF="http://www.smart-instruments.com/">A Lawrence
-Smart Mandolin</A></LI>
-<LI>
-<A HREF="http://www.rolandwhite.com/">Roland White</A></LI>
+    var cObj = YAHOO.util.Connect.asyncRequest('GET', musicScript, callback, null);
+  }
+</script>
 
-<LI>
-<A HREF="http://www.bluegrassworld.com/instruments/soundtoearth">Sound
-to Earth</A></LI>
-<li><a href="http://soundtoearth.com/">webber</a>
-<li>
-<a href="http://www.12fret.com/retail/mwoodley.htm">Woodley Mandolins</a>
-<li>
-<a href="http://www.emando.com/">
-Electric Mandolin</a>
-<li><a href="http://www.afvbm.com/strad.htm">
-So you found a Stradivarius in the attic</a>
-<li><a href="http://www.stellingbanjo.com/"> Stelling makes expensive mandolins</a>
-<li><a href="http://www.geocities.com/Nashville/Stage/1228/MandoPics/index.htm">Pertti's mandolins</a>
-<li><a href="http://www.birdnest.org/birdj">Tao of the Mandolin</a>
-<li><a href="http://www.bluettbros-violins.com/main.html">Bluett Mandolins</a>
-<li><a href="http://www.users.csbsju.edu/~eknuth/mandotab">Old time tunes in mando tab</a>
-<li><a href="http://members.tripod.com/Liteways/index.html">J Coon's mandolin sound samples</a>
-<li><a href="http://www.albert-mueller.de">Albert & Mueller mandolins</a>
-<li><a href="http://www.bacornguitars.com/">Bacorn Mandolins and Guitars </a>
-<li><a href="http://www.vanden.co.uk/">Vanden Instruments</a>
-<li><a href="http://www.ratliffmandolins.com">Ratliff Mandolins</a>
-<li><a href="http://www.mandolinsandmore.com/">Mitch Simpson dealer</a>
-<li><a href="http://www.paperclipdesign.com/19ctunes/mandopic.htm">
-  Old mandolin pictures</a>
-<li><a href="http://www.cumberlandacoustics.com/"> Steve Smith bridges </a>
-<li><a href="http://www.bluegrasscollege.org:8080/Bluegrass/Bluegrass?component=instruments&handler=GotoInstrument&id=3">bluegrass college <a>
-<li><a href="http://www.cs.dartmouth.edu/~wbc/instmnts/mandolin/index.html">Red Diamond Mandolin for sale</a>
-<p>There have been  <a>
-23537
- visitors since July 22, 2002</p>
 
-</UL>
-</BODY>
-</HTML>
+<body style="height:100%" onload="init()">
+
+<div id="pageTitle">
+<form><fieldset><legend>Music</legend></fieldset></form>
+</div>
+
+<div id="content">
+
+  <img src="img/ccbknob.jpg" id="logo" />
+
+  <div class="newsItem">
+
+    <p>&nbsp;</p>
+
+    <p><a href="index.html">Home</a></p>
+
+  </div>
+
+  <div id="ccbmusic"></div>
+
+</div>
+
+</body>
+</html>

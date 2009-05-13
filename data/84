@@ -1,96 +1,63 @@
-http://www.cs.dartmouth.edu/~xfei
+http://www.cs.dartmouth.edu/~erickee
 2
-<html>
-
-<head>
-<meta http-equiv="Content-Language" content="en-us">
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Reference</title>
-</head>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><style type="text/css">
+<!--
+body {
+	background-color: #868686;
+	background-image: url(blackbg.gif);
+}
+body,td,th {
+	color: #E1D0B4;
+}
+a:link {
+	color: #E5B26A;
+}
+.style1 {font-family: Georgia, "Times New Roman", Times, serif}
+.style2 {
+	color: #E4C28D;
+	font-style: italic;
+}
+a:visited {
+	color: #E1D0B4;
+}
+a:hover {
+	color: #FFC674;
+}
+a:active {
+	color: #EAE0D2;
+}
+-->
+</style>
 <body>
-
-<p>Fei's Collection of Bioinformatics Resources:</p>
-<!--
-<ol>
-  <li><a href="http://www.c2b2.columbia.edu/index.html">Center for Computational Biology & Bioinformatics in Columbia</a></li>
-  <li><a href="http://www.c2b2.columbia.edu/people/detail_lussier.html">Bio-researchers in Columbia</a></li>
-</ol>
--->
-
-<ul>
-  <li>GO (Gene Ontology) Tools: 
-<p><a href="http://www.genome.jp/kegg/">KEGG: Kyoto Encyclopedia of Genes and Genomes</a></p>
-<p><a href="http://sbml.org/index.psp">SBML: System Biology Markup Language</a></p>
-<p><a href="http://www.pubgene.org/tools/GeneSearch/GeneSearch.cgi">PubGene Web Database and Tools</a></p>
-<p><a href="http://www.geneontology.org/GO.tools.microarray.shtml">Tools for Gene Expression Analysis</a></p>
-<p><a href="http://www.geneontology.org/GO.tools.browsers.shtml">Tools for Searching and Browsing GO</a></p>
-<p><a href="http://genomebiology.com/software/">Genome Biology Tool collection</a></p>
-<p><a href="http://www.gmod.org/node/38">GO Graph Viewer at Stanford</a></p>
-<p><a href="http://www.gmod.org/node/43">Pathway visualization tool</a></p>
-<p><a href="http://www.biomedcentral.com/1471-2105/5/84">Treemap visualization</a></p>
-<p><a href="http://www.dbsr.duke.edu/research/softwaredev/applications/desktop/treemapclusterview/default.aspx">Duke Treemap Cluster view</a></p>
-
-
-
-  </li>
-</ul>
-
 <p>&nbsp;</p>
-
-<ul>
-  <li>Machine Learning
-  <p><a href="http://www.stat.umn.edu/PAPERS/html_prints/points/node11.html">On line tutorial on Metropolis-Hastings and Gibbs 
-  Samplers</a></p>
-  <p><a href="http://www.lbreyer.com/java.html">Laird Breyer's Java applets</a></p>
-  <p>&nbsp;</p>
-
-  </li>
-  
-<ur>
-<li>Metabolomics
-	<p><a href="http://www.metabolomicssociety.org/">Metabolomics society</a></p>
-	<p><a href="http://www.esainc.com/Metabolomics/metabolomics.htm">Metabolomics 
-(brief introduction)</a></p>
-	<p><a href="http://www.wellcome.ac.uk/en/genome/thegenome/hg03b003.html">Metabolomics (2)</a></p>
-	<p><a href="http://www.metabolomics.net/home/index.aspx">metabolomics.net (The Metabolomics Portal)</a></p>
-	<p>&nbsp;</p>
-</li>
-</ur>
-
-<li>Tools:
-<p><a href="http://discover.nci.nih.gov/gominer/">GO Miner</a></p>
-<p><a href="http://go.princeton.edu/cgi-bin/GOTermFinder.old">GO Term Finder</a></p>
-<p><a href="http://babelomics.bioinfo.cipf.es/cgi-bin/tools.cgi">FatiGO</a></p>
-<p><a href="http://idconverter.bioinfo.cnio.es/">Clone/Gene ID Converter</a></p>
-<p><a href="http://www.ebi.ac.uk/ego/DisplayGoTerm?id=GO:0003713">EBI QuickGO</a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/gquery/gquery.fcgi?itool=toolbar">NCBI Entrez cross-database search</a></p>
-<p>Gene Map Finder; Unique Genes; Map one type of identifier to another one</p>
-<p><a href="http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/cluster/">Open Source Clustering Software</a></p>
-</li>
-<!--
-<p>Research ideas:</p>
-<p>1) Do gene clustering/marker gene selection for both BU smoking gene data and 
-Magic data/Lung cancer data. Find the genes that appear in both results and try 
-to recognize their roles evolved in a specific pathway or their relationship 
-within the same cluster regarding to Gene Ontology.</p>
-<p>2) Use SBML to analyze the Gene Ontology and see how to build effective 
-visualization tools upon it.</p>
-<p>3) Math descriptions to show the similarity of genes at the leaf level</p>
+<table width="800" height="259" border="0" align="center" cellpadding="3" bordercolor="#000000" background="graybg.gif">
+  <tr background="graybg.gif">
+    <td bordercolor="#000000">&nbsp;</td>
+    <td bordercolor="#000000"><h1><dfn>e     &nbsp;r &nbsp;i&nbsp; c&nbsp;  &nbsp; &nbsp;k&nbsp; e&nbsp; e</dfn></h1>      
+    <div align="left">
+        <p class="style1">I am a PhD student in the <a href=http://www.cs.dartmouth.edu>Computer Science Department</a> at <a href="http://www.dartmouth.edu">Dartmouth College</a> and I am a member of the <a href="http://www.cs.dartmouth.edu/farid/group.html">Image Science Research group</a>, which is led by <a href="http://www.cs.dartmouth.edu/farid/">Dr. Hany Farid</a>. </p>
+        <p class="style1"> My research areas include: digital forensics, image and video processing, and pattern recognition. </p>
+        <p class="style1">        If you would like to contact me, you may do so at: <span class="style2">erickee AT cs dot dartmouth dot edu</span></p>
+    </div></td>
+    <td><b><img src="eric.jpg" width="400" height="268" align="middle"></b></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 <p>&nbsp;</p>
-<p>Perspective Publication:</p>
-<p>1) RECOMB Poster</p>
-<p>2) ISMB Poster</p>
-<p>3) International Journal on Oncology</p>
-<p>4) International Journal of Bioinformatics Research and Applications</p>
-<p>5) CSB poster</p>
+<table width="900" border="0" align="center" cellpadding="3">
+  <tr>
+    <td colspan="2"><h2><dfn>P u b l i c a t i o n s <hr> </dfn></h2></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="papers/acm08.pdf">Printer Profiling for Forensics and Ballistics</a>, E. Kee, H. Farid, ACM Multimedia and Security Workshop, Oxford, UK, 2008 </td>
+  </tr>
+  <tr>
+    <td width="22">&nbsp;</td>
+    <td width="760">We describe a technique for authenticating printed and scanned text documents. This technique works by modeling the degradation in a document caused by printing. The resulting printer profile is then used to detect inconsistencies across a document, and for ballistic purposes -- that of linking a document to a printer. </td>
+  </tr>
+</table>
 <p>&nbsp;</p>
--->
-
-</ul>
-
 </body>
-
 </html>
+i

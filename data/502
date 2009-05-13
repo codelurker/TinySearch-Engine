@@ -1,61 +1,186 @@
-http://www.cs.dartmouth.edu/farid/publications/slthesis05.html
+http://www.cs.dartmouth.edu/farid/yearinreview08.html
 3
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
-<title> Hany Farid: Papers </title>
+<title> Hany Farid: Image Science Group </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=650>
+<table align=center width=750>
 <tr>
 <td>
 
-<dl>
-<dt><b> Natural Image Statistics for Digital Image Forensics </b><BR>
-<dd> Siwei Lyu <i>(advisor: H. Farid)</i> <BR> 
-<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2005
-<BR><BR>
-<dd>	<a href="slthesis05.pdf">Dissertation (pdf)</a> &nbsp&nbsp
-        <a href="farid_bib.html#lyu05">Bibtex</a>
+<p>
+<b> Year in Review: 2008 </b>
+<p>
 
-        
-</dl>
-<p><BR>
-We describe a set of natural image statistics that are built upon two 
-multi-scale image decompositions, the quadrature mirror filter pyramid 
-decomposition and the local angular harmonic decomposition.  These 
-image statistics consist of first- and higher-order statistics that 
-capture certain statistical regularities of natural images.  We propose 
-to apply these image statistics, together with classification 
-techniques, to three problems in digital image forensics: (1) 
-differentiating photographic images from computer-generated 
-photorealistic images, (2) generic steganalysis; (3) rebroadcast image 
-detection. We also apply these image statistics to the traditional art 
-authentication for forgery detection and identification of artists in 
-an art work.  For each application we show the effectiveness of these 
-image statistics and analyze their sensitivity and robustness.
+I hope that this email finds you all well.  I write to update you on
+the happenings of the <a href="group.html">Image Science Group</a>.
+The group currently consists of Dan Hopkins, Eric Kee, Weihong Wang,
+and Jeff Woodward.  Our lab has had a fun and productive year.  Our
+main focus continues to be in the area of digital forensics, in which,
+thanks to all of you, we have made incredible advances.
 
-</td>
-</tr>
-</table>
-
+<p>
 <HR>
+<p>
 
-<table align=center width=650>
+We welcome Dan Hopkins '10 to our lab. Dan took CS 36/136 (Numerical
+and Computational Tools) with me this summer, and I was so impressed
+with him that I asked him to join our group.  Dan is working on how to
+locally estimate, from a single image, signal to noise ratio. If
+successful this will prove to be a powerful forensic tools for
+detecting differences in sensor noise, additive noise, or JPEG
+quality.
+
+<p>
+<HR>
+<p>
+
+<a href=http://www.cs.dartmouth.edu/~erickee>Eric Kee</a> bravely dove
+into the relatively new area of document forensics. In our first
+published work in this area, Eric showed that different printers
+introduce distinct distortions into the printed characters, and that
+these distortions can be used to detect inconsistencies across a
+document, and for ballistic purposes -- that of linking a document to
+a printer.
+
+<dd> <a href="publications/acm08.html">Printer Profiling for Forensics and Ballistics</a> </dd>
+<dd> E. Kee and H. Farid </dd>
+<dd> ACM Multimedia and Security Workshop, Oxford, UK, 2008 </dd>
+
+<BR>
+
+Eric is currently slugging through some difficult, but very exciting,
+new work that I think will raise our work in digital image forensics
+to an entirely new level of sophistication... stay tuned...
+
+<p>
+<HR>
+<p>
+
+Building on his earlier work, <a
+href="http://www.cs.dartmouth.edu/~whwang/">Weihong Wang</a> continues
+to develop new video forensic tools.  In his most recent paper,
+Weihong developed a clever geometric algorithm for detecting boot-leg
+video that was recorded from a movie screen.
+
+<dd> <a href=publications/ih08.html> Detecting Re-Projected Video </a> </dd>
+<dd> W. Wang and H. Farid </dd>
+<dd> 10th International Workshop on Information Hiding, Santa Barbara, CA, 2008 </dd>
+
+<BR>
+
+<table width=750>
 <tr>
-<td align=left>
-<i><a href="../research/cgorphoto.html">Related material</a></i>
+<td valign=top>
+<p>
+To give some intution behind this technique, consider this scene from
+the movie <i>Live Free Or Die Hard</i> as viewed from the side of the
+movie theater.  Notice that the rectangular screen will be imaged with
+perspective distortion. Weihong has shown that when recorded from such
+a position, the projected movie contains very specific distortions in
+the intrinsic camera matrix -- namely the camera skew is
+non-zero. These distortions can be used to detect such re-recorded
+video.
 </td>
-<td valign=top align=right>
-	<i>
-        <a href="../home.html"> Home</a> &nbsp &nbsp
-        <a href="publications.html"> Papers</a> &nbsp &nbsp
-        <a href="../research"> Research</a>
-	</i>
+<td> &nbsp&nbsp </td>
+<td> <img src=photos/weihong_rerecord.jpg width=349 height=218> </td>
+</tr>
+</table>
+
+<p>
+<HR>
+<p>
+
+Jeff Woodward (Woody) continues to port all of our forensic tools from
+Matlab into a stand-alone software package.  We delivered this
+software to the FBI's forensic lab in March of 2008, and continue to
+expand on this software to include both image and video forensic
+applications.
+
+<p>
+<HR>
+<p>
+
+In large part due to your efforts, the field of digital image
+forensics has matured to the extent that special journal issues have
+begun to appear.  Here is a survey paper on image forgery detection
+that will appear in a special journal issue on digital forensics.
+
+<dd> <a href="publications/spm09.html">A Survey of Image Forgery Detection</a> </dd>
+<dd> H. Farid </dd>
+<dd> IEEE Signal Processing Magazine, 2009 </dd>
+
+<p>
+<HR>
+<p>
+
+As for me, most significantly, I have been named the director of
+the <a href="http://www.dartmouth.edu/~neukom">Neukom Institute for
+Computational Science</a> at Dartmouth whose broad mandate is to
+support scholarship and curricular development in the computational
+sciences, social sciences, and humanities.
+
+<BR><BR>
+
+As always, you can find on my web page copies of
+our <a href="publications/publications.html">papers</a>
+and <a href="publications/publications.html#popularpress">popular
+press</a> accounts of our work.  And you can see a short
+<a href="http://www.pbs.org/wgbh/nova/sciencenow/0301/03.html">profile</a>
+about me and our lab's work that appeared on NOVA ScienceNow (watch
+for cameo appearances by Kimo, Eric, Weihong, and Woody).
+
+<p>
+<HR>
+<p>
+
+In alumni news, 
+<ul>
+
+<li> <a href="http://www.mit.edu/~kimo">Kimo Johnson</a> is finishing
+his first year of post-doctoral work at MIT and Adobe Labs, where he
+is working on a wide variety of topics.
+
+<li> <a href="http://www.cs.albany.edu/~lsw/">Siwei Lyu</a> accepted a
+position at SUNY Albany as an Assistant Professor of Computer Science.
+Sadly, I will be a "grandfather" to Siwei's first Ph.D. student.
+
+<li> Senthil Periaswamy is working at iCAD in Ohio where he continues
+to do interesting work in medical imaging, and is now director of his
+own group.
+
+<li> Alin Popescu continues to work at Renesys Inc. here in Hanover,
+NH.
+
+<li> <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> has
+been living in Los Angeles, CA and working in various corners of the
+movie industry. I am thrilled that Jethro has agreed to handle all of
+the multi-media needs for me in my role as director of the Neukom
+Institute for Computational Science.
+
+<li> Kate Sherwin is in Austin, TX where she continues to work in the
+field of computational finance. Kate spent a few days with me in Santa
+Cruz this Spring where we joyously (for me at least) talked
+mathematics. You are all welcome to visit me anytime.
+
+</ul>
+
+<p>
+<HR>
+<p>
+
+I hope that this email finds you all well and happy.  Please stay in
+touch and let me know how things are.
+
 </td>
 </tr>
 </table>
+
+</body>
 </html>
+graduati

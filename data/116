@@ -1,47 +1,72 @@
-http://www.cs.dartmouth.edu/~an
+http://www.cs.dartmouth.edu/~wkerr
 2
-<html><head> <title>Xiaobo(Danielle) An</title>
-<style type="text/css">
-<!--
-.style10 {
-	font-size: 32px
-}
--->
-</style>
-<img src="img.jpg" align = "left">
-<body bgcolor="gray">
-<font color="white" face="Arial">
-
-<div align="left">
-<br/>
-<br/>
-
-<table width="790" height="40">
-<tr>
- 
-   <td width="1200" align="up">
-     <p class="style8">Xiaobo(Danielle) An</p>
-     <p>Ph.d. student<br/>
-       Computer Science <br/>
-       Dartmouth College <br/>
-       <br/>
-My research interests include computer graphics and computational photography. Since 2006, I've been working with <a href="http://www.cs.dartmouth.edu/~fabio">Prof. Fabio Pellacini</a> on appearance design and editing. Here is my <a href="cv.pdf">CV</a>.<br/>
-       __________________________________________________________________________________________________<br/>
-      </p>
-  
- </td>
- <tr/>
-<tr>
-<td>
-<p><b>Publications</b></p>
-
-<p>
-"AppProp: All-Pairs Appearance-Space Edit Propagation", Xiaobo An, Fabio Pellacini, <a href = "http://en.wikipedia.org/wiki/SIGGRAPH">Siggraph</a> 2008</p>
-<p><a href="appprop.pdf">pdf file</a>      <a href= "appprop_video.mov">quicktime video</a></p>
-</td>
-</tr>
+<html>
+<head>
+<title> Hello, I'm the title. </title>
+</head>
+<body bgcolor="#371700" text="#FFFFFF" link="#FFDA9E" vlink="#FFDA9E" alink="B7B5F7">
+<center>
+<table cellpadding=10>
+  <td width=620 height=427 valign="top" background="brandonleaf.jpg">
+  <font color="#FFFFFF" size="5"><b>
+  Brandon Kerr
+  </b></font><br>
+  <font color="#FEB72E" size="2">
+  Computer Graphics Research
+  </font><br><br>
+<b>
+<font color="#FEB72E">
+Office:<br>
+</font>
+Sudikoff 154 <br>
+<font color="#FEB72E">
+Usually In:<br>
+</font>
+Sudikoff 143 <br>
+<font color="#FEB72E">
+Email:<br>
+</font>
+wkerr</b>
+<font color="#DDEEFF">
+<i>at</i>
+</font>
+<b>cs</b>
+<font color="#DDEEFF">
+<i>dot</i>
+</font>
+<b>dartmouth</b>
+<font color="#DDEEFF">
+<i>dot</i>
+</font>
+<b>edu <br>
+<font color="#FEB72E">
+Lab Hours: <br>
+</font>
+Currently not teaching<br>
+<font color="#FEB72E">
+Office Hours: <br>
+</font>
+Stop by <br>
+-or- <br>
+Email for a specific time <br>
+<br>
+<br>
+  </td>
+  <tr>
+  <td  width=620 height=427 valign="top">
+<font color="#DDEEFF">
+<i>
+If you are looking for <br>
+the graphics study <br>
+schedule, <a href = "studyschedule.html">click here</a></i>
+</font>
+<br>
+  </td>
+  </tr>
 </table>
-<br/><br/>
+</body>
+</html>
 
 
-</body></html>
+
+	‘

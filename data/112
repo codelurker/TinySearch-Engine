@@ -1,23 +1,28 @@
-http://www.cs.dartmouth.edu/~vibhor
-2
+http://www.cs.dartmouth.edu/%7Epway/cs23/index.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title> Vibhor Bhatt's Homepage@Dartmouth College</title>
 </head>
 <body>
-
-<h2>Vibhor Bhatt</h2> <BR>
-PhD student, <A HREF =" http://www.cs.dartmouth.Edi">Department of 
-Computer Science </A>. <BR> Research Interests: <b> Theoretical Computer Science :Distributed Computing </b><br>
-
+<h1> <font color="red"> CS <font color="yellow"> 2</font> <font color="green"> 3</font></font></h1>
 <p>
-<BIG>Contact information</BIG> <BR>
-216 Sudikoff Laboratory <BR>
-<A HREF =" http://www.dartmouth.Edi">Dartmouth College </A><BR>
-<A HREF =" http://www.hanovernh.org"> Hanover</A>, NH 03755 <BR>
-Email Address: vibhor (followed by cs.dartmouth.Edi)
-<br><br>
+Regulat Office: 158 Sudikoff
+<br>Phone: 603-646-8722
+<br>E mail: pway AT cs.dartmouth.edu
+<br>Though I have office hour 4-6pm Mon Fri at Lab 001, you can drop by any time. You are welcome to drop me an e-mail or call me before you come.
+<p> 
+
+<a href="uselinux.html"><big style="color: rgb(0, 0, 153);"><big><br>
+How to log onto remote LINUX systems</big></big></a><br>
 
 
+
+
+
+<h2><font color="red"> <font color="blue"> Misc </font></font></h2>
+
+<font color="red"><font color="blue"><a href="stargate.html"><font size="15"> Stargate Guide </font></a></font></font>
 </body>
 </html>
+doni

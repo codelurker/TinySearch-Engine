@@ -1,73 +1,107 @@
-http://www.cs.dartmouth.edu/~cbk/teaching.html
+http://www.cs.dartmouth.edu/~scot/givingTalks
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
 <html>
-<head><title>Chris Bailey-Kellogg : Teaching</title>
-<meta http-equiv=content-type content="text/html; charset=us-ascii">
-<link href="style.css" type="text/css" rel="stylesheet">
+
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft Internet Assistant for Macintosh PowerPoint 98">
+<title>Giving Technical Talks</title>
 </head>
 
-<body>
-<p>
-<font class=me>Chris Bailey-Kellogg</font><br>
-<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
-<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
-</p>
+<BODY     >
+<CENTER>
+<h1>Giving Technical Talks</h1>
+<h4>1/24/02</h4>
+<br><h2> <A HREF="sld001.htm">Click here to start</A>
 
-<table width="100%" border=0><tbody>
+ </h2><br>  
+</center>
+<center>
+ <table width=90%>
+  <tr>
+   <td valign=top align=left width=50%>
+      <h3><u>Table of Contents</u></h3>
+            <P ALIGN=LEFT><A HREF="sld001.htm">Giving Technical Talks</A></P>
 
-<tr>
-<!-- navigation -->
-<td valign=top align=left width=200><br>
-<a href="index.html" class=nav>home</a><br>
-<a href="research.html" class=nav>research</a><br>
-<a href="pubs.html" class=nav>publications</a><br>
-<a href="lab.html" class=nav>lab</a><br>
-<a href="teaching.html" class=nav>teaching</a><br>
-<a href="personal.html" class=nav>personal</a><br>
-</td>
+        <P ALIGN=LEFT><A HREF="sld002.htm">Overview</A></P>
 
-<!-- content -->
-<td valign=top>
-<div class=header align=center>Teaching</div><br>
+        <P ALIGN=LEFT><A HREF="sld003.htm">Acknowledgements:</A></P>
 
-<h3>Dartmouth</h3>
+        <P ALIGN=LEFT><A HREF="sld004.htm">Your Reason for Giving a Talk</A></P>
 
-<p>CS 2 (Programming for Interactive Digital Arts): <a
-href="2/">Winter 2009</a>, <a href="2/08w">Winter 2008</a>.</p>
+        <P ALIGN=LEFT><A HREF="sld005.htm">A technical talk is great for conveying:</A></P>
 
-<p>CS 4 (Concepts in Computing): <a href="4/">Summer 2009</a>, <a
-href="4/06x">Summer 2006</a>.</p>
+        <P ALIGN=LEFT><A HREF="sld006.htm">A technical talk is a poor way to convey:</A></P>
 
-<p>CS 43/143 (Introduction to Bioinformatics, for undergraduate and
-graduate students): <a href="bio/">Spring 2008</a>;<br/>formerly 88/188: <a
-<a href="bio/05fall">Fall 2005</a>, <a href="bio/05spring">Spring 2005</a>.</p>
+        <P ALIGN=LEFT><A HREF="sld007.htm">The Parts of a Technical Talk</A></P>
 
-<p>CS 68 (Programming Languages): <a href="68/">Winter 2006</a>,
-<a href="68/05winter">Winter 2005</a>.</p>
+        <P ALIGN=LEFT><A HREF="sld008.htm">Introduction</A></P>
 
-<p>CS 98 (EPICS, engineering projects in community service, for
-undergraduate culminating experience): <a
-href="http://www.cs.dartmouth.edu/~epics/">EPICS site</a>.</p>
+        <P ALIGN=LEFT><A HREF="sld009.htm">Body</A></P>
 
-<h3>Purdue</h3>
+        <P ALIGN=LEFT><A HREF="sld010.htm">Technicalities</A></P>
 
-<p>This section serves as an archive of my teaching while at Purdue,
-in case some of the web pages are still useful.</p>
+        <P ALIGN=LEFT><A HREF="sld011.htm">Conclusions</A></P>
 
-<p><a href="490B/">CS 490B</a> (undergraduate bioinformatics,
-team-taught and cross-listed in biology and statistics)</p>
+        <P ALIGN=LEFT><A HREF="sld012.htm">Who is your Audience?</A></P>
 
-<p><a href="590B/">CS 590B</a> (graduate computational biology).</p>
+        <P ALIGN=LEFT><A HREF="sld013.htm">General Public</A></P>
 
-<p><a href="jclub/">Computational biology journal club</a>.</p>
+        <P ALIGN=LEFT><A HREF="sld014.htm">CS Folks</A></P>
 
-<p><a href="490E/">CS 490E</a> (<a
-href="http://epics.ecn.purdue.edu/">EPICS</a>, Engineering Projects in
-Community Service); advisor of <a
-href="http://epics.ecn.purdue.edu/vri/">VRI</a> (Volunteer Resource
-Infrastructure) team.</p> </td></tr>
+        <P ALIGN=LEFT><A HREF="sld015.htm">CS Folks in your Area</A></P>
 
-</tbody></table>
+        <P ALIGN=LEFT><A HREF="sld016.htm">Experts in your exact area of research</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld017.htm">The Ten Commandments</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld018.htm">Use Logical Order</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld019.htm">Concrete Examples before Abstract Ideas</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld020.htm">Size Talk to Time</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld021.htm">Maintain Eye Contact</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld022.htm">Maintain Ear Contact</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld023.htm">Simple Visuals</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld024.htm">Simple Visuals</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld025.htm">Simple Visuals</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld026.htm">Seven Deadly Sins</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld027.htm">Trying to include too much</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld028.htm">Being boring</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld029.htm">Speaking unintelligibly</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld030.htm">Arrogance</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld031.htm">Losing your audience</A></P>
+
+        <P ALIGN=LEFT><A HREF="sld032.htm">Conclusions</A></P>
+
+
+   </td>
+   <td valign=top width=50%>
+	 <strong>Author: </strong>Scot Drysdale 
+     <P> <strong>Email: </strong> <A HREF="mailto:scot@cs.dartmouth.edu">scot@cs.dartmouth.edu</A> </P> 
+	 <P> <strong>Home Page: </strong> <A HREF="http://www.cs.dartmouth.edu/~scot/">http://www.cs.dartmouth.edu/~scot/</A> </P> 
+	 <P> <strong>Other information:</strong> <br>Presented at Dartmouth's Grad Student Seminar on 1/24/02 </P> 
+	
+	
+	 <P><A HREF="Giving Talks"> Download presentation source </A> 
+   </td>
+  </tr>
+ </table>
+</center>
+
 </body>
+
 </html>
+adi

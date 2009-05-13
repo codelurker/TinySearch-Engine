@@ -1,90 +1,42 @@
-http://www.cs.dartmouth.edu/~pala/courses/cs108_08
+http://www.cs.dartmouth.edu/~wbc/old-computers/index.html
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html lang="en"><head><title>CS 108 - Winter 2008</title>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="AUTHOR" content="Massimiliano Pala">
-   <link rel="stylesheet" href="../../css/pala-new.css" type="text/css"></head>
-<body>
 
-<div class="index">
-<a href="../.." class="off">Home</a> &gt;
-<a href="../../courses.shtml" class="off">Courses</a> &gt;
-<font class="on">CS 108</font>
-</div>
-<div class="border">
-<div class="page_body">
-<!-- Begin: Title -->
-<div style="padding: 10px;">
-	<!-- <font class="backtext">PKI/Trust Lab</font><br /> -->
-	<font class="fronttext">Advanced Operating Systems - CS108</font><br />
-	<font class="backtext">Winter Term 2008 - Dartmouth College</font>
-</div>
+I get a lot of Dartmouth  students and employees asking me what becomes of the computers that
+I take out of their office when they get new ones.  Here is the answer.
+<p>
+ First of all, there are many old computers on the
+department that are still in use.  I won't dispose of a
+computer that is better than one that is on someone's
+desk.  I will replace the older computer with a newer one,
+so the computers that I do want to dispose are the oldest, slowest,
+which as of Nov 2003 means PII 450 mhz 128meg memory.
+<p>
+When computers are too old to use in the CS department 
+they don't get thrown away, nor are they given away.
+If the computer is not something that I might want to rebuild and give
+to someone else in the Computers Science department 
+then I turn it over to William A. Hochstin who is
+Dartmouth's materials management person.  He is willing to sell
+used computers to people for what he considers a reasonable price,
+which would perhaps be in the $100 to $150 range, depending on the
+computer.  He also makes the used equipment available to other 
+Dartmouth departments who might not have the funds to buy new
+equipment.  Then he sends what is left to a place in windsor named
+"Wincycle".  
+<p>
+ You can read about Wincycle at 
+<a href="http://www.wincycle.org/">http://www.wincycle.org/</a>  and
+<a href="http://www.vnews.com/12082002/794750.htm">http://www.vnews.com/12082002/794750.htm</a>
+<p>
+ If you are a Dartmouth computer science  department 
+student or employee who  wishes to buy a specific old computer let Bill and me know 
+and we can coordinate selling you the computer, especially if you
+tell us before Bill's crew takes it away.
+<p>
+If you are not a Dartmouth student or computer science department employee
+you should contact Bill Hochstin directly.
+<p>
+        Wayne
+<p>
+May 1 2003
 
-<!-- End: Title -->
-<!-- Begin: Menu -->
-<!-- Begin: Menu Include -->
-<div class="gold">
-<div class="tl">
-<div class="tr">
-<div class="bl">
-<div class="br">
-<div class="inner">
-<ul class="menu">
-<li class="menu"><a href="index.shtml">Home</a></li>
-<li class="menu"><a href="schedule.shtml">Schedule &amp; Logistics</a></li>
-<li class="menu"><a href="syllabus.shtml">Syllabus</a></li>
-<li class="menu"><a href="coursework.shtml">Coursework</a></li>
-<li class="menu"><a href="http://www.cs.dartmouth.edu/~cs108">Official CS108 Pages</a></li>
-<li class="menu"><a href="../..">Pala Homepage</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<!-- End: Menu -->
-<!-- Begin: Main Contents -->
-<div style="margin: 10px; padding: 10px; width: 100%;">
-<div class="tttitle">
-Class Details
-</div>
-<div class="tttbody">
-  <p style="margin-left: 20px;">
-The class analyzes the architecture of modern operating systems,
-starting from a textbooks vision down to the dirty bits.
-</div>
-
-<!-- #include virtual="includes/lectures.inc" -->
-<div class="tttitle">
-  News
-</div>
-<div class="tttbody">
-   <ul>
-     <li>
-	<span class="date">Jan, Fri 18</span>
-	Additional DTrace links have been posted in the <a href="coursework.shtml">Coursework</a> section.
-     </li>
-     <li>
-	<span class="date">Jan, Thu 17</span>
-	The example scripts that have been discussed in class are available <a href="slides/dtrace-examples.tar">here</a>.
-     </li>
-     <li>
-	<span class="date">Jan, Wed 16</span>
-	DTrace slides are available <a href="slides/dtrace-intro.pdf">here</a>.
-     </li>
-   </ul>
-</div>
-
-<!-- End: Main Contents -->
-</div>
-</div>
-<div style="display: inline;" class="footer">
-<a href="../../">Massimiliano Pala</a> @ <a href="http://www.cs.dartmouth.edu">Dartmouth College</a>
-</div>
-</body>
-</html>
-
-ni

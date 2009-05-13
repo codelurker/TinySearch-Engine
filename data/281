@@ -1,136 +1,119 @@
-http://www.cs.dartmouth.edu/~igorpapa/index.htm
+http://www.cs.dartmouth.edu/~csrs/pandd.html
 3
-<html>
 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta http-equiv="Content-Language" content="en-us">
-<title>Igor Paprotny</title>
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<meta name="Microsoft Theme" content="axis 011, default">
+<title>Computer Science Research Symposium '08</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<body background="_themes/axis/axibkgnd.gif" bgcolor="#FFFFFF" text="#000000" link="#339933" vlink="#996600" alink="#CC9900"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="1048">
-  <tr>
-    <td width="203" colspan="2" align="center"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <img border="0" src="index.1.jpg" width="234" height="141"><!--mstheme--></font></td>
-    <td align="center" width="845"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <!--webbot bot="Navigation" s-type="banner" s-rendering="graphics" S-Orientation B-Include-Home B-Include-Up U-Page S-Target startspan --><img src="_derived/index.htm_cmp_axis010_bnr.gif" width="600" height="150" border="0" alt="Igor Paprotny"><!--webbot bot="Navigation" i-checksum="39555" endspan --><!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td width="1048" colspan="3" style="border-bottom-style: none; border-bottom-width: medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
-  </tr>
-</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td style="border-bottom-style: solid; border-bottom-width: 1" align="right"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <h4 align="left">
-    <!--webbot bot="Navigation" S-Orientation="horizontal" S-Rendering="graphics" S-Type="children" B-Include-Home="TRUE" B-Include-Up="FALSE" startspan --><script language="JavaScript"><!--
-MSFPhover = 
-  (((navigator.appName == "Netscape") && 
-  (parseInt(navigator.appVersion) >= 3 )) || 
-  ((navigator.appName == "Microsoft Internet Explorer") && 
-  (parseInt(navigator.appVersion) >= 4 ))); 
-function MSFPpreload(img) 
-{
-  var a=new Image(); a.src=img; return a; 
-}
-// --></script><script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/home_cmp_axis010_hbtn_p.gif"); MSFPnav1h=MSFPpreload("_derived/home_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="index.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/home_cmp_axis010_hbtn_p.gif" width="140" height="46" border="0" alt="Home" align="middle" name="MSFPnav1"></a> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav2n=MSFPpreload("_derived/research.htm_cmp_axis010_hbtn.gif"); MSFPnav2h=MSFPpreload("_derived/research.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="research.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="_derived/research.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Research" align="middle" name="MSFPnav2"></a> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/CV.htm_cmp_axis010_hbtn.gif"); MSFPnav3h=MSFPpreload("_derived/CV.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="CV.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/CV.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="C.V. / Resume" align="middle" name="MSFPnav3"></a> <script language="JavaScript"><!--
-if(MSFPhover) { MSFPnav4n=MSFPpreload("_derived/favorite.htm_cmp_axis010_hbtn.gif"); MSFPnav4h=MSFPpreload("_derived/favorite.htm_cmp_axis010_hbtn_a.gif"); }
-// --></script><a href="favorite.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="_derived/favorite.htm_cmp_axis010_hbtn.gif" width="140" height="46" border="0" alt="Interests" align="middle" name="MSFPnav4"></a><!--webbot bot="Navigation" i-checksum="54385" endspan -->
-    </h4>
-    <!--mstheme--></font></td>
-  </tr>
-</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="1052">
-  <tr>
-    <td valign="top" width="142" style="border-left-style:none; border-left-width:medium; border-right-style:solid; border-right-width:1; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse" align="center">
-      <tr>
-        <td width="100%"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-        <p align="center"><font size="1">&nbsp;</font><br>
-        <font size="1">
-        <img border="0" src="side_1.JPG" width="100" height="824"> !</font></p>
-        <!--mstheme--></font></td>
-      </tr>
-    </table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
-    <td valign="top" width="11" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica"><!--mstheme--></font></td>
-    <td valign="top" width="898" height="100%" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    <p align="left">I am graduate student in the Computer Science Department at
-    <a href="http://www.dartmouth.edu/">Dartmouth College</a>.&nbsp; I currently 
-    reside in the Green Mountains of Vermont, approximately 100 miles south of the Canadian border.</p>
-    <p align="left">I am conducting  research in the area of microrobotics, 
-    using MEMS (microelectromechnical 
-    systems) technologies . The goal of my research is 
-    to achieve micro-scale self-reconfiguration, among other with applications 
-    in the area information security. The dimensions of our microrobots are on 
-    the order of 100 micrometers, some of our robots would fit on top of a slice 
-    of a human hair. </p>
-    <p align="left">My general research interests lie in the area of <i>Physical 
-    Computation</i>, such as through the paradigm of Quantum 
-    Computing, as well as optimization of complex production systems and 
-    processes (such as Semiconductor Manufacturing) through Operations Research and Discrete-Event Simulation methodologies. More about my 
-    research can be found by clicking on the Research tab above.</p>
-    <blockquote>
-    <p align="left"><img border="0" src="nor.gif" width="36" height="25">&nbsp;&nbsp; Jeg er en doktor 
-    student ved Computer Science fakultetet ved
-    <a href="http://www.dartmouth.edu/">Dartmouth College</a>, New Hampshire, 
-    USA.&nbsp; Min prim&#230;r forskningomr<font face="Trebuchet MS">&#229;det er</font> MEMS (Microelectromechnical Systems) 
-    med applikasjoner for 
-    mikrorobot teknollogi. Jeg er ogs<font face="Trebuchet MS">&#229; interessert i 
-    Quantum Computing, Operations Reseach og Discrete-Event Simulation. Jeg har vokst opp p&#229;
-    </font>&#248;stkanten i Oslo, og har i sin tid g<font face="Trebuchet MS">&#229;tt p&#229; 
-    NKI Ingeni</font>&#248;rh&#248;yskolen (n<font face="Trebuchet MS">&#229; DPH), p&#229; 
-    Bekkestua i B</font>&#230;<font face="Trebuchet MS">rum.</font></p>
-    <p align="left"><img border="0" src="pol.gif" width="36" height="25">&nbsp;&nbsp; Jestem 
-    doktoranckim studentem&nbsp; na fakultecie informatyki w <a href="http://www.dartmouth.edu/">
-    Dartmouth College</a>, New Hampshire, USA. Prowadz<font face="Trebuchet MS">&#281;</font> badania nad 
-    Microelectromechanichnymi systemami (MEMS), czyli microrobotami. Pozatym 
-    interesuj<font face="Trebuchet MS">&#281;</font> si<font face="Trebuchet MS">&#281;</font> 
-    Quantum Computation, Operations Research i Discrete-Event Simulation. Urodzi<font face="Trebuchet MS">&#322;</font>em 
-    si<font face="Trebuchet MS">&#281;</font> w Piechowicach, niedaleko od Jeleniej G<font face="Trebuchet MS">&#242;</font>ry, 
-    u podnurza pi<font face="Trebuchet MS">&#281;knych
-    <a href="http://www.sudety.it/">Sudet&#242;w</a>.</font></p>
-    </blockquote>
-    <p align="left">&nbsp;</p>
-    <center>
-    <!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="5" height="33">
-      <tr>
-        <td width="78%" align="left" valign="top" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="1"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-        <h3><font size="3">My contact information:</font></h3>
-        <blockquote>
-        <p>
-        <img border="0" src="contact2.JPG" width="324" height="230" align="left"></p>
-        </blockquote>
-        <!--mstheme--></font></td>
-        <td width="22%" align="left" valign="top" style="border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="1"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-        <h3></h3>
-        <!--mstheme--></font></td>
-      </tr>
-      <tr>
-        <td width="78%" align="left" valign="top" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="41"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
-        <td width="22%" align="left" valign="top" style="border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium" height="41"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
-      </tr>
-      </table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-    </center><!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td valign="top" width="142" style="border-left-style:none; border-left-width:medium; border-right-style:solid; border-right-width:1; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
-    <td valign="top" width="11" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
-    <td valign="top" width="898" height="100%" style="border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">&nbsp;<!--mstheme--></font></td>
-  </tr>
-</table><!--mstheme--><font face="trebuchet ms, Arial, Helvetica">
-<p align="center"><small>
-<!--webbot bot="Navigation" S-Orientation="horizontal" S-Rendering="html" S-Bar="Bars" S-Btn-Nml="&lt;A HREF=&quot;#URL#&quot; TARGET=&quot;#TARGET#&quot; STYLE=&quot;text-decoration: none;&quot;&gt;#LABEL#&lt;/A&gt;" S-Btn-Sel="#LABEL#" S-Btn-Sep="&amp;nbsp;|&amp;nbsp;" S-Type="children" B-Include-Home="TRUE" B-Include-Up="FALSE" startspan --><nobr>Home</nobr>&nbsp;|&nbsp;<nobr><A HREF="research.htm" TARGET="" STYLE="text-decoration: none;">Research</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="CV.htm" TARGET="" STYLE="text-decoration: none;">C.V.&nbsp;/&nbsp;Resume</A></nobr>&nbsp;|&nbsp;<nobr><A HREF="favorite.htm" TARGET="" STYLE="text-decoration: none;">Interests</A></nobr><!--webbot bot="Navigation" i-checksum="51441" endspan -->
-</small></p>
-<p><i><small>This site was last updated
-<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%m/%d/%y" startspan -->12/05/06<!--webbot bot="Timestamp" i-checksum="13057" endspan --> </small></i>
-</p>
+<body>
+<img src="banner.jpg">
 
-<!--mstheme--></font></body>
+<br>
+<br>
+<br>
 
-</html>
+<table style="text-align: left;" width=85%>
+
+<tr>
+<td width=10%></td>
+<td valign="top">
+<table class="navbar">
+<tr><td><a href="index.html">Home</a></td></tr>
+<tr><td><a href="schedule.html">Program</a></td></tr>
+<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
+<tr><td><a href="history.html">History</a></td></tr>
+<tr><td><a href="faq.html">FAQ</a></td></tr>
+<tr><td><a href="contact.html">Contact Us</a></td></tr>
+</table>
+</td>
+
+<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
+
+<td>
+
+<i>For poster submission guidelines, <a href="poster.html">click here</a>.</i>
+<br><br>
+
+<table>
+
+<tr><td><h3>Demos:</h3></td></tr>
+<tr><td>
+"Transforming the Social Networking Experience with Sensing Presence from Mobile Phones", &nbsp; <a href="http://www.cs.dartmouth.edu/~miluzzo"><i>Emiliano Miluzzo</i></a><br><br>
+<tr><td>
+"The Second Life of a Sensor: Integrating Real-world Experience in 
+Virtual Worlds using Mobile Phones", &nbsp; <a href="http://www.cs.dartmouth.edu/~niclane"><i>Nicholas Lane</i></a>
+<br><br>
+<tr><td>
+"Reconfigurable Omni-drive Robot", &nbsp; <a href="http://www.cs.dartmouth.edu/~furtuna"><i>Andrei Furtuna</i></a>
+<br><br>
+
+
+<br>
+
+<tr><td><h3>Posters:</h3></td></tr>
+<tr><td>
+"Streaming Estimation of Information-Theoretic Metrics for Anomaly Detection", &nbsp; <a href="http://www.cs.dartmouth.edu/~jbrody"><i>Joshua Brody</i></a><br><br>
+</td></tr>
+<tr><td>"3D scene editor for Endoscopic Surgical Simulator", &nbsp; 
+<i>Jing Chen</i><br><br>
+</td></tr>
+<tr><td>"Functional Monitoring without Monotonicity", &nbsp; 
+<i><a href=http://www.cs.dartmouth.edu/~cja>Chrisil Arackaparambil</i></a><br><br>
+</td></tr>
+<tr><td>"Improving Energy Efficiency of LEACH Protocol Through Data Aggregation at Sensor Nodes", &nbsp; <i>Jonghoon Choi</i><br><br>
+</td></tr>
+<tr><td>
+"Mapping the similarity space of paintings: Is there a role for image statistics?", &nbsp; <a href="http://math.dartmouth.edu/~dgraham/"><i>Daniel Graham</i></a><br><br>
+</td></tr>
+<tr><td>"Allostery: Communication Networks in Proteins", &nbsp; <i>Bornika Ghosh</i><br><br>
+</td></tr>
+
+<tr><td>"Bubble-Sensing: A New Paradigm for Binding a Sensing Task to the Physical World", &nbsp; <a href="http://www.cs.dartmouth.edu/~hong/"><i>Hong Lu</i></a><br><br></td></tr>
+
+<tr><td>"A Supervised Learning Recognition Approach in Alumni Entity Search", &nbsp; 
+<i>Lu He</i><br><br>
+</td></tr>
+<tr><td>"FG vs. TBB: A Comparison", &nbsp; <a href="http://www.cs.dartmouth.edu/~priya"><i>Priya Natarajan</i></a><br><br>
+</td></tr>
+<tr><td>"Towards Community-Scale Modeling of Human Behavior", &nbsp; 
+<i>Daniel Peebles</i><br><br>
+</td></tr>
+<tr><td>"Detecting Kernel Rootkits", &nbsp; <i>Ashwin Ramaswamy</i><br><br>
+</td></tr>
+<tr><td>"Data Assurance in Pervasive Health Monitoring", &nbsp; <i>Janani Sriram</i> and <i>Minho Shin</i><br><br>
+</td></tr>
+<tr><td>"Contact Replacement for NMR Resonance Assignment", &nbsp; <a href=http://www.cs.dartmouth.edu/~xfei><i>Fei Xiong</i></a><br><br>
+</td></tr>
+
+<tr><td>
+"Extracting Statistical Information From SNPs Data of Closely Related
+Individuals", &nbsp; <a href="http://www.math.dartmouth.edu/~genovese/"><i>Giulio Genovese</i></a><br><br>
+</td></tr>
+
+<tr><td>"Usable Public Key Infrastructures via PRQP", <a href="http://www.cs.dartmouth.edu/~pala/"><i>Massimiliano Pala</i></a><br><br>
+</td></tr>
+
+<tr><td>"Predicting Protein Function from Small Molecule Docking", &nbsp; <i>Jason Vertrees</i><br><br>
+</td></tr>
+
+<tr><td> "Kiewit Cyber-Security Initiative", &nbsp; <i>Peter Johnson</i><br><br>
+</td></tr>
+
+<tr><td>"A Biologically Inspired Model of Primary Visual Cortex", &nbsp; <i><a href="http://www.cs.dartmouth.edu/~hughes/"><i>James Hughes</i></a><br><br>
+</td></tr>
+
+<tr><td> "Fuzzing Proprietary SCADA Protocols", &nbsp; <i>Sergey Bratus, Axel Hansen, Anna Shubina</i><br><br>
+</td></tr>
+
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</body></html>

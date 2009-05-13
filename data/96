@@ -1,65 +1,60 @@
-http://www.cs.dartmouth.edu/~mbell
+http://www.cs.dartmouth.edu/~luhe
 2
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
 <head>
-    <title>Matthew Bell</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>Lu He</title>
+<link rel="stylesheet" href="style.css" type="text/css" />
 </head>
-<body>
-<table border="0">
-<tr>
-<td><img src="leaf_s.jpg"/></td>
-<td style="padding-left:20px">
-<b>Matthew Bell</b><br/>
-<i>Office:</i> 202 Sudikoff<br/>
-<i>Address:</i> 6211 Sudikoff Lab, Hanover, NH 03755<br/>
-<i>Work phone:</i> 603-646-1036<br/>
-mbell at cs dot dartmouth dot edu<br/>
-</td>
-</tr>
-</table>
 
-<hr/>
+<body> 
+<div id="masthead"> 
+  <h1 id="siteName">Lu He</h1>
+</div> 
+<!-- end masthead -->
+<p></p>
+<div id="content">
+  <div class="feature"><img src="images/head.jpg" alt="" width="400" height="300" border="0" />
+  <h3>Welcome </h3> 
+  
+      <p>
+       I am currently a first year Ph.D. student 
+      in Computer Science Department at Dartmouth College.
+    </p> 
+  </div>
 
-<h3>About Me:</h3>
-<p>I am a Ph.D. student in the <a 
-href="http://www.cs.dartmouth.edu/~robotics">Robotics Lab</a> in the <a 
-href="http://www.cs.dartmouth.edu">Computer Science</a> department at <a 
-href="http://www.dartmouth.edu">Dartmouth College</a>. My current 
-research is on the <a href="/~robotics/flexible.html">manipulation of 
-flexible materials</a>, 
-focusing
-on the areas of robotic knot tying and cloth folding. Past research has included basic work on a <a href="#climbingRobot">climbing robot</a>, and development of a reconnaissance vehicle built on a R/C car base for use in SWAT operations.
-<p>My non-professional interests include photography, hiking, mountain biking, cross-country skiing, and geocaching.
-
-<hr/>
-
-<a name="pubs"/>
-<h3>Publications:</h3>
-<ul><a name="climbingRobot"/>
-<li>M. Bell.&nbsp;&nbsp;<i><a 
-href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-542/">A toy rock climbing robot</a></i>.<br/>
-Senior Honors Thesis, Dartmouth College; D. Balkcom, advisor. Published as Dartmouth CS TR 2005-542, August 2005.</li>
-<li>M. Bell, D. Balkcom.&nbsp;&nbsp;<a href="pubs/mpb-icra2006.pdf">"A 
-toy climbing robot"</a>.<br/>
-<i>IEEE International Conference on Robotics and Automation (ICRA 2006)</i><br/>
-May 2006.<br/>
-<a href="/~robotics/movies.html#climbingMovies">Movies</a></li>
-<li>M. Bell, D. Balkcom.&nbsp;&nbsp;<a 
-href="pubs/mpb-icra2008.pdf">"Knot 
-Tying with Single Piece Fixtures"</a>.<br/>
-<i>IEEE International Conference on Robotics and Automation (ICRA 2008)</i><br/>
-May 2008.<br/>
-<a href="/~robotics/movies.html#knotMovies">Movie</a></li>
-</ul>
-
-<hr/>
-
-<h3>Links to various old projects</h3>
-<ul>
-   <li>Basic <a href="dynSim/">dynamics simulation</a> of a 2R robot arm.
-</ul>
-
-<hr/>
-<i>Last modified: June 5, 2008.</i>
+  <div class="story"> 
+    <hr />
+    <h3>Education</h3> 
+    <p>
+    
+    2004.9-2008.6 
+    </p>
+    <p> 
+    Bachelor of Engineering, 
+ 
+    College of Software Engieering,
+ 
+    Nankai University, 
+  Tianjin, P.R.China 
+    </p> 
+  </div> 
+  <div class="story"> 
+    <h3>Contact</h3> 
+    <p>
+     Office: Sudikoff 220  </p>
+  <p>   Email: Lu.He@dartmouth.edu </p>
+     Tel: 603-646-8752
+    </p> 
+    
+  </div> 
+</div> 
+<!--end content --> 
+  
+<br /> 
 </body>
 </html>
+gmenti

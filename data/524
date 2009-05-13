@@ -1,71 +1,16 @@
-http://www.cs.dartmouth.edu/~wbc/suditour/servers/power.html
+http://www.cs.dartmouth.edu/~wbc/suditour/011/index.html
 3
 
-
-<h1>Power Distribution in 011 Sudikoff</h1>
-
-<table border=3>
- <tr><td colspan=2>s011-power1</td><td> 129.170.213.241</td></tr>
- <tr>
-  <td>1</td><td>pisgah</td>
- </tr><tr>
-  <td>2</td><td>green plug 1</td>
- </tr><tr>
-  <td>3</td><td>new-bear</td>
- </tr><tr>
-  <td>4</td><td>backup-3</td>
- </tr><tr>
-  <td>5</td><td>tape drive</td>
- </tr>
- 
-<tr><td> </td></tr>
-
- <tr><td colspan=2>s011-power2</td><td> 129.170.213.244</td></tr>
- <tr>
-  <td>1&nbsp;&nbsp;</td><td>empty</td>
- </tr><tr>
-  <td>2</td><td>tahoe</td>
- </tr><tr>
-  <td>3</td><td>concentrator 215.235</td>
- </tr><tr>
-  <td>4</td><td> old mail (new oct 2005)</td>
- </tr><tr>
-  <td>5</td><td>tahoe switch 212.211 e</td>
- </tr><tr>
-  <td>6</td><td>green plug 2</td>
- </tr>
-
-<tr><td> </td></tr>
-
- <tr><td colspan=2>s011-power3</td><td> 129.170.214.45</td></tr>
- <tr>
-  <td>1</td><td>mirrors-athena </td>
- </tr><tr>
-  <td>2</td><td>215.225  procurve sw to power 1, 2, 3</td>
- </tr><tr>
-  <td>3</td><td>katahdin </td>
- </tr><tr>
-  <td>4</td><td>new mail (new may 2008)</td>
- </tr>
-
-<tr><td> </td></tr>
-
- <tr><td colspan=2>s011-power4</td><td> 129.170.215.140</td></tr>
- <tr>
-  <td>1</td><td>CVS</td>
- </tr><tr>
-  <td>2</td><td>galehead</td>
- </tr>
-
-<tr><td> </td></tr>
-
- <tr><td colspan=2>s011-power5</td><td> 129.170.215.141</td></tr>
- <tr>
-  <td>1</td><td>cs</td>
- </tr><tr>
-  <td>2</td><td>aeolus</td>
- </tr>
-
-</table>
-
-</ti
+<h3>32bit linux computers that students may ssh to </h3>
+<ul>
+<li>carter (scratchbox) 4.1.1 Diablo (sb works)
+<li>carr (scratchbox) 4.1.2 Diablo (sb works)
+<li>hancock (scratchbox) 4.1.2 Diablo (sb works)
+<li>moriah (scratchbox)  4.1.1 Diablo (sb works)
+</ul>
+<h4>this is in 007</h4>
+<ul>
+<li>stratton (scratchbox)  4.0.1 Chinook (does not work)
+<li>osceola (scratchbox)  4.0.1 Chinook (does not work)
+</ul>
+<bri

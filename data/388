@@ -1,119 +1,37 @@
-http://www.cs.dartmouth.edu/~doug/powser.html
+http://www.cs.dartmouth.edu/~sergey/twiki
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html><head><title>Power serious</title></head><body>
-<h2>Power serious: power series in ten one-liners</h2>
-These Haskell functions implement operations on power
-series.
-<br>
-Series are represented as lists of numeric coefficients
-<br>
-&nbsp;and are understood formally; convergence is not an issue.
-<br>
-Because the lists are unbounded in length,
-lazy evaluation is essential.
-<br>
-<p>
-Extra rules for empty lists will make the operations
-work also on
-<br>&nbsp;finite-length inputs (polynomials)
-and allow coerced scalars to be finite series.
-<p>
-Reference:
-M. D. McIlroy, <a href="music.ps.gz">The music of streams</a> (.ps.gz),
-<br>&nbsp;<cite>Information Processing Letters</cite> <b>77</b> (2001) 189-195.
-</p><h3>Function definitions</h3>
-A series variable has suffix <tt>s</tt>, or <tt>t</tt> when it's a tail.
-<br>
-An
-<a href="powser1.html">explanation page</a> elucidates
-some details of formulas marked as links.
-<h4>Coerce scalar to series</h4>
-<pre>   series f = f : repeat 0
-   <a href="powser1.html#coercion">fromInteger c = series(fromInteger c)</a>    -- promote constants</pre>
-<h4>Negation</h4>
-<pre>   <a href="powser1.html#negation">negate (f:ft) = -f : -ft</a></pre>
-<h4>Addition</h4><pre>   (f:ft) + (g:gt) = f+g : ft+gt</pre>
-<h4>Multiplication</h4>
-<pre>   <a href="powser1.html#multiplication">(f:ft) * gs@(g:gt) = f*g : ft*gs + series(f)*gt</a></pre>
-<h4>Division</h4>
-<pre>   <a href="powser1.html#division">(f:ft) / (g:gt) = qs where qs = f/g : series(1/g)*(ft-qs*gt)</a></pre>
-<h4>Subtraction, integer power</h4>
-Haskell predefines subtraction in terms of addition and negation,
-<br>
-and integer power (^) in terms of multiplication.
-<h4>Composition (<tt><big>#</big></tt>)</h4>
-<pre>   <a href="powser1.html#composition">(f:ft) # gs@(0:gt) = f : gt*(ft#gs)</a></pre>
-<h4>Reversion (compositional inverse)</h4>
-<pre>   <a href="powser1.html#reversion">revert (0:ft) = rs where rs = 0 : 1/(ft#rs)</a></pre>
-<h4>Integration</h4>
-<pre>
-   int fs = 0 : zipWith (/) fs [1..]    -- integral from 0 to x</pre>
-<h4>Differentiation</h4>
-<pre>
-   diff (_:ft) = zipWith (*) ft [1..]   -- type <a href="powser1.html#diff">(Num a,Enum a)=>[a]->[a]</a></pre>
-<h3>Examples</h3>
-Coercion allows concisely written polynomials
-to be treated as power series.
-<br>Thus 1+<i>x</i><sup><small>2</small></sup> may
-be written
-<tt>1+(0:1)^2</tt> or <tt>1:0:1</tt>,
-and is deployed below to define the
-<br>series for tan <i>x</i>
-in terms of that for its functional
-inverse,  arctan <i>x</i> =
-&int;d<i>x</i>/(1+<i>x</i><sup><small>2</small></sup>):
-<pre>   <a href="powser1.html#examples">tans = revert(int(1/(1:0:1)))</a></pre>
-From the usual differential relations between sine and cosine
-follows code
-<br>
-to compute their power series.  Lazy evaluation enables the mutual recursion.
-<pre>   sins = int coss
-   coss = 1 - int sins
-</pre>
-When the operations are generalized to keep polynomials finite, the
-coefficients 
-<br>of power series can themselves be (finite) power series.
-Then the identity
-<br>
-1/(1&minus;(1+<i>x</i>)<i>z</i>) = &Sigma; (1+<i>x</i>)<sup><i>n</i></sup><i>z</i><sup><i>n</i></sup>
-leads to a generator of Pascal's triangle:
-<pre>
-   <a href="powser1.html#pascal">pascal = 1/(1 - [[0],[1,1]])</a>
-</pre>
-<h3>Complete packages</h3>
-The code above plus a
-few lines of declaration make a working
-<a href="powser1.hs">bare-bones package</a>.
-<br>
-For a quick test, try <tt>take 10 tans</tt>.  This exercises every
-operation but <tt>diff</tt>.
-<p>
-Extensions to handle polynomials make a
-&nbsp;<a href="powser2.hs">practical package</a>, doubled in size,  
-<br>&nbsp;not as pretty, but much faster and capable of feats like <tt>pascal</tt>.
-<br>To see the dramatic speedup,
-try a bigger test like <tt>take 20 tans</tt>.
-<p>
-Why is finite more complicated than infinite?  The end must be detected,
-if nothing else.
-<h3>Colophon</h3>
-Written by Doug McIlroy
-<br>doug@cs.dartmouth.edu
-<br>July 2007
-<p>Aug 2007. Text, but not code, trivially modified.
-<br>Sep 2007. Misprint in definition of <tt>sins</tt> corrected; OK in the complete packages.
-<br>Sep 2007. <a href="powser1.html">Explanation page</a> and Pascal's triangle added.  Minor text modifications.
-<br>Mar 2008. Tweak the introduction.
-<br>Apr 2008.
-Link selected lines of code to their explanations.
-<br>
-&nbsp;&nbsp;Change certain hyphens to minus signs.
-<br>
-&nbsp;&nbsp;Explain and fix 
-<a href="powser1.html#diff"<tt>Enum</tt> nuisance</a>.
-<br>
-Jul 2008. More trivial text edits.
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+<head>
+ <title>Welcome to TWiki - A Web-based Collaboration Platform</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+</head>
+<body bgcolor="#ffffff">
+ <h1>This is our SELinux wiki</h1>
+ <p>
+  Authentication is required.  
+  <p>
+  <p>
+  Start at the  
+  <a href="http://www.cs.dartmouth.edu/~sergey/twiki/bin/view/SELinux/MainPage">SELinux main page</a>.
+
+  If you have not created a user, do this:
+<ul>
+  <li>
+  Create a Wiki user <a href="http://www.cs.dartmouth.edu/~sergey/twiki/bin/view/TWiki/TWikiRegistration">here</a>. TWiki uses the supplied e-mail address
+  to notify users of changes to selected pages. 
+  <li>
+   Then <a href="http://www.cs.dartmouth.edu/~sergey/twiki/bin/view/TWiki/ChangePassword">change your password</a>.
+</ul>
+
+ <h2>TWiki docs</h2>
+ <p> These are standard TWiki docs. They are much too wordy for my taste,
+     but I left the links here, just in case. <i>&mdash; Sergey</i>
+
+ <ul>
+  <li> <a href="readme.txt">readme.txt</a> </li>
+  <li> <a href="TWikiDocumentation.html">TWikiDocumentation.html</a> </li>
+  <li> <a href="TWikiHistory.html">TWikiHistory.html</a> </li>
+ </ul>
 </body>
 </html>
-adesi

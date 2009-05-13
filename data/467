@@ -1,26 +1,24 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR2008-617
+http://www.cs.dartmouth.edu/reports/abstracts/TR2007-603
 3
 <HTML>
 <!-- WARNING! Do not modify this file; it is
       automatically generated from a database in www/TRdata/. -->
 <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
 <HEAD>
-<TITLE> Dartmouth TR2008-617 </TITLE>
-<META NAME="description" CONTENT="YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems (Extended Version)">
-<META NAME="number" CONTENT="TR2008-617">
-<META NAME="year" CONTENT="2008">
-<META NAME="title" CONTENT="YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems (Extended Version)">
+<TITLE> Dartmouth TR2007-603 </TITLE>
+<META NAME="description" CONTENT="YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems">
+<META NAME="number" CONTENT="TR2007-603">
+<META NAME="year" CONTENT="2007">
+<META NAME="title" CONTENT="YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems">
 <META NAME="abstract" CONTENT="We construct a bump-in-the-wire (BITW) solution that retrofits
 security into time-critical communications over bandwidth-limited
-serial links between devices in legacy Supervisory Control And Data
-Acquisition (SCADA) systems, on which the proper operations of
-critical infrastructures such as the electric power grid
-rely. Previous BITW solutions do not provide the necessary security
-within timing constraints; the previous solution that does is not
-BITW.
- At a hardware cost comparable to existing solutions, our BITW solution
-provides sufficient security, and yet incurs minimal end-to-end
-communication latency.">
+serial links between devices in Supervisory Control And Data
+Acquisition (SCADA) systems. Previous BITW solutions fail to provide
+the necessary security within timing constraints; the previous
+solution that does provide the necessary security is not BITW.  At a
+comparable hardware cost, our BITW solution provides sufficient
+security, and yet incurs minimal end-to-end communication latency. A
+microcontroller prototype of our solution is under development.">
 <META NAME="author" CONTENT="Patrick P. Tsang">
 <META NAME="author" CONTENT="Sean W. Smith">
 </HEAD>
@@ -116,51 +114,48 @@ communication latency.">
 <hr>
 <!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
 
-<font size=+2><b> YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems (Extended Version) </b></font><br>
+<font size=+2><b> YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems </b></font><br>
 <font size=+1><b>
  <A HREF="../../authors/Tsang,Patrick.P..shtml">Patrick P. Tsang</A>,
  <A HREF="../../authors/Smith,Sean.W..shtml">Sean W. Smith</A>
 <br>
-Dartmouth TR2008-617
+Dartmouth TR2007-603
 </b></font>
 <p><QUOTE>
 <b>Abstract:</b>
 We construct a bump-in-the-wire (BITW) solution that retrofits
 security into time-critical communications over bandwidth-limited
-serial links between devices in legacy Supervisory Control And Data
-Acquisition (SCADA) systems, on which the proper operations of
-critical infrastructures such as the electric power grid
-rely. Previous BITW solutions do not provide the necessary security
-within timing constraints; the previous solution that does is not
-BITW.
-</P><P>
- At a hardware cost comparable to existing solutions, our BITW solution
-provides sufficient security, and yet incurs minimal end-to-end
-communication latency.
+serial links between devices in Supervisory Control And Data
+Acquisition (SCADA) systems. Previous BITW solutions fail to provide
+the necessary security within timing constraints; the previous
+solution that does provide the necessary security is not BITW.  At a
+comparable hardware cost, our BITW solution provides sufficient
+security, and yet incurs minimal end-to-end communication latency. A
+microcontroller prototype of our solution is under development.
 </QUOTE></p>
 <p><QUOTE>
 <b>Note:</b>
-This technical report is the extended version of the paper to appear in
-IFIP SEC 2008 under the same title. An earlier version of the paper appeared
-as Dartmouth Computer Science Technical Report TR2007-603.
+Updated as TR2008-617.
+You can find it
+<a href=http://www.cs.dartmouth.edu/reports/abstracts/TR2008-617/>here</a>.
 </QUOTE></p>
 <HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR2008-617.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (988KB)
+ <a href="http://www.cs.dartmouth.edu/reports/TR2007-603.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (520KB)
 <p>
 Bibliographic citation for this report:
-  [<a href="TR2008-617.ascii">plain text</a>]
-  [<a href="TR2008-617.bib">BIB</a>]
-  [<a href="TR2008-617.bibtex">BibTeX</a>]
-  [<a href="TR2008-617.refer">Refer</a>]
+  [<a href="TR2007-603.ascii">plain text</a>]
+  [<a href="TR2007-603.bib">BIB</a>]
+  [<a href="TR2007-603.bibtex">BibTeX</a>]
+  [<a href="TR2007-603.refer">Refer</a>]
 </p>
 <p>Or copy and paste:<br>
 &nbsp;&nbsp;
 Patrick P. Tsang and
 Sean W. Smith, 
-"YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems (Extended Version)."
-Dartmouth Computer Science Technical Report TR2008-617,
-April 2008.
+"YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy SCADA Systems."
+Dartmouth Computer Science Technical Report TR2007-603,
+September 2007.
 </p>
 <!-- Include file for abstracts/*.html and authors/*.html -->
 <!-- See also header.htmlf -->
@@ -191,4 +186,3 @@ explicit permission of the copyright holder.
 
 </BODY>
 </HTML>
-b>Nyñ

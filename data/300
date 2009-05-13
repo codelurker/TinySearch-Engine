@@ -1,65 +1,63 @@
-http://www.cs.dartmouth.edu/farid/egypt/obelisk.html
+http://www.cs.dartmouth.edu/~epics/nccc/index.html
 3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
-<title>The Obelisk of Thutmose I</title>
+<title>EPICS + Norris Cotton Cancer Center Partnership</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="../style.css" type="text/css" rel="stylesheet">
 </head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table width=750 align=center>
-<tr>
-<td colspan=3 valign=top>
-<BR>
-<b> The obelisk of Thutmose I (Karnak Temple)</b>
-<BR>
+<body>
+
 <p>
-This obelisk stands 19.5 meters (64 feet) tall.  It was photographed
-from a distance of approximately 40 meters (130 feet) with a
-tele-photo lens (400 mm) in five overlapping regions.  These images
-were then stitched together and contrast enhanced.  This composite was
-then rectified to correct for the tilt of the obelisk relative to the
-camera, creating a distortion-free image that was effectively
-photographed from infinitely far away.  The final image is shown at
-1/32 resolution, with the cartouche shown at 1/2 resolution (<a
-href="obelisk/obelisk.jpg">the cartouche at full resolution</a>).
-These images were taken with a Kodak DCS PRO 14N digital camera with a
-14 megapixel 1:1 CMOS sensor, using a Nikon 80-400 mm lens.
-</td>
+<a href="http://www.cs.dartmouth.edu/~epics/"><img src="../epics_dart.gif" alt="EPICS" border=0 align="middle"></a>
+<font class=at>&nbsp;+&nbsp;</font>
+<a href="http://www.cancer.dartmouth.edu/"><img src="nccc.jpg" alt="Norris Cotton Cancer Center" border=0 align="middle"></a>
+</p>
 
+<table width="100%" border=0><tbody>
 <tr>
-<td valign=top>
-<p><BR>
-This obelisk was erected by Thutmose I circa 1500 B.C.  Some four
-centuries later Ramses IV added columns of inscriptions to either side
-of the original central inscriptions.  In turn, Ramses VI modified the
-names so that the cartouches could be read as both Ramses IV and VI.
-</td>
-<td> &nbsp </td>
-<td valign=top>
-<p><BR>
-<a href="obelisk/obelisk.jpg">
-<IMG SRC="obelisk/obelisk2.jpg" border=0 width=553 height=382>
-</a>
-</td>
-</tr>
-</table>
-
-<HR>
-<table align=center width=750>
-<tr>
-<td align=left>
-<i><a href="../egypt/reconstruction.html">Related material</a></i>
+<!-- navigation -->
+<td valign=top align=left width=100><br>
+<a href="../index.html" class=nav>home</a><br>
+<a href="../students.html" class=nav>students</a><br>
+<a href="../agencies.html" class=nav>agencies</a><br>
 </td>
 
-<td valign=top align=right>
-	<i>
-	<a href="../home.html"> Home</a> &nbsp &nbsp
-	</i>
-</td>
-</tr>
-</table>
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Partnership Summary</div><br>
+
+<p><a href="http://www.cancer.dartmouth.edu/">Norris Cotton Cancer
+Center</a> is a comprehensive cancer center at the Dartmouth-Hitchcock
+Medical Center in Lebanon, New Hampshire.  A group at the center is
+partnering with Dartmouth EPICS in order to assess patient
+satisfaction and quality of care.  An EPICS team is extending our
+survey creation/management platform (developed as part of the <a
+href="../montshire/index.html">Montshire</a> partnership) so as to
+support data collection via a web site, in addition to the original
+PDAs.</p>
+
+<p>Team members</p>
+<ul>
+<li><b>Spring 2006</b>: Allen Harvey, Tim Lay</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<img src="survey.jpg" alt="Survey screenshot" border="0" align="middle">
+
+<!-- footer -->
+<tr><td colspan=2 height=20></td></tr>
+<tr><td class=hr colspan=2 height=2></td></tr>
+<tr><td class=footer colspan=2>
+<!-- hhmts start -->
+Last modified: Mon May 22 17:26:41 EDT 2006
+<!-- hhmts end -->
+</td></tr>
+
+</tbody></table>
+</body>
 </html>
-
-
+ass=i

@@ -1,125 +1,61 @@
-http://www.cs.dartmouth.edu/~farid/research/registration.html
+http://www.cs.dartmouth.edu/~farid/publications/mkjthesis07.html
 3
 <html>
 <head>
 <LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-<title> Image Registration </title>
+<title> Hany Farid: Papers </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=800 border=0>
+<table align=center width=650>
 <tr>
-<td valign= top>
-<b> Image Registration </b>
-<BR>
-<p>
-We have developed a general purpose registration algorithm for medical
-images/volumes. Given a source and target image we automatically
-estimate a smooth warp field that brings the source image into
-register with the target image.
+<td>
+
+<dl>
+<dt><b> Lighting and Optical Tools for Image Forensics </b><BR>
+<dd> Micah K. Johnson <i>(advisor: H. Farid)</i> <BR> 
+<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2007
 <BR><BR>
-We model the transformation between images as locally affine but
-globally smooth. The model also explicitly accounts for local and
-global variations in image intensities, and for missing data between
-the source and target. This approach is built upon a differential
-multiscale framework, allowing us to capture both large  and
-small scale transformations. 
-<BR><BR>
-Example registration results are shown to the right. This <a
-href="register3d.gif">animated gif</a> shows a 3-D example - on the
-left is the source (with more than 1/2 of the head missing), in the
-middle is the target, and on the right is the registered source
-(with the original head spliced in to show the accuracy of the
-registration).
-<BR><BR>
-<a href="qr_0.1.tar.gz"> Matlab code (qr_0.1.tar.gz) </a> <BR>
-<a href="qr_0.2.tar.gz"> Matlab code (qr_0.2.tar.gz) </a> <BR>
+<dd>	<a href="mkjthesis07.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#johnson07">Bibtex</a>
 
-<font size=-1><i>(version 0.2 incorporates the EM algorithm to contend with missing data)</i></font>
-
-<BR><BR>
-
-<i>(Collaborative work with Senthil Periaswamy)</i>
-
-</td>
-<td> &nbsp&nbsp </td>
-<td valign=top>
-<table align=center>
-<tr>
-<td align=center> source</td>
-<td align=center> target</td>
-<td align=center> registered source</td>
-</tr>
-
-<tr>
-<td align=center>
-<img src="register1.gif" width=150 height=150>
-</td>
-<td align=center>
-<img src="register2.gif" width=150 height=150>
-</td>
-<td align=center>
-<img src="register3.gif" width=150 height=150>
-</td>
-</tr>
-
-<tr>
-<td align=center>
-<img src="register6.gif" width=150 height=150>
-</td>
-<td align=center>
-<img src="register7.gif" width=150 height=150>
-</td>
-<td align=center>
-<img src="register8.gif" width=150 height=150>
-</td>
-</tr>
-
-<tr>
-<td align=center>
-<img src="register9.gif" width=150 height=150>
-</td>
-<td align=center>
-<img src="register10.gif" width=150 height=150>
-</td>
-<td align=center>
-<img src="register11.gif" width=150 height=150>
+        
+</dl>
+<p><BR>
+We present new forensic tools that are capable of detecting traces of
+tampering in digital images without the use of watermarks or
+specialized hardware. These tools operate under the assumption that
+images contain natural properties from a variety of sources, including
+the world, the lens, and the sensor. These properties may be disturbed
+by digital tampering and by measuring them we can expose the
+forgery. In this context, we present the following forensic tools: (1)
+illuminant direction, (2) specularity, (3) lighting environment, and
+(4) chromatic aberration. The common theme of these tools is that they
+exploit lighting or optical properties of images. Although each tool
+is not applicable to every image, they add to a growing set of image
+forensic tools that together will complicate the process of making a
+convincing forgery.
 </td>
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-</td>
 
 <HR>
 
-<table align=center width=800>
+<table align=center width=650>
 <tr>
-<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></t\
-d>
-
-<td width=500 valign=top><font size=-1><i>
-<ol>
-  <li>Medical Image Registration with Partial Data <a href="../publications/mia05.html">(mia06)</a> <BR> 
-  <li>Elastic Registration with Partial Data <a href="../publications/wbir03.html">(wbir03)</a> <BR> 
-  <li>General-Purpose Medical Image Registration <a href="../publications/spthesis03.html">(thesis03)</a> <BR> 
-  <li>Elastic Registration in the Presence of Intensity Variations <a href="../publications/medimg03.html">(medimg03)</a> <BR> 
-  <li>Differential Elastic Image Registration <a href="../publications/tr01a.html">(tr01)</a> <BR>
-  <li>Differential Affine Motion Estimation for Medical Image Registration <a href="../publications/spie00.html">(spie00)</a>
-</ol>
-</i></font> </td>
-
+<td align=left>
+<i><a href="../research/tampering.html">Related material</a></i>
+</td>
 <td valign=top align=right>
-        <font size=-1><i>
+	<i>
         <a href="../home.html"> Home</a> &nbsp &nbsp
-        <a href="research.html"> Research</a>
-        </i></font>
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
 </td>
 </tr>
 </table>
 </html>
-
+i

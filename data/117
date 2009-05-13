@@ -1,32 +1,47 @@
-http://www.cs.dartmouth.edu/~xiaoyu
+http://www.cs.dartmouth.edu/~an
 2
-<html>
-<head>
-<title>Xiaoyu's homepaage</title>
-</head>
-<h1>Xiaoyu(Sarah) Zhao</h1>
-<body>
-<p>My email: <a href="mailto: xiaoyu.zhao@dartmouth.edu">Xiaoyu.Zhao@dartmouth.edu</a><br>
-Office: Sudikoff 253<br>
-Office Tel: 60319</p>
-<hr>
+<html><head> <title>Xiaobo(Danielle) An</title>
+<style type="text/css">
+<!--
+.style10 {
+	font-size: 32px
+}
+-->
+</style>
+<img src="img.jpg" align = "left">
+<body bgcolor="gray">
+<font color="white" face="Arial">
+
+<div align="left">
+<br/>
+<br/>
+
+<table width="790" height="40">
+<tr>
+ 
+   <td width="1200" align="up">
+     <p class="style8">Xiaobo(Danielle) An</p>
+     <p>Ph.d. student<br/>
+       Computer Science <br/>
+       Dartmouth College <br/>
+       <br/>
+My research interests include computer graphics and computational photography. Since 2006, I've been working with <a href="http://www.cs.dartmouth.edu/~fabio">Prof. Fabio Pellacini</a> on appearance design and editing. Here is my <a href="cv.pdf">CV</a>.<br/>
+       __________________________________________________________________________________________________<br/>
+      </p>
+  
+ </td>
+ <tr/>
+<tr>
+<td>
+<p><b>Publications</b></p>
+
 <p>
-TA:</p>
-<p>
-2008fall: CS5 Introduction to Computer Science</p>
-<p>
-2009winter: CS19 Discrete Mathematics in Computer Science<br>
-
-</p>
-<hr>
-<p>
-Courses taken:
-</p>
-<li>Fall2008: CS25 Algorithm, CS188 Intelligent System Seminar</li>
-<li>Winter2009: CS39 Computational theory, CS105 Algorithm and data structure</li>
-
-</body>
-</html>
+"AppProp: All-Pairs Appearance-Space Edit Propagation", Xiaobo An, Fabio Pellacini, <a href = "http://en.wikipedia.org/wiki/SIGGRAPH">Siggraph</a> 2008</p>
+<p><a href="appprop.pdf">pdf file</a>      <a href= "appprop_video.mov">quicktime video</a></p>
+</td>
+</tr>
+</table>
+<br/><br/>
 
 
-
+</body></html>

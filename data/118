@@ -1,40 +1,32 @@
-http://www.cs.dartmouth.edu/~zhifei
+http://www.cs.dartmouth.edu/~xiaoyu
 2
 <html>
+<head>
+<title>Xiaoyu's homepaage</title>
+</head>
+<h1>Xiaoyu(Sarah) Zhao</h1>
 <body>
-
-<p><b>Zhifei Song</b></p>
-<img src="./image.jpg" width="150" height="200"/><br>
-
+<p>My email: <a href="mailto: xiaoyu.zhao@dartmouth.edu">Xiaoyu.Zhao@dartmouth.edu</a><br>
+Office: Sudikoff 253<br>
+Office Tel: 60319</p>
 <hr>
-<p><b>Enducation</b></p>
-B.S degree in Information Security, July 2008,<a href="http://www.bupt.edu.cn"> Beijing University of Posts and Telecommunications</a><br>
-Currently a first year master student in <a href="http://www.cs.dartmouth.edu">Department of Computer Science</a>,<a href="http://www.dartmouth.edu"> Dartmouth College</a><br>
-<hr>
-<p><b>Contact</b></p>
+<p>
+TA:</p>
+<p>
+2008fall: CS5 Introduction to Computer Science</p>
+<p>
+2009winter: CS19 Discrete Mathematics in Computer Science<br>
 
-blize:Zhifei.Song AT dartmouth DOT edu<br>
-mail: <br>
-Zhifei Song<br>
-6211 Sudikoff<br>
-Dartmouth College<br>
-Hanover,NH 03755,US<br>
+</p>
 <hr>
-<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.cs.dartmouth.edu/~zhifei" id="clustrMapsLink">
-<img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.cs.dartmouth.edu/~zhifei" style="border:0px;" alt="Locations of visitors to this page" 
-title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; 
-this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
-</a>
-<object data="./jaychoi-boy.mp3" type="application/x-mplayer2" width="0" height="0">
-  <param name="filename" value="./jaychoi-boy.mp3">
-  <param name="autostart" value="1">
-  <param name="playcount" value="true"> 
-</object>
-
-<bgsound src="./jaychoi-boy.mp3" autostart = "true" loop = "infinite">
-<hr>
-
-Last Modified: April 5th, 2009 EST
+<p>
+Courses taken:
+</p>
+<li>Fall2008: CS25 Algorithm, CS188 Intelligent System Seminar</li>
+<li>Winter2009: CS39 Computational theory, CS105 Algorithm and data structure</li>
 
 </body>
 </html>
+
+
+

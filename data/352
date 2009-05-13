@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/RobotLab:Privacy_policy
+http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Andrei_Furtuna
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
@@ -6,14 +6,14 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/RobotLab:Privacy_polic
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta http-equiv="Content-Style-Type" content="text/css" />
 		<meta name="generator" content="MediaWiki 1.14.0" />
-		<meta name="keywords" content="Main Page,Devin Balkcom" />
-		<link rel="alternate" type="application/x-wiki" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit" />
-		<link rel="edit" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit" />
+		<meta name="keywords" content="Andrei Furtuna,Main Page" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;action=edit" />
+		<link rel="edit" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;action=edit" />
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="search" type="application/opensearchdescription+xml" href="/~robotics/mediawiki/opensearch_desc.php" title="RobotLab (en)" />
 		<link rel="alternate" type="application/rss+xml" title="RobotLab RSS Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=rss" />
 		<link rel="alternate" type="application/atom+xml" title="RobotLab Atom Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-		<title>RobotLab</title>
+		<title>Andrei Furtuna - RobotLab</title>
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/shared.css?195" type="text/css" media="screen" />
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/commonPrint.css?195" type="text/css" media="print" />
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/main.css?195" type="text/css" media="screen" />
@@ -40,17 +40,17 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/RobotLab:Privacy_polic
 		var wgCanonicalNamespace = "";
 		var wgCanonicalSpecialPageName = false;
 		var wgNamespaceNumber = 0;
-		var wgPageName = "Main_Page";
-		var wgTitle = "Main Page";
+		var wgPageName = "Andrei_Furtuna";
+		var wgTitle = "Andrei Furtuna";
 		var wgAction = "view";
-		var wgArticleId = "1";
+		var wgArticleId = "37";
 		var wgIsArticle = true;
 		var wgUserName = null;
 		var wgUserGroups = null;
 		var wgUserLanguage = "en";
 		var wgContentLanguage = "en";
 		var wgBreakFrames = false;
-		var wgCurRevisionId = "255";
+		var wgCurRevisionId = "268";
 		var wgVersion = "1.14.0";
 		var wgEnableAPI = true;
 		var wgEnableWriteAPI = true;
@@ -78,98 +78,45 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/RobotLab:Privacy_polic
 -->
 </style>		<script type="text/javascript" src="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
 	</head>
-<body class="mediawiki ltr ns-0 ns-subject page-Main_Page skin-monobook">
+<body class="mediawiki ltr ns-0 ns-subject page-Andrei_Furtuna skin-monobook">
 	<div id="globalWrapper">
 		<div id="column-content">
 	<div id="content">
 		<a name="top" id="top"></a>
-				<h1 id="firstHeading" class="firstHeading">Main Page</h1>
+				<h1 id="firstHeading" class="firstHeading">Andrei Furtuna</h1>
 		<div id="bodyContent">
 			<h3 id="siteSub">From RobotLab</h3>
 			<div id="contentSub"></div>
 									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
-			<p><br />
-We are interested in the mechanics of locomotion and manipulation -- the interface between robots and the physical world. We have studied exact optimal trajectories for vehicles, robot origami folding, knot-tying, grasping cloth, and robust minimal-sensing control of rigid-body contact tasks.  The PI is <a href="/~robotics/mediawiki/index.php/Devin_Balkcom" title="Devin Balkcom">Devin Balkcom</a>.
+			<table>
+<tr>
+<td style="vertical-align:top"> <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Leaf_s.jpg" class="image" title="Leaf s.jpg"><img alt="" src="/~robotics/mediawiki/images/9/98/Leaf_s.jpg" width="200" height="150" border="0" /></a></div>
+</td><td style="vertical-align:top">
+<p><b>Andrei Furtuna</b><br />
+<i>Office:</i> 203 Sudikoff<br />
+<i>Address:</i> 6211 Sudikoff Lab, Hanover, NH 03755<br /> 
+<i>Work phone:</i> 603-646-1610<br /> 
+furtuna at cs dot dartmouth dot edu<br /> 
 </p>
-<a name="Projects" id="Projects"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit&amp;section=1" title="Edit section: Projects">edit</a>]</span> <span class="mw-headline">Projects</span></h2>
-<table cellspacing="5">
+</td></tr></table>
+<a name="About_Me:" id="About_Me:"></a><h3><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;action=edit&amp;section=1" title="Edit section: About Me:">edit</a>]</span> <span class="mw-headline">About Me:</span></h3>
+<p>I am a Ph.D. student in the <a href="/~robotics/mediawiki/index.php/Main_Page" title="Main Page">Robotics Lab</a> in the <a href="http://www.cs.dartmouth.edu" class="external text" title="http://www.cs.dartmouth.edu" rel="nofollow">Computer Science</a> department at <a href="http://www.dartmouth.edu" class="external text" title="http://www.dartmouth.edu" rel="nofollow">Dartmouth College</a>. I am from Piatra Neamt, Romania, and did my undergraduate studies at Bard College, NY. My current research is on optimal trajectories for kinematic rigid bodies in the plane. 
+</p>
+<a name="Publications:" id="Publications:"></a><h3><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;action=edit&amp;section=2" title="Edit section: Publications:">edit</a>]</span> <span class="mw-headline">Publications:</span></h3>
+<ul><li> Andrei A. Furtuna, Devin J. Balkcom, Hamid Reza Chitsaz, Paritosh A. Kavathekar: Generalizing the Dubins and Reeds-Shepp cars: Fastest paths for bounded-velocity mobile robots. ICRA 2008: 2533-2539
+</li></ul>
 
-<tr>
-<td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
-<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
-<tr>
-<th> <a name="Knot-tying_machines" id="Knot-tying_machines"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Knot-tying machines</span></h2>
-</th></tr>
-<tr>
-<td style="color:#000;">  <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Knot.png" class="image" title="Knot.png"><img alt="" src="/~robotics/mediawiki/images/0/00/Knot.png" width="128" height="94" border="0" /></a></div> How hard is knot-tying, and what are the limitations of fixturing?  We have built fixtures such that string pushed through the fixture (by hand or pressurized air) is tied into a knot.
-</td></tr></table>
-</td><td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
-<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
-<tr>
-<th> <a name="Protein_structure_from_x-ray_scattering" id="Protein_structure_from_x-ray_scattering"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Protein structure from x-ray scattering</span></h2>
-</th></tr>
-<tr>
-<td style="color:#000;">  We have studied one component of the problem of elucidating three-dimensional structure from solution scattering data, determining the distribution of interatomic distances, the P(r) curve.  We propose a set of linear constraints to precisely describe the space of all consistent P(r) curves, as a polytope of histogram values or Fourier coefficients.
-</td></tr></table>
-</td></tr>
-<tr>
-<td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
-<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
-<tr>
-<th> <a name="Geodesics_for_rigid_planar_robots" id="Geodesics_for_rigid_planar_robots"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Geodesics for rigid planar robots</span></h2>
-</th></tr>
-<tr>
-<td style="color:#000;">  <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Omni.jpg" class="image" title="Omni.jpg"><img alt="" src="/~robotics/mediawiki/images/7/71/Omni.jpg" width="128" height="121" border="0" /></a></div>  We characterize the shortest paths for a model of rigid bodies in the plane.  These results include the shortest paths for the well-known Dubins and Reeds-Shepp cars as special cases, and also apply to a model of a differential-drive robot, to parts being stably pushed by a robot arm, and to several varieties of omni-directional mobile robots.
-</td></tr></table>
-</td><td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
-<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
-<tr>
-<th> <a name="Grasping_Cloth" id="Grasping_Cloth"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Grasping Cloth</span></h2>
-</th></tr>
-<tr>
-<td style="color:#000;">
-<table>
-<tr>
-<td style="vertical-align:top"> <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Cloth_grasping.png" class="image" title="Cloth grasping.png"><img alt="" src="/~robotics/mediawiki/images/b/b8/Cloth_grasping.png" width="128" height="96" border="0" /></a></div>
-</td><td style="vertical-align:top"> Pulling on the two ends of a string immobilizes the string.  Pulling on the four corners of a square piece of cloth immobilizes the cloth.  Pulling on the five points of a star immobilizes the star.  For all these examples, it is sufficient to just grasp the convex vertices.  Is this true in general?  We have shown that there exist polygons for which up to one third of concave vertices need to be grasped (example shown at left), but that there are no polygons for which more than one third of the concave vertices must be grasped.
-</td></tr></table>
-</td></tr></table>
-</td></tr>
-<tr>
-<td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
-<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
-<tr>
-<th> <a name="Robotic_origami_folding" id="Robotic_origami_folding"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Robotic origami folding</span></h2>
-</th></tr>
-<tr>
-<td style="color:#000;">  <div class="floatleft"><a href="/~robotics/mediawiki/index.php/File:Origami.jpg" class="image" title="Origami.jpg"><img alt="" src="/~robotics/mediawiki/images/1/12/Origami.jpg" width="128" height="77" border="0" /></a></div>  We built a robot capable of folding a paper hat, paper airplane, and paper cup. We have also analyzed more complicated folding techniques;for example, our work with Erik and Martin Demaine questions whether ordinary paper shopping bags can be mathematically folded.
-</td></tr></table>
-</td><td style="width:50%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
-<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
-<tr>
-<th> <a name="Rigid-body_manipulation" id="Rigid-body_manipulation"></a><h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.1em 0.2em;"> <span class="mw-headline">Rigid-body manipulation</span></h2>
-</th></tr>
-<tr>
-<td style="color:#000;">  We  designed an algorithm for computing all possible forces and torques consistent with constraints on the motion of rigid bodies, and used the algorithm to compute parts-seating plans that are robust to incomplete or incorrect sensor information and to frictional indeterminacy.
-</td></tr></table>
-</td></tr></table>
-<a name="Undergraduate_projects" id="Undergraduate_projects"></a><h2><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit&amp;section=2" title="Edit section: Undergraduate projects">edit</a>]</span> <span class="mw-headline"> Undergraduate projects</span></h2>
-<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/~robotics/mediawiki/index.php/File:Swatbot.JPG" class="image" title="Wheeled SWAT robot"><img alt="" src="/~robotics/mediawiki/images/thumb/e/e3/Swatbot.JPG/180px-Swatbot.JPG" width="180" height="135" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/~robotics/mediawiki/index.php/File:Swatbot.JPG" class="internal" title="Enlarge"><img src="/~robotics/mediawiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Wheeled SWAT robot</div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/~robotics/mediawiki/index.php/File:Climbingrobot.jpg" class="image" title="Toy climbing robot"><img alt="" src="/~robotics/mediawiki/images/1/10/Climbingrobot.jpg" width="180" height="138" border="0" class="thumbimage" /></a>  <div class="thumbcaption">Toy climbing robot</div></div></div>
-<p>At the request of the central New Hampshire SWAT team, Bell, Krishnan, and undergraduate Hoy built wheeled and tracked robots for remote surveillance.  The robots met with great enthusiasm, but currently are in need of some repair and possibly redesign.  Contact Balkcom if you're an undergraduate at Dartmouth and would like to work on this project.  
-</p><p>Undergraduate Matt Elwin won the "class of 1959 prize", for his work on folding cartons with fixtures.  Bell, while an undergraduate, won the C.S. department's Kemeny prize for his work on a toy rock-climbing robot, and published a short paper and poster about this robot at ICRA 2006.  Rosa, Pyke, and Kevin Olds worked on the problem of freeing mobile robots stuck in sand, which led to a short paper/poster at the IEEE ICRA conference.
-</p>
 <!-- 
 NewPP limit report
-Preprocessor node count: 57/1000000
-Post-expand include size: 6726/2097152 bytes
-Template argument size: 2305/2097152 bytes
+Preprocessor node count: 8/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key robo_wiki:pcache:idhash:1-0!1!0!!en!2 and timestamp 20090513011915 -->
+<!-- Saved in parser cache with key robo_wiki:pcache:idhash:37-0!1!0!!en!2 and timestamp 20090513081548 -->
 <div class="printfooter">
-Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Main_Page">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Main_Page</a>"</div>
+Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Andrei_Furtuna">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Andrei_Furtuna</a>"</div>
 						<!-- end content -->
 						<div class="visualClear"></div>
 		</div>
@@ -181,17 +128,17 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 		<div class="pBody">
 			<ul>
 	
-				 <li id="ca-nstab-main" class="selected"><a href="/~robotics/mediawiki/index.php/Main_Page" title="View the content page [c]" accesskey="c">Page</a></li>
-				 <li id="ca-talk" class="new"><a href="/~robotics/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
-				 <li id="ca-edit"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
-				 <li id="ca-history"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+				 <li id="ca-nstab-main" class="selected"><a href="/~robotics/mediawiki/index.php/Andrei_Furtuna" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/~robotics/mediawiki/index.php?title=Talk:Andrei_Furtuna&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
 		</div>
 	</div>
 	<div class="portlet" id="p-personal">
 		<h5>Personal tools</h5>
 		<div class="pBody">
 			<ul>
-				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Main_Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Andrei_Furtuna" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
 			</ul>
 		</div>
 	</div>
@@ -245,10 +192,10 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 		<h5>Toolbox</h5>
 		<div class="pBody">
 			<ul>
-				<li id="t-whatlinkshere"><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere/Main_Page" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
-				<li id="t-recentchangeslinked"><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Main_Page" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-whatlinkshere"><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere/Andrei_Furtuna" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Andrei_Furtuna" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
 <li id="t-specialpages"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
-				<li id="t-print"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;oldid=255" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
+				<li id="t-print"><a href="/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/~robotics/mediawiki/index.php?title=Andrei_Furtuna&amp;oldid=268" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
 		</div>
 	</div>
 		</div><!-- end of the left (by default at least) column -->
@@ -256,8 +203,8 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 			<div id="footer">
 				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/~robotics/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
 			<ul id="f-list">
-					<li id="lastmod"> This page was last modified on 30 April 2009, at 00:43.</li>
-					<li id="viewcount">This page has been accessed 1,813 times.</li>
+					<li id="lastmod"> This page was last modified on 5 May 2009, at 18:52.</li>
+					<li id="viewcount">This page has been accessed 199 times.</li>
 					<li id="privacy"><a href="/~robotics/mediawiki/index.php/RobotLab:Privacy_policy" title="RobotLab:Privacy policy">Privacy policy</a></li>
 					<li id="about"><a href="/~robotics/mediawiki/index.php/RobotLab:About" title="RobotLab:About">About RobotLab</a></li>
 					<li id="disclaimer"><a href="/~robotics/mediawiki/index.php/RobotLab:General_disclaimer" title="RobotLab:General disclaimer">Disclaimers</a></li>
@@ -266,4 +213,4 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 </div>
 
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
-<!-- Served in 0.306 secs. --></body></html>
+<!-- Served in 0.241 secs. --></body></html>

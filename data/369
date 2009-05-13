@@ -1,267 +1,48 @@
-http://www.cs.dartmouth.edu/~rockmore/publications.html
+http://www.cs.dartmouth.edu/~thc/bank
 3
-<HEAD>
-<TITLE>Selected Publications </TITLE>
-<BODY>
+<html> <head>
+<title>Bank Deposit Slips</title>
+</head>
 
-<H1>Selected Publications </H1>
+<body>
+<h1>Bank Deposit Slips</h1>
 
-<HR>
+I don't mean to pick on my bank&mdash;it's a very well run
+bank&mdash;but I noticed something odd about its deposit slips.  Maybe
+your bank's deposit slips have the same quirk.
 
-<UL>
-   <LI> D. Maslen,  M. Orrison and D. Rockmore,
-&quot;Computing isotypic projections with the Lanczos iteration&quot;
-<em> SIAM J. Matrix Analysis and Appplications </em>
-     <A HREF= "lanczos-siam.pdf">
-         PDF version</A>
-<b> 25 </b>  (3), 784--803, (2004).
-</UL>
+<p>
 
-<UL>
-<LI>  R. Foote, G. Mirchandani, and D. Rockmore,
-&quot;Two-dimensional wreath product transforms&quot;
- <A HREF= "2d-wp.pdf">
-    PDF version</A>
-<em> J. Symbolic Computation </em>
-<b> 37 </b> (2) pp. 187--207, (2004).
-</UL>
+<center>
+<img src="DepositSlip.gif">
+</center>
 
-<UL>
-   <LI> D. Rockmore,
-&quot;Are you my Mother...Tongue?&quot;
-     <A HREF= "new-lang-evo.pdf">
-     PDF version</A>
-    <EM>SFI Bulletin, to appear</EM>
-</UL>
-<UL>
-   <LI> C. Moore, D. Rockmore and A. Russell
-&quot;Generic Quantum FFTs&quot;
-     <A HREF= "qfftcamera.pdf">
-     PDF version</A>
-     <EM>SODA 2004, to appear</EM>
-</UL>
-<UL>
-   <LI> C. Moore, D. Rockmore, A. Russell, and L. Schulman
-&quot;The Hidden Subgroup Problem in Affine Groups: Basis Selection in Fourier Sampling&quot;
-     <A HREF= "last-affine.pdf">
-     PDF version</A>
-     <EM>SODA 2004, to appear</EM>
-</UL>
+<p>
 
-<UL>
-   <LI> D. Rockmore,
-&quot;Recent Progress and Applications in Group FFTs&quot;
-     <A HREF= "nato-1.pdf">
-     PDF version</A> In
-     <EM> "Computational Noncommutative Algebra and Applications", J. Byrnes, ed., to appear</EM>
-</UL>
+The red arrow points to the line that gives the total of all your
+deposits.  This line has 5 places to the left of the decimal point.
 
-<UL>
-   <LI>D. M. Healy, Jr., P. Kostelec, and D. Rockmore
-  &quot; Towards Safe and Effective High-Order Legendre Transforms with Applications to FFTs for the 2-sphere&quot;
-     <A HREF= "adv-comp-math.pdf">
-     PDF version</A>
-     <EM> Advances in Computational Mathematics</EM><b>21 </b> (1-2): 59-105, July 2004
-</UL>
+<p>
 
-<UL>
-   <LI>D. M. Healy, Jr., P. Kostelec,  D. Rockmore, and S. Moore
-  &quot; FFTs for the 2-Sphere-Improvements and Variations &quot;
-     <A HREF= "jfaaS2official.pdf">
-     PDF version</A>
-     <EM>Journal of Fourier Analysis and Applications </EM><b>9 </b> 4: 341--385, July 2003</EM>
-</UL>
+The blue arrow points to the line in which you write how much cash
+back you want.  This amount should be zero or positive.  This line
+also has 5 places to the left of the decimal point.
 
-<UL>
-   <LI> D. Rockmore,
-&quot;Network Research: Thinking about the web requires a web of thinking&quot;
-     <A HREF= "SFI-Networks-Final.pdf">
-     PDF version</A>
-     <EM>For SFI End of year report, Spring 2003</EM>
-</UL>
+<p>
 
-<UL>
-   <LI> A. Gamburd J. Lafferty, and D. Rockmore,\item Eigenvalues spacings for quantized cat maps 
-&quot;
-{\em J. Phys A}, to appear.
-</UL>
+The green arrow points to the line giving the total amount to deposit.
+It equals the amount on the red-arrow line minus the amount on the
+blue-arrow line.  This line has 6 places to the left of the decimal
+point.
 
+<p>
 
-<UL>
-   <LI>O. Bastert,  D. Rockmore, P. Stadler, and G. Tinhofer,
-&quot;
-Landscapes on spaces of trees 
+How can you possibly subtract a 5-digit number from a 5-digit number
+and end up with a result that requires 6 digits?
 
-{\em Appl. Math. Comput.},
-{\bf 131}   (2002), no. 2-3, 439--459.
-</UL>
-
-<UL>
-   <LI> W. Hordijk, P. Kostelec, D. Rockmore, and P. Stadler
-&quot; Fast Fourier transforms for fitness landscapes
-(with )
-to appear in {\em Applied and Computational Harmonic Analysis},
-{\bf 12} No. 1, Jan 2002, pp. 57-76.
-</UL>
-
-<UL>
-   <LI> D. Rockmore,
-&quot;The FFT - An algorithm the whole family can use&quot;
-     <A HREF= "cse-fft.pdf">
-     PDF version</A>
-     <A HREF= "cse-fft.ps">
-     Postscript version</A>
-     <EM>Computing in Science & Engineering, January/February 2000, Volume 2, Number 1, pp. 60--64. </EM>
-</UL>
-
-<UL>
-
-   <LI> K.-L. Kueh, T. Olson, D. Rockmore and K.-S. Tan,
-&quot;Nonlinear approximation theory on finite groups&quot;
-     <A HREF= "nla.pdf">
-     PDF version</A>
-     <A HREF= "nla.ps">
-     Postscript version</A>
-   <EM>Technical Report PMA-TR99-191, Department of Mathematics, Dartmouth College, November, 1999, to appear in J. Fourier Analysis and Applications</EM>
-</UL>
-<UL>
-   <LI> R. Foote, G. Mirchandani, D. Rockmore, D. Healy and T. Olson
-     <A HREF = "part1.ps.gz">
-     &quot;A wreath product group approach to signal and image processing: Part I -- multiresolution analysis &quot;</A>
-     <EM>IEEE Trans. in Signal Processing, vol. 48(1), 
-2000, pp. 102--132</EM>
-</UL>
-<UL>
-   <LI> R. Foote, G. Mirchandani, D. Rockmore, D. Healy and T. Olson
-     <A HREF = "part2.ps.gz">
-     &quot;A wreath product group approach to signal and image processing: Part II -- convolution, correlations and applications&quot;</A>,
-     <EM>IEEE Trans. in Signal Processing, 
-vol. 48(3), 2000, pp. 749--767.</EM>
-</UL>
-
-
-<UL>
-   <LI> D. Maslen and D. Rockmore, 
-     <A HREF = "duco.ps">
-     &quot;Double coset decompositions and computational harmonic analysis on groups,&quot;</A>
-     <EM>J. Fourier Analysis and Applications, Vol. 6(4), 2000</EM>
-</UL>
-
-
-<UL>
-   <LI> D. Rockmore, 
-     <A HREF = "app-fft.ps.gz">
-     &quot;Some applications of generalized FFTs&quot;</A>
-     <EM>in Proceedings of the DIMACS
-Workshop on Groups and Computation, June 7-10, 1995 eds. L. 
-Finkelstein and W. Kantor, (1997) 329--369.
-</EM>
-</UL>
-
-<UL>
-   <LI> D. Maslen and D. Rockmore, 
-     <A HREF = "dimacs-0.ps">
-     &quot;Generalized FFTs -- A survey of some recent results&quot;</A>
-     <EM>Proceedings of the DIMACS
-Workshop on Groups and Computation, June 7-10, 1995 eds. L. 
-Finkelstein and W. Kantor, (1997) 183--237.
-</EM>
-</UL>
-
-<UL>
-   <LI> D. Maslen and D. Rockmore, 
-     <A HREF = "sov-i.ps">
-     &quot;Separation of Variables and the Computation of Fourier Transforms on Finite Groups, I&quot;</A>
-     <EM>Journal of the American Math Society, (1)10 (1997) 169--214.</EM>
-</UL>
-
-<UL>
-   <LI> J. Driscoll, D. Healy, D. Rockmore
-     <A HREF = "24012.ps.gz">
-     &quot;Fast Polynomial Transforms with Applications to Data Analysis for Distance Transitive 
-Graphs&quot;</A>
-     <EM>SIAM J. Comp. 26, 1997, pp. 1066--1099.
-</EM>
-</UL>
-
-<UL>
-   <LI> D. Rockmore, 
-     <A HREF = "nwr0.ps">
-     &quot;Fast Fourier Transforms for Wreath Products&quot;</A>
-     <EM>, J. Applied and Computational Harmonic Analysis, 
-2, (1995) 279--292.</EM>
-</UL>
-
-
-
-<UL>
-   <LI> J. Lafferty and D. Rockmore, 
-     <A HREF = "newjohn.ps">
-     &quot;Numerical Investigation of the Spectrum for Certain Families of Cayley Graphs&quot;</A>
-     <EM>, DIMACS Series in Disc. Math. and Theor. Comp. Sci., Volume 10,
-J. Friedman, ed., (1993), 63-73. (Note: the postscript is WITHOUT the figures. We are happy to provide reprints which contain them.)</EM>
-</UL>
-
-
-<UL>
-   <LI> J. Lafferty and D. Rockmore, 
-     <A HREF = "spacings.ps">
-     &quot;Level Spacings for SL_2(F_p)&quot;</A>
-     <EM>, Submitted for publication</EM>
-</UL>
-
-<UL>
-   <LI> J. Lafferty and D. Rockmore, 
-     <A HREF = "stec.ps">
-     &quot;Spectral Techniques for Expander Codes&quot;</A>
-     <EM>, (Extended Abstract) 1997 Symposium on Theory of Computation</EM>
-</UL>
-
-
-<UL>
-   <LI> P. Diaconis and D. Rockmore  
-     <A HREF = "dimpaper.ps">
-     &quot;Efficient Computation of Isotypic Projections for 
-the Symmetric Group&quot;</A>
-     <EM>, DIMACS Series in Disc. Math. and Theor. Comp. Sci., Volume 11,
-L. Finkelstein and W. Kantor (eds.), (1993), 87-104.</EM>
-</UL>
-
-<UL>
-   <LI> D. Maslen, and D. Rockmore, 
-     <A HREF = "submitversion.ps">
-     &quot;Adapted diameters and the efficient computation of 
-Fourier transforms on finite groups&quot;</A>
-     <EM>, Proc. 6 th ACM-SIAM SODA, pp. 253-262</EM>
-</UL>
-
-
-
-<UL>
-   <LI> D. Rockmore, 
-     <A HREF = "abf1.ps">
-     &quot;Fast Fourier Analysis for Abelian Group Extensions&quot;</A>
-     <EM>, Adv. in Appl. Math., Vol 11, 164-204 (1990) </EM>
-</UL>
-
-
-
-<UL>
-   <LI> D. Rockmore, K.-S. Tan
-     <A HREF = "flgnz.ps">
-     &quot;A Note on the Order of Finite Subgroups of GL(n,Z)&quot;</A>
-     <EM>, Arch. der Math., Vol 64, 283-288 (1995) </EM>
-</UL>
-
-
-<UL>
-   <LI> D. Rockmore, K.-S. Tan, R. Beals
-     <A HREF = "funcfld.ps">
-     &quot;Deciding Finiteness for Matrix Groups over Function Fields&quot;</A>
-     <EM>, Submitted for Publication </EM>
-</UL>
-
-<HR>
-<H4> <A HREF="http://coos.dartmouth.edu/~zhu/faculty/faculty.html">Back to Faculty List</A> </H4>
-
-ke-i
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Sun Apr 19 23:21:15 2009
+<!-- hhmts end -->
+</body> </html>

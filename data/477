@@ -1,3 +1,31 @@
-http://www.cs.dartmouth.edu/~tuobinwang/_blank
+http://www.cs.dartmouth.edu/~priya/publications.html
 3
-xQ)
+<html>
+  <head>
+    <title> Priya Natarajan - Publications </title>
+  </head>
+  <body style="background-color:cornsilk">
+  	<p><span style="color:Darkorange;font-size:115%"><b>Unrefereed Articles</b></span>
+  	<ul>
+  	<li> Priya Natarajan, Thomas H. Cormen, and Elena Riccio Davidson <br/>
+  	    <a href="http://www.cs.dartmouth.edu/reports/TR2007-596.pdf ">When One Pipeline Is Not Enough</a><br/>
+  	    Dartmouth College Computer Science Technical Report TR2007-596
+  	</li>
+  	</ul>
+  	</p>
+
+	<p><span style="color:Darkorange;font-size:115%"><b>Posters</b></span>
+	<ul>
+	<li> Priya Natarajan, Thomas H. Cormen, and Elena Riccio Davidson <br/>
+	<span style="color:Darkblue">Out-of-core Sorting: Oblivious vs. Distribution-based</span> <br/>
+	Computer Science Research Symposium, Dartmouth College, September 2006.
+	</li>
+	<li>Priya Natarajan, Thomas H. Cormen, and Elena Riccio Davidson <br/>
+	<span style="color:Darkblue">FG vs. TBB: a Comparison </span><br/>
+	Computer Science Research Symposium, Dartmouth College, September 2006.
+	</li>
+	</ul>
+	</p>
+  </body>
+</html>
+É

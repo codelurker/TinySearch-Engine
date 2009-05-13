@@ -1,156 +1,76 @@
-http://www.cs.dartmouth.edu/~fabio/teaching/cs88-spring06
+http://www.cs.dartmouth.edu/~rangak/Personal.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-		<title>CS88/CS188 - Topics in Computer Graphics - Spring 2006</title>
-	<meta name="author" content="Fabio Pellacini" />
-	<link rel="stylesheet" type="text/css" href="style/style.css" />
-</head>
+<link type="text/css" href="index.css" rel="stylesheet" title="default"></head><body>
 
-<body>
+<div id="pageHeader">
+					<h1>
+					<br>Ranganath Kondapally
+	<!--					<a>
+						<xsl:attribute name="href">
+							<xsl:value-of select="soul/logo/about/link/url"/>
+						</xsl:attribute>
+					<img>
+						<xsl:attribute name="src">
+							../images/<xsl:value-of select="soul/logo/image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="soul/logo/description"/>
+						</xsl:attribute>
+					</img> 
+					</a>-->
+				</h1>
+				</div>
 
-<div class="pagebackground">
 
-<div class="pagedecorationbefore"></div>
-<div class="pagedecoration">
+	<div id="direct">
+		<h1>
 
-<div class="page">
 
-<div class="header">
-<div class="title">Topics in CS: Topics in Computer Graphics</div>
-<div class="subtitle">CS88/CS188 - Spring 2006</div>
-<div class="subtitle">Instructor: Fabio Pellacini</div>
-</div>
+				<a href="index.html">Home</a>
+				<a href="Research.html">Research</a>
+				<a href="Resume.html">Resume</a>
+				<a href="Personal.html">Personal</a>
+				<a href="Contact.html">Contact</a>
+		</h1>	
+	</div>
+						<div id="central">
+<!--	<div id="derived">
+				<p>
+					<br>
+					<br>
+					<br>
+				<a href="http://iiit.net/">About IIIT</a><br><br>
 
-<div class="navigation">
-<span class="navigationitem"><a href="index.html">About</a></span>
-<span class="navigationitem"><a href="schedule.html">Schedule</a></span>
-<span class="navigationitem"><a href="projects/projects.html">Projects</a></span>
-</div>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/resources.html">Resources</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/research.html">Research</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/rpl/xml/index.php">Papers Library</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/courses.html">Courses</a>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br>
+				</p>
+	</div>
+	-->			<div id="mesg">
+		<p id="intro">
+			Loading...........				
+		</p>
 
-<div class="content">
-<h1>About</h1>
 
-<h2>Course Description</h2>
-<p>The Adv. Computer Graphics course will introduce students to current research topics in Computer Graphics. 
-We will focus in particular on real-time rendering and computational photography.</p>
-<p>
-Students will be required to read papers, present some of the topics and develop a project during 
-the course. While I will have a list of interesting projects to choose from,
-students are welcome to propose their own projects (which I will review before accepting).</p>
+				</div>
+				</div>
 
-<h2>Administration</h2>
-
-<div class="listBlock">
-<div class="listBlockTitle">Instructor</div>
-<ul>
-<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) | Sudikoff 153 | Office hour: </li>
-</ul>
-</div>
-
-<div class="listBlock">
-<div class="listBlockTitle">Lectures</div>
-<ul>
-<li class="listBlockItem">TuTh 2:00-3:50pm | where: Sudikoff 213</li>
-<li class="listBlockItem">Xhour: W 4:15-5:05pm | Used sometimes for lectures </li>
-</ul>
-</div>
-
-<h2>Coursework</h2>
-
-<h3>Paper Presentation</h3>
-
-<p>
-You will be required to present various papers during the course.
-It is suggested that you choose presentation in an area of interest to you and
-as related to your final project as possible.
-</p>
-
-<p>Presentations do not need to be long, but should clearly address paper
-motivation, background, contribution and results.</p>
-
-<h3>Class Participation</h3>
-
-<p>You are required to read all papers presented in the course, even if you are
-not assigned to present them. Discussion will follow each paper presentation and
-participation during the discussion will be evaluated.</p>
-
-<h3>Project</h3>
-
-<p>One of the main goals of the course is to get hands on experience implementing
-come graphics algorithm into a working system. While I will provide interesting ideas
-for projects, you are free to choose the topic that mostly interest you, 
-which I will have to approve.</p>
-
-<p>In general, it is possible to work on a project in two ways.<br/>
-For a successfull <em>implementation project</em>, students are required to implement some of the main
-ideas from one or two papers. A careful implementation and cool demo is expected at the end of the term.<br/>
-For a successfull <em>exploration project</em>, students are required to explore a novel idea related to
-one of the topics covered in class. The idea might not work at the end, but a suitable implementation should be
-presented nonetheless.<br/>
-In general expect implementation projects require more coding than exploration projects.
-</p>
-
-<p>Projects can be either done alone or in groups of no more than two students. 
-When grading, it is expected that group projects have roughly twice the 
-contribution than individual ones.</p>
-
-<p>Expecially for exploration projects, but even for implementation ones, 
-you should expect to work closely with the instructor during the quarter.
-This will make the project more successfull, the research more interesting, 
-and the class more fun for all.<br/>
-We will have brief in-class weekly progress reports as well as longer biweekly sessions
-to discuss the project. Ultimately it is your responsability though to seek help
-if you feel stuck during the work.
-</p>
-
-<h3>Grading, Late Assignments and Extra credit</h3>
-
-<p>The final grade from this class will be decided by your class participation (15%),
-your presentations (%25%) and your project (60%).<br/>
-Please note that I will evaluate your project twice, 
-roughly in the middle (25%) and at the end of class (35%).
-This is to encourage you to make progress on your project early on and give 
-you more feedback on how you are doing during the class.
-</p>
-
-<p>
-I will not accept late submissions for any of the assignments. Exception to this rule might 
-be made for special cases only if the professor is informed way before the deadline and at his 
-sole discretion.</p>
-
-<p>Note that I am including here rough percentage of the final grade as indication only.
-These are subject to change and it is possible that I will weight things differently 
-at the end of the class.</p>
-
-<h3>Working Together and Academic Integrity</h3>
-
-<p>You are encouraged to talk to other students about the topics discussed in class
-as well as your project.  The goal is to get a deeper understanding of
-the material and further develop ideas related to your project.</p>
-
-<p>Once it gets to preparing your presentation and your project,
-you should only work by yourself or within your group.</p>
-
-<p>You are welcome to use any source of information that can deepen your understandiung 
-of the material. For some project, it may be necessary to include code/components available from elsewhere.
-In this case, please consult me before doing so.</p>
-
-</div>
-
-<div class="footer">
-Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
-</div>
-
-</div>
-
-</div>
-<div class="pagedecorationafter"></div>
-
-</div>
-
-</body>
-</html>nolaá
+				<div id="end">
+				<br>
+				</div>
+				<div id="bottom">
+				Designed &amp; maintained by K.Ranganath . Any queries/problems mail to 
+rangak AT cs [.] dartmouth [.] edu
+				<br>
+Microsoft Windows Terminal Services, Windows Vista and Windows Server 2008 are trademarks of Microsoft. <br>Acknowledments to www.mezzoblue.com/zengarden for css resources and help
+				
+				</div>
+			</body></html>

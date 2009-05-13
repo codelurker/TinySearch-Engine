@@ -1,162 +1,202 @@
-http://www.cs.dartmouth.edu/~sws/oasis
+http://www.cs.dartmouth.edu/farid/group.html
 2
-<html> 
-<head> 
-<title>The new expense forms</title> 
-</head> 
-<body> 
-<table width=100%>
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid: Image Science Group </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<HR>
+<table align=center width=700>
 <tr>
-<td align=center>
-<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">
-</td>
-<td align=left>
-<b>
-<big><big>
- 
-The new expense forms
-</big></big><br>
+<td align=center> <font size=-1><b><a href="home.html">HOME</a></b></font> </td>
+<td align=center> <font size=-1><b>PEOPLE</b></font> </td>
+<td align=center> <font size=-1><b><a href="publications">PAPERS</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="research">RESEARCH</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="teaching">TEACHING</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="tutorials">TUTORIALS</a></b></font> </td>
+</tr>
+</table>
+<HR>
+<BR>
 
-</b>
-<td align=right>
-<i> www.cs.dartmouth.edu/~sws/oasis/index.shtml<br>
+<table align=center cellpadding=5 width=750>
+<tr>
+<td valign=top align=left valign=top>
+<BR>
+<BR>
+<IMG SRC="group2.png" border="0" width=300 height=237>
+</td> 
 
-Last modified: 08/07/08 10:58:23 AM
-</i>
+<td align=left valign=center> 
+<table>
+<tr><td>
+The research of the <b>Image Science Group</b> focuses on topics in
+digital forensics, image analysis, computer vision, and human perception. 
+
+<BR><BR>
+The Image Science Group <a href="isg">repository</a> <BR>
+The Image Science Group <a href="photos/photos.html">photo gallery</a> <BR>
+The Image Science Group Year in Review: <BR>
+&nbsp&nbsp
+        <a href="yearinreview08.html">2008</a> | 
+        <a href="yearinreview07.html">2007</a> | 
+        <a href="yearinreview06.html">2006</a> | 
+        <a href="yearinreview05.html">2005</a> | 
+        <a href="yearinreview04.html">2004</a> | 
+        <a href="yearinreview03.html">2003</a>
+
+<BR><BR>
+</td> </tr>
+<tr> <td class=xl999>
+We are grateful for the support from: <BR>
+<font size=-1>
+        &nbsp&nbsp National Science Foundation (DBI-0754773), 2008 <BR>
+        &nbsp&nbsp National Science Foundation (CNS-0708209), 2007 <BR>
+        &nbsp&nbsp Department of Homeland Security (2006-CS-001-000001), 2007 <BR>
+        &nbsp&nbsp John Simon Guggenheim Fellowship, 2006 <BR>
+        &nbsp&nbsp US Air Force (FA8750-06-C-0011), 2006 <BR>
+        &nbsp&nbsp National Science Foundation (DEB-0516104), 2005 <BR>
+	&nbsp&nbsp Bureau of Justice Assistance (2005-DD-BX-1091), 2005 <BR>
+        &nbsp&nbsp Department of Homeland Security (2000-DT-CX-K001), 2005 <BR>
+        &nbsp&nbsp Microsoft Corp. 2005, 2006, 2007, 2009 <BR>
+        &nbsp&nbsp Adobe Systems, Inc., 2004, 2006, 2008 <BR>
+	&nbsp&nbsp Sony Music Fellowship, 2004 <BR>
+        &nbsp&nbsp Alfred P. Sloan Fellowship, 2002 <BR>
+	&nbsp&nbsp National Institute of Justice (2000-DT-CX-K001), 2000 <BR>
+	&nbsp&nbsp National Science Foundation CAREER (IIS-99-83806), 1999 <BR>
+	&nbsp&nbsp National Science Foundation (EIA-98-02068), 1998 <BR>
+</font>
+</td></tr>
+</table>
 </td>
 </tr>
 </table>
-<hr>
 
-<p>
 
-<p>
-          
- 
-<p>
-When Dartmouth switched to the new forms, I was thrown right 
-into the mess: since I was Dartmouth liaison to a number of external colleagues who were in the process of filing expenses, and were very confused.
-<p>
-Here's what I've worked out.   (And a big shout-out to Tracy Flynn-Scott,
-Mary Wood, and Tammy Chapin for their help here.  Especially Tracy, since I'm not even her department!)
-<p>
-
-<hr>
-<h2>Accounts and Forms</h2>
-<hr>
-<p>
-As before, there are "Travel Forms" (for travel) and "Request for
-Payment" forms (for other types of expenses).  However, under the new system,
-there are <i>two sets</i> of these:
-<ul>
-<li> One for "grant" accounts (e.g., NSF).   These live under the 
-tuber-invoking acronym "PTAEO."
-<li> One for non-grant accounts (e.g., IRR).  These live under the
-name "General Ledger."
-</ul>
-If you're not sure, ask your local Grant Wizard.  (E.g., industry
-sponsorship can be a bit ambiguous.)
-<p>
-The different sets live in different places on the Dartmouth web site.
-<p>
-I've collected the forms in one place and tried to set up the print area
-and pagination to be sane.  Enjoy:
-<ul>
-<li> <a href="grant-te2.xls"><b>grant-te2.xls</b></a>
-<li> <a href="grant-rfp.xls"><b>grant-rfp.xls</b></a>
-<li> <a href="nongrant-te2.xls"><b>nongrant-te2.xls</b></a>
-<li> <a href="nongrant-rfp.xls"><b>nongrant-rfp.xls</b></a>
-</ul>
-(I revised the TE forms in August 2008 to reflect updated mileage rates.)
-<p>
-<hr>
-<h2>Zillion-digit "Chart Strings"</h2>
-<hr>
-<p>
-<a href="https://oracle-dev.dartmouth.edu/dart/groucho/dartof.dc_account_lookup.lookup"><b>Here</b></a> is a Dartmouth page that
-will convert the old account codes into very long "chart strings."   
-(This might require authentication, and thus not be accessible to non-Dartmouth folks.)
-<p>
-<hr>
-<h2>Travel Forms</h2>
-<hr>
-<p>
-These are the most puzzling.  (As a colleague from CMU pointed out,
-they go "both forwards and backwards.")
-<p>
-<ul>
-<li> Go to the "Summary" sheet.  
-<ul>
-<li> Fill out your name and such on the top.  
-<li> For the "T" number (on the top right), enter your initials and the date of the first expense.  (E.g., "SWS080407.")
-<li> Go down to the bottom, and fill out your name, title, date in the "approval" part.
-<li> If you feel ambitious, you might go down to the first line
-of the big chart and enter the  zillion-character account code, 
-to indicate to your Grant Wizard where you want the charges to go.
-</ul>
-<li> Then, go to the first "Supplemental Worksheet."  
-<ul>
-<li> Fill out your travel costs, as with the old forms.   
-<li> BUT....  if you booked things like airfare or Dartmouth Coach through 
-College Travel, don't enter it on this page!  Even though it tells you to enter "airfare" here.
-<li> If your travel spills to more than one week, then go to additional "Supplemental Worksheets."
-</ul>
-<li> Then, go back to the "Details" page.
-<ul>
-<li> If you have direct-billed expenses (such as airfare or bus via College Travel), enter them on the bottom section here.
-<li> If you need to add annotations to explain things on your supplemental worksheet (e.g., "Dinner on Day 4 covered all the other Dartmouth personnel too, but no alcohol"), add them here as well.
-</ul>
-<li> Then print it out and sign it.  (You should print out all the pages
-on which you entered something.   I've tried to set up the pages and print
-area appropriately; select "Print" from the drop-down menu, "Entire Workbook,"
-and then whatever page range, usually 1 to 3.)
-</ul>
-<p>
-If you have foreign travel that requires currency conversion...  good luck.   (I haven't had to deal with that yet.)
-<p>
-<hr>
-<h2>But my external colleague sent in an old travel form!</h2>
-<hr>
-<p>
-Try filling out the new form, and for "signature" 
-add the note "see old-style travel form, attached."   That's worked for me.
-<p>
-<hr>
-<h2>"Request for Payment" Forms</h2>
-<hr>
-<p>
-These are simpler.    For the "RS" number, use your initials and date
-of first purchase (e.g,, "SWS080408.")
-<p>
-
- 
-<p>
-
-<hr>
-<table width=100%>
+<table align=center cellpadding=3 width=750>
 <tr>
-<td align=center>
-<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/icons/back.gif" ALT="">
+   <td class=xl999 align=left valign=top colspan=3> 
+     <b>Position Available:</b> <a href=job.html>Postdoctoral Research Fellow</a>
+   </td>
+</tr>
+
+<tr>
+<td class=xl999 align=left valign=top> 
+<b> Current Members</b> <BR>
+        &nbsp&nbsp Daniel Hopkins '10 <BR>
+        &nbsp&nbsp <a href="http://www.cs.dartmouth.edu/~erickee"> 
+	        Eric Kee</a> <BR>
+	&nbsp&nbsp  <a href="http://www.cs.dartmouth.edu/~whwang">
+	        Weihong Wang</BR> </a>
+	&nbsp&nbsp  Bennet Vance</BR>
+	&nbsp&nbsp  Jeff Woodward</BR>
 </td>
-<td align=left>
-<b>
- 
-<a href="/~sws/">
-Back home</a> 
-</b>
+
+<td class=xl999 align=left valign=top> 
+<b> Status</b> <BR>
+        &nbsp&nbsp Math <BR>
+	&nbsp&nbsp Ph.D., CS <BR>
+	&nbsp&nbsp Ph.D., CS <BR>
+	&nbsp&nbsp Programmer <BR>
+	&nbsp&nbsp Programmer <BR>
 </td>
-<td align=right>
-<i>Maintained by 
-<a href="http://www.cs.dartmouth.edu/~sws/">Sean Smith</a>,
-<a href="mailto:sws@cs.dartmouth.edu">sws@cs.dartmouth.edu</a>
-</i>
+
+
+<td class=xl999 align=left valign=top>
+<b> Research</b> <BR>
+        &nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
+        &nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
+        &nbsp&nbsp <a href="research/tampering.html">Digital Video Forensics</a> <BR>
+        &nbsp&nbsp - <BR>
+        &nbsp&nbsp - <BR>
+</td>
+</tr>
+
+
+<tr>
+<td class=xl999 align=left valign=top>
+<b> Former Members</b> <BR>
+	&nbsp&nbsp Fred Henle (2002) <BR>
+ 	&nbsp&nbsp <a href="http://www.mit.edu/~kimo">
+	        Kimo Johnson</a> (2007)<BR>
+	&nbsp&nbsp <a href="http://www.cs.albany.edu/~lsw/">
+	        Siwei Lyu</a> (2005) <BR>
+	&nbsp&nbsp David Martin '00 <BR>	
+	&nbsp&nbsp Joseph Pechter '04 <BR>
+	&nbsp&nbsp William Pechter '04 <BR>
+	&nbsp&nbsp Senthil Periaswamy (2003)<BR>
+	&nbsp&nbsp Andrew Pierce '02 <BR>
+	&nbsp&nbsp Alin Popescu (2005) <BR>
+	&nbsp&nbsp <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> '03 <BR>
+	&nbsp&nbsp Katherine Sherwin '01 <BR>
+	&nbsp&nbsp Hai Sun (2004)<BR>
+</td>
+
+<td class=xl999 align=left valign=top>
+	<BR>&nbsp&nbsp - <BR>
+	&nbsp&nbsp Ph.D., CS (<a href="publications/mkjthesis07.html">dissertation</a>)<BR>
+	&nbsp&nbsp Ph.D., CS (<a href="publications/slthesis05.html">dissertation</a>)<BR>
+	&nbsp&nbsp Senior Thesis, CS <BR>
+	&nbsp&nbsp Senior Thesis, CS <BR>
+	&nbsp&nbsp Senior Thesis, CS <BR>
+	&nbsp&nbsp Ph.D., CS 
+	           (<a href="publications/spthesis03.html">dissertation</a>)<BR>
+	&nbsp&nbsp Math <BR>
+	&nbsp&nbsp Ph.D., CS (<a href="publications/apthesis05.html">dissertation</a>)<BR>
+	&nbsp&nbsp Religion <BR>
+	&nbsp&nbsp Eng/Phys <BR>
+	&nbsp&nbsp Ph.D., Eng (<a href="publications/hsthesis05.html">dissertation</a>)<BR>
+</td>
+
+<td class=xl999 align=left valign=top>
+	<BR>&nbsp&nbsp <a href="research/animation.html">Animation</a> <BR>
+	&nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
+	&nbsp&nbsp <a href="research/cgorphoto.html">CG or Photo?</a> <BR>
+	&nbsp&nbsp <a href="research/flash.html">Depth from Flash</a> <BR>
+	&nbsp&nbsp Avatar <BR>
+	&nbsp&nbsp Avatar <BR>
+	&nbsp&nbsp <a href="research/registration.html">
+		Medical Image Registration</a> <BR>
+	&nbsp&nbsp <a href="research/reducedim.html">
+		Dimensionality Reduction</a> <BR>
+	&nbsp&nbsp <a href="research/tampering.html">Digital Forensics</a> <BR>
+	&nbsp&nbsp Research Assistant <BR>
+	&nbsp&nbsp <a href="publications/hbm01.html">
+	        Tracking Neuronal Pathways</a> <BR>
+	&nbsp&nbsp <a href="research/imageneuro.html">
+	        Image-Guided Neurosurgery</a><BR>
+</td>
+</tr>
+<tr>
+<td align=left valign=top>
+<b> Collaborators </b> <BR>
+&nbsp&nbsp <a href="http://web.mit.edu/persci/people/adelson/index.html">Ted Adelson</a>
+<BR> 
+&nbsp&nbsp <a href="http://crab.rutgers.edu/~mbravo/home.html">Mary Bravo</a>
+<BR> 
+&nbsp&nbsp David Finnegan 
+<BR>
+&nbsp&nbsp <a href="http://www.enallagma.com">Mark McPeek </a>
+<BR>
+&nbsp&nbsp <a href="http://www.cns.nyu.edu/~eero">Eero Simoncelli</a>
+</td>
+
+<td align=left, valign=top colspan=2>
+<b> Affiliation</b> <BR>
+&nbsp&nbsp Brain and Cognitive Sciences, MIT <BR>
+&nbsp&nbsp Psychology, Rutgers <BR>
+&nbsp&nbsp Cold Regions Research and Engineering Laboratory <BR>
+&nbsp&nbsp Biology, Dartmouth <BR>
+&nbsp&nbsp Center for Neural Science, NYU 
 </td>
 </tr>
 </table>
-</font> 
-</body> 
-</html> 
- 
- 
- 
- 
+
+<BR><BR>
+
+</body>
+</html>

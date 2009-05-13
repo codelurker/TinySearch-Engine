@@ -1,110 +1,180 @@
-http://www.cs.dartmouth.edu/~hughes/contact.html
+http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html
 3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>James M. Hughes - Dartmouth College</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!-- ImageReady Slices (website_new.psd) -->
-<table id="Table_01" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-	<tr height="30">
-	   <td width="35"></td>
-		<td colspan="6">
-			</td>
-	</tr>
-	<tr>
-		<td rowspan="5" background="images/menu_filler.jpg">
-			</td>
-		<td rowspan="5" background="images/index_03.jpg" width="226">
-			<!-- <img src="images/index_03.jpg" width="226" height="108" alt="">--></td>
-		<td rowspan="5" background="images/index_04.jpg">
-			<!--<img src="images/index_04.jpg" width="224" height="108" alt="">--></td>
-		<td rowspan="4" background="images/index_05_new.jpg" height="97" width="134">
-			<!--<img src="images/index_05.jpg" width="134" height="97" alt="">--></td>
-		<td colspan="2" background="images/index_06_new.jpg" height="16">
-			<!--<img src="images/index_06_new.jpg" width="202" height="16" alt="">--></td>
-		<td rowspan="5" background="images/menu_filler.jpg" width="100%">
-			<!--<img src="images/index_07.png" width="17" height="108" alt="">--></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="index.html"><img src="images/index_08_new.jpg" width="96" height="27" alt="" border="0"></a></td>
-		<td>
-			<a href="music.html"><img src="images/index_09_new.jpg" width="106" height="27" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="about.html"><img src="images/index_10_new.jpg" width="96" height="24" alt="" border="0"></a></td>
-		<td>
-			<a href="art.html"><img src="images/index_11_new.jpg" width="106" height="24" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="research.html"><img src="images/index_12_new.jpg" width="96" height="30" alt="" border="0"></a></td>
-		<td>
-			<a href="contact.html"><img src="images/index_13_new.jpg" width="106" height="30" alt="" border="0"></a></td>
-	</tr>
-	<tr height="11">
-		<td colspan="3" background="images/index_14.jpg">
-			<!--<img src="images/index_14.jpg" width="336" height="11" alt="">--></td>
-	</tr>
-	<tr height="100%">
-		<td>
-			</td>
-		<td background="images/sidebar_filler.jpg" width="226" class="sidebar">
-        <!-- SIDEBAR CONTENT AREA -->
-        <br><br>
-        James Hughes<br>
-        6211 Sudikoff Lab<br>
-        Dartmouth College<br>
-        Hanover, NH 03755<br><br>
-        hughes (at) cs<br>(dot) dartmouth (dot) edu<br><br>
-        Office:  (603) 646-8751
-        <br><br><br>
-        <img src="images/dartmouth_shield.png" width="135">
-        
-        </td>
-		<td colspan="4" width="577" class="content">
-		<!-- PRIMARY CONTENT AREA -->	
-		<table cellpadding=0 cellspacing=0 width=100% class="content_table">
-        <tr height=25><td colspan=3></td></tr>
-        <tr><td width=75></td><td>I can be reached under the following email address:<br><br>hughes (at) cs (dot) dartmouth (dot) edu<br><br>Snail mail can reach me at:<br><br>James Hughes<br>6211 Sudikoff Lab<br>Dartmouth College<br>Hanover, NH 03755<br><br>My office telephone is:&nbsp;&nbsp;(603) 646-8751<br><br><br>
-		</td><td width=75></td></tr></table>	
-        
-        <td></td>
-			
-        </td>
-	</tr>
-	
-	<tr>
-		<td>
-			<img src="images/spacer.gif" width="35" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="226" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="224" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="134" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="55" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="56" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="43" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="100%" height="1" alt=""></td>
-		<!--<td>
-			<img src="images/spacer.gif" width="55" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="57" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="100%" height="1" alt=""></td>-->
-	</tr>
+  <title>Emiliano Miluzzo :: contact info</title>
+  <style type="text/css">
 
-	
-</table>
-<!-- End ImageReady Slices -->
+a.three:link {color: #009966; text-decoration: none}
+a.three:visited {color: #009966; text-decoration: none}
+a.three:hover {background: #000000; color: #FFFFFF}
+
+#coolmenu{
+border: 1px;  /* If border needed replace this line with: border-bottom: 1px solid black;*/
+border-bottom-width: 0;
+width: 177px;
+position: absolute; top: 188px; left: 8px;
+background-color: #E6E6E6;
+}
+
+* html #coolmenu{ /*IE only rule, to negate the padding below IE includes in menu width.*/
+width: 177px;
+}
+
+#coolmenu a{
+font: bold 13px Arial;
+padding: 5px;
+padding-left: 20px;
+display: block;
+width: 100%;
+color: black;
+text-decoration: none;
+border-bottom: 1px; /* If border needed replace this line with: border-bottom: solid black;*/
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+
+#coolmenu a:hover{
+background-color: black;
+color: white;
+}
+
+  </style>
+  <script charset="utf-8" id="injection_graph_func"
+ src="injection_graph_func.js"></script>
+</head>
+<body style="background-image: url(Background.gif);">
+<div
+ style="top: 30px; position: absolute; z-index: 1; left: 245px; width: 317px;"><big><big
+ style="font-weight: bold;"><big><span
+ style="font-family: courier new,courier,monospace;">
+Emiliano Miluzzo</span></big></big><span style="font-style: italic;">
+</span></big></div>
+
+<a
+ href="http://www.cs.dartmouth.edu/~miluzzo">
+<img style="position: absolute; top: 10px; left: 10px;"
+ src="emi6.jpg" border="0" height="138" width="177"></a>
+<a
+ href="http://www.dartmouth.edu/">
+<img style="position: absolute; top: 20px; left: 900px;"
+ src="dartlogo.gif" border="0" height="94" width="99"></a>
+<img
+ style="position: absolute; top: 70px; left: 245px;"
+ src="stripe.jpg" height="8" width="620"> <img
+ style="position: absolute; top: 630px; left: 245px;"
+ src="stripe.jpg" height="21" width="740"> <img
+ style="position: absolute; top: 430px; left: 8px;"
+ src="dx_band.jpg" height="800" width="177">
+<center><big> </big></center>
+<div id="coolmenu">
+<big><a href="http://www.cs.dartmouth.edu/~miluzzo/index.html">Personal
+Biography</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/research.html">Research</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/publications.html">Publications</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/cv.html">Curriculum
+Vitae</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/links.html">Interesting
+Links</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/download.html">Download</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/photos.html">Pictures</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html">Contact
+Information</a>
+</big>
+<center><big> </big></center>
+</div>
+<div
+ style="top: 117px; left: 245px; position: absolute; z-index: 1; width: 738px;"><big><big><span
+ style="font-style: italic; font-family: Arial;">
+<p><small>Contact Information</small> </p>
+<hr></span></big>
+</big>
+<div style="text-align: justify;"><big><big><span
+ style="font-family: Arial;"></span></big><span
+ style="font-family: Arial;"><br>
+</span></big><big style="font-family: Arial,sans-serif;"><font
+ style="font-style: italic;" size="-1"><big>e-mail:&nbsp; </big></font><font
+ size="-1"><big>[LastName] &lt;at&gt; cs &lt;dot&gt; dartmouth &lt;dot&gt;
+edu
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <br>
+<br>
+</big></font></big><big style="font-family: Arial,sans-serif;"><font
+ size="-1"><big><font size="-1"><big><font style="font-style: italic;"
+ size="-1"><big>office:</big></font><font size="-1"><big>&nbsp;&nbsp;
+Sudikoff
+249</big>&nbsp;&nbsp; <br>
+</font></big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font style="font-style: italic;" size="-1"><big>lab:</big></font><font
+ size="-1"><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sudikoff
+147</big></font></big></font></big></font></big><br>
+<big style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font size="-1"><br>
+</font></big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ style="font-style: italic;" size="-1"><big>mail:</big></font><font
+ size="-1"><big>&nbsp;&nbsp;&nbsp;&nbsp; Computer Science
+Department, Dartmouth College
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font size="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font size="-1"><big><font size="-1"><big><font
+ size="-1"><big><font size="-1"><br>
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></big></font></big></font></big></font></big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big>6211 Sudikoff
+Laboratory</big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font size="-1"><big><font size="-1"><big><font
+ size="-1"><big><font size="-1">&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </font></big></font></big></font></big></font></big></font></big></font></big><br
+ style="font-family: Arial,sans-serif;">
+<big style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; </big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big>Hanover, NH 03755-3510,
+USA</big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font size="-1"><big><font size="-1"><big><font
+ size="-1"><big><small><font size="-1"><br>
+<br>
+<br>
+<big style="font-style: italic;">phone:</big></font></small><font
+ size="-1"><big> (+1) 603-646-8738</big></font></big></font></big></font></big></font></big></font></big></font></big><big
+ style="font-family: Arial,sans-serif;"><font size="-1"><big><font
+ size="-1"><big><font size="-1"><big><font size="-1"><big><font
+ size="-1"><big><font size="-1"><br>
+<big style="font-style: italic;">fax:</big> &nbsp; &nbsp; &nbsp; <big>(+1)
+603-646-1672<br>
+<br>
+</big></font></big></font></big></font></big></font></big></font></big></font></big></div>
+<div style="text-align: justify;"><big><span style="font-family: Arial;">
+<br>
+<br>
+</span></big></div>
+</div>
+<div
+ style="position: absolute; top: 665px; height: 21px; left: 849px; width: 131px;"><big><big><small><small><small
+ style="font-style: italic;"><span style="font-family: verdana;"><small>last
+modified: July 2007</small></span></small></small></small><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></big></big></div>
+<div
+ style="position: absolute; top: 660px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><big><big><small>
+<font size="-1"><small><sup>&copy; Emiliano Miluzzo</sup></small></font>
+</small></big></big></div>
 </body>
-</html>Advai
+</html>

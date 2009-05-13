@@ -1,297 +1,118 @@
-http://www.cs.dartmouth.edu/~wbc/suditour/s1/sudi_first_floor.html
+http://www.cs.dartmouth.edu/farid/research/reducedim.html
 3
 <html>
-  <head>
-    <title>Sudikoff First Floor</title>
-  </head>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-  <body>
-    <h2>Computers on Sudikoff Floor 1</h2>
- <h2>this map is obsolete</h2>
- <h3> see <a href="http://www.cs.dartmouth.edu/~data/sudi_db/index.html">
-the new computer database</a></h3>
-    <table border=3>
-      <tr>
-	<td width=50>101</td>
-	<td width=200>Bellmore</td>
-	<td width=200></td><td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>102</td>
-	<td width=200>Travis</td>
-	<td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>103</td>
-	<td width=200></td>
-	<td width=200></td><td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>104</td>
-	<td width=200></td>
-	<td width=200></td><td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>105</td>
-	<td width=200>Poplawski</td>
-	<td width=200>annapurna alias annapx</td><td width=200>xterm</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Howell</td>
-	<td width=200>smarts</td><td width=200>xterm</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>manx</td><td width=200>powermac 7200</td>
-      </tr>
-      <tr>
-	<td width=50>106</td>
-	<td width=200>Yan</td>
-	<td width=200>wahpenayo</td><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Yuan</td>
-	<td width=200>paulina</td><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>PowerMac</td><td width=200>6100</td>
-      </tr>
-      <tr>	
-	<td width=50></td>
-        <td width=200></td>
-        <td width=200>pyramid</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>glacier</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50>107</td>
-	<td width=200>Stein</td>
-	<td width=200>palisades</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>PowerMac</td><td width=200>7200</td>
-      </tr>
-      <tr>
-	<td width=50>108</td>
-	<td width=200>Ford</td>
-	<td width=200>timfi</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>calypso</td><td width=200>G3 laptop</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Steinberg</td>
-	<td width=200>devlabserver</td><td width=200>G3 Server</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>PowerMac</td><td width=200>7100</td>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>Mac</td><td width=200></td>
-      <tr>
-	<td width=50>109</td>
-	<td width=200>Makedon</td>
-	<td width=200>tenaya</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>Mac Laptop</td>
-      </tr>
-      <tr>
-	<td width=50>110</td>
-	<td width=200>Frost</td>
-	<td width=200>angeles</td><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Hepner</td>
-	<td width=200>tryfan</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Montague</td>
-	<td width=200>maravu</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Wagner</td>
-	<td width=200>muir</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Room 110</td>
-	<td width=200>PowerMac</td><td width=200>7600</td>
-      </tr>
-      <tr>
-	<td width=50>111</td>
-	<td width=200>Savell</td>
-	<td width=200>constance</td><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Lilien</td>
-	<td width=200>margaret</td><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Gessell</td>
-	<td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>112</td>
-	<td width=200>Bailey-Kellogg</td>
-	<td width=200>cirrus</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Kelley</td>
-	<td width=200>blizzard</td><td width=200>Windows NT</td>
-      </tr>
-      <tr>
-	<td width=50>113</td>
-	<td width=200>Donald</td>
-	<td width=200>rain</td><td width=200>Windows NT</td>
-      </tr>
-      <tr>
-	<td width=50>114</td>
-	<td width=200></td>
-	<td width=200></td><td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>115</td>
-	<td width=200></td>
-	<td width=200></td><td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>116</td>
-	<td width=200>Kotz</td>
-	<td width=200>holts</td><td width=200>xterm</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>Mac Powerbook</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>appleton</tr><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>Laptop</tr><td width=200>Linux</td>
-      <tr>
-	<td width=50>117</td>
-	<td width=200>LaTouche</td>
-	<td width=200>Mac</td><td width=200>G3</td>
-      </tr>
-      <tr>
-	<td width=50>118</td>
-	<td width=200>Megalooikonomou</td>
-	<td width=200>equinox</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>IMac</td><td width=200></td>
-      </tr>
-      <tr>
-	<td width=50>119</td>
-	<td width=200>Peterson</td>
-	<td width=200>oddjob</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Grimstrup</td>
-	<td width=200>smersh</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>skye</td><td width=200>power PC</td>
-      </tr>
-      <tr>
-	<td width=50>120</td>
-	<td width=200>Bredin</td>
-	<td width=200>teide</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Wu</td>
-	<td width=200>tatoosh</td><td width=200>NT</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>powermac</td><td width=200>6100</td>
-      <tr>
-	<td width=50>121</td>
-	<td width=200>Oldfield</td>
-	<td width=200>pecos</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Langmead</td>
-	<td width=200>chrisl</td><td width=200>xterm</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>tiffany</td><td width=200>NT</td>
-      <tr/>
-      <tr>
-	<td width=50>122</td>
-	<td width=200></td>
-	<td width=200>evolution</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Minami</td>
-	<td width=200>bald</td><td width=200>Linux</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200>Chen</td>
-	<td width=200>badon</td><td width=200></td>
-      </tr>
-      </tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>baker</td><td width=200></td>
-      <tr>
-	<td width=50>123</td>
-	<td width=200>Drysdale</td>
-	<td width=200>moosilauke</td><td width=200>DEC</td>
-      </tr>
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200>scot's mac</td><td width=200>G3 desktop Mac</td>
-      </tr>
-    
-      <tr>
-	<td width=50></td>
-	<td width=200></td>
-	<td width=200></td>
-      </tr>
-    </table>
-  </body>
+<title> Dimensionality Reduction </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top>
+<b> Dimensionality Reduction of Non-Linear Manifolds</b>
+<BR>
+<p>
+
+Eigenvalue/eigenvector techniques are commonly used to uncover
+low-dimensional <b>linear</b> subspaces embedded in higher-dimensional
+spaces.  Given a collection of points in a <b>P</b>-dimensional space,
+the eigenvalues of the covariance matrix reveal the underlying
+dimensionality of the space.  Specifically, the points live on a
+<b>Q</b>-dimensional linear subspace, where <b>Q<=P</b> is the number
+of non-zero eigenvalues of the covariance matrix.
+
+For example, the blue points shown on the right live on a 2-D
+<b>linear</b> subspace of the full 3-D space.  The eigenvalues of the
+covariance matrix are <b>1.0, 0.34, 0.0</b>, revealing the underlying
+two-dimensional linear subspace.
+
+<BR><BR>
+
+However, if the points live on a <b>non-linear</b> manifold then this
+approach is ineffective in revealing the underlying dimensionality.
+For example, the red points live on a 2-D <b>non-linear</b> manifold
+(a parabolic cylinder).  The eigenvalues of the covariance matrix are
+<b>1.0,0.9,0.6</b>, which do not reveal the two-dimensional nature of
+this manifold.
+
+<BR><BR>
+
+Outlined below is a simple approach (see <i> "Mapping a Manifold of
+Perceptual Observations", J.B. Tenenbaum, NIPS 98.</i>) for
+determining the intrinsic dimensionality of a certain class of
+non-linear manifolds.
+
+<OL> 
+<li> Given <b>N</b> points in a <b>P</b>-dimensional space, construct
+a non-parametric manifold (a graph)
+	<UL>
+	<li> choose a random subset of <b>M</b> points (vertices)
+	<li> for each point
+	     <b>P<sub>i</sub></b>, <b>i = 1,...,N</b> compute the
+	     Euclidean distance to each of the <b>M</b> points
+	<li> create an edge between the two points <b>Q</b> and
+	     <b>R</b> that have the shortest distances to
+	     <b>P<sub>i</sub></b>
+	</UL>
+
+<li> Compute the manifold distance between all pairs of <b>M</b> points
+	<UL>
+	<li> using Floyd's algorithm, compute <b>D</b>, the <b>M x
+	     M</b> distance matrix
+	</UL>
+
+<li> Perform metric multi-dimensional scaling (MDS) on <b>D</b>  
+	<UL>
+	<li> i.e., determine if there is a projection from the
+	     original <b>P</b>-dimensional subspace to a lower
+	     dimensional subspace that preserves the manifold
+	     distances (<b>not Euclidean distances</b>).  The solution
+	     is analytic and involves an eigenvalue/eigenvector
+	     analysis of the distance matrix
+	     <b>D</b>.  	
+	</UL>
+</OL>
+Shown on the right is the connected graph from step 1.  The MDS
+analysis returns eigenvalues <b>1.0, 0.38, 0.06</b> revealing the
+inherent two-dimensional structure of the manifold.
+
+<BR><BR>
+
+<a href="reducedim.m"> Matlab code</a> for dimensionality
+reduction of non-linear manifolds.
+</td>
+
+<td valign=top>
+<table>
+<tr> <IMG SRC="plane.gif" width=173 height=184>  </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <IMG SRC="paracyl.gif" width=172 height=185>  </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <IMG SRC="paracylman.gif" width=174 height=190>  </tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=right>
+	<font size=-1><i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	<a href="research.html"> Research</a> 	
+	</i></font>
+</td>
+</tr>
+</table>
 </html>

@@ -1,5 +1,6 @@
-http://www.cs.dartmouth.edu/~csrs/contact.html
+http://www.cs.dartmouth.edu/~csrs/index.html
 3
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
@@ -31,49 +32,43 @@ http://www.cs.dartmouth.edu/~csrs/contact.html
 <td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
 
 <td>
-<div style="text-align: center;"></div>
-<table style="text-align: left; margin-left: auto; margin-right: auto;" cellpadding="5pt" cellspacing="5pt">
-<tbody>
-<tr>
-<td id="top" colspan="2"> 
+<table class="inner"><tr><td>
 
-<h3>Contact Information</h3>
-</td>
-</tr>
-<tr><td colspan=2>For poster submissions, suggestions and for general information, please mail us at <a href="mailto:csrs@cs.dartmouth.edu">csrs@cs.dartmouth.edu</a></td></tr>
-<tr>
-<td style="background-color: #eeeeee;" colspan="2" rowspan="1"><span style="font-weight: bold; text-decoration: underline;">Steering Committee Members</span></td>
-</tr>
-<tr>
-<td style="text-align: center; font-style: italic;">Andrew Campbell</td>
-<td style="text-align: center; font-style: italic;">Tanzeem Choudhury</td>
-</tr>
-<tr>
-<td style="text-align: center; font-style: italic;">Lisa Fleischer</td>
-<td style="text-align: center; font-style: italic;">Fabio Pellacini</td>
-</tr>
-<tr>
-<td style="background-color: #eeeeee;" colspan="2" rowspan="1"><span style="font-weight: bold; text-decoration: underline;">Organizers</span></td>
-</tr>
-<tr>
-<td style="font-style: italic; text-align: center;">Xiaobo An</td>
-<td style="font-style: italic; text-align: center;">Umang Bhaskar</td>
-</tr>
-<tr>
-<td style="font-style: italic; text-align: center;">James Hughes</td>
-<td style="font-style: italic; text-align: center;">Emiliano Miluzzo</td>
-</tr>
-<tr>
-<td style="font-style: italic; text-align: center;">Daniel Peebles</td>
-<td style="font-style: italic; text-align: center;">Wei Pan</td>
-</tr>
-</tbody>
-</table>
+The Dartmouth Computer Science Research Symposium is an annual exhibition
+of the research being conducted in the field of Computer Science here
+at Dartmouth. It not only provides a means of communicating research
+interests and goals to fellow department members, but to the greater
+Dartmouth community as well. Students and faculty are given an opportunity
+to present their research either in the form of a presentation, in a 
+comprehensive poster session, or in the form of working demonstrations. 
+CSRS serves to strengthen the solidarity of our department, provide critical
+presentation experience, and widen perspectives of Computer Science
+among both students and faculty.
+<p>
+
+Every year the symposium features a keynote talk given by a distinguished member of the
+field from outside Dartmouth College. This year we will be honored to have
+Sandy Pentland, a pioneer in the field of social
+engineering and mobile systems as our keynote speaker for this
+event. More information on Sandy and his research can be found on his homepage <a href="http://www.media.mit.edu/~sandy/">here</a>. The abstract for Sandy's talk in CSRS is <a href="schedule.html#sandy">here</a>.
+
+<p>
+
+<font style="font-size:1.2em;">Updates:</font>
+<ul>
+<li>Note the change in venue! The symposium is now at Rockefeller Center, Room 003. To see how to get there, check out the <a href="faq.html#whenandwhere">FAQ page</a>.
+<li>We now have <a href="pandd.html">working demos</a> as part of CSRS! If you're working on something cool and can demonstrate a working model, <a href="mailto:csrs@cs.dartmouth.edu">mail us</a>!
+<li>The program is up. If you haven't sent in your talk/poster title and abstract, please do so.
+<li>We're still accepting entries for the poster session. For poster submission guidelines, <a href="poster.html">click here</a>.
+</ul>
+
+
+</tr></td></table>
+
+
 
 </td>
 </tr>
 </table>
 
-</body>
-</html>
-amp;sai
+</body></html>

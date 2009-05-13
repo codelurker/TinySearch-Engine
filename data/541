@@ -1,170 +1,136 @@
-http://www.cs.dartmouth.edu/~farid/yearinreview05.html
+http://www.cs.dartmouth.edu/~farid/research
 3
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-<title> Hany Farid: Image Science Group </title>
+<title> Hany Farid: Research </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
-
-<table align=center width=750>
+<HR>
+<table align=center width=700>
 <tr>
-<td>
-
-<p>
-<b> Year in Review: 2005 </b>
-<p>
-
-I hope that this email finds you all well.  I write to update you on
-the happenings of the <a href="group.html">Image Science Group</a>.
-At various times this year, the group consisted of Kimo Johnson, Siwei
-Lyu, Weihong Wang and Jeff Woodward.
-
-<p>
-<HR>
-<p>
-
-<a href="http://www.cs.albany.edu/~lsw/">Siwei Lyu</a> defended his
-Ph.D. dissertation on a general-purpose statistical model for natural
-images with applications to digital image forensics.  Two applications
-in digital image forensics include stenganalysis and differentiating
-between photographic and computer generated images:
-
-<p>
-
-<dd> Steganalysis Using Higher-Order Image Statistics </dd> 
-<dd> S. Lyu and H. Farid </dd>
-<dd> IEEE Transactions on Information Forensics and Security, 2005 (in press) </dd> 
-<dd> <a href="http://www.cs.dartmouth.edu/farid/publications/tifs05.html">
-     http://www.cs.dartmouth.edu/farid/publications/tifs05.html</a> </dd>
-
-<p>
-
-<dd> How Realistic is Photorealistic? </dd>
-<dd> S. Lyu and H. Farid  </dd>
-<dd> IEEE Transactions on Signal Processing, 53(2):845-850, 2005 </dd>
-<dd> <a href="http://www.cs.dartmouth.edu/farid/publications/sp05b.html">
-     http://www.cs.dartmouth.edu/farid/publications/sp05b.html</a> </dd>
-<p>
-
-And Siwei's dissertation, <a
- href="http://www.cs.dartmouth.edu/farid/publications/slthesis05.html">
-Natural Image Statistics for Digital Image Forensics </a> is available on-line.
-<p>
-
-While it was very difficult to say goodbye to Siwei, I am thrilled to
-report that he is currently a postdoc at NYU working with Eero
-Simoncelli in the Center for Neural Science and Department of
-Mathematics.  Siwei continues to work in the general area of natural
-image statistics as well as exploring new areas in, among others,
-computational neuroscience.  We look forward to seeing great things
-from Siwei over the years.
-
-<p>
-<HR>
-<p>
-
-<a href="http://www.mit.edu/~kimo/">Kimo Johnson</a> has also been
-working in the area of digital image forensics and has been developing
-some very nice and powerful techniques for detecting doctored photos.
-The first paper describes a technique for detecting inconsistencies in
-lighting that might emerge when creating a digital composite:
-
-<p>
-
-<dd> Exposing Digital Forgeries by Detecting Inconsistencies in Lighting  </dd>
-<dd> M.K. Johnson and H. Farid  </dd>
-<dd> ACM Multimedia and Security Workshop, New York, NY, 2005 </dd>
-<dd> <a href="http://www.cs.dartmouth.edu/farid/publications/acm05.html">
-     http://www.cs.dartmouth.edu/farid/publications/acm05.html</a> </dd>
-
-<p>
-
-Kimo is currently working on several other light/optics based
-techniques, that I am hopeful will eventually lead to techniques for
-camera ballistics -- that of identifying a specific or type of camera
-from an image.
-
-<p>
-<HR>
-<p>
-
-<a href="http://www.cs.dartmouth.edu/~whwang/">Weihong Wang</a> joined the
-group this year and has begun an ambitious project of expanding our
-forensic work to digital video.  We are currently writing up our first
-set of results and have several promising ideas that we are
-developing.  I expect this to be an important and exciting new
-research direction.
-
-<p>
-<HR>
-<p>
-
-Jeff Woodward joined the group the year as a part-time programmer.
-Jeff is porting all of our image forensic matlab code into Java (the
-code will be incorporated as plugins into the open source ImageJ).
-This project is part of grant from the FBI, and these tools will
-eventually be incorporated into the FBI digital forensic lab.  Along
-the way, Jeff is helping us to refine and rethink all of our ideas,
-leading to many important computational and algorithmic improvements.
-
-<p>
-<HR>
-<p>
-
-As for me, most significantly, I have spent the Spring and Fall term
-in Santa Cruz, CA.  During both terms I worked with the Adobe
-Photoshop team (San Jose, CA) exploring possible collaborative work in
-digital forensics and in other areas of general scientific computing.
-While it is, at times, difficult to be away from Dartmouth, this has
-been a wonderful opportunity for me to have time to think, read, write
-and explore new research directions.
-
-<p>
-
-Life on the west coast is, of course, a mixture of work and play.  I
-have spent a little bit of time photographing the beautiful landscape,
-particularly along the pacific coast.  Below is a thumbnail of a
-17,251 x 2,496 pixel composite seamed together from five individual
-images.
-
-<p>
-
-<div align=center>
-<img src="photos/westcliff.jpg" width=700 heigh=102>
-</div>
-
-<p>
-<HR>
-<p>
-
-In alumni news, David Martin is working as a system engineer at Wily
-Technologies near San Francisco.  Joe Pechter started Dental School at
-Tufts and Will Pechter is finishing his masters' program at Florida
-Atlantic University.  Senthil Periaswamy has been doing some exciting
-work at Siemens in medical imaging and is now the proud father of his
-second child, Smrithi. Alin Popescu has taken a job at Renesys here in
-Hanover working in the area of network systems and security.  Jethro
-Rothe-Kushel is in Los Angeles producing movies (check out some of his
-cool work at <a
-href="http://www.jethrofilms.com/">www.jethrofilms.com</a>). Kate
-Sherwin is back on the east coast (thankfully in one piece) after many
-years of competitive bicycle racing, working in the tech industry.
-And Hai Sun is finishing up the M.D. portion of his M.D./Ph.D.
-
-<p>
-<HR>
-<p>
-
-I hope that this email finds you all well and happy.  Please stay in
-touch and let me know how things are.
-
-</td>
+<td align=center> <font size=-1><b><a href="../home.html">HOME</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../group.html">PEOPLE</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../publications">PAPERS</a></b></font> </td>
+<td align=center> <font size=-1><b>RESEARCH</b></font> </td>
+<td align=center> <font size=-1><b><a href="../teaching">TEACHING</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../tutorials">TUTORIALS</a></b></font> </td>
 </tr>
 </table>
+<HR>
+<p>
 
-</body>
+<table align=center cellpadding=0 cellspacing=0 width=750 border=0>
+<tr>
+<td>
+<p>
+I lead the <a href="../group.html"> Image Science Group</a> whose
+research focuses on digital forensics, image analysis, computer
+vision, and human perception.  Below are short descriptions of some of
+our past and current work (the bold-face headings correspond to our
+most current work).  <BR><BR><BR> 
+</td> 
+</tr> 
+</table>
+
+
+<table align=center cellpadding=0 cellspacing=0 width=750 border=0>
+<tr>
+<td width=150 class=xl999> <img src="../icon/bradchericon.gif" border=0 width=64 height=64> </td>
+<td width=150 class=xl999> <img src="../icon/egypticon.gif" border=0 width=64 height=64> </td>
+<td width=150 class=xl999> <img src="../icon/researchicon.gif" border=0 width=64 height=64> </td>
+</tr>
+
+
+<tr>
+<td class=xl999 align=left valign=top> <b>IMAGE ANALYSIS</b> </td>
+<td class=xl999 align=left valign=top> <b>COMPUTER VISION</b> </td>
+<td class=xl999 align=left valign=top> <b>HUMAN VISION</b> </td>
+</tr>
+
+
+<tr>
+<td   class=xl999> <a href="artforensics.html"> Art Forensics</a> </td>
+<td   class=xl999> <a href="blind2.html">Lens Distortion</a> </td>
+<td   class=xl999> <a href="grouping.motion.html"> Motion Grouping</a>  </td>
+</tr>
+
+<tr>
+<td   class=xl999> <a href="derivative.html"> Derivative Filters</a> </td>
+<td   class=xl999> <a href="blind.html"> Luminance Non-Linearities</a></td>
+<td   class=xl999> <a href="grouping.object.html"> Recognition & Grouping</a></td>
+</tr>
+
+<tr>
+<td   class=xl999> <b><a href="tampering.html">Digital Forensics</a></b>  </td>
+<td   class=xl999> <a href="range.html"> Range Estimation</a> </td>
+<td   class=xl999> <b><a href="search.clutter.html"> Searching Clutter</a></b> </td>
+</tr>
+
+<tr>
+<td   class=xl999> <b><a href="cgorphoto.html"> Graphics or Photo</a></b> </td>
+<td   class=xl999> <a href="../orozco">Reconstructing Orozco</a> </td>
+<td   class=xl999> <a href="grouping.synchrony.html"> Temporal Synchrony</a> </td>
+</tr>
+<tr>
+<td   class=xl999> <a href="steerable.html"> Steerable Filters</a> </td>
+<td   class=xl999> <b><a href="../egypt/reconstruction.html"> Reconstructing Tombs</a></b> </td>
+<td   class=xl999> <a href="grouping.texture.html"> Texture Grouping</a> </td>
+</tr>
+
+<tr>
+<td   class=xl999> <a href="steganography.html">Steganography</a> </td>
+<td   class=xl999> <a href="separation.html"> Separating Reflections</a></td>
+<td   class=xl999> <a href="transparency.html"> Transparency</a> </td> 
+</tr>
+
+<tr>
+<td   class=xl999></td>
+<td   class=xl999> <a href="phototop/"> Surface Topography</a></td>
+</tr>
+
+<tr>
+<td   class=xl999> </td>
+<td   class=xl999> <a href="telepresence.html"> Telepresence</a></td>
+</tr>
+
+<tr>
+<td  colspan=8 class=xl999> &nbsp </td>
+</tr>
+
+
+<tr>
+<td width=70 class=xl999> <img src="../icon/medicalimageicon.gif" border=0 width=64 height=64> </td>
+<td width=70 class=xl999> <img src="../icon/compbioicon.gif" border=0 width=64 height=64> </td>
+<td width=70 class=xl999> <img src="../icon/magicicon.gif" border=0 width=64 height=64> </td>
+</tr>
+
+<tr>
+<td  class=xl999 align=left valign=top> <b>MEDICAL IMAGING</b> </td>
+<td  class=xl999 align=left valign=top> <b>COMPUTATIONAL BIOLOGY</b> </td>
+<td  class=xl999 align=left valign=top> <b>MISC.</b> </td>
+</tr>
+
+<tr>
+<td   class=xl999> <a href="imageneuro.html">Image-Guided Neurosurgery</a></td>
+<td   class=xl999> <a href="msclassify.html">Mass. Spec. Classify</a></td>
+<td   class=xl999> <a href="fracderiv.html">Fractional Derivative</a></td>
+</tr>
+
+
+<tr>
+<td   class=xl999> <a href="registration.html">Image Registration</a></td>
+<td   class=xl999> <b><a href="morphologicalevolution.html">Morphological Evolution</a></b></td>
+<td   class=xl999> <a href="fracFourier.html"> Fractional Fourier </a> </td>
+</tr>
+
+<tr>
+<td   class=xl999></td>
+<td   class=xl999> <a href="protein.html"> Protein Design</a></td>
+</tr>
+
+</table>
+
 </html>
-i

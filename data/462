@@ -1,210 +1,142 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR2007-590
+http://www.cs.dartmouth.edu/~niclane/papers.html
 3
-<HTML>
-<!-- WARNING! Do not modify this file; it is
-      automatically generated from a database in www/TRdata/. -->
-<link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
-<HEAD>
-<TITLE> Dartmouth TR2007-590 </TITLE>
-<META NAME="description" CONTENT="Secure Cryptographic Precomputation with Insecure Memory">
-<META NAME="number" CONTENT="TR2007-590">
-<META NAME="year" CONTENT="2007">
-<META NAME="title" CONTENT="Secure Cryptographic Precomputation with Insecure Memory">
-<META NAME="abstract" CONTENT="Precomputation dramatically reduces the execution latency of many
-cryptographic algorithms. To sustain the reduced latency over time
-during which these algorithms are routinely invoked, however, a pool
-of precomputation results must be stored and be readily available.
-While precomputation is an old and well-known technique, how to
-securely and yet efficiently store these precomputation results has
-largely been ignored. For instance, requiring tamper-proof memory
-would be too expensive, if not unrealistic, for precomputation to be
-cost-effective.
- In this paper, we propose an architecture that provides secure
-storage for cryptographic precomputation using only insecure memory,
-which may be eavesdropped or even tampered with. Specifically, we
-design a small tamper-resistant hardware module that we call the
-{\em Queue Security Proxy (QSP)}, which situates on the data-path
-between the processor and the insecure memory. Our analysis shows
-that our design is secure, efficient, flexible and yet inexpensive.
-In particular, our design's timing overhead and hardware cost are
-independent of the storage size.
- We also discuss in this paper several interesting extensions to our
-proposed architecture. We plan to prototype our design assuming the
-scenario of precomputing DSA signatures, effectively building a
-cost-effective low-latency DSA signing secure coprocessor.">
-<META NAME="author" CONTENT="Patrick P. Tsang">
-<META NAME="author" CONTENT="Sean W. Smith">
-</HEAD>
-<BODY BGCOLOR="#FFFFFF">
-<!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
-<!-- See also footer.htmlf -->
-<!-- I use absolute pathnames here because this file is used from several directories. -->
-<table border=0 rules=none>
-<col width=85><col width=100%><col width=85>
-<tr valign=center  bgcolor=#003300 border=0>
- <td>
-   <a href=/><img src=/reports/Dartmouth2.png alt="Dartmouth logo"
-   width=82 height=91 border=0></a>
- </td>
- <td>
-   <font color=#ffffff size=+3>
-     Dartmouth College Computer Science<br>
-     Technical Report series
-   </font>
- </td>
- <td>
-  <a href="/"><font color=#ffffff>CS&nbsp;home</font></a><br>
-  <a href="/reports"><font color=#ffffff>TR&nbsp;home</font></a><br>
-  <a href="/reports/#search"><font color=#ffffff>TR&nbsp;search</font></a>
-  <a href="/reports/updates.html"><font color=#ffffff>TR&nbsp;listserv</font></a>
- </td>
-</tr>
-<tr>
-  <td align=right> By author:
-  </td>
-  <td colspan=2>
-    <a href="/reports/authors/index.shtml#A">A</a>
-    <a href="/reports/authors/index.shtml#B">B</a>
-    <a href="/reports/authors/index.shtml#C">C</a>
-    <a href="/reports/authors/index.shtml#D">D</a>
-    <a href="/reports/authors/index.shtml#E">E</a>
-    <a href="/reports/authors/index.shtml#F">F</a>
-    <a href="/reports/authors/index.shtml#G">G</a>
-    <a href="/reports/authors/index.shtml#H">H</a>
-    <a href="/reports/authors/index.shtml#I">I</a>
-    <a href="/reports/authors/index.shtml#J">J</a>
-    <a href="/reports/authors/index.shtml#K">K</a>
-    <a href="/reports/authors/index.shtml#L">L</a>
-    <a href="/reports/authors/index.shtml#M">M</a>
-    <a href="/reports/authors/index.shtml#N">N</a>
-    <a href="/reports/authors/index.shtml#O">O</a>
-    <a href="/reports/authors/index.shtml#P">P</a>
-    <a href="/reports/authors/index.shtml#Q">Q</a>
-    <a href="/reports/authors/index.shtml#R">R</a>
-    <a href="/reports/authors/index.shtml#S">S</a>
-    <a href="/reports/authors/index.shtml#T">T</a>
-    <a href="/reports/authors/index.shtml#U">U</a>
-    <a href="/reports/authors/index.shtml#V">V</a>
-    <a href="/reports/authors/index.shtml#W">W</a>
-    <a href="/reports/authors/index.shtml#X">X</a>
-    <a href="/reports/authors/index.shtml#Y">Y</a>
-    <a href="/reports/authors/index.shtml#Z">Z</a>
-   </td>
-</tr>
-<tr>
-  <td align=right> By number: 
-  </td>
-  <td colspan=2>
-    <font size=-1>
-      <a href="/reports/abstracts/2009.shtml">2009</a>,
-      <a href="/reports/abstracts/2008.shtml">2008</a>,
-      <a href="/reports/abstracts/2007.shtml">2007</a>,
-      <a href="/reports/abstracts/2006.shtml">2006</a>,
-      <a href="/reports/abstracts/2005.shtml">2005</a>,
-      <a href="/reports/abstracts/2004.shtml">2004</a>,
-      <a href="/reports/abstracts/2003.shtml">2003</a>,
-      <a href="/reports/abstracts/2002.shtml">2002</a>,
-      <a href="/reports/abstracts/2001.shtml">2001</a>,
-      <a href="/reports/abstracts/2000.shtml">2000</a>,
-      <a href="/reports/abstracts/1999.shtml">1999</a>,
-      <a href="/reports/abstracts/1998.shtml">1998</a>,
-      <a href="/reports/abstracts/1997.shtml">1997</a>,
-      <a href="/reports/abstracts/1996.shtml">1996</a>,
-      <a href="/reports/abstracts/1995.shtml">1995</a>,
-      <a href="/reports/abstracts/1994.shtml">1994</a>,
-      <a href="/reports/abstracts/1993.shtml">1993</a>,
-      <a href="/reports/abstracts/1992.shtml">1992</a>,
-      <a href="/reports/abstracts/1991.shtml">1991</a>,
-      <a href="/reports/abstracts/1990.shtml">1990</a>,
-      <a href="/reports/abstracts/1989.shtml">1989</a>,
-      <a href="/reports/abstracts/1988.shtml">1988</a>,
-      <a href="/reports/abstracts/1987.shtml">1987</a>,
-      <a href="/reports/abstracts/1986.shtml">1986</a>
-    </font>
-  </td>
+<html>
+<head>
+<title>Nicholas D. Lane</title>
+<style type="text/css">
+  html, body {
+	  margin: 0px;
+		padding: 0px;
+		font-family: monospace;
+  }
+
+  h3,h2,h1,h4 {
+   padding: 0px;
+	 margin: 0px;
+	 margin-top: 0px;
+	 margin-bottom: 0px;
+	}
+</style>
+</head>
+<body>
+<table cellpadding=0 background=\"white\" border=\"0\" width="*" height="100%" cellspacing=0>
+<tr valign=top>
+	<td bgcolor="#444444">
+		<img src='me_sm.jpg'>
+	</td>
+	<td>
+		<table cellpadding=0 background=\"white\" border=\"0\" width="500px" height="*" cellspacing=6>
+		<tr>
+			<td width="105">
+				<div valign='top' align='left'>
+				<img src='logo.jpg'>
+			</td>
+			<td >
+				<h1>Nicholas D. Lane</h1>
+					niclane at cs dot dartmouth dot edu<BR>
+					<BR>
+					<a href='index.html'>index</a> | <a href='papers.html'>papers</a> | <a href='talks.html'>talks</a> |
+					<a href='meetings.html'>meetings</a> | <a href='resume.pdf'>resume</a>
+			</td>
+		</tr>
+		<tr cellpadding=5 cellspacing=5>
+			<td colspan=2 cellpadding=5 cellspacing=5 >
+			    <BR>
+					<h2>Papers</h2>
+				  
+					Below are peer reviewed publications excluding demos:
+<BR><BR>
+<h4>2009</h4>
+Hong Lu, Wei Pan, Nicholas D. Lane, Tanzeem Choudhury, Andrew T. Campbell, "Scalable Sound Sensing for
+People-Centric Sensing Applications on Mobile Phones", to appear MobiSys 2009.
+<p>
+<h4>2008</h4>
+Emiliano Miluzzo, Nicholas D. Lane, Kristof Fodor, Ronald Peterson, Hong Lu, Mirco Musolesi, Shane B.
+Eisenman, Xiao Zheng, Andrew T. Campbell, "Sensing Meets Mobile Social Networks: The Design, Implementation
+and Evaluation of the CenceMe Application", To appear in In Proc. of Seventh ACM Conference on Embedded
+Network Sensor Systems (Sensys 2008), Raleigh, NC, Nov. 5 - Nov. 7, 2008 [<a href="sensys08a.pdf"
+onClick="javascript:urchinTracker('/pubs/sensys08a.pdf');">pdf</a>] [bibtext] [<a
+href='../talks/cenceme_sensys08.pdf'>talk</a>]
+<p>
+Emiliano Miluzzo, James M. H. Oakley, Hong Lu, Nicholas D. Lane, Ronald A. Peterson, Andrew T. Campbell, "Evaluating the iPhone as a Mobile Platform for People-Centric Sensing Applications", To appear in Proc. of Intl Workshop on Urban, Community, and Social Applications of Networked Sensing Systems (UrbanSense08). Raleigh, NC, USA, Nov. 4, 2008. [<a href="sensys08b.pdf" onClick="javascript:urchinTracker('/pubs/sensys08b.pdf');">pdf</a>] [bibTex] 
+<p>
+Andrew T. Campbell, Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald A. Peterson, Hong Lu, Xiao Zheng, Mirco Musolesi, Kristof Fodor, Gahng-Seop Ahn, "People Power - The Rise of People-Centric Sensing", IEEE Internet Computing Special Issue on Mesh Networks, 2008. [<a href="ic.pdf" onClick="javascript:urchinTracker('/pubs/ic.pdf');">pdf</a>] [bibtex]
+<p>
+Emiliano Miluzzo, Nicholas D. Lane, Andrew T. Campbell, Reza Olfati-Saber, "CaliBree: a Self-Calibration System for Mobile Sensor Networks", International Conference on Distributed Computing in Sensor Networks (DCOSS 2008), Santorini Island, Greece, June 11-14, 2008. [<a href="dcoss08a.pdf" onClick="javascript:urchinTracker('/pubs/dcoss08a.pdf');">pdf</a>] [BibTex]
+<p>
+Shane B. Eisenman, Nicholas D. Lane, and Andrew T. Campbell, "Techniques for Improving Opportunistic Sensor Networking Performance", International Conference on Distributed Computing in Sensor Networks (DCOSS 2008), Santorini Island, Greece, June 11-14, 2008. [<a href="dcoss08b.pdf" onClick="javascript:urchinTracker('/pubs/dcoss08b.pdf');">pdf</a>] [BibTex]
+<p>
+Mirco Musolesi, Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Tanzeem Choudhury, Andrew T. Campbell,"The Second Life of a Sensor: Integrating Real-world Experience in Virtual Worlds using Mobile Phones", In proc. of Fifth Workshop on Embedded Networked Sensors (HotEmNets 2008), June 2008, Charlottesville, Virginia, USA. [<a href="hotemnets08.pdf" onClick="javascript:urchinTracker('/pubs/hotemnets08.pdf');">pdf</a>]
+<p>
+Nicholas D. Lane, Hong Lu, Shane B. Eiseman and Andrew T. Campbell, "Cooperative Techniques Supporting
+Sensor-based People-centric Inferencing", in Proc. of Pervasive 2008, Sydney, Australia, May 19-22, 2008. [<a
+href="pervasive08.pdf" onClick="javascript:urchinTracker('/pubs/pervasive08.pdf');">pdf</a>] [<a
+href="pervasive08.bibtex" onClick="javascript:urchinTracker('/bibtex/pervasive08.bibtext');">bibtext</a>]
+[ppt] [<a href='../talks/distill_pervasive08.pdf'>talk</a>]
+<p>
+Hong Lu, Nicholas D. Lane, Shane B. Eisenman, Andrew T. Campbell, "Bubble-Sensing: A New Paradigm for Binding a Sensing Task to the Physical World using Mobile Phones ", Proc. of International Workshop on Mobile Devices and Urban Sensing, St. Louis, April 21, 2008. [<a href="modus08.pdf" onClick="javascript:urchinTracker('/pubs/modus.pdf');">pdf</a>] [BibTex]
+<p>
+Nicholas D. Lane, Shane B. Eisenman, Mirco Musolesi, Emiliano Miluzzo, Andrew T. Campbell, "Urban Sensing
+Systems: Opportunistic or Participatory? ", Proc. of Ninth Workshop on Mobile Computing Systems and
+Applications (HotMobile 2008), Silverado Resort, Napa Valley, CA, USA, Feb. 25-26, 2008. [<a
+href="hotmobile08.pdf" onClick="javascript:urchinTracker('/pubs/hotmobile08.pdf');">pdf</a>] [bibtex] [<a
+href='../talks/opp_hotmobile08.pdf'>talk</a>]
+<p>
+<h4>2007</h4>
+Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Andrew T. Campbell, "CenceMe - Injecting Sensing Presence into Social Networking Applications", (Invited paper) In Proc. of Second European Conference on Smart Sensing and Context (EuroSSC 2007), Lake District, UK, October 23-25, 2007. [<a href="euroscc07.pdf" onClick="javascript:urchinTracker('/pubs/euroscc07.pdf');">pdf</a>] [bibtex]
+<p>
+Nicholas D. Lane, Shane B. Eisenman, Emiliano Miluzzo, Mirco Musolesi, Andrew T. Campbell, "Urban Sensing:
+Opportunistic or Participatory?", First Workshop on Sensing on Everyday Mobile Phones in Support of
+Participatory Research, Sydney, Australia, November 6, 2007. [<a href="sensys07b.pdf" onClick="javascript:urchinTracker('/pubs/sensys07b.pdf');">pdf</a>] [bibtex]
+<p>
+Shane B. Eisenman, Emiliano Miluzzo, Nicholas D. Lane, Ronald A. Peterson, Gahng-Seop Ahn, and Andrew T.
+Campbell, "The BikeNet Mobile Sensing System for Cyclist Experience Mapping", In Proc. of Sixth ACM Conference
+on Embedded Network Sensor Systems (Sensys 2007), Sydney Australia, November 6 - 9th 2007. [<a
+href="sensys07a.pdf" onClick="javascript:urchinTracker('/pubs/sensys07a.pdf');">pdf</a>] [bibtex]
+[<a href='../talks/bikenet_sensys07.pdf'>talk</a>]
+<p>
+Nicholas D. Lane, Hong Lu and Andrew T. Campbell, "Ambient Beacon Localization: Using Sensed Characteristics
+of the Physical World to Localize Mobile Sensors", In Proc. of Fourth IEEE Workshop on Embedded Networked Sensors
+(EmNets 2007), 25-26 June, 2007 Cork, Ireland. [<a href="emnets07.pdf"
+onClick="javascript:urchinTracker('/pubs/emnets07.pdf');">pdf</a>] [bibtex] [<a
+href='../talks/abl_emnets07.pdf'>talk</a>]
+<p>
+<h4>2006</h4>
+Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald A. Peterson, Gahng-Seop Ahn, and Andrew T.
+Campbell, "MetroSense Project: People-Centric Sensing at Scale," First Workshop on World-Sensor-Web: Mobile
+Device Centric Sensory Networks and Applications (WSW'2006), Boulder CO, Oct 31, 2006. [<a href="wsw06.pdf" onClick="javascript:urchinTracker('/pubs/wsw06.pdf');">pdf</a>] [bibtex]
+<P>
+Emiliano Miluzzo, Nicholas D. Lane, and Andrew T. Campbell, "Virtual Sensing Range", (Poster Abstract), In Proc. of Fourth ACM Conference on Embedded Networked Sensor Systems (SenSys 2006), Boulder, Colorado, USA, November 1-3, 2006. [<a href="sensys06.pdf" onClick="javascript:urchinTracker('/pubs/sensys06.pdf');">pdf</a>] [bibtex] 
+<p>
+Andrew T. Campbell, Shane B. Eisenman, Nicholas D. Lane, Emiliano Miluzzo, Ronald Peterson, "People-Centric Urban Sensing" (Invited Paper), In Proc. of Second ACM/IEEE Annual International Wireless Internet Conference (WICON 2006), Boston, Massachusetts, USA, August 2-5, 2006. [<a href="wicon06.pdf" onClick="javascript:urchinTracker ('/pubs/wicon06.pdf'); ">pdf</a>] [bibtex]
+<p>
+Nicholas D. Lane and Andrew T. Campbell, "The Influence of Microprocessor Instructions on the Energy
+Consumption of Wireless Sensor Networks", In Proc. of Third IEEE Workshop on Embedded Networked Sensors
+(EmNets 2006), Cambridge, Massachusetts, USA May 30-31, 2006 [<a href="emnets06.pdf"
+onClick="javascript:urchinTracker ('/pubs/emnets06.pdf'); ">pdf</a>] [bibtex] [<a
+href='../talks/influence_emnets06.pdf'>talk</a>]
+<p>
+<h4>2003</h4>
+Masoodian, M., and Lane, N., An Empirical Study of Textual and Graphical Travel Itinerary Visualization using Mobile Phones. Conference Proceedings of AUIC 2003, The fourth Australasian User Interface Conference, (Adelaide, Australia, 4-7 February), Australian Computer Society Inc, 11-18.
+<p>
+<h4>2002</h4>
+Masoodian, M., and Lane, N., MATI: A System for Accessing Travel Itinerary Information using Mobile Phones. Conference Proceedings of HCI '02, The 16th British HCI Group Annual Conference (London, UK, 2-6 September), People and Computers Series, Springer Verlag, Vol. 16, 267-280. 
+<p>
+<h4>2001</h4>
+Masoodian, M., and Lane, N., Access to Personal Travel Itinerary Information Using Mobile Phones. Conference Proceedings of OZCHI '01, The CHISIG Annual Conference on Human-Computer Interaction (Perth, Australia, 20-22 November), Ergonomics Society of Australia, 90-95.
+<p>
+Masoodian, M., and Lane, N., Mobile Access to Travel Itinerary Information. Abridged Proceedings of HCI International '01, 9th International Conference on Human-Computer Interaction (New Orleans, USA, 5-10 August), Lawrence Erlbaum Associates, 332-334.
+			</td>
+		</tr>
+		</table>
+	</td>
 </tr>
 </table>
-<hr>
-<!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
-
-<font size=+2><b> Secure Cryptographic Precomputation with Insecure Memory </b></font><br>
-<font size=+1><b>
- <A HREF="../../authors/Tsang,Patrick.P..shtml">Patrick P. Tsang</A>,
- <A HREF="../../authors/Smith,Sean.W..shtml">Sean W. Smith</A>
-<br>
-Dartmouth TR2007-590
-</b></font>
-<p><QUOTE>
-<b>Abstract:</b>
-Precomputation dramatically reduces the execution latency of many
-cryptographic algorithms. To sustain the reduced latency over time
-during which these algorithms are routinely invoked, however, a pool
-of precomputation results must be stored and be readily available.
-While precomputation is an old and well-known technique, how to
-securely and yet efficiently store these precomputation results has
-largely been ignored. For instance, requiring tamper-proof memory
-would be too expensive, if not unrealistic, for precomputation to be
-cost-effective.
-</P><P>
- In this paper, we propose an architecture that provides secure
-storage for cryptographic precomputation using only insecure memory,
-which may be eavesdropped or even tampered with. Specifically, we
-design a small tamper-resistant hardware module that we call the
-{\em Queue Security Proxy (QSP)}, which situates on the data-path
-between the processor and the insecure memory. Our analysis shows
-that our design is secure, efficient, flexible and yet inexpensive.
-In particular, our design's timing overhead and hardware cost are
-independent of the storage size.
-</P><P>
- We also discuss in this paper several interesting extensions to our
-proposed architecture. We plan to prototype our design assuming the
-scenario of precomputing DSA signatures, effectively building a
-cost-effective low-latency DSA signing secure coprocessor.
-</QUOTE></p>
-<HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR2007-590.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (268KB)
-<p>
-Bibliographic citation for this report:
-  [<a href="TR2007-590.ascii">plain text</a>]
-  [<a href="TR2007-590.bib">BIB</a>]
-  [<a href="TR2007-590.bibtex">BibTeX</a>]
-  [<a href="TR2007-590.refer">Refer</a>]
-</p>
-<p>Or copy and paste:<br>
-&nbsp;&nbsp;
-Patrick P. Tsang and
-Sean W. Smith, 
-"Secure Cryptographic Precomputation with Insecure Memory."
-Dartmouth Computer Science Technical Report TR2007-590,
-July 2007.
-</p>
-<!-- Include file for abstracts/*.html and authors/*.html -->
-<!-- See also header.htmlf -->
-<!-- I use absolute pathnames here because this file is used from several directories. -->
-<!-- </td></tr></table> -->
-<hr>
-
-<p><a href=/reports/updates.html>Notify me about new tech reports</a>.
-<a href=/reports/feed.xml><img src=/reports/rss.gif><a></p>
-<p><a href=/reports/index.shtml#search>Search the technical reports</a>.</p>
-<p>To receive paper copy of a report, by mail, 
-send your address and the TR number to <tt>reports</tt> AT <tt>cs.dartmouth.edu</tt>
-
-<hr>
-
-<p><font size=-1><b>Copyright notice</b>:	
-The documents contained in this server are included by the
-contributing authors as a means to ensure timely dissemination of
-scholarly and technical work on a non-commercial basis.  Copyright and
-all rights therein are maintained by the authors or by other copyright
-holders, notwithstanding that they have offered their works here
-electronically.  It is understood that all persons copying this
-information will adhere to the terms and constraints invoked by each
-author's copyright.  These works may not be reposted without the
-explicit permission of the copyright holder.
-</font></p> 
-<p><font size=-1><em>Technical reports collection maintained by David Kotz</em>.
-
-</BODY>
-</HTML>
+</body>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-639085-1";
+urchinTracker();
+</script>
+</html>

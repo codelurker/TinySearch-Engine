@@ -1,223 +1,130 @@
-http://www.cs.dartmouth.edu/reports/abstracts/TR2004-509
+http://www.cs.dartmouth.edu/~tristan
 3
-<HTML>
-<!-- WARNING! Do not modify this file; it is
-      automatically generated from a database in www/TRdata/. -->
-<link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
-<HEAD>
-<TITLE> Dartmouth TR2004-509 </TITLE>
-<META NAME="description" CONTENT="Greenpass Client Tools for Delegated Authorization in Wireless Networks">
-<META NAME="number" CONTENT="TR2004-509">
-<META NAME="year" CONTENT="2004">
-<META NAME="title" CONTENT="Greenpass Client Tools for Delegated Authorization in Wireless Networks">
-<META NAME="abstract" CONTENT="Dartmouth's Greenpass project seeks to provide strong access control
-to a wireless network while simultaneously providing flexible guest
-access; to do so, it augments the Wi-Fi Alliance's existing WPA
-standard, which offers sufficiently strong user authentication and
-access control, with authorization based on SPKI certificates.  SPKI
-allows certain local users to delegate network access to guests by
-issuing certificates that state, in essence, "he should get access
-because I said it's okay."  The Greenpass RADIUS server described in
-Kim's thesis [55] performs an authorization check based on such
-statements so that guests can obtain network access without requiring
-a busy network administrator to set up new accounts in a centralized
-database.  To our knowledge, Greenpass is the first working
-delegation-based solution to Wi-Fi access control.
-   My thesis describes the Greenpass client tools, which allow a guest
-to introduce himself to a delegator and allow the delegator to issue a
-new SPKI certificate to the guest.  The guest does not need custom
-client software to introduce himself or to connect to the Wi-Fi
-network.  The guest and delegator communicate using a set of Web
-applications.  The guest obtains a temporary key pair and X.509
-certificate if needed, then sends his public key value to a Web server
-we provide.  The delegator looks up her guest's public key and runs a
-Java applet that lets her verify her guests' identity using visual
-hashing and issue a new SPKI certificate to him.  The guest's new
-certificate chain is stored as an HTTP cookie to enable him to "push"
-it to an authorization server at a later time.  I also describe how
-Greenpass can be extended to control access to a virtual private
-network (VPN) and suggest several interesting future research and
-development directions that could build on this work.">
-<META NAME="author" CONTENT="Nicholas C. Goffee">
-</HEAD>
-<BODY BGCOLOR="#FFFFFF">
-<!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
-<!-- See also footer.htmlf -->
-<!-- I use absolute pathnames here because this file is used from several directories. -->
-<table border=0 rules=none>
-<col width=85><col width=100%><col width=85>
-<tr valign=center  bgcolor=#003300 border=0>
- <td>
-   <a href=/><img src=/reports/Dartmouth2.png alt="Dartmouth logo"
-   width=82 height=91 border=0></a>
- </td>
- <td>
-   <font color=#ffffff size=+3>
-     Dartmouth College Computer Science<br>
-     Technical Report series
-   </font>
- </td>
- <td>
-  <a href="/"><font color=#ffffff>CS&nbsp;home</font></a><br>
-  <a href="/reports"><font color=#ffffff>TR&nbsp;home</font></a><br>
-  <a href="/reports/#search"><font color=#ffffff>TR&nbsp;search</font></a>
-  <a href="/reports/updates.html"><font color=#ffffff>TR&nbsp;listserv</font></a>
- </td>
-</tr>
-<tr>
-  <td align=right> By author:
-  </td>
-  <td colspan=2>
-    <a href="/reports/authors/index.shtml#A">A</a>
-    <a href="/reports/authors/index.shtml#B">B</a>
-    <a href="/reports/authors/index.shtml#C">C</a>
-    <a href="/reports/authors/index.shtml#D">D</a>
-    <a href="/reports/authors/index.shtml#E">E</a>
-    <a href="/reports/authors/index.shtml#F">F</a>
-    <a href="/reports/authors/index.shtml#G">G</a>
-    <a href="/reports/authors/index.shtml#H">H</a>
-    <a href="/reports/authors/index.shtml#I">I</a>
-    <a href="/reports/authors/index.shtml#J">J</a>
-    <a href="/reports/authors/index.shtml#K">K</a>
-    <a href="/reports/authors/index.shtml#L">L</a>
-    <a href="/reports/authors/index.shtml#M">M</a>
-    <a href="/reports/authors/index.shtml#N">N</a>
-    <a href="/reports/authors/index.shtml#O">O</a>
-    <a href="/reports/authors/index.shtml#P">P</a>
-    <a href="/reports/authors/index.shtml#Q">Q</a>
-    <a href="/reports/authors/index.shtml#R">R</a>
-    <a href="/reports/authors/index.shtml#S">S</a>
-    <a href="/reports/authors/index.shtml#T">T</a>
-    <a href="/reports/authors/index.shtml#U">U</a>
-    <a href="/reports/authors/index.shtml#V">V</a>
-    <a href="/reports/authors/index.shtml#W">W</a>
-    <a href="/reports/authors/index.shtml#X">X</a>
-    <a href="/reports/authors/index.shtml#Y">Y</a>
-    <a href="/reports/authors/index.shtml#Z">Z</a>
-   </td>
-</tr>
-<tr>
-  <td align=right> By number: 
-  </td>
-  <td colspan=2>
-    <font size=-1>
-      <a href="/reports/abstracts/2009.shtml">2009</a>,
-      <a href="/reports/abstracts/2008.shtml">2008</a>,
-      <a href="/reports/abstracts/2007.shtml">2007</a>,
-      <a href="/reports/abstracts/2006.shtml">2006</a>,
-      <a href="/reports/abstracts/2005.shtml">2005</a>,
-      <a href="/reports/abstracts/2004.shtml">2004</a>,
-      <a href="/reports/abstracts/2003.shtml">2003</a>,
-      <a href="/reports/abstracts/2002.shtml">2002</a>,
-      <a href="/reports/abstracts/2001.shtml">2001</a>,
-      <a href="/reports/abstracts/2000.shtml">2000</a>,
-      <a href="/reports/abstracts/1999.shtml">1999</a>,
-      <a href="/reports/abstracts/1998.shtml">1998</a>,
-      <a href="/reports/abstracts/1997.shtml">1997</a>,
-      <a href="/reports/abstracts/1996.shtml">1996</a>,
-      <a href="/reports/abstracts/1995.shtml">1995</a>,
-      <a href="/reports/abstracts/1994.shtml">1994</a>,
-      <a href="/reports/abstracts/1993.shtml">1993</a>,
-      <a href="/reports/abstracts/1992.shtml">1992</a>,
-      <a href="/reports/abstracts/1991.shtml">1991</a>,
-      <a href="/reports/abstracts/1990.shtml">1990</a>,
-      <a href="/reports/abstracts/1989.shtml">1989</a>,
-      <a href="/reports/abstracts/1988.shtml">1988</a>,
-      <a href="/reports/abstracts/1987.shtml">1987</a>,
-      <a href="/reports/abstracts/1986.shtml">1986</a>
-    </font>
-  </td>
-</tr>
-</table>
-<hr>
-<!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
+<?xml version="1.0" encoding="UTF-8"?>
 
-<font size=+2><b> Greenpass Client Tools for Delegated Authorization in Wireless Networks </b></font><br>
-<font size=+1><b>
- <A HREF="../../authors/Goffee,Nicholas.C..shtml">Nicholas C. Goffee</A>
-<br>
-Dartmouth TR2004-509
-</b></font>
-<p><QUOTE>
-<b>Abstract:</b>
-Dartmouth's Greenpass project seeks to provide strong access control
-to a wireless network while simultaneously providing flexible guest
-access; to do so, it augments the Wi-Fi Alliance's existing WPA
-standard, which offers sufficiently strong user authentication and
-access control, with authorization based on SPKI certificates.  SPKI
-allows certain local users to delegate network access to guests by
-issuing certificates that state, in essence, "he should get access
-because I said it's okay."  The Greenpass RADIUS server described in
-Kim's thesis [55] performs an authorization check based on such
-statements so that guests can obtain network access without requiring
-a busy network administrator to set up new accounts in a centralized
-database.  To our knowledge, Greenpass is the first working
-delegation-based solution to Wi-Fi access control.
-</P><P>
-   My thesis describes the Greenpass client tools, which allow a guest
-to introduce himself to a delegator and allow the delegator to issue a
-new SPKI certificate to the guest.  The guest does not need custom
-client software to introduce himself or to connect to the Wi-Fi
-network.  The guest and delegator communicate using a set of Web
-applications.  The guest obtains a temporary key pair and X.509
-certificate if needed, then sends his public key value to a Web server
-we provide.  The delegator looks up her guest's public key and runs a
-Java applet that lets her verify her guests' identity using visual
-hashing and issue a new SPKI certificate to him.  The guest's new
-certificate chain is stored as an HTTP cookie to enable him to "push"
-it to an authorization server at a later time.  I also describe how
-Greenpass can be extended to control access to a virtual private
-network (VPN) and suggest several interesting future research and
-development directions that could build on this work.
-</QUOTE></p>
-<p><QUOTE>
-<b>Note:</b>
-Masters thesis.  Advisor: Sean Smith
-</QUOTE></p>
-<HR>
- <a href="http://www.cs.dartmouth.edu/reports/TR2004-509.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
- PDF (804KB)
-<p>
-Bibliographic citation for this report:
-  [<a href="TR2004-509.ascii">plain text</a>]
-  [<a href="TR2004-509.bib">BIB</a>]
-  [<a href="TR2004-509.bibtex">BibTeX</a>]
-  [<a href="TR2004-509.refer">Refer</a>]
-</p>
-<p>Or copy and paste:<br>
-&nbsp;&nbsp;
-Nicholas C. Goffee, 
-"Greenpass Client Tools for Delegated Authorization in Wireless Networks."
-Dartmouth Computer Science Technical Report TR2004-509,
-June 2004.
-</p>
-<!-- Include file for abstracts/*.html and authors/*.html -->
-<!-- See also header.htmlf -->
-<!-- I use absolute pathnames here because this file is used from several directories. -->
-<!-- </td></tr></table> -->
-<hr>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
 
-<p><a href=/reports/updates.html>Notify me about new tech reports</a>.
-<a href=/reports/feed.xml><img src=/reports/rss.gif><a></p>
-<p><a href=/reports/index.shtml#search>Search the technical reports</a>.</p>
-<p>To receive paper copy of a report, by mail, 
-send your address and the TR number to <tt>reports</tt> AT <tt>cs.dartmouth.edu</tt>
+    <title>Tristan Henderson
+ | Home         
+</title>
+<link rel="stylesheet" href="http://www.cs.st-andrews.ac.uk/~tristan/include/style.css" type="text/css" /><link rel="stylesheet" href="http://www.cs.st-andrews.ac.uk/~tristan/include/css/sidebar/hide.css" type="text/css" />
+<meta name="description" content="Homepage of Tristan Henderson, Lecturer in Computer Science at the University of St Andrews, Scotland. Research interests: wireless networking, multiplayer networked games." />
+<meta http-equiv="Content-Style-Type" content="text/css" />
 
-<hr>
+<style type="text/css">
+/*<![CDATA[*/
+#pageHeader {
+height: 192px;
+background-image: url("http://www.cs.st-andrews.ac.uk/~tristan/include/images/banners/west_sands_2.jpg");
+}
+/*]]>*/
+</style>
 
-<p><font size=-1><b>Copyright notice</b>:	
-The documents contained in this server are included by the
-contributing authors as a means to ensure timely dissemination of
-scholarly and technical work on a non-commercial basis.  Copyright and
-all rights therein are maintained by the authors or by other copyright
-holders, notwithstanding that they have offered their works here
-electronically.  It is understood that all persons copying this
-information will adhere to the terms and constraints invoked by each
-author's copyright.  These works may not be reposted without the
-explicit permission of the copyright holder.
-</font></p> 
-<p><font size=-1><em>Technical reports collection maintained by David Kotz</em>.
 
-</BODY>
-</HTML>
-Pi
+</head>
+
+<body>
+<div id="border">
+<div id="wrapper">
+<div id="navcontainer">
+<ul>
+<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/index.php" >Home</a></li>
+<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/research/" >Research</a></li>
+<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/teaching/" >Teaching</a></li>
+<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/photos/" >Photos</a></li>
+<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/misc/" >Misc</a></li>
+<li><a href="http://www.cs.st-andrews.ac.uk/~tristan/about/" >About</a></li>
+</ul>
+</div>
+<div id="pageHeader">
+<h1>Tristan Henderson</h1>
+<h2>Lecturer, <a href="http://www.cs.st-andrews.ac.uk">CompSci</a>,
+<a href="http://www.st-andrews.ac.uk">St Andrews</a></h2>
+</div>
+<div id="container">
+<div id="sidebarContainer">
+<div id="sidebar">
+<br /></div>
+</div>
+<div id="contentContainer">
+<div id="content">
+
+<p>Welcome to my website. As you may have guessed from the
+text above, I work in the <a href=
+"http://www.cs.st-andrews.ac.uk">School of Computer Science</a> at
+the <a href="http://www.st-andrews.ac.uk">University of St
+Andrews</a> in Scotland. Please browse the links to find out more
+about me and what I do, or take a look at my <a href=
+"research/pubs.php">papers</a>. Or here are some ways to <a href=
+"about/contact.php">reach me</a>.</p>
+
+<hr />
+
+<h3>Notices</h3>
+
+<ul>
+
+<li>We have a new baby girl!</li>
+
+<li>New research project: <a href="http://www.pvnets.org">Privacy
+Value Networks</a>.</li>
+
+<li>New funded PhD opportunities in <a 
+href="http://www.cs.st-andrews.ac.uk/stacc">Cloud Computing</a>.</li>
+
+<li>In general I am always on the lookout for good PhD students 
+&mdash; see my <a href=
+"research/">research page</a> for more. Funding is currently
+available for qualified students (including overseas students) &mdash; 
+see the <a href=
+"http://www.sicsa.ac.uk/graduate-academy/prize-studentships/sicsa-prize-studentships/">
+SICSA</a> pages. Note that I do <b>not</b> have funding
+for overseas undergraduate internships &mdash; the numerous 
+requests that I receive for these are ignored.</li>
+
+<li>We hold regular <a href="http://scone.cs.st-andrews.ac.uk/">SCONE</a>
+(SCOttish Networking Event) meetings for anyone who is interested in networking and systems. Please consider coming to our
+next meeting &mdash; Edinburgh, <a href=
+"http://scone.cs.st-andrews.ac.uk/wiki/Meeting12032009">
+12 March</a>.</li>
+
+<li>I am responsible for publicity and recruitment in our School.
+If you are thinking about studying Computer Science at St Andrews, 
+take a look at the relevant <a href=
+"http://www.cs.st-andrews.ac.uk/prospective-ug">School webpages</a>
+and please consider <a href=
+"http://www.st-andrews.ac.uk/admissions/VisitingtheUniversity/">visiting
+us</a>.</li>
+
+<li>I am currently involved with the following events. Please
+consider submitting something if you can.
+
+<ul>
+<li>Programme Committee, <a href="http://www.mmsys.org/">Multimedia Systems 2010</a></li>
+<li>Steering/Programme Committee, <a href="http://www-poleia.lip6.fr/~netgames2009/">NetGames 2009</a></li>
+<li>Programme Committee, <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/index.php">WOSN 2009</a></li>
+<li>Programme Committee, <a href="http://hotplanetconf.net/">HotPlanet</a></li>
+<li>Steering/Programme Committee, <a href="http://www.extremecom.org/">ExtremeCom</a></li>
+<li>Publicity Chair, <a href="http://www.mobiquitous.org/">Mobiquitous 2009</a></li>
+<li>Publicity Chair, <a href="http://www.nossdav.org/2009/">NOSSDAV 2009</a></li>
+</ul>
+</li>
+
+</ul>
+
+</div>
+</div>
+<div class="clearer"></div>
+<div id="footer"></div>
+
+</div>
+<div id="crawdadfooter"><a href="http://crawdad.org/"></a></div>
+</div>
+</div>
+</body>
+</html>
+
+re i

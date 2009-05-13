@@ -1,4 +1,4 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Main_Page
+http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Join_the_lab
 3
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
@@ -6,14 +6,14 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:RecentChangesL
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta http-equiv="Content-Style-Type" content="text/css" />
 		<meta name="generator" content="MediaWiki 1.14.0" />
-		<meta name="robots" content="noindex,nofollow" />
+		<meta name="keywords" content="Join the lab" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Join_the_lab&amp;action=edit" />
+		<link rel="edit" title="Edit" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Join_the_lab&amp;action=edit" />
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="search" type="application/opensearchdescription+xml" href="/~robotics/mediawiki/opensearch_desc.php" title="RobotLab (en)" />
-		<link rel="alternate" type="application/rss+xml" title="&quot;Special:RecentChangesLinked&quot; RSS Feed" href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;feed=rss&amp;target=Main_Page" />
-		<link rel="alternate" type="application/atom+xml" title="&quot;Special:RecentChangesLinked&quot; Atom Feed" href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;feed=atom&amp;target=Main_Page" />
 		<link rel="alternate" type="application/rss+xml" title="RobotLab RSS Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=rss" />
 		<link rel="alternate" type="application/atom+xml" title="RobotLab Atom Feed" href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-		<title>Changes related to &quot;Main Page&quot; - RobotLab</title>
+		<title>Join the lab - RobotLab</title>
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/shared.css?195" type="text/css" media="screen" />
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/common/commonPrint.css?195" type="text/css" media="print" />
 		<link rel="stylesheet" href="/~robotics/mediawiki/skins/monobook/main.css?195" type="text/css" media="screen" />
@@ -37,20 +37,20 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:RecentChangesL
 		var wgVariantArticlePath = false;
 		var wgActionPaths = {};
 		var wgServer = "http://www.cs.dartmouth.edu";
-		var wgCanonicalNamespace = "Special";
-		var wgCanonicalSpecialPageName = "Recentchangeslinked";
-		var wgNamespaceNumber = -1;
-		var wgPageName = "Special:RecentChangesLinked";
-		var wgTitle = "RecentChangesLinked";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Join_the_lab";
+		var wgTitle = "Join the lab";
 		var wgAction = "view";
-		var wgArticleId = 0;
-		var wgIsArticle = false;
+		var wgArticleId = "14";
+		var wgIsArticle = true;
 		var wgUserName = null;
 		var wgUserGroups = null;
 		var wgUserLanguage = "en";
 		var wgContentLanguage = "en";
 		var wgBreakFrames = false;
-		var wgCurRevisionId = 0;
+		var wgCurRevisionId = "270";
 		var wgVersion = "1.14.0";
 		var wgEnableAPI = true;
 		var wgEnableWriteAPI = true;
@@ -78,47 +78,46 @@ http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:RecentChangesL
 -->
 </style>		<script type="text/javascript" src="/~robotics/mediawiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
 	</head>
-<body class="mediawiki ltr ns--1 ns-special page-Special_RecentChangesLinked skin-monobook">
+<body class="mediawiki ltr ns-0 ns-subject page-Join_the_lab skin-monobook">
 	<div id="globalWrapper">
 		<div id="column-content">
 	<div id="content">
 		<a name="top" id="top"></a>
-				<h1 id="firstHeading" class="firstHeading">Changes related to &quot;Main Page&quot;</h1>
+				<h1 id="firstHeading" class="firstHeading">Join the lab</h1>
 		<div id="bodyContent">
 			<h3 id="siteSub">From RobotLab</h3>
-			<div id="contentSub">← <a href="/~robotics/mediawiki/index.php?title=Main_Page&amp;redirect=no" title="Main Page">Main Page</a></div>
+			<div id="contentSub"></div>
 									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
-			<p>This is a list of changes made recently to pages linked from a specified page (or to members of a specified category).
-Pages on <a href="/~robotics/mediawiki/index.php/Special:Watchlist" title="Special:Watchlist">your watchlist</a> are <b>bold</b>.
-</p><fieldset class="rcoptions">
-<legend>Recent changes options</legend>
-Show last <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;limit=50&amp;target=Main_Page" title="Special:RecentChangesLinked" style="font-weight: bold;">50</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;limit=100&amp;target=Main_Page" title="Special:RecentChangesLinked">100</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;limit=250&amp;target=Main_Page" title="Special:RecentChangesLinked">250</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;limit=500&amp;target=Main_Page" title="Special:RecentChangesLinked">500</a> changes in last <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;days=1&amp;target=Main_Page" title="Special:RecentChangesLinked">1</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;days=3&amp;target=Main_Page" title="Special:RecentChangesLinked">3</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;days=7&amp;target=Main_Page" title="Special:RecentChangesLinked" style="font-weight: bold;">7</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;days=14&amp;target=Main_Page" title="Special:RecentChangesLinked">14</a> | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;days=30&amp;target=Main_Page" title="Special:RecentChangesLinked">30</a> days<br /><a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;hideminor=1&amp;target=Main_Page" title="Special:RecentChangesLinked">Hide</a> minor edits | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;hidebots=0&amp;target=Main_Page" title="Special:RecentChangesLinked">Show</a> bots | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;hideanons=1&amp;target=Main_Page" title="Special:RecentChangesLinked">Hide</a> anonymous users | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;hideliu=1&amp;target=Main_Page" title="Special:RecentChangesLinked">Hide</a> logged-in users | <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;hidemyself=1&amp;target=Main_Page" title="Special:RecentChangesLinked">Hide</a> my edits<br />Show new changes starting from <a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;from=20090513065216&amp;target=Main_Page" title="Special:RecentChangesLinked">06:52, 13 May 2009</a>
-<hr />
-<form action="/~robotics/mediawiki/index.php"><table class="mw-recentchanges-table"><tr><td class="mw-label"><label for="namespace">Namespace:</label></td><td class="mw-input"><select id="namespace" name="namespace" class="namespaceselector">
-<option value="" selected="selected">all</option>
-<option value="0">(Main)</option>
-<option value="1">Talk</option>
-<option value="2">User</option>
-<option value="3">User talk</option>
-<option value="4">RobotLab</option>
-<option value="5">RobotLab talk</option>
-<option value="6">File</option>
-<option value="7">File talk</option>
-<option value="8">MediaWiki</option>
-<option value="9">MediaWiki talk</option>
-<option value="10">Template</option>
-<option value="11">Template talk</option>
-<option value="12">Help</option>
-<option value="13">Help talk</option>
-<option value="14">Category</option>
-<option value="15">Category talk</option>
-<option value="222">Bib</option>
-<option value="223">BibTalk</option>
-</select> <input name="invert" type="checkbox" value="1" id="nsinvert" />&nbsp;<label for="nsinvert">Invert selection</label></td></tr><tr><td class="mw-label">Page name:</td><td class="mw-input"><input name="target" size="40" value="Main Page" /><input name="showlinkedto" type="checkbox" value="1" id="showlinkedto" /> <label for="showlinkedto">Show changes to pages linked to the given page instead</label> <input type="submit" value="Go" /></td></tr></table><input name="title" type="hidden" value="Special:RecentChangesLinked" /></form>
-</fieldset>
-<p>No changes on linked pages during the given period.
-</p><div class="printfooter">
-Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:RecentChangesLinked">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Special:RecentChangesLinked</a>"</div>
+			<p>This is an open letter describing some of my expectations for undergraduate and graduate students working on a research project in the lab.  
+</p>
+<a name="Expectations_for_undergraduate_students" id="Expectations_for_undergraduate_students"></a><h3><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Join_the_lab&amp;action=edit&amp;section=1" title="Edit section: Expectations for undergraduate students">edit</a>]</span> <span class="mw-headline">Expectations for undergraduate students</span></h3>
+<p>Although I do not typically "hire" undergraduates for work or internships, I would love to get you involved.  There are many undergraduate research programs sponsored by Dartmouth, including the Presidential scholars programs (for sophomores), E.E. Just fellowships (for minorities), WISP internships (for women), as well as senior thesis opportunities or REU grants.  You can work on existing projects, or create your own.   
+</p><p>The typical undergraduate in our lab has skills in mathematics, computer science, or engineering, but we also have projects where artistic talents (particularly in computer modeling) would be particularly welcome.  
+</p><p>You will need to make a time commitment of at least 10 hours per week.  Purchase a research notebook (a standard composition book will be fine), and record your hours in that book each week.  Also make sure that you write 1-2 pages in the notebook per week about ideas you've had, approaches you've tried, related work you've found, and sources where you've ordered parts or equipment. Expect to meet with me at least once per week for 20-30 minutes to discuss your progress.  I also expect undergraduate students to enroll in the CS 54 course when it is offered.
+</p>
+<a name="Expectations_for_graduate_students" id="Expectations_for_graduate_students"></a><h3><span class="editsection">[<a href="/~robotics/mediawiki/index.php?title=Join_the_lab&amp;action=edit&amp;section=2" title="Edit section: Expectations for graduate students">edit</a>]</span> <span class="mw-headline">Expectations for graduate students</span></h3>
+<p>If you are considering choosing me as your adviser for an M.S. or Ph.D. degree, talk to me as soon as possible so that we can figure out if our interests and expectations are a good fit.  
+</p>
+<ul><li>Courses.  Robotics requires a broad background, not all of which is available within the C.S. department -- you should expect to take courses in mathematics (particularly real analysis and differential geometry), engineering (linear and non-linear control), and the introductory robotics class that I teach, C.S. 54.   
+</li></ul>
+<ul><li> Time commitment. I expect the time commitment to be 40-50 hours of efficient work per week. The first term of graduate school can be difficult to adjust to, so the expectation is that about 10-15 hours per week will be spent on research work during this time. For the remainder of the first year, about half of the available time should be devoted to research, with the remaining half devoted to classwork. From the second year, students are expected to be doing full-time research. I expect a Ph.D to take slightly less than six years, and a M.S. to take slightly less than two years, although individual progress may be slower or faster.
+</li></ul>
+<ul><li> Measuring progress. Research progress can be hard to measure, at least locally. A useful metric is how many pages you write each week in your notebook. For a grad student doing full-time research, a good target is 4 pages of figures, equations, data, and brainstormed ideas per day. That's 1000 pages each year, 1500 pages for a M.S. (half-time first year), or 5000 pages for a Ph.D. (half-time two years, total of six years). I'm very serious about this; most of my evaluation of how well you are doing will be based on this metric. Quality matters too, but I will assume you are doing your best!
+</li></ul>
+<ul><li> Adviser meetings. During your first year, we'll meet three hours per week, broken up into two meetings. You may feel that there's not enough time between meetings to get any work done. However, remember that these meetings should not be regarded as meetings with your supervisor, but with a collaborator. They are a great time to get some research done, and two people are often smarter than one! As you become more comfortable with the research process, we'll meet less and less. From the second year onwards, we'll probably only meet one hour per week, unless we are working particularly closely on a problem.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 3/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key robo_wiki:pcache:idhash:14-0!1!0!!en!2 and timestamp 20090513081546 -->
+<div class="printfooter">
+Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Join_the_lab">http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php/Join_the_lab</a>"</div>
 						<!-- end content -->
 						<div class="visualClear"></div>
 		</div>
@@ -130,14 +129,17 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 		<div class="pBody">
 			<ul>
 	
-				 <li id="ca-nstab-special" class="selected"><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Main_Page" title="This is a special page, you cannot edit the page itself">Special page</a></li>			</ul>
+				 <li id="ca-nstab-main" class="selected"><a href="/~robotics/mediawiki/index.php/Join_the_lab" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/~robotics/mediawiki/index.php?title=Talk:Join_the_lab&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/~robotics/mediawiki/index.php?title=Join_the_lab&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/~robotics/mediawiki/index.php?title=Join_the_lab&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
 		</div>
 	</div>
 	<div class="portlet" id="p-personal">
 		<h5>Personal tools</h5>
 		<div class="pBody">
 			<ul>
-				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special:RecentChangesLinked" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+				<li id="pt-login"><a href="/~robotics/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Join_the_lab" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
 			</ul>
 		</div>
 	</div>
@@ -191,10 +193,10 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 		<h5>Toolbox</h5>
 		<div class="pBody">
 			<ul>
-			<li id="feedlinks"><span id="feed-rss"><a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;feed=rss&amp;target=Main_Page" title="RSS feed for this page">RSS</a>&nbsp;</span>
-					<span id="feed-atom"><a href="/~robotics/mediawiki/index.php?title=Special:RecentChangesLinked&amp;feed=atom&amp;target=Main_Page" title="Atom feed for this page">Atom</a>&nbsp;</span>
-					</li><li id="t-specialpages"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
-			</ul>
+				<li id="t-whatlinkshere"><a href="/~robotics/mediawiki/index.php/Special:WhatLinksHere/Join_the_lab" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/~robotics/mediawiki/index.php/Special:RecentChangesLinked/Join_the_lab" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/~robotics/mediawiki/index.php/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/~robotics/mediawiki/index.php?title=Join_the_lab&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/~robotics/mediawiki/index.php?title=Join_the_lab&amp;oldid=270" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
 		</div>
 	</div>
 		</div><!-- end of the left (by default at least) column -->
@@ -202,6 +204,8 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 			<div id="footer">
 				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/~robotics/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
 			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 7 May 2009, at 14:24.</li>
+					<li id="viewcount">This page has been accessed 229 times.</li>
 					<li id="privacy"><a href="/~robotics/mediawiki/index.php/RobotLab:Privacy_policy" title="RobotLab:Privacy policy">Privacy policy</a></li>
 					<li id="about"><a href="/~robotics/mediawiki/index.php/RobotLab:About" title="RobotLab:About">About RobotLab</a></li>
 					<li id="disclaimer"><a href="/~robotics/mediawiki/index.php/RobotLab:General_disclaimer" title="RobotLab:General disclaimer">Disclaimers</a></li>
@@ -210,5 +214,4 @@ Retrieved from "<a href="http://www.cs.dartmouth.edu/~robotics/mediawiki/index.p
 </div>
 
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
-<!-- Served in 0.327 secs. --></body></html>
-i
+<!-- Served in 0.214 secs. --></body></html>

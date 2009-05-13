@@ -1,93 +1,65 @@
-http://www.cs.dartmouth.edu/~linmu
+http://www.cs.dartmouth.edu/~mbell
 2
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-  <meta content="text/html; charset=ISO-8859-1"
- http-equiv="content-type">
-  <title>Mu Lin's Webpage</title>
-  <link rel="stylesheet" href="./default.css" type="text/css">
+    <title>Matthew Bell</title>
 </head>
 <body>
-<font size="+3"><big><br>
-<span
- style="font-family: Times New Roman; color: rgb(0, 0, 0); font-weight: bold;">&nbsp;Mu
-Lin &nbsp; <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;<br>
-</span></big></font><font size="+3"><big><span
- style="font-family: Times New Roman; color: rgb(0, 0, 0); font-weight: bold;"><img
- style="width: 219px; height: 199px;" alt="" src="./photo.jpg"></span></big></font><br>
-<font style="font-family: Times New Roman;" size="4"><span
- style="color: rgb(0, 0, 0);"><br>
-Hello, I'm Mu Lin. Welcome to my homepage.</span><br>
-<span style="color: rgb(0, 0, 0);"><br>
-I am currently a first year Ph.D. student in</span>
-<a style="color: rgb(51, 51, 255);" target="_blank"
- href="http://www.cs.dartmouth.edu/">Computer Science
-Department</a> <span style="color: rgb(0, 0, 0);">at</span>
-<a style="color: rgb(0, 0, 238);" target="_blank"
- href="http://www.dartmouth.edu/">Dartmouth College</a><span
- style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 238);">.</span><br>
-<br>
-<a style="color: rgb(7, 7, 7);" target="_bland"
-href="http://www.kevinresearch.wordpress.com"><span
- style="color: rgb(7, 7, 7);">My Research</span></a><br>
-<br>
-</span></font>
-<hr style="width: 100%; height: 2px;"><font size="+3"><big><span
- style="font-family: Times New Roman; color: rgb(0, 0, 0); font-weight: bold;"><br>
-</span></big></font>
-<p
- style="font-family: Times New Roman; color: rgb(0, 0, 0); font-weight: bold;"><font
- size="6">Education</font></p>
-<p style="font-family: Times New Roman;"><font size="4"><br>
-<span style="color: rgb(0, 0, 0);">Master
-of Engineering, Dept of
-Computer Science,</span>&nbsp;<a target="_blank"
- style="color: rgb(0, 0, 238);" href="http://www.zju.edu.cn">Zhejiang
-University,</a><span style="color: rgb(0, 0, 0);">P.R.China, 2006-2008</span></font></p>
-<p style="font-family: Times New Roman;"><font size="4"><span
- style="color: rgb(0, 0, 0);">Bachelor of Science,
-Dept of&nbsp;
-Applied Mathematics,</span> <a style="color: rgb(0, 0, 238);"
- target="_blank" href="http://www.hnu.cn">Hunan
-University</a><span style="color: rgb(0, 0, 0);"><span
- style="color: rgb(0, 0, 238);">,</span> </span></font><font size="4"><span
- style="color: rgb(0, 0, 0);">P.R.China,</span></font><font size="4"><span
- style="color: rgb(0, 0, 0);"> 2002- 2006.</span></font></p>
-<hr style="width: 100%; height: 2px;"><br>
-<p style="font-family: Times New Roman; color: rgb(0, 0, 0);"><b><font
- size="6">Contact</font></b>
-<br>
-<font size="4"><span style="color: rgb(0, 0, 0);"></span></font></p>
-<p style="font-family: Times New Roman; color: rgb(0, 0, 0);"><font
- size="4"><span style="color: rgb(0, 0, 0);">Dept.
-of
-Computer Science</span><br>
-6211 Sudikoff Lab<br>
-Dartmouth College<br>
-Hanover NH 03755, U.S.</font></p>
-<p><font style="font-family: Times New Roman;" size="+1"><span
- style="font-family: Times New Roman;"><span
- style="color: rgb(0, 0, 0);">Email: Mu.lin
-&nbsp;AT &nbsp;dartmout.edu</span></span><br>
-<span style="color: rgb(0, 0, 0);">Office
-Tel: 603-646-8741</span></font><font size="4"><span
- style="font-family: Times New Roman;"><span
- style="color: rgb(0, 0, 0);"></span></span><span
- style="font-family: Times New Roman;"></span></font></p>
-<hr>
-<!--time-start-->
-<p></p>
-<p style="color: rgb(0, 0, 0); font-family: Times New Roman;"></p>
-<p style="color: rgb(0, 0, 0); font-family: Times New Roman;"><font
- size="+1">Last modified: Oct. 15, 2008</font></p>
-<p style="font-family: Times New Roman;"></p>
+<table border="0">
+<tr>
+<td><img src="leaf_s.jpg"/></td>
+<td style="padding-left:20px">
+<b>Matthew Bell</b><br/>
+<i>Office:</i> 202 Sudikoff<br/>
+<i>Address:</i> 6211 Sudikoff Lab, Hanover, NH 03755<br/>
+<i>Work phone:</i> 603-646-1036<br/>
+mbell at cs dot dartmouth dot edu<br/>
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h3>About Me:</h3>
+<p>I am a Ph.D. student in the <a 
+href="http://www.cs.dartmouth.edu/~robotics">Robotics Lab</a> in the <a 
+href="http://www.cs.dartmouth.edu">Computer Science</a> department at <a 
+href="http://www.dartmouth.edu">Dartmouth College</a>. My current 
+research is on the <a href="/~robotics/flexible.html">manipulation of 
+flexible materials</a>, 
+focusing
+on the areas of robotic knot tying and cloth folding. Past research has included basic work on a <a href="#climbingRobot">climbing robot</a>, and development of a reconnaissance vehicle built on a R/C car base for use in SWAT operations.
+<p>My non-professional interests include photography, hiking, mountain biking, cross-country skiing, and geocaching.
+
+<hr/>
+
+<a name="pubs"/>
+<h3>Publications:</h3>
+<ul><a name="climbingRobot"/>
+<li>M. Bell.&nbsp;&nbsp;<i><a 
+href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-542/">A toy rock climbing robot</a></i>.<br/>
+Senior Honors Thesis, Dartmouth College; D. Balkcom, advisor. Published as Dartmouth CS TR 2005-542, August 2005.</li>
+<li>M. Bell, D. Balkcom.&nbsp;&nbsp;<a href="pubs/mpb-icra2006.pdf">"A 
+toy climbing robot"</a>.<br/>
+<i>IEEE International Conference on Robotics and Automation (ICRA 2006)</i><br/>
+May 2006.<br/>
+<a href="/~robotics/movies.html#climbingMovies">Movies</a></li>
+<li>M. Bell, D. Balkcom.&nbsp;&nbsp;<a 
+href="pubs/mpb-icra2008.pdf">"Knot 
+Tying with Single Piece Fixtures"</a>.<br/>
+<i>IEEE International Conference on Robotics and Automation (ICRA 2008)</i><br/>
+May 2008.<br/>
+<a href="/~robotics/movies.html#knotMovies">Movie</a></li>
+</ul>
+
+<hr/>
+
+<h3>Links to various old projects</h3>
+<ul>
+   <li>Basic <a href="dynSim/">dynamics simulation</a> of a 2R robot arm.
+</ul>
+
+<hr/>
+<i>Last modified: June 5, 2008.</i>
 </body>
 </html>
-lai

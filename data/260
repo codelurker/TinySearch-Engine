@@ -1,287 +1,76 @@
-http://www.cs.dartmouth.edu/~cs25/info.html
+http://www.cs.dartmouth.edu/~rangak/Research.html
 3
-<html> <head>
-<title>Computer Science 25, Fall 2008 Course Information</title>
-</head>
+<html><head>
 
-<body bgcolor=#ffffff>
-<h1><a href="/~cs25/">CS 25 Fall 2008</a><br>
-Course Information</h1>
+<link type="text/css" href="index.css" rel="stylesheet" title="default"></head><body>
 
-
-<h2>Instructor</h2>
-
-<a href="/~prasad/">Prasad Jayanti</a><br>
-Office: 224 Sudikoff Laboratory<br>
-Email: <a href="mailto:prasad@cs.dartmouth.edu">prasad@cs.dartmouth.edu</a> <br>
-Telephone: 646-1292<br>
-Office hours: 
-<ul>
-  <li> Monday, Thursday, Friday: 1:00-2.00 PM
-  <li> Tuesday: 1:00-3:00 PM
-</ul>
-
-
-<h2>Teaching Assistant</h2>
-
-Vibhor Bhatt <br>
-Eail: <a href="mailto:vibhor@cs.dartmouth.edu">vibhor@cs.dartmouth.edu</a><br>
-Office: 216 Sudikoff Laboratory<br>
-Telephone: 646-1613<br>
-Office hours: 
-<ul>
-  <li> Monday: 2.00-4.00 PM
-  <li> Tuesday: 5.30-7.30 PM
-</ul>
-
-<!--
-<h2>Undergraduate Grader</h2>
-
-Nicholas Christman <br>
-Email: <a href="mailto:Nicholas.R.Christman@cs.dartmouth.edu">Nicholas.R.Christman@cs.dartmouth.edu</a><br>
-
--->
+<div id="pageHeader">
+					<h1>
+					<br>Ranganath Kondapally
+	<!--					<a>
+						<xsl:attribute name="href">
+							<xsl:value-of select="soul/logo/about/link/url"/>
+						</xsl:attribute>
+					<img>
+						<xsl:attribute name="src">
+							../images/<xsl:value-of select="soul/logo/image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="soul/logo/description"/>
+						</xsl:attribute>
+					</img> 
+					</a>-->
+				</h1>
+				</div>
 
 
-<h2>Lectures</h2>
-
-Lectures are in 115 Sudikoff in the 10 hour: MWF, 10:00-11:05 AM.  
-X-hour is Thursday 12:00-12:50.
-
-<h2>X-hours</h2>
-<p>
-Since this course covers a lot of nontrivial material,
-I expect to use nearly all X-hours for lectures.
-Please note that there will be a lecture during the first X-hour 
-on Thursday, September 25, from 12:00 to 12:50pm.
-It is <b>extremely important</b> that you have no other engagements during X-hours.
-I cannot adequately emphasize the need to attend all lectures, including X-hours.
-
-<h2>
-Prerequisite</h2>
-<p>
-Computer Science 8 and 19.
+	<div id="direct">
+		<h1>
 
 
-<h2>Text</h2>
+				<a href="index.html">Home</a>
+				<a href="Research.html">Research</a>
+				<a href="Resume.html">Resume</a>
+				<a href="Personal.html">Personal</a>
+				<a href="Contact.html">Contact</a>
+		</h1>	
+	</div>
+						<div id="central">
+<!--	<div id="derived">
+				<p>
+					<br>
+					<br>
+					<br>
+				<a href="http://iiit.net/">About IIIT</a><br><br>
 
-There is one text, and it is required: <i>Introduction to
-Algorithms</i>, Second edition by Thomas H. Cormen, Charles
-E. Leiserson, Ronald L. Rivest, and Clifford Stein; we will refer to
-it as "CLRS."  
-
-<p>
-
-The <a href="journal.html">Day by Day</a> page will tell you what
-reading I expect you to do for each lecture.  <strong>You are
-responsible for checking the syllabus page to find out what to
-read.</strong> And you are of course responsible for then actually
-doing the assigned reading.
-
-<h2>Homework</h2>
-
-There will be weekly homework assignments.  They usually go out on 
-a Wednesday and are due in class one week later; the first homework will be
-assigned on Wednesday, October 1.  Only Professor Jayanti 
-may grant any extensions on homework assignments.
-
-<p>
-
-<!--
-Some of the exercises will be routine, but others will be more
-challenging.  I do not expect you to solve all of the challenging
-problems, but I hope that you will benefit from working on the more
-difficult ones.  
--->
-
-A few points about the homework assignments:
-
-<ul>
-<li> <strong>Start early.</strong> Difficult problems are not
-typically solved in one sitting.  Start early and let the ideas
-come to you over the course of a few days.
-<p>
-
-<li> <strong>Be rigorous.</strong> Each problem has an
-unwritten requirement that you <em>argue</em> the correctness of your algorithm
-and <em>analyze</em> its running time.  To obtain full
-credit for a problem, it is necessary to fulfill these
-requirements.  I expect a convincing correctness argument 
-and a good analysis of the running time, and not mere
-"hand waving" arguments.
-<p>
-
-<li> <strong>Be concise.</strong> Express your algorithms at the
-proper level of detail.  Give enough details to clearly present your
-solution, but not so many that the main ideas are
-obscured.  English is often a good way to express an
-algorithm; pseudocode is good for communicating a complex control
-structure.
-<p>
-
-<li> <strong>You can work with others.</strong> Some of the problems will be
-difficult, and it might often be helpful to discuss them with
-others.  Feel free to form study groups.  The idea, however, is for
-<em>everyone</em> to understand the problems and experience
-working through the solutions, and so you should not simply "give"
-a solution to another classmate.  In particular, each student
-should write up his or her own homework solutions and should
-not read or copy the solutions of others.  
-For each problem, if you worked on that problem with anyone,
-you should write down their names at the start of the solution
-to that problem.
-<p>
-
-<li><strong>Work on your own before talking to others:</strong>
-Although, as I said above, you can work with others on the homework problems,
-you will learn the most by first trying out each problem on your own.
-Make as much progress as possible on your own before you meet with your
-study group.  If you get used to working with others and
-often don't come up with the solutions on your own, 
-you may do okay in the homework component of your grade, 
-but you will suffer in the exams where you are strictly prohibited
-from collaborating with anyone (see below under the section titled ``Exams'').
-<p>
-
-<li><strong> Protocol during office hours:</strong>
-If you receive any help during office hours (from me or the TA), we require that 
-you don't take any notes during such help sessions.
-The idea is that you should understand the solution and be able to reconstruct it later
-to write up the solution on your own.
-<p>
-
-<li><strong>Extra credit problems:</strong>
-In some homeworks, I might assign extra credit problems.
-The points you get on these normally don't count towards your final grade.
-More specifically, at the end of the term
-I first assign the final grades based purely on your regular homework scores
-and the exam scores.
-I will then look at the extra credit points that you earned.
-If you are right on the border between two letter grades and there is evidence
-that you solved a substantial number of extra credit problems correctly, then
-(and only then) the effort you put into the extra credit problems can help you.
-Because of this policy, extra credit is unlikely to be helpful from
-the point of view of grades.
-I therefore encourage you to work on extra credit problems
-only after you have solved the regular problems as well as you possibly can,
-and you enjoy the challenge that the extra credit problems pose.
-</ul>       
-
-<h2>Homework Lateness Policy</h2>
-<p>
-Homework is due at the <em>beginning of class</em> on the announced due date.
-Late homework has an immediate 20% penalty
-(unless you have a valid excuse and, unless impossible,
-have discussed with me in advance), and 10% penalty per calendar day after that.
-I will not accept a homework after the next homework is due, or after the final.
-In this course, if you do not do homework on time,
-you will soon find yourself overwhelmed, so please be regular with your work.
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/resources.html">Resources</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/research.html">Research</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/rpl/xml/index.php">Papers Library</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/courses.html">Courses</a>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br>
+				</p>
+	</div>
+	-->			<div id="mesg">
+		<p id="intro">
+			Loading...........				
+		</p>
 
 
-<h2>Exams</h2>
+				</div>
+				</div>
 
-There will be a midterm exam and a final exam, both of which will be
-take-home.  Unlike the homework assignments, you may not discuss exam
-problems with anyone, not even with the professor.  
-
-<p>
-
-The midterm exam will go out on Wednesday, October 29 and will be due 
-before class starts on Wednesday, November 5.
-The midterm exam replaces that week's homework.
-
-<p>
-
-The final exam will be a takehome exam.
-It will be available on the web starting December 6 
-(more precisely, no later than 12.01am on December 6).
-You will have 48 hours to work on the exam.
-To accomodate everyone's schedule, I let each of you decide
-when you want to start on the exam, but you must start 
-on the exam no later than 11.59pm on December 8.
-This way I can be certain that I have all of the exams back 
-before noon on December 10.
-
-<h2>Grading</h2>
-
-Simple formula:
-<ul>
-  <li> Homework: 50%
-  <li> Midterm exam: 25%
-  <li> Final exam: 25%
-</ul>
-
-<h2>Honor Code</h2>
-
-<strong>All work submitted for credit must be your own.</strong>
-As explained below, the rules with regard to the extent of collaboration are different for homework and exams.
-<p>
-
-You may discuss the homework problems with your classmates, the
-TA, and Professor Jayanti,  but you must write up your own
-solutions.  For each problem, you must indicate who else you worked
-with.  Even if you worked with the same people on the entire
-assignment, be sure to write their names at the start of each solution
-to a problem.
-Any written sources used (apart from the text, your lecture notes and any 
-homework solutions that I distribute) must also be
-acknowledged; however, <strong>you may <em>not</em> consult any
-solutions on the internet or from previous years' assignments, whether they are student-
-or faculty-generated.</strong>
-
-<p>
-
-The rules are different for the exams (because 
-exams are where we find out what you have learned by doing the homework).
-Unlike the homework, any discussion of the problems is prohibited for 
-the midterm and the final exams:
-you may not discuss the problems with your classmates, the TA, the professor or anyone else.  
-You may not consult written sources other than 
-the text book, your class notes, and any homework solutions that I distribute during this term; 
-and you may not consult any electronic sources, including the internet.
-
-<p>
-You should consult a copy of <em>Sources, their Use and Acknowledgment</em>,
-which can be found on the internet at www.dartmouth.edu/~sources
-
-<p>
-Dartmouth's Academic Honor Principle applies to this course.
-Please be sure to read the principle, which you can find at
-<a href="http://www.dartmouth.edu/~deancoll"> Dean of the College's website </a>.
-
-<p>
-
-Please ask me if you have any questions about the honor code as it
-applies to CS 25.  Better safe than sorry!
-
-<h2>Disabilities</h2>
-
-Students with disabilities enrolled in this course and who may
-need disability-related accommodations are encouraged to make an appointment
-to see me before the end of the second week of the term.
-All discussions will remain confidential, although the 
-Student Accessibility Services office may be consulted
-to discuss appropriate implementation of any accommodation
-requested.
-
-<h2>Religious Observances</h2>
-
-Some students may wish to take part in religious observances that occur during
-this acdemic term.  If you have a religious observance that conflicts with
-your participation in the course, please meet with me 
-before the end of the second week of the term to discuss
-appropriate accommodations.
-
-<hr>
-
-<p>
-
-<a href="/~cs25/">Back to CS 25 home page</a>
-
-<hr>
-<address><a href="http://www.cs.dartmouth.edu/~prasad/">Prasad Jayanti 
-&lt;prasad@cs.dartmouth.edu&gt;</a></address>
-<!-- hhmts start -->
-Last modified: Tuesday, September 23, 2008
-<!-- hhmts end -->
-</body> </html>
+				<div id="end">
+				<br>
+				</div>
+				<div id="bottom">
+				Designed &amp; maintained by K.Ranganath . Any queries/problems mail to 
+rangak AT cs [.] dartmouth [.] edu
+				<br>
+Microsoft Windows Terminal Services, Windows Vista and Windows Server 2008 are trademarks of Microsoft. <br>Acknowledments to www.mezzoblue.com/zengarden for css resources and help
+				
+				</div>
+			</body></html>Micri

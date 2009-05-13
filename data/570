@@ -1,83 +1,89 @@
-http://www.cs.dartmouth.edu/~map/people.php
+http://www.cs.dartmouth.edu/farid/egypt/sennedjem.html
 3
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
+<html>
 <head>
-    <title>MAP
- | people         
-</title>
-<link rel="stylesheet" href="http://www.cs.dartmouth.edu/~map/include/style.css" type="text/css" /><link rel="icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" />
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<title>The Burial Chamber of Sennedjem</title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<body>
-<div class="outer pc75">
-<div class="inner mg177">
-<div class="title">
-<span class="name"><a href="http://www.cs.dartmouth.edu/~map"><img
-    src="img/map-logo.png" alt="MAP logo"></a></span>
-</div>
-</div>
-</div>
-<div id="navcontainer">
-<ul id="navlist">
-    <li><a href="http://www.cs.dartmouth.edu/~map/index.php" >Home</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/papers.php" >Papers</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/biblio.php" >Bibliography</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/links.php" >Links</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/wiki.php" >Wiki</a></li>
-<li id="active"><a href="http://www.cs.dartmouth.edu/~map/people.php"  id="current">People</a></li>
-<li><a href="http://www.cs.dartmouth.edu/~map/mapstats.php" >MAP Testbed</a></li>
-</ul>
-<br/>
-<div id="navimgcontainer">
-<a href="http://www.hsarpacyber.com"><img src="img/dhs.jpg" alt="DHS logo" title="Sponsored by HSARPA as part of the Cyber Security Research and Development (CSRD) program" height=100></a>
-<a href="http://www.ists.dartmouth.edu"><img src="img/ists.png" alt="ISTS logo" width=50></a>
-<a href="http://www.arubanetworks.com"><img src="img/aruba.png" alt="Aruba Networks logo"></a>
-<a href="http://www.cs.uml.edu"><img src="img/uml.gif" alt="UMass Lowell logo"></a>
-</div>
-</div>
-<div id="content">
+<table align=center width=750>
+<tr>
+<td width=350 valign=top> 
+<b> The burial chamber of Sennedjem </b>
+<BR>
+<p>
 
-    <div class="bodybold">Faculty</div>
-    <ul>
-        <li><a href="http://www.cs.dartmouth.edu/~dfk/">David
-            Kotz</a></li>
-        <li><a href="http://www.cs.dartmouth.edu/~campbell/">Andrew
-            Campbell</a></li>
-        <li><a href="http://www.cs.uml.edu/~glchen/">Guanling
-            Chen</a></li>
-    </ul>
-    
-    <div class="bodybold">Staff</div>
-    <ul>
-    <li>Bennet Vance</li>
-    <li><a href="http://www.hasborg.com/">Joshua Wright</a></li>
-    <li>Michael Locasto</li>
-</ul>
-    
-    <div class="bodybold">Students</div>
-    <ul>
-        <li><a href="http://www.cs.dartmouth.edu/~udayan/">Udayan
-            Deshpande</a></li>
-        <li><a href="http://www.cs.dartmouth.edu/~keren/">Keren
-            Tan</a></li>
-        <li>Hongda Yin</li>
-    </ul>
+Shown to the right are a pair of photographs taken from each end of
+Sennedjem's burial chamber.  The extensive distortions are due to the
+curved ceiling, the wide-angle lens, and the inherent effects of
+perspective projection.  Under these conditions it is nearly
+impossible to obtain a complete distortion-free view of the burial
+chamber.
 
-    <hr/>
+<BR><BR>
 
-    <img src="img/map_group.jpg" alt="the MAP group"></img>
+In order to create a single distortion-free mosaic, we digitally
+estimate and remove these distortions.  To see how this works consider
+the pair of images of neighboring ceiling panels shown <a
+href="sennedjem/senimage2.jpeg"> here</a>. The distortions are
+estimated by first specifying the initial (yellow circles) and desired
+(red circles) position of several points in the image.  A non-linear
+mapping characterizing the distortions is then automatically
+estimated.  The distortions are removed by warping the initial image
+according to this mapping as shown <a href="sennedjem/senimage2.jpeg">
+here</a>.  Where necessary, the aspect ratio is adjusted and
+variations in lighting are manually corrected by locally adjusting the
+color/lightness.  Finally, neighboring images are combined by manually
+overlaying their common parts and removing the overlapping areas.
 
-    <hr/>
-    <p>
-    Interested in joining us? <a
-        href="http://cmc.cs.dartmouth.edu/openings/">Openings
-        available.</a>
-    </p>
+<BR><BR>
 
-</div>
-</body>
+We begin with sixteen photographs with nearly full coverage of
+Sennedjem's burial chamber. The distortions in each image are removed
+and then seamlessly combined to form a complete and distortion-free
+view of the entire burial chamber as shown to the right (at 1/40 resolution).
+These images can then be combined with a three-dimensional computer
+model of the burial chamber giving an immersive experience of this
+chamber's beauty [Quicktime Movies: <a href="sennedjem/senmovie1.qt">
+310x240 (18MB)</a>; <a href="sennedjem/senmovie2.qt"> 155x120 (9MB)</a>]
+
+<BR><BR>
+
+<a href=sennedjem/virtualtomb/jME_sennedjem.jnlp>Virtual Tomb</a> (use
+arrow keys to move, shift-arrow to change view direction, ESC to quit)
+
+</td> 
+
+<td>&nbsp&nbsp</td>
+
+<td width=400 valign=top align=left>
+<BR><BR>
+<IMG SRC = "sennedjem/senimage1.jpeg" width=385 height=532>
+<BR>
+<BR>
+<A HREF="sennedjem/senimage3.jpeg"><IMG SRC="sennedjem/senimage3a.jpeg" width=385 height=82></A>
+</td>
+</tr>
+</table>
+
+
+
+<HR>
+<table align=center width=750>
+<tr>
+<td align=left>
+<i><a href="../egypt/reconstruction.html">Related material</a></i>
+</td>
+
+<td valign=top align=right>
+	<i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	</i>
+</td>
+</tr>
+</table>
 </html>
+
+suresafi

@@ -1,192 +1,143 @@
-http://www.cs.dartmouth.edu/~pala
+http://www.cs.dartmouth.edu/~jv
 2
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html lang="en"><head><title>Massimiliano Pala - Home Page</title>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="AUTHOR" content="Massimiliano Pala">
-   <link rel="stylesheet" href="css/pala-new.css" type="text/css"></head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Title      : Interlude
+Version    : 1.0
+Released   : 20080903
+Description: A multi-column, fixed-width design for 800x600 resolutions.
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Jason Vertrees, Phd</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+</head>
 <body>
+<!-- start header -->
+<div id="header">
+	<div id="logo">
+		<h1><a href="http://www.cs.dartmouth.edu/~jv">Jason Vertrees</a></h1>
+		<p><a href="http://www.cs.dartmouth.edu/~jv">Postdoctoral Research Fellow in Computational Biology</a></p>
+	</div>
+</div>
+<hr />
+<!-- end header -->
+<!-- start page -->
+<div id="wrapper">
+	<div id="page">
+		<!-- start content -->
+		<div id="content">
+			<div class="post">
+				<p class="date">October<b>9</b></p>
+				<h2 class="title">Welcome</h2>
+				<p class="meta"><small>`whoami` | present research | past research | pymol &amp; PyMOLWiki</small></p>
+				<div class="entry">
+					<h4>`whoami`</h4>
+					<p>
+						I am a postdoctoral researcher working with <a href="">Simon Kasif</a> at <a href="http://www.bu.edu/">BU</a> and <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> here at <a href="http://www.dartmouth.edu">Dartmouth College</a>.  In May, 2008, I completed my PhD in theoretical biophysics.  My dissertation supervisor was <a href="http://http://www.hbcg.utmb.edu/hilser/index.htm/">Vincent Hilser</a>.
+					</p>
 
-<div class="index"><font class="on">Home</font></div>
-<div class="border">
-<div class="page_body">
-<!-- Begin: Title -->
-<div style="padding: 10px;">
-	<font class="fronttext">Massimiliano Pala</font><br />
-	<font class="backtext">Computer Science - Dartmouth College</font><br />
-	<font class="backtext">Post-doctoral Research Fellow</font>
-</div>
+					<h4>Current Research</h4>
+					<p>
+					I am presently using machine learning to determine if we can predict protein function from small molecule docking experiments.  This is a new project.
+					</p>
 
-<!-- End: Title -->
-<!-- Begin: Menu -->
-<!-- Begin: Menu Include -->
-<div class="gold">
-<div class="tl">
-<div class="tr">
-<div class="bl">
-<div class="br">
-<div class="inner">
-<ul class="menu">
-<li class="menu"><a href="index.shtml">Home</a></li>
-<li class="menu"><a href="research_activities.shtml">Research Activities</a></li>
-<li class="menu"><a href="courses.shtml">Teaching</a></li>
-<li class="menu"><a href="students.shtml">Students</a></li>
-<li class="menu"><a href="publications.shtml">Publications</a></li>
-<li class="menu"><a href="contacts-dartmouth.shtml">Contacts</a></li>
-<li class="menu"><a href="cv/pala-bio.pdf">CV</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- End: Menu Include -->
+					<h4>Past Research</h4>
+					<p>
+					My previous research focused on the nature the protein fold through a statistical thermodynamic model. Biologists are well aware that proteins are highly dynamic macromolecules. Proteins are not static structures&#8212;they're dynamic species sampling a huge array of conformational states. We augmented current methods and produced new knowledge about proteins by considering them in this manner. For more information see <a href="http://www.hbcg.utmb.edu/hilser/publications.htm">Dr. Hilser's Publications</a> or <a href="">my dissertation</a>.
+					</p>
 
-<!-- End: Menu -->
-<!-- Begin: News -->
-<div style="margin: 10px; padding: 10px; width: 100%;">
-<div class="tttitle">
-<font class="title"> News </font>
-</div>
-<div class="tttbody">
-<p>
-<ul>
-<li>
-<span class="date">Jan 2008</span>
-Additional coursework for the <a href="courses/cs108_08">Advanced Operating Systems (CS 108)</a> class is available <a href="courses/cs108_08/coursework.shtml">here</a>.
-</li>
-<li>
-<span class="date">Dec 2007</span>
-Updated Syllabus for the
-<a href="https://wiki.cs.dartmouth.edu/patrick/doku.php?id=cryptography_workshop_2008">
-Introduction to Practical Cryptography</a>
-workshop is available. 
-The WS is now scheduled for the Summer Term (hopefully)
-</li>
-<li>
-<span class="date">Oct 2007</span>
-<a href="https://wiki.cs.dartmouth.edu/patrick/doku.php?id=cryptography_workshop_2007_fall_07">Introduction to Practical Cryptography</a> workshop (hopefully) scheduled for the Spring Term
-</li>
-<li>New course informations <a href="courses.shtml">available here</a></li>
-<li>Fosdem slides are available <a href="http://www.fosdem.org/index/speakers/speakers_pala">here</a></li>
-</p>
+					<h4>PyMOL &amp; The PyMOLWiki</h4>
+					<p>
+					I also spend a fair amount of my time working with the open-source molecular visualization program, <a href="http://www.pymol.org/">PyMOL</a> and the PyMOL support &amp; documentation site I run, the <a href="http://www.pymolwiki.org/">PyMOLWiki</a>.  (The image in the title bar at the top of this page is DNA &amp; was created in <a href="http://www.pymol.org/">PyMOL</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+		<!-- end content -->
+		<!-- start sidebar -->
+		<div id="sidebar">
+			<ul>
+				<li id="categories">
+					<h2>Other Stuff</h2>
+					<ul>
+						<li><a href="media/Jason_Vertrees_CV.pdf">Curriculum Vitae</a> [pdf]</li>
+						<li><a href="media/Jason_Vertrees_Dissertation.pdf">Disseration</a> [pdf: 13 MB]</li>
+					</ul>
+					<h2>Coding Notes</h2>
+					<ul>
+						<li><a href="ajax_binary_embedded_data.html">AJAX &amp; Embedded Binary Data</a></li>
+					</ul>
+					<h2>Contact</h2>
+					<ul>
+						<li>
+							<p class="info">Jason Vertrees, PhD<br />6211 Sudikoff Laboratory<br />Room #252<br />Hanover, NH 03755</p>
+							<p class="info">jv _@_ cs dot dartmouth _dot_ edu</p>
+							<p class="info">(603) 646.8724</p>
+						</li>
+					</ul>
+				</li>
+			
+			<img src="me.jpg" style="border: 0; float: right"/>
 
+		</div>
+		<!-- end sidebar -->
+		<br style="clear: both;" />
+	</div>
 </div>
-<!-- Begin: Background -->
-<div class="tttitle">
-<font class="title">Background</font>
+<!-- end page -->
+<!-- start footer -->
+<div id="wrapper2">
+	<div id="footer">
+		<ul>
+			<li class="first">
+				<h2>Research</h2>
+				<ul>
+					<li><a href="http://en.wikipedia.org/wiki/Protein">Proteins</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Computational_biology">Computational Biology</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Protein_docking">Protein Docking</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Statistical_thermodynamics">Statistical Thermodynamics</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Statistics">Statistics</a></li>
+				</ul>
+			</li>
+			<li>
+				<h2>Cool Things</h2>
+				<ul>
+					<li><a href="http://en.wikipedia.org/wiki/Machu_Picchu">Machu Picchu, Peru</a></li>
+					<li><a href="http://www.railtrails.org/index.html">Rail Trails</a></li>
+					<li><a href="http://www.usatriathlon.org/">Triathlon/Duathlon</a></li>
+					<li><a href="http://www.freechess.org/">Chess</a></li>
+					<li><a href="http://www.dogfish.com/">Dogfish Head Brewery</a></li>
+				</ul>
+			</li>
+			<li>
+				<h2>Stuff to Know</h2>
+				<ul>
+					<li><a href="http://www.latex-project.org/">LaTeX</a></li>
+					<li><a href="http://www.linux.org/">Linux</a></li>
+					<li><a href="http://www.r-project.org/">The R Project</a></li>
+					<li><a href="http://www.pymol.org/">PyMOL</a></li>
+					<li><a href="http://tldp.org/LDP/abs/html/">BASH</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Object-oriented_programming"></a>OOP</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<p id="legal"> &copy;2007 Interlude. All Rights Reserved.
+		&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+		Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+		Icons by <a href="http://famfamfam.com/">FAMFAMFAM</a>.	<a href="http://validator.w3.org/check/referer" class="xhtml" title="This page validates as XHTML">Valid <abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="http://jigsaw.w3.org/css-validator/check/referer" class="css" title="This page validates as CSS">Valid <abbr title="Cascading Style Sheets">CSS</abbr></a> </p>
 </div>
-<div class="tttbody">
-<p>
-I received my Ph.D. from the 
-<a href="http://www.polito.it">Poilitecnico di Torino</a> in 
-<a href="http://security.polito.it">Computer Engineering</a> in March 2007.
-<!--
-under the supervision of Prof. <a href="http://taurus.polito.it/~lioy">
-Antonio Lioy</a>.
--->
-Following my doctorate, I joined Dartmouth College as a Post-Doctoral 
-Research Fellow with the Institute for Security Technology Studies (ISTS).
-During my graduate studies, I worked at the
-<a href="http://www.dartmouth.edu/~pkilab">PKI/Trust Lab</a> at
-<a href="http://www.dartmouth.edu">Dartmouth College</a> for six months
-where I contributed to the work of Prof. 
-<a href="http://www.cs.dartmouth.edu/~sws">Sean Smith</a> and his
-collaborators.
-Before then, I worked for several companies as PKI/Security consultant.
-In 1998, I started the <a href="http://www.openca.org">OpenCA project</a>
-and I still continue its development and management.
-In addition to my Ph.D., I hold a Laurea (equiv. to BS and MS) in 
-Computer Engineering from the
-<a href="http://www.unimo.it">University of Modena, Italy</a>.
-</p>
-
-
-</div>
-<!-- End: Background -->
-<!-- Begin: Research Interests -->
-<div class="tttitle">
-<font class="title">Scholarly Interests</font>
-</div>
-<div class="tttbody">
-<p>
-Security is an important aspect of life. Even more when it comes to internet
-and <i>Identity Management</i>.
-Public Key Infrastructures help in providing an efficient method to issue
-digital identities that can be used over public network to secure
-communications and data exchange.
-My <i>long term goal</i> is to make the deployment of PKIs and usage of
-Digital Certificates on a large scale feasable for every day use.
-My research has potential impacts on many fields.
-The capillary adoption of certificates at every level, i.e. for small
-pervasive devices (sensors or mobile phones) or for people (digital IDs
-and passports), can stimulate research in the area by rethinking the
-principles of PKIs.
-<!--
-The successful deployment of large PKIs will also raise important questions
-in social sciences, e.g., "how will the use of these techologies impact on
-the society ?" and "How to improve user awareness about the importance of
-using secure communications in a digital world ?".
--->
-Moreover adoption of digital certificates and digital identities provided
-by governments will allow for new opportunities in eCommerce, Privacy and
-Digital Data Management.
-</p>
-<p>
-My <a href="research_activities.shtml">current research</a>
-work aims to achieve usable security that uses digital certificates to
-simplify key management issues.
-Rather than focusing on the definition of new cryptographic algorithms, my
-research is aimed to provide simpler and effective trust management.
-My short term objective is to make current PKI technology easy to use for
-both application developers and users. For this I am working toward the
-definition and standardization of a new <a href="http://www.ietf.org/internet-drafts/draft-pala-prqp-00.txt">PKI Resource Discovery Protocol</a>.
-Moreover I started several <a href="research_activities.shtml#projects">
-projects</a> that serve as frameworks to deploy my research into real
-environments.
-</p>
-<p>
-To pursue my long term goal, I will focuse my teaching efforts on providing
-students with a global vision about security issues by exposing them to both
-technical and non-technical aspects.
-I also plan to leverage the interdisciplinary nature of security in order to
-collaborate with other departments.
-This will stimulate students and collaborators to think about
-security and privacy issues as a whole: a complex and comprehensive process.
-Moreover the experience acquired in years of consultancy work in the
-area allow me to more effectively help students in their curriculum
-development.
-</p>
-
-</div>
-<!-- End: Research Activities -->
-<!-- Begin: Teaching Activities-->
-<div class="tttitle">
-<font class="title">Teaching</font>
-</div>
-<div class="tttbody">
-<ul>
-    <li>
-    Advanced Operating Systems - CS108 (2008 - Dartmouth College)
-    </li>
-    <li>
-    Security and architecture of distributed systems (2006 - Politecnico di Torino)
-    </li>
-    <li>
-    Organizational Models and Strategies for e-Business (2005 - Politecnico di Torino)
-    </li>
-</ul>
-
-</div>
-<!-- End: Research Activities -->
-</div>
-<!-- End: Main Contents -->
-</div>
-</div>
-<div style="display: inline;" class="footer">
-Massimiliano Pala @ Dartmouth College
-</div>
+<!-- end footer -->
 </body>
 </html>
-

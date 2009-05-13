@@ -1,58 +1,182 @@
-http://www.cs.dartmouth.edu/farid/research/animation.html
+http://www.cs.dartmouth.edu/farid/yearinreview03.html
 3
 <html>
 <head>
-<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
-<title> Animation </title>
+<title> Hany Farid: Image Science Group </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=750 border=0>
-<tr>
-
-<td valign=top> 
-<b> Animation </b>
-<BR>
-<p>
-We are interested in finding low-dimensional representations of
-complex human motions.  For example, each frame of the 3-D motion
-sequence shown to the right can be described by a 36-dimensional
-vector (12 joints, each with X,Y,Z values).  
-
-<BR><BR>
-
-We have been developing computational techniques for reducing the
-dimensionality of this data into a lower and perceptually meaningful
-space.  In this example, we are able to find a one-dimensional
-representation that corresponds to the inherent one-dimensional nature
-of the motion.
-
-<BR><BR>
-
-<i>(Collaborative work with Fred Henle and <a
-href="http://www.cs.duke.edu/~brd"> Bruce Donald</a>)</i>
-
-<td>&nbsp&nbsp</td>
-
-<td valign=top> <BR><BR><img src="jump.gif" alt="alternative text"> 
-
-</tr>
-</table>
-<BR>
-
-<HR>
-
 <table align=center width=750>
 <tr>
-<td valign=top align=right>
-	<font size=-1><i>
-	<a href="../home.html"> Home</a> &nbsp &nbsp
-	<a href="research.html"> Research</a> 	
-	</i></font>
+<td>
+
+<p>
+<b> Year in Review: 2003 </b>
+
+<p>
+
+The <a href="group.html">Image Science Group</a> has had a busy and
+productive year.  The group now consists of a resident computer
+graphics expert and animator, Lorie Loeb, four Ph.D. students (Kimo
+Johnson, Siwei Lyu, Alin Popescu, and Hai Sun), and three
+undergraduates (Joe Pechter, Will Pechter, and Tim Williamson).
+
+<p>
+
+Joe, Will and Tim are all primarily working with Lorie on some
+exciting new projects at the crossroads of graphics, animation, and
+vision.  The main emphasis of the rest of the group is in Digital
+Forensics and Medical Imaging, with a smattering of other projects in
+a variety of areas. As usual, more details can be found at
+www.cs.dartmouth.edu/farid.
+
+<p>
+
+The lab recently purchased an 18 node (36 processor) Linux cluster -
+each processor is a 3.06GHz Xeon chip with 2GB of memory. The cluster
+is helping us with some heavy computational jobs consisting of
+analyzing tens of thousands of images and audio files.
+
+<p>
+
+Sudikoff is building an extension to help the department with our
+space shortage. We hope, by next summer, to move into a new 1000+
+sq. ft. lab (more than twice the size of our current space).  And,
+don't worry, I've already ordered the black paint.
+
+<p>
+
+Senthil Periaswamy defended his thesis this year (General-Purpose
+Medical Image Registration), and is currently at Siemens, located
+outside of Philadelphia.  It was hard to see Senthil leave, but he is
+doing some exciting new work at Siemens.  Below are two papers
+describing most of his thesis work:
+
+<p>
+
+	<dd> S. Periaswamy and H. Farid </dd>
+	<dd> Elastic Registration in the Presence of Intensity Variations </dd>
+	<dd> IEEE Transactions on Medical Imaging, 22(7):865-874, 2003.  </dd>
+
+<p>
+
+	<dd> S. Periaswamy and H. Farid </dd>
+        <dd> Elastic Registration with Partial Data </dd>
+        <dd> Second International Workshop on Biomedical Image Registration, Philadelphia, PA, 2003. </dd>
+
+<p>
+
+Siwei Lyu has been doing some outstanding work in modeling and
+understanding the statistics of natural images, and using those models
+in several different digital forensic settings.  Here are some of the
+most recent papers describing this work:
+
+<p>
+
+     <dd>S. Lyu and H. Farid </dd>
+     <dd> How Realistic is Photorealistic? </dd>
+     <dd> Computer Vision and Pattern Recognition (CVPR), 2004 </dd>
+
+<p>
+
+     <dd>S. Lyu and H. Farid </dd>
+     <dd> Steganalysis Using Color Wavelet Statistics and One-Class Support Vector Machines </dd>
+     <dd> SPIE Symposium on Electronic Imaging, San Jose, CA, 2004. </dd>
+
+<p>
+
+     <dd>H. Farid and S. Lyu </dd>
+     <dd> Higher-order Wavelet Statistics and their Application to Digital Forensics</dd>
+     <dd> IEEE Workshop on Statistical Analysis in Computer Vision (in conjunction with CVPR), Madison, Wisconsin, 2003 </dd>
+
+<p>
+
+Alin Popescu will be proposing his Ph.D. thesis early in 2004.  Alin
+has been doing some pioneering work in the area of digital forensics,
+with an emphasis in detecting local and specific forms of digital
+tampering.  Here are some recent papers, not yet on the web page, but
+should be there shortly:
+
+<p>
+
+       <dd>A.C. Popescu and H. Farid </dd>
+       <dd> Statistical Tools for Digital Forensics </dd>
+       <dd> 6th International Workshop on Information Hiding, 2004 </dd>
+
+<p>
+
+       <dd> A.C. Popescu and H. Farid </dd>
+       <dd> Exposing Digital Forgeries by Traces of Re-sampling </dd>
+       <dd> IEEE Transactions on Signal Processing, 2004 </dd>
+
+<p>
+
+Hai Sun has been doing some spectacular work in the area of
+image-guided neurosurgery.  Hai is an MD/Ph.D. student and is
+co-advised with Keith Paulsen at Thayer.  Hai has solved some very
+hard problems to build a near real-time system for overlaying
+pre-operative MR data with a surgeon's microscope view.  Hai will be
+defending his thesis next year.  Below are some recent papers
+describing his work from both the clinical and technical sides:
+
+<p>
+
+      <dd>H. Sun, D.W. Roberts, H. Farid, Z. Wu, A. Hartov, and K.D. Paulsen </dd>
+      <dd> Cortical Surface Tracking Using a Stereoscopic Operating Microscope </dd>
+      <dd> Neurosurgery, 2004 </dd>
+
+<p>
+
+      <dd>H. Sun, H. Farid, D.W. Roberts, K. Rick, A. Hartov, and K.D. Paulsen </dd>
+      <dd> A Non-Contacting 3-D Digitizer for Use in Image-Guided Neurosurgery </dd>
+      <dd> Steroetactic and Functional Neurosurgery, 2003 </dd>
+
+<p>
+
+      <dd>H. Sun, H. Farid, K. Rick, A. Hartov, D.W. Roberts, and K.D. Paulsen </dd>
+      <dd> Estimating Cortical Surface Motion Using Stereopsis for Brain Deformation Models </dd>
+      <dd> Medical Image Computing & Computer Assisted Intervention (MICCAI), Montreal, Canada, 2003 </dd>
+
+
+<p>
+
+Jethro Rothe-Kushel graduated and is currently in Mexico City working
+on a series of short films based on the theme of Mexican rituals.
+Jethro, for those of you who have not had the pleasure to meet him, is
+a remarkable young man, and I expect that we will all be seeing some
+great things from him in the years to come.
+
+<p>
+
+And finally, after 8 years of work, I and a co-author have completed a
+paper that describes the (mathematically) proper way to compute
+derivatives of discrete images/volumes/etc of arbitrary orders.  This
+was a long fought battle, with many dead-ends, and frustrating starts
+and finishes.  We had, on many occasions, given up hope that a
+solution was possible, but earlier this year we had several
+break-throughs and were happy to see the paper accepted:
+
+<p>
+
+      <dd>H. Farid and E.P. Simoncelli </dd>
+      <dd> Differentiation of Discrete Multi-Dimensional Signals </dd>
+      <dd> IEEE Transactions on Image Processing, 2004</dd>
+
+<p>
+
+All of the above mentioned papers (and more) are available at:
+
+<p>
+
+     <dd><a href="http://www.cs.dartmouth.edu/farid/publications">www.cs.dartmouth.edu/farid/publications</a>
+ </dd>
+
 </td>
 </tr>
 </table>
-</html>
 
+</body>
+</html>

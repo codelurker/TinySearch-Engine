@@ -1,117 +1,173 @@
-http://www.cs.dartmouth.edu/~afra/teaching.html
-3
-<html>
+http://www.cs.dartmouth.edu/~tanzeem/press/press.html
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-<title>Afra's Teaching</title>
-<link rel="stylesheet" href="./style.css" type="text/css">
+
+
+  
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+
+
+  
+
+
+
+  
+  <title>Press</title>
+<!-- #EndEditable -->
+  <link href="../styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+
+  
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+  </style>
 </head>
 
-<body bgcolor=#ffffff >
 
-<hr align=center noshade>
-
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign=top>
-
-<!-- ----- Left-hand side navbar ----- -->
-<td align=right>
-<font size="+1" align=right>
-afra<br>
-zomorodian<br>
-<br>
-</font>
-<a href="./">home</a><br>
-<a href="personal.html">personal</a><br>
-<a href="book.html">book</a><br>
-<a href="papers.html">papers</a><br>
-<b>teaching</b><br>
-<a href="goodies.html">goodies</a><br>
-<br><br>
-</td>
-
-<!-- ----- Interior left margin ----- -->
-<td width=25>&nbsp;</td> 
-
-<!-- ----- Page body ----- -->
-<td>
-
-<!-- ----- Interior table for content ---- -->
-<table cellspacing=0 cellpadding=0 border=0>
-<tr valign=top>
-
-<!-- ----- Eye candy ---- -->
-<td>
-<table cellspacing=0 cellpadding=0 border=0>
-<tr><td align = center valign = top><br></td></tr>
-<tr><td align = center valign = top><img  src="images/2.png" width=90></td></tr>
-<tr><td align = center valign = top><br></td></tr>
-<tr><td align = center valign = top><img  src="images/3hole.png" width=100></td></tr>
-<tr><td align = center valign = top><br></td></tr>
-</table>
-</td> 
-
-<!-- ----- Margin ----- -->
-<td width=25>&nbsp;</td> 
+<body>
 
 
-<!-- ----- Content, finally ----- -->
-<td>
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
 
-<!-- <h4>Winter 2008 Courses</h4>
+
+<h3>Assistant Professor</h3>
+
+
+<h4>Computer Science, Dartmouth College</h4>
+
+
+</div>
+
+
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
 <ul>
-</ul>
--->
 
-<h4>Courses Taught</h4>
-<p>
-All courses at 
-<a href = "http://www.cs.dartmouth.edu">Dartmouth College</a>, 
-unless noted otherwise.
-<ul>
-<li><a href = 
-"http://www.cs.dartmouth.edu/~afra/ct">Introduction to 
-Computational Topology (COSC 85/185)</a>, Spring 2009.
+
+  <li><a href="../index.html">About</a></li>
+
+
+  <li><a href="../pubs/pubs.html">Publications</a></li>
+
+
+  <li><a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a></li>
+
+
+  <li><a href="../students/students.html">Students</a></li>
+
+
+  <li><a href="../teaching/teaching.html">Teaching</a></li>
+
+
+  <li><a href="press.html">Press</a></li>
+
+
+  <li><a href="../links/links.html">Links</a></li>
+
+
+  <li><a href="../contact/contact.html">Contact</a></li>
+
+
 </ul>
-<p>
+
+
+</div>
+
+
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
 <ul>
-<li><a href = 
-"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter09">Discrete
-    Mathematics for Computer Science (COSC 19)</a>, Winter 2009.
-<li><a href = 
-"http://www.cs.dartmouth.edu/~afra/courses/cs44/winter09">Artificial Intelligence (COSC 44)</a>,
-  Winter 2009.
-<li><a href = 
-"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter08/">Discrete
-    Mathematics for Computer Science (COSC 19)</a>, Winter 2008.
-<li><a href = 
-"http://www.cs.dartmouth.edu/~afra/courses/cs44/winter08">Artificial Intelligence (COSC 44)</a>,
-  Winter 2008.
-<li><a href = 
-"http://www.cs.dartmouth.edu/~afra/courses/ct/spring07/">Introduction to 
-Computational Topology (COSC 85/185)</a>, Spring 2007.
-<li><a href =
-"http://www.cs.dartmouth.edu/~afra/courses/cs19/winter07/">Discrete
-Mathematics for Computer Science (COSC 19)</a>, Winter 2007.
-<li><a href =
-"http://graphics.stanford.edu/courses/cs468-04-winter/">Introduction to
-Computational Topology (CS 468)</a>, 
-<a href = "http://www.cs.stanford.edu">Stanford University</a>, Winter 2004.
-<li><em>Mini-Kurse:  Topology for Computing</em>, 
-<a href = "http://www.mpi-inf.mpg.de/">Max-Planck-Institut f&uuml;r 
-Informatik</a>, Winter 2003.
-<li><a href =
-"http://graphics.stanford.edu/courses/cs468-02-fall/">Introduction to
-Computational Topology (CS 468)</a>, 
-<a href = "http://www.cs.stanford.edu">Stanford University</a>, Fall 2002.
+
+
+  <li>Northwestern University Media Management Center blog. 2009.
+&nbsp;<a href="http://www.mediainfocenter.org/MMCDigiMe/index.asp">What
+if News is Searched for You?</a></li>
+
+
+  <li>National Science Foundation. 2009. &nbsp;<a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494"><span class="pageheadline">Computer Science--A Growing Field That
+Needs a Few (More) Good Women</span></a></li>
+
+
+  <li><span class="pageheadline">Dartmouth.com.
+2008. <a href="http://thedartmouth.com/2008/09/25/news/tech/">Choudhury
+Honored for Tech Research</a><br />
+
+
+    </span></li>
+
+
+  <li>MIT Technology Review. 2008. <a href="http://www.technologyreview.com/Infotech/20844/page1/">
+The Future of Mobile Social Networking</a></li>
+
+
+  <li>MIT Technology Review. 2007. <a href="http://www.technologyreview.com/Infotech/19196/">Making
+Phones Polite</a></li>
+
+
+  <li>MIT Technology Review. 2007. <a href="http://www.technologyreview.com/Infotech/18990/">The
+iPhones Untapped Potential</a></li>
+
+
+  <li>MIT Technology Review. 2007. <a href="http://www.technologyreview.com/Infotech/19185/">
+Keeping Gadets from Interrupting</a></li>
+
+
+  <li>Business + Strategy. 2007. <a href="http://www.strategy-business.com/press/article/07307?pg=all">
+The Science of Subtle Signals</a></li>
+
+
+  <li>CNET news. 2007. <a href="http://www.news.com/2300-1008_3-6192284-1.html">Intel's
+Science Fair</a></li>
+
+
+  <li>Scientific American Frontiers: <a href="http://www.pbs.org/saf/1309/features/digital2.htm">
+Digital World</a>. 2003.</li>
+
+
+  <li>BBC documentary: Tomorrow's World. Memory Glasses featuring
+my wearable face recognition project. Aired May 10, 2000 on BBC1<br />
+
+
+    <br />
+
+
+  </li>
+
+
 </ul>
-</td>
-</table>
-<!-- ----- Right-hand margin ----- -->
-<td width=32>&nbsp;</td>
-</tr> 
-</table>
-<hr align=center noshade>
+
+
+<!-- #EndEditable --></div>
+
+
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="../index.html">About</a> |
+<a href="../pubs/pubs.html">Publications</a> | <a href="../cv/TanzeemChoudhury_CV_June2008.pdf">C.V.</a>
+| <a href="../students/students.html">Students</a>
+|
+<a href="../teaching/teaching.html">Teaching</a> |
+<a href="press.html">Press</a> | <a href="../links/links.html">Links</a> | <a href="../contact/contact.html"> Contact</a></p>
+
+
+</div>
+
+
+<!-- End Footer --></div>
+
+
+<!-- End content_container --></div>
+
+
+<!-- End Container -->
 </body>
 </html>
-2008.(<i

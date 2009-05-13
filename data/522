@@ -1,94 +1,84 @@
-http://www.cs.dartmouth.edu/~wbc/suditour/switches/access-points.html
+http://www.cs.dartmouth.edu/~wbc/suditour/003/index.html
 3
-<head></head>
-<body>
-<h2>Access points in Sudikoff</h2>
-Tristan has a map of AP's <a href="http://www/~place/floorplans"> here.</a>
-Sudikoff is 98
-<table border=5>
-<tr><td> name </td><td> ip </td><td> mac address <br>wire/air</td><td> serial </td><td> location </td><td> project </td></tr>
-<tr><td><a href="">sudi-98-1-1-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:87:E8<br>00:0B:86:81:87:E0</td><td>AT00007392</td><td>011</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-1-2-ap</a></td><td>129.170.210. </td><td>00:0B:86:83:B5:88<br>00:0B:86:83:B5:80</td><td>AT00005587</td><td>outside 007</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-1-3-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:C9:48<br>00:0B:86:80:C9:40</td><td>AT00005589</td><td>004</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-1-4-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:DA:E8<br>00:0B:86:80:DA:E0</td><td>AT00005501</td><td>005 corridor</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-1-5-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:24:C0<br>00:0B:86:81:24:C0</td><td>AT00005501</td><td>067 corridor</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-1-6-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:18:60<br>00:0B:86:81:18:68</td><td>AT00005501</td><td>0e extension<br>near 055</a></td><td>monitor</td></tr>
-<tr><td><a href="">sudi-98-1-7-ap</a></td><td>129.170.212. </td><td>00:0B:86:80:e4:e0<br>00:0B:86:80:e4:e8</td><td>AT00005501</td><td>0e extension<br>pki-labn</a></td><td>monitor</td></tr>
-<tr><td><a href="">sudi-98-2-1-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:47:88<br>00:0B:86:81:47:80</td><td>AT00007096</td><td>117-122</a></td><td>air monitor</td></tr>
-<tr><td><a href="">sudi-98-2-2-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:E0:38<br>00:0B:86:80:E0:30</td><td>AT00005580</td><td>front entry</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-2-3-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:F7:08<br>00:0B:86:80:F7:00</td><td>AT000055</td><td>1s corridor<br>to extension</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-2-4-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:39:C8<br>00:0B:86:81:39:C0</td><td>AT000055</td><td>1extension<br>near 151 </a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-2-5-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:<br>00:0B:86:81:</td><td>AT000055</td><td>1<br>near BRD </a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-2-6-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:<br>00:0B:86:81:</td><td>AT000055</td><td>1<br>Sammie's office</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-3-1-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:E5:98<br>00:0B:86:80:E5:90</td><td>AT00005581</td><td>2e near 223</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-3-2-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:FB:48<br>00:0B:86:80:FB:40</td><td>AT00005573</td><td>214 behind couch</a></td><td>air monitor</td></tr>
-<tr><td><a href="">sudi-98-3-3-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:DB:F8<br>00:0B:86:80:DB:F0</td><td>AT00005582</td><td>2s</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-3-4-ap</a></td><td>129.170.210. </td><td>00:0B:86:81:38:B8<br>00:0B:86:81:38:B0</td><td>AT00005582</td><td>2add (254)</a></td><td>production</td></tr>
-<tr><td><a href="">sudi-98-3-5-ap</a></td><td>129.170.210. </td><td>00:0B:86:80:E1:98<br>00:0B:86:80:E1:90</td><td>AT00005582</td><td>outside 201</a></td><td>production</td></tr>
+<html>
+  <head>
+    <title>003</title>
+  </head>
+  <body link="black" alink="black" vlink="black">
+    <h2>Computers in Sudikoff 003</h2>
 
+    <table border=3>
+      <tr>
+	<td width=60> </td>
+	<td width=60> </td>
+	<td width=30> </td>
+	<td width=60> </td>
+	<td width=60> </td>
+	<td width=30> </td>
+	<td width=60> </td>
+      </tr>
+      <tr>
+	<td width=60>happyfeet<br>windows</td>
+	<td width=60>shrek<br>windows</td>
+	<td width=30> </td>
+	<td width=60>robots<br>windows</td>
+	<td width=60>polarexpress<br>windows</td>
+	<td width=30> </td>
+	<td width=60><br>windows</td>
+      </tr>
+      <tr>
+	<td width=60>iceage<br>windows</td>
+	<td width=60>cars<br>windows</td>
+	<td width=30> </td>
+	<td width=60>madagascar<br>windows</td>
+	<td width=60>incredibles<br>windows</td>
+	<td width=30> </td>
+	<td width=60>franconia<br>linux</td>
+      </tr>
+      <tr>
+	<td width=60>antz<br>windows</td>
+	<td width=60>findingnemo<br>windows</td>
+	<td width=30> </td>
+	<td width=60>jimmyneutron<br>windows</td>
+	<td width=60>titanae<br>windows</td>
+	<td width=30> </td>
+	<td width=60>stratton<br>linux</td>
+      </tr>
+      <tr>
+	<td width=60>toystory<br>windows</td>
+	<td width=60>monstersinc<br>windows</td>
+	<td width=30> </td>
+	<td width=60>overthehedge<br>windows</td>
+	<td width=60>bugslife<br>windows</td>
+	<td width=30> </td>
+	<td width=60>s003<br>printer</td>
+      </tr>
+    </table>
 
-<tr><td><a href="http://129.170.192.101">wavepoint6-ap</a></td><td>129.170.192.101 </td><td>00:60:1d:f0:3a:6e</td><td></td><td>014</a></td><td>wbc test</td></tr>
-<tr><td><a href="http://129.170.213.244">sudi4-ap</a></td>
-	<td>129.170.213.244 </td><td>00:60:1d:1b:e4:63</td><td>99UT09201821</td><td>robot lab</a></td></td><td>Robot-kotay</tr>
-<tr><td><a href="http://129.170.213.245">sudi5-ap</a></td>
-	<td>129.170.213.245 </td><td>00:60:1d:f0:3d:f6</td><td>99UT11423761</td><td>007</a></td></td><td>VoIP-ayorker on bookcase left</tr>
-<tr><td><a href="http://129.170.213.246">sudi6-ap    </a></td>
-	<td>129.170.213.246 </td><td>00:40:96:34:fa:d8</td><td>SEK04444103</td><td>007</a></td></td><td>snmp project-koppy</td></tr>
-<tr><td><a href="http://129.170.210.24">sudi7-ap    </a></td>
-	<td>129.170.210.24 </td><td>00:40:96:38:42:7a</td><td>SEK04420C10</td><td>1-entry</td><td>production</td><td>port 4</td></tr>
-<tr><td><a href="http://129.170.210.25">sudi8-ap    </a></td>
-	<td>129.170.210.25 </td><td>00:40:96:35:38:94</td><td>SEK04500113</td><td>not in use</td><td>not in use</td></tr>
-<tr><td><a href="http://129.170.210.21">sudi9-ap    </a></td>
-	<td>129.170.210.21 </td><td>00:40:96:34:04:70</td><td>SEK0449063A</td><td>not in use</td><td>not in use</td></tr>
-<tr><td><a href="http://129.170.210.23">sudi10-ap   </a></td>
-	<td>129.170.210.23 </td><td>00:40:96:33:6d:31</td><td>SEK0449062F</td><td>not in use</td><td>not in use</td></tr>
-<tr><td><a href="http://129.170.210.26">sudi11-ap   </a></td>
-	<td>129.170.210.26 </td><td>00:40:96:34:b0:85</td><td>SEK04440889</td><td>2E</td></td><td>production</td><td>port 3</td></tr>
-<tr><td><a href="http://129.170.210.22">sudi12-ap   </a></td>
-	<td>129.170.210.22 </td><td>00:40:96:35:f5:31</td><td>SEK044908C3</td><td>2S</td></td><td>production</td><td>port 5</td></tr>
-<tr><td><a href="http://129.170.213.253">sudi13-ap   </a></td>
-	<td>129.170.213.253 </td><td>00:40:96:33:86:27</td><td>SEK044806D4</td><td>Minami demo unit</td></td><td></tr>
-<tr><td>   </td><td> </td><td>00:40:96:33:8b:c4</td>
-	<td>SEK04490135</td><td>in box</td></td><td></tr>
-<tr><td>   </td><td> </td><td>00:40:96:37:ce:aa</td>
-	<td>SEK0448070A</td><td>in box</td></td><td></tr>
-<tr><td>parker1-ap   </td><td>129.170.148.1 </td><td>00:40:96:33:c1:be</td>
-	<td>SEK04512B40 </td><td>Basement termination point</td></td><td></tr>
-<tr><td>raven1-ap </td><td>129.170.123.6 </td><td>00:40:96:40:0e:84 </td>
-	<td> </td><td>Hall 2nd floor south end </td></td><td></tr>
-<tr><td>raven2-ap </td><td>129.170.123.7 </td><td>00:40:96:40:01:fd </td>
-	<td> </td><td>Hall 1st floor north end</td></td><td></tr>
-<tr><td>raven-notused </td><td> </td><td> </td>
-	<td> </td><td>Hall 2nd floor south end</td></tr>
-<tr><td>raven-notused </td><td> </td><td> </td>
-	<td> </td><td>Hall 1st floor north end</td></tr>
-<tr><td>gilman5-ap </td><td>129.170.124.43 </td><td>00:40:96:54:bf:fe </td><td></td>
-	<td>gilman5-ap </td><td> </td><td></tr>
-<tr><td>bldg37-3-ap </td><td>129.170.52.14 </td><td>00:40:96:40:cf:0a </td><td></td>
-	<td>bldg37-3-ap </td><td> </td><td></tr>
-<tr><td>bldg37-2-ap </td><td>129.170.52.13 </td><td>00:40:96:55:7b:79 </td><td></td>
-	<td>bldg37-2-ap </td><td> </td><td></tr>
-<tr><td>dicks1-ap </td><td>129.170.153.9 </td><td>00:40:96:49:3f:3f </td><td></td>
-	<td>dicks1-ap </td><td> </td><td></tr>
-<tr><td>steele1-ap </td><td>129.170.22.13 </td><td>00:40:96:40:4e:1b </td><td></td>
-	<td> </td><td> </td><td></tr>
-<tr><td>Russian1-ap  </td><td>129.170.154.2 </td><td>00:40:96:40:4e:a1 </td><td></td>
-	<td>North College 44 </td><td> </td><td></tr>
-</table>
-<ul>
-<li><a href="http://www.cisco.com/public/sw-center/sw-wireless.shtml">Cisco site</a>
-<li><a href="http://www.cisco.com/univercd/cc/td/doc/product/wireless/airo_350/350cards/pc350scg/pc_ch8.htm"> cisco</a>
-<li><a href="http://www.cisco.com/pcgi-bin/tablebuild.pl/aironet-utils-mac">
-Cisco -mac </a>
-<li><a href="http://www.wavelan.com/">Wavelan Site</a><br>
-</ul>
-regular lan cisco 7-12<br>
-snmp/tsunami cisco6<br>
-VoIP wavelan 101,245<br>
-robotics - wavelan4<b>
-<p>
-Sudikoff, Kiewit Wireless, Kiewit/TelecomII
-<br>base station(infrastructure)
+    <table>
+      <tr>
+	<td>
+	  <a href="../photos/s003-1.jpg"><img src="../photos/s003-1t.jpg"></a>
+	</td>
+	<td>
+	  <a href="../photos/s003-2.jpg"><img src="../photos/s003-2t.jpg"></a>
+	</td>
+	<td>
+	  <a href="../photos/s003-3.jpg"><img src="../photos/s003-3t.jpg"></a>
+	</td>
+	<td>
+	  <a href="../photos/s003-4.jpg"><img src="../photos/s003-4t.jpg"></a>
+	</td>
+	<td>
+	  <a href="../photos/s003-5.jpg"><img src="../photos/s003-5t.jpg"></a>
+	</td>
+	<td>
+	  <a href="../photos/s003-6.jpg"><img src="../photos/s003-6t.jpg"></a>
+	</td>
+      </tr>
+    </table>
 
-</body>
-
+updated April 04 2007<br>
+  </body>
+</html>
+i

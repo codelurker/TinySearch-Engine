@@ -1,131 +1,18 @@
-http://www.cs.dartmouth.edu/~tracygu/projproposal.htm
+http://www.cs.dartmouth.edu/~priya/priya_research.html
 3
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Untitled Document</title>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<link href="my.css" rel="stylesheet" type="text/css">
-</head>
-
-<body bgcolor="#434343">
-<table width="55%" height="2142" border="0" align="center" class="formal">
-  <tr> 
-    <td height="15" colspan="2" align="center">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td height="140" colspan="2" background="background1.gif"><p>Region-based Image Classification</p>
-      <p class="middle">CS 134 Project Proposal</p>
-      <p class="middle">Group Member : Qi Gu</p></td>
-  </tr>
-  <tr>
-    <td height="20" colspan="2">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td width="89%" height="166"><p class="formal">Abstract:<span class="bold"><strong> 
-        </strong></span></p>
-      <p class="middle">The term image classification refers to labeling the input 
-        images into certain predefined categories and content-based image retrieval 
-        has emerged as an important area in computer vision and multimedia computing. 
-        The key techniques related to this field contain image representation 
-        and classification. In this project I will put my focus on a region-based 
-        image representation approach that helps improving the performance of 
-        image classification. </p>
-      <p class="middle">&nbsp;</p></td>
-    <td width="2%">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td><p>Goal: <br>
-        <span class="middle">The objective of my project is to introduce and implement 
-        a region-based approach that can better represent the image using low-level 
-        features and applying this method in image classification. </span></p>
-      <p><span class="middle">To illustrate the performance of this method, I 
-        will compare it with some of the existing image representation works and 
-        reason the differences of their performances.</span></p>
-      <p class="middle"><br>
-      </p></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td><p>Method:<br>
-        <span class="middle">The whole pipeline of my project can be split into 
-        2 parts: image representation and classification. The main methods related 
-        to image representation include: <strong><font color="#FFFFFF">Image segmentation</font></strong> 
-        which has been successfully used in content-based image analysis. These 
-        segmentation-based algorithms first partition the whole image into small 
-        blocks, say 4 * 4 pixels, then take into consideration of block’s color, 
-        texture, shape, etc as the basic features where the texture attibute is 
-        always computed by doing <strong><font color="#FFFFFF">Wavelet Transformation</font></strong>. 
-        Then the simple procedure to gather these blocks into several regions 
-        is by using <strong><font color="#FFFFFF">Clustering Algorithm</font></strong>, 
-        e.g. K-means. </span></p>
-      <p><span class="middle"><br>
-        Another method that shows how to convert the regions into an abstract 
-        feature vector to represent the image is by optimizing the<strong><font color="#FFFFFF"> 
-        Diverse Density </font></strong>value (Maron and Lozano-P′erez), which 
-        is an objective function, defined over the region feature space and regions 
-        can be viewed as points. A larger value of DD at a point indicates a higher 
-        probability that the point fits better with the regions from positive 
-        images than with those from negative.</span></p>
-      <p><span class="middle"><br>
-        After finishing mapping images into the new feature space, I will use 
-        <font color="#FFFFFF"><strong>Classification method</strong></font> to 
-        do the final step. Since classification is a well studied topic, the focus 
-        will not cover new design of the novel classification algorithm, but by 
-        choosing mature approaches, such as Logistic Regression, KNN.</span></p>
-      <p class="middle">The whole pipeline will be like the figure below:</p>
-      <p class="middle"><img src="image1.gif" width="679" height="134"></p>
-      <p class="middle"><br>
-      </p></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td><p>Data set:<br>
-        <span class="middle">The image data used in this project is published 
-        by COREL Corporation. The whole collection includes several categories 
-        describing distinct topic of interest. Each category contains 100 images, 
-        all in JPEG format with size 384*256 or 256*384.<br>
-        Here are some examples from the collection:</span></p>
-      <p class="middle"><img src="example.jpg" width="681" height="126"><br>
-      </p>
-      <p class="middle">&nbsp; </p></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td><p>Reference:<br>
-        <span class="middle">I. Daubechies. Ten Lectures on Wavelets. Capital 
-        City Press, 1992.<br>
-        J. A. Hartigan and M. A. Wong. Algorithm AS136: A k-means clustering algorithm. 
-        Applied<br>
-        Statistics, 28:100–108, 1979.<br>
-        A. Vailaya, M. A. T. Figueiredo, A. K. Jain, and H.-J. Zhang. Image classification 
-        for content-based indexing. IEEE Transactions on Image Processing, 10(1):117–130, 
-        2001.<br>
-        J. Z. Wang, J. Li, and G. Wiederhold. SIMPLIcity: Semantics-sensitive 
-        integrated matching forpicture libraries. IEEE Transactions on Pattern 
-        Analysis and Machine Intelligence, 23(9):947–963, 2001b.<br>
-        Y. X. Chen, J.Z. Wang: Image Categorization by Learning and Reasoning 
-        with Regions. Journal of Machine Learning Research 5 (2004) 913–939<br>
-        T. Athanasiadis, P. Mylonas, Y. Avrithis, and S. Kollias: Semantic Image 
-        Segmentation and Object Labeling. IEEE Transactions on Circuits and Systems 
-        for Video Technology vol.17, NO. 3, 2007</span></p>
-      <p class="middle"><br>
-      </p></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td>Timeline:<br> <span class="middle">1: By the time of milestone: <br>
-      Implement image segmentation, so that each image will be partitioned into 
-      several regions. <br>
-      Show a visualization of the results already obtained </span> <p><span class="middle">2: 
-        Final: <br>
-        Implement image representation approach <br>
-        Set up experiment scenario to do the classification test. <br>
-        Analyze and reason the result.</span><br>
-      </p></td>
-    <td>&nbsp;</td>
-  </tr>
-</table>
-</body>
+    <title> Priya Natarajan - Research </title>
+  </head>
+  <body style="background-color:cornsilk">
+  	<p style="margin-left: 80px; margin-right: 80px">
+  	My research interests are in the area of algorithm engineering and mainly parallel computing. I work under the guidance of <a href="http://www.cs.dartmouth.edu/~thc"> Prof. Thomas H. Cormen</a>.
+  	</p>
+	<p style="margin-left: 80px; margin-right: 80px">
+	My first project was to implement an out-of-core distribution-based sorting algorithm (let's call it dsort) for distributed-memory clusters. In a nutshell, dsort is like quicksort with many pivot elements and (typically) a node of a cluster handles one partition. Things are a little more complicated, however, because data resides on disk (out-of-core) and cluster nodes have to communicate with each other over the network. The initial idea was to implement the dsort algorithm using pthreads but when Tom and I were dicussing the design of dsort, he observed that this algorithm could be a great candidate to be implemented using <a href="http://www.cs.dartmouth.edu/FG"> FG</a>, a tool that helps you write parallel programs quickly.
+	</p>
+	<p style="margin-left: 80px; margin-right: 80px">
+	After having fiddled with some performance-related issues for a while, we are now focusing our attention towards applications that could benefit from using FG. So, this is <b>how you can help in my research:</b> If you have an application that you would like to parallelize but have not gotten to doing so yet because you don't know how to, or because it seems like too much work, please feel free to write to me. We could get in touch and discuss whether FG would be fit for your needs.
+  	</p>
+  </body>
 </html>
-�

@@ -1,58 +1,76 @@
-http://www.cs.dartmouth.edu/~cs25/syllabus.html
+http://www.cs.dartmouth.edu/~rangak/Resume.html
 3
-<html> <head>
-<title>Topics covered in Computer Science 25, Fall 2008</title>
-</head>
+<html><head>
 
-<body bgcolor=#ffffff>
-<h1><a href="/~cs25/">CS 25 Fall 2008 </a><br>
-Topics covered in CS 25</h1>
+<link type="text/css" href="index.css" rel="stylesheet" title="default"></head><body>
 
-<p>
-
-In the following, "CLRS" indicates readings from 
-<i>Introduction to Algorithms</i>,
-Second edition, by Cormen, Leiserson, Rivest, and Stein.
-
-<p>
-
-<hr>
-
-<p>
-
-<dl>
-  <dd> Motivating Algorithms
-  <dd> Review of asymptotic notation and recurrences
-       (CLRS: <em>Skim</em> Chapters 1-5, Appendices A-C.  
-       You can ignore starred sections.)
-  <dd> Lower bounds for sorting, counting sort, radix sort (CLRS: Sections 8.1-8.3)
-  <dd> Median finding (CLRS: Chapter 9)
-  <dd> Review of red-black trees  (CLRS: Chapters 12 and 13)
-  <dd> Augmenting data structures  (CLRS: Chapter 14)
-  <dd> Dynamic programming  (CLRS: Chapter 15)
-  <dd> Greedy algorithms  (CLRS: Sections 16.1-16.3)
-  <dd> Amortized analysis: aggregate analysis, accounting method, potential method, dynamic tables.
-       (CLRS: Chapter 17)
-  <dd> Disjoint set data structure  (CLRS: Sections 21.1-21.3, 22.1)
-  <dd> Graph representation;  Breadth-first search; depth-first search; topological sort;
-       strongly connected components  (CLRS: Chapter 22)
-  <dd> Minimum spanning trees  (CLRS: Chapter 23)
-  <dd> Single-source shortest paths: Bellman-Ford, dag, Dijkstra's algorithm, difference constraints
-       (CLRS: Chapter 24)
-  <dd> All-pairs shortest paths: matrix multiplication, Floyd-Warshall algorithm.
-       (CLRS: Chapter 25)
-  <dd> Network flow: Ford-Fulkerson, Edmonds-Karp, bipartite matching
-       (CLRS: Sections 26.1-26.3)
-</dl>
+<div id="pageHeader">
+					<h1>
+					<br>Ranganath Kondapally
+	<!--					<a>
+						<xsl:attribute name="href">
+							<xsl:value-of select="soul/logo/about/link/url"/>
+						</xsl:attribute>
+					<img>
+						<xsl:attribute name="src">
+							../images/<xsl:value-of select="soul/logo/image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="soul/logo/description"/>
+						</xsl:attribute>
+					</img> 
+					</a>-->
+				</h1>
+				</div>
 
 
-<hr>
+	<div id="direct">
+		<h1>
 
-<p>
 
-<a href="/~cs25/">Back to CS 25 home page</a>
+				<a href="index.html">Home</a>
+				<a href="Research.html">Research</a>
+				<a href="Resume.html">Resume</a>
+				<a href="Personal.html">Personal</a>
+				<a href="Contact.html">Contact</a>
+		</h1>	
+	</div>
+						<div id="central">
+<!--	<div id="derived">
+				<p>
+					<br>
+					<br>
+					<br>
+				<a href="http://iiit.net/">About IIIT</a><br><br>
 
-<!-- hhmts start -->
-Last modified: Wednesday, September 24, 2008
-<!-- hhmts end -->
-</body> </html>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/resources.html">Resources</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/research.html">Research</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/rpl/xml/index.php">Papers Library</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/courses.html">Courses</a>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br>
+				</p>
+	</div>
+	-->			<div id="mesg">
+		<p id="intro">
+			Loading...........				
+		</p>
+
+
+				</div>
+				</div>
+
+				<div id="end">
+				<br>
+				</div>
+				<div id="bottom">
+				Designed &amp; maintained by K.Ranganath . Any queries/problems mail to 
+rangak AT cs [.] dartmouth [.] edu
+				<br>
+Microsoft Windows Terminal Services, Windows Vista and Windows Server 2008 are trademarks of Microsoft. <br>Acknowledments to www.mezzoblue.com/zengarden for css resources and help
+				
+				</div>
+			</body></html>

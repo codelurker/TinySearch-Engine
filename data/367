@@ -1,99 +1,93 @@
-http://www.cs.dartmouth.edu/~rockmore/NS-RHreview2.html
+http://www.cs.dartmouth.edu/~thc/bbqtour
 3
+<html> <head>
+<title>Our BBQ Tour</title>
+</head>
 
+<body>
+<h1>Our BBQ Tour</h1>
 
+In August 1998, Nicole and I went on a two-week BBQ tour of the south.
+We visited BBQ restaurants, some famous and some not-so-famous,
+throughout North Carolina, Alabama, Georgia, South Carolina, and even
+West Virginia.  In all, we ate at 14 restaurants, one of which we ate
+at twice.  Although that averages to only one place per day, we had
+some intense BBQ days along with some non-BBQ days.
 
+<p>
 
+This page is a compilation of our impressions of the places we
+visited, with photos of all but one.  (Our camera broke right in the
+middle of our tour of Luray Caverns in Virginia, and so we didn't get
+to take a photo of the last place we visited, which was in West
+Virginia.)
 
-<!DOCTYPE html
-PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-<title>New Scientist Stalking the Riemann Hypothesis: The quest to find the hidden law of numbers by Dan Rockmore - Books</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<meta http-equiv="imagetoolbar" content="no" />
-<meta http-equiv="mssmarttagspreventparsing" content="true"/>
+<p>
 
+We chose our BBQ destinations by several methods.
+<ul>
 
+  <li> The primary inspiration for the tour was the book <i>Smokestack
+       Lightning</i> by Lolis Eric Elie.  He and photographer Frank Stewart
+       visited BBQ joints from Chicago to Texas to Georgia.  They
+       mentioned a few that we wanted to try.
 
+  <li> We also used <i>Eat Your Way Across the USA</i> by Jane and
+       Michael Stern.  We found that their recommendations sucked big time.
+       The only place they recommended that we liked was <a
+       href="dreamland.html">Dreamland</a> (Tuscaloosa, AL), and we had
+       corroboration on that from Elie.  We also went to a couple of non-BBQ
+       places they recommended and were thoroughly unimpressed.
 
-<div id="arthead" class="artblock">
-<h2>Stalking the Riemann Hypothesis: The quest to find the hidden law of numbers by Dan Rockmore</h2>
-<ul class="straptext notlist highlight colspacer">
-	<li>
-	    
-	    
-	        19 March 2005
-	    
-	    
-	</li>
-	<li>
+  <li> We also took advice from H. Kent Craig's
+       North Carolina BBQ page (I don't remember how I found it)
+       and <a href="http://www.ipass.net/~lineback/bbq/jnts.htm">The
+       Lexington Collection</a> (ditto).
 
-    
-        From New Scientist Print Edition.     
-    
+  <li> I posted to alt.food.barbecue, asking for suggestions, and the BBQ
+       mavens of that newsgroup sent a few responses.  Thanks to Bernie
+       Spencer, Bill Loftin, Bill Bates, and Dan Brown.
 
+  <li> We also took suggestions from folks we met along the way.
 
-	</li>
+  <li> Sometimes we just stopped at a place that we were passing by.
 
-    <li>Ben Longstaff </li>
-
-
+  <li> And we were influenced by Hurricane Bonnie, which prevented us
+       from visiting Wilbur's BBQ in Goldsboro, NC and Em-Ing's on
+       the eastern shore of Maryland.  It sent us inland, where we
+       completed the <a href="lexington.html">Lexington Six-Pack</a>.
+       
 </ul>
 
-</div>
+<p>
 
-<div id="artbody" class="artblock">
+Here are the places, listed in the order we visited them, except that
+I've lumped the six places in Lexington, NC together onto one page.
 
+<ul>
+  <li> <a href="lexington.html">The Lexington Six-Pack</a>
+       <ul>
+	 <li> <a href="lexington.html#jimmys">Jimmy's BBQ</a>
+	 <li> <a href="lexington.html#stameys">Stamey's BBQ</a>
+	 <li> <a href="lexington.html#johnwaynes">John Wayne's BBQ</a>
+	 <li> <a href="lexington.html#lexington">Lexington BBQ</a>
+	 <li> <a href="lexington.html#speedys">Speedy's BBQ</a>
+	 <li> <a href="lexington.html#southern">Southern BBQ</a>
+       </ul>
+  <li> <a href="cashiers.html">Carolina BBQ</a>, Cashiers, NC
+  <li> <a href="johnnyrays.html">Johnny Ray's</a>, Birmingham, AL
+  <li> <a href="dreamland.html">Dreamland</a>, Tuscaloosa, AL
+  <li> <a href="dobbs.html">Dobb's BBQ</a>, Dothan, AL
+  <li> <a href="clinton.html">Old Clinton BBQ</a>, Clinton, GA
+  <li> <a href="maurice.html">Maurice's Piggy Park</a>, Columbia, SC
+  <li> <a href="bullocks.html">Bullock's BBQ</a>, Durham, NC
+  <li> <a href="ponderosa.html">Little Ponderosa</a>, Harper's Ferry, WV
+</ul>
 
-
-
-
-
-	
-	<div class="rhbox">
-		<h5>Book Details</h5>
-		<ul class="straptext notlist">
-			<li><b>Stalking the Riemann Hypothesis</b></li>
-			<li>by Dan Rockmore</li>
-			<li>Pantheon Books</li>
-			<li>$25</li>
-			<li>ISBN 037542136X (published in April)</li>
-		</ul>
-	</div>
-	
-
-	
-
-	
-
-
-	
-        
-        
-            <p>"THE riddle does not exist. If a question can be put at all, then it can also be answered." Presumably this remark by philosopher Ludwig Wittgenstein is a sick joke at the expense of mathematicians, who frequently spend their whole careers clawing at unyielding riddles. And who can blame them for persevering with exquisite torments like the 150-year-old Riemann hypothesis?</p>
-        
-        
-	
-        
-        
-            <p>It may be an arcane puzzle about the array of prime numbers, but the Riemann hypothesis is also hugely important, and its story has spawned many excellent books. Dan Rockmore's <i>Stalking the Riemann Hypothesis</i> is a fine addition. Much of the content may be familiar, but Rockmore's style, emphasis and language are all admirably fresh, and it is fully accessible to non-specialists. Of course, we are still waiting for the final chapter in the story - that someone proves the hypothesis - but Rockmore is an excellent guide to take you right to the edge of the mathematical map, and he's bang up to date.</p>
-        
-        
-	
-
-
-	<div class="straptext colspacer highlight">From issue 2491 of New Scientist magazine, 19 March 2005, page 53</div>
-
-
-</div>
-</div>
-
-
-
-
-
-</div>
-</body>
-</html>
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Wed Sep 19 14:03:02 2001
+<!-- hhmts end -->
+</body> </html>
+tii

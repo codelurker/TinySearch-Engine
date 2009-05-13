@@ -1,107 +1,59 @@
-http://www.cs.dartmouth.edu/%7Epway/cs23/robot
+http://www.cs.dartmouth.edu/~farid/bio.html
 3
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
 
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
 
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-  
-  
-  
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<BR><BR>
 
+<div align=center>
+<table width=650>
 
+<tr>
+<td valign=top>
+<img src="photos/hany4.jpg" width=191 height=256>
+</td>
 
-  
-  
-  
-  <title>CS 23 Winter 08 Dartmouth College ----The ROBOT Project</title>
-</head>
+<td> &nbsp </td>
 
+<td valign=top>
+<p>
+Hany Farid received his undergraduate degree in Computer Science and
+Applied Mathematics from the University of Rochester in 1989.  He
+received his Ph.D. in Computer Science from the University of
+Pennsylvania in 1997.  Following a two year post-doctoral position in
+Brain and Cognitive Sciences at MIT, he joined the Computer Science
+Department at Dartmouth in 1999.  Hany is the William H. Neukom 1964
+Distinguished Professor of Computational Science, and the Director of the
+<a href=http://www.dartmouth.edu/~neukom>Neukom Institute for
+Computational Science</a>. Hany is the recipient of an NSF CAREER
+award, a Sloan Fellowship and a Guggenheim Fellowship.
 
-<body>
+<p>
 
+From working with federal law enforcement agencies on digital
+forensics, to the digital reconstruction of Ancient Egyptian tombs,
+Hany works and plays with digital media at the crossroads of computer
+science, engineering, mathematics, optics, and psychology.
+</td>
 
+</tr>
 
-<small><small><span style="font-weight: bold;"></span></small></small>
+<tr>
+<td align=right colspan=3> <i><a href="cv.pdf">cv</a> &nbsp &nbsp <a href="home.html">Home</a></i><td>
+</tr>
 
-
-
-
-
-
-<h1 style="text-align: center;"><br>
-CS23 Software Design and Implementation (Winter 2008)
-<br>
-
-<br>
-Course Project Demos using the Garcia Robots<big><br>
-</big></h1>
-
-
-
-<br>
-
-
-
-<hr style="width: 100%; height: 2px;">
-<div style="text-align: center;">
-<div style="text-align: left;">
-<div style="text-align: center;"><big><small><img style="width: 640px; height: 427px;" alt="" src="images/img_2973.jpg"><br>
-<br>
-<img style="width: 427px; height: 640px;" alt="" src="images/img_2974.jpg"><br>
-<br>
-<img style="width: 640px; height: 480px;" alt="" src="images/cimg3924.jpg"><br>
-<br>
-<img style="width: 640px; height: 427px;" alt="" src="images/img_2975.jpg"><br>
-<br>
-<img style="width: 640px; height: 427px;" alt="" src="images/img_2976.jpg"><br>
-<br>
-<img style="width: 640px; height: 427px;" alt="" src="images/img_2977.jpg"><br>
-<br>
-<img style="width: 640px; height: 480px;" alt="" src="images/cimg3923.jpg"><br>
-<br>
-<img style="width: 640px; height: 480px;" alt="" src="images/cimg3925.jpg"><br>
-<br>
-<img style="width: 640px; height: 480px;" alt="" src="images/cimg3926.jpg"><br>
-<br>
-<img style="width: 480px; height: 640px;" alt="" src="images/cimg3927.jpg"><br>
-<br>
-<br>
-<br>
-
-
-<br>
-
-
-
-</small></big>
-<hr style="width: 100%; height: 2px;">
-<h2 style="text-align: right;"><small><span style="font-style: italic;">Photos by&nbsp; <a href="http://www.cs.dartmouth.edu/%7Eafra/">Prof Afra Zomorodian</a> &nbsp;and <a href="http://www.cs.dartmouth.edu/%7Epway">Wei Pan</a>.</span></small></h2>
-
-
-
-<big><small><br>
-
-
-
-</small></big></div>
-
-
-
-<big><br>
-
-
-
-</big></div>
-
-
-
+</table>
 </div>
 
 
 
-<hr style="width: 100%; height: 2px;">
 </body>
 </html>
+
+

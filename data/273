@@ -1,173 +1,540 @@
-http://www.cs.dartmouth.edu/~csrs/schedule.html
+http://www.cs.dartmouth.edu/~campbell/cs23/project.html
 3
-
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Computer Science Research Symposium '08</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>project</title>
 </head>
 
+
 <body>
-<img src="banner.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big>Computer Science 23<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: bold;">Group projects<br>
+
+
+
+
+
+
+
+
+
+
+
+</span></big></big></big></big><br>
+
+
+
+
+
+
+
+
+
+
+
+There are no lectures during the last two weeks of the course. <br>
+
+
+
+
+
 
 <br>
+
+
+
+
+
+
+During that time you will be working in teams programming Gracia
+robots. The project includes distributed programming using sockets and
+embedded Linux. &nbsp;<br>
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+Checkout the Gracia: </span><a style="font-family: Times New Roman,Times,serif;" href="http://www.acroname.com/garcia/garcia.html"><font style="font-family: Helvetica,Arial,sans-serif;">Acroname Robotics</font></a><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
 <br>
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">We
+have added a mote sensor to the bot that allows it to interact with a
+sensor network built across the CS department. We have also added a
+camera to the bot. You will write the controller that runs on your
+laptop and the server side on the rob - all in C and Linux. Once your
+ready your bot will go on a treasure hunt. The final task is the CS23
+remote controlled bot race. <br>
+
+
+
+
+
+<big style="font-weight: bold;"><br>
+
+
+
+
+
+</big></span></span><big style="font-weight: bold;">Teams, Project Description and Milestones</big><br>
+
+
+
+
+
 <br>
 
-<table style="text-align: left;" width=85%>
-
-<tr>
-<td width=10%></td>
-<td valign="top">
-<table class="navbar">
-<tr><td><a href="index.html">Home</a></td></tr>
-<tr><td><a href="schedule.html">Program</a></td></tr>
-<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
-<tr><td><a href="history.html">History</a></td></tr>
-<tr><td><a href="faq.html">FAQ</a></td></tr>
-<tr><td><a href="contact.html">Contact Us</a></td></tr>
-</table>
-</td>
-
-<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
-
-<td>
-<h3>Technical Program</h3>
-
-<hr align=left>
-
-<table cellpadding=5pt style="text-align: left; margin-left:auto; margin-right:auto;" valign=top width=100%>
-
-<tr><td bgcolor=#cccccc width=25%>08:30 am - 09:00 am</td><td bgcolor=#cccccc>Breakfast</td></tr>
-
-<tr><td valign=top>09:00 am - 09:10 am</td><td>Opening Welcome, <a href=http://engineering.dartmouth.edu/faculty/regular/brianpogue.html><i>Brian Pogue</i> </a> (Dean of Graduate Studies)</td></tr>
-
-<tr><td valign=top>09:10 am - 09:20 am</td><td>Best TA Award presented by <a href=http://www.cs.dartmouth.edu/~prasad/> <i> Prasad Jayanti</i></a> (CS Dept. Chair)</td></tr>
-
-<tr><td valign=top>09:20 am - 10:20 am</td><td>Keynote: "<a href="#sandy">Honest Signals</a>", <a href=http://www.media.mit.edu/~sandy/> <i>Alex Pentland </i></a>(Media Lab, MIT) </td></tr>
-
-<tr><td valign=top bgcolor=#cccccc>10:20 am - 10:50 am</td><td bgcolor=#cccccc>Coffee break</td></tr>
-
-<tr><td valign=top>10:50 am - 11:10 am</td><td>"Privacy-Enhanced Revocation in Anonymous Authentication", <a href=http://www.cs.dartmouth.edu/~patrick><i>Patrick Tsang</i></a></td></tr>
-
-<tr><td valign=top>11:10 am - 11:30 am</td><td>"Computational Topology", <a href=http://www.cs.dartmouth.edu/~afra> <i>Afra Zomorodian</i></a></td></tr>
-
-<tr><td valign=top>11:30 am - 11:50 am</td><td>"Routing Games between Selfish Users", <a href=http://www.cs.dartmouth.edu/~umang><i>Umang Bhaskar</i></a></td></tr>
-
-<tr><td valign=top>11:50 am - 12:10 pm</td><td>"<a href=#tanzeem>Using Sensors to Make Sense of People</a>", <a href=http://www.cs.dartmouth.edu/~tanzeem><i>Tanzeem Choudhury</i></a></td></tr>
-
-<tr><td valign=top bgcolor=#cccccc>12:10 pm - 01:10 pm</td><td bgcolor=#cccccc>Lunch break</td></tr>
-
-<tr><td valign=top>01:10 pm - 01:30 pm</td><td>"Sensing Meets Mobile Social Networks: The Design, Implementation and Evaluation of the CenceMe Application", <a href=http://www.cs.dartmouth.edu/~miluzzo> <i>Emiliano Miluzzo</i></a></td></tr>
-
-<tr><td valign=top>01:30 pm - 01:50 pm</td><td>"<a href="#hany">Digital Tampering and Forensics</a>", <a href=http://www.cs.dartmouth.edu/~farid><i>Hany Farid</i></a> </td></tr>
-
-<tr><td valign=top>01:50 pm - 02:10 pm</td><td>"<a href="#rick">Brains, and their applications</a>", <a href=http://www.dartmouth.edu/~psych/people/faculty/granger.html><i>Richard Granger</i></a></td></tr>
-
-<tr><td valign=top bgcolor=#cccccc>02:10 pm - 03:25 pm</td><td bgcolor=#cccccc><a href="pandd.html">Poster/demo session</a> and refreshments</td></tr>
-
-<tr><td valign=top>03:25 pm - 03:40 pm</td><td>"An overview of the Institute for Security, Technology and Society", <a href=http://www.dartmouth.edu/~socy/faculty/anthony.html><i>Denise Anthony</i></a></td></tr>
-
-<tr><td valign=top>03:40 pm - 04:00 pm</td><td>"Bayesian Hierarchical Modeling of Locomotion Styles", <a href=http://www.cs.dartmouth.edu/~pway><i>Wei Pan</i></a> </td></tr>
-
-<tr><td valign=top>04:00 pm - 04:20 pm</td><td>"AppProp: All-pairs Appearance Space Edit Propagation", <a href=http://www.cs.dartmouth.edu/~an><i>Danielle An</i></a></td></tr>
-
-<tr><td valign=top bgcolor=#cccccc>04:20 pm - 04:40 pm</td><td bgcolor=#cccccc>Coffee break</td></tr>
-
-<tr><td valign=top>04:40 pm - 05:00 pm</td><td>"<a href="#eric">Printer Profiling for Forensics and Ballistics</a>", <a href=http://www.cs.dartmouth.edu/~erickee><i>Eric Kee</i></a> </td></tr>
-
-<tr><td valign=top>05:00 pm - 05:20 pm</td><td>"<a href="#matt">Flexible Object Manipulation: Tying Knots
-and Folding Laundry</a>", <a href=http://www.cs.dartmouth.edu/~mbell><i>Matthew Bell</i></a></td></tr>
-
-<tr><td valign=top>05:20 pm - 05:30 pm</td><td>Closing Remarks, <a href=http://www.cs.dartmouth.edu/~campbell><i>Andrew Campbell</i></a></td></tr>
-
-<tr><td valign=top bgcolor=#cccccc>07:00 pm onwards</td><td bgcolor=#cccccc>Barbeque at Rockefeller Courtyard</td></tr>
-</table>
-
-<br><br>
-
-<h3>Abstracts</h3>
-<hr align=left>
-<br><table>
-<tr><td id="sandy"><b>"Honest Signals", Alex Pentland</b></td></tr>
-<tr><td>We are in the midst of an explosion of information about people and
-their behavior, but most of it is noise.  Reality Mining sifts through
-this noise to discover the `honest signals' hidden within: subtle
-patterns that reliably reveal our relationships with other people, and
-accurately predict our future behavior. Honest signals offer an
-unmatched window into our financial, cultural, and organizational
-health. By understanding these subtle patterns we can better understand
-ourselves, and begin to create true collective intelligences.<br></td></tr>
-<tr><td><img src="blank.gif"><br></td></tr>
-
-
-<tr><td id="tanzeem"><b>"Using Sensors to Make Sense of People", Tanzeem Choudhury</b></td></tr><tr><td>  Systems that can capture and recognize human behaviors in
-unconstrained real world settings have the potential to dramatically
-impact research in smart environments, social network analysis, novel user
-interfaces, surveillance, and health care. There is a growing demand for
-behavioral monitoring systems in a wide range of health and wellness
-applications, such as fitness monitoring, elder-care support, long-term
-preventative and chronic care, and assisting those with cognitive disorders.
-In this talk, I will present our work in developing mobile
-sensing and machine learning techniques for reasoning about human
-activities, interactions, and social networks in everyday environments.
-I will also highlight how we tackle some of the research challenges in
-building activity-aware systems.
-<br></td></tr>
-<tr><td><img src="blank.gif"><br></td></tr>
-
-<tr><td id="rick"><b>"Brains, and their applications", Richard Granger</b></td></tr><tr><td> Brains consist of components that are low-precision (2-3 bit),
-sparsely connected (p &lt; 0.01), and very slow (milliseconds), yet
-they outperform competing approaches on a range of fundamental
-applications such as visual and auditory recognition. Brain
-circuits are circuits, albeit with unusual engineering designs,
-and they are becoming understood computationally. This talk
-will characterize typical brain circuit architectures and their
-operating rules; show examples of how such circuits give rise
-to novel algorithms for learning; and illustrate instances of
-these methods used in robot applications.<br></td></tr>
-<tr><td><img src="blank.gif"><br></td></tr>
 
 
 
-<tr><td id="hany"><b>"Digital Tampering and Forensics", Hany Farid</b></td></tr>
-<tr><td>Photography lost its innocence many years ago. Shortly after the first commercially available camera was introduced, photographs were being manipulated and altered. With the advent of high-resolution digital cameras, powerful personal computers and sophisticated photo-editing software, the manipulation of digital images is becoming more common. We are seeing the impact of these technologies in nearly every corner of our lives. As the technology that allows for digital media to be manipulated and distorted is developing at break-neck speeds, our understanding of the technological, ethical, and legal implications is lagging behind. I will discuss some of these issues and describe computational techniques which we have developed for detecting tampering in digital media.<br></td></tr>
-<tr><td><img src="blank.gif"><br></td></tr>
 
-<tr><td id="eric"><b>"Printer Profiling for Forensics and Ballistics", Eric Kee</b></td></tr>
-<tr><td>We describe a technique for authenticating printed and scanned
-text documents. This technique works by modeling the
-degradation in a document caused by printing. The resulting
-printer profile is then used to detect inconsistencies across
-a document, and for ballistic purposes that of linking a
-document to a printer.<br></td></tr>
-<tr><td><img src="blank.gif"><br></td></tr>
 
-<tr><td id="matt"><b>"Flexible Object Manipulation: Tying Knots
-and Folding Laundry", Matthew Bell</b></td></tr>
-<tr><td>Manipulation of flexible objects like string and cloth poses a challenge to
-robotic and human manipulation due to the difficulty of regrasping a
-flexible object. Without sensing, it becomes nearly impossible to guess
-where a grasp should go. However, we can try to simplify the problem in
-several ways. For tying knots in string, we can use a fixture to continually
-grasp the string during the entire tying process. We have developed fixtures
-for overhand and square knots, and can use a slightly modified overhand
-fixture to tie the knot around an object. Additionally, we are exploring
-automated methods of designing these fixtures, as well as a new class of
-fixture that works reliably with string as well as wire. In the area of
-cloth manipulation we have explored laundry folding methods that require a
-minimal number of grasps. We are also working on defining the number of
-fingers that are needed to stably grasp a piece of cloth.<br></td></tr>
-<tr><td><img src="blank.gif"><br></td></tr>
 
-</table>
+<span style="font-family: Times New Roman,Times,serif;">Announce groups members for the project which kicks off.<br>
 
-</td>
-</tr>
 
-</table>
 
-</body></html>
 
+
+<br>
+
+
+
+
+
+The fabulous teams this term are&nbsp;TBA</span><span style="font-family: Times New Roman,Times,serif;"><font style="font-weight: bold;" size="+1"><big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></font><br>
+
+
+
+
+
+<br>
+
+
+
+
+
+The
+following set of deadlines are important for the progress of the
+project. Please note that you need to provide documentation for the
+design and code reviews and the final project submission.<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<span style="font-weight: bold;">4-7 PM Thursday May 21 design review.</span>.The
+project review should include requirements, Design Spec
+(inputs/outputs, data flow, data structures, pseudo-code) and
+functional decomposition; How the project implementation breaks down
+who is doing what. The project review material is due 12 PM day before
+review Send tarball documentation to cs23@cs.dartmouth.edu<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<span style="font-weight: bold;">4-7 PM Wednesday May 27 code review. </span>The
+code review should include the Implementation Spec, unit tests and
+whatever code is written up until the review point. The code review
+material is due 12 PM day before review. Send tarball documentation and
+source tree to cs23@cs.dartmouth.edu<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+<span style="font-weight: bold;">4-7 PM Tuesday June 2 demo or die day</span>. Project presentation (design overview, lessons learnt, etc) and demo of project.<br>
+
+
+
+
+
+<span style="font-weight: bold;"><br>
+12 AM Wednesday June 3 project reports due</span>.
+The report written in latex includes description of the project, the
+Design Spec, functional decomposition of the system, Implementation
+Spec, lessons learnt. The appendix includes all code and unit tests.
+All materials should be signed into the teams cvs project page. The PDF
+of the project report should be sent to cs23@cs.dartmouth.edu<br>
+
+
+
+
+
+
+
+
+
+
+</span><br>
+
+
+
+
+
+
+Some photos from the "battle robotica" over previous years.<br>
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+</span><big style="font-family: Helvetica,Arial,sans-serif;">
+</big><font style="font-family: Helvetica,Arial,sans-serif;" size="+1"><big><br>
+
+
+
+
+
+
+<img style="width: 639px; height: 478px;" alt="cs23 bot race" src="botrace.jpg"><br>
+
+
+
+
+
+
+</big></font><span style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(255, 0, 0);"><br>
+
+
+
+
+
+
+
+
+
+
+
+</span><span style="color: rgb(255, 0, 0);"></span></span>Matt at the start line of the first semi-annual CS23 bot race. One your marks, get set, ....&nbsp;<br>
+
+
+
+
+
+
+<font style="font-family: Helvetica,Arial,sans-serif;" size="+1"><big><br>
+
+
+
+
+
+
+</big></font><span style="font-family: Times New Roman,Times,serif;"><img style="width: 640px; height: 427px;" alt="sensor bot" src="sensorbot.jpg"></span><span style="font-family: Times New Roman,Times,serif;"></span><br>
+
+
+
+
+
+
+<font style="font-family: Helvetica,Arial,sans-serif;" size="+1"><big>
+
+
+
+<br>
+
+
+
+
+
+
+</big></font><span style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(255, 0, 0);"></span></span>A CS23 Garcia bot with a wireless sensor (the gray thingy at the top)<br>
+
+
+
+
+
+
+and a camera (the eye).<br style="color: rgb(0, 0, 0);">
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(255, 0, 0);">
+<span style="color: rgb(0, 0, 0);"></span><br>
+
+
+
+
+
+
+
+
+
+
+
+</span><span style="color: rgb(255, 0, 0);"></span></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">Some more </span><a style="font-family: Times New Roman,Times,serif;" href="http://www.cs.dartmouth.edu/%7Epway/cs23/robot/">pictures</a><span style="font-family: Times New Roman,Times,serif;"> from last terms demo or die day. </span></span><big style="font-family: Helvetica,Arial,sans-serif;"><br>
+
+
+
+
+
+
+</big><br>
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(255, 0, 0);">
+
+
+
+
+</span><br>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+</span><br>
+
+
+
+
+
+
+
+
+
+
+
+<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big><span style="font-weight: bold;">
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></big></big></big></big>&nbsp;<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<big style="font-family: Arial Black;"><big><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</big></big><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,182 +1,154 @@
-http://www.cs.dartmouth.edu/farid/yearinreview03.html
+http://www.cs.dartmouth.edu/farid/isg
 3
-<html>
-<head>
-<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
-<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
-<title> Hany Farid: Image Science Group </title>
-</head>
-<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+  <head>
+    <title>Image Science Group Repository</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="description" content="Your description goes here" />
+    <meta name="keywords" content="your,keywords,come,here" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css" media="all">@import "/farid/isg/misc/drupal.css";</style><link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cs.dartmouth.edu/farid/isg/?q=rss.xml" />
 
-<table align=center width=750>
-<tr>
-<td>
+<link rel="shortcut icon" href="/farid/isg/files/multiflex_favicon.gif" type="image/x-icon" />
+    <style type="text/css" media="screen">@import "/farid/isg/themes/multiflex/css/style_screen.css";</style>    <style type="text/css" media="print">@import "/farid/isg/themes/multiflex/css/style_print.css";</style><style type="text/css" media="all">@import "/farid/isg/themes/multiflex/css/style_override.css";</style>  </head>
 
-<p>
-<b> Year in Review: 2003 </b>
+  <body>
+    <div class="page-container-1">
 
-<p>
+      <!-- HEADER -->
+      <!-- Flag navigations -->
+      <div class="navflag-container">
+	<div class="navflag">
 
-The <a href="group.html">Image Science Group</a> has had a busy and
-productive year.  The group now consists of a resident computer
-graphics expert and animator, Lorie Loeb, four Ph.D. students (Kimo
-Johnson, Siwei Lyu, Alin Popescu, and Hai Sun), and three
-undergraduates (Joe Pechter, Will Pechter, and Tim Williamson).
+	</div>
+      </div>
+      
+      <!-- Navigation Level 1-->
+      <div class="nav1-container">
+	<div class="nav1">
+	  	</div>
+      </div>
 
-<p>
+      <!-- Sitename -->
+      <div class="site-name">
+	<p class="title"><a href="/farid/isg/">Image Science Group Repository</a></p>      </div>
+      <!-- Site slogan -->
+      <div class="site-slogan-container">
+	<div class="site-slogan">
+	  <p class="text">	  </p>
+      	  
 
-Joe, Will and Tim are all primarily working with Lorie on some
-exciting new projects at the crossroads of graphics, animation, and
-vision.  The main emphasis of the rest of the group is in Digital
-Forensics and Medical Imaging, with a smattering of other projects in
-a variety of areas. As usual, more details can be found at
-www.cs.dartmouth.edu/farid.
-
-<p>
-
-The lab recently purchased an 18 node (36 processor) Linux cluster -
-each processor is a 3.06GHz Xeon chip with 2GB of memory. The cluster
-is helping us with some heavy computational jobs consisting of
-analyzing tens of thousands of images and audio files.
-
-<p>
-
-Sudikoff is building an extension to help the department with our
-space shortage. We hope, by next summer, to move into a new 1000+
-sq. ft. lab (more than twice the size of our current space).  And,
-don't worry, I've already ordered the black paint.
-
-<p>
-
-Senthil Periaswamy defended his thesis this year (General-Purpose
-Medical Image Registration), and is currently at Siemens, located
-outside of Philadelphia.  It was hard to see Senthil leave, but he is
-doing some exciting new work at Siemens.  Below are two papers
-describing most of his thesis work:
-
-<p>
-
-	<dd> S. Periaswamy and H. Farid </dd>
-	<dd> Elastic Registration in the Presence of Intensity Variations </dd>
-	<dd> IEEE Transactions on Medical Imaging, 22(7):865-874, 2003.  </dd>
-
-<p>
-
-	<dd> S. Periaswamy and H. Farid </dd>
-        <dd> Elastic Registration with Partial Data </dd>
-        <dd> Second International Workshop on Biomedical Image Registration, Philadelphia, PA, 2003. </dd>
-
-<p>
-
-Siwei Lyu has been doing some outstanding work in modeling and
-understanding the statistics of natural images, and using those models
-in several different digital forensic settings.  Here are some of the
-most recent papers describing this work:
-
-<p>
-
-     <dd>S. Lyu and H. Farid </dd>
-     <dd> How Realistic is Photorealistic? </dd>
-     <dd> Computer Vision and Pattern Recognition (CVPR), 2004 </dd>
-
-<p>
-
-     <dd>S. Lyu and H. Farid </dd>
-     <dd> Steganalysis Using Color Wavelet Statistics and One-Class Support Vector Machines </dd>
-     <dd> SPIE Symposium on Electronic Imaging, San Jose, CA, 2004. </dd>
-
-<p>
-
-     <dd>H. Farid and S. Lyu </dd>
-     <dd> Higher-order Wavelet Statistics and their Application to Digital Forensics</dd>
-     <dd> IEEE Workshop on Statistical Analysis in Computer Vision (in conjunction with CVPR), Madison, Wisconsin, 2003 </dd>
-
-<p>
-
-Alin Popescu will be proposing his Ph.D. thesis early in 2004.  Alin
-has been doing some pioneering work in the area of digital forensics,
-with an emphasis in detecting local and specific forms of digital
-tampering.  Here are some recent papers, not yet on the web page, but
-should be there shortly:
-
-<p>
-
-       <dd>A.C. Popescu and H. Farid </dd>
-       <dd> Statistical Tools for Digital Forensics </dd>
-       <dd> 6th International Workshop on Information Hiding, 2004 </dd>
-
-<p>
-
-       <dd> A.C. Popescu and H. Farid </dd>
-       <dd> Exposing Digital Forgeries by Traces of Re-sampling </dd>
-       <dd> IEEE Transactions on Signal Processing, 2004 </dd>
-
-<p>
-
-Hai Sun has been doing some spectacular work in the area of
-image-guided neurosurgery.  Hai is an MD/Ph.D. student and is
-co-advised with Keith Paulsen at Thayer.  Hai has solved some very
-hard problems to build a near real-time system for overlaying
-pre-operative MR data with a surgeon's microscope view.  Hai will be
-defending his thesis next year.  Below are some recent papers
-describing his work from both the clinical and technical sides:
-
-<p>
-
-      <dd>H. Sun, D.W. Roberts, H. Farid, Z. Wu, A. Hartov, and K.D. Paulsen </dd>
-      <dd> Cortical Surface Tracking Using a Stereoscopic Operating Microscope </dd>
-      <dd> Neurosurgery, 2004 </dd>
-
-<p>
-
-      <dd>H. Sun, H. Farid, D.W. Roberts, K. Rick, A. Hartov, and K.D. Paulsen </dd>
-      <dd> A Non-Contacting 3-D Digitizer for Use in Image-Guided Neurosurgery </dd>
-      <dd> Steroetactic and Functional Neurosurgery, 2003 </dd>
-
-<p>
-
-      <dd>H. Sun, H. Farid, K. Rick, A. Hartov, D.W. Roberts, and K.D. Paulsen </dd>
-      <dd> Estimating Cortical Surface Motion Using Stereopsis for Brain Deformation Models </dd>
-      <dd> Medical Image Computing & Computer Assisted Intervention (MICCAI), Montreal, Canada, 2003 </dd>
+	</div>
+      </div>
+      <!-- Header banner -->
+      <div><img class="img-header" src="/farid/isg/themes/multiflex/img/header.gif" alt=""/></div>
 
 
-<p>
+      <!-- Buffer after header -->
+      <div class="buffer"></div>
 
-Jethro Rothe-Kushel graduated and is currently in Mexico City working
-on a series of short films based on the theme of Mexican rituals.
-Jethro, for those of you who have not had the pleasure to meet him, is
-a remarkable young man, and I expect that we will all be seeing some
-great things from him in the years to come.
+      <!-- Left block-->
+            <div class="mainnav">
+	<p class="sidebar-title-noshade bg-green07">
+  Search</p>
+<div class="sidebar-txtbox-noshade bg-green03">
+  <form action="/farid/isg/"  method="post" id="search_block_form">
+<div><div class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="edit[search_block_form_keys]" id="edit-search_block_form_keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" value="Search"  class="form-submit" />
+<input type="hidden" name="edit[form_id]" id="edit-search-block-form" value="search_block_form"  />
+</div>
+</div></form>
+</div>	
 
-<p>
 
-And finally, after 8 years of work, I and a co-author have completed a
-paper that describes the (mathematically) proper way to compute
-derivatives of discrete images/volumes/etc of arbitrary orders.  This
-was a long fought battle, with many dead-ends, and frustrating starts
-and finishes.  We had, on many occasions, given up hope that a
-solution was possible, but earlier this year we had several
-break-throughs and were happy to see the paper accepted:
 
-<p>
+  <p class="sidebar-title-noshade bg-blue07">
+    Navigation</p>
+      <div class="sidebar-txtbox-noshade bg-blue02 mainmenu">  
+  <ul>
+    <li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/7" title="Cluster">Cluster</a></li><li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/6" title="Frequently Asked Questions">FAQ</a></li><li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/5" title="LaTeX">LaTeX</a></li><li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/4" title="MatLab">MatLab</a></li><li><a href="http://www.cs.dartmouth.edu/farid/group.html" title="Image Science Group">Image Science Group</a></li>  </ul>
+</div>
 
-      <dd>H. Farid and E.P. Simoncelli </dd>
-      <dd> Differentiation of Discrete Multi-Dimensional Signals </dd>
-      <dd> IEEE Transactions on Image Processing, 2004</dd>
+      </div>
+            
+      <!-- CONTENT -->
+      <div class="content1">
 
-<p>
+		<!-- Page title -->
+						
+	<!-- Content -->
+	<div class="content1-container">
+	  <!-- begin content --><!-- Text container -->
+<div class="content1-container line-box">
+  <div class="content1-container-1col">
+   <p class="content-title-shade-size3 bg-blue07 box-on">&nbsp;</p>
+   <p class="content-title-shade-size3 bg-blue03 txt-white"><a href="/farid/isg/?q=node/3 " title="Instructions">Instructions</a></p>
+      <div class="content-txtbox-shade">
+     <span class="submitted"></span>
+     <span class="taxonomy"></span>
+     <p>This page provides a repository for the Image Science Group at Dartmouth College.  Past and present group members are encouraged to post any code or hints that they think will be helpful to others.  Those not part of the Image Science Group are welcome to browse these pages, but at this time no accounts will be given out to non-members.</p>
+<p> In order to post:</p>
+<ol>
+<li> login
+<li> select 'create content' from the menu
+<li> select 'story'
+<li> Fill in the 'Title' field
+<li> Fill in the 'Category' field (Cluster, FAQ, LaTeX, or Matlab)
+<li> Fill in the 'Body' field with a brief description
+<li> If appropriate, select 'File Attachment', choose file for upload, and select 'Attach'
+<li> Select 'Submit'
+</ol>
+<p>When uploading code, please comment your code and add a header of the form:<br />
+<code><br />
+%%%<br />
+%%% IMROTATE: rotate an image about its center<br />
+%%%   imrotate( im, th, method )<br />
+%%%      im: grayscale or color image<br />
+%%%      th: rotation amount in degrees<br />
+%%%      method: interpolation method (nearest, linear, cubic, or spline)</p>
+          <p class="readmore align-right"><a href="/farid/isg/?q=node/3" title="Read the rest of this posting." class="read-more">read more</a></p>    
+        </div>
+  </div>
+</div>
+<!-- end content -->	</div>
+      </div>
+      
 
-All of the above mentioned papers (and more) are available at:
+      <!-- SIDEBAR -->
+            <div class="sidebar">
+	<p class="sidebar-title-noshade bg-green07">
+  User login</p>
+<div class="sidebar-txtbox-noshade bg-green03">
+  <form action="/farid/isg/?q=node&amp;destination="  method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="edit[name]" id="edit-name"  size="15" value="" class="form-text required" />
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" maxlength="" name="edit[pass]" id="edit-pass"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li><a href="/farid/isg/?q=user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="edit[form_id]" id="edit-user-login-block" value="user_login_block"  />
 
-<p>
+</div></form>
+</div>	
 
-     <dd><a href="http://www.cs.dartmouth.edu/farid/publications">www.cs.dartmouth.edu/farid/publications</a>
- </dd>
 
-</td>
-</tr>
-</table>
+      </div>
+      
+      
 
-</body>
+      <!-- FOOTER -->
+      <div class="footer">
+		<p>
+</p>
+		<p>Image Science Group Repository</p>
+      </div>
+    </div>
+      </body>
 </html>

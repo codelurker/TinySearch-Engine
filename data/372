@@ -1,131 +1,59 @@
-http://www.cs.dartmouth.edu/~rockmore/math31.html
+http://www.cs.dartmouth.edu/~rockmore/m15f05/math15f05.html
 3
-<HEAD><TITLE>Math 31, Summer 2005</TITLE>
-<meta name="keywords" content="Dan Rockmore Topics in Algebra math course at Dartmouth Summer 2005">
-
-<meta name="description" content= "Dan Rockmore Topics in Algebra math course at Dartmouth Summer 2005">
-
-
-
+<HEAD><TITLE>MATH 116/W05</TITLE>
+<meta name="keywords" content="Dan Rockmore IMPS, Part 1, Fall,  2005">
 </HEAD>
 
+<BODY BGCOLOR="#FFFFFF"><H1>Mathematics  15.1<br>
+IMPS, Part 1
 
-<CENTER><H1>Math 31, Summer 2005</H1></CENTER>
-<CENTER><H1> Topics  in Algebra</H1></CENTER>
-<HR>
-<H2>
-Instructor: 
-<A HREF="http://www.cs.dartmouth.edu/~rockmore">Dan Rockmore</A>
-Professor (Mathematics and Computer Science)
-<BR>
-
-Organization: Moore 150
-<BR>
-       Period 11(MWF 11:05--12:20; x-hour T 12:00-12:50)
-<BR>
-</H2>
-<BR>
-<H2>
-<B>Text:</B>  <a href="http://college.hmco.com/CollegeCatalog/CatalogController?cmd=Portal&subcmd=display&ProductID=10945"> <i> Contemporary Abstract Algebra, sixth edition,</i></a> by Joseph Gallian
-</H2>
+<H2> Instructor:</H2>  <a href="http://www.cs.dartmouth.edu/~rockmore"> Professor Dan Rockmore </a>
 
 <br>
 
-Other materials:
-
-<br>
-
-<br>
-
-<a href="http://www.d.umn.edu/~jgallian"> On-line resources </a>provided by J. Gallian
-
-<br>
-
-
-
-<hr>
-<h3>
-<dl>
-
-
-<H2> Course description: </H2>
-This is a course in what is often called "modern algebra" - the development of the notions of groups, rings, and fields, each of which is some way or  another a generalization of our familiar integers. The course will be both an investigation of the theory as well as the <b> many </b> applications, especially as they arise in signal and image processing. Examples of applications include digital cryptography and error correction.
-</hr>
-</h3>
-</dl>
-
-<hr>
-<h2>
-
-<b> FIRST CLASS: Monday, June 27 </b>
-</h2>
-</hr>
-
-<hr>
-
-
-<H2>Requirements: </h2> 
-
-(1) Students are expected to attend class and participate. 
+Office: 206 Sudikoff Lab (CS building)
 
 <br> 
 
-(2) There will be regular homework  that will be graded. 
+Office hours: M,W 3-4
+
+<H2> Graduate TA: </H2>  Giulio Genovese
+
+<H2> Course Organization:</H2>
+The class meets in <b> Bradley 105 </b>  in the 11 slot - MWF 11:15 - 12:20, x-hour, Tuesday at 12. The x-hour will be used as needed, so count on it.
 
 <br>
 
-(3) Students will give a short presentation on a topic of their choice (many suggestions from the text book). 
+<b> Tutorial </b> is Su,T,Th, 7-9PM, in <b> 213 Dartmouth Hall </b> 
+
+<H2> <a href="http://www.cs.dartmouth.edu/~rockmore/m15f05/m15f05-syl.html"> Running Syllabus </H2></a> 
+
+
+<b> FIRST CLASS: Wednesday, 9/21 </b>
 
 <br> 
 
-(4) There will be a final take-home exam.
+<H2>Requirements/Grading: </h2> 
 
+Participation:  5%
 
-<br>
-<br>
+<br> 
+HW: 20%
 
+<br> 
+Exam #1: 10/12 @ 7PM, 20%
 
-<b>Grading: </b>
+<br> 
+Exam #2: TBA,   20%
 
-<br>
+<br> 
+Final: TBA, 35%
 
-HW: 40%
+<br> 
 
-<br>
-Presentation: 10%
+<h2>Sources:</h2>
 
-<br>
-Participation: 10%
-
-<br>
-Final: 40%
-
-</hr>
-<hr>
-
-<ADDRESS>
-<BR> Office: 206 Sudikoff
-<BR> E-mail: <A HREF="MAILTO:rockmore@cs.dartmouth.edu"> 
-rockmore AT cs DOT dartmouth DOT edu</A>
-<BR> Phone: 603-646-3260
-
-</ADDRESS>
-
-<BR>
-<B> Office hours: </B>
-<BR>TBA and  by appointment.
-
-<BR>
-
-<HR>
-<BR> <A HREF="http://www.dartmouth.edu">Dartmouth College </A>
-<BR> <A HREF="http://math.dartmouth.edu">Dartmouth Mathematics</A>
-<BR> <A HREF="http://math.dartmouth.edu/people.html">Mathematics People</A>
-
-
-</body>
-</HTML>
-
+<li> Main text: IMPS Textbook (bound notes), by Groszek and Mook, available at the Copy Center.
 
 <br> 
 
@@ -133,4 +61,4 @@ rockmore AT cs DOT dartmouth DOT edu</A>
 
 
 </body>
-lspreadá
+i

@@ -1,72 +1,93 @@
-http://www.cs.dartmouth.edu/~wkerr
+http://www.cs.dartmouth.edu/~whwang
 2
 <html>
+
 <head>
-<title> Hello, I'm the title. </title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Weihong Wang's Home</title>
 </head>
-<body bgcolor="#371700" text="#FFFFFF" link="#FFDA9E" vlink="#FFDA9E" alink="B7B5F7">
-<center>
-<table cellpadding=10>
-  <td width=620 height=427 valign="top" background="brandonleaf.jpg">
-  <font color="#FFFFFF" size="5"><b>
-  Brandon Kerr
-  </b></font><br>
-  <font color="#FEB72E" size="2">
-  Computer Graphics Research
-  </font><br><br>
-<b>
-<font color="#FEB72E">
-Office:<br>
-</font>
-Sudikoff 154 <br>
-<font color="#FEB72E">
-Usually In:<br>
-</font>
-Sudikoff 143 <br>
-<font color="#FEB72E">
-Email:<br>
-</font>
-wkerr</b>
-<font color="#DDEEFF">
-<i>at</i>
-</font>
-<b>cs</b>
-<font color="#DDEEFF">
-<i>dot</i>
-</font>
-<b>dartmouth</b>
-<font color="#DDEEFF">
-<i>dot</i>
-</font>
-<b>edu <br>
-<font color="#FEB72E">
-Lab Hours: <br>
-</font>
-Currently not teaching<br>
-<font color="#FEB72E">
-Office Hours: <br>
-</font>
-Stop by <br>
--or- <br>
-Email for a specific time <br>
-<br>
-<br>
-  </td>
-  <tr>
-  <td  width=620 height=427 valign="top">
-<font color="#DDEEFF">
-<i>
-If you are looking for <br>
-the graphics study <br>
-schedule, <a href = "studyschedule.html">click here</a></i>
-</font>
-<br>
-  </td>
-  </tr>
-</table>
+
+<body>
+<DIV style="FLOAT: right">
+  <img border="0" src="images/photo.jpg" width="330" height="440"> </DIV>
+<H1>Weihong Wang</H1>
+
+
+
+<p>I am currently a Ph.D. student in
+<a target="_blank" href="http://www.cs.dartmouth.edu">Computer Science Department</a> at
+<a target="_blank" href="http://www.dartmouth.edu">Dartmouth 
+College</a>,&nbsp; My advisor is Professor
+<a target="_blank" href="http://www.cs.dartmouth.edu/~farid">Hany Farid</a>. </br>
+I got my bachelor degree in Computer Science from
+<a target="_blank" href="http://www.ustc.edu.cn/en">University of Science &amp; 
+Technology of China</a> in 2003.
+</p>
+
+
+<p><b><font size="6">Contact</font></b></p>
+
+<p>6211 Sudikoff Lab<br>Dartmouth College<br>Hanover NH 03755, U.S.</p>
+<p>Phone: 603-646-8743 (office)</p>
+<p>Email: <a href="mailto:Weihong.Wang@Dartmouth.Edu">Weihong.Wang@Dartmouth.Edu</a></p>
+
+
+<p><b><font size="6">Research</font></b></p>
+
+<p>I am currently working in the field of Digital Video Forensics. We are interested in deteting digital video forgeries without the help of digital watermarks or signatures. 
+The way we study this field is that, we place ourselves in the position of a forger, and ask what we need to do to make a forgery and what kind of traces we may leave behind in the tampered videos, 
+then we develop mathematical models to characterize and detect these traces.</p>
+
+
+<p><b><font size="6">Publications</font></b></p>
+
+<p>
+<a href = "papers/ih08.pdf"> <b> Detecting Re-Projected Video </b> </a> </br>
+W. Wang and H. Farid  </br>
+10th International Workshop on Information Hiding, Santa Barbara, CA, 2008 [<a href = "papers/bibtex.html#wang_farid08"> Bibtex </a>]</br>
+</p>
+
+<p>
+<a href = "papers/tifs07.pdf"> <b> Exposing Digital Forgeries in Interlaced and De-Interlaced Video </b> </a> </br>
+W. Wang and H. Farid  </br>
+IEEE Transactions on Information Forensics and Security, 2(3):438-449, 2007 [<a href = "papers/bibtex.html#wang_farid07"> Bibtex </a>]</br>
+</p>
+
+<p>
+<a href = "papers/acm07.pdf"> <b> Exposing Digital Forgeries in Video by Detecting Duplication </b> </a> </br>
+W. Wang and H. Farid  </br>
+ACM Multimedia and Security Workshop, Dallas, TX, 2007 [<a href = "papers/bibtex.html#wang_farid07_2"> Bibtex </a>]</br>
+</p>
+
+<p>
+<a href = "papers/acm06b.pdf"> <b> Exposing Digital Forgeries in Video by Detecting Double MPEG Compression </b> </a> </br>
+W. Wang and H. Farid  </br>
+ACM Multimedia and Security Workshop, Geneva, Switzerland, 2006 [<a href = "papers/bibtex.html#wang_farid06"> Bibtex </a>]</br>
+</p>
+
+<p>
+<a href = "papers/dm06.pdf"> <b> Learning from Incomplete Ratings using Non-negative Matrix Factorization </b> </a> </br>
+S. Zhang,&nbsp; W. Wang, &nbsp; J. Ford, and F. Makedon  </br>
+SIAM International Conference on Data Mining, Bethesda, MD, 2006 [<a href = "papers/bibtex.html#zhang_wang06"> Bibtex </a>]</br>
+</p>
+
+<p>
+<a href = "papers/ec05.pdf"> <b> Using Singular Value Decomposition Approximation for Collaborative Filtering </b> </a> </br>
+S. Zhang, &nbsp; W. Wang, &nbsp; J. Ford, &nbsp; F. Makedon, and J. Pearlman </br>
+the Seventh IEEE International Conference on E-Commerce Technology, Munich, Germany, 2005 [<a href = "papers/bibtex.html#zhang_wang05"> Bibtex </a>]</br>
+</p>
+
+<HR>
+<!--time-start-->
+<p>Last modified: April. 30, 2008</p>
+
+<!-- Begin Motigo Webstats counter code -->
+<a id="mws4590426" href="http://webstats.motigo.com/">
+<img width="18" height="18" border="0" alt="Free counter and web stats" src="http://m1.webstats.motigo.com/n.gif?id=AEYLWgl1HlWLf/6TCZBrQd_yVCqA" /></a>
+<script src="http://m1.webstats.motigo.com/c.js?id=4590426" type="text/javascript"></script>
+<!-- End Motigo Webstats counter code -->
+
 </body>
+
 </html>
-
-
-
-	‘

@@ -1,278 +1,94 @@
-http://www.cs.dartmouth.edu/~pki02
+http://www.cs.dartmouth.edu/~farid/research/cgorphoto.html
 3
 <html>
-
 <head>
-<title>1st Annual PKI Research Workshop</title>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Computer Generated or Photographic? </title>
 </head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<body>
-
-<table width=100%>
+<table align=center width=750 border=0>
 <tr>
-<td align=center>
-<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">
+
+<td valign=top > 
+<b> Computer Generated or Photographic? </b>
+<BR>
+<p>
+
+Computer graphics rendering software is capable of generating highly
+photorealistic images that are often very difficult to differentiate
+from photographic images.  We have, however, developed a method for
+differentiating between photographic and computer generated
+(photorealistic) images. Specifically, we have shown that a
+statistical model based on first- and higher-order wavelet statistics
+reveals subtle but significant differences between photographic and
+photorealistic images.  This work has begun to have interesting <a
+href="../publications/tr04a.html">legal applications</a> in light of
+the 2002 United States Supreme Court ruling that effectively legalized
+"virtual child pornography".
+
+<BR><BR>
+
+In related work, we have developed techniques to detect traces of <a
+href="tampering.html">digital tampering</a>, and to detect the
+presence of <a href="steganography.html">hidden messages</a> embedded
+within digital images.
+
+<BR><BR>
+
+<a href="cgorphoto.m">Matlab routines</a>
+
+<BR><BR>
+
+<i>(Collaborative work with 
+<a href="http://www.cs.albany.edu/~lsw"> Siwei Lyu</a>)</i>
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top> <IMG SRC="cgorphoto.jpg" width=284 height=360> <BR>
+<div align=right> <font size=-1> <i>
+CG image by Mihai Anghelescu
+</i></font></div>
+
 </td>
-<td align=left>
-<b>
-<big><big>
+</tr>
 
-1st Annual PKI Research Workshop - April 2002
-</big></big>
-</b>
-<td align=right>
-<i> www.cs.dartmouth.edu/~pki02/index.shtml<br>
+<tr>
+<td colspan=3>
+<BR><BR>
+<b>Contact me at <a href=http://hanyfarid.org/maat/>Ma'at Consulting</a> for more
+information about our consulting services.</b> <BR><BR>
+</td>
+</tr>
 
-Last modified: 03/21/03 08:00:25 AM
-</i>
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Photorealistic Rendering: How Realistic Is It? <a href="../publications/vss07.html">(vss07)</a>
+  <li>Natural Image Statistics for Digital Image Forensics <a href="../publications/slthesis05.html">(thesis05)</a> <BR>
+  <li>How Realistic is Photorealistic? <a href="../publications/sp05b.html">(sp05)</a> <BR>
+  <li>Creating and Detecting Doctored and Virtual Images: Implications to The Child Pornography Prevention Act <a href="../publications/tr04a.html">(tr04a)</a> <BR>
+  <li>Higher-Order Wavelet Statistics and their Application to Digital Forensics <a href="../publications/sacv03.html">(sacv03)</a> 
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
 </td>
 </tr>
 </table>
-<hr>
-
-<p>
-
-<p>
-          
-
-
-<small>
-Papers and many presentations linked from below are available
-in PDF format.
-The free Acrobat Reader is available <a href="http://www.adobe.com/products/acrobat/readstep2.html">here</a>.<br>
-</small>
-
-
-<hr>
-<p>
-<h2><a href="http://middleware.internet2.edu/pki03/">(Click here for
-the 2nd Annual PKI Research Workshop)</a></h2>
-<p>
-
-<hr>
-<i>General Chair:</i> Ken Klingenstein, University of Colorado.
-<a href="mailto:Ken.Klingenstein@Colorado.edu"><b>Ken.Klingenstein@Colorado.edu</b></a>
-<p>
-
-<i>Program Chair/Editor:</i>
-Sean Smith, Dartmouth College.
-<a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>
-<p>
-
-<hr>
-
-<h2>Program Committee</h2>
-
-<table border=0 width=80%>
-<tr><td>&nbsp;&nbsp;Peter Alterman</td><td>NIH</td></tr>
-<tr><td>&nbsp;&nbsp;Steve Bellovin</td><td> AT&amp;T Labs Research</td></tr>
-<tr><td>&nbsp;&nbsp;Stefan Brands </td><td> McGill University</td></tr>
-<tr><td>&nbsp;&nbsp;Bill Burr </td><td> NIST </td></tr>
-<tr><td>&nbsp;&nbsp;Carl Ellison</td><td> Intel </td></tr>
-<tr><td>&nbsp;&nbsp;Stephen Farrell </td><td> Baltimore Technologies</td></tr>
-<tr><td>&nbsp;&nbsp;Richard Guida </td><td> Johnson and Johnson</td></tr>
-<tr><td>&nbsp;&nbsp;Peter Honeyman</td><td>  University of Michigan</td></tr>
-<tr><td>&nbsp;&nbsp;Ken Klingenstein</td><td> University of Colorado</td></tr>
-<tr><td>&nbsp;&nbsp;Larry Landweber</td><td> University of Wisconsin</td></tr>
-<tr><td>&nbsp;&nbsp;Neal McBurnett</td><td> Internet2</td></tr>
-<tr><td>&nbsp;&nbsp;Clifford Neuman</td><td> USC </td></tr>
-<tr><td>&nbsp;&nbsp;Sean Smith &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<i>(chair)</i></td><td>Dartmouth College</td></tr>
-<tr><td>&nbsp;&nbsp;Steve Tuecke </td><td>Argonne National Laboratory</td></tr>
-</table>
-
-
-<hr>
-
-<h2>Proceedings</h2>
-
-<b>NIST will be publishing hardcopy proceedings as a
-"Special Publication". Attendees and presenters
-will be receiving copies; others can request copies from NIST.</b>
-<ul>
-<li> <a href="proceedings.pdf"><b>PDF (4.2M)</b></a>
-<li> <a href="proceedings.pdf.gz"><b>PDF gzipped (3.M)</b></a>
-</ul>
-(Individual papers are available from the links below.)
-
-<hr>
-
-
-<h2><a href="summary.shtml">Workshop Summary</a></h2>
-
-<hr>
-<h2><a name="sess1.1">Opening Remarks</a></h2>
-<ul>
-<li> Judy Spencer, General Services Administration - Chair, Federal PKI Steering Committee
-<p>
-<li> <a href="Klingenstein/"><b>Ken Klingenstein, University of Colorado - General Chair, 1st Annual PKI Research Workshop </b></a>
-</ul>
-
-<hr>
-<h2><a name="sess1.2"><a href="theologies.shtml">Invited Speakers: Dueling Theologies</a></a></h2>
-<ul>
-<li><a href="Guida"><b><cite>Where are we, where should we be, what’s holding us back, and where do we want to go?</cite></b></a> <br>
-Rich Guida, Johnson &amp; Johnson
-<p>
-<li><a href="Ellison/"><b><cite>Improvements on Conventional PKI Wisdom</cite></b></a> <br>
-Carl Ellison, Intel Labs
-</ul>
-
-<hr>
-<h2><a name="sess2.1"><a href="XKMS-panel.shtml">Panel: XKMS</a></a></h2>
-<ul>
-<li> Stephen Farrell, Baltimore
-<li> Phillip Hallam-Baker, VeriSign 
-<li> Tim Polk, NIST
-<li> Blair Dillaway, Microsoft
-<li> Daniel Greenwood, MIT
-</ul>
-
-<hr>
-<h2><a name="sess2.2">Experience Report</a></h2> 
-<ul>
-<li><a href="Alterman/"><b><cite>NIH-EDUCAUSE PKI Interoperability Project</cite></b></a> <br>
-Peter Alterman, NIH
-</ul>
-
-<hr>
-<h2><a name="sess3.1">Refereed Papers: Validation</a></h2>
-<ul>
-<li><a href="Micali/"><b><cite>NOVOMODO: Scalable Certificate Validation and Simplified PKI Management</cite></b></a><br>
-Silvio Micali, MIT, USA
-<p>
-<li><a href="Kortesniemi/"><b><cite>Validity Management in SPKI</cite></b></a> <br>
-Yki Kortesniemi, Helsinki University of Technology, FINLAND
-(presented by Tero Hasu)
-<p>
-<li><a href="Branchaud/"><b><cite>Extended Validation Models in PKI: Alternatives and Implications</cite></b></a> <br>
-Marc Branchaud, RSA Security, CANADA<br>
-John Linn, RSA Laboratories, USA
-</ul>
-
-<hr>
-<h2><a name="sess4.1">Refereed Papers: Scale</a></h2>
-<ul>
-<li><a href="Hallam-Baker/"><b><cite>Trust Assertion XML Infrastructure</cite></b></a><br>
-Phillip Hallam-Baker, VeriSign, UK
-<p>
-<li>
-<a href="DeTreville/"><b><cite>Making Certificates Programmable</cite> </b></a><br>
-John DeTreville, Microsoft Research, USA
-<p>
-<li><a href="Canovas/"><b><cite>A Distributed Credential Management System for SPKI-based Delegation Scenarios</cite></b></a><br>
-&Oacute;scar C&aacute;novas,  Antonio F. Gomez, University of Murcia, SPAIN<br>
-<p>
-<li><a href="Knight/"><b><cite>Scalability Issues in PMI Delegation</cite></b></a><br>
-Scott Knight, Royal Military College of CANADA<br>
-Chris Grandy, National Defense Headquarters, CANADA
-</ul>
-
-<hr>
-<h2><a name="sessW"><a href="wip.shtml">Work-in-Progress Session</a></a></h2>
-<ul>
-<li> Chair: Peter Honeyman, University of Michigan
-</ul>
-
-<hr>
-<h2><a name="sess5.1">Panel: DoD PKI</a></h2>
-<ul>
-<li>
-<a href="Green/"><b><cite>United States DoD Public Key Infrastructure: Deploying the PKI Token</cite> </b></a><br>
-<br>
-Mike Green, National Computer Security Center<br>
-Becky Harris, Defense Information Systems Agency
-<p>
-<li>
-<a href="Winnenberg/"><b><cite>DoD Public Key Infrastructure</cite>
-</b></a><br>
-Thomas Winnenberg, Defense Information Systems Agency
-<p>
-<li>
-<a href="Henry/"><b>
-<cite>DoD Public Key-Enabling (PK-E) of Applications</cite> </b></a><br>
-Mike Henry
-</ul>
-
-<hr>
-<h2><a name="sess5.2">Experience Report</a></h2>
-<ul>
-<li><a href="Fink/"><b>
-<cite>Experiences Establishing
-an Experimental International 
-Coalition Public Key Infrastructure</cite></b></a><br>
-Glenn Fink, Naval Surface Warfare Center<br>
-Shawn Raiszadeh, Lockheed Martin<br>
-Timothy Dean, QinetiQ
-</ul>
-
-<hr>
-<h2><a name="sess6.1">Invited Speakers: Identity-Based PKI</a></h2>
-<ul>
-<li><cite>Towards an Identity Based PKI</cite><br>
-Dan Boneh, Stanford University
-<p>
-<li>
-<a href="Levy/"><b><cite>Identifier Based PKC - Potential Applications</cite></b></a><br>
-Ian Levy, CESG
-</ul>
-
-<hr>
-<h2><a name="sess7.1">Refereed Papers: Key Management</a></h2>
-<ul>
-<li><a href="Sandhu/"><b><cite>Password Enabled PKI: Virtual Smartcards vs. Virtual Soft Tokens</cite></b></a><br>
-Ravi Sandhu, Mihir Bellare, and Ravi Ganesan, SingleSignOn.Net, USA<br>
-<p>
-<li><a href="Perrin/"><b><cite>Delegated Cryptography, Online Trusted Third Parties, and PKI</cite></b></a><br>
-Trevor Perrin, Logan Bruns, Jahan Moreh, and Terry Olkin, Sigaba Corporation, USA<br>
-<p>
-<li><a href="Gupta/"><b>
-<cite>Security Characteristics of Cryptographic Mobility Solutions</cite></b></a><br>
-Sarbari Gupta, Electrosoft Services, USA
-</ul>
-
-<hr>
-<h2><a name="sess8.1">Refereed Papers: Authorization</a></h2>
-<ul>
-<li><a href="Bandmann/"><b>
-<cite>A Note on SPKI's Authorization Syntax</cite></b></a><br>
-Olav Bandmann, Industrilogik L4i AB, SWEDEN<br>
-Mads Dam, Royal Institute of Technology, SWEDEN
-<p>
-<li><a href="Dohrmann/"><b>
-<cite>Public-key Support for Collaborative Groups</cite></b></a><br>
-Steve Dohrmann and Carl Ellison, Intel Labs, USA<br>
-<p>
-<li><a href="Thompson/"><b>
-<cite>Authorization Policy in a PKI Environment</cite></b></a>
-Mary Thompson, Srilekha Mudumbai, Abdelilah Essiari, and Willie Chin, Lawrence Berkeley National Laboratory, USA<br>
-</ul>
-
-<p>
-
-<p>
-
-<hr>
-<table width=100%>
-<tr>
-<td align=center>
-<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/icons/back.gif" ALT="">
-</td>
-<td align=left>
-<b>
-
-
-</b>
-</td>
-<td align=right>
-<i>Maintained by 
-<a href="http://www.cs.dartmouth.edu/~sws/">Sean Smith</a>,
-<a href="mailto:sws@cs.dartmouth.edu">sws@cs.dartmouth.edu</a>
-</i>
-</td>
-</tr>
-</table>
-</font>
-</body>
-
 </html>
-Reti
+
+

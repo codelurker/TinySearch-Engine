@@ -1,3 +1,125 @@
-http://www.cs.dartmouth.edu/~robotics/mediawiki/index.php?title=Main_Page&amp;action=edit
+http://www.cs.dartmouth.edu/~cbk/recombination.html
 3
-XDxQ)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Research : Protein Recombination</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<p>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Protein Recombination</div><br>
+
+<table cellpadding=0>
+<tr>
+<td><img src="images/recomb.jpg" alt="recombination"></td>
+<td width=100>&nbsp;</td>
+<td><img src="images/recomb-plan.jpg" alt="planning"/></td>
+</tr>
+</table>
+
+<p>Protein engineering by site-directed recombination generates
+libraries of hybrid proteins (or "chimeras") by mimicking the mixing
+and inheritance that occur in natural reproduction.  As shown in the
+left-hand figure, a set of homologous parent genes are recombined at
+defined breakpoint locations, yielding a combinatorial set of hybrids.
+Subsequent screening/selection then identifies hybrids with desirable
+functional characteristics.</p>
+
+<p>We are developing techniques to optimize the planning of
+recombination experiments.  For example, as shown in the right-hand
+figure, when selecting breakpoints, one must consider the trade-off
+between the stability and the diversity of the resulting hybrids.
+Given a family of homologous proteins (here just a cartoon fragment of
+a multiple sequence alignment), we select a small number of parents to
+be recombined at specific locations, generating a library of hybrids.
+Recombination may perturb the previously observed correlations between
+amino acid types for interacting residues, here at positions 1 and 8,
+thereby possibly affecting stability.  Furthermore, the resulting
+library may have more or less diversity; the choice of breakpoint
+location on the top yields hybrids that are identical to the parents,
+while that on the bottom results in sequence space being sampled
+relatively uniformly, with an equal number of mutations between each
+hybrid and each parent.  Our methods simultaneously optimize both
+these criteria.</p>
+
+<p>We are also developing techniques to optimize the robotic assembly
+of the planned library.</p>
+
+<b>Papers</b>
+<ul>
+<li>W. Zheng, K.E. Griswold, and C. Bailey-Kellogg, "Protein fragment
+swapping: a method for asymmetric, selective site-directed
+recombination", Proc. RECOMB, 2009, to appear.</li>
+
+<li>W. Zheng, A.M. Friedman, and C. Bailey-Kellogg,
+"Algorithms for joint optimization of stability and diversity in planning
+combinatorial libraries of chimeric proteins", Proc. RECOMB, 2008,
+pp. 300-314.
+<a href="abs.html#recomb08">abstract</a>.
+<a href="http://dx.doi.org/10.1007/978-3-540-78839-3_26">official version</a>.
+<a href="papers/recomb08.pdf">preprint</a>.</li>
+
+<li>L.V. Avramova, J. Desai, S. Weaver, A.M. Friedman, and C.
+Bailey-Kellogg, "Robotic hierarchical mixing for the production of
+combinatorial libraries of proteins and small molecules", <i>J.
+Comb. Chem.</i>, 10:63-68, 2008. <a href="abs.html#jcc07">abstract</a>.
+<a href="http://pubs.acs.org/cgi-bin/abstract.cgi/jcchff/2008/10/i01/abs/cc700106e.html">paper</a>.</li>
+
+<li>W. Zheng, X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Algorithms
+for selecting breakpoint locations to optimize diversity in protein
+engineering by site-directed protein recombination", Proc. CSB, 2007,
+pp. 31-40.
+<a href="abs.html#csb07">abstract</a>.
+<a href="papers/csb07.pdf">preprint</a>.</li>
+
+<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Hypergraph model of
+multi-residue interactions in proteins: sequentially-constrained
+partitioning algorithms for optimization of site-directed protein
+recombination", <i>J. Computational Biology</i>, 2007, 14:777-790.
+<a href="abs.html#jcb07">abstract</a>.
+<a
+href="http://www.liebertonline.com/doi/abs/10.1089/cmb.2007.R016">official version</a>.
+<a href="papers/jcb07.pdf">preprint</a>.<br/>
+Conference version: Proc. RECOMB, 2006, 15-29.
+<a href="abs.html#recomb06">abstract</a>.
+<a href="http://dx.doi.org/10.1007/11732990_2">official version</a>.
+</li>
+
+<li>L. Saftalov, P.A. Smith, A.M. Friedman, and C. Bailey-Kellogg,
+"Site-directed combinatorial construction of chimaeric genes:
+general method for optimizing assembly of gene fragments",
+<i>Proteins</i>, 2006, 64:629-642.
+<a href="abs.html#proteins06b">abstract</a>.
+<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/112656549/ABSTRACT">official version</a>.
+<a href="papers/proteins06b.pdf">preprint</a>.
+</li>
+</ul>
+
+</td></tr>
+
+</tbody></table>
+</body>
+</html>
+i

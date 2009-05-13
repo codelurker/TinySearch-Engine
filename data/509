@@ -1,76 +1,60 @@
-http://www.cs.dartmouth.edu/farid/research/flash.html
+http://www.cs.dartmouth.edu/farid/publications/slthesis05.html
 3
 <html>
 <head>
 <LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
 <LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
 
-<title> Depth from Flash</title>
+<title> Hany Farid: Papers </title>
 </head>
 <body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
 
-<table align=center width=750 cellpadding=2 border=0>
+<table align=center width=650>
 <tr>
-<td valign=top>
-<b> Depth from Flash</b>
-<BR>
-<p>
-A typical photograph taken with a point-and-shoot camera with built-in
-flash typically leads to unattractive photographs.  Surfaces close to
-the camera are overly illuminated while more distant surfaces are dark
-and indistinct.  This is a result of the quadratic falloff of light
-intensity from the flash.
-
-<BR><BR>
-
-We propose a simple technique to digitally correct for these
-illumination problems.  This technique requires a pair of images taken
-with the flash at different positions.  A ratio of these images
-followed by some simple algebra yields an estimate of depth.
-
-<BR><BR>
-
-The illumination changes can be corrected by simply multiplying by the
-square of the estimated distance.  On the right are some simulation
-results.  Shown is one of the input images (left) and the corrected
-image (right).
-
-
-<BR><BR>
-
-<i>(Collaborative work with David Martin and <a
-href="http://web.mit.edu/persci/people/adelson/index.html"> Ted Adelson</a>)</i>
-
 <td>
-<table cellpadding=8 border=0>
-<tr> 
-<td align=center> Flash Photograph </td>
-<td align=center> Corrected Photograph </td>
-</tr>
 
-<tr> 
-<td align=center> <IMG SRC="flash1.gif" width=128 height=128> </td>
-<td align=center> <IMG SRC="flash2.gif" width=128 height=128> </td>
-</tr>
-<tr> 
-<td align=center> <IMG SRC="flash3.gif" width=128 height=128> </td>
-<td align=center> <IMG SRC="flash4.gif" width=128 height=128> </td>
-</tr>
-</table>
-</td>
+<dl>
+<dt><b> Natural Image Statistics for Digital Image Forensics </b><BR>
+<dd> Siwei Lyu <i>(advisor: H. Farid)</i> <BR> 
+<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2005
+<BR><BR>
+<dd>	<a href="slthesis05.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#lyu05">Bibtex</a>
+
+        
+</dl>
+<p><BR>
+We describe a set of natural image statistics that are built upon two 
+multi-scale image decompositions, the quadrature mirror filter pyramid 
+decomposition and the local angular harmonic decomposition.  These 
+image statistics consist of first- and higher-order statistics that 
+capture certain statistical regularities of natural images.  We propose 
+to apply these image statistics, together with classification 
+techniques, to three problems in digital image forensics: (1) 
+differentiating photographic images from computer-generated 
+photorealistic images, (2) generic steganalysis; (3) rebroadcast image 
+detection. We also apply these image statistics to the traditional art 
+authentication for forgery detection and identification of artists in 
+an art work.  For each application we show the effectiveness of these 
+image statistics and analyze their sensitivity and robustness.
+
 </td>
 </tr>
 </table>
 
 <HR>
 
-<table align=center width=750>
+<table align=center width=650>
 <tr>
+<td align=left>
+<i><a href="../research/cgorphoto.html">Related material</a></i>
+</td>
 <td valign=top align=right>
-	<font size=-1><i>
-	<a href="../home.html"> Home</a> &nbsp &nbsp
-	<a href="research.html"> Research</a> 	
-	</i></font>
+	<i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
 </td>
 </tr>
 </table>
