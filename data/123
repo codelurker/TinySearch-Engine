@@ -1,0 +1,147 @@
+http://www.cs.dartmouth.edu/~wbc/secure
+2
+<html>
+<head><title>Security tips for Linux</title></head>
+
+<body>
+These are some tips for securing your linux computer.  I am not
+a security expert by any means, and these should just be considered
+a place to start.  
+These tips are in random order - they all are important, though ssh
+bears emphasising.
+Already there is much more here than I 
+thought there would be.
+If you have any ideas to add, please tell me.<br>
+Wayne
+
+<ul>
+<li>
+Use ssh.  ssh is a secure replacement for telnet and rsh.  When you use telnet and
+rsh what you type (like your password) is sent in plain text, and anyone
+with a network monitor attached to any wire between there and here can see
+everything that you type.  ssh encrypts everything that goes across the wire.
+It also protects against people who make their computer impersonate the computer you really want to connect to.  ssh is your friend and you should always use it.
+<li>
+Keep your data and system files seperate.  Linux distributions make it
+very easy to update your system when new versions come out, and you should keep
+current, as important security patches are always being added to Linux.
+This is a lot easier to do if your data and your files are all in one place,
+and if you do not customise the installation highly.
+<p>
+If someone breaks into your computer, they may copy their own versions
+of important system files, like /bin/bash and /bin/ps, that monitor your
+activities, and allow unauthorised people to log in.  in this case the best 
+thing is to simply erase the disk and do a fresh install.
+<p>
+you may also want to check for security updates and install them as they come out.
+<li>
+Keep your files backed up.  As mentioned above, you may need to erase
+your hard drive and start all over again.  People who break into systems
+may also delete or change your files.
+<li>
+Check your /etc/passwd file.  This file has all the account information, in fields
+seperated by colons:  The first field is the login name, the second field is the password, and the third field is the user id number.
+If the second field is empty, ::, there is no password on the account and
+anyone can log in.  There should be no accounts with no password.  An
+asterix * in the field means noone can log in.  If the third field, the user id (uid) is a 0 that account has full root powers!  People breaking in to your computer might add a root entry to the end of the /etc/passwd file.
+<br>
+Password crackers are readily available and easy to install and use.  Make sure
+your password is not a word in the dictionary, and if you use a word put numbers
+in the <em>middle</em> of the word, not at the end.  Use some punctuation
+characters, too.
+<li>
+use tcpd.  This is a utility which logs all connections to your computer.
+It is installed in the /etc/inetd.conf file in each line that specifies
+a network connection port.  With tcpd you can deny access to certain (or all) computers in the /etc/hosts.deny file, and allow access to specific computers
+in the /etc/hosts.allow file.  You should allow just the minimum possible
+to get by.
+<li>
+Be cautious with ~/.rhosts files.  A + entry lets someone log in from
+<em>any</em> computer and should not be used.  A + + access lets <em>anyone</em>
+log in from <em>any</em> computer.  Generally if you find a + + in your .rhosts file
+your computer has been broken into.
+If you have a .rhosts on a remote computer and that computer gets broken into,
+the breaker will usually be correct in guessing that he can log into
+all the computers in the remote .rhosts file and he will break into all
+your other accounts.  In general .rhosts are not a good thing.
+<li>
+Check your system logs in /var/log.  Often Someone who breaks into your
+computer will delete the most recent system logs to hide their traces.
+More clever intruders will use software that is supposed to delete just their
+records and leave the rest.  Sometimes these programs corrupt the files
+instead.
+<li>
+check for directories with funny names.  Intruders often create directories
+with names like ". " (dot blank) that are hard to see, or ... which looks like
+a special directory name but is really just a plain directory.  You can use the
+"find" utility to look.<br>
+<code>
+find / -mount -name \*\ \* -print
+</code><br>
+looks for a file with a space in the name on the root / partition.
+Other names to look for are eggdrop (or egg), wee, irc, spoof.
+<li>
+IRC.  Most people who break into computers are trying to mess around with
+chat rooms in IRC, Internet Relay Chat.  They run robots, computer programs
+that impersonate people in these chat rooms, with the goal of taking
+over control of the chat rooms.  If you run the <code>netstat</code> program
+and see any mantion of irc, or see some computer listed that you don't know
+about, you may be in trouble.
+<li>
+/etc/inetd.conf.  I mentioned /etc/inetd.conf abouve in the context of
+tcpd.  /etc/inetd.conf is the list of programs that can be run by people
+connecting from another computer.  If you see something in /etc/inetd.com
+that you don't know about, comment it out by putting a # at the beginning
+of the line.  Then tell the inetd that it should reread the file
+by giving it the kill -HUP or rebooting.  If something breaks uncomment
+the line.  You can always uncomment the line if you find that you really
+do need the service.<p>
+the line at the end of inetd.conf often has a reference to linuxconf,
+which allows remote peope to add users!.. Comment it out!<p>
+If you want to be more secure, deactivate telnet, ftp, rexecd, rshd,
+rlogind as well as the more obsure services.  You probably don't need
+pop or uucp on a clients machine, you may not even need sendmail.
+<li>
+NFS exports.  You may want to export your directories to another computer.
+You should be very careful to only allwo access to the particular computers that
+you need access on.  If you <em>need</em> to export a file to the
+world at large make sure that people can not write to it.  Otherwise people
+may edit your .rhosts file (remember .rhosts?) to let themselves log in.
+The file is /etc/exports, and generally it should be empty.
+<li>
+Secure your hardware.  Most of these tips have been aimed at preventing
+someone from breaking into your computer from a remote site.  If someone
+actually has an account on your computer it is <em>much</em> easier
+for them to gain unauthorised root access.  And if they can actually sit down in front of your computer they can control it completely.
+Many systems let you put a password on the hardware configuration proms.
+This means you can disable floppy and cd booting, which helps.
+This protection can be overridden by someone who takes your computer
+apart.  And, of course, if someone steals your hard drive or
+your whole computer, you will wish you had made better back ups, at the least!
+(incidentally, nothing stops internet hackers like not being
+connected to the internet!)
+</ul>
+
+<h3>some more advanced tips</h3>
+These have been suggested to me, and are more complicated.
+<ul>
+<li>Compile network services yourself, using non-default optimization options
+or a different compiler (pgcc, for example).  This will result in binaries
+that use different addresses, and hence, are less likely to be hacked with
+buffer overflows.
+/ul>
+<h3>Other Resources</h3>
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/security/linux.html">
+Another Dartmouth security page - Pat Wilson's</a>
+<li><a href="http://www.cert.org">the CERT homepage</a>
+<li><a href="http://www.securityfocus.com/">bugtraq advisories</a>
+<li><a href="http://www.geek-girl.com/bugtraq">old bugtraq advisories</a>
+<li><a href="http://www.redhat.com/errata">Updates for RedHat users</a>
+<li><a href="http://www-genome.wi.mit.edu/WWW/faqs/www-security-faq.html">
+Web Security</a>
+</ul>
+
+Thanks to Preston Crow, Jon Howell, and Rand Kmiec
+</body></html>
+i

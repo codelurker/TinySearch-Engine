@@ -1,0 +1,92 @@
+http://www.cs.dartmouth.edu/%7Eniclane/talks.html
+3
+<html>
+<head>
+<title>Nicholas D. Lane</title>
+<style type="text/css">
+  html, body {
+	  margin: 0px;
+		padding: 0px;
+		font-family: monospace;
+  }
+
+  h3,h2,h1 {
+   padding: 0px;
+	 margin: 0px;
+	 margin-top: 0px;
+	 margin-bottom: 0px;
+	}
+</style>
+</head>
+<body>
+<table cellpadding=0 background=\"white\" border=\"0\" width="*" height="100%" cellspacing=0>
+<tr valign=top>
+	<td bgcolor="#444444">
+		<img src='me_sm.jpg'>
+	</td>
+	<td>
+		<table cellpadding=0 background=\"white\" border=\"0\" width="500px" height="*" cellspacing=6>
+		<tr>
+			<td width="105">
+				<div valign='top' align='left'>
+				<img src='logo.jpg'>
+			</td>
+			<td >
+				<h1>Nicholas D. Lane</h1>
+					niclane at cs dot dartmouth dot edu<BR>
+					<BR>
+					<a href='index.html'>index</a> | <a href='papers.html'>papers</a> | <a href='talks.html'>talks</a> |
+					<a href='meetings.html'>meetings</a> | <a href='resume.pdf'>resume</a>
+			</td>
+		</tr>
+		<tr cellpadding=5 cellspacing=5>
+			<td colspan=2 cellpadding=5 cellspacing=5 >
+			    <BR>
+					<h2>Talks</h2>
+				  
+					I've given the following talks:
+<BR><BR>
+"Sensing Meets Mobile Social Networks: The Design, Implementation and Evaluation of the CenceMe
+Application"<BR>
+ACM Sensys 2008 ~ Raleigh, NC Nov 2008<BR>
+<a href='http://cs.dartmouth.edu/~niclane/talks/cenceme_sensys08.pdf' onClick="javascript:urchinTracker('`talks/cenceme_sensys08.pdf');">[slides - pdf]</a><BR>
+<p>
+"Cooperative Techniques Supporting Sensor-based People-centric Inferencing"<BR>
+Pervasive 2008 ~ Sydney, Australia May 2008<BR>
+<a href='http://cs.dartmouth.edu/~niclane/talks/distill_pervasive08.pdf' onClick="javascript:urchinTracker('talks/distill_pervasive08.pdf');">[slides - pdf]</a><BR>
+<p>
+"Urban Sensing Systems: Opportunistic or Participatory?"<BR>
+Hotmobile 2008 ~ Napa Valley, CA Feb 2008<BR>
+<a href='http://cs.dartmouth.edu/~niclane/talks/opp_hotmobile08.pdf' onClick="javascript:urchinTracker('talks/opp_hotmobile08.pdf');">[slides - pdf]</a><BR>
+<p>
+"The BikeNet Mobile Sensing System for Cyclist Experience Mapping"<BR>
+ACM Sensys 2007, Sydney, Australia Nov 2007<BR>
+<a href='http://cs.dartmouth.edu/~niclane/talks/bikenet_sensys07.pdf' onClick="javascript:urchinTracker('talks/bikenet_sensys07.pdf');">[slides - pdf]</a><BR>
+<p>
+"Ambient Beacon Localization: Using Sensed Characteristics of the Physical World to Localize Mobile
+Sensors"<BR>
+EmNets 2007 ~ Cork, Ireland June 2007<BR>
+<a href='http://cs.dartmouth.edu/~niclane/talks/abl_emnets07.pdf' onClick="javascript:urchinTracker('talks/abl_emnets07.pdf');">[slides - pdf]</a><BR>
+<p>
+"The Influence of Microprocessor Instructions on the Energy Consumption of Wireless Sensor Networks"<BR>
+Emnets 2006 ~ Cambridge, MA May 2006<BR>
+<a href='http://cs.dartmouth.edu/~niclane/talks/influence_emnets06.pdf' onClick="javascript:urchinTracker('talks/influence_emnets06.pdf');">[slides - pdf]</a><BR>
+</font>
+</td></tr>
+
+
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-639085-1";
+urchinTracker();
+</script>
+</html>
+i

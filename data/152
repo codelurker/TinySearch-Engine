@@ -1,0 +1,65 @@
+http://www.cs.dartmouth.edu/~cs5
+2
+<html> <head>
+<title>Computer Science 5, Spring 2009</title>
+</head>
+
+<body bgcolor=#ffffff>
+
+<center>
+<img src="CS5-Banner.gif" alt="CS Banner">
+</center>
+
+<center>
+<h1>Spring 2009</h1>
+
+<h2>Introduction to Computer Science</h2>
+<h2><a href="http://www.cs.dartmouth.edu/~scot">Scot Drysdale</a></h2>
+</center>
+
+<h2><a href="syllabus.html">Syllabus and Lecture Notes</a></h2>
+
+<h2><a href="info.html">Course Information</a></h2>
+
+<h2><a href="sections/sections.html">Section Assignments</a></h2>
+
+<!-- <h2><a href="lectures/0926/Questionnaire.doc">Questionnaire</a></h2> -->
+
+<h2><a href="short-assignments.html">Short Assignments</a></h2>
+
+<h2><a href="exams/exam1-review.html">Review for First Midterm</a></h2>
+<h2><a href="exams/exam2-review.html">Review for Second Midterm</a></h2>
+<!--
+<h2><a href="exams/final-review.html">Review for the Final Exam</a></h2>
+-->
+
+<h2><a href="exams/Java-Mini-Manual">Java Library Quick Reference</a></h2>
+
+<h2><a href="lab-assignments.html">Lab Assignments</a></h2>
+
+<h2><a href="hw-requirements.html">Homework Requirements</a></h2>
+
+<h2><a href="examples.html">Textbook Examples</a></h2>
+
+<!-- <h2><a -->
+<!-- href="http://duke.csc.villanova.edu/jss1/JSS%204E%20Errata.pdf">Textbook -->
+<!-- Errata</a></h2> -->
+
+<h2>Installing Eclipse 3.3</h2>
+<ul>
+  <li> <a href="install/eclipse-osx.html">On Mac OS X</a>
+  <li> <a href="install/eclipse-winxp.html">On Windows</a>
+</ul>
+
+<h2><a href="Appendix_M.pdf">Appendix M from the Textbook</a> (documenting
+many useful classes and interfaces)</h2>
+
+<h2><a href="http://java.sun.com/j2se/1.5.0/docs/api">All Classes
+Available in Java 5.0</a> (on the Sun Microsystems web site)</h2>
+
+<!--
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~scot/">Scot Drysdale</a></address>
+-->
+
+</body> </html>

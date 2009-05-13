@@ -1,0 +1,177 @@
+http://www.cs.dartmouth.edu/~fabio/teaching/cs52-winter08
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>CS52 - Computer Graphics - Winter 2008</title>
+	<meta name="author" content="Fabio Pellacini" />
+	<link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+
+<div class="pagebackground">
+
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+
+<div class="header">
+<div class="title">Computer Graphics</div>
+<div class="subtitle">CS52 - Winter 2008</div>
+<div class="subtitle">Instructor: Fabio Pellacini</div>
+</div>
+
+<div class="navigation">
+<span class="navigationitem"><a href="index.html">About</a></span>
+<span class="navigationitem"><a href="schedule.html">Schedule</a></span>
+<span class="navigationitem"><a href="homeworks.html">Homeworks</a></span>
+<span class="navigationitem"><a href="assignments.html">Assignments</a></span>
+</div>
+
+<div class="content">
+<h1>About</h1>
+
+<h2>Course Description</h2>
+<p>The Computer Graphics course will introduce students to the mathematical foundations of
+modeling and rendering (drawing) three-dimensional scenes.
+Topics include digital image representation, geometrical transformations, curves and surfaces, 
+illumination and shading models, and visible surface algorithms.
+Coursework will consist of a mixture of written homeworks and short programming assignemnts.</p>
+
+<p>If you would like to preview the content of the class, please look up the 
+<a href="../cs52-fall06">Fall 2006 webpage.</a></p>
+
+<h2>Administration</h2>
+
+<div class="listBlock">
+<div class="listBlockTitle">Instructor</div>
+<ul>
+<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) <br/> Sudikoff 153 | Office hours: M 1:30-2:30pm </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Teaching assistant</div>
+<ul>
+<li class="listBlockItem">Xiaobo An (Xiaobo -dot- An -at- dartmouth -dot- edu) <br/> Sudikoff 152 | Office hours: W 11:00-12:00, 3:00-4:00 </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Lectures</div>
+<ul>
+<li class="listBlockItem">TuTh 2:00-3:50pm | Sudikoff 115 </li>
+<li class="listBlockItem">Xhour: W 4:15-5:05pm | Used sometimes for lectures </li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Textbook</div>
+<ul>
+<li>Strongly suggested: Shirley, <em>Fundamentals of Computer Graphics</em></li>
+</ul>
+</div>
+
+<h2>Coursework</h2>
+
+<h3>Homeworks</h3>
+
+<p>
+The class will have bi-weekly homeworks 
+where you will be required to work out numerical problems or answer short questions.
+The schedule page will contain an up-to-date list of homeworks and due dates.
+</p>
+<p>
+The homeworks will be due at the beginning of class on Thursdays, unless otherwise noted,
+with answers either printer or clearly written.
+</p>
+
+<h3>Programming assignments</h3>
+<p>
+The class will also require you to perform the following four programming assignments:</p>
+<ul>
+<li>Raytracing I: Simple raytracer with shading and lighting</li>
+<li>Surfaces and Transforms: surface tesselation and hierachical transformations</li>
+<li>Animation: basic animation, skeletal animation, skinning</li>
+<li>Raytracing II: large models and indirect illumination</li>
+</ul>
+<p>You are to perform the assignments in Java using the basic code provided in class
+and email your results to cs52@cs.dartmouth.edu, unless otherwise noted.
+Assignments are typically due at 11:59 pm of the due date. 
+</p>
+ 
+<h2>Policies</h2>
+
+<h3>Announcements and Help</h3>
+
+<p>Whenever necessary we will email last minute and important information.
+</p>
+
+<p>
+There are two main ways to get help from us: office hours and email questions.
+In general you should feel free to email us with questions if short enough. We will do
+our best to answer you in a timely fashion. Otherwise please come to our office hours
+or schedule an appointment.
+</p>
+
+<h3>Grading, Late Assignments and Extra credit</h3>
+
+<p>
+The final grade will depend roughly on the homeworks (40%) and programming assignments (60%).
+We will also consider student participation in and out of class toward the final grade.
+This offering of the course has no midterm and final.
+</p>
+
+<p>We <em>will not accept late submissions</em> for either homeworks or programming assignments. 
+If handed in late, we will not consider the work toward your grade. Exception to this rule might 
+be made for special cases only if the professor is informed way before the deadline and at his 
+sole discretion.
+</p>
+
+<p>In general there will be extra credit questions in either the homeworks and 
+programming assignments.
+We will grade these separately and grant you extra credits only if the basic functionality
+has been successfully achieved (i.e. at least 90% of the original requirements/grade are met). 
+Extra credit will not affect the grading curve and might not exceed 20% of the overall grade.</p>
+
+<p>Disclaimer: The numerical percentages given before are only given to you to help you
+figure out how well you are doing in class during the year. 
+We will have individual meetings during the class to review your progress. </p>
+
+<h3>Working Together and Academic Integrity</h3>
+
+<p>You are encouraged to talk to other students about the topics discussed in class
+as well as the homneworks/assignments in general terms. 
+The goal is to get a deeper understanding of
+the material and the homeworks/assignments are meant for this.</p>
+
+<p>Once it gets to preparing the final homework solution or the code for your program,
+you should only work by yourself. The solution you hand in
+is meant to indicate your own understanding of the problem and its solution. 
+In particular you should not consult the solution or code of any other person when
+preparing your submission. 
+
+<p> Furthermore, while you are welcome to use any source of information that can deepen your understandiung 
+of the material, please do not include any code/solution in the assignment that is not yours.
+In particular, you are not allowed to use solution to either homework or programming 
+assignment you might find that come from previous offerings of this course.</p>
+
+</div>
+
+<div class="footer">
+Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>

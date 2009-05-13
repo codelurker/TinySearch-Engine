@@ -1,0 +1,66 @@
+http://www.cs.dartmouth.edu/farid/job.html
+2
+<html>
+
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid: Image Science Group </title>
+</head>
+
+
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=730>
+<tr>
+<td width=350>
+
+<b>Postdoctoral Research Fellow</b>
+
+<p>
+
+The <a href="http://www.cs.dartmouth.edu/farid/group.html">Image
+Science Group</a> at Dartmouth is searching for a postdoc with skills
+and interest in digital forensics. 
+
+<p>
+
+The candidate must have finished their Ph.D. and have some experience
+in digital forensics, digital image processing, and have strong
+mathematical and programming skills (MatLab and Java a plus).
+
+<p>
+
+The postdoc will work with <a
+href="http://www.cs.dartmouth.edu/farid">Professor Hany Farid</a> and
+his group in the area of <a
+href="http://www.cs.dartmouth.edu/farid/research/tampering.html">digital
+forensics</a>.
+</td>
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top width=360>
+<BR><BR>
+<img src="job.jpg" width=360 height=256>
+</td>
+</tr>
+
+<tr>
+<td colspan=3>
+<p>
+Dartmouth College is an Ivy League college with graduate programs in
+the sciences, engineering, medicine, and business. It is located in
+the beautiful small town of Hanover NH, about two hours northwest of
+Boston. Interested candidates should send their vita (pdf) to Hany
+Farid, farid@cs.dartmouth.edu.
+</td>
+</tr>
+
+
+
+</table>
+
+</body>
+</html>

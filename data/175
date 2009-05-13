@@ -1,0 +1,117 @@
+http://www.cs.dartmouth.edu/~campbell/sensor-seminar.html
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>Wireless Sensor Network Seminar</title>
+
+
+</head>
+<body>
+
+<br>
+
+<img style="width: 864px; height: 149px;" alt="tree" title="sensors" src="tree.jpg"><br>
+
+<br>
+
+<br style="font-weight: bold;">
+
+<big><big><span style="font-family: Arial;"><span style="font-weight: bold;">CS 88/188 Seminar on Wireless
+Sensor Networks</span><br>
+
+</span></big></big><big><big><span style="font-family: Arial;"></span></big></big><big><big><span style="font-family: Arial;"><small><br>
+
+</small></span></big></big><big><big><span style="font-family: Arial;"><span style="font-family: Arial;"></span><small><span style="font-weight: bold;"></span><small>Sensor networks are
+recognized as a new frontier in communications. Sensors are
+self-organizing and represent low-powered, low-cost computational
+devices that can monitor and manipulate our physical world by
+spontaneously forming multihop wireless networks in a fully distributed
+manner. Sensors use acoustic, seismic, thermal, and infrared sensing
+technologies among others, they come in different form-factors from
+nano sensors (such as smart dust) to more conventional mote sensors,
+and they support a wide variety of new applications such as habitat
+monitoring, target detection, industrial process management,
+people-centric sensing (e.g., <a href="http://www.nike.com/nikeplus/">nikeplus</a>),
+etc. Importantly, the design of these networks represents a radical
+departure from the Internet architecture we know today.<br>
+</small>
+</small></span></big></big><big><span style="font-family: Arial;"><small><br>
+
+<span style="font-weight: bold;">Aim: </span></small></span></big><big><span style="font-family: Arial;"><small>This seminar offers
+students the opportunity to understand the foundations of sensor
+networks through surveying the research literature, and importantly,
+students will program mote sensors in the Sensor Network Systems
+Laboratory<br>
+
+as part of programming assignments and group
+projects to get hands-on experience. </small></span></big><big><span style="font-family: Arial;"><small></small></span></big><br>
+<big><span style="font-family: Arial;"><small>
+<br>
+</small></span></big><big><span style="font-family: Arial;"><small>The
+seminar is focused on advanced computer network topics, research, and
+an experimental systems approach to the material. Students will program in a 'c' like language (called <a href="http://csl.stanford.edu/%7Epal/pubs/tinyos-programming.pdf">nesC</a>), and use the <a href="http://www.tinyos.net/">TinyOS</a> operating system and mote devices (such as the <a href="http://www.moteiv.com/">Moteiv Invent </a>shown below).<br>
+<br>
+</small></span></big><big><span style="font-family: Arial;"><small>We plan on covering traditional multihop sensor networks and new people-centric sensor networks that we are working<br>
+on in the </small></span></big><big><span style="font-family: Arial;"><small>Sensor Network Systems
+Laboratory.</small></span></big><br>
+<big><span style="font-family: Arial;"><small><br>
+</small></span></big><big><span style="font-family: Arial;"><small>
+<span style="font-weight: bold;">Time:</span>
+Tuesday and Thursday 2.00-3.50 PM with x-period Wednesday 4.15-5.05 PM<br>
+
+<br>
+
+As a general rule Tuesday's class will be the seminar and Thursday's
+for programming and projects.<br>
+
+<br>
+
+<span style="font-weight: bold;">Location: </span>Sensor
+Network Systems Laboratory, Sudikoff 147 (to be confirmed).<br>
+
+<br>
+
+</small></span></big><big><span style="font-family: Arial;"><small><span style="font-weight: bold;">Grading: </span>Paper part
+- 50% and programming part - 50%. &nbsp;<br>
+<br>
+Students will present papers and discuss the pros/cons of those papers
+in class. Students will also work on individual or group projects and
+write up their project reports as a conference style paper. There is no
+midterm or final exam.<br>
+</small></span></big>
+<big><span style="font-family: Arial;"><small><br>
+
+<span style="font-weight: bold;">Prerequisites:</span>
+Students <span style="font-weight: bold;">must</span> have taken CS 78 Computer Networks or equivalent and be a competent&nbsp;programmer.<br>
+
+<br>
+
+</small></span></big><big><span style="font-family: Arial;"><small><span style="font-weight: bold;">Instructor: &nbsp;</span><a href="http://www.cs.dartmouth.edu/%7Ecampbell/">Andrew
+T. Campbell</a> (campbell@cs.dartmouth.edu). Office hours Wednesday 9-11 AM<br>
+
+</small></span></big><br>
+
+<br>
+
+<img style="width: 104px; height: 132px;" alt="invent" src="invent.png"> &nbsp; &nbsp;<img style="width: 139px; height: 190px;" alt="bike" src="bikenet.png"> &nbsp; &nbsp; <img style="width: 152px; height: 84px;" alt="nike" src="nike-1.png"><img style="width: 112px; height: 64px;" alt="run" src="nike-2.png"><img style="height: 200px; width: 359px;" alt="run" src="run.png"><br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+</body>
+</html>
+i

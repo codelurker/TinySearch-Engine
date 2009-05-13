@@ -1,0 +1,62 @@
+http://www.cs.dartmouth.edu/farid/publications/slthesis05.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=650>
+<tr>
+<td>
+
+<dl>
+<dt><b> Natural Image Statistics for Digital Image Forensics </b><BR>
+<dd> Siwei Lyu <i>(advisor: H. Farid)</i> <BR> 
+<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2005
+<BR><BR>
+<dd>	<a href="slthesis05.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#lyu05">Bibtex</a>
+
+        
+</dl>
+<p><BR>
+We describe a set of natural image statistics that are built upon two 
+multi-scale image decompositions, the quadrature mirror filter pyramid 
+decomposition and the local angular harmonic decomposition.  These 
+image statistics consist of first- and higher-order statistics that 
+capture certain statistical regularities of natural images.  We propose 
+to apply these image statistics, together with classification 
+techniques, to three problems in digital image forensics: (1) 
+differentiating photographic images from computer-generated 
+photorealistic images, (2) generic steganalysis; (3) rebroadcast image 
+detection. We also apply these image statistics to the traditional art 
+authentication for forgery detection and identification of artists in 
+an art work.  For each application we show the effectiveness of these 
+image statistics and analyze their sensitivity and robustness.
+
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=650>
+<tr>
+<td align=left>
+<i><a href="../research/cgorphoto.html">Related material</a></i>
+</td>
+<td valign=top align=right>
+	<i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
+</td>
+</tr>
+</table>
+</html>
+thepñ

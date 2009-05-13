@@ -1,0 +1,75 @@
+http://www.cs.dartmouth.edu/~doug/explan.html#words
+3
+<html>
+<head>
+<title>Gallery explanation</title>
+</head>
+<body>
+<h1>Notes on the <a href="index.html#gallery">gallery</a></h1>
+<h2><a name="maps"> Maps from my Christmas cards</a></h2>
+<p>
+<b>Ring of Fire.</b>  The great chain of volcanoes is usually depicted
+as surrounding the Pacific Ocean.  Here the perspective is
+reversed and the volcanoes surround the continents.
+<blockquote>
+Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:
+For I, saith the Lord, will be unto her a wall of fire round about.
+&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;Zechariah 2:4-5
+</blockquote>
+<p>
+<b>Jerusalem Trefoil.</b>  Three circles of different sizes are drawn 
+on the globe roughly to encompass each of three continents, with each
+circle passing through Jerusalem.  Then the circles are
+stretched conformally into trefoil leaves.
+<p>
+<b>Way to go.</b>  On this map for shepherds and magi a line from any point 
+to Bethlehem shows the great-circle direction
+to Bethlehem (but not the great circle itself).
+Within the inner hemisphere directions are conventional;
+north up, east to the right.  Within the outer hemisphere they
+are inverted--north down, east still to the right.
+Peter McIlroy suggested this
+arrangement of the hemispheres, which are usually
+presented as two conventionally oriented sheets.
+
+<h3>Conformal polygonal hemispheres</h3>
+<b><a href="maps/penta.jpg">Big star.</a></b> Northern and 
+southern hemispheres are pentagons.
+<p>
+<b><a href="maps/hex.jpg">Sea whirled.</a></b> 
+Hemispheres are
+triangles, with which the plane can be tiled continuously.
+The orientation here (hemispheres bounded by 80&deg;E and 100&deg;W;
+vertices at 90&deg;S and 30&deg;N) is chosen to display the continuity
+of the major oceans. In an extended tiling,
+the coastlines of North
+America and Eurasia would be trebled like Antarctica's.
+<p>
+Two decades after the math for conformal polygons was published
+(H. A. Schwarz, 1869), conformal square hemispheres
+appeared in cartography (C. S. Peirce, 1888),
+but triangles came considerably later (O. S. Adams,
+1925) and pentagons not for a century
+(J. P. Snyder, unpublished).
+My <a href="map.tar.gz">map program</a> can draw the 3- through 8-sided members
+of this series.
+<h2><a name="words">Word squares</a></h2>
+<p>These squares, which I found by
+exhaustive search in Webster's Collegiate Dictionary, were
+nominated as best of their sizes by
+the nonpareil word-gamester, Dmitri Borgmann;
+see A. Ross Eckler, <em>Making the Alphabet Dance</em>,
+St. Martin, 1995.
+More squares have been published in 
+<a href="http://www.wordways.com"><em>Word Ways</em></a>;
+see my <a href="doug.bib">bibliography</a>.
+A <a href="squares.c">C program</a> for the search
+still exists, simplified from the original, which had to be
+contorted to squeeze into a tiny DEC PDP-11.
+<hr>
+<a href="index.html">Doug McIlroy's home page</a>
+<hr>
+<em>Modified January 6, 2009.</em>
+<br><br>
+</body>
+</html>

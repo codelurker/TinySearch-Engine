@@ -1,0 +1,288 @@
+http://www.cs.dartmouth.edu/~thc
+2
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>Thomas H. Cormen</TITLE>
+<link REL="SHORTCUT ICON" HREF="images/cormen-tiny.jpg">
+</HEAD>
+<BODY TEXT="#000068" LINK="#060FDF" VLINK="#060FDF" ALINK="#DC24C5" BGCOLOR="#FFFFFF">
+
+<!-- <TABLE CELLPADDING="10" CELLSPACING="0" WIDTH="475"> -->
+<TABLE CELLPADDING="10" CELLSPACING="0">
+<TR VALIGN=TOP>
+
+<TD ALIGN=LEFT VALIGN=TOP WIDTH=151>
+
+<IMG SRC="images/Cormen05.jpg"><P>
+
+</TD>
+
+<TD ALIGN=LEFT VALIGN=TOP>
+
+<H2>Thomas H. Cormen<br>
+Professor of Computer Science</H2>
+
+<p>
+
+Ph.D., <A HREF="http://www.csail.mit.edu/">Massachusetts Institute of
+Technology</A>, 1992.<P>
+
+<H3>Research Interests</H3>
+
+Algorithm engineering, parallel computing, speeding up computations
+with high latency.<br>
+Computer science writing.
+
+<br>
+<br>
+
+<DL>
+<DD>
+<B>
+<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=center> 
+  <A HREf="papers.html">Papers</A><BR> 
+<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=center>
+     <A HREf="http://www.cs.dartmouth.edu/FG/">FG</A>
+     <!-- <a href="http://www.cs.dartmouth.edu/FG/"><IMG SRC="new.gif" ALT="*" ALIGN=center border=0></a> --><br>
+<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9
+     ALIGN=center>
+   <A HREf="software.html">Other software</A><BR> 
+<IMG SRC="images/yellowsq.gif" ALT="*" WIDTH=9 HEIGHT=9 ALIGN=CENTER>
+     <a href="papers/cormen-vita.pdf">Vita</a>
+</B>
+</DL>
+
+</TD>
+</TR>
+</TABLE>
+
+<TR VALIGN=TOP>
+<TD COLSPAN="2">
+
+<hr>
+
+Are you looking for solutions to exercises and problems in
+<i>Introduction to Algorithms</i>?
+
+<p>
+
+If you are, then see the <a href="#solutions">frequently asked
+question and answer</a> below.
+
+<p>
+
+If you request solutions from me, I will not respond.
+
+<hr>
+
+I receive many requests from students who want to work with me as
+interns or as graduate students.  I am not taking on any interns or
+new graduate students at this time.
+
+<hr>
+
+From July 2004 through June 2008, I was the director of the <a
+href="http://www.dartmouth.edu/~writing/">Dartmouth Institute for
+Writing and Rhetoric</a>.
+
+<hr>
+
+<h3>Graduate Students</h3>
+
+Current graduate student:
+<ul>
+  <li> <a href="http://www.cs.dartmouth.edu/~priya/">Priya Natarajan</a>
+</ul>
+
+Former graduate students:
+<ul>
+  <li> Alex Colvin, Ph.D. 1999
+  <li> Geeta Chaudhry Petrovic, Ph.D. 2004 [<a href="images/Cormen&Chaudhry.JPG">Photo</a> of Geeta and me at 2004 Dartmouth graduation]
+  <li> Elena Riccio Strange (formerly Elena Riccio Davidson), Ph.D. 2006
+  <li> Len Wisniewski, Ph.D. 1996
+  <li> Melissa Hirschl Chawla, M.S. 1997
+  <li> <a href="http://www.cs.washington.edu/homes/miker/">Michael Ringenburg</a>, M.S. 2001
+  <li> Georgi Vassilev, M.S. 1994
+</ul>
+
+<hr>
+
+<h3><i>Introduction to Algorithms</i></h3>
+
+Yes, I am coauthor of <i>Introduction to Algorithms</i>, along with <a
+href="http://supertech.csail.mit.edu/~cel">Charles Leiserson</a>, <a
+href="http://theory.csail.mit.edu/~rivest">Ron Rivest</a>, and <a
+href="http://www.ieor.columbia.edu/~cs2035">Cliff Stein</a>.  Here are
+answers to a few frequently asked questions about <i>Introduction to
+Algorithms</i>:
+<dl>
+  <dt> <i>I see that there are two versions of the second edition,
+       one published by The MIT Press and one published by McGraw-Hill.
+       How do the two versions differ?</i>
+  <dd> Other than minor differences in the covers, the book content
+       in the two versions is identical.  McGraw-Hill also includes a CD
+       (see the next question).
+       <p>
+
+  <dt> <i>Are the algorithms in the book implemented in a real programming
+       language, rather than just pseudocode?</i>
+  <dd> McGraw-Hill now includes with the book a CD containing Java
+       implementations of all the algorithms in Parts I-VI.  The CD also
+       has Javadoc-generated web pages that document all the classes.
+       <p>
+
+  <dt> <a name="errata"></a><i>Where can I find a list of errata?</i>
+  <dd> We maintain an <a href="clrs-2e-bugs">errata page</a> that allows
+       you to list errors by date, by page, by severity, or by discoverer.
+       There is even an incremental update feature, allowing you to list
+       only the errors posted since the last date that you asked about.
+       <p>
+
+  <dt> <i>How do I report errors?</i>
+  <dd> First, please visit the <a href="clrs-2e-bugs">errata page</a>
+       to verify that the error has not been reported already.  Once
+       you have determined that you have found an unreported error,
+       send email to <a
+href="mailto:algorithm-bugs@mitpress.mit.edu">algorithm-bugs@mitpress.mit.edu</a>.  We will respond as quickly as possible, often within a day.
+       <p>
+
+  <dt> <i>Do you correct errors?</i>
+  <dd> Yes.  Each time a new printing is produced, it contains corrections
+       to all errors that have been reported by that time.  The <a
+       href="clrs-2e-bugs">errata page</a> indicates in which printing
+       each error was corrected.
+       <p>
+
+  <dt> <i>What is the difference between an edition and a printing?</i>
+  <dd> Each edition is a major revision of the book.  The first edition
+       of <i>Introduction to Algorithms</i> was published in 1990, and
+       the second edition did not appear until 2001.  A printing for a
+       given edition occurs when the publisher needs to manufacture more
+       copies.  As the answer to the previous question indicates, we
+       have been correcting errors in each printing of the second
+       edition.  We perturb the pagination as little as possible when
+       correcting errors for a new printing.
+       <p>
+
+  <dt> <a name="solutions"></a><i>Can I get solutions to exercises and
+       problems?</i>       
+  <dd> If you are an instructor who has adopted the book for course use,
+       yes.  Otherwise, no, and please do not ask me for solutions; I
+       will not respond.
+       Instructors who have adopted the book for course use can get
+       the Instructor's Manual, which has lecture notes and solutions
+       to some (but not all) of the exercises and problems.  You'll
+       need to contact either The MIT Press (if you are outside the U.S.
+       and Canada) or McGraw-Hill (if you are within the U.S. or Canada)
+       for passwords to access the manual site and the files.  You cannot
+       get the passwords from me or from any of my coauthors.
+       <p>
+
+  <dt> <i>How can I typeset pseudocode to make it look like the pseudocode
+       in the book?</i>
+  <dd> In June 2003, I made available the <code>clrscode</code> package
+       for LaTeX2e.  You can download the package and its documentation
+       (in either PostScript or PDF) by clicking <a
+       href="clrscode">here</a>.  The package is also on the
+       <a href="http://www.ctan.org/tex-archive/macros/latex/contrib/clrscode/?filename=macros/latex/contrib/clrscode/&preferredCTAN=tug.ctan.org&action=/tools/filesearch&catstring=macros/latex/contrib/clrscode/">CTAN website</a>.
+       <p>
+
+  <dt> <i>Where are the web sites for the book?</i>
+  <dd> The MIT Press site is <a
+       href="http://mitpress.mit.edu/algorithms">http://mitpress.mit.edu/algorithms</a>.
+       The McGraw-Hill site is <a href="http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072970545">http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072970545</a>,
+       and you can find the McGraw-Hill Online Learning Center for the
+       book at <a
+       href="http://www.introductiontoalgorithms.com">http://www.introductiontoalgorithms.com</a>
+       (also <a
+       href="http://www.introtoalgorithms.com">http://www.introtoalgorithms.com</a>).
+       <p>
+
+  <dt> <i>Are you guys going to produce a third edition?</i>
+  <dd> Yes.  Click <a href="CLRS3e">here</a> for more information.
+       
+</dl>
+
+<hr>
+
+<h3>Miscellaneous Personal Stuff</h3>
+
+My brother-in-law, Tony Pecora, is the first patient in the US to
+undergo the Edmonton Protocol for treatment of juvenile diabetes.
+Check out his website at <a
+href="http://www.isletsupporter.com">http://www.isletsupporter.com</a>.
+
+<p>
+
+My wife, Nicole, and I took a <a href="bbqtour">Barbecue tour</a> of
+the South in August 1998.
+
+<p>
+
+I was the Ice Man for the <a href="http://www.mdbbq.com">Maryland
+State Barbecue Championship</a> in 2003, 2004, and 2005.  Here's a <a
+href="ICE.jpg">photo</a> from the 2005 contest of me with a
+quad-runner full of 40-pound bags of ice.  The photo was taken by the
+<a href="http://www.dizzypigbbq.com/">Dizzy Pigs</a>, the 2005 and
+2006 Grand Champions.  Even with the megaphone, I was pretty hoarse by
+the end of the second day.  The Dizzy Pigs, and all the other
+contestants, can explain why.
+
+<p>
+
+In September 1997, Nicole and I finished hiking all 48 of the
+4000-foot peaks in the <a
+href="http://www.cs.dartmouth.edu/whites/summits_alf.html">White
+Mountains</a> of New Hampshire.
+
+<p>
+
+Have you ever noticed <a href="bank">something odd about bank deposit
+slips</a>?
+
+<hr>
+
+<h3>Contact Information</h3>
+
+I am on sabbatical July 1, 2008 through June 30, 2009.  The best way
+to contact me is by email at <a
+href="mailto:thc@cs.dartmouth.edu">thc@cs.dartmouth.edu</a>.  If you
+must find me some other way:
+
+<p>
+
+U.S. Mail:<br>
+Department of Computer Science<br>
+Dartmouth College<br>
+6211 Sudikoff Laboratory<br>
+Hanover, NH 03755-3510
+
+<p>
+
+Office:<br>
+204 Sudikoff Laboratory
+
+<p>
+
+Phone:<br>
+Voice: 603-646-2417<br>
+Fax: 603-646-1672
+
+<P><HR SIZE=4>
+<H4> 
+<IMG ALIGN="MIDDLE" SRC="images/Dtree.gif" WIDTH=34 HEIGHT=39> 
+<A HREF="/">Back to Dartmouth Computer Science Home Page</A> 
+</H4>
+</TD>
+</TR>
+
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Mon Apr  6 21:08:45 2009
+<!-- hhmts end -->
+</body> </html>
+
+</BODY>
+</HTML>

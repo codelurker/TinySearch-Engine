@@ -1,0 +1,169 @@
+http://www.cs.dartmouth.edu/~ac/DTS/spring05.html
+3
+<html><head><title>DTS: Dartmouth Theory Seminars - Summer 2005</title></head>
+<body background="../dartback.png" link=#0000ff vlink=#0000ff>
+
+<h2>DTS: Dartmouth Theory Seminars - Spring 2005</h2>
+
+<h3>Spring &amp; Summer 2005 Schedule</h3>
+
+<table cellpadding=3><tr>
+  <td valign=top>May 2 (Monday)</td>
+  <td>Iordanis Kerenidis, MIT<br>
+  <a href="#kerenidis">Quantum multiparty communication complexity 
+    and circuit lower bounds</a><br>
+  Room: Fairchild 101<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>May 9 (Monday)</td>
+  <td>Lisa Fleischer, IBM T. J. Watson Research Center<br>
+  <a href="#fleischer">How to Influence Noncooperative, Selfish Agents</a><br>
+  Room: Fairchild 101<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>May 19 (Thursday)<br></td>
+  <td>Seth Pettie, Max Planck Institut f&uuml;r Informatik<br>
+  <a href="#pettie">Approximating Shortest Paths with Purely Additive
+    Spanners</a><br>
+  Room: Fairchild 101<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>June 13 (Monday)<br></td>
+  <td>Maurice Herlihy, Microsoft Research and Brown University<br>
+  <a href="#herlihy">Virtual Transactional Memory</a></br>
+  Room: Moore B03<br>
+  Time: 3pm - 4pm.
+</tr><tr>
+  <td valign=top>July 19 (Tuesday)<br></td>
+  <td>Cliff Stein, Columbia University<br>
+  <a href="#stein">Secure Network Coding via Filtered Secret Sharing</a></br>
+  Room: Moore B03<br>
+  Time: 2pm - 3pm.
+</tr></table>
+
+<p><hr><p>
+
+<h3>Abstracts</h3>
+
+<a name="kerenidis">
+
+  <p><b>Iordanis Kerenidis, MIT<br>
+  Quantum multiparty communication complexity and circuit lower bounds</b></p>
+
+  <p> We define a quantum analog of the classical communication
+  complexity model of the "Number on the forehead". We describe a
+  connection to circuit depth lower bounds and reduce a classical
+  question on the power of the class ACC_0  to a  question about a
+  quantum communication lower bound in the above model.  Moreover, we
+  show an exponential separation for a total function between classical
+  and quantum communication in this model. </p>
+
+<hr width=50%><p>
+
+<a name="fleischer">
+
+  <p><b>Lisa Fleischer, IBM T. J. Watson Research Center<br>
+  How to Influence Noncooperative, Selfish Agents</b></p>
+
+  <p> The societal value of a distribution of finite resources is
+  frequently measured in terms of of aggregate utility.  Decisions,
+  however, are frequently controlled by noncooperative agents who try to
+  maximize their own private utility.  Papadimitriou coined the term
+  "price of anarchy" to refer to the ratio of social utility achieved by
+  selfish agents versus the social optimal. </p>
+
+  <p> In network routing games, the price of anarchy can be arbitrarily
+  bad.  We review these results, and then describe some solutions to
+  prevent this bad outcome.  These include charging users for network
+  use; and managing a small portion of traffic wisely.  Some of these
+  results carry over to more general congestion games. </p>
+
+<hr width=50%><p>
+
+<a name="pettie">
+
+  <p><b>Seth Pettie, Max Planck Institut f&uuml;r Informatik<br>
+  Approximating Shortest Paths with Purely Additive Spanners</b></p>
+
+  <p> An additive k-spanner of a graph is a subgraph whose distance
+  metric approximates that of the original graph to within an additive
+  error of k. (Graphs are undirected and unweighted).   It is known that
+  every graph contains an additive 2-spanner with  O(n^{3/2}) edges and
+  that this bound is tight.  Until the present work no other additive
+  spanners were known and their existence was very much in doubt. </p>
+
+  <p> In this talk I'll discuss a completely new approach to computing
+  spanners based on an economics inspired view of the problem.  Our
+  primary result is that every graph contains an additive 6-spanner with
+  O(n^{4/3}) edges.  The same method is used to prove several lesser
+  results. </p>
+
+<hr width=50%><p>
+
+<a name="herlihy">
+
+  <p><b>Maurice Herlihy, Microsoft Research and Brown University <br>
+  Virtual Transactional Memory</b></p> 
+
+
+  <p> Computer architecture is about to undergo, if not another
+  revolution, then a vigorous shaking-up.  The major chip manufacturers
+  have, for the time being, simply given up trying to make processors
+  run faster. Instead, they have recently started shipping "multicore"
+  architectures in which multiple processors (cores) communicate
+  directly through shared hardware caches, providing increased
+  concurrency instead of increased clock speed. </p>
+
+  <p> Because conventional lock-based synchronization has well-known
+  limitations, a number of researchers have investigated hardware
+  support for non-blocking transactions. Preliminary results suggest
+  that such "hardware transactional memory" can achieve high
+  performance while avoiding many of the limitations of lock-based
+  mechanisms. </p>
+
+  <p> Nevertheless, current hardware proposals require programmers to be
+  aware of platform-specific resource limitations such as buffer sizes,
+  scheduling quanta, as well as events such as page faults, and process
+  migrations. These constraints are unacceptable if transactional memory
+  is to become widely used. </p>
+
+  <p> This talk describes Virtual Transactional Memory (VTM), a
+  user-transparent system that shields the programmer from
+  platform-specific resource limitations in much the same way that
+  virtual memory shields the programmer from the limitations of physical
+  memory. </p>
+
+  <p> Joint work with Ravi Rajwar and Konrad Lai at Intel. </p>
+
+<hr width=50%><p>
+
+<a name="stein">
+
+  <p><b>Cliff Stein, Columbia University <br>
+  Secure Network Coding via Filtered Secret Sharing</b></p>
+
+  <p> We study the problem of using a multicast network code to transmit
+  information securely in the presence of a "wire-tap" adversary who can
+  eavesdrop on a bounded number of network edges.  We establish a close
+  connection between secure linear network coding and a new variant of
+  the secret sharing problem, which we call "filtered secret sharing."
+  Using this connection, we establish new trade-offs between security,
+  capacity, and bandwidth of secure linear network coding schemes. </p>
+
+  <p> Our positive results show that by giving up a small amount of
+  capacity, it is possible to dramatically reduce the bandwidth
+  requirements of secure linear network coding.  Our negative results
+  show that within the framework we consider, unless capacity is
+  relaxed, the bandwidth requirements can be prohibitively high.  These
+  results are obtained by showing that the problem of making a linear
+  network code secure is equivalent to the problem of finding a linear
+  error-correcting code with certain generalized distance properties.
+  </p>
+
+  <p> Joint work with Jon Feldman, Tal Malkin and Rocco Servedio. </p>
+
+<hr><p>
+
+<p align=right> <i> Back to <a href="index.html">DTS main page </a>. </i> </p>
+
+</body></html>

@@ -1,0 +1,201 @@
+http://www.cs.dartmouth.edu/farid/yearinreview07.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid: Image Science Group </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750>
+<tr>
+<td>
+
+<p>
+<b> Year in Review: 2007 </b>
+<p>
+
+I hope that this email finds you all well.  I write to update you on
+the happenings of the <a href="group.html">Image Science Group</a>.
+The group currently consists of Kimo Johnson, Eric Kee, Weihong Wang,
+and Jeff Woodward.  Our lab has had a fun and productive year.  Our
+main focus continues to be in the area of digital forensics, in which,
+thanks to all of you, we have made incredible advances.
+
+<p>
+<HR>
+<p>
+
+It has been an exciting and productive year for <a
+href="http://www.mit.edu/~kimo/">Kimo Johnson</a> who
+defended his Ph.D. dissertation this summer, was awarded a prestigious
+NSF Postdoctoral Fellowship, and will begin a postdoc jointly at MIT
+and Adobe Research Labs on January of 2008. Kimo's dissertation is
+titled <a
+href=http://www.cs.dartmouth.edu/farid/publications/mkjthesis07.html>
+Lighting and Optical Tools for Image Forensics</a>.
+
+<p>
+
+<table width=750>
+<tr>
+<td valign=top>
+Kimo also gave the keynote lecture at the 6th International Workshop
+on Digital Watermarking, where he presented the following paper:
+
+<p>
+
+<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/iwdw07.html>Detecting Photographic Composites of People</a> </dd>
+<dd> M.K Johnson and H. Farid </dd>
+<dd> 6th International Workshop on Digital Watermarking, Guangzhou, China, 2007</dd>
+
+<p>
+
+The emphasis of Kimo's work has been on developing new geometric-based
+tools for digital forensics.  Two particularly nice papers on
+detecting inconsistencies in lighting are available here:
+
+<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/tifs07a.html>Exposing Digital Forgeries in Complex Lighting Environments</a> </dd>
+<dd> M.K. Johnson and H. Farid </dd>
+<dd> IEEE Transactions on Information Forensics and Security, 2(3):450-461, 2007 </dd>
+
+<p>
+
+<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/ih07.html>Exposing Digital Forgeries Through Specular Highlights on the Eye</a> </dd> 
+<dd> M.K. Johnson and H. Farid </dd> 
+<dd> 9th International Workshop on Information Hiding, Saint Malo, France, 2007 </dd>
+
+<p>
+
+Kimo (and his wife) was a particularly good sport when I made him pose
+for this Star magazine cover (notice him kissing Katie in the circular
+inset).
+
+</td>
+
+<td> <img src=photos/kimo_star.jpg width=378 height=500> </td>
+</tr>
+</table>
+
+<p>
+<HR>
+<p>
+
+We welcome <a href=http://www.cs.dartmouth.edu/~erickee>Eric Kee</a>
+to our lab.  I met Eric while visiting the CIA.  Eric was at a talk I
+gave as part of his work at the Johns Hopkins University Applied
+Physics Laboratory.  Eric has spent several years working in digital
+forensics, and since coming to Dartmouth has begun some interesting
+new work in digital document forensics.
+
+<p>
+<HR>
+<p>
+
+<a href="http://www.cs.dartmouth.edu/~whwang/">Weihong Wang</a> has
+been doing some excellent work in digital video forensics.  In his two
+most recent papers, Weihong has extended Alin Popescu's work in image
+forensics to video:
+
+<p>
+
+<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/tifs07.html>Exposing Digital Forgeries in Interlaced and De-Interlaced Video</a> </dd> 
+<dd> W. Wang and H. Farid </dd> 
+<dd> IEEE Transactions on Information Forensics and Security, 2(3):438-449, 2007 </dd>
+
+<p>
+
+<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/acm07.html>Exposing Digital Forgeries in Video by Detecting Duplication</a> </dd> 
+<dd> W. Wang and H. Farid </dd> 
+<dd> ACM Multimedia and Security Workshop, Dallas, TX, 2007 </dd>
+
+<p>
+
+And Weihong's most recent work will bring some interesting geometric
+techniques to digital forensics.  
+
+<p>
+<HR>
+<p>
+
+Jeff Woodward (Woody) has single-handedly taken all of our digital
+forensic work and ported it into a wonderful stand-alone software
+package.  We plan to deliver this software to the FBI's forensic lab
+in March of 2008.  In addition, Woody and I published a cool technical
+report that describes how to enhance low quality video:
+
+<dd> <a href=http://www.cs.dartmouth.edu/farid/publications/tr07.html>Video Stabilization and Enhancement</a> </dd> 
+<dd> H. Farid and J.B. Woodward </dd> 
+<dd> Technical Report, TR2007-605, Dartmouth College, Computer Science </dd>
+
+<p>
+<HR>
+<p>
+
+As for me, I continue to split my time between Hanover and Santa Cruz,
+CA.  The time in CA is wonderful and productive, and the sunsets
+continue to astound me:
+<p>
+<div align=center> <img src=photos/sunset.jpg height=125 width=700> </div>
+<p>
+
+I was also named by Dartmouth as the David T. McLaughlin Distinguished
+Professor of Computer Science.  As always, you can find on my web page
+copies of our <a href="publications/publications.html">papers</a> and
+<a href="publications/publications.html#popularpress">popular
+press</a> accounts of our work.
+
+<p>
+<HR>
+<p>
+
+In alumni news, 
+<ul>
+
+<li> <a href="http://www.cs.albany.edu/~lsw/">Siwei Lyu</a> has been a
+postdoc at NYU for the past few years where he has continued to do
+exciting research in the area of natural image statistics.  Siwei
+recently accepted a position at SUNY Albany as an Assistant Professor
+of Computer Science.
+
+<li> Dave Martin moved to San Jose, CA and is a proud new father.
+
+<li> After several years at Siemens, Senthil Periaswamy has moved to
+iCAD in Ohio where he continues to do interesting work in medical
+imaging.
+
+<li> Alin Popescu is working at Renesys Inc. here in Hanover, NH and
+has been enjoying the algorithmic and systems-oriented challenges of
+the job.
+
+<li> <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> has
+been living in Los Angeles, CA and working in various corners of the
+movie industry.  Jethro and I have also been working together on
+developing a one-hour drama series based on the general field of
+digital forensics.
+
+<li> Kate Sherwin has moved to Austin, TX where she is working in the
+field of computational finance.
+
+<li> Hai Sun is at the Oregon Health and Science University as a
+resident in neurosurgery.  Hai continues to do exciting work at the
+crossroads of medicine and engineering.
+
+</ul>
+
+<p>
+<HR>
+<p>
+
+I hope that this email finds you all well and happy.  Please stay in
+touch and let me know how things are.
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+ñ

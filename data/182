@@ -1,0 +1,202 @@
+http://www.cs.dartmouth.edu/~datamining
+2
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Data Mining and Pattern Recognit</title>
+<!--mstheme--><link rel="stylesheet" href="piec1011.css">
+<meta name="Microsoft Theme" content="piechart 1011">
+</head>
+
+<body>
+
+<p align="center"><font face="Albertus" size="5" color="#0000FF">COSC 085/ COSC 
+185</font></p>
+<p align="center"><font face="Albertus" size="5" color="#0000FF">Theoretical 
+Computer Science</font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font face="Antique Olive Compact" size="6">Data Mining and 
+Pattern Recognition</font></p>
+<p align="center">A new course at Computer Science Department</p>
+<p align="center">for undergraduate (COSC 085) and graduate (COSC 185) students</p>
+<p align="center"><i><b><font size="4">Prof. Eugene Demidenko</font></b></i></p>
+<p class="MsoNormal" align="center" style="text-align: left">
+<font face="Albertus Extra Bold" style="font-size: 20pt">Course features:</font><span style="font-size:16.0pt">&nbsp;</span></p>
+<ul>
+	<li>
+	<p class="MsoNormal" style="text-indent: -.25in; margin-left: .5in">
+	<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;</span><span style="font-size:16.0pt">Project-driven, active learning</span></p>
+	</li>
+	<li>
+	<p class="MsoNormal" style="text-indent: -.25in; margin-left: .5in">
+	<span style="font-size:16.0pt"><span style="font-family: Symbol">&nbsp;</span>Self-contained with minimum 
+prerequisites: linear algebra and some probability/statistics</span></p></li>
+	<li>
+	<p class="MsoNormal" style="text-indent: -.25in; margin-left: .5in">
+	<span style="font-size:16.0pt"><span style="font-family: Symbol">&nbsp;</span>Programming, Matlab or R.</span></p>
+	</li>
+</ul>
+<p align="left">&nbsp;</p>
+<p align="left"><font face="Albertus" size="6">Syllabus</font></p>
+<p align="left"><font size="4">1. Introduction to R.</font></p>
+<p align="left"><font size="4">2. Unsupervised learning on the real line. Kernel density estimation.</font></p>
+<p align="left"><font size="4">3. The two types of misclassification error: 
+sensitivity and specificity.</font></p>
+<p align="left"><font size="4">4. Receiver Operating Characteristic (ROC) curve. 
+Optimal classification.</font></p>
+<p align="left"><font size="4">5. Calculation of empirical and theoretical 
+misclassification errors.</font></p>
+<p align="left"><font size="4">6. Homework #1.</font></p>
+<p align="left"><font size="4">7. Supervised classification, logistic 
+regression.</font></p>
+<p align="left"><font size="4">8. PCA as a dimension reduction technique.</font></p>
+<p align="left"><font size="4">9. Homework #3.</font></p>
+<p align="left"><font size="4">10. Hierarchical cluster analysis for 
+unsupervised learning.</font></p>
+<p align="left"><font size="4">11. K-means cluster analysis.</font></p>
+<p align="left"><font size="4">12. Homework #3.</font></p>
+<p align="left"><font size="4">13. Discriminant analysis.</font></p>
+<p align="left"><font size="4">14. Nonlinear discriminant analysis,&nbsp; support vector machine.
+</font></p>
+<p align="left"><font size="4">13. Homework #4.</font></p>
+<p align="left"><font size="4">14. Predictive mining, model building. ARIMA 
+model.</font></p>
+<p align="left"><font size="4">15. Text and web mining.</font></p>
+<p align="left"><font size="4">16. Image mining.</font></p>
+<p align="left"><font size="4">17. Homework #5.</font></p>
+<p align="left"><font size="4">18. Final team project (2-3 people on the team).</font></p>
+<p align="left">&nbsp;</p>
+<p align="left"><font size="4" face="ITC Bookman Light">Grade distribution: 50% 
+homework, 50% final project</font></p>
+<p align="left">&nbsp;</p>
+<p align="left"><u><b><font face="ITC Bookman Light" size="5">Tasks and 
+datasets: </font></b></u></p>
+<p align="left"><font face="ITC Bookman Light" size="4">1. Gender identification 
+based on height and weight <a href="gender.jpg">gender.jpg</a>.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">2. Counterfeit bank 
+notes <a href="Banknote.jpg">Banknote.jpg</a>.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">2. Microarray data 
+analysis for cancer survival <a href="Cancer.jpg">Cancer.jpg</a>.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">3. SP500 stock prices 
+analysis <a href="SP500.jpg">SP500.jpg</a>.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">4. Handwriting ZIP 
+digits recognition <a href="ZIP.jpg">ZIP.jpg</a>.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">5. Histology images
+<a href="Histology.jpg">Histology.jpg</a>.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">6. Language 
+discrimination.</font></p>
+<p align="left"><font face="ITC Bookman Light" size="4">7. Authorship 
+identification <a href="Text.jpg">Text.jpg</a>.</font></p>
+<p align="left">&nbsp;</p>
+<p align="left"><font face="Arial Black" size="6">Sample team projects (Fall 
+2007):</font></p>
+<p align="left">&nbsp;</p><p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+
+<div v:shape="_x0000_s1026" class="O" style="mso-char-wrap:1;mso-kinsoku-overflow:
+1">
+	<span lang="EN-US" style="mso-fareast-font-family: SimSun; mso-hansi-font-family: Arial; color: black; mso-color-index: 3; mso-fareast-language: ZH-CN; mso-bidi-font-family: Arial; font-weight: 700">
+	<font size="4"><a href="WeiPanUmangBhaskar.ppt">How To Be Rich in Stock Market: A data-mining approach</a></font></span><p>&nbsp;</p>
+	<p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#00cc99,#3333cc,#ccccff,#b2b2b2"/>
+
+	<div v:shape="_x0000_s1026" class="O" style="mso-line-spacing:&quot;81 0 0&quot;;
+mso-char-wrap:1;mso-kinsoku-overflow:1;tab-interval:.5in;tab-stops:0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in 6.5in 7.0in 7.5in 8.0in 8.5in 9.0in 9.5in 10.0in">
+		<span lang="EN-GB" style="color: black"><b><font size="4">
+		<a href="CS185_project_present.ppt">Activity, 
+		Audio, Indoor/Outdoor classification using cell phones</a></font></b></span><p>&nbsp;</p>
+		<p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+
+		<div v:shape="_x0000_s1026" class="O" style="mso-char-wrap:1;mso-kinsoku-overflow:
+1">
+			<span lang="EN-US" style="font-family: Arial; mso-ascii-font-family: Comic Sans MS; mso-fareast-font-family: SimSun; mso-hansi-font-family: Comic Sans MS; color: black; mso-color-index: 3; mso-fareast-language: ZH-CN">
+			<a href="cs185demo_kwr.ppt">
+			<b><font size="4">A PCA-based feature extraction method for face 
+			recognition</font></b><font size="4">— </font></a></span>
+			<font size="4"><a href="cs185demo_kwr.ppt">
+			<span lang="EN-US" style="font-family: Arial; mso-ascii-font-family: Comic Sans MS; mso-fareast-font-family: SimSun; mso-hansi-font-family: Comic Sans MS; mso-fareast-language: ZH-CN; font-weight: 700">
+			Adaptively weighted sub-pattern PCA</span></a></font><p>&nbsp;</p>
+			<p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+
+			<div v:shape="_x0000_s1026" class="O">
+				<span style="mso-fareast-font-family: &#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;; mso-hansi-font-family: Arial; font-weight: 700">
+				<font size="4"><a href="FotiKee_Report2.ppt">Author Identification</a></font></span><p>&nbsp;</p>
+				<p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#00cc99,#3333cc,#ccccff,#b2b2b2"/>
+
+				<div v:shape="_x0000_s1026" class="O" style="mso-char-wrap:1;tab-interval:.4913in;
+tab-stops:.7916in 1.5833in 2.375in 3.1666in 3.9583in 4.75in 5.5416in 6.3333in 7.125in 7.9166in 8.7083in 9.5in">
+					<span lang="EN-GB"><b><font size="4">
+					<a href="GiulioGenovesePROJECT.ppt">Market analysis for the 
+					S&amp;P500</a></font></b></span></div>
+				<p>&nbsp;</p>
+				<font FACE="Arial" SIZE="4">
+				<p ALIGN="LEFT"><b><a href="Final.pdf">The Shakespeare Authorship Question</a></b></p>
+				</font>
+				<p>&nbsp;</div>
+			<p>&nbsp;</div>
+		<p>&nbsp;</p>
+		<p>&nbsp;</div>
+	<p>&nbsp;</p>
+	<p>&nbsp;</div>
+<p align="left">&nbsp;</p>
+<p align="left"><u><b><font face="ITC Bookman Light" size="5">Some literature:</font></b></u></p><p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+
+<div v:shape="_x0000_s1026" class="O">
+	<div style="mso-line-spacing: 90 20 0; mso-margin-left-alt: 216; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+		<font face="Palatino">
+		<span style="mso-special-format: bullet; position: absolute; left: -3.63%">
+		<font size="4">•</font></span><font size="4">M. Levine. </font><i>
+		<font size="4">Introduction to Statistical Thought</font></i><font size="4">, 
+		2006, online: <p:onmouseclick
+ hyperlinktype="url" href="http://www.stat.duke.edu/~michael/book.html"/>
+		<a href="http://www.stat.duke.edu/~michael/book.html" target="_parent" onclick="window.event.cancelBubble=true;">
+		http://www.stat.duke.edu/~michael/book.html</a> </font></font>
+		<p>&nbsp;</div>
+	<div style="mso-line-spacing: 90 20 0; mso-margin-left-alt: 216; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+		<font face="Palatino">
+		<span style="mso-special-format: bullet; position: absolute; left: -4.06%">
+		<font size="4">•</font></span><font size="4">Hastie T, Tibshirani, R, 
+		Friedman J. </font><i><font size="4">The Elements of Statistical 
+		Learning. Data Mining, Inference and Prediction</font></i><font size="4">. 
+		Springer, 2001. </font></font>
+		<p>&nbsp;</div>
+	<div style="mso-line-spacing: 90 20 0; mso-margin-left-alt: 216; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+		<font face="Palatino">
+		<span style="mso-special-format: bullet; position: absolute; left: -3.67%">
+		<font size="4">•</font></span><font size="4">Rencher AC. </font><i>
+		<font size="4">Methods of Multivariate Analysis</font></i><font size="4">. 
+		2</font><span style="position: relative; top: -.45em; mso-text-raise: 30%"><font size="4">nd</font></span><span style="mso-spacerun: yes"><font size="4">&nbsp;</font></span><font size="4">edition. 
+		Wiley, 2002. </font></font>
+		<p>&nbsp;</div>
+	<div style="mso-line-spacing: 90 20 0; mso-margin-left-alt: 216; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+		<font face="Palatino">
+		<span style="mso-special-format: bullet; position: absolute; left: -3.95%">
+		<font size="4">•</font></span><font size="4">Giudici P. </font><i>
+		<font size="4">Applied Data Mining. Statistical Methods for Business and 
+		Industry</font></i><font size="4">. Wiley, 2003. </font></font>
+		<p>&nbsp;</div>
+	<div style="mso-line-spacing: 90 20 0; mso-margin-left-alt: 216; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+		<font face="Palatino">
+		<span style="mso-special-format: bullet; position: absolute; left: -4.12%">
+		<font size="4">•</font></span><font size="4">Elden L. <i>Matrix Methods 
+		in Data Mining and Pattern Recognition</i>. SIAM, 2007. </font></font>
+	</div>
+	<div style="mso-line-spacing: 90 50 0; mso-margin-left-alt: 216; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+&nbsp;</div>
+</div>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+
+</body>
+
+</html>
+mit.ei

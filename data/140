@@ -1,0 +1,99 @@
+http://www.cs.dartmouth.edu/DigitalArts
+2
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="author" content="Fabio Pellacini" />
+<link rel="StyleSheet" href="style/style.css" type="text/css" media="screen" />
+<title>Digital Arts Minor</title>
+<script language="JavaScript">
+<!--
+   var isNS4 = (document.layers) ? true : false;
+   var isIE4 = (document.all && !document.getElementById) ? true : false;
+   var isIE5 = (document.all && document.getElementById) ? true : false;
+   var isNS6 = (!document.all && document.getElementById) ? true : false;
+   var home_bg_index;
+
+   function setvis( name, val ) {
+      if( isNS4 ) {
+          p = document.layers[name];
+	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
+      } else {
+	if( isIE4 ){
+          p = document.all[name].style;
+	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else if( isIE5 || isNS6 ) {
+          p = document.getElementById(name).style;
+	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else {
+          p = document.getElementById(name).style;
+	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
+	}
+      }
+   }
+//-->
+</script>
+</head>
+
+<body>
+<div class="pagebackground">
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+<div class="page">
+
+   <map name="menubar">
+
+   <area shape="rect" coords="570,220,770,285"
+      href = "about.html"
+      onmouseover="setvis('home_about',1);"
+      onmouseout="setvis('home_about',-1);">
+
+   <area shape="rect" coords="570,285,770,350"
+      href = "people.html"
+      onmouseover="setvis('home_people',1);"
+      onmouseout="setvis('home_people',-1);">
+
+   <area shape="rect" coords="570,350,770,415"
+      href = "projects.html"
+      onmouseover="setvis('home_projects',1);"
+      onmouseout="setvis('home_projects',-1);">
+
+   <area shape="rect" coords="570,415,770,480"
+      href = "news.html"
+      onmouseover="setvis('home_news',1);"
+      onmouseout="setvis('home_news',-1);">
+
+  </map>
+
+  <div style="height: 769px">
+
+  <div id="home" style="position:absolute; left:0; top:0; visibility:show">
+       <img src="images/home-base.jpg" border="0" usemap="#menubar" name="home2">
+  </div>
+
+  <div id="home_about" style="position:absolute; left:24; top:85; visibility:hidden">
+       <img src="images/home-about.jpg" border="0" usemap="#menubar" name="home3">
+  </div>
+
+  <div id="home_people" style="position:absolute; left:24; top:85; visibility:hidden">
+       <img src="images/home-people.jpg" border="0" usemap="#menubar" name="home4">
+  </div>
+
+  <div id="home_projects" style="position:absolute; left:24; top:85; visibility:hidden">
+       <img src="images/home-projects.jpg" border="0" usemap="#menubar" name="home5">
+  </div>
+
+  <div id="home_news" style="position:absolute; left:24; top:85; visibility:hidden">
+       <img src="images/home-news.jpg" border="0" usemap="#menubar" name="home6">
+  </div>
+
+  </div>
+
+</div> <!-- page -->
+</div> <!-- pagedecoration -->
+<div class="pagedecorationafter"></div>
+</div> <!-- pagebackground -->
+</body>
+</html>

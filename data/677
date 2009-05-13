@@ -1,0 +1,153 @@
+http://www.cs.dartmouth.edu/~cs18/W2007
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Exam dates, times, and locations (exam 3 is the final) -->
+
+
+
+
+
+
+
+
+
+
+<!-- E-Mail address for the TA handling new Unix accounts -->
+
+
+
+<html>
+<head>
+  <title>COSC 18 Winter 2007 Home Page</title>
+  <link rel="stylesheet" type="text/css" href="cs18.css">
+  <link rel="shortcut icon" href="img/yinyang.ico">
+</head>
+<body>
+
+
+<table class="index" style="width: 100%">
+<tr>
+  <td colspan="4" align="center">
+    <img src="img/main-title.jpg" width="600" height="128"
+         alt="COSC 18--Structure and Interpretation of Computer Programs">
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="announce.shtml">
+    <img src="img/crier.jpg" width="64" height="64"
+         alt="Town crier"></a>
+  </td>
+  <td>
+    <h1><a href="announce.shtml">
+    Announcements</a></h1>
+    <p>Last updated:
+    09-March-2007</p>
+  </td>
+  <td>
+    <a href="materials.shtml">
+    <img src="img/gears.jpg" width="64" height="64"
+         alt="Gears &amp; cogs"></a>
+  </td>
+  <td>
+    <h1><a href="materials.shtml">
+    Course Materials</a></h1>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="info.shtml">
+    <img src="img/eyeball.jpg" width="64" height="64"
+         alt="Gazing eyeball"></a>
+  </td>
+  <td>
+    <h1><a href="info.shtml">
+    Course Information</a></h1>
+  </td>
+  <td>
+    <a href="software.shtml">
+    <img src="img/lambda.jpg" width="64" height="64"
+         alt="Eval/apply lambda"></a>
+  </td>
+  <td>
+    <h1><a href="software.shtml">
+    Course Software</a></h1>
+  </td>
+</tr>
+</table>
+<hr>
+<p class="pageinfo">
+  <a href="http://www.cs.dartmouth.edu/">
+  Department of Computer Science</a>,
+  <a href="http://www.dartmouth.edu/">
+  Dartmouth College</a>,
+  Hanover, New Hampshire, USA
+</p>
+<p class="updated">
+  
+  Last modified: 21-December-2003
+</p>
+
+
+</body>
+</html>
+   i

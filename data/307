@@ -1,0 +1,39 @@
+http://www.cs.dartmouth.edu/~data/sudi_db
+3
+<html>
+<head><title>Search Sudikoff Computer Database</title></head>
+
+<body>
+<table width=600 border=0>
+   <tr>
+	<td width=150 heigth=150 align=center>
+	<img src=bear_oval.jpg>
+	</td>
+
+	<td width=450 heigth=150 align=center>
+	<font size=5>
+	<b>Search Sudikoff Computer Database</b>
+	</font>
+	</td>
+    </tr>
+
+    <tr>
+	<td></td>
+	<td>
+	<p><br><br>
+	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_search.cgi>
+	Search database</a>
+	<p>
+	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_insert.cgi>
+	Insert a Computer into the database </a>
+	<p>
+	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_delete.cgi>
+	Delete a Computer from the database </a>
+	<p>
+	<a href=http://www.cs.dartmouth.edu/~data/sudi_db/sudi_update.cgi>
+	Update a Computer in the database </a>
+	</td>
+    </tr>
+</table>
+</body>
+</html>

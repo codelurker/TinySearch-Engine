@@ -1,0 +1,119 @@
+http://www.cs.dartmouth.edu/~csrs/pandd.html
+3
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Computer Science Research Symposium '08</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<img src="banner.jpg">
+
+<br>
+<br>
+<br>
+
+<table style="text-align: left;" width=85%>
+
+<tr>
+<td width=10%></td>
+<td valign="top">
+<table class="navbar">
+<tr><td><a href="index.html">Home</a></td></tr>
+<tr><td><a href="schedule.html">Program</a></td></tr>
+<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
+<tr><td><a href="history.html">History</a></td></tr>
+<tr><td><a href="faq.html">FAQ</a></td></tr>
+<tr><td><a href="contact.html">Contact Us</a></td></tr>
+</table>
+</td>
+
+<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
+
+<td>
+
+<i>For poster submission guidelines, <a href="poster.html">click here</a>.</i>
+<br><br>
+
+<table>
+
+<tr><td><h3>Demos:</h3></td></tr>
+<tr><td>
+"Transforming the Social Networking Experience with Sensing Presence from Mobile Phones", &nbsp; <a href="http://www.cs.dartmouth.edu/~miluzzo"><i>Emiliano Miluzzo</i></a><br><br>
+<tr><td>
+"The Second Life of a Sensor: Integrating Real-world Experience in 
+Virtual Worlds using Mobile Phones", &nbsp; <a href="http://www.cs.dartmouth.edu/~niclane"><i>Nicholas Lane</i></a>
+<br><br>
+<tr><td>
+"Reconfigurable Omni-drive Robot", &nbsp; <a href="http://www.cs.dartmouth.edu/~furtuna"><i>Andrei Furtuna</i></a>
+<br><br>
+
+
+<br>
+
+<tr><td><h3>Posters:</h3></td></tr>
+<tr><td>
+"Streaming Estimation of Information-Theoretic Metrics for Anomaly Detection", &nbsp; <a href="http://www.cs.dartmouth.edu/~jbrody"><i>Joshua Brody</i></a><br><br>
+</td></tr>
+<tr><td>"3D scene editor for Endoscopic Surgical Simulator", &nbsp; 
+<i>Jing Chen</i><br><br>
+</td></tr>
+<tr><td>"Functional Monitoring without Monotonicity", &nbsp; 
+<i><a href=http://www.cs.dartmouth.edu/~cja>Chrisil Arackaparambil</i></a><br><br>
+</td></tr>
+<tr><td>"Improving Energy Efficiency of LEACH Protocol Through Data Aggregation at Sensor Nodes", &nbsp; <i>Jonghoon Choi</i><br><br>
+</td></tr>
+<tr><td>
+"Mapping the similarity space of paintings: Is there a role for image statistics?", &nbsp; <a href="http://math.dartmouth.edu/~dgraham/"><i>Daniel Graham</i></a><br><br>
+</td></tr>
+<tr><td>"Allostery: Communication Networks in Proteins", &nbsp; <i>Bornika Ghosh</i><br><br>
+</td></tr>
+
+<tr><td>"Bubble-Sensing: A New Paradigm for Binding a Sensing Task to the Physical World", &nbsp; <a href="http://www.cs.dartmouth.edu/~hong/"><i>Hong Lu</i></a><br><br></td></tr>
+
+<tr><td>"A Supervised Learning Recognition Approach in Alumni Entity Search", &nbsp; 
+<i>Lu He</i><br><br>
+</td></tr>
+<tr><td>"FG vs. TBB: A Comparison", &nbsp; <a href="http://www.cs.dartmouth.edu/~priya"><i>Priya Natarajan</i></a><br><br>
+</td></tr>
+<tr><td>"Towards Community-Scale Modeling of Human Behavior", &nbsp; 
+<i>Daniel Peebles</i><br><br>
+</td></tr>
+<tr><td>"Detecting Kernel Rootkits", &nbsp; <i>Ashwin Ramaswamy</i><br><br>
+</td></tr>
+<tr><td>"Data Assurance in Pervasive Health Monitoring", &nbsp; <i>Janani Sriram</i> and <i>Minho Shin</i><br><br>
+</td></tr>
+<tr><td>"Contact Replacement for NMR Resonance Assignment", &nbsp; <a href=http://www.cs.dartmouth.edu/~xfei><i>Fei Xiong</i></a><br><br>
+</td></tr>
+
+<tr><td>
+"Extracting Statistical Information From SNPs Data of Closely Related
+Individuals", &nbsp; <a href="http://www.math.dartmouth.edu/~genovese/"><i>Giulio Genovese</i></a><br><br>
+</td></tr>
+
+<tr><td>"Usable Public Key Infrastructures via PRQP", <a href="http://www.cs.dartmouth.edu/~pala/"><i>Massimiliano Pala</i></a><br><br>
+</td></tr>
+
+<tr><td>"Predicting Protein Function from Small Molecule Docking", &nbsp; <i>Jason Vertrees</i><br><br>
+</td></tr>
+
+<tr><td> "Kiewit Cyber-Security Initiative", &nbsp; <i>Peter Johnson</i><br><br>
+</td></tr>
+
+<tr><td>"A Biologically Inspired Model of Primary Visual Cortex", &nbsp; <i><a href="http://www.cs.dartmouth.edu/~hughes/"><i>James Hughes</i></a><br><br>
+</td></tr>
+
+<tr><td> "Fuzzing Proprietary SCADA Protocols", &nbsp; <i>Sergey Bratus, Axel Hansen, Anna Shubina</i><br><br>
+</td></tr>
+
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</body></html>

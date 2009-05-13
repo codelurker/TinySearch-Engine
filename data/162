@@ -1,0 +1,74 @@
+http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Spring2009/schedule.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>CS034/CS134 | Machine Learning and Statistical Data Analysis | Spring 2009</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<div class="pagebackground">
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+<div class="header">
+  <div class="title"> CS034/CS134, Spring 2009</div>
+  <div class="subtitle">Machine Learning and Statistical Data Analysis</div>
+</div>
+
+<div class="navigation">
+  <a href="index.html" class="navthere">About</a>
+  <a href="schedule.html" class="navhere">Schedule</a>
+  <a href="projects.html" class="navthere">Projects</a>
+</div>
+
+<div class="content">
+
+<p>This page will be updated frequently with current and upcoming topics.  Chapter references, when available, are to the recommended course textbook, <i>Pattern Recognition and Machine Learning</i>.</p>
+
+<table class="schedule">
+
+<tr><th id="date">Date</th><th id="topics">Topics</th><th id="refs">References</th><th id="out">Out</th><th id="due">Due</th></tr>
+
+<tr valign="top" class="on"><td class="date">March 31</a></td><td>Course introduction; linear regression</td><td>Sec. 1.1</td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">April 2</a></td><td>Non-linear regression; probability theory</td><td>Sec. 1.2</td><td></td><td></td></tr>
+<tr valign="top" class="off"><td class="date"><strike>April 7</strike></a></td><td></td><td></td><td></td><td></td></tr>
+<tr valign="top" class="off"><td class="date"><strike>April 9</strike></a></td><td></td><td></td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">April 14</a></td><td>ML and MAP regression; locally weighted regression;<br>model selection</td><td></td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">April 16</a></td><td>Logistic regression; GDA</td><td>Sec. 4.2, 4.3</td><td>hw1</td><td></td></tr>
+<tr valign="top" class="off"><td class="date">April 21</a></td><td><em><b>Project spotlight presentations</b></em><br>Naive bayes; KNN</td><td></td><td></td><td>project proposal</td></tr>
+<tr valign="top" class="off"><td class="date"><strike>April 23</strike></a></td><td></td><td></td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">April 28</a></td><td>Decision trees</td><td>Sec. 14.4</td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">April 30</a></td><td>Support Vector Machines</td><td>Sec. 7.1</td><td>hw2</td><td>hw1</td></tr>
+<tr valign="top" class="off"><td class="date">May 5</a></td><td>Support Vector Machines (part 2); k-means</td><td>Sec. 9.1</td><td></td><td></td></tr>
+<tr valign="top" class="off"><td class="date">May 7</a></td><td>Mixture of Gaussians; Expectation Maximization</td><td>Sec. 9.2, 9.3</td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">May 12</a></td><td>EM for Mixture of Gaussians, Mixture of<br>Naive Bayes and Factor Analysis</td><td>Sec. 12.2.2, 12.2.4</td><td></td><td>project milestone</td></tr>
+<tr valign="top" class="on"><td class="date">May 14</a></td><td>Principal Component Analysis</td><td>Sec. 12.1</td><td>hw3</td><td>hw2</td></tr>
+<tr valign="top" class="off"><td class="date">May 19</a></td><td></td><td></td><td></td><td></td></tr>
+<tr valign="top" class="off"><td class="date">May 21</a></td><td></td><td></td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">May 26</a></td><td></td><td></td><td></td><td></td></tr>
+<tr valign="top" class="on"><td class="date">May 28</a></td><td></td><td></td><td></td><td>hw3</td></tr>
+<tr valign="top" class="off"><td class="date">June 2</a></td><td><b><em>Project poster presentations</b></em></td><td></td><td></td><td>project final write-up</td></tr>
+
+</table>
+
+</div>
+
+<div class="footer">
+<!-- hhmts start --> <!-- hhmts end -->
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>

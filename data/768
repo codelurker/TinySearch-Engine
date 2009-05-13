@@ -1,0 +1,222 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS85-Winter06
+3
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 85 (Winter 2006): Amit Chakrabarti</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 85/185<br>
+    Information, Communication and Complexity Theory<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Winter 2006<h3></td>
+</tr></table>
+<center>
+  [ <a href="#announcements">Announcements</a> |
+  <a href="#admin">Administrative Basics</a> |
+  <a href="#papers">Papers of Interest</a> |
+  <a href="#lectures">Lecture Synopses</a> ]
+</center>
+
+<hr>
+<h3>Course Description</h3> 
+
+<p> The goal of this course is to study some recent and some
+not-so-recent significant works of research where techniques of
+information theory are used to prove theorems in computational
+complexity theory. </p>
+
+<p> For the first phase of the course, we will learn the basics of
+information theory.  We will use the excellent textbook by Cover and
+Thomas during this phase. This phase will last about 1/3 of the term.
+After that, we will move on to reading the papers themselves. The work
+for a registered student will be one homework during the initial phase,
+presentation of a paper (or part) during the second phase, and scribing
+notes for a few lectures and typesetting them in LaTeX. </p>
+
+<hr>
+
+<a name="announcements">
+<h3>Announcements</h3> 
+
+<ul>
+  <li> Here is the <a href="homework.pdf">one and only homework set</a>
+  for the course.
+</ul>
+
+<hr>
+
+<a name="admin">
+<h3>Administrative Basics</h3>
+
+<table cellpadding=2>
+  <tr><td valign=top><b>Lecture</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 214 | 2A hour | TTh 14:00-15:50, X-hr W 16:15-17:05
+    </td>
+  </tr>
+  <tr><td valign=top><b>Instructor</b> <br><br> </td> 
+    <td valign=top> 
+      Amit Chakrabarti | Sudikoff 107 | 6-1710 | Office hours: TBA
+    </td>
+  </tr>
+  <tr><td valign=top><b>Textbook</b> <br><br></td> 
+    <td valign=top> <dl>
+      <dt> Required: none </dt><br>
+
+      <dt> Recommended: </dt>
+      <dd> <a href="http://www.amazon.com/gp/product/0471062596/104-0811765-2747120?v=glance&n=283155">
+      <i>Elements of Information Theory</i></a>. <br>
+      Thomas M. Cover and Joy A. Thomas. &nbsp;
+      Wiley-Interscience. <br>
+      ISBN: 0471062596
+      </dd>
+    </dl> </td>
+  </tr>
+  <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
+    <td valign=top> 
+      CS 39 (Theory of Computation) or equivalent <br>
+      Strong mathematics background <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Work</b> <br><br> </td> 
+    <td valign=top>
+      <a href="homework.pdf">One homework set.</a> <br>
+      Class presentations. <br>
+      Scribing and preparing lecture notes. <br>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<a name="papers">
+<h3>Papers of Interest</h3>
+
+<table>
+  <tr> <td align=right valign=top> [CSWY01] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="http://www.cs.dartmouth.edu/~ac/Pubs/focs01infocomplex.pdf">
+  Informational Complexity and the Direct Sum Problem for Simultaneous
+  Message Complexity </a>. <br>
+  Amit Chakrabarti, Yaoyun Shi, Anthony Wirth and Andrew Yao. &nbsp;
+  Proc 42nd FOCS, 270--278, 2001.
+  </td> </tr>
+
+  <tr> <td align=right valign=top> [BJKS04] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6WJ0-4BMTFPH-1-9&_cdi=6864&_user=4257664&_orig=search&_coverDate=06%2F30%2F2004&_qd=1&_sk=999319995&view=c&wchp=dGLbVlb-zSkWz&md5=d1e78af6c90fe5fc6fe3568a30885551&ie=/sdarticle.pdf">
+  An information statistics approach to data stream and communication 
+  complexity </a>. <br>
+  Ziv Bar-Yossef, T. S. Jayram, Ravi Kumar and D. Sivakumar. &nbsp;
+  Journal of Computer and System Sciences, <b>68 (4):</b> 702--732, 2004.
+  </td> </tr>
+
+  <tr> <td align=right valign=top> [JKS03] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="http://delivery.acm.org/10.1145/790000/780640/p673-jayram.pdf?key1=780640&key2=2135846311&coll=GUIDE&dl=GUIDE&CFID=64591101&CFTOKEN=64941202">
+  Two applications of information complexity </a>. <br>
+  T. S. Jayram, Ravi Kumar and D. Sivakumar. &nbsp;
+  Proc 35th STOC, 673--682, 2003.
+  </td> </tr>
+
+  <tr> <td align=right valign=top> [CR04] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="ftp://ftp.eccc.uni-trier.de/pub/eccc/reports/2003/TR03-070/Paper.pdf">
+  An Optimal Randomised Cell Probe Lower Bound for Approximate Nearest 
+  Neighbour Searching </a>. <br>
+  Amit Chakrabarti and Oded Regev. &nbsp;
+  Proc 45th FOCS, 473--482, 2004.
+  </td> </tr>
+
+  <tr> <td align=right valign=top> [Cha98] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="http://epubs.siam.org/sam-bin/getfile/SICOMP/articles/27566.pdf">
+  A Spectral Approach to Lower Bounds with Applications to Geometric
+  Searching </a>. <br>
+  Bernard Chazelle. &nbsp;
+  SIAM Journal on Computing, <b>27 (2):</b> 545--556, 1998.
+  </td> </tr>
+
+  <tr> <td align=right valign=top> [KK95] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6WJ0-45NJJMS-S-1&_cdi=6864&_user=4257664&_orig=browse&_coverDate=12%2F31%2F1995&_sk=999489996&view=c&wchp=dGLbVzb-zSkzV&md5=b29fef6694c19c7e485b9c64975df720&ie=/sdarticle.pdf">
+  Entropy and Sorting </a>. <br>
+  Jeff Kahn and Jeong Han Kim. &nbsp;
+  Journal of Computer and System Sciences, <b>51 (3):</b> 390--399, 1995.
+  </td> </tr>
+
+  <tr> <td align=right valign=top> [Bop89] &nbsp;&nbsp;&nbsp;</td> <td>
+  <a href="http://delivery.acm.org/10.1145/80000/73037/p320-boppana.pdf?key1=73037&key2=6780056311&coll=ACM&dl=ACM&CFID=61529590&CFTOKEN=91148485">
+  Optimal Separations between Concurrent-Write Parallel Machines </a>. <br>
+  Ravi Boppana. &nbsp;
+  Proc 21st STOC, 320--326, 1989.
+  </td> </tr>
+
+</table>
+
+<hr>
+
+<a name="lectures">
+<h3>Lecture Synopses</h3> 
+
+  <p>
+
+  <table border=1 cellpadding=3 cellspacing=1>
+  <colgroup align=right> </colgroup>
+  <tr>
+    <th style="color:blue">L#</th>
+    <th style="color:blue">Date</th>
+    <th style="color:blue">Topic</th>
+  </tr><tr>
+    <td> 1 </td>
+    <td> Jan 5 </td>
+    <td> Probability distributions; the definition of entropy </td>
+  </tr><tr>
+    <td> 2 </td>
+    <td> Jan 10 </td>
+    <td> Conditional entropy; mutual information; KL-divergence; 
+      basic properties (some proofs via Jensen's inequality)
+    </td>
+  </tr><tr>
+    <td> 1 </td>
+    <td> Jan 12 </td>
+    <td> Entropy and data compression; uniquely decodable codes and
+      prefix-free codes; Kraft inequality; Shannon codes </td>
+  </tr><tr>
+    <td> 1 </td>
+    <td> Jan 18 </td>
+    <td> Arithmetic coding and its analysis, without regard to
+      implementation issues </td>
+  </tr><tr>
+    <td> 1 </td>
+    <td> Jan 19 </td>
+    <td> Communication protocols; deterministic and randomized (private
+      as well as public coin) communication complexity </td>
+  </tr><tr>
+    <td> 1 </td>
+    <td> Jan 24 </td>
+    <td> Information complexity; the cost of transmitting one bit and
+      its consequences </td>
+  </tr></table>
+
+<p> </p>
+<hr>
+
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+</body></html>
+gi

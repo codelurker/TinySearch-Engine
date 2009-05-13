@@ -1,0 +1,308 @@
+http://www.cs.dartmouth.edu/robotcamp
+1
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+ 	<title>Summer 2009: About the camp</title>
+ 	
+ 		 	<script type="text/javascript" src="http://static-l.wikidot.com/v--33/common--javascript/init.combined.js"></script>
+ 	<script  type="text/javascript">
+ 		// global request information
+ 		
+ 		var WIKIREQUEST = {};
+ 		WIKIREQUEST.info = {};
+ 		
+ 		WIKIREQUEST.info.domain = "robotcamp.wikidot.com";
+ 		WIKIREQUEST.info.siteId = 97560;
+ 		WIKIREQUEST.info.categoryId = 538357;
+ 		WIKIREQUEST.info.themeId = 10980;
+ 		WIKIREQUEST.info.requestPageName = "start";
+ 		OZONE.request.timestamp = 1242169365;
+ 		OZONE.request.date = new Date();
+ 		WIKIREQUEST.info.lang = 'en';
+ 		 		WIKIREQUEST.info.pageUnixName = "start";
+ 		WIKIREQUEST.info.pageId = 2995150;
+ 		 		WIKIREQUEST.info.lang = "en";
+ 		OZONE.lang = "en";
+// 		window.onload = WikidotInit();
+ 	</script>
+ 	
+ 	<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+         	<meta http-equiv="content-language" content="en"/>
+ 		<script type="text/javascript" src="http://static-l.wikidot.com/v--33/common--javascript/WIKIDOT.combined.js"></script>
+	
+	
+	
+   	
+	<style type="text/css" id="internal-style"> 
+ @import url(http://static-l.wikidot.com/v--33/common--modules/css/monetize/textlinkads/MonetizeTextLinkAdsModule.css);
+ 
+ 
+   		
+   		   			@import url(http://static-l.wikidot.com/v--33/common--theme/base/css/style.css?0);
+   		   			@import url(/local--theme/blue-jay/style.css?1);
+   		   		
+     </style>
+    
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="alternate" type="application/wiki" title="Edit this page!" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+<script type="text/javascript" src="http://static-l.wikidot.com/v--33/common--modules/js/misc/NewPageHelperModule.js"></script></head>
+
+  <body id="html-body">
+
+	<div id="container-wrap">
+		<div id="container">
+		  	<div id="header">
+		  		<h1><a href="/"><span>Summer 2009</span></a></h1>
+		  				  			<h2><span>Dartmouth Robotics Camp</span></h2>
+		  				  		
+		  		<!-- google_ad_section_start(weight=ignore) -->
+		  		
+		  		<div id="search-top-box">
+		  			<form id="search-top-box-form" action="dummy">
+			  			<input id="search-top-box-input" class="text empty" type="text" size="15" name="query" value="search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button" type="submit" name="search" value="search"/>
+				 	</form>
+	  			</div>
+		  		
+		  					  		<div id="top-bar">
+			  			
+
+<ul><li><a href="/start">About</a></li><li><a href="/local--files/nav:top/2009application.rtf">Application</a></li></ul>
+
+			  		</div>
+		  				  		<div id="login-status"><a href="http://www.wikidot.com/auth:newaccount?origUrl=http%3A%2F%2Frobotcamp.wikidot.com%2F">create account</a> or <a href="http://www.wikidot.com/auth:login?origUrl=http%3A%2F%2Frobotcamp.wikidot.com%2F">login</a> </div>
+		  		<div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+		  	</div>
+		  	
+			<div id="content-wrap">
+									<div id="side-bar">
+															
+
+												
+
+<h2 ><span>History</span></h2><ul><li><a href="http://www.dartmouth.edu/~vox/0405/0823/camp.html">2004 camp</a></li><li><a href="http://www.dartmouth.edu/~vox/0405/0502/robotics.html">2005 camp</a></li><li><a href="http://www.dartmouth.edu/~vox/0506/0725/camp.html">2005 girls camp</a></li><li><a href="http://www.dartmouth.edu/~vox/0607/0821/robot.html">2006 camp</a></li><li><a href="http://www.ists.dartmouth.edu/ists_v4_2_07.pdf">2007 camp (pdf)</a></li><li><a href="http://www.dartmouth.edu/~news/releases/2008/07/16.html">2008 camp</a></li></ul><h2 ><span>Wiki</span></h2><ul><li><a href="/system:join">Join this site</a></li><li><a href="/admin:manage">Site manager</a></li></ul><div class="foldable-list-container"><ul><li>Site Info
+<ul><li><a href="/system:members">Site members</a></li><li><a href="/system:recent-changes">Recent changes</a></li><li><a href="/system:list-all-pages">List all pages</a></li><li><a href="/system:page-tags-list">Page Tags</a></li></ul></li></ul></div>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0">
+	<form action="dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event)">
+		<input class="text" name="pageName" type="text" size="15" maxlength="60" style="margin: 1px"/><input type="submit" class="button" value="new page" style="margin: 1px"/>
+												
+	</form>
+</div>
+
+<p style="text-align: center;"><span style="font-size:80%;"><a href="/nav:side">edit this panel</a></span></p><p style="text-align: center;"><span style="font-size:80%;"><a href="/nav:top">edit top nav</a></span></p>
+
+															
+
+						
+					</div>
+								
+				<!-- google_ad_section_end -->
+				
+				<div id="main-content">
+					<div id="action-area-top"></div>
+					
+					<!-- google_ad_section_start -->
+					
+										<div id="page-title">
+					About the camp					</div>
+															
+												
+
+										
+					<div id="page-content">
+					
+															
+
+												 	
+					 										
+
+												
+												
+
+<div class="image-container floatright"><img src="/local--files/start/robocamp.jpg" alt="robocamp.jpg" class="image" /></div>
+<p>A unique camp-based summer program for middle- to high-school age students involving Dartmouth College students and community.</p>
+<p>There is no charge for the program; enrollments will be determined by lottery. The deadline for applications for this year was April 30, 2009, and we are no longer accepting applications.</p>
+<h2 id="toc0"><span>Contact</span></h2>
+<p>Summer Robotics and Security Program<br />
+c/o Department of Computer Science<br />
+6211 Sudikoff Laboratory<br />
+Hanover, New Hampshire 03755</p>
+<p><span class="wiki-email">ude.htuomtrad.sc|pmactobor#ude.htuomtrad.sc|pmactobor</span><br />
+(603) 646-2206</p>
+<h2 id="toc1"><span>Summer 2009 Schedule</span></h2>
+<p>This year we will offer three camps: a camp focusing for middle school students (5th - 8th grades), one for students transitioning from middle school to high school (7th - 9th grades), and one of high school students (9th - 12th grades).</p>
+<table class="wiki-content-table">
+<tr>
+<td>June 29-July 3</td>
+<td>Camp I: Building robots</td>
+<td>9am -12pm</td>
+<td>5 - 8th grades</td>
+</tr>
+<tr>
+<td>July 6- July 10</td>
+<td>Camp II: Beyond robots</td>
+<td>9am-12pm</td>
+<td>7 - 9th grades</td>
+</tr>
+<tr>
+<td>July 13- July 17</td>
+<td>Camp III: Programming robots</td>
+<td>9 am - 12&nbsp;pm</td>
+<td>9 -12th grades</td>
+</tr>
+</table>
+<p><strong>Camp I: Building robots.</strong> Apply engineering principles while building a robot. To be held at the Thayer School of Engineering.</p>
+<p><strong>Camp II: Beyond robots.</strong> What do the digital arts, cyber security and robots have in common? What do the Digital arts; Cybersecurity, Robotics and more have in common? Explore different areas of computer science.</p>
+<p><strong>Camp III: Programming robots.</strong> Experiment with programming concepts as you program robots to accomplish challenging tasks. To be held at the Department of Computer Science.</p>
+<img src="/local--files/start/roboj.jpg" alt="roboj.jpg" class="image" />
+					</div>
+					
+												
+
+										
+										
+					<!-- google_ad_section_end -->
+					
+					<!-- google_ad_section_start(weight=ignore) -->
+					
+					<div style="clear:both; height:1px; font-size:1px;"></div>
+																	<div id="page-info">page_revision: 22, last_edited: <span class="odate">1241218638|%e %b %Y, %H:%M %Z (%O ago)</span></div>
+<div id="page-options-bottom"  class="page-options-bottom">
+	<a href="javascript:;" id="edit-button">edit</a><a href="javascript:;" id="tags-button">tags</a>
+	<a href="javascript:;" id="history-button">history</a> 
+	<a href="javascript:;" id="files-button">files</a> <a href="javascript:;" id="print-button">print</a> <a href="javascript:;" id="site-tools-button">site tools</a><a href="javascript:;" id="more-options-button">+&nbsp;options</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom" style="display:none">
+	<a href="javascript:;" id="edit-sections-button">edit sections</a>
+	<a href="javascript:;" id="edit-append-button">append</a>
+	
+	<a href="javascript:;" id="backlinks-button">backlinks</a> 
+	<a href="javascript:;" id="view-source-button">view source</a> 
+	<a href="javascript:;" id="parent-page-button">parent</a> 
+	<a href="javascript:;" id="page-block-button">block</a> 	
+	<a href="javascript:;" id="rename-move-button">rename</a> 
+	<a href="javascript:;" id="delete-button">delete</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+			
+										
+					<div id="action-area" style="display: none"></div>
+				</div>
+			</div>
+			
+			
+			
+	 		<div id="footer" style="display: block; visibility: visible;">
+	 					 			<div class="options" style="display: block; visibility: visible;">
+			 			<a href="http://www.wikidot.com/doc" id="wikidot-help-button">
+				 			help				 		</a>
+			 			|
+				 		<a href="http://www.wikidot.com/legal:terms-of-service"   id="wikidot-tos-button">
+				 			terms of service				 		</a>
+			 			|
+				 		<a href="http://www.wikidot.com/legal:privacy-policy"   id="wikidot-privacy-button">
+				 			privacy				 		</a>
+			 			|
+				 		<a href="javascript:;" id="bug-report-button" 
+				 			onclick="WIKIDOT.page.listeners.pageBugReport(event)">
+				 			report a bug				 		</a>
+			 			|
+				 		<a href="javascript:;" id="abuse-report-button" 
+				 			onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">
+				 			flag as objectionable				 		</a>
+		 			</div>
+			 				 				Hosted by <a href="http://www.wikidot.com">Wikidot.com</a> &#8212; 
+		 						 					<a href="http://www.wikidot.com/new-site">get your free wiki now!</a>
+		 						 					 					 			 		</div>
+	 											
+
+						
+			
+			<div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+			
+				 	</div>
+	 </div>
+ 	
+ 	<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+	<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+	<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+ 	
+ 	 	
+ 	<div id="page-options-bottom-tips" style="display: none">
+ 		<div id="edit-button-hovertip">
+ 			Click here to edit contents of this page. 		</div>
+ 	</div>
+ 	<div id="page-options-bottom-2-tips"  style="display: none">
+ 		<div id="edit-sections-button-hovertip">
+	 		Click here to toggle editing of individual sections of the page (if possible).
+	 		Watch headings for an "edit" link when available. 		</div>
+ 		<div id="edit-append-button-hovertip">
+ 			Append content without editing the whole page source. 		</div>
+ 		<div id="history-button-hovertip">
+ 			Check out how this page has evolved in the past. 		</div>
+ 		<div id="discuss-button-hovertip">
+ 			If you want to discuss contents of this page - this is the easiest way to do it. 		</div>
+ 		<div id="files-button-hovertip">
+ 			View and manage file attachments for this page. 		</div>
+ 		<div id="site-tools-button-hovertip">
+ 			A few useful tools to manage this Site. 		</div>
+ 		<div id="backlinks-button-hovertip">
+ 				See pages that link to and include this page. 		</div>
+ 		<div id="rename-move-button-hovertip">
+ 			Change the name (also URL address, possibly the category) of the page. 		</div>
+ 		<div id="view-source-button-hovertip">
+ 			View wiki source for this page without editing. 		</div>
+ 		<div id="parent-page-button-hovertip">	
+ 			View/set parent page (used for creating breadcrumbs and structured layout). 		</div>
+ 			 		<div id="abuse-report-button-hovertip">
+	 				Notify administrators if there is objectionable content in this page.	 		</div>
+	 		<div id="bug-report-button-hovertip">
+				Something does not work as expected? Find out what you can do.	 		</div>
+	 		<div id="wikidot-help-button-hovertip">
+	 			General Wikidot.com documentation and help section.	 		</div>
+	 		<div id="wikidot-tos-button-hovertip">
+	 			Wikidot.com Terms of Service - what you can, what you should not etc.	 		</div>
+	 		<div id="wikidot-privacy-button-hovertip">
+	 				Wikidot.com Privacy Policy. 			
+	 		</div>
+ 		 	</div>
+ 	
+ 	<!-- google_ad_section_end -->
+ 	
+ 	<div id="account-notifications-dummy" style="display:none"></div>
+ 	
+ 	<div style="display:none" id="dummy-ondomready-block"></div>
+	
+		
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_uff = false;
+		_uacct = "UA-68540-5";
+		_udn="wikidot.com"; 
+		urchinTracker();
+	</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-edL3gsnUjJzw-"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-edL3gsnUjJzw-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+		
+	  </body>
+
+</html>

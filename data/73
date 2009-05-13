@@ -1,0 +1,192 @@
+http://www.cs.dartmouth.edu/~pala
+2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en"><head><title>Massimiliano Pala - Home Page</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="AUTHOR" content="Massimiliano Pala">
+   <link rel="stylesheet" href="css/pala-new.css" type="text/css"></head>
+<body>
+
+<div class="index"><font class="on">Home</font></div>
+<div class="border">
+<div class="page_body">
+<!-- Begin: Title -->
+<div style="padding: 10px;">
+	<font class="fronttext">Massimiliano Pala</font><br />
+	<font class="backtext">Computer Science - Dartmouth College</font><br />
+	<font class="backtext">Post-doctoral Research Fellow</font>
+</div>
+
+<!-- End: Title -->
+<!-- Begin: Menu -->
+<!-- Begin: Menu Include -->
+<div class="gold">
+<div class="tl">
+<div class="tr">
+<div class="bl">
+<div class="br">
+<div class="inner">
+<ul class="menu">
+<li class="menu"><a href="index.shtml">Home</a></li>
+<li class="menu"><a href="research_activities.shtml">Research Activities</a></li>
+<li class="menu"><a href="courses.shtml">Teaching</a></li>
+<li class="menu"><a href="students.shtml">Students</a></li>
+<li class="menu"><a href="publications.shtml">Publications</a></li>
+<li class="menu"><a href="contacts-dartmouth.shtml">Contacts</a></li>
+<li class="menu"><a href="cv/pala-bio.pdf">CV</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End: Menu Include -->
+
+<!-- End: Menu -->
+<!-- Begin: News -->
+<div style="margin: 10px; padding: 10px; width: 100%;">
+<div class="tttitle">
+<font class="title"> News </font>
+</div>
+<div class="tttbody">
+<p>
+<ul>
+<li>
+<span class="date">Jan 2008</span>
+Additional coursework for the <a href="courses/cs108_08">Advanced Operating Systems (CS 108)</a> class is available <a href="courses/cs108_08/coursework.shtml">here</a>.
+</li>
+<li>
+<span class="date">Dec 2007</span>
+Updated Syllabus for the
+<a href="https://wiki.cs.dartmouth.edu/patrick/doku.php?id=cryptography_workshop_2008">
+Introduction to Practical Cryptography</a>
+workshop is available. 
+The WS is now scheduled for the Summer Term (hopefully)
+</li>
+<li>
+<span class="date">Oct 2007</span>
+<a href="https://wiki.cs.dartmouth.edu/patrick/doku.php?id=cryptography_workshop_2007_fall_07">Introduction to Practical Cryptography</a> workshop (hopefully) scheduled for the Spring Term
+</li>
+<li>New course informations <a href="courses.shtml">available here</a></li>
+<li>Fosdem slides are available <a href="http://www.fosdem.org/index/speakers/speakers_pala">here</a></li>
+</p>
+
+</div>
+<!-- Begin: Background -->
+<div class="tttitle">
+<font class="title">Background</font>
+</div>
+<div class="tttbody">
+<p>
+I received my Ph.D. from the 
+<a href="http://www.polito.it">Poilitecnico di Torino</a> in 
+<a href="http://security.polito.it">Computer Engineering</a> in March 2007.
+<!--
+under the supervision of Prof. <a href="http://taurus.polito.it/~lioy">
+Antonio Lioy</a>.
+-->
+Following my doctorate, I joined Dartmouth College as a Post-Doctoral 
+Research Fellow with the Institute for Security Technology Studies (ISTS).
+During my graduate studies, I worked at the
+<a href="http://www.dartmouth.edu/~pkilab">PKI/Trust Lab</a> at
+<a href="http://www.dartmouth.edu">Dartmouth College</a> for six months
+where I contributed to the work of Prof. 
+<a href="http://www.cs.dartmouth.edu/~sws">Sean Smith</a> and his
+collaborators.
+Before then, I worked for several companies as PKI/Security consultant.
+In 1998, I started the <a href="http://www.openca.org">OpenCA project</a>
+and I still continue its development and management.
+In addition to my Ph.D., I hold a Laurea (equiv. to BS and MS) in 
+Computer Engineering from the
+<a href="http://www.unimo.it">University of Modena, Italy</a>.
+</p>
+
+
+</div>
+<!-- End: Background -->
+<!-- Begin: Research Interests -->
+<div class="tttitle">
+<font class="title">Scholarly Interests</font>
+</div>
+<div class="tttbody">
+<p>
+Security is an important aspect of life. Even more when it comes to internet
+and <i>Identity Management</i>.
+Public Key Infrastructures help in providing an efficient method to issue
+digital identities that can be used over public network to secure
+communications and data exchange.
+My <i>long term goal</i> is to make the deployment of PKIs and usage of
+Digital Certificates on a large scale feasable for every day use.
+My research has potential impacts on many fields.
+The capillary adoption of certificates at every level, i.e. for small
+pervasive devices (sensors or mobile phones) or for people (digital IDs
+and passports), can stimulate research in the area by rethinking the
+principles of PKIs.
+<!--
+The successful deployment of large PKIs will also raise important questions
+in social sciences, e.g., "how will the use of these techologies impact on
+the society ?" and "How to improve user awareness about the importance of
+using secure communications in a digital world ?".
+-->
+Moreover adoption of digital certificates and digital identities provided
+by governments will allow for new opportunities in eCommerce, Privacy and
+Digital Data Management.
+</p>
+<p>
+My <a href="research_activities.shtml">current research</a>
+work aims to achieve usable security that uses digital certificates to
+simplify key management issues.
+Rather than focusing on the definition of new cryptographic algorithms, my
+research is aimed to provide simpler and effective trust management.
+My short term objective is to make current PKI technology easy to use for
+both application developers and users. For this I am working toward the
+definition and standardization of a new <a href="http://www.ietf.org/internet-drafts/draft-pala-prqp-00.txt">PKI Resource Discovery Protocol</a>.
+Moreover I started several <a href="research_activities.shtml#projects">
+projects</a> that serve as frameworks to deploy my research into real
+environments.
+</p>
+<p>
+To pursue my long term goal, I will focuse my teaching efforts on providing
+students with a global vision about security issues by exposing them to both
+technical and non-technical aspects.
+I also plan to leverage the interdisciplinary nature of security in order to
+collaborate with other departments.
+This will stimulate students and collaborators to think about
+security and privacy issues as a whole: a complex and comprehensive process.
+Moreover the experience acquired in years of consultancy work in the
+area allow me to more effectively help students in their curriculum
+development.
+</p>
+
+</div>
+<!-- End: Research Activities -->
+<!-- Begin: Teaching Activities-->
+<div class="tttitle">
+<font class="title">Teaching</font>
+</div>
+<div class="tttbody">
+<ul>
+    <li>
+    Advanced Operating Systems - CS108 (2008 - Dartmouth College)
+    </li>
+    <li>
+    Security and architecture of distributed systems (2006 - Politecnico di Torino)
+    </li>
+    <li>
+    Organizational Models and Strategies for e-Business (2005 - Politecnico di Torino)
+    </li>
+</ul>
+
+</div>
+<!-- End: Research Activities -->
+</div>
+<!-- End: Main Contents -->
+</div>
+</div>
+<div style="display: inline;" class="footer">
+Massimiliano Pala @ Dartmouth College
+</div>
+</body>
+</html>
+

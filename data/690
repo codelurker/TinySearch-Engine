@@ -1,0 +1,52 @@
+http://www.cs.dartmouth.edu/~cs42/projects.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>CS42 - Projects in Digital Art - Spring 2009</title>
+	<meta name="author" content="Fabio Pellacini" />
+	<link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+
+<div class="pagebackground">
+
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+
+<div class="header">
+<div class="title">Projects in Digital Art</div>
+<div class="subtitle">COSC42 - Spring 2009</div>
+<div class="subtitle">Instructor: Fabio Pellacini</div>
+</div>
+
+<div class="navigation">
+<span class="navigationitem"><a href="index.html">About</a></span>
+<span class="navigationitem"><a href="schedule.html">Schedule</a></span>
+<span class="navigationitem"><a href="projects.html">Projects</a></span>
+</div>
+
+<div class="content">
+<h1>Projects</h1>
+
+<p>Coming soon ...</p>
+
+</div>
+
+<div class="footer">
+Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
+</div>
+
+</div>
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>

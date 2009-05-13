@@ -1,0 +1,124 @@
+http://www.cs.dartmouth.edu/~hughes/research.html
+3
+<html>
+<head>
+<title>James M. Hughes - Dartmouth College</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- ImageReady Slices (website_new.psd) -->
+<table id="Table_01" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr height="30">
+	   <td width="35"></td>
+		<td colspan="6">
+			</td>
+	</tr>
+	<tr>
+		<td rowspan="5" background="images/menu_filler.jpg">
+			</td>
+		<td rowspan="5" background="images/index_03.jpg" width="226">
+			<!-- <img src="images/index_03.jpg" width="226" height="108" alt="">--></td>
+		<td rowspan="5" background="images/index_04.jpg">
+			<!--<img src="images/index_04.jpg" width="224" height="108" alt="">--></td>
+		<td rowspan="4" background="images/index_05_new.jpg" height="97" width="134">
+			<!--<img src="images/index_05.jpg" width="134" height="97" alt="">--></td>
+		<td colspan="2" background="images/index_06_new.jpg" height="16">
+			<!--<img src="images/index_06_new.jpg" width="202" height="16" alt="">--></td>
+		<td rowspan="5" background="images/menu_filler.jpg" width="100%">
+			<!--<img src="images/index_07.png" width="17" height="108" alt="">--></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="index.html"><img src="images/index_08_new.jpg" width="96" height="27" alt="" border="0"></a></td>
+		<td>
+			<a href="music.html"><img src="images/index_09_new.jpg" width="106" height="27" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="about.html"><img src="images/index_10_new.jpg" width="96" height="24" alt="" border="0"></a></td>
+		<td>
+			<a href="art.html"><img src="images/index_11_new.jpg" width="106" height="24" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="research.html"><img src="images/index_12_new.jpg" width="96" height="30" alt="" border="0"></a></td>
+		<td>
+			<a href="contact.html"><img src="images/index_13_new.jpg" width="106" height="30" alt="" border="0"></a></td>
+	</tr>
+	<tr height="11">
+		<td colspan="3" background="images/index_14.jpg">
+			<!--<img src="images/index_14.jpg" width="336" height="11" alt="">--></td>
+	</tr>
+	<tr height="100%">
+		<td>
+			</td>
+		<td background="images/sidebar_filler.jpg" width="226" class="sidebar">
+        <!-- SIDEBAR CONTENT AREA -->
+        <br><br>
+        James Hughes<br>
+        6211 Sudikoff Lab<br>
+        Dartmouth College<br>
+        Hanover, NH 03755<br><br>
+        hughes (at) cs<br>(dot) dartmouth (dot) edu<br><br>
+        Office:  (603) 646-8751
+        <br><br><br>
+        <img src="images/dartmouth_shield.png" width="135">
+        
+        </td>
+		<td colspan="4" width="577" class="content">
+		<!-- PRIMARY CONTENT AREA -->	
+		<table cellpadding=0 cellspacing=0 width=100% class="content_table">
+        <tr height=25><td colspan=3></td></tr>
+        <tr><td width=75></td><td>I am working with <a href="http://www.brainengineering.org">Richard Granger</a> in the field of computational neuroscience.<br><br>Specifically, I am investigating new methods for multivariate analysis of functional magnetic resonance imaging (fMRI) data.  Furthermore, I create models of visual and other sensory systems to attempt to understand some of the underlying causes of the fMRI responses we see in human subjects and how these relate to how sensory information is represented.  By understanding the causes of the noisy signal we observe in imaging experiments, we can begin to develop better experiments, further refine our models, and hopefully converge on meaningful information about the structure and nature of representations in the brain.<br><br>
+
+Some great papers to read along these lines (with PubMed links) are:  <br><br>
+<center>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/11577229?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum">Haxby et al. (2001)</a><br>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/15852014?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum">Kamitani &amp; Tong (2005)</a><br>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/16791142?ordinalpos=8&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum">Haynes &amp; Rees (2006)</a><br>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18322462?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum">Kay et al. (2008)</a><br>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18511683?ordinalpos=10&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum">Mitchell et al. (2008)</a>
+</center>
+<br><br>
+
+I'm also a contributor to the PyMVPA project (<a href="http://pymvpa.org">www.pymvpa.org</a>).  <br><br><center><a href="http://www.pymvpa.org"><img border=0 src="images/pymvpa_button_small.png"></a></center><br><br>In my undergraduate thesis, "Pseudo-random number generation using binary recurrent neural networks," I explored with a team of researchers at the <a href="http://www.fias.uni-frankfurt.de">Frankfurt Institute for Advanced Studies</a> the effects that two types of neuronal plasticity, the novel anti-spike timing-dependent plasticity (anti-STDP) and intrinsic plasticity (IP), had on sparsely connected recurrent neural networks.  Our hypothesis was that anti-STDP, which modifies synaptic efficacies based on firing pattern correlations, in concert with intrinsic plasticity, which modifies neuron firing thresholds, could be used to create activity patterns in neural networks that showed evenly distributed activity and possibly even chaos, elements that we hoped to take advantage of for their potential "randomness."  Using a technique to extract information from our networks given in Elyada &amp; Horn (2005), we determined that it was in fact possible to generate sequences of pseudo-random data that passed industry-standard measures used to assess the quality of pseudo-random data.<br><br>
+
+Download my <a href="sip.pdf">undergraduate thesis</a> in PDF format.<br><br>
+This research was supported by a grant from the <a href="http://www.hhmi.org">Howard Hughes Medical Institute</a>.  My research advisor was Prof. Dr. <a href="http://www.fias.uni-frankfurt.de/~triesch">Jochen Triesch</a>.<br><br><br>		</td><td width=75></td></tr></table>	
+        
+        <td></td>
+			
+        </td>
+	</tr>
+	
+	<tr>
+		<td>
+			<img src="images/spacer.gif" width="35" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="226" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="224" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="134" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="55" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="56" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="43" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="100%" height="1" alt=""></td>
+		<!--<td>
+			<img src="images/spacer.gif" width="55" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="57" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="100%" height="1" alt=""></td>-->
+	</tr>
+
+	
+</table>
+<!-- End ImageReady Slices -->
+</body>
+</html>

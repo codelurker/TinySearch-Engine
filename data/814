@@ -1,0 +1,126 @@
+http://www.cs.dartmouth.edu/~axel
+3
+<html>
+
+<head>
+<style>
+div.header
+{
+	background-color: #3366FF;
+	background-position: left top;
+	
+	padding: 2px;
+}
+td.headerTab
+{
+	
+	color: white;
+	font-size: xx-large;
+}
+
+div.main
+{
+	background-color: white;
+	background-position: left;
+	color: black;
+}
+
+h2
+{
+	color: #3366FF;
+	font-size: x-large;
+	font-weight: bold;
+}
+a:link {text-decoration: none;color: #003399}
+body.a:link {text-decoration: none;color: white}
+a:visited {text-decoration: none;color: #003399}
+a:hover {text-decoration: underline; color: #ff6600;}
+</style>
+<title>Axel Hansen</title>
+</head>
+<body>
+
+<div class="header">
+<table>
+<tr><td><img src="axel-hansen.jpg" /></td><td class="headerTab"><b>Axel Hansen</b><br />
+Hanover High School<br /><font size="0"><a style="color:white;font-size:large;" href="mailto:axel.r.hansen@gmail.com">axel.r.hansen@gmail.com</a></font></td></tr></table>
+</div>
+
+<div class="main">
+<h2>About Me</h2>
+<p>
+I'm a senior at Hanover High School in New Hampshire, and I will be entering the <a href="http://www.harvard.edu">Harvard</a> class of 2013 next year.  My academic interests are in computer science and I have taken CS and math courses
+and conducted research at Dartmouth College.  Since the summer of 2007, I have been an intern under research
+professor <a href="http://www.cs.dartmouth.edu/~sergey">Sergey Bratus</a> at the PKI/Trust Lab at Dartmouth College.  My research focus has been in 
+computer security, although I enjoy almost any topic in CS.</p>
+
+<p>
+In the summer of 2008, I attended the <a href="http://www.cee.org/rsi">Research Science Institute</a> at MIT.  I researched 
+failure-oblivious computing at MIT's Lincoln Laboratory under the supervision of <a href="http://web.mit.edu/~mzhivich/www/">
+Michael Zhivich</a>.  My research paper is titled <a href="http://www.cs.dartmouth.edu/~axel/axel-hansen-foc.pdf">Improved Heuristics for Program Continuation in 
+Failure-Oblivious Computing</a>.
+I was among the top-five distinguished presenters at RSI, and I am a semifinalist in the 2008 Siemens Competition for my research in failure-oblivious computing.</p>
+
+<p>I am a semifinalist in the Intel Science Talent Search for my research on a security visualization with Sergey Bratus.  My <a href="axel-hansen-intel-paper.pdf">paper</a> is titled "Visualizing Network Anomalies for Intrusion Detection with Information Theoretic Metrics."  
+</p>
+
+<p>My <a href="http://www.people.fas.harvard.edu/~ahansen/">web page at Harvard</a> has my up-to-date info.</p>
+
+A list of my <a href="#papers">Publications and Conferences</a> and
+<a href="#courses">Dartmouth Coursework</a> follows.
+
+
+<h2><a name="papers">Publications and Conferences</a></h2>
+<p><a href="http://lzfuzz.cs.dartmouth.edu"><b>LZfuzz</b></a></br />
+<i>A smart fuzzer that uses the lempel-ziv compression algorithm to automatically tokenize protocols and then fuzzes and
+sends proxied traffic using a modified version of the General Purpose Fuzzer.  LZfuzz was used to test the security of several
+SCADA and VoIP protocols.</i><br /><br />
+Sergey Bratus, Axel Hansen, Anna Shubina.<br />
+<a href="http://www.cs.dartmouth.edu/reports/TR2008-634.pdf">LZfuzz: a fast compression-based fuzzer for poorly documented protocols</a>.<br />
+Computer Science Technical Report TR2008-634.  Dartmouth College.  September 2008.
+<br \>
+<br \>
+Sergey Bratus, Axel Hansen, Anna Shubina.<br />
+Fuzzing Proprietary SCADA Protocols.<br />
+Poster, Dartmouth Computer Science Research Symposium, 2008.
+</p>
+<p><a href="https://kerf.cs.dartmouth.edu/backhoe/"><b>Backhoe</b></a></br />
+<i>A vizualization of informational entropy to find novelty in packet and log traces.</i><br /><br \>
+Sergey Bratus, Axel Hansen, Fabio Pellacini and Anna Shubina<br />
+<a href="http://www.cs.dartmouth.edu/~axel/backhoeVizsec.pdf">Backhoe, a Packet Trace and Log Browser</a>.<br />
+Vizsec 2008 conference proceedings.
+</p>
+
+<p><a href="http://baffle.cs.dartmouth.edu/"><b>Baffle</b></a></br />
+<i>An active fingerprinter for wireless access points over the link-layer.</i><br /><br />
+Sergey Bratus, Cory Cornelius, Daniel Peebles, and Axel Hansen <br />
+Active Fingerprinting of 802.11 APs.<br />
+Toorcon 2008.<br /><br />
+Sergey Bratus, Cory Cornelius, Daniel Peebles, and Axel Hansen <br />
+Active Fingerprinting of 802.11 APs.<br />
+Blackhat Briefings 2008.
+</p>
+<p>
+I attended the following conferences in 2008:<br /> Recon (Montreal), Defcon (Las Vegas), Blackhat (Las Vegas), Vizsec (Cambridge, MA), and Toorcon (San Diego).
+
+
+<h2><a name="courses">Dartmouth Coursework</a></h2>
+<i>
+Introduction to Math Beyond Calculus, Professor John Trout, Winter 2009.<br />
+3D Digital Modeling, Professor Lorie Loeb, Fall 2008.<br />
+Computer Networks, Professor Andrew Campbell, Spring 2008.<br />
+Operating Systems, Professor Sean Smith, Fall 2007.<br />
+Computer Architecture, Professor Kate Forbes-Riley, Spring 2007.<br />
+Structure and Interpretation of Computer Programs, Professor Michael Fromberger, Winter 2007.<br />
+Introduction to Computer Science, Professor Thomas Cormen, Fall 2006.
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5910101-1");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

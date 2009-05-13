@@ -1,0 +1,145 @@
+http://www.cs.dartmouth.edu/~chris/cs23
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+    <title>CS23 - Winter '09</title>
+</head>
+
+<BODY BACKGROUND="images/sandwhite.gif"
+	TEXT="#000000" LINK="blue" VLINK="purple">
+
+<h2>CS23 Software Design and Implementation - W'09</h2>
+<p>
+
+<i>(ORC Description)</i>
+Techniques for building large, reliable, maintainable, and understandable
+software systems. Topics include object-oriented design, user
+interface design, software project management, techniques for increasing
+reliability, and testing. Concepts are reinforced through a small number
+of medium-scale programs and one team programming project. This course
+requires a significant time commitment on the part of the student.
+
+<h3>Course coordination:</h3>
+<table border=0 cellpadding=2>
+<tr>
+    <td valign=top nowrap>Instructor:</td>
+    <td nowrap>Dr. Chris McDonald (pronounced <i>Chris</i>),
+        <a href="mailto:chris@cs.dartmouth.edu">chris@cs.dartmouth.edu</a>,
+        <br>
+<!--
+	Office hours: Wednesday 3-5pm, or by email appointment.
+-->
+	Office hours: 2.30-4.30pm Wednesday 11th, or by email appointment.
+        Rm 222.
+    </td>
+</tr>
+<tr>
+    <td valign=top nowrap>Teaching assistant:</td>
+    <td nowrap>Mr Nick Foti,
+        <a href="mailto:nfoti@cs.dartmouth.edu">nfoti@cs.dartmouth.edu</a>
+	<br>
+	Office hours: Tuesday and Thursday 3-5pm.
+        Rm 157.
+    <p>
+    </td>
+</tr>
+<tr>
+    <td valign=top nowrap>Class times:</td>
+    <td nowrap>Mon, Wed, Fri @ 12.30pm-1.35pm, in Sudkoff 115,
+		commencing Mon 5th Jan.<br>
+	X-hour (if required) @ Tue 1.00pm-1.50pm, in Sudikoff Lab 001.
+    </td>
+</tr>
+<tr>
+    <td valign=top nowrap>Assessment:</td>
+    <td nowrap>
+	10% - class contribution (weeks 1-5)<br>
+	40% - homework exercises (weeks 3-6)
+	    <ul>
+	    <li> <a href="hw1.html">Homework exercises 1</a>,
+			not graded, complete by 12noon Fri 16th Jan.
+	    <li> <a href="hw2.html">Homework exercises 2</a>,
+			graded, contributes 10%, due 12noon Fri 23rd Jan.
+	    <li> <a href="hw3.html">Homework exercises 3</a>,
+			graded, contributes 10%, due 12noon Fri 30th Jan.
+	    <li> <a href="hw4.html">Homework exercises 4</a>,
+			graded, contributes 10%, due 12noon Fri 6th Feb.
+	    <li> <a href="hw5.html">Homework exercises 5</a>,
+			graded, contributes 10%, due 12noon Fri 13th Feb.
+	    </ul>
+
+	50% - <a href="project/index.html">large team project</a>, (weeks 6-10)
+	<br>
+	(always under construction...)
+	<a href="project/technical.html"><b>Technical details</b></a>
+	about the project.
+	</td>
+</tr>
+</table>
+
+<!--
+<p>
+<font color=red>
+    <b>Note - there is no required textbook for this course this term.</b>
+</font>
+-->
+
+<p>
+<hr size=1 noshade>
+<p>
+
+<h3>Information available from here:</h3>
+
+<ul>
+    <li> <a href="schedule.html">Class schedule</a>
+	<i>(topics covered, before-class reading, labsheets....)</i></li>
+    <li> <a href="resources.html">Online resources and tutorials</a>
+    <li> <a href="books.html">Some recommended books</a>
+</ul>
+
+<p>
+<hr size=1 noshade>
+<p>
+
+<h3>Laboratory Access:</h3>
+In order to obtain access to Sudikoff after hours, and to get into
+Sudikoff's Lab 001, you will need to have your Dartmouth ID card activated
+for the appropriate access.
+<p>
+To do this,
+complete the online
+<a href="http://www.cs.dartmouth.edu/internal/">Sudikoff Access Form</a>.
+<p>
+Keep in mind that it may take 24 hours for access to be activated,
+so please plan ahead!
+<p>
+You will also require a computer account on the CS Linux machines.
+Contact Chris McDonald, via email, informing him of your prefered (new)
+account name.
+<p>
+Please note that the exterior doors of Sudikoff are automatically locked
+after 6:00pm weekdays, and also every weekend and holiday. In addition,
+the laboratory doors are locked at all times. You will need your access
+card to pass through locked doors.
+
+<h3>Non-Recording Option:</h3>
+Because CS23 involves teamwork, and has a significant workload, the
+non-recording option is not available for this course.
+
+<h3>Students with disabilities:</h3>
+Any student with a documented disability needing academic adjustments or
+accommodations is requested to speak with Chris McDonald
+by the end of the second week of the term.
+All discussions will remain confidential, although the
+Student Disabilities Coordinator may be consulted to verify the
+documentation of the disability.
+
+<p>
+<hr size=1 noshade>
+<p>
+
+</body>
+</html>
+i

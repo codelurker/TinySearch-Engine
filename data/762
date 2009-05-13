@@ -1,0 +1,157 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter09/admindetails.html#late
+3
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 39 (Winter 2009): Amit Chakrabarti: Administrative Details</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="index.html"> CS 39 Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 39<br>
+    Theory of Computation<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Winter 2009<h3></td>
+</tr></table>
+
+<hr>
+<h3>Administrative Details</h3> 
+
+<a name=hw></a>
+<h4>Homework</h4>
+
+<p> Homework assignments will be given out roughly once a week. There
+will be a homework given out each Wednesday and it will be due at the
+<i>beginning</i> of next Wednesday's class (with perhaps one exception,
+for Homework 5).  Homework is to be submitted <i>before</i> you come
+into class, into the box(es) marked "CS 39 IN" right outside the lecture
+hall. </p>
+
+A few important notes on the homework assignments:
+
+<ul>
+
+  <li><strong>Start early:</strong>  Some problems will be hard and are
+  not typically solved in one sitting.  Start early and let the ideas come
+  to you over the course of a few days.</li>
+
+  <li><strong>Be rigorous:</strong> CS 39 is a theory course, and so
+  mathematical rigor will be expected in your solutions.</li>
+
+  <li><strong>Be concise:</strong>  Express your solution at the proper
+  level of detail.  Long, verbose answers are strongly discouraged.  Give
+  enough details to clearly present your solution, but not so many that
+  the main ideas are obscured.  </li>
+
+  <li><strong>You can discuss with others:</strong>  Some of the
+  problems will be difficult, and it will often be helpful to discuss them
+  with others.  Feel free to form study groups.  However, the idea is for
+  everyone to understand the problems and experience working through the
+  solutions, so you <em>may not</em> simply "give" a solution to another
+  classmate.  In particular, each student <em>must</em> write up his or
+  her own homework solutions and <em>must not</em> read or copy the
+  solutions of others.  If you work with others on a problem,  you
+  <em>must</em> note with whom you discussed the problem at the beginning
+  of your solution write-up. </li>
+
+  <li><strong>Work on your own before talking to others:</strong>
+  Although, as I said above, you can discuss the homework problems with
+  others, you will learn the most by first trying out each problem on your
+  own.  Make as much progress as possible on your own before you meet with
+  your study group. </li>
+
+</ul>
+
+<a name=late></a>
+<h4>Late Submission Policy</h4>
+
+<p> Any homework submitted late carries an <i>immediate 20% penalty</i>
+(unless you have a very good excuse and have discussed it with me in
+advance), and an additional 10% penalty per calendar day after that. No
+homework will be accepted after the next homework is due, or after the
+final.  In this course, if you do not do homework on time, you will soon
+find yourself overwhelmed, so please be regular with your work. </p>
+
+<p> For any late submission, it is the <em>student's
+resposnsibility</em> to ensure that the grader receives the homework.
+Please do not just put your late submission in the usual homework
+submission box. Make sure you personally see the grader receiving your
+late submission and timestamping it. </p>
+
+<p> The late submission policy for the finals is simple, and drastic.
+<strong>A final exam submitted after the deadline will be returned 
+ungraded and will earn zero credit</strong>. So please don't do that! </p>
+
+<a name=challenges></a>
+<h4>Challenge Problems</h4>
+
+Occasionally, the homeworks will contain one or two "challenge
+problems". They are to be thought of as "extra credit" work and will be
+tallied separately from regular score. If you end up on a borderline
+between two grades at the end of the course or are being considered for
+a citation, this extra credit will count in your favor.  However, failure to
+solve challenge problems will never be counted against you because grades are
+assigned on the basis of regular scores. </p>
+
+<p> You should work on these challenge problems if you find them
+interesting and you think that they might teach you something.  It is
+unwise to skimp on regular homework problems in order to attack these
+challenge problems, though. </p>
+
+<a name=honorcode></a>
+<h4> Working Together and the Honor Principle </h4>
+
+<p> Students are encouraged to work together to do homework problems.
+Groups who work well together in class should consider working together
+to do homework. What is important is a student's eventual understanding
+of homework problems, and not how that is achieved. </p>
+
+<p> The honor principle applies to homework
+in the following way. What a student turns is as a homework solution
+is to be <i>his or her own understanding</i> of how to do the problem. In
+preparing the draft of the homework to be turned in, a student <b>may not
+consult the notes or homework solutions of another student or any
+solutions to homework problems in past offerings of the course posted
+on the web.</b> Students <i>may</i> consult any source (including those just
+forbidden for the final draft), <b>except for another student's final
+draft</b>, in <i>learning</i> how to do homework problems.
+<b>Students must state
+what sources they have consulted, with whom they have collaborated,
+and from whom they have received help.</b> However students are
+discouraged from using solutions to problems posted on the web for
+previous offerings of the course, and as just stated, must reference
+them if they use them. </p>
+
+<p> The honor principle applies to exams as follows. <b>Students may
+not give or receive assistance of any kind on an exam from any
+person, including the professor</b>. </p>
+
+<h4> Students with Disabilities </h4>
+
+Students with disabilities enrolled in this course and who may need
+disability-related classroom accommodations are encouraged to make an
+appointment with the professor to discuss the matter, by Jan 16, 2009.
+All discussions will remain confidential, although the Student
+Accessibility Services office may be consulted to discuss appropriate
+implementation of any accommodation requested.
+
+<hr>
+
+<i> <div align=right>
+  <a href="index.html"> CS 39 Home</a>
+</div> </i>
+
+</body></html>
+i

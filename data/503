@@ -1,0 +1,64 @@
+http://www.cs.dartmouth.edu/~ashubina/google.html
+3
+<html>
+<body bgcolor="#e0e0ff">
+
+<script  LANGUAGE="JavaScript">
+document.write("<h2>Your browser has Javascript enabled. ");
+document.write("This opens your computer to many known, ");
+document.write("and likely some yet unpublished, attacks. ");
+document.write("If you truly care about your privacy, we recommend ");
+document.write("that you *disable* Javascript in your browser.</h2>");
+document.write("<a href=\"http://www.lib.drake.edu/database/javascript.html\">How can I disable JavaScript?</a><p>");
+</script>
+
+<form method=POST action="http://www.cs.dartmouth.edu/~ashubina/google.cgi">
+<table>
+<tr><b>URL (you may skip http://):</b><td><input maxlength=256 size=55 name=q value=""></td></tr>
+</table>
+<table cellspacing=0 cellpadding=3 border=0 width="100%">
+<tr><td colspan=3 align="LEFT"><b> Handling of links, images, forms that allow to leave google:</b></tr>
+<tr><td align="LEFT"><input type="radio" name="paranoia" value=2 checked="yes">
+Delete</td>
+<!-- <td align="LEFT"><input type="radio" name="paranoia" value=1>
+Ask before loading</td> -->
+<td align="LEFT"><input type="radio" name="paranoia" value=0>
+Load on request without asking (see * below)</td></tr>
+</table>
+<table><tr>
+<th><input type=submit value="Go">
+<th>&nbsp;&nbsp;
+<th><input type=reset value="Reset">
+</tr></table>
+<p>
+
+<input type=checkbox name=strip_scripts> Strip all scripts  
+(but best disable them in your browser, too!)
+<br>
+The request will be made as if your browser were
+<select name=agent>
+   <option selected>Mozilla</a>
+   <option>Netscape</a>
+   <option value="ie50">Internet Explorer 5.0</a>
+   <option value="ie55">Internet Explorer 5.5</a>
+   <option value="ie60">Internet Explorer 6.0</a>
+   <option value="custom">Custom, given below</a>
+</select>
+<br>
+Use this USER_AGENT string verbatim (select Custom for browser above):<br>
+<input type=text  name=agent_string value="" size=100>
+</form>
+<p>
+<hr>
+<p>
+* Will cause our script to request images from the specified
+  destination site, leaving our IP in its log records and disclosing
+  to the destination site that someone is browsing it. 
+  Since this puts a load on our site, we may limit the 
+  amount of content proxied for you in this fashion.
+<p>
+<hr>
+<p>
+The code of this proxy is available 
+<a href="http://www.cs.dartmouth.edu/~ashubina/google/google.tar.gz">here</a>.
+</html>

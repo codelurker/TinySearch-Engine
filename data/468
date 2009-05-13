@@ -1,0 +1,18 @@
+http://www.cs.dartmouth.edu/~priya/priya_research.html
+3
+<html>
+<head>
+    <title> Priya Natarajan - Research </title>
+  </head>
+  <body style="background-color:cornsilk">
+  	<p style="margin-left: 80px; margin-right: 80px">
+  	My research interests are in the area of algorithm engineering and mainly parallel computing. I work under the guidance of <a href="http://www.cs.dartmouth.edu/~thc"> Prof. Thomas H. Cormen</a>.
+  	</p>
+	<p style="margin-left: 80px; margin-right: 80px">
+	My first project was to implement an out-of-core distribution-based sorting algorithm (let's call it dsort) for distributed-memory clusters. In a nutshell, dsort is like quicksort with many pivot elements and (typically) a node of a cluster handles one partition. Things are a little more complicated, however, because data resides on disk (out-of-core) and cluster nodes have to communicate with each other over the network. The initial idea was to implement the dsort algorithm using pthreads but when Tom and I were dicussing the design of dsort, he observed that this algorithm could be a great candidate to be implemented using <a href="http://www.cs.dartmouth.edu/FG"> FG</a>, a tool that helps you write parallel programs quickly.
+	</p>
+	<p style="margin-left: 80px; margin-right: 80px">
+	After having fiddled with some performance-related issues for a while, we are now focusing our attention towards applications that could benefit from using FG. So, this is <b>how you can help in my research:</b> If you have an application that you would like to parallelize but have not gotten to doing so yet because you don't know how to, or because it seems like too much work, please feel free to write to me. We could get in touch and discuss whether FG would be fit for your needs.
+  	</p>
+  </body>
+</html>

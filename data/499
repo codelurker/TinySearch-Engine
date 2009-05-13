@@ -1,0 +1,191 @@
+http://www.cs.dartmouth.edu/farid/yearinreview04.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid: Image Science Group </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750>
+<tr>
+<td>
+
+<p>
+<b> Year in Review: 2004 </b>
+<p>
+
+I hope that this mail finds you all well.  In what is becoming a
+yearly tradition, I write to update you on the happenings of the <a
+href="group.html">Image Science Group</a>.  At various times this year, the
+group consisted of Lorie Loeb (resident artist/animator/graphics
+guru), four Ph.D. students, Kimo Johnson, Siwei Lyu, Alin Popescu, and
+Hai Sun, and two undergraduates, Joe and Will Pechter.
+
+<p>
+
+For their senior theses, Joe and Will, working primarily with Lorie,
+did some outstanding work on text-to-animation and
+speech-to-animation.  Their work earned them high-honors, second place
+at the Reid Science Competition, and First Prize (team innovation
+category) in the John G. Kemeny Computing Competition, and probably a
+few others that I am forgetting.
+
+<p>
+
+Hai Sun succesfully (and brilliantly) defended his Ph.D Thesis on
+image-guided neurosurgery.  He is currently in the M.D. program here
+at Dartmouth, finishing up the M.D./Ph.D. program.  Just one of
+several papers that Hai wrote over this past year is:
+
+<p>
+
+     <dd> Cortical Surface Tracking Using a Stereoscopic Operating Microscope</dd>
+     <dd> H. Sun, D.W. Roberts, H. Farid, Z. Wu, A. Hartov and K.D. Paulsen </dd>
+     <dd> Neurosurgery, 2004 (in press) </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/neuro05.html">
+          http://www.cs.dartmouth.edu/farid/publications/neuro05.html</a> </dd>
+
+<p>
+
+Alin Popescu recently defended his Ph.D. Thesis, entitled "Statistical
+Tools for Digital Image Forensics".  This work marks the first
+substantive body of work on non-watermark based techniques for
+detecting traces of tampering in digital images.  This work was
+recently listed in the New York Times Magazine's Year in Ideas as one
+of the most important scientific/technological advances of the year:
+
+<p>
+
+      <dd> <a href="http://www.cs.dartmouth.edu/farid/press/nytmag04/nytmag04.html">
+       http://www.cs.dartmouth.edu/farid/press/nytmag04/nytmag04.html </a>
+       </dd>
+
+<p>
+
+Two of several papers that Alin wrote are:
+
+<p>
+
+     <dd> Exposing Digital Forgeries by Detecting Traces of Re-sampling </dd>
+     <dd> A.C. Popescu and H. Farid </dd>
+     <dd> IEEE Transactions on Signal Processing, 2005 (in press) </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/sp04.html">
+          http://www.cs.dartmouth.edu/farid/publications/sp04.html</a> </dd>
+
+<p>
+
+     <dd> Statistical Tools for Digital Forensics </dd>
+     <dd> A.C. Popescu and H. Farid </dd>
+     <dd> 6th International Workshop on Information Hiding, Toronto, Canada, 2004 </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/ih04.html">
+          http://www.cs.dartmouth.edu/farid/publications/ih04.html</a> </dd>
+
+<p>
+
+Siwei Lyu completed his Ph.D. proposal on a general-purpose
+statistical model for natural images with applications to digital
+image forensics.  There are at least two very exciting aspects of this
+work that have emerged in the past year.  We have used this work to
+differentiate between computer generated and photographic images.  I
+have testified in several court cases in regard to the application of
+this technology to child porn crimes.  (If you recall, the
+U.S. Supreme Court ruled, in 2002, that computer generated child porn
+is protected under the first amendmant.  As a result, prosecutors are
+struggling to prosecute this crime, since the burden of proof is on
+the prosecution to prove that the images are real).  More technical
+details can be found here:
+
+<p>
+
+     <dd> How Realistic is Photorealistic? </dd>
+     <dd> S. Lyu and H. Farid </dd>
+     <dd> IEEE Transactions on Signal Processing, 2005 (in press) </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/sp05b.html">
+          http://www.cs.dartmouth.edu/farid/publications/sp05b.html</a> </dd>
+
+<p>
+
+And more legal details are can be found here:
+
+<p>
+
+     <dd> Creating and Detecting Doctored and Virtual Images: Implications
+     to The Child Pornography Prevention Act </dd>
+     <dd> H. Farid </dd>
+     <dd> Technical Report, TR2004-518, Dartmouth College, Computer Science </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/tr04a.html">
+          http://www.cs.dartmouth.edu/farid/publications/tr04a.html</a> </dd>
+
+<p>
+
+Siwei also applied his work to the digital authentication of art.
+This work appeared in the Proceedings of the National Academy of
+Sciences:
+
+<p>
+
+     <dd> A Digital Technique for Art Authentication </dd>
+     <dd> S. Lyu, D. Rockmore and H. Farid </dd>
+     <dd> Proceedings of the National Academy of Sciences, 101(49):17006-17010, 2004 </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/pnas04.html">
+          http://www.cs.dartmouth.edu/farid/publications/pnas04.html</a> </dd>
+
+<p>
+
+The popular press picked up on this work and stories appeared in,
+among many others, CNN, Boston Globe, Economist, Newsweek, Washington
+Post, Wired News, and Yahoo News.  This is very exciting work, and we
+plan to pursue several new research areas.
+
+<p>
+
+Kimo Johnson completed some nice work on extending our steganalysis
+work (detecting hidden messages) to audio recordings.  These results
+will be presentend at the upcoming SPIE conference:
+
+<p>
+
+     <dd> Steganalysis in Recorded Speech </dd>
+     <dd> M.K. Johnson, S. Lyu and H. Farid </dd>
+     <dd> SPIE Symposium on Electronic Imaging, San Jose, CA, 2005 </dd>
+     <dd> <a href="http://www.cs.dartmouth.edu/farid/publications/spie05.html">
+          http://www.cs.dartmouth.edu/farid/publications/spie05.html</a> </dd>
+
+<p>
+
+In addition, Kimo has been developing some very nice forensic tools to
+detect traces of digital tampering.  This work will nicely complement
+the work of Alin and Siwei.
+
+<p>
+
+The CS Department has completed construction on a new wing that has
+room for 8 faculty along with student offices and labs.  We have moved
+our offices and lab to this new wing.  Our new lab is 900+ sq. ft.
+(more than twice the size of our old lab).  This space does not
+include separate grad.  offices across the hall from the lab.  We are
+currently renovating the space, and, don't worry, I've been talked out
+of painting the walls black (I'll send photos once the renovations are
+complete).
+
+<p>
+
+And finally, Dartmouth promoted me to Associate Professor with tenure
+this year.  Sadly, they also asked me to be Associate Chair of the
+department, which means that I am department Chair for 6 months out of
+the year.  
+
+<p>
+
+I hope that this email finds you all well and happy.  Please stay in
+touch and let me know how things are.
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

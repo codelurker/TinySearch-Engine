@@ -1,0 +1,466 @@
+http://www.cs.dartmouth.edu/ug_courses.php
+1
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Undergraduate Courses</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		<h1>Undergraduate Courses</h1>
+
+		
+<p>
+
+The following complete listing provides a an overview of available
+courses; course titles link to individual course home pages where
+available.
+
+<p>
+
+For brief descriptions of courses, the terms courses will next be
+offered, and scheduled instructors, please consult the official
+Dartmouth <a
+href="http://www.dartmouth.edu/~reg/courses/desc/cosc.html">Course
+Descriptions and Requirements</a> published by the <a
+href="http://www.dartmouth.edu/~reg/">Office of the Registrar</a>.
+
+<p>
+
+Certain undergraduate courses</a> can be taken
+for graduate credit, although they do not necessarily count toward the
+Ph.D. degree requirement.  Undergraduate courses that may be taken for
+graduate credit include 33, 38, 44, 48, 49, 52, 54, 56, 58, 68, and
+78.  Students taking these courses for graduate credit will be asked
+to do assignments in addition to those required of undergraduates
+taking these courses.
+
+<p>
+
+The Department of Computer Science offers a minor in <a
+href="http://www.cs.dartmouth.edu/DigitalArts">Digital Arts</a>.
+
+<p>
+
+<b><a href = "content/booklists/spring2009.xls">Book List for Spring 2009
+    (xls)</a></b>
+
+<p>
+
+<TABLE>
+	<TR>
+		<TD align="center">2</A></TD>
+		<TD><a href="/~cs2/" >Programming for Interactive Digital Arts</a></TD>
+<td>
+		<a href="content/syllabi/cs2">Syllabus &ndash;
+		Winter 2008 </a>
+		</td>
+</TR>
+
+	<TR>
+		<TD align="center">4</A></TD>
+		<TD><a href="/~cs4/" >Concepts in Computing</a></TD>
+		<td>
+		<a href="content/syllabi/cs4-summer2007.pdf">Syllabus &ndash;
+		Summer 2007 (pdf)</a>
+		</td>
+	</TR>
+
+	<TR>
+		<TD align="center">5</TD>
+		<TD><a href="/~cs5/" >Introduction to Computer
+		Science</TD>
+		<td>
+		<a href="content/syllabi/cs5-fall2007.pdf">Syllabus &ndash;
+		Fall 2007 (pdf)</a>
+		</td>
+
+	</TR>
+
+	<TR>
+		<TD valign="top" align = "center">7</TD>
+		<TD>First-Year Seminar in Computer Science:</td>
+	</tr>
+	
+	<tr>
+	  <td> </td>
+	  <td>
+	    Ideals, Ideas, and Computer Science</a>
+	  </td>
+	  <td>
+	    <a href="content/syllabi/cs7-winter2008.pdf">Syllabus &ndash;
+	      Winter 2008 (pdf)</a>
+	  </td>
+	</TR>
+
+	<tr>
+	  <td> </td>
+	  <td>
+	    <a href =
+	       "http://www.cs.dartmouth.edu/~cs7/">Interactive
+	      Storytelling</a>
+	  </td>
+	  <td>
+	    <a href="content/syllabi/cs7-spring2008.pdf">Syllabus &ndash;
+	      Spring 2008 (pdf)</a>
+	  </td>
+	</TR>
+
+	<TR>
+		<TD align="center">8</TD>
+		<TD><a href="/~cs8/">Problem Solving with Computer Science</a></TD>
+		<td>
+		<a href="content/syllabi/cs8-winter2008/index.shtml">Syllabus &ndash;
+		Winter 2008</a>
+		</td>
+
+	</TR>
+
+	<TR>
+		<TD align="center">12</TD>
+		<TD>Motion Study</TD>
+	</TR>
+
+	<TR>
+		<TD align="center">16</TD>
+		<TD>Linear Programming</TD>
+	</TR>
+
+	<TR>
+		<TD align="center">18</TD>
+		<TD><a href="/~cs18/">Structure and Interpretation of Computer Programs</a><td>[Replaced by 8 starting Fall 2007]</TD>
+	</TR>
+
+	<TR>
+		<TD align="center">19</TD>
+		<TD><a href="/~cs19">Discrete Mathematics in Computer
+		Science</a></TD>
+		<td>
+		<a href="content/syllabi/cs19-winter2008.pdf">Syllabus &ndash;
+		Winter 2008 (pdf)</a>
+		</td>
+	</TR>
+
+	<TR>
+		<TD align="center">22</TD>
+		<TD><a href = "/~cs22">3D Digital Modeling</a></TD>
+		<td>
+		<a href="content/syllabi/cs22-fall2007.pdf">Syllabus &ndash;
+		Fall 2007 (pdf)</a>
+		</td>
+
+	</TR>
+
+	<TR>
+		<TD align="center"> 23 </TD>
+		<TD><a href="http://www.cs.dartmouth.edu/~campbell/cs23/">Software Design and Implementation</a></TD>
+	</TR>
+	<TR>
+		<TD align="center"> 25 </TD>
+		<TD><a href="/~cs25/" >Algorithms</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center"> 26 </TD>
+		<TD><a href = "http://engineering.dartmouth.edu/courses/engs091/">Numerical Methods in Computation</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center">32</TD>
+		<TD><a href="/~cs32/">Computer Animation: The State of the Art</a></TD>
+		<td>
+		<a href="content/syllabi/cs32-winter2008.pdf">Syllabus &ndash;
+		Winter 2008 (pdf)</a>
+		</td>
+	</TR>
+
+	<TR>
+		<TD align="center"> 33 </TD>
+		<TD><a href="/~cs33/" >Information Systems</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center"> 34 </TD>
+		<TD><a href="http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Spring2009/" >Machine Learning and
+		Statistical Data Analysis</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center">36</TD>
+		<TD><a
+		href="http://www.cs.dartmouth.edu/farid/teaching/cs136/summer.07/">Numerical
+		and Computational Tools for Applied Science &nbsp; &nbsp; </a></TD>
+		<td>
+		<a href="content/syllabi/cs36-136-summer2007.pdf">Syllabus &ndash;
+		Summer 2007 (pdf)</a>
+		</td>
+	</TR>
+
+	<TR>
+
+		<TD align="center">37</TD>
+		<TD><a href="/~cs37/" >Computer Architecture</a></TD>
+		<TD><a href="content/syllabi/cs37.txt">Syllabus</a></TD>
+	</TR>
+	<TR>
+		<TD align="center">38</TD>
+		<TD><a href="/~cs38">Security and Privacy</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center">39</TD>
+		<TD><a href="/~cs39/" >Theory of Computation</a></TD>
+		<td>
+		<a href="content/syllabi/cs39-fall2007.pdf">Syllabus &ndash;
+		Fall 2007 (pdf)</a>
+		</td>
+	</TR>
+
+	<TR>
+		<TD align="center">42</TD>
+		<TD><a href="/~cs42/" >Projects in Digital Arts</a></TD>
+	</TR>
+
+        <TR>
+                <TD align="center">43</TD>
+                <TD><a href="/~cbk/bio/">Introduction to Bioinformatics</a></TD>
+        </TR>
+
+	<TR>
+		<TD align="center">44</TD>
+		<TD><a href="/~cs44">Artifical Intelligence</TD>
+	<td>
+		<a href="content/syllabi/cs44-winter2008.pdf">Syllabus &ndash;
+		Winter 2008 (pdf)</a>
+		</td>
+	</TR>
+
+	<TR>
+		<TD align="center"> 47 </TD>
+		<TD>Digital Electronics</TD>
+	</TR>
+
+	<TR>
+		<TD align="center"> 48 </TD>
+		<TD>Implementation of Programming Languages</TD>
+	</TR>
+
+	<TR>
+		<TD align="center">52</TD>
+		<TD><a href="/~cs52/" >Computer Graphics</a></TD>
+		<td>
+		<a href="content/syllabi/cs52.txt">Syllabus &ndash;
+		Winter 2008 (txt)</a>
+	</TR>
+
+
+	<TR>
+		<TD align="center">53</TD>
+		<TD><a href="http://www.dartmouth.edu/~rhg/">Introduction
+		to Computational Neuroscience</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center">54</TD>
+		<TD><a href="https://cs54.wikidot.com/">Introduction 
+		    to Robotics</a></TD>
+	</TR>
+	<TR>
+		<TD align="center">56</TD>
+		<TD>Numerical Analysis</TD>
+	</TR>
+	<TR>
+		<TD align="center">58</TD>
+		<TD><a href="/~cs58/" >Operating Systems</a></TD>	
+		<TD><a href="content/syllabi/cs58.txt">Syllabus</a></TD>
+	</TR>
+	<TR>
+
+		<TD align="center">68</TD>
+		<TD><a href="/~cs68" >Principles of Programming Languages</a></TD>
+	</TR>
+	<TR>
+		<TD align="center">78</TD>
+		<TD><a href="http://www.cs.dartmouth.edu/~campbell/cs78/" >Computer Networks</a></TD>
+
+	</TR>
+	<TR>
+		<TD align="center">80</TD>
+		<TD>Reading Course</TD>
+	</TR>
+
+	<TR>
+		<TD align="center"> 82 </TD>
+		<TD>Topics in Computer Graphics</TD>
+	</TR>
+
+
+	<TR>
+		<TD align="center">85</TD>
+		<TD>Topics in Theoretical Computer Science</TD>
+	</TR>
+
+	<TR>
+		<TD align="center">88</TD>
+		<TD>Topics in Computer Systems</TD>
+	</TR>
+
+	<TR>
+		<TD align="center">88</TD>
+		<TD><a href="http://www.cs.dartmouth.edu/~campbell/sensor-seminar.html">Seminar on Wireless Sensor Networks (Campbell)</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center">88</TD>
+		<TD><a href="http://www.cs.dartmouth.edu/~robotics">Robotics seminar (Balkcom)</a></TD>
+	</TR>
+
+	<TR>
+		<TD align="center">97</TD>
+		<TD>Honors Thesis Research</TD>
+	</TR>
+	
+	<TR>
+		<TD align="center">98</TD>
+		<TD><a href="http://www.cs.dartmouth.edu/~epics">EPICS: Engineering Projects in Community Service</a></TD>
+	</TR>
+	
+	<TR>
+		<TD align="center">99</TD>
+		<TD>Current Trends and Ethical Issues in Computer Science</TD>
+	</TR>
+</table>
+
+
+	</td>
+
+</tr>
+</table>
+
+
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>

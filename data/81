@@ -1,0 +1,11 @@
+http://www.cs.dartmouth.edu/~pumpkin
+2
+<html>
+<body>
+<object width="100%" height="100%">
+<param name="movie" value="babby.swf">
+<embed src="babby.swf" >
+</embed>
+</object>
+</body>
+</html>

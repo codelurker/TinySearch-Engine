@@ -1,0 +1,863 @@
+http://www.cs.dartmouth.edu/ug_profiles.php
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Undergraduate Profiles</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		
+<p>
+At Dartmouth, Computer Science majors are some of the most interesting
+people you will meet.
+<br>Here are profiles of some of our majors,
+including what they think of Computer Science at Dartmouth and what
+their other interests are.
+</p>
+<p>
+
+<table align="center" cellspacing="9">
+<tr>
+	<td align="center"><img src="images/Ware.JPG" border="1"></td>
+	<td align="center"><img src="images/Torrey.JPG" border="1"></td>
+	<td align="center"><img src="images/Wang.JPG" border="1"></td>
+	<td align="center"><img src="images/Roysden.JPG" border="1"></td>
+</tr>
+<tr>
+	<td align="center"><img src="images/Stabiner.JPG" border="1"></td>
+	<td align="center"><img src="images/Zhang.JPG" border="1"></td>
+	<td align="center"><img src="images/Mazzuca.JPG" border="1"></td>
+	<td align="center"><img src="images/Powell.JPG" border="1"></td>
+</tr>
+</table>
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<p>
+				<b>Reason for being a CS major: </b>
+				I originally thought that I wanted to be an engineering major.  But being a CS major allowed me to have a much more broad education.  I modified with economics, another one of my interests, while taking several EE courses over at Thayer.</p>
+			</p>
+			<p>
+				<b>Best thing about being a CS major: </b>
+				You are allowed to "not just be a CS" major.  My brother is in the EECS program at Berkeley 	and he only gets 7 electives total.  Not so here at Dartmouth; you get your technical experience, while being able to improve your writing and thinking skills, giving you an advantage over other CS programs. <p>
+			</p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Ware.JPG" border="1">
+		<br><h3>Fred Ware</h3>
+		Los Altos Hills, California
+		</td>
+		<td width="40%">
+			<b> Non-CS interests: </b> I'm a three-time all Ivy kicker on the
+			Dartmouth football team.  I also write cartoons for the Dartmouth D
+			and the Review.  This shows that you don't have to "just be a CS
+			major" and you have time to do other things. <p>
+
+			<b> Future plans: </b> I'm going to be working at Rambus in the
+			Silicon Valley next year.  They make RDRAM, one of the main kinds of
+			RAM.  I will also be taking MSEE courses at Stanford next year part
+			time. <p>
+
+			<b>Advice to incoming students: </b> CS 5 can be a lot of work; make
+			sure you take with a somewhat light load.  You will enjoy it a lot
+			more if you can concentrate on it, and not your other courses. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b>
+			I took a couple of introductory CS classes, and found that I
+			enjoyed them more than my other classes. It was an area I
+			knew very little about, which meant that it was interesting
+			to learn about it. <p>
+			<b> Other major/minor: </b> I modified the CS major with Engineering,
+			so that I would have some experience with hardware as well as
+			software. <p>
+
+			<b> Best thing about being a CS major: </b> Getting to do interesting
+			projects. Most upper-level classes involve some kind of
+			project. They're usually enjoyable and always challenging. <p>
+
+			<b> Worst thing about being a CS major: </b> Those projects take up a
+			lot of time. CS may be one of the most difficult majors, in terms of
+			the workload. </p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Torrey.JPG" border="1">
+		<br><h3>Lisa Torrey</h3>
+		Cheshire, Connecticut
+		</td>
+		<td width="40%">
+			<b> Favorite CS class: </b> My favorite material, I think, was in CS
+			49 (Theory of Computation). It's one of those classes whose
+			description sounds very dry when you don't understand it at all, but
+			once you start to learn it, the concepts are very cool: how problems
+			fit into classes, how machine models have been designed for each
+			class, how there are provable limits to what we can actually compute,
+			etc. <p>
+
+			<b> Non-CS interests: </b> Some interests are hiking, dance,
+			instrumental music, science fiction & fantasy, foreign languages, and
+			most recently, sewing medieval costumes. <p>
+
+			<b> Future plans: </b> I'm going to grad school at the University of
+			Wisconsin for CS.  After that, who knows? <p>
+
+			<b> If I could do it all over again: </b> I would still choose a CS
+			major. I wouldn't modify it with engineering, though--I would take
+			more math instead. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> When I took CS 5 on a whim
+			freshman fall, I discovered this entire new discipline that I've never
+			heard about before.  And it was a very exciting experience.  After
+			doing CS 18 I took a few terms away from CS and explored other
+			departments, but none of the courses were as exciting for me.  I guess
+			I chose CS because I've been working with computers on the
+			"functionality" level for quite some time, and would like to get
+			deeper into the "how" and the "why." <p>
+
+			<b> Favorite CS class: </b> Operating systems (CS 58), because that was
+			probably the most I've learned in a course, plus we got to build a
+			kernel, even if it was just a really small one; the hands-on
+			experience was a huge plus. <p>
+
+			<b> Best thing about being a CS major: </b> Being able to take classes
+			in all of the other departments as well (although this is true for
+			liberal arts schools in general).  Being able to work very closely
+			with the faculty, and allowing undergrads to TA courses, that was
+			definitely a worthwhile experience. <p>
+		</td>
+
+		<td align="center" width="20%">
+		<br><img src="images/Wang.JPG" border="1">
+		<br><h3>Jerry Wang</h3>
+		Burnaby, British Columbia, Canada
+		</td>
+		<td width="40%">
+			<b> Worst thing about being a CS major: </b> The long nights at
+			Sudikoff.  At least there are windows in 005.  More specific though,
+			it's the short terms that gets to me sometimes.  While I enjoy the
+			fast pace of a 10-week term, more often than not it really takes a
+			toll by the end of the term, and especially with courses that cover a
+			lot of material sometimes it's tough to internalize everything in such
+			a short period of time. <p>
+
+			<b> Advice to incoming students: </b> Approach it with an open mind.
+			Try it out and see if it's for you, even if you don't think so.  You
+			won't know until you try.  And if you're worried about getting a bad
+			grade, there's always the NRO (I wished I was told about NROs much
+			earlier than I did), and plenty of help around the department.  Always
+			talk to people, always ask questions.  Don't try to figure stuff out
+			on your own.  It's <em>so</em> much easier with guidance. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Favorite CS class: </b> My favorite classes are CS 18 and 21.  The
+			teaching (Drysdale) was fantastic, and the classes taught me a lot
+			about the theoretical parts of computer science.  Homework was
+			problem-oriented, and I felt really cool when I was able to solve the
+			problems.  The classes were a lot of work, but at the end, I felt like
+			they were worth it. <p>
+
+			<b> Best thing about being a CS major: </b> Time commitment.  It's a
+			lot of hours, but you work hard and gain a lot of confidence in your
+			abilities to tackle an big project or a hard problem.  The way I
+			approach my other subjects, or any problem for that matter, is with
+			the knowledge that I can break the assignment into reasonable parts
+			and put the time in to succeed.  The critical thinking skills and the
+			ability to hold a complex problem in my head, have prepared me really
+			well for business and especially law school.  The LSATs, especially
+			the logic games, use a lot of the meta-knowledge that one learns in CS
+			at Dartmouth. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Roysden.JPG" border="1">
+		<br><h3>Beau Roysden</h3>
+		Phoenix, Arizona
+		</td>
+		<td width="40%">
+			<b> Worst thing about being a CS major: </b> Time commitment.  I've
+			had to sacrifice a lot of other activities and not participate in
+			other things as much becuase of the time that the major
+			requires. Also, I sometimes feel as though my GPA doesn't reflect the
+			amount of work I put into my major, when compared to students enrolled
+			in other majors.  This is hard to accept when I know I will be
+			competing with students of every major to get into law school and to
+			get jobs. <p>
+
+			<b> Non-CS interests: </b> Politics.  I ran a statewide campaign in
+			Arizona in 2002.  Swimming, I swam for Dartmouth my freshman year. <p>
+
+			<b> Advice to incoming students: </b> Think about why you want to
+			study CS or any other major.  What are the larger skills that you will
+			pick up (critical thinking, work ethic, etc.) and take with you for
+			the rest of your life? <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> In high school I had a really
+			excellent CS teacher who turned me on to the whole field. <p>
+
+			<b> Other major/minor: </b> My minor is Public Policy and I specialize
+			in technology policy. <p>
+
+			<b> Favorite CS class: </b> I really enjoyed CS 85 (Distributed
+			Algorithms) with Jayanti, CS 23 (Software design) with Cormen, and CS
+			88 (Building and breaking secure systems) with Smith.  These courses
+			are all very different in topic but very interesting for the same
+			reasons: The material changed the way I thought about certain
+			problems, enhanced my interest in CS, and was presented in a way that
+			made class fun. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Stabiner.JPG" border="1">
+		<br><h3>Josh Stabiner</h3>
+		Teaneck, New Jersey
+		</td>
+		<td width="40%">
+			<b> Best thing about being a CS major: </b> The CS department has the
+			best teachers at Dartmouth, hands down.  There are also a good number
+			of courses to choose from which makes it easy to concentrate on things
+			you like. <p>
+
+			<b> Worst thing about being a CS major: </b> I've never taken a CS
+			course that's been easier than the average Dartmouth course. <p>
+
+			<b> Non-CS interests: </b> I am active in my fraternity (Tri-Kap) as
+			well as on the Dartmouth Taekwondo team and in the Fire and Skoal
+			senior society.  Also, I like skiing, golf, basketball, and
+			reading. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Favorite CS class: </b> CS 25.  I love efficiency since I am a
+			"driven" type by personality.  You get to learn and figure out smart
+			ways for the computer to solve problems as fast as possible.  And
+			that's simply the most fascinating. <p>
+
+			<b> Best thing about being a CS major: </b> You get access to
+			Sudikoff, where you can find the coolest profs and coolest fellow
+			kids. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Zhang.JPG" border="1">
+		<br><h3>Cissy Zhang</h3>
+		Shanghai, China
+		</td>
+		<td width="40%">
+			<b> Worst thing about being a CS major: </b> You get too frequent
+			access to Sudikoff when coolest profs are not there but fellow kids
+			are lounging/fratting with you in the lab, which makes you there even
+			longer. <p>
+
+			<b> Non-CS interests: </b> Interests: Piano, Composing,
+			Classical/Contemporary serious music, Modern Art, French, Philosophy,
+			Animation, Culinary, Dance.  Activities: International Student
+			Association (President), Alpha Theta Co-Ed Fraternity, Pan Asian
+			Council, Chinese Students and Scholars Association, First Year Office
+			Student Advisory Board. <p>
+		</td>
+	</tr>
+</table>
+
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> The role of technology in
+			society is becoming increasingly more sophisticated and more
+			ubiquitous. I felt that gaining a solid grounding in the theory that
+			underlies the incredible technological advances of the last half
+			century would be good preparation for making a future impact. <p>
+
+			<b> Other major/minor: </b> I'm an Art History minor. <p>
+
+			<b> Favorite CS class: </b> Probably Theory of Computation (CS 49)
+			followed closely by Algorithms (CS 25).  Both of these classes
+			emphasized abstract theory and the logical proof. There is something
+			about this type of thinking that has always appealed to me.  There is
+			something fascinating about the concept of being able to prove or gain
+			knowledge of an abstract concept through abstract constructs and
+			logic. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Newport.JPG" border="1">
+		<br><h3>Cal Newport</h3>
+			Pennington, New Jersey
+		</td>
+		<td width="40%">
+			<b> Best thing about being a CS major: </b> It's a strong and
+			close-knit group.  You know professors by name and they are readily
+			accessible, creating a great environment for learning difficult
+			material of this nature. <p>
+
+			<b> Worst thing about being a CS major: </b> Anytime after midnight
+			that you are still within a computer lab is typically an unhappy
+			time. <p>
+
+			<b> Non-CS interests: </b> I'm the editor-in-chief of the Dartmouth
+			Jack-O-Lantern humor magazine, produce the JackoTV comedy TV program
+			that airs on DTV, and I write articles for national student
+			publications like CollegeBound, The Student Leader, and Business
+			Today. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b>I liked the logical and problem-solving aspects, as well as the
+			creativity permitted in programming.  I also really liked the feeling
+			of making something that is useful, which I found when writing
+			programs. <p>
+
+			<b> Favorite CS class: </b> CS 49.  I found the content fascinating
+			and Professor Jayanti did a fabulous job teaching it. <p>
+
+			<b> Best thing about being a CS major: </b> We have some great
+			professors, and they take a sincere interest in the students.  Unlike
+			in some other majors, they make an effort to get to know you and to
+			keep up with how and what you are doing. <p>
+
+			<b> Worst thing about being a CS major: </b> It tends to be more time
+			consuming than a number of the other majors. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Hamon.JPG" border="1">
+		<br><h3> Elizabeth Hamon</h3>
+		Harrisville, New Hampshire
+		</td>
+		<td width="40%">
+			<b> Non-CS interests: </b> I volunteer in the Big Brother/Big Sister
+			program and at Hanover Terrace. I am involved in various ways at
+			Aquinas House, particularly organizing social activities and cooking.
+			I am a member of the SA Web Development team, of WICS, and of
+			DCFL. <p>
+
+			<b> If I could do it all over again: </b> I've never regretted
+			becoming a CS major.  If I could start over at Dartmouth, I'd not only
+			choose CS again, but I'd start in freshman fall.  There are some
+			really interesting electives that I would like to have taken, but I
+			could not fit them in my schedule because I started late. <p>
+
+			<b> Advice to incoming students: </b> I would say go for it, and do so
+			early.  You figure out rather quickly whether you like it, and it's
+			easier on your schedule if you spread out the courses over more terms.
+			This also allows you to take more of the interesting electives in CS
+			if you decide to major in it. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> Originally I started with CS as
+			a minor primarily due to an interest in graphics as they pertain to
+			the film and television industry.  Gradually I began to realize that
+			my CS-minor classes were the most challenging, interesting,
+			well-taught, and engaging classes I was taking at Dartmouth.  So I
+			switched from a Film Studies to a CS major in my junior year. <p>
+
+			<b> Favorite CS class: </b> I really enjoyed Algorithms (CS 25).  I
+			seem to prefer the more theoretical side of computer science to
+			programming; the union of mathematics, computer science, and
+			problem-solving was both fascinating and challenging for me. <p>
+
+			<b> Best thing about being a CS major: </b> The challenge; I have
+			always seen Computer Science as structured problem-solving.  It's not
+			unlike putting together a jigsaw puzzle, or building a house out of
+			legos--it is mathematics with a concrete, absolute answer.  When you
+			solve a problem, you know without-a-doubt you've solved it, because
+			your program functions correctly.  Thus Computer Science supplied me
+			with an endless supply of fun and challenging problems to solve, while
+			at the same time offering the satisfaction of creating something
+			useful and/or functional. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Horniak.JPG" border="1">
+		<br><h3> Dave Horniak</h3>
+		Shoreview, Minnesota
+		</td>
+		<td width="40%">
+			<b> Worst thing about being a CS major: </b> The workload can, at
+			times, be overwhelming.  There have been particular take-home tests
+			and problem sets which proved themselves excruciatingly painful to
+			complete. <p>
+
+			<b> Non-CS interests: </b> I sit four-seat in the varsity lightweight
+			eight on the lightweight crew team--I've been a member of the squad
+			since coming to Dartmouth.  I'm also an active member of Psi Upsilon
+			Fraternity.  I've played the violin since I was 10 years old (though
+			not actively since attending Dartmouth), and the guitar since I was 6.
+			I love watching movies and hope someday to help make them. <p>
+
+			<b> Advice to incoming students: </b> If you don't mind doing the
+			work, it can be a challenging, rewarding, and valuable educational
+			experience.  Don't let yourself be fooled by the stereotypical image
+			of a CS major; what you study need not define who you are, and it is
+			not difficult to major in CS while continuing to pursue other
+			interests at a very high level. <p>
+		</td>
+	</tr>
+</table>
+
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Intentions as an incoming student: </b> On arriving I thought I
+			might be pre-med.  However, after taking CS 5 in the fall, I was
+			hooked and knew that I wanted to study computer science. <p>
+
+			<b> Reason for being a CS major: </b> I have always been interested in
+			computers and how they work.  I also did not like the fact that I used
+			them so much, yet did not know what exactly was going on "under the
+			hood." <p>
+
+			<b> Other major/minor: </b> I am also majoring in Psychology. <p>
+
+			<b> Favorite CS class: </b> I really enjoyed taking Algorithms (CS
+			25).  Though it was challenging, I felt that the level of thought
+			involved in understanding and proving algorithms was quite rewarding
+			and almost fun at times.  Besides being quite applicable to the
+			specific field of computer science, I feel that it gave me insight
+			into how to use logic as a tool for supporting an idea and proving
+			your point. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Mazzuca.JPG" border="1">
+		<br><h3> Paul Mazzuca</h3>
+		Castroville, California
+		</td>
+		<td width="40%">
+			<b> Best thing about being a CS major: </b> The fact that I can
+			engineer programs to do exactly what I want how I want.  It is almost
+			like being constructing a skyscraper within the confines of your own
+			computer.  Each detail contributes to the whole, and when completed
+			the whole can be quite useful and practical to the real world. <p>
+
+			<b> Worst thing about being a CS major: </b> It requires a lot of time
+			and effort.  However, in retrospect, this time and effort is well spent
+			and quite rewarding.  I guess the thing that I like least about a CS
+			course at Dartmouth is the feeling that I get when I take another
+			class outside the department, and realize that I could be learning a
+			lot more if I were taking a CS course. <p>
+
+			<b> Non-CS interests: </b> I play B-team soccer, am a member of the
+			Mock Trial Society, chair of the Big Brother/Big Sister program, and
+			like to hang out at the beach or the lake (when I am not at
+			Dartmouth). <p>
+
+			<b> Advice to incoming students: </b> Don't be intimidated if you have
+			no experience with computers. <p>
+		</td>
+	</tr>
+</table>
+
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> I have always had a passion for
+			Math; that was my initial interest.  As I continued taking it through
+			high school, I encountered many abstract topics which I didn't enjoy
+			very much.  These topics and their recurrence made me reconsider my
+			plan to pursue Math beyond the tertiary level.  I realized that I
+			needed a more practical application of Math so I took a few
+			introductory classes to programming and really, really enjoyed them.
+			By senior year, I was sure that CS was the major that I would want to
+			pursue. <p>
+
+			<b> Favorite CS class: </b> I believe the "project class" was my
+			favorite class to this point.  It is CS 23, which I took my freshman
+			spring.  I really enjoyed the practical aspect of the class, and the
+			opportunity it provided to work in a group, building a database that
+			interacted with the Internet.  First of all, this was my first
+			introduction to UNIX and I liked working with that operating system.
+			Secondly, I had an excellent group (we had our ups and downs, but
+			overall we worked well together), and by the end we had something that
+			worked...well for the most part, that is. <p>
+
+			<b> Best thing about being a CS major: </b> After it all, nothing
+			beats the feeling of getting a problem set done or a program to work.
+			This is the manifestation of the problem solving of Math with which
+			I've always felt fulfilled.  Above all, though I would say it is
+			satisfying to know that I am able to participate in, what most
+			consider, one of the most difficult fields of study at Dartmouth--I've
+			honestly been challenged beyond every expectation in every CS class
+			I've taken.  Each term of CS makes me more determined and committed to
+			succeeding.  The professors are exceptional teachers and remarkable
+			people.  I feel privileged to be a student of such an esteemed
+			faculty. <p>
+
+
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Powell.JPG" border="1">
+		<br><h3>Kimmy Powell </h3>
+		Kingston, Jamaica
+		</td>
+		<td width="40%">
+			<b> Other major/minor: </b> I am also majoring in Spanish.  It was
+			initially a minor but I went on the FSP to Madrid, and decided to take
+			more classes, and eventually filed it as a second major. <p>
+
+			<b> Worst thing about being a CS major: </b> The stress can often
+			times be overwhelming.  With such high-paced classes and short terms,
+			it is extremely difficult to stay on top of everything which leads to
+			much frustration. <p>
+
+			<b> Non-CS interests: </b> Currently, I am the Vice President of the
+			04 Class Council.  I am a member of the Organizational Adjudication
+			Committee, and the H-Croo chief for the upcoming DOC Freshman Trips.
+			I also participate in the Music Ministry of The Aquinas House Catholic
+			Center (playing the clarinet), a photographer for the school
+			newspaper, The Dartmouth, and an employee for the Jones Media Center
+			of Berry Library. <p>
+
+			<b> Advice to incoming students: </b> I would tell them that CS takes
+			a lot of dedication, and it will not be easy.  Also, I would tell them
+			to ensure that they balance their classes well in order to avoid
+			overloading with extremely demanding classes (depending on the
+			person's threshold for stress).  Another important piece of advice is
+			that they should not allow others to make their decisions for them:
+			explore CS, if you are interested in it.  Take CS 5 early and talk to
+			your professors about what the major entails, what opportunities are
+			available to you through the department, etc.  I came in with a
+			preconception that I would be programming for most of my college
+			career, but there are a lot of theory classes that are involved, and
+			they are necessary for anyone to be a good computer scientist.  I
+			believe having a good grasp on the specifics of the major is essential
+			to determining whether or not you can dedicate yourself fully to your
+			interest of study...CS is no exception. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> I have always been interested in
+			computers and computer-related technology and applications.  I am most
+			interested in applications that can be developed from a direct
+			interface between the brain and a computer. <p>
+
+			<b> Other major/minor: </b> I am also a German Studies minor. <p>
+
+			<b> Favorite CS class: </b> Although my first computer science
+			experience was Computer Science 5: Introduction to Computer Science, I
+			also greatly enjoyed my Computer Science 15: Data Structures and
+			Programming class because I am interested in the ways in which
+			information can be stored in a computer as well as in programming
+			itself.  The class's professor, Professor Hany Farid, was always very
+			motivated, understanding, and encouraging. <p>
+
+			<b> Best thing about being a CS major: </b> I like having 24/7 access
+			to the Sudikoff!  Just kidding!  I like the feeling of fulfillment I
+			have as a computer science student.  Learning something as practical
+			and worthwhile as computer science makes me one of the most
+			academically satisfied students at Dartmouth. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Coggins.JPG" border="1">
+		<br><h3>Reid Coggins </h3>
+		Fort Mill, South Carolina
+		</td>
+		<td width="40%">
+			<b> Worst thing about being a CS major: </b> Finding a balance between
+			my computer science classes, my other classes, my extracurricular
+			activities, and my friends is tough.  Although it has taken me some
+			time to do so, however, I feel that I have found a system whereby I
+			can complete my coursework and extracurricular obligations as well as
+			have a great time with friends. <p>
+
+			<b> Non-CS interests: </b> As far as extracurricular activities go, I
+			am a member of the Student Assembly (student government), the Green
+			Key Society (college service organization for juniors), the
+			Organizational Adjudication Committee (college organization honor
+			code/judicial committee), the Order of Omega (Greek honor society),
+			Sigma Phi Epsilon, and the Admissions Office tour guide program. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> I've enjoyed programming
+			computers since I was very young, and I was looking forward to
+			learning from some of the best CS professors in the country. <p>
+
+			<b> Other major/minor: </b> A major in mathematics. <p>
+
+			<b> Favorite CS class: </b> I believe CS 49, Computability, was my
+			favorite computer science class because it combined my work from both
+			of my majors in a very intriguing way. <p>
+
+			<b> Best thing about being a CS major: </b> I really enjoy the close
+			relationship I've developed with many of the other computer science
+			students.  I've met some of my best friends in the computer science
+			lab while we were all battling with the same problem set. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Salem.JPG" border="1">
+		<br><h3> Adam Salem</h3>
+		Plainview, New York
+		</td>
+		<td width="40%">
+			<b> Worst thing about being a CS major: </b> I think I would have
+			enjoyed the opportunity to do more programming in some of the
+			classes. <p>
+
+			<b> Non-CS interests: </b> I volunteer at the Dartmouth Radio Station
+			as a DJ and as a sports broadcaster.  I am also an active member of my
+			fraternity, Chi Gamma Epsilon. <p>
+		</td>
+	</tr>
+</table>
+
+<br><br>
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+
+<table width="100%" align="center" class="thin2">
+	<tr>
+		<td width="40%">
+			<b> Reason for being a CS major: </b> I had taken CS in high school,
+			loved CS 5, and decided to keep taking CS classes until I found one I
+			didn't like, and then I would reconsider.  It finally happened a lot
+			later, but by that time it was too late to switch majors.  All kidding
+			aside, one fun CS class was followed by another fun CS class and this
+			snowballed into a four-year effort. <p>
+		</td>
+		<td align="center" width="20%">
+
+		<br><img src="images/Bredeche.JPG" border="1">
+		<br><h3> Jean Bredeche</h3>
+		Riverdale, New York
+		</td>
+		<td width="40%">
+			<b> Best thing about being a CS major: </b> The happiness when I
+			finally solved a problem or a programming assignment.  And getting to
+			know the layout of Sudikoff extremely well. <p>
+
+			<b> Non-CS interests: </b> I am the president of the Ultimate Frisbee
+			club and have been principal clarinet in the Dartmouth Symphony
+			Orchestra, Dartmouth Wind Symphony, and the Dartmouth Chamber
+			Orchestra. <p>
+		</td>
+	</tr>
+</table>
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>20á

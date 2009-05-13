@@ -1,0 +1,391 @@
+http://www.cs.dartmouth.edu/~cs5/install/eclipse-osx.html
+3
+<html> <head>
+<title>Installing Java 5.0 and Eclipse on Mac OS X</title>
+</head>
+
+<body bgcolor=#ffffff>
+<h1>Installing Java 5.0 and Eclipse on Mac OS X</h1>
+
+This page tells you how to download Java 5.0 and Eclipse for Mac OS X.
+If you need help, Blitz <a
+href="mailto:cs5help@cs.dartmouth.edu">cs5help@cs.dartmouth.edu</a>.
+
+<p>
+
+<strong>You must be running Mac OS 10.4 or later (i.e.,
+Tiger or Leopard).</strong> To determine which version of the Mac OS you are
+running, click on the blue apple at the very upper left of your
+screen, and select "About This Mac".  A window will pop up, and it
+will tell you which version of Mac OS you are running.  If you are running 10.5, you may be able 
+to skip the Java installation step.  
+
+<p>
+
+Note: You'll see throughout the websites references to "Java 5.0",
+"Java 1.5", and "Java 1.5.0".  However, all of them refer to the same
+version of Java.  Blame Sun's marketing people.  We consider them all
+the same, and we'll call them all "Java 5.0".  
+
+<p>
+
+<h2>Downloading and installing Java 5.0</h2>
+
+<ul>
+
+  <li>  
+       If you are running Mac OS X version 10.5, go to  
+       <a href="http://www.apple.com/support/downloads/javaformacosx105update2.html">this link</a>. Where it says "File size: 136.4.7MB," click on the "136.4MB" to
+       download the file.
+
+    
+      <li>  
+       If you are running Mac OS X version 10.4, go to  
+       <a href="http://www.apple.com/support/downloads/javaformacosx104release7.html">this link</a>. 
+       
+       Where it says "File size: 79.7MB," click on the "79.7MB" to
+       download the file.
+  
+       
+  <li> After downloading, Apple will present you a dialog (i.e., a
+       series of popup windows) that take you through the build process.  You
+       should be able to take the default choice ("Continue," "OK," "Agree,"
+       "Close," "Upgrade," etc.) for all options.
+       
+       <p>
+
+       You may be asked to authenticate before continuing.  This will
+       depend on how your preferences are set.  Type in your password
+       as you would if you were logging in on your computer.  Don't
+       worry!  This is just so that your computer knows you really
+       have the authority to install something on it!
+
+       <p>
+
+       If you don't automatically get the dialog, then double-click on
+       the "JavaForMacOSX10.4Release7.dmg" icon, and you should see a disk icon
+       named "Java for Mac OS X 10.4, Release 7".
+       Open that by double-clicking
+       if it's not already open, and then double-click on
+       "JavaForMacOSX10.4Release7.pkg".  At that point, you'll get the dialog.
+
+  <li> When it says "Select a destination volume", choose your hard drive.
+
+  <li> There should now be two files on your desktop or download area starting with "J2SE".
+       Feel free to delete these after finishing the installation.
+       You can always download them again later if you need to.
+
+  <li> If at any point, you see a message such as "This volume contains
+       a newer version of Java" you can just click on the Close button.
+       It means that you already had the version of Java that you need!
+       
+</ul>
+
+<h2>Downloading and installing Eclipse</h2>
+
+<ul>
+     <li> Click this 
+       <a href="eclipse-SDK-3.4.2-macosx-carbon.tar.gz">
+       link</a> to download the file eclipse-SDK-3.4.2-macosx-carbon.tar.gz.
+
+
+  <li> After finishing the download, you may be prompted with a warning
+       that the file may contain an application.  Ignore this warning and
+       continue by clicking "Download".  The Mac will then decompress
+       the downloaded file automatically.  If it does not, then just
+       double-click on the downloaded file (whose name ends with
+       ".gz"). You should now have a folder named "eclipse" on
+       your desktop.
+
+  <li> Now, you need to move the eclipse folder to your Applications
+       directory.  Double-click on your hard drive, and within that, double
+       click on the "Applications" folder.  Drag your eclipse folder from the
+       Desktop into this folder.
+
+  <li> Inside your eclipse folder is an Eclipse application; its icon is
+       a purple circle with three white stripes.
+       <p>
+       <CENTER>
+       <img src="EclipseFolderMac.jpg">
+       </CENTER>
+       <p>
+
+       Click on this icon to run Eclipse.
+     
+  <li> (Optional, but highly recommended.) Drag the Eclipse icon to the
+       Dock.  Click on it there to run Eclipse.  If you don't drag your Eclipse
+       icon to the Dock, then you'll have to double-click on it in your
+       Applications folder each time you want to run Eclipse.  It's much
+       easier from the Dock.  You can always remove Eclipse from the Dock
+       later on (as in, after this course is over).
+
+</ul>
+
+<h2>Configuring Eclipse</h2>
+
+<ul>
+  <li> Run Eclipse.
+     
+  <li> It asks you to select a workspace.  By default, this will be
+       a folder named "workspace" in
+       your home directory.  For example, on my Mac the default
+       is /Users/scot/workspace.
+
+       I recommend that you put your workspace in your Documents folder.
+       If you click before "/workspace" and enter "/Documents" (so
+       on my Mac it becomes "/Users/scot/Documents/workspace") you will
+       get this.
+
+       If you don't want to see this message every time you start up Eclipse,
+       before clicking "OK," check "Use this as the default
+       and do not ask again."
+
+       <p>
+       <center>
+       <img src="WSMac.jpg">
+       </center>
+       <p>
+
+  <li> The first time you launch Eclipse, you'll probably see this startup
+       window.  Click on the arrow symbol toward the right:
+       
+       <p>
+       <center>
+       <img src="EclipseStartupWindow.gif">
+       </center>
+       <p>
+
+       Don't worry if you don't see this startup window.
+       You shouldn't see it again after the first time.
+
+  <li> You'll see a window with various buttons and panes, but nothing
+       of consequence in it:
+              
+       <p>
+       <center>
+       <img src="EclipseEmptyProject.jpg">
+       </center>
+       <p>
+     
+<!--   <li> In the Eclipse menu bar, click on Window->Preferences...  This -->
+<!--        will bring up a window with two panes.  On the left is a list of -->
+<!--        things you can configure. -->
+
+<!--   <li> Click on the triangle to the left of "Java" to open up the list -->
+<!--        of Java configuration options.  Click on "Compiler" (click the word, -->
+<!--        not the triangle next to it).  On the right is a list of Java Compiler -->
+<!--        options. -->
+
+<!--        <p> -->
+<!--        <CENTER> -->
+<!--        <img src="CompilerPrefsWindow.jpg"> -->
+<!--        </CENTER> -->
+
+<!--        Change the "Compiler compliance level" to 5.0, and click "OK." -->
+     
+<!-- <\!--   <li> You should get a message at the bottom of the screen that states -\-> -->
+<!-- <\!--        "When selecting 5.0 compliance, make sure to have a 5.0 GRE installed -\-> -->
+<!-- <\!--        and activated.  Configure..." Click on "Configure..."  This takes you -\-> -->
+<!-- <\!--        to a list of JREs. -\-> -->
+
+<!-- <\!--        <ul> -\-> -->
+
+<!-- <\!-- 	 <li> If there is one for JVM 1.5, select it. -\-> -->
+
+<!-- <\!-- 	 <li> Otherwise, Click "Add..."  to add a new JRE.  For the -\-> -->
+<!-- <\!-- 	      JRE name, use "JVM 1.5".  For the JRE home directory, browse to find -\-> -->
+<!-- <\!-- 	      the home directory of the JRE you just installed.  By default, mine -\-> -->
+<!-- <\!-- 	      installed to -\-> -->
+<!-- <\!-- 	      "System/Library/Frameworks/JavaVM.Frameworks/Versions/1.5/Home". -\-> -->
+
+<!-- <\!-- 	 <li> After making the above changes, Eclipse will ask if you want to -\-> -->
+<!-- <\!-- 	      do a full rebuild.  Click "Yes". -\-> -->
+
+<!-- <\!--        </ul> -\-> -->
+
+<!--        <li> You will be asked whether to do a full rebuild.  Click "Yes." -->
+
+</ul>
+
+Congratulations.  You have installed Java 5.0 and Eclipse, and you
+have configured Eclipse!
+
+<h2>Configuring Eclipse to make it like mine</h2>
+
+You may want to make your version of Eclipse look like mine, so that what you see
+in class is what appears on your screen.  Do the
+following.
+
+<ul>
+     
+  <li> In the Eclipse menu bar, click on Eclipse and then on
+       Preferences...  This
+       will bring up a window with two panes.  On the left is a list of
+       things you can configure.
+
+  <li> Click on the triangle to the left of "General."  Then click on
+       the triangle to the left of "Appearance."  Then click on
+       "Colors and Fonts."  You should see a window like this:
+                                   
+       <p>
+       <center>
+       <img src="ColorsAndFonts1.jpg">
+       </center>
+       <p>
+
+  <li> In the scrollable window in the middle, click on the triangle
+       next to "Java."  Then scroll down within that window and
+       <em>double-click</em> on "Java Editor Text Font."
+                                   
+       <p>
+       <center>
+       <img src="ColorsAndFonts2.jpg">
+       </center>
+       <p>
+
+       As you can see, there's some text following "Java Editor Text Font."
+       Don't worry about it.
+
+  <li> The following window will pop up:
+                                   
+       <p>
+       <center>
+       <img src="ColorsAndFonts3.jpg">
+       </center>
+       <p>
+
+       On the right, where you can select the size, click "12".
+       Then close this window by clicking on the window's close button.
+
+  <li> Close up the "General" preferences by clicking on the triangle to
+       the left of "General."  Click the triangle next to "Java" and
+       then click the triangle next to "Code Style."
+       Then click "Formatter."  Here's what you should see:
+                                   
+       <p>
+       <center>
+       <img src="Formatter1.jpg">
+       </center>
+       <p>
+
+  <li> Click the button that says "New..."  You'll see a window such
+       as this one:
+                                   
+       <p>
+       <center>
+       <img src="Formatter2.jpg">
+       </center>
+       <p>
+
+       You can type in any profile name you like.  I used "CS 5":
+                                   
+       <p>
+       <center>
+       <img src="Formatter2a.jpg">
+       </center>
+       <p>
+
+       Then click "OK."
+
+  <li> You should see a window that looks like this:
+                                   
+       <p>
+       <center>
+       <img src="Formatter3.jpg">
+       </center>
+       <p>
+
+       Change the Tab size to 2:
+                                          
+       <p>
+       <center>
+       <img src="Formatter4.jpg">
+       </center>
+       <p>
+
+       You'll see that the Indentation size automatically changes as well.
+
+  <li> Click on "Blank Lines," (in the menu bar across the top of the page)
+        and after "Between import groups" and
+       "Before declarations of the same kind," change the values
+       1 to 0:
+                                          
+       <p>
+       <center>
+       <img src="Formatter5.jpg">
+       </center>
+       <p>
+
+  <li> Click on "Control Statements," and check the boxes as I've done
+       here:
+                                          
+       <p>
+       <center>
+       <img src="Formatter6.jpg">
+       </center>
+       <p>
+
+       Click "OK."
+
+  <li> Now click on triangles to close up "Java."  Click on the
+       triangle next to "Run/Debug," and then click on "Console."
+                                          
+       <p>
+       <center>
+       <img src="Console1.jpg">
+       </center>
+       <p>
+
+  <li> Click on the green color sample next to "Standard In text color."
+       You'll get a color picker:
+                                          
+       <p>
+       <center>
+       <img src="Console2.jpg">
+       </center>
+       <p>
+
+  <li> Slide the slider on the right down, so that you get a dark green.
+       (You're at Dartmouth.  What other color could you possibly want?)
+                                          
+       <p>
+       <center>
+       <img src="Console3.jpg">
+       </center>
+       <p>
+
+       Click "OK" to close the color picker window, and click "OK"
+       again to close the Preferences window.
+
+  <li> Finally, I don't use the Task List and Outline panes, which
+       are on the right-hand side of the window.  Click on the "X"
+       next to "Task List" and next to "Outline" in the tabs of these
+       panes:
+                                          
+       <p>
+       <center>
+       <img src="TaskListOutline.gif">
+       </center>
+       <p>
+
+       You'll get something like this:
+                                          
+       <p>
+       <center>
+       <img src="EclipseDone.jpg">
+       </center>
+       <p>
+
+       Now you've got your Eclipse set up the same as mine!
+
+</ul>
+
+
+
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~scot/">Scot Drysdale</a></address>
+<!-- hhmts start -->
+Last modified: Wed Mar 18 2009
+<!-- hhmts end -->
+</body> </html>
+ai

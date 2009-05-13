@@ -1,0 +1,107 @@
+http://www.cs.dartmouth.edu/~doug/icosi/index.html
+3
+<html>
+<title>
+Rainbow Icosahedra
+</title>
+<body>
+<h1>Rainbow Icosahedra</h1>
+This puzzle was inspired by playing with a 
+<a href="http://www.magz.com">Magz</a> magnetic ball-and-stick toy:
+how to color (in the usual mathematical sense) the
+edges of an icosahedron with 6 colors?
+<p>
+Why use six colors, when 
+it's easy with five? 
+[<a href="http://www.mathpages.com/home/kmath095.htm">MathPages.com</a>]
+Notice that <i>C</i>(6,3), the number of combinations of 6 colors
+taken 3 at a time, is 20--the same as the number of faces.
+Now the problem gets interesting!
+You may enjoy trying it before looking at my solutions.
+<p>
+<b>Problem.</b>
+In how many ways, distinct under symmetries of the icosahedron
+and renaming of the colors, can the edges of
+a regular icosahedron be colored with 6 colors so that
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all 5 edges meeting at any vertex have different colors, and 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;each combination of 3 distinct colors occurs on the boundary
+of some face?
+<p>
+<b>Observation 1.</b>
+In any such coloring each
+color must appear on exactly 5 of the 30 edges
+of the icosahedron.
+For consider one color, say red.
+<i>C</i>(5,2)=10 is the number of pairs of non-red colors, and hence
+the number of distinctly colored triangles with one red edge.
+Since each red edge borders two triangles, there must be 5 red edges.
+<p>
+<b>Observation 2.</b>
+Think of the 5 edges of one color as a "tile",
+albeit a completely disconnected one.  Then we can address the problem 
+without attention to colors:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;find all the distinct shapes of tiles; 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;find all the ways of tiling the icosahedron with these shapes; and
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discard tilings in which 2 faces touch the same 3 tiles.
+<p>
+A Haskell program to carry out this plan
+revealed just 18 tile shapes and 12 tilings. 
+<p>
+One tiling has 3-fold rotational symmetry: <a href="3fold.ps">PostScript</a>
+or <a href="3fold.pdf">PDF</a> or <a href="3fold.html">HTML</a> (lower quality).
+<p>
+Four tilings have 5-fold rotational symmetry:
+<a href="5fold.ps">PostScript</a>
+or <a href="5fold.pdf">PDF</a>.
+<p>
+The other seven tilings lack symmetry: <a href="1fold.ps">PostScript</a>
+or <a href="1fold.pdf">PDF</a>.
+<p>
+<h4>Some properties of the tilings</h4>
+No tiling has a symmetry group of even order,
+despite the abundance of even-order subgroups in the
+icosahedral group.
+In particular, no tiling is invariant under
+reflection, 180-degree rotation, or central inversion coupled
+with renaming of colors.
+<p>
+Every tiling uses tiles of more than one shape.
+However the 3-fold symmetric tiling can be
+seen as 3 congruent bicolor supertiles.
+<p>
+Each of the 18 tile shapes occurs in some tiling.
+<h4> Related 5-colorings</h4>
+Branko Grunbaum suggested looking for 5-colorings in
+which each combination of colors occurs on exactly
+two faces with the colors in opposite
+sequence on the two faces.
+All 13 such colorings have even-order symmetry groups.
+One example
+has the full symmetry of the icosahedron:
+<a href="5color.ps">PostScript</a>,&nbsp;
+<a href="5color.pdf">PDF</a>.
+<h4> Dual problems</h4>
+By duality, one can color the edges of a dodecahedron
+with 6 colors so that every combination of 3 colors
+meets at exactly one vertex, or with 5 colors so that
+every sequence of three colors occurs clockwise about exactly
+one vertex.
+<p>
+John Conway found there are three
+<a href="http://www.neverendingbooks.org/index.php/quintominal-dodecahedra.html">5-colorings of the edges of a
+dodecahedron</a> such that each of the twelve
+5-color necklaces, distinct under rotation and reversal,
+occurs around some face.
+These colorings are dual to 5-colorings of the
+edges of an icosahedron in which every sequence
+of 5 colors occurs
+clockwise or else counterclockwise about exactly one vertex.
+<hr>
+<i>Modified February 11, 2006; March 24, 2008.</i>
+</body>
+</html>

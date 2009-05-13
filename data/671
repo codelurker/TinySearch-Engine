@@ -1,0 +1,100 @@
+http://www.cs.dartmouth.edu/~cs5/lab-assignments.html
+3
+<html> <head>
+<title>CS 5 Lab Assignments</title>
+</head>
+
+<body>
+<h1><a href="/~cs5/">CS 5 Winter 2009</a><br>
+Lab Assignments</h1>
+
+<ul>
+
+  <li> <a href="lab/lab1/lab1.html">Lab Assignment 1</a>, due Wednesday,
+       April 22.<br>
+
+
+
+       Solutions:<br>
+       Drysdale's: <a href="lab/lab1/solution/Drysdale/Player.java">Player.java</a>,
+       <a href="lab/lab1/solution/Drysdale/Game.java">Game.java</a>,
+       <a href="lab/lab1/solution/Drysdale/Chips.java">Chips.java</a><br>
+       Cormen's: <a href="lab/lab1/solution/Cormen/Player.java">Player.java</a>,
+       <a href="lab/lab1/solution/Cormen/Referee.java">Referee.java</a>,
+       <a href="lab/lab1/solution/Cormen/Chips.java">Chips.java</a>
+       <p>
+
+  <li> <a href="lab/lab2/lab2.html">Lab Assignment 2</a>, due Wednesday,
+       May 6.<br>
+
+
+       Solutions:<br>
+       Basic solution: <a href="lab/lab2/solution/basic/Bug.java">Bug.java</a>,
+       <a href="lab/lab2/solution/basic/Swarm.java">Swarm.java</a>,
+       <a href="lab/lab2/solution/basic/Bugs.java">Bugs.java</a><br>
+       Extra credit with moving legs and random speeds:
+       <a href="lab/lab2/solution/extracredit/Bug.java">Bug.java</a>,
+       <a href="lab/lab2/solution/extracredit/Swarm.java">Swarm.java</a>,
+       <a href="lab/lab2/solution/extracredit/Bugs.java">Bugs.java</a>
+
+       <p>
+
+  <li> <a href="lab/lab3/lab3.html">Lab Assignment 3</a>, due Wednesday,
+       May 13.<br>
+<!--
+       Solution:<br>
+       <a href="lab/lab3/solution/AddLine.java">AddLine.java</a>,
+       <a href="lab/lab3/solution/AddOval.java">AddOval.java</a>,
+       <a href="lab/lab3/solution/AddRect.java">AddRect.java</a>,
+       <a href="lab/lab3/solution/BackCmd.java">BackCmd.java</a>,
+       <a href="lab/lab3/solution/ColorCmd.java">ColorCmd.java</a>,
+       <a href="lab/lab3/solution/Command.java">Command.java</a>,
+       <a href="lab/lab3/solution/DeleteCmd.java">DeleteCmd.java</a>,
+       <a href="lab/lab3/solution/Drawing.java">Drawing.java</a>,
+       <a href="lab/lab3/solution/Editor.java">Editor.java</a>,
+       <a href="lab/lab3/solution/ExchangeCmd.java">ExchangeCmd.java</a>,
+       <a href="lab/lab3/solution/FrontCmd.java">FrontCmd.java</a>,
+       <a href="lab/lab3/solution/MoveCmd.java">MoveCmd.java</a>,
+       <a href="lab/lab3/solution/Oval.java">Oval.java</a>,
+       <a href="lab/lab3/solution/Rect.java">Rect.java</a>,
+       <a href="lab/lab3/solution/Segment.java">Segment.java</a>,
+       <a href="lab/lab3/solution/Shape.java">Shape.java</a>
+
+       <p>
+
+  <li> <a href="lab/lab4/lab4.html">Lab Assignment 4</a>, due Wednesday, November 19.<br>
+       Solutions:<br>
+       Basic solution (Drawing in colony):
+       <a href="lab/lab4/solution/NoCloning/Cell.java">Cell.java</a>,
+       <a href="lab/lab4/solution/NoCloning/ColonyPanel.java">ColonyPanel.java</a>,
+       <a href="lab/lab4/solution/NoCloning/LifeFrame.java">LifeFrame.java</a>,
+       <a href="lab/lab4/solution/NoCloning/Life.java">Life.java</a><br>
+       
+       Basic solution (Drawing in cells):
+       <a href="lab/lab4/solution/SquareCells/Cell.java">Cell.java</a>,
+       <a href="lab/lab4/solution/SquareCells/ColonyPanel.java">ColonyPanel.java</a>,
+       <a href="lab/lab4/solution/SquareCells/LifeFrame.java">LifeFrame.java</a>,
+       <a href="lab/lab4/solution/SquareCells/Life.java">Life.java</a><br>
+
+       <p> 
+
+  <li> <a href="lab/lab5/lab5.html">Lab Assignment 5</a>, due Monday, November 24.<br> 
+       Solutions:<br>
+       <a href="lab/lab5/solution/AStarSequenceItem.java">AStarSequenceItem.java</a>,
+       <a href="lab/lab5/solution/AStarSequencer.java">AStarSequencer.java</a>,
+       <a href="lab/lab5/solution/DistSequencer.java">DistSequencer.java</a>,
+       <a href="lab/lab5/solution/Maze.java">Maze.java</a>,
+       <a href="lab/lab5/solution/MazeFrame.java">MazeFrame.java</a>,
+       <a href="lab/lab5/solution/PQSequenceItem.java">PQSequenceItem.java</a>,
+       <a href="lab/lab5/solution/QueueSequencer.java">QueueSequencer.java</a>,
+       <a href="lab/lab5/solution/SequenceItem.java">SequenceItem.java</a>,
+       <a href="lab/lab5/solution/StackSequencer.java">StackSequencer.java</a>,
+       <br>
+       
+   -->
+             
+</ul>
+
+<hr>
+</body> </html>
+t<E>(i

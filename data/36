@@ -1,0 +1,193 @@
+http://www.cs.dartmouth.edu/~tanzeem
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+
+
+  
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+
+
+  
+
+
+
+  
+  <title>Tanzeem Choudhury's Webpage</title>
+<!-- #EndEditable -->
+  <link href="styles/style0.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+
+
+  
+  <style type="text/css">
+.style1 {
+color: #006699;
+}
+.style2 {
+margin-top: 6px;
+}
+.style3 {
+color: #FF0000;
+}
+  </style>
+</head>
+
+
+<body>
+
+
+<!-- Begin Container -->
+<div id="container"><!-- Begin Masthead -->
+<div id="masthead">
+<h1><a href="#">Tanzeem Choudhury</a></h1>
+
+
+<h3>Assistant Professor</h3>
+
+
+<h4>Computer Science, Dartmouth College</h4>
+
+
+</div>
+
+
+<!-- End Masthead --><!-- Begin Navigation -->
+<div id="navigation">
+<ul>
+
+
+  <li><a href="index.html">About</a></li>
+
+
+  <li><a href="pubs/pubs.html">Publications</a></li>
+
+
+  <li><a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a></li>
+
+
+  <li><a href="students/students.html">Students</a></li>
+
+
+  <li><a href="teaching/teaching.html">Teaching</a></li>
+
+
+  <li><a href="press/press.html">Press</a></li>
+
+
+  <li><a href="links/links.html">Links</a></li>
+
+
+  <li><a href="contact/contact.html">Contact</a></li>
+
+
+</ul>
+
+
+</div>
+
+
+<!-- End Navigation --><!-- Begin content_container -->
+<div id="content_container"><!-- Begin Left Column -->
+<div id="column_left"><!-- #BeginEditable "content" -->
+<p class="style2">I work on
+developing machine learning techniques for systems that can reason
+about human activities, interactions, and social networks in everyday
+environments. I joined the <a href="http://www.cs.dartmouth.edu">computer
+science department of Dartmouth</a> in 2008. Prior to that I was
+a member of the research staff at <a href="http://www.intel-research.net/seattle/">Intel Research
+Seattle</a>.<br />
+
+
+<br />
+
+
+I received my Ph.D. degree from the <a href="http://www.media.mit.edu/">Media Laboratory</a>
+at the Massachusetts Institute of Technology (MIT). I created the
+sociometer and my&nbsp;<a href="pubs/choudhury_phd_thesis.pdf">thesis</a>&nbsp;was
+the first to show the feasibility of automatically capturing and
+modeling social networks based on face-to-face conversations that occur
+in the physical world. I also hold a B.S. in electrical engineering
+from the <a href="http://www.ece.rochester.edu/">University
+of Rochester</a>, and M.S. from the <a href="http://www.media.mit.edu/">MIT Media Laboratory.</a><br />
+
+
+<br />
+
+
+<span style="font-weight: bold; color: rgb(204, 0, 0); font-style: italic;">What's
+new</span><br />
+
+
+</p>
+<img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /> <a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=114494">Computer Science -- A Growing Field That Needs a Few (More) Good Women.</a>
+<p class="style2" style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"> </span></p>
+<p class="style2" style="color: rgb(0, 0, 0);"><img style="height: 35px;" alt="NSFlogo" src="images/nsf.jpg" /><span style="color: rgb(0, 0, 0);"> Recipient of&nbsp;National
+Science Foundation <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=0845683">
+Faculty Early Career Development Award</a> (NSF CAREER)</span>.</p>
+
+
+<p class="style2" style="color: rgb(0, 0, 0);"><img style="width: 50px; height: 27px;" alt="TR35logo" src="images/TR35logo.jpg" /><a><span style="color: rgb(0, 0, 0);"> Named
+one of </span></a><a href="http://www.technologyreview.com/tr35/">MIT Technology
+Review's TR 35 for 2008</a>: Top 35 innovators under the age of
+35.<br />
+
+
+</p>
+
+
+<p class="style2"> <img style="width: 38px; height: 27px;" alt="LoCA2009logo" src="images/loca2009.png" /> I am also
+the program co-chair (along with <a href="http://www.cs.ucd.ie/staff/aquigley/home/">Aaron
+Quigley</a>) of <a href="http://loca2009.context-aware.org/">LoCA
+2009</a> (4th International Symposium on Location and
+Context-Awareness)</p>
+<p class="style2"><img style="border: 0px solid ; width: 37px; height: 27px;" alt="AAAIlogo" src="images/image320.jpg" /><a href="http://research.microsoft.com/%7Eakapoor/"> Ashish
+Kapoor</a>, <a href="http://www.cs.rochester.edu/u/kautz/">Henry
+Kautz</a>, and I organized the <a href="http://www.aaai.org/Library/Symposia/Spring/ss09-04.php">AAAI
+Spring 2009 Symposium</a> on <a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09">Human
+Behavior Modeling</a><br />
+
+
+</p>
+
+
+<p class="style2"><br />
+</p>
+
+
+<!-- #EndEditable --></div>
+
+
+<!-- End Left Column --><!-- Begin Right Column --><!-- End Right Column --><!-- Begin Footer -->
+<div id="footer">
+<p><a href="index.html">About</a>
+|
+<a href="pubs/pubs.html">Publications</a> | <a href="cv/TanzeemChoudhury_CV.pdf">C.V.</a> | <a href="students/students.html">Students</a> |
+<a href="teaching/teaching.html">Teaching</a> |
+<a href="press/press.html">Press</a> | <a href="links/links.html">Links</a> | <a href="contact/contact.html"> Contact</a></p>
+
+
+</div>
+
+
+<!-- End Footer --></div>
+
+
+<!-- End content_container --></div>
+
+
+<!-- End Container --><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3810501; var sc_invisible=1; var sc_partition=34; var sc_click_stat=1; var sc_security="9ceb4d35"; </script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a
+href="http://www.statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/3810501/0/9ceb4d35/1/" alt="web stats"
+></a></div></noscript>
+
+
+<!-- End of StatCounter Code -->
+</body>
+</html>

@@ -1,0 +1,558 @@
+http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08/syllabus.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <title>CS88/188 -- Computational Models of Human Behavior</title>
+
+
+  <meta name="author" content="Tanzeem Choudhury" />
+
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+
+</head>
+
+
+<body>
+
+<div class="page">
+<div class="header">
+<div class="title">Computational Models of Human Behavior</div>
+
+<div class="subtitle">CS88/188 -- Fall 2008 -- TuTh
+10:00am-11:50am</div>
+
+<div class="subtitle">Instructor: Tanzeem Choudhury<br />
+
+</div>
+
+</div>
+
+<div class="navigation">
+<a href="index.html"><span class="navigationitem">About</span></a><a href="syllabus.html"><span class="navigationitem">Syllabus</span></a><a href="assignments.html"><span class="navigationitem">Assignments</span></a><a href="projects.html"><span class="navigationitem">Project</span></a><a href="grading.html"><span class="navigationitem">Grading</span></a><a href="references.html"><span class="navigationitem">References</span></a>
+</div>
+
+<div class="content">
+<div style="text-align: center;"></div>
+
+<h2 style="text-align: center;">The final schedule may
+change. Please check back frequently.</h2>
+
+<br />
+
+<table style="text-align: left; width: 733px; height: 716px;" border="0" cellpadding="15" cellspacing="0">
+
+  <tbody>
+
+    <tr>
+
+      <td style="font-weight: bold; height: 40px; text-align: center; width: 17%;">Date</td>
+
+      <td style="text-align: center; width: 17%;"><span style="font-weight: bold;">Discussion Theme</span></td>
+
+      <td style="font-weight: bold; text-align: center;">Class</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">September
+30, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;"></td>
+
+      <td style="background-color: rgb(153, 153, 153);">Class
+Introduction [<a style="color: rgb(0, 0, 0);" href="slides/class1_09_30_2008.ppt">slides</a>]&nbsp;</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">October
+2, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">Useful
+Features for Activity Recognition</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/BaoIntille04.pdf">Activity recognition from
+user-annotated
+acceleration data</a><br />
+
+L.
+Bao and S. S. Intille<br />
+
+Pervasive 2004<br />
+
+Presentation and discussion leader: Hong Lu [<a style="color: rgb(0, 0, 0);" href="slides/Class1_Hong.pptx">slides</a><span style="color: rgb(0, 0, 0);">]</span><br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/basu03-linkedHMM.pdf">A Linked-HMM Model for
+Voicing and Speech
+Detection</a> <br />
+
+S. Basu<br />
+
+IEEE Conf. on
+Acoustics, Speech, and Signal Processing (ICASSP) 2003 <br />
+
+Presentation and discussion leader: Emiliano Miluzzo [<a style="color: rgb(0, 0, 0);" href="slides/Class1_Miluzzo.ppt">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">October 7, 2008</td>
+
+      <td style="text-align: center;">Modeling and
+Interpreting Conversations</td>
+
+      <td>Introduction to Graphical Models - Part I<br />
+
+      <br />
+
+      <a style="font-weight: bold; color: rgb(0, 0, 0);" href="readings/JayagopietalTASL08.pdf">Modeling Dominance
+in Group Conversations from Nonverbal Activity Cues</a><span style="color: rgb(0, 0, 0);"> </span><br />
+
+D. Jayagopi, H. Hung, C. Yeo, and D. Gatica-Perez<br />
+
+IEEE Trans. on
+Audio, Speech, and Language Processing, Special Issue on Multi-modal
+Processing for Speech-based Interactions<br />
+
+Presentation and discussion leader: Xiaoyu Zhao [<a style="color: rgb(0, 0, 0);" href="slides/Class2_Zhao.ppt">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">October 9, 2008</td>
+
+      <td style="text-align: center;">Incorporating Common
+Sense Knowledge&nbsp;</td>
+
+      <td><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/wyatt05-commonsense-reasoning.pdf">Unsupervised
+Activity
+Recognition Using Automatically Mined Common Sense</a><br />
+
+D. Wyatt, M. Philipose and T. Choudhury<br />
+
+Ammerican Association of Artificial Intelligence (AAAI) 2005<br />
+
+Presentation and discussion leader: Daniel Hopkins [<a style="color: rgb(0, 0, 0);" href="slides/Class3_Hopkins.ppt">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/pentney07-commonsense-reasoning.pdf">Learning
+Large Scale Common Sense Models of Everyday Life</a><br />
+
+W. Pentney, M. Philipose, J. Bilmes and H. Kautz.<br />
+
+AAAI 2007<br />
+
+Presentation and discussion leader: Cory Cornelius [<a style="color: rgb(0, 0, 0);" href="slides/Class3_Cornelius.pdf">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">October
+14, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">Location-based
+Models of Acitivy and Context</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/krumm07-predestination.pdf">Predestination:
+Inferring Destinations from
+Partial Trajectories</a><br />
+
+J.
+Krumm and E Horvitz <br />
+
+Ubicomp 2006<br />
+
+Presentation and discussion leader: Amy Palmer [<a style="color: rgb(0, 0, 0);" href="slides/Class4_Palmer.pptx">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/liao07-places.pdf">Extracting
+Places and Activities from GPS Traces Using Hierarchical Conditional
+Random Fields</a><br />
+
+L. Liao, D. Fox, and H. Kautz. <br />
+
+International Journal of
+Robotics Research, 2007<br />
+
+Presentation and discussion leader: Daniel Peebles [<a style="color: rgb(0, 0, 0);" href="slides/Class4_Peebles.pdf">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">October
+16, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">Semi-supervised
+learning and<br />
+
+adapting
+models to deal with the real world</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="http://www.cs.dartmouth.edu/%7Etanzeem/pubs/nips07_sVEB.pdf">Fast
+and Scalable Training of Semi-Supervised CRFs with Application to
+Activity Recognition</a><br />
+
+M. Mahdaviani and T. Choudhury<br />
+
+Neural Information Processing Systems (NIPS) 2007<br />
+
+Presentation and discussion leader: Lu He [<a style="color: rgb(0, 0, 0);" href="slides/Class5_He.ppt">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/modayil08-interleaved.pdf">Improving
+the Recognition of Interleaved Activities</a><br />
+
+J. Modayil, T. Bai, and Henry Kautz<br />
+
+UbiComp 2008<br />
+
+Presentation and discussion leader: Jing Chen [<a style="color: rgb(0, 0, 0);" href="slides/Class5_Chen.ppt">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">October 21, 2008</td>
+
+      <td style="text-align: center;">Unsupervised
+Learning of Activity Models</td>
+
+      <td><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/minnen07-motifs.pdf">Detecting Subdimensional
+Motifs: An Efficient Algorithm for Generalized Multivariate Pattern
+Discovery</a><br />
+
+D. Minnen, T. Starner, C. Isbell, and I. Essa
+&nbsp;<br />
+
+IEEE International Conference on Data Mining (ICDM) 2007<br />
+
+Presentation and discussion leader: Daniel Peebles [<a style="color: rgb(0, 0, 0);" href="slides/Class6_Peebles.pdf">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/hamid08-unsupact.pdf">Novel
+Sequence Representation for Unsupervised Analysis of Human Activities</a><br />
+
+R. Hamid, S. Maddi, A. Johnson, A. Bobick, I. Essa, C. Isbell. A
+Artificial Intelligence Journal<br />
+
+Presentation and discussion leader: Wei Pan [<a style="color: rgb(0, 0, 0);" href="slides/Class6_Pan.pptx">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">October 23, 2008</td>
+
+      <td style="text-align: center;">Modeling Activity
+Sub-structures</td>
+
+      <td><a style="font-weight: bold; color: rgb(0, 0, 0);" href="readings/huynh_ubicomp08.pdf">Discovery of Activity
+Patterns using Topic Models </a><br />
+
+T. Huynh, M.
+Fritz and B. Schiele. <br />
+
+UbiComp 2008<br />
+
+Presentation and discussion leader: John Wilkinson [<a style="color: rgb(0, 0, 0);" href="slides/Class7_Wilkinson.pptx">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/bui08-permutation.pdf">The Hidden Permutation
+Model and Location-Based Activity Recognition </a><br />
+
+H. Bui, D. Phung, S. Venkatesh, H. Phan <br />
+
+AAAI 2008<br />
+
+Presentation and discussion leader: Joshua Pyke [<a style="color: rgb(0, 0, 0);" href="slides/Class7_Pyke.pdf">slides</a>]<br />
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">October
+28, 2008</td>
+
+      <td colspan="1" rowspan="1" style="text-align: center; background-color: rgb(153, 153, 153);">Modeling
+Groups</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/choudhury04-convdynamics.pdf">Modeling
+Conversational Dynamics as a Mixed-Memory Markov Process</a><br />
+
+T. Choudhury and S. Basu<br />
+
+NIPS 2004<br />
+
+Presentation and discussion leader: Yufan Guo [<a style="color: rgb(0, 0, 0);" href="slides/Class8_Guo.pdf">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/zhang05-groupdynamics.pdf">Learning Influence
+among Interacting Markov Chains</a><br />
+
+D. Zhang, D. Gatica-Perez, S. Bengio, and D. Roy <br />
+
+NIPS 2005<br />
+
+Presentation and discussion leader: Nimit Dhulekar&nbsp;[<a style="color: rgb(0, 0, 0);" href="slides/Class8_Dhulekar.pdf">slides</a>]</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">October
+30, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">Modeling
+Groups</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/wren07-socialmotion.pdf">SocialMotion:
+Measuring the Hidden Social Life of a Building</a><br />
+
+C. Wren, Y. Ivanov, I. Kaur, D. Leigh, and J Westhues <br />
+
+International Symposium on Location- and Context-Awareness (LoCA) 2007<br />
+
+Presentation and discussion leader: Toubin Wang [<a style="color: rgb(0, 0, 0);" href="slides/Class9_Wang.ppt">slides</a>]<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/connolly08-socialnets.pdf">Recovering Social
+Networks From Massive Track Datasets</a><br />
+
+C. Connolly, J. and Burns, and H. Bui &nbsp;<br />
+
+IEEE International Workshop on Applications of Computer Vision 2008<br />
+
+Presentation and discussion leader: Geethmala Sridaran&nbsp;[<a style="color: rgb(0, 0, 0);" href="slides/Class9_Sridaran.pdf">slides</a>]</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">November 4, 2008</td>
+
+      <td style="text-align: center;"></td>
+
+      <td>Midterm
+Project Update </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">November 6, 2008</td>
+
+      <td style="text-align: center;"> </td>
+
+      <td><span style="color: rgb(0, 0, 0);">Midterm
+Project Update</span></td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">November
+11, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;"><br />
+
+      </td>
+
+      <td style="background-color: rgb(153, 153, 153);"><span style="color: rgb(0, 0, 0);">Introduction to Graphical
+Models - Part II</span></td>
+
+    </tr>
+
+    <tr>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">November
+12, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153);"></td>
+
+      <td style="background-color: rgb(153, 153, 153);"><span style="color: rgb(0, 0, 0);">Introduction to Graphical
+Models - Part III&nbsp;</span>[<a style="color: rgb(0, 0, 0);" href="slides/Class12_13.pptx">slides</a>]</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">November
+13, 2008</td>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">Community
+modeling</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/Wyatt08-socialnets.pdf">Learning Hidden
+Curved Exponential Random Graph Models to Infer
+Face-to-Face Interaction Networks from Situated Speech Data</a><br />
+
+D. Wyatt, T. Choudhury, and J. Bilmes. <br />
+
+AAAI 2008&nbsp;<br />
+
+Presentation and discussion leader: Shaohan Hu [<a style="color: rgb(0, 0, 0);" href="slides/Class14_Hu.pdf">slides</a>]<br />
+
+      <br style="color: rgb(0, 0, 0);" />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/lane08-cooperativemodeling.pdf">Cooperative
+Techniques Supporting Sensor-based People-centric Inferencing</a><br />
+
+N. Lane, H. Lu, S. Eisenman, and A. Campbell<br />
+
+Pervasive 2008<br />
+
+Presentation and discussion leader: Nic Lane</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">November 18, 2008</td>
+
+      <td style="text-align: center;">Cameras and Activity
+Recognition</td>
+
+      <td style="text-align: left;"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/brand00-entprior.pdf">Discovery and
+Segmentation of Activities in Video</a><br />
+
+M. Brand and V. Kettnaker<br />
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI),
+20(8):844-851, 2000<br />
+
+Presentation and discussion leader: <a style="color: rgb(0, 0, 0);" href="slides/Class15_Lin.pdf">Mu Lin</a><br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/zhong04-anomaly.pdf">Detecting Unusual
+Activity in Video</a><br />
+
+H. Zhong, J. Shi and M. Visontai <br />
+
+IEEE Computer Society Conference on Computer Vision and Pattern
+Recognition(CVPR) 2004<br />
+
+Presentation and discussion leader: <a style="color: rgb(0, 0, 0);" href="slides/Class15_Pan.pptx">Wei Pan</a></td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">November 20, 2008</td>
+
+      <td style="text-align: center;">&nbsp;Activity
+and Context from Wearable Cameras&nbsp;</td>
+
+      <td><a href="readings/clarkson02-lifepatterns.pdf"><span style="color: rgb(0, 0, 0);"></span></a><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/clarkson02-lifepatterns.pdf">Life Patterns</a><br />
+
+B. Clarkson<br />
+
+Ph.D Thesis, MIT 2002<br />
+
+Presentation and discussion leader: Janani Sriram and Hong Lu<a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/torralba03-visioncontext.pdf"><br />
+
+      </a> </td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center; background-color: rgb(153, 153, 153);">November
+25, 2008</td>
+
+      <td style="background-color: rgb(153, 153, 153); text-align: center;">Activity
+Recognition in Health Care</td>
+
+      <td style="background-color: rgb(153, 153, 153);"><a style="color: rgb(0, 0, 0); font-weight: bold;" href="readings/Pollack05-AI-Healthcare.pdf">Intelligent
+Technology for an Aging Population:&nbsp; The
+Use of AI to Assist Elders with Cognitive Impairment</a><br />
+
+M. Pollack<br />
+
+AI Magazine,
+26(2):9-24, 2005<br />
+
+Open discussion<br />
+
+      <br />
+
+      <a style="color: rgb(0, 0, 0);" href="readings/Madsen08-autism.pdf"><span style="font-weight: bold;">Technology for Just-In-Time
+In-Situ Learning of
+Facial Affect for Persons Diagnosed with an Autism Spectrum Disorder</span>
+      </a><br />
+
+M. Madsen, R. el Kaliouby, M. Goodwin, and R. Picard <br />
+
+ACM Conference on Computers and Accessibility
+(ASSETS)&nbsp;2008<br />
+
+Presentation and discussion leader: Joshua Pyke</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">December 2, 2008</td>
+
+      <td style="text-align: center;"></td>
+
+      <td>Final Project Presentation</td>
+
+    </tr>
+
+    <tr>
+
+      <td style="text-align: center;">December 3, 2008<br />
+
+      <span style="color: rgb(255, 0, 0); font-weight: bold;">2pm
+- 4pm</span> </td>
+
+      <td style="text-align: center;"></td>
+
+      <td>Final Project Presentation</td>
+
+    </tr>
+
+  </tbody>
+</table>
+
+<br />
+
+</div>
+
+</div>
+
+</body>
+</html>

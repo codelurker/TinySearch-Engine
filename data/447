@@ -1,0 +1,114 @@
+http://www.cs.dartmouth.edu/~ltzeng/page.html
+3
+<HTML>
+<HEAD>
+  <TITLE>inside my web house</TITLE>
+  <STYLE>
+    <!--
+      a { text-decoration: none }
+     -->
+  </STYLE>
+</HEAD>
+<BODY BGCOLOR="#000000" TEXT="#ffffff" LINK="#6666ff" VLINK="#9933cc">
+
+<CENTER>
+<TABLE height="100%"><TR><TD align=center>
+
+<TABLE width="70%" cellspacing=4 cellpadding=4>
+  <TR>
+    <TD>
+
+       <FONT COLOR="#DD0000">
+       <B>
+       "It's humans versus demonic critters -- I prefer being the
+       demonic critters."
+       </B>
+       </FONT>
+
+       <BLOCKQUOTE>
+       That's my former officemate/roommate for you.  Hmmm...
+       </BLOCKQUOTE>
+
+       <FONT COLOR="#DD0000" SIZE=5>
+       <P>Here are a few other random things.</P>
+       </FONT>
+
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+      <PRE>
+      RANT
+
+        Cross references:
+           1. bombast             
+     
+        1. rant \'rant\ \-in-le-\ vb [obs. D ranten, randen] 
+           1: to talk in a noisy, excited, or declamatory manner 
+	   2: to scold vehemently : to utter in a bombastic 
+              declamatory fashion - rant.er n - rant.ing.ly av
+
+        2. rant n 1a: a bombastic extravagant speech 
+           1b: bombastic extravagant language 
+           dial Brit 2: a rousing good time
+      </PRE>
+      <BLOCKQUOTE>     
+         I like to write <A
+         HREF="http://damia90e.blogspot.com/">rants</A>.
+      </BLOCKQUOTE>
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+
+      I do various <A HREF="activities/">activities</A>.  
+      I have some <A HREF="friends.html">friends</A>.
+      Here are some <A HREF="Fall03/">pictures</A> from Fall 2003.
+
+      <BLOCKQUOTE>
+      I keep an <A HREF="lists.html">obligatory list of links</A> to
+      completely random things.
+      </BLOCKQUOTE>
+
+      Here is something amazingly <A
+      HREF="http://www.allanna.net/">cute</A>.
+
+    </TD>
+  </TR>
+
+<!--//
+  <TR>
+    <TD>
+
+      <P>&nbsp;</P>
+
+      <BLOCKQUOTE>
+      I also have a <A HREF="http://www.al2.com/~ltzeng">VERY OLD
+      homepage</A>.  This is the page I made in 1995.  The only thing
+      of interest there is my <A
+      HREF="http://www.al2.com/~ltzeng/nongeek.html">Non-Geek
+      Page</A>.  The site is completely obsolete.  I'm in the process
+      of retiring it, but like I said, I don't have much time to spend
+      on this...
+      </BLOCKQUOTE>
+
+    </TD>
+  </TR>
+
+  <TR>
+    <TD align="center">
+
+      <P>&nbsp;</P>
+      <FONT SIZE="+2"><A HREF="http://www.cs.dartmouth.edu/~kitchen">Kitchen Crew Page</A></FONT>
+
+    </TD>
+  </TR>
+//-->
+
+</TABLE>
+
+</TD></TR></TABLE>
+</CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,502 @@
+http://www.cs.dartmouth.edu/~cs5/exams/Java-Mini-Manual
+3
+
+Classes:
+Applet:  Extends Component (See methods there also)
+Constructors:
+  public Applet()
+    Creates a new instance of an applet for inclusion on a Web page.
+Methods:
+  public Image getImage(URL base, String filename)
+    Returns the image requested. The location of the image can be given by the
+    base URL and the filename relative to that base.
+  public void init()
+    This method provides initialization functionality to the applet prior to the first
+    time that the applet is started. It is automatically called by the browser or the
+    appletviewer program. This method contains no functionality and should be
+    overridden by subclasses.
+  public void resize(int w, int h)
+    Resizes this applet according to the specified dimension.
+  
+
+ArrayList<E>:  implements List<E>
+Constructors
+  public ArrayList<E>()
+Methods
+  public void add(int index, E element)
+    Inserts the specified element into this list at the specified index.
+  public boolean add(E obj)
+    Appends the specified element to the end of this list.
+  public void clear()
+    Removes all of the elements from this list.
+  public boolean contains(Object obj)
+    Returns true if this list contains the specified object.
+  public E get(int index)
+    Returns the element at the specified index. Throws
+    IndexOutOfBoundsException if the index is out of range.
+  public int indexOf(Object obj)
+    Returns the index of the first occurrence of the specified object (based on the
+    equals method) or -1 if it is not found.
+  public boolean isEmpty()
+    Returns true if this list contains no elements.
+  public Iterator<E>  iterator() 
+    Returns an iterator over the elements in this list in proper sequence.
+  public ListIterator<E>	listIterator() 
+    Returns a list-iterator of the elements in this list (in proper sequence).
+  public int lastIndexOf(Object obj)
+    Returns the index of the last occurrence of the specified object (based on the
+    equals method) or -1 if it is not found.
+  public E remove(int index)
+    Removes and returns the object at the specified index in this list. Throws
+    IndexOutOfBoundsException if the index is out of range.
+  public E set(int index, Object obj)
+    Replaces the element at the specified index with the specified object.
+  public int size()
+    Returns the number of elements in this list.
+
+Component:
+Constructors:
+  protected Component()
+    Creates a new instance of a component.
+  public synchronized void addMouseListener(MouseListener listener)
+  public synchronized void addMouseMotionListener(MouseMotionListener listener)
+  public Graphics getGraphics()
+    Returns the graphics context for this component.
+  public void setSize(int width, int height)
+    Returns the size of or resizes this component to the specified dimension(s).
+  public void paint(Graphics gc)
+    Paints this component with the graphics context gc.
+  public void repaint()
+ 
+Graphics:
+Methods:
+  public abstract boolean drawImage(Image src, int x, int y, ImageObserver obsv)
+    Draws a graphic image (src) at position <x, y>. obsv can be the Applet.
+  public abstract void drawLine(int xsrc, int ysrc, int xdest, int ydest)
+    Draws a line from position <xsrc, ysrc> to <xdest, ydest>.
+  public abstract void drawOval(int xsrc, int ysrc, int width, int height)
+    Draws an oval starting at position <xsrc, ysrc> and having a width and height.
+  public void drawRect(int xsrc, int ysrc, int width, int height)
+  public abstract void drawRoundRect(int xsrc, int ysrc, int width, int height, int awd, int aht)
+    Draws a rectangle with or without rounded corners at position <xsrc, ysrc>
+    and having a width and height. The shape of the rounded corners are determined
+    by the width of the arc (awd) and the height of the arc (aht).
+  public abstract void drawString(String str, int x, int y)
+    Draws the string str at position <x, y> in this Graphicâ€™s current font and color.
+  public abstract void fillOval(int x, int y, int width, int height)
+    Draws a filled oval at position <x, y> and having a width and height.
+  public abstract void fillRect(int x, int y, int width, int height)
+  public abstract void fillRoundRect(int x, int y, int width, int height, int aWidth, int aHeight)
+    Draws a filled rectangle with or without rounded corners at position <x, y>
+    and having a width and height. The shape of the rounded corners are determined
+    by the width of the arc (aWidth) and the height of the arc (aHeight).
+  public abstract Color getColor()
+  public abstract void setColor(Color clr)
+    Returns or sets the current color for this graphics context.
+
+HashMap<K,V> implements Map<K,V>
+Constructors
+  public HashMap() 
+    Constructs an empty HashMap with the default initial capacity (16) and the default load factor (0.75).
+Methods
+  public void clear() 
+    Removes all mappings from this map.
+  public boolean  containsKey(Object key) 
+    Returns true if this map contains a mapping for the specified key.
+  public boolean  containsValue(Object value) 
+    Returns true if this map maps one or more keys to the specified value.
+  public V   get(Object key) 
+    Returns the value to which the specified key is mapped in this identity hash map, or null if the map 
+    contains no mapping for this key.
+  public boolean  isEmpty() 
+    Returns true if this map contains no key-value mappings.
+  public Set<K>	   keySet() 
+    Returns a set view of the keys contained in this map.
+  public V   put(Object key, Object value) 
+    Associates the specified value with the specified key in this map.
+  public V   remove(Object key) 
+    Removes the mapping for this key from this map if present.
+  public int	   size() 
+    Returns the number of key-value mappings in this map.
+
+HashSet<E>:  implements Set<E>
+Constructors
+  public HashSet<E>() 
+    Constructs a new, empty set; the backing HashMap instance has default initial capacity (16) and load factor
+    (0.75). 
+Methods
+  public boolean   add(E o) 
+    Adds the specified element to this set if it is not already present.
+  public void	    clear() 
+    Removes all of the elements from this set.
+  public boolean   contains(Object o) 
+    Returns true if this set contains the specified element.
+  public boolean   isEmpty() 
+    Returns true if this set contains no elements.
+  public Iterator<E>  iterator() 
+    Returns an iterator over the elements in this set.
+  public boolean   remove(Object o) 
+    Removes the specified element from this set if it is present.
+  public int	    size() 
+    Returns the number of elements in this set (its cardinality).
+
+LinkedList<E>:  implements List<E>
+Constructors
+  public LinkedList() 
+          Constructs an empty list.
+Methods
+  public void 	   add(int index, E element) 
+    Inserts the specified element at the specified position in this list.
+  public boolean  add(E o) 
+    Appends the specified element to the end of this list.
+  public void	   addFirst(E o) 
+    Inserts the given element at the beginning of this list.
+  public void	   addLast(E o) 
+    Appends the given element to the end of this list.
+  public void	   clear() 
+    Removes all of the elements from this list.
+  public boolean  contains(Object o) 
+    Returns true if this list contains the specified element.
+  public E   get(int index) 
+    Returns the element at the specified position in this list.
+  public E   getFirst() 
+    Returns the first element in this list.
+  public E   getLast() 
+    Returns the last element in this list.
+  public int	   indexOf(Object o) 
+    Returns the index in this list of the first occurrence of the specified element, or -1 if the List does 
+    not contain this element.
+  public int	   lastIndexOf(Object o) 
+    Returns the index in this list of the last occurrence of the specified element, or -1 if the list does not
+    contain this element.
+  public Iterator<E>  iterator() 
+    Returns an iterator over the elements in this list in proper sequence.
+  public ListIterator<E>	listIterator() 
+    Returns a list-iterator of the elements in this list (in proper sequence).
+  public E   remove(int index) 
+    Removes the element at the specified position in this list.
+  public boolean  remove(Object o) 
+    Removes the first occurrence of the specified element in this list.
+  public E   removeFirst() 
+    Removes and returns the first element from this list.
+  public E   removeLast() 
+    Removes and returns the last element from this list.
+  public E   set(int index, Object element) 
+    Replaces the element at the specified position in this list with the specified element.
+  public int	   size() 
+    Returns the number of elements in this list.
+
+Math:
+Variables and Constants:
+  public final static double E
+  public final static double PI
+    Constant values that contain the natural base of logarithms
+    (2.7182818284590452354) and the ratio of the circumference of a circle to its
+    diameter (3.14159265358979323846).
+  public static double abs(double num)
+  public static float abs(float num)
+  public static int abs(int num)
+  public static long abs(long num)
+    Returns the absolute value of the specified parameter.
+  public static double acos(double num)
+  public static double asin(double num)
+  public static double atan(double num)
+    Returns the arc cosine, arc sine, or arc tangent of parameter num as a double.
+  public static double atan2(double x, double y)
+    Returns the component e of the polar coordinate {r,e} that corresponds to the
+    cartesian coordinate <x, y>.
+  public static double ceil(double num)
+    Returns the smallest integer value that is not less than the argument num.
+  public static double cos(double angle)
+  public static double sin(double angle)
+  public static double tan(double angle)
+    Returns the cosine, sine, or tangent of parameter angle measured in radians.
+  public static double exp(double num)
+    Returns e to the num, where e is the base of natural logarithms.
+  public static double floor(double num)
+    Returns a double that is the largest integer value that is not greater than the
+    parameter num.
+  public static double log(double num) throws ArithmeticException
+    Returns the natural logarithm of parameter num.
+  public static double max(double num1, double num2)
+  public static float max(float num1, float num2)
+  public static int max(int num1, int num2)
+  public static long max(long num1, long num2)
+    Returns the larger of parameters num1 and num2.
+  public static double min(double num1, double num2)
+  public static float min(float num1, float num2)
+  public static int min(int num1, int num2)
+  public static long min(long num1, long num2)
+    Returns the minimum value of parameters num1 and num2.
+  public static double pow(double num1, double num2) throws ArithmeticException
+    Returns the result of num1 to num2.
+  public static double random()
+    Returns a random number between 0.0 and 1.0.
+  public static double rint(double num)
+    Returns the closest integer to parameter num.
+  public static long round(double num)
+  public static int round(float num)
+    Returns the closest long or int to parameter num.
+  public static double sqrt(double num) throws ArithmeticException
+    Returns the square root of parameter num.
+
+Point:
+Variables and Constants
+  public int x
+  public int y
+    The x and y locations of this point.
+Constructors
+  public Point()
+  public Point(Point pt)
+  public Point(int x, int y)
+    Creates a new instance of a Point from the specified coordinates, the specified
+    point, or using <0, 0> by default.
+Methods
+  public boolean equals(Object arg)
+    Returns a true value if this point is identical to arg.
+  public Point getLocation()
+  public void move(int x, int y)
+  public void setLocation(Point pt)
+  public void setLocation(int x, int y)
+    Returns or relocates the position of this point.
+  public void translate(int xoffset, int yoffset)
+    Relocates this point to <x+xoffset, y+yoffset>.
+
+String:
+Constructors
+  public String()
+  public String(char[] arg)
+    Creates a new instance of the String class from the array arg.
+  public String(String str)
+    Creates an instance of the String class from the parameter str.
+Methods:
+  public int compareTo(String str)
+    Compares the current object to str. If both strings are equal, 0 (zero) is
+    returned. If the current string is lexicographically less than the argument, an 
+    int less than zero is returned. If the current string is lexicographically greater
+    than the argument, an int greater than zero is returned.
+  public boolean equals(Object arg)
+  public boolean equalsIgnoreCase(String arg)
+    Returns true if the current object is equal to arg. arg must not be null, and
+    must be of exact length and content as the current object. equalsIgnoreCase
+    disregards the case of the characters.
+  public int indexOf(char c)
+  public int indexOf(char c, int index)
+    Returns the index of the first occurrence of the character c in the current object
+    not less than index (default of 0). Returns a Ð1 if there is no such occurrence.
+  public int indexOf(String str)
+  public int indexOf(String str, int index)
+    Returns the index of the first occurrence of the string str in the current object
+    not less than index (default of 0). Returns a Ð1 if there is no such occurrence.
+  public String substring(int startindex) throws StringIndexOutOfBoundsException
+  public String substring(int startindex, int lastindex) throws StringIndexOutOfBoundsException
+    Returns the substring of the current object starting with startindex and ending
+    with lastindex-1 (or the last index of the string in the case of the first
+    method).
+  public String toLowerCase()
+    Returns the current object with each character in lowercase, taking into
+    account variations of the specified locale (loc).
+  public String toUpperCase()
+    Returns the current object with each character in uppercase, taking into
+    account variations of the specified locale (loc).
+
+Timer:
+Constructors
+  public Timer(int delay, ActionListener listener)
+    Creates a timer that notifies the specified action listener every delay milliseconds.
+Methods
+  public void addActionListener(ActionListener listener)
+    Adds the specified action listener to this timer.
+  public int getDelay()
+  public void setDelay(int delay)
+    Gets or sets this timerâ€™s delay (in milliseconds).
+  public void start()
+  public void stop()
+    Starts or stops this timer.
+  public boolean isRunning()
+    Returns true if this timer is currently running.
+
+TreeMap<K,V>:  implements Map<K,V>
+Constructors
+  public TreeMap<K,V>() 
+    Constructs a new, empty map, sorted according to the keys' natural order.
+Methods
+  public void	clear() 
+    Removes all mappings from this TreeMap.
+  public boolean  containsKey(Object key) 
+    Returns true if this map contains a mapping for the specified key.
+  public boolean  containsValue(Object value) 
+    Returns true if this map maps one or more keys to the specified value.
+  public K  firstKey() 
+    Returns the first (lowest) key currently in this sorted map.
+  public V  get(Object key) 
+    Returns the value to which this map maps the specified key.
+  public Set<K>  keySet() 
+    Returns a Set view of the keys contained in this map.
+  public K  lastKey() 
+    Returns the last (highest) key currently in this sorted map.
+  public V  put(K key, V value) 
+    Associates the specified value with the specified key in this map.
+  public V  remove(Object key) 
+    Removes the mapping for this key from this TreeMap if present.
+  public int  size() 
+    Returns the number of key-value mappings in this map.
+
+TreeSet<E>:  implements Set<E>
+Constructors
+  public TreeSet<E>() 
+    Constructs a new, empty set, sorted according to the elements' natural order.
+Methods
+  public boolean     add(E o) 
+    Adds the specified element to this set if it is not already present.
+  public void	      clear() 
+    Removes all of the elements from this set.
+  public boolean     contains(Object o) 
+    Returns true if this set contains the specified element.
+  public E      first() 
+    Returns the first (lowest) element currently in this sorted set.
+  public boolean     isEmpty() 
+    Returns true if this set contains no elements.
+  public Iterator<E>    iterator() 
+    Returns an iterator over the elements in this set.
+  public E      last() 
+    Returns the last (highest) element currently in this sorted set.
+  public boolean     remove(Object o) 
+    Removes the specified element from this set if it is present.
+  public int	      size() 
+    Returns the number of elements in this set (its cardinality).
+
+Interfaces:
+MouseListener:
+Methods:
+  public void	mouseClicked(MouseEvent e) 
+          Invoked when the mouse button has been clicked (pressed and released) on a component.
+  public void	mouseEntered(MouseEvent e) 
+          Invoked when the mouse enters a component.
+  public void	mouseExited(MouseEvent e) 
+          Invoked when the mouse exits a component.
+  public void	mousePressed(MouseEvent e) 
+          Invoked when a mouse button has been pressed on a component.
+  public void	mouseReleased(MouseEvent e) 
+          Invoked when a mouse button has been released on a component.
+
+ActionListener:
+Methods:
+  public void	actionPerformed(ActionEvent e) 
+          Invoked when an action occurs.
+
+MouseMotionListener:
+Methods:
+  public void	mouseDragged(MouseEvent e) 
+          Invoked when a mouse button is pressed on a component and then dragged.
+  public void	mouseMoved(MouseEvent e) 
+          Invoked when the mouse cursor has been moved onto a component but no buttons have been pushed.
+
+Iterator<E>:
+Methods:
+  public boolean  hasNext() 
+    Returns true if the iteration has more elements.
+  public E   next() 
+    Returns the next element in the iteration.
+  public void     remove() 
+    Removes from the underlying collection the last element returned by the iterator (optional operation).
+
+List<E>:
+Methods:
+  public void  add(int index, E element) 
+    Inserts the specified element at the specified position in this list (optional operation).
+  public boolean  add(E o) 
+    Appends the specified element to the end of this list (optional operation).
+  public void  clear() 
+    Removes all of the elements from this list (optional operation).
+  public boolean  contains(Object o) 
+    Returns true if this list contains the specified element.
+  public E  get(int index) 
+    Returns the element at the specified position in this list.
+  public int  indexOf(Object o) 
+    Returns the index in this list of the first occurrence of the specified element, or -1 if this list does not 
+    contain this element.
+  public boolean  isEmpty() 
+    Returns true if this list contains no elements.
+  public Iterator<E>  iterator() 
+    Returns an iterator over the elements in this list in proper sequence.
+  public int  lastIndexOf(Object o) 
+    Returns the index in this list of the last occurrence of the specified element, or -1 if this list does not 
+    contain this element.
+  public ListIterator<E>  listIterator() 
+    Returns a list iterator of the elements in this list (in proper sequence).
+  public E  remove(int index) 
+    Removes the element at the specified position in this list (optional operation).
+  public boolean  remove(Object o) 
+    Removes the first occurrence in this list of the specified element (optional operation).
+  public E  set(int index, E element) 
+    Replaces the element at the specified position in this list with the specified element (optional operation).
+  public int  size() 
+    Returns the number of elements in this list.
+
+ListIterator<E>:
+Methods:
+  public void  add(Object o) 
+    Inserts the specified element into the list (optional operation).
+  public boolean  hasNext() 
+    Returns true if this list iterator has more elements when traversing the list in the forward direction.
+  public boolean  hasPrevious() 
+    Returns true if this list iterator has more elements when traversing the list in the reverse direction.
+  public E  next() 
+    Returns the next element in the list.
+  public int  nextIndex() 
+    Returns the index of the element that would be returned by a subsequent call to next.
+  public E  previous() 
+    Returns the previous element in the list.
+  public int  previousIndex() 
+    Returns the index of the element that would be returned by a subsequent call to previous.
+  public void  remove() 
+    Removes from the list the last element that was returned by next or previous (optional operation).
+  public void  set(E o) 
+    Replaces the last element returned by next or previous with the specified element (optional operation).
+
+Set<E>:
+  public boolean  add(Object o) 
+    Adds the specified element to this set if it is not already present (optional operation).
+  public void  clear() 
+    Removes all of the elements from this set (optional operation).
+  public boolean  contains(Object o) 
+    Returns true if this set contains the specified element.
+  public boolean  equals(Object o) 
+    Compares the specified object with this set for equality.
+  public boolean  isEmpty() 
+    Returns true if this set contains no elements.
+  public Iterator<E>  iterator() 
+    Returns an iterator over the elements in this set.
+  public boolean  remove(Object o) 
+    Removes the specified element from this set if it is present (optional operation).
+  public int  size() 
+    Returns the number of elements in this set (its cardinality).
+
+Map<K,V>:
+  public void  clear() 
+    Removes all mappings from this map (optional operation).
+  public boolean  containsKey(Object key) 
+    Returns true if this map contains a mapping for the specified key.
+  public boolean  containsValue(Object value) 
+    Returns true if this map maps one or more keys to the specified value.
+  public Set  entrySet() 
+    Returns a set view of the mappings contained in this map.
+  public boolean  equals(Object o) 
+    Compares the specified object with this map for equality.
+  public V  get(Object key) 
+    Returns the value to which this map maps the specified key.
+  public int  hashCode() 
+    Returns the hash code value for this map.
+  public boolean  isEmpty() 
+    Returns true if this map contains no key-value mappings.
+  public Set<K>  keySet() 
+    Returns a set view of the keys contained in this map.
+  public V  put(K key, V value) 
+    Associates the specified value with the specified key in this map (optional operation).
+  public V  remove(Object key) 
+    Removes the mapping for this key from this map if it is present (optional operation).
+  public int  size() 
+    Returns the number of key-value mappings in this map.
+
+

@@ -1,0 +1,104 @@
+http://www.cs.dartmouth.edu/~cmasone
+2
+
+<HTML>
+<HEAD>
+<TITLE>Chris Masone</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript" SRC="scripts.js">
+</SCRIPT>
+
+</HEAD>
+
+<BODY onLoad="javascript:set_for_size()">
+<TABLE cellpadding="0" cellspacing="0" border="0" align="center" width=62%>
+<TR>
+<TD>
+<A HREF="graphics/Dizno.png"><IMG SRC="graphics/Dizno100.png" align=right height=100 border=0></A>
+</TD>
+<TD width=10> </TD>
+<TD VALIGN=Bottom>
+<font class=content>
+<FONT SIZE=6>
+Chris Masone, Ph.D. Candidate<BR>
+Department of Computer Science
+</FONT>
+<P>
+<A HREF=mailto:cmasone@dartmouth.edu>cmasone@dartmouth.edu</A> &bull; 6211 Sudikoff, Hanover, NH 03755
+</P>
+</TD>
+</TR>
+<TR>
+<TD colspan=3 align=center valign=top>
+<HR>
+<TABLE BORDER=0>
+<TR>
+<TD width=48% valign=top>
+<font class=content>
+<H2>Research Interests</H2>
+<FONT SIZE=+1>
+<UL>
+  <LI>Human-Computer Interaction
+  <LI>Hybrid PKIs 
+  <LI>Secure Mail
+</UL>
+</FONT>
+</TD>
+<TD WIDTH=1> </TD>
+<TD width=48% valign=top>
+<font class=content>
+<H2>Personal Interests</H2>
+<FONT SIZE=+1>
+<UL>
+  <LI><A HREF="http://www.dartmouth.edu/~aires">The Dartmouth Aires</A></LI>
+  <LI>Audio Engineering<A HREF="Let%20Me%20Entertain%20You.mp3"><IMG SRC="mp3.png" ALT="mp3" border=0></A></LI>
+</UL>
+</FONT>
+
+</TD>
+</TR>
+<TR>
+<TD colspan=3>
+<font class=content>
+<H2>Where Am I?</H2>
+I sit in 059 Sudikoff, which is in the new addition, in the basement.  Continue past 005, go through the door at the end of the hall there.  Take a left, a right, and then another left, and you should find me.  I might be in 045, the PKI/Trust lab, across the hall from my office as well.
+</font>
+</TD>
+</TR>
+<TR>
+<TD colspan=3>
+<font class=content>
+<H2>Publications</H2>
+<UL>
+<p>
+  <LI>C. Masone, K.-H. Baek, S. W. Smith.<BR>
+    <B>"WSKE: WebServer-Key-Enabled Cookies."</b>
+    <cite>Proceedings of Usable Security 2007 (USEC ’07),</cite>
+    February 2007.
+  </LI>
+  <BR>
+  <LI>C. Masone, S. W. Smith.<BR>
+    <B>"Towards Usefully Secure Email."</B>
+    <cite>IEEE Technology and Society Magazine, Special Issue on Security and Usability,</cite> 
+    March 2007.
+  </LI>
+  <BR>
+  <li> S.W. Smith, C. Masone, S. Sinclair.<br>
+    <a href="/~sws/abstracts/sms04.shtml"><b>"Expressing Trust in Distributed Systems: the Mismatch Between Tools and Reality."</b></a>
+    <cite>Forty-Second Annual Allerton Conference on Communication, Control, and Computing.</cite><br>
+    (Invited paper.)  September 2004.
+  </li>
+  <BR>
+  <LI>R.S. Gray, D. Kotz, C. Newport, N. Dubrovsky, A. Fiske, J. Liu, C. Masone, S. McGrath, Y. Yuan.<BR>
+    <B>"Outdoor experimental comparison of four ad hoc routing algorithms."</b>
+    <CITE>Proceedings of the 7th ACM international symposium on Modeling, Analysis and Simulation of Wireless and Mobile Systems</Cite>.
+    October 2004.
+  </li>
+
+</UL>
+</TD>
+</TR>
+
+</TABLE>
+</BODY>
+</HTML>

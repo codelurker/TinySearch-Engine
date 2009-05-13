@@ -1,0 +1,118 @@
+http://www.cs.dartmouth.edu/~farid/publications/hbm01.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=650>
+<tr>
+<td>
+
+<dl>
+<dt><b> A Global Probabilistic Approach to Fiber Tractography with
+Diffusion Tensor MRI  </b> <BR>   
+<dd> S. Inati, H. Farid, K. Sherwin, and S. Grafton <BR> 
+<dd>  Human Brain Mapping, Brighton, UK, 2001    
+</dl>
+
+<p><BR>
+
+<B>Introduction</B> <BR>
+Coherently organized tissue has a high degree of diffusional
+anisotropy which can be observed non-invasively using diffusion
+weighted MRI. DT-MRI has been applied with some success to the in vivo
+tracing of white-matter fiber pathways in the brain.  Current
+approaches[1,2,3] "grow" pathways by taking steps in the direction
+indicated by the diffusion tensor at each point. The noise inherent in
+DT-MRI data limits the ability of these stepwise techniques to trace
+long fibers in their entirety.
+
+In contrast to these local approaches, we describe a global approach
+that employs Expectation Maximization[4] (EM). EM is a statistical
+technique that has been used in computer vision to estimate parametric
+models from 2-D motion vector fields[5]. Here, we apply EM to the
+estimation of neuronal pathways from 3-D tensor fields. EM is an
+iterative two stage process for simultaneous data segmentation and
+model estimation. In order to employ EM, a set of models are first
+defined to describe the data.  In the E-step the probability of every
+data point belonging to each model is computed.  In the M-step the
+probabilities are used to re-estimate the model parameters.  The E-
+and M-steps are repeatedly performed until the probabilities and model
+parameters converge to a solution.
+
+<BR><BR>
+
+<B>Methods</B> <BR>
+Subjects were scanned using a 1.5T GE Signa Echospeed (LX8.3) equipped
+with 4 G/cm gradients.  Diffusion weighted images were acquired using
+a single-shot, diffusion-weighted, spin echo EPI sequence with 6
+gradient encoding directions (b=1000).
+
+In our case, the data consisted of a volume of vector-valued data
+points (the principle eigenvectors of the apparent diffusion
+tensor). The model was taken to be a low-order Bezier curve. A single
+run of EM yielded a parametric description of a pathway and a
+probability of each point belonging to the pathway. Multiple pathways
+were classified after repeated runs with different random starting
+conditions.
+ 
+<BR><BR>
+
+
+<B>Results/Discussion</B> <BR>
+Using the global probabilistic methods outlined above, we have
+successfully traced white matter fiber pathways.  The global nature of
+this technique provides several advantages over local approaches: 1)
+Fiber tracts can be traced through noisy regions.  2) Longer fiber
+tracts can be traced because EM is insensitive to the accumulation of
+error found in stepwise solutions.  3) EM provides a measure of the
+likelihood of each pathway given the underlying data.  4) Finally, by
+fixing both endpoints, pathways connecting two brain regions can be
+easily found.
+
+We have presented a method for fiber tracking using EM.  This global
+approach can be tailored and extended to provide a valuable tool in
+neuroimaging, separately or in concert with existing methods.
+
+<BR><BR>
+
+
+<B>References</B> <BR>
+[1] P.J. Basser, et al., MRM 44:625-632, 2000 <BR>
+[2] T.E. Conturo, et al., PNAS 96:10422-10427, 1999 <BR>
+[3] S. Mori, et al., Ann Neurol 45:265-269, 1999 <BR>
+[4] G.J. McLachlan et al., "Mixture Models: Inference and Applications to
+Clustering", 1988 <BR>
+[5] A. Jepson et al., Proc CVPR 760-761, 1993
+
+<BR><BR>
+
+
+<B>Acknowledgments</B>
+This work was supported in part by NSF Grant P50-NS-17778 (Inati), NSF
+CAREER Award IIS-99-83806 (Farid), NSF Grant EIA-98-02068 (Farid), PHS
+Grant NS-33504 (Grafton).
+
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=650>
+<tr>
+<td valign=top align=right>
+        <i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+        </i>
+</td> 
+</tr>
+</table>
+</html>

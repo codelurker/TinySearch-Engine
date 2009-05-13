@@ -1,0 +1,16 @@
+http://www.cs.dartmouth.edu/~wbc/suditour/011/index.html
+3
+
+<h3>32bit linux computers that students may ssh to </h3>
+<ul>
+<li>carter (scratchbox) 4.1.1 Diablo (sb works)
+<li>carr (scratchbox) 4.1.2 Diablo (sb works)
+<li>hancock (scratchbox) 4.1.2 Diablo (sb works)
+<li>moriah (scratchbox)  4.1.1 Diablo (sb works)
+</ul>
+<h4>this is in 007</h4>
+<ul>
+<li>stratton (scratchbox)  4.0.1 Chinook (does not work)
+<li>osceola (scratchbox)  4.0.1 Chinook (does not work)
+</ul>
+<bri

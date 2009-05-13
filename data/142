@@ -1,0 +1,917 @@
+http://www.cs.dartmouth.edu/ug_honors.php
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Undergraduate Honors</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		
+<h1> Undergraduate Honors Program </h1>
+
+<ul>
+	<li><a href="#1">About the Program</a></li>
+	<li><a href="#2">Honors Application</a></li>
+	<li><a href="#3">Handing In Your Honors Thesis</a></li>
+	<li><a href="#4">Recent honors projects</a></li>
+</ul>
+
+
+<h2 class="break"> About the Honors Program</h2>
+
+<p>
+Every year a few computer-science majors choose to go beyond the
+normal major and enter our Honors Program.  Honors students engage in
+independent work culminating in the writing of a senior thesis, and
+are considered for graduation with honors in the major.  The
+experience of participating in an independent research project and of
+writing a senior thesis can be particularly important for anyone who
+intends to study for the Ph.D. degree in computer science.
+</p>
+
+<p>
+For completion of the Honors Program in Computer Science, and to be
+eligible to graduate with Honors or High Honors, a student must
+complete either an independent study project or a written thesis (for
+High Honors the thesis is required), and have his or her program of
+study approved as an Honors Program by the Undergraduate Advisor.  In
+addition, the recommendation of the thesis/project advisor to award
+honors or high honors must be ratified by a Departmental vote.  An
+honors project is undertaken by a student under the guidance of a
+faculty member.  Usually the subject of the project or thesis will be
+motivated by the concepts or content of an advanced course taken as a
+part of the student's major.  Honors projects and theses are normally
+completed over a period of two or three terms.  A variety of
+activities, such as participation in a department seminar, can lead to
+a project or thesis.  Student suggestions for both projects and theses
+are welcome.  The student should consult with his/her prospective
+project advisor and submit to the Undergraduate Advisor a brief
+written proposal of the project that has the written approval of the
+project advisor.  The Undergraduate Advisor will review the student's
+proposal and the courses that have been selected for the Honors major.
+Approval of the proposal and course selection will constitute formal
+admission into the Honors Program.  This procedure should be completed
+before the end of fall term, senior year.  The student may then
+register for (at most two terms of) Computer Science 97, Undergraduate
+Research.
+</p>
+
+<p>
+Admission to the Honors Program requires a general College average of
+B, and a B average in the major at the time of admission and at the
+time of graduation.  Moreover, a B+ average is required in the work of
+the Honors project/thesis.  The B average in the major is determined
+as follows: Courses prerequisite to the major are not counted, but all
+other courses used as part of the major are counted, as are all
+courses titled Computer Science (beyond prerequisites, excluding 97),
+including courses cross-listed with Computer Science.  Note that in
+the case of modified majors, courses used as part of the major may
+include courses from other departments.  The B+ average required in
+the work of the Honors program is defined to be a grade of B+ given by
+the thesis/project advisor on the thesis or project.  Questions about
+this requirement should be addressed to the Departmental Undergraduate
+Advisor.
+</p>
+
+<p>
+To receive Honors, the student must complete an independent study
+project or thesis, demonstrating "work that is clearly greater in
+depth and scope than that expected in the normal major program."
+</p>
+
+
+<p>
+To receive High Honors, the student <b>must</b> write a thesis.
+There are three additional requirements beyond those for Honors:
+<ol>
+  <li> The student must demonstrate substantial independence in
+       their work.
+
+  <li> The quality of the work should be close to something
+       publishable in a refereed forum.  Interpret this requirement
+       as follows.
+       If the project is primarily a written thesis, then it should
+       be close to the quality expected in a refereed conference or
+       journal.  If the project is primarily a software or hardware
+       artifact (in which case the thesis would for the most part
+       be an exposition of the artifact), then it should be of
+       sufficient quality that people would actually use it.
+
+  <li> The student must publicly present the thesis, as follows.
+       The student and advisor  form a committee of three
+       Computer Science faculty, one of which is the advisor.
+       In the final two weeks of the term, the student must make a
+       formal public presentation of their work, with their committee in
+       attendance.
+</ol>
+</p>
+
+<p>
+In all cases, the advisor (and committee, if relevant), recommends
+honors, high honors, or no honors, to the department faculty, who make
+the ultimate decision.
+</p>
+
+<p>
+If you have any questions about the Undergraduate Program, contact the
+Advisor to Undergraduate Students.
+</p>
+
+<h2 class="break">Honors Application</h2>
+
+<p>
+<a href="http://www.cs.dartmouth.edu/academics/thesis-form.pdf">Application in PDF format</a>
+
+<p>
+You can fill out this form from within Adobe Acrobat.
+<ul>
+
+  <li> Type into the following fields: Last name, First name, Middle
+       initial, Class, HB, Thesis advisor, Thesis title, and all Course
+       fields that apply.  If the thesis title does not fit on the first
+       line, use the additional lines.
+  <li> Select the appropriate grade for each course.  When you click
+       elsewhere, the GPA field will be computed automatically and
+       then updated.
+  <li> Print out the filled-in form when you are done.  You will need
+       to sign the hardcopy, as will your thesis advisor, before you
+       give it to the Advisor to Undergraduate Students.
+</ul>
+
+<!--  <ul> -->
+<!--    <li><A HREF = "honors_application.hqx">Honors application as a BinHex MS Word 5 file</A> -->
+<!--    <li><a href = "honors_application.ps">Honors application in postscript</A><P> -->
+<!--  </ul> -->
+
+
+<h2 class="break">Handing In Your Honors Thesis</h2>
+
+<p>
+CS honors theses are due at 9:00 AM the day of the CS faculty meeting
+at which honors are decided.  The CS Undergraduate Advisor will
+announce this date to the CS honors thesis students each year as soon
+as this date is determined.
+</p>
+
+<p>
+<strong>An advisor has the right to require the thesis to be handed in
+to her or him <em>in advance</em> of the department's
+deadline.</strong> (For example, the advisor might require the thesis
+to be handed in to her or him before the public presentation, if the
+student is going for high honors.)  The actual deadline, therefore, is
+the earlier of two times: whenever the advisor requires the thesis to
+be handed in, and 9:00 AM the day of the CS faculty meeting.
+</p>
+
+<p>
+No extensions beyond 9:00 AM the day of the CS faculty meeting are
+ever possible.  Never.  Nunca.  Won't happen.  Don't even think about
+it.
+</p>
+
+<p> Your thesis should be <em>archival quality</em>.  In other words,
+it should be good enough that we will archive it as a Dartmouth
+College Computer Science Technical Report.  Although you are not
+absolutely required to make your thesis a tech report, we prefer that
+you do.  </p>
+
+<p>
+Follow these steps to make your thesis a tech report:
+<ol>
+
+  <li> Have your advisor get a TR number from the CS office.  Our TR
+       numbers are now of the form TRYYYY-XXX, where YYYY is the year
+       and XXX is a 3-digit number.  Allow a couple of days for this
+       step, just in case.
+
+  <li> When you produce your thesis, make sure that it has the
+       following elements:
+       <ul>
+	 <li> A title.
+	 <li> An abstract, which is a relatively short (1-4
+	      paragraphs) summary of the main results of your thesis.
+	 <li> Page numbers.
+	 <li> Your advisor's name.
+	 <li> The TR number appearing above the title, in the form
+	      <blockquote>Dartmouth College Computer Science Technical
+	      Report TRYYYY-XXX</blockquote>
+
+       </ul>
+
+  <li> Produce a PDF (or PostScript) file containing your entire thesis.
+
+  <li> Follow the instructions at <a
+  href="http://www.cs.dartmouth.edu/reports">the TR archive</a> to
+  submit a tech report and metadata.
+
+</ol>
+</p>
+
+<h2 class="break">Recent Honors Projects</h2>
+
+<p>Some of the senior theses completed in the past few years are listed
+below, with links to tech reports where available.</p>
+
+<style>
+dl.evenyear {
+  background:#eeeeee;
+}
+</style>
+
+<dl class="evenyear">
+<dt>Nicholas Christman, 2008 (Jayanti)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-618/"><em>The Weakest Failure Detector to Solve Mutual Exclusion</em></a></dd>
+
+<dt>Ruslan Dimov, 2008 (Smith)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-624/"><em>Making RBAC Work in Dynamic, Fast-Changing Corporate Environments</em></a></dd>
+
+<dt>Jeffrey Fielding, 2008 (Kotz)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-623/"><em>Linkability in Activity Inference Data Sets</em></a></dd>
+
+<dt>Fernando Orta, 2008 (Smith)</dt>
+<dd><em>Coco: inferring user's intent</em></dd>
+
+<dt>Manya Sleeper, 2008 (Smith)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-628/"><em>Key Management for Secure Power SCADA</em></a></dd>
+</dl>
+
+<dl>
+<dt>Omar ElNaggar, 2007 (Thompson)</dt>
+<dd><em>Analyzing Network Activity Incentivized with a Network Game</em></dd>
+
+<dt>Andrew Flynn, 2007 (Smith)</dt>
+<dd><em>WikiD: Dartmouth Wiki Implementing Fine-Grained, Decentralized Access Control</em></dd>
+
+<dt>Mark Henle, 2007 (Drysdale)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-593/"><em>Closest and Farthest-Line Voronoi Diagrams in the Plane</em></a></dd>
+
+<dt>Darrell Hoy, 2007 (Fleischer)</dt>
+<dd><em>Atomic Splittable Nash Equilibria in Series-Parallel Network Flow Games</em></dd>
+
+<dt>Daniel Peebles, 2007 (Balkcom)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-592/"><em>SCML: A Structural Representation for Chinese Characters</em></a></dd>
+
+<dt>Evan Sparks, 2007 (Smith)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-597/"><em>A Security Assessment of Trusted Platform Modules</em></a></dd>
+
+<dt>Alexander Steinberg, 2007 (Pellacini)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-589/"><em>Lighting with Sketches</em></a></dd>
+</dl>
+
+<dl class="evenyear">
+<dt>Khanh Do Ba, 2006 (Jayanti)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2006-578/"><em>Wait-Free and Obstruction-Free Snapshot</em></a></dd>
+
+<dt>David Blinn, 2006 (Chakrabarti)</dt>
+<dd><em>Topics in Communication Complexity</em></dd>
+ 
+<dt>Allen Harvey Jr., 2006 (Smith)</dt>
+<dd><em>Graceful Security Degradation: Providing Secure Data Quickly</em></dd>
+
+<dt>Constantinos Neophytou, 2006 (Henderson)</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2006-577/"><em>SAMPLED: Shared Anonymous Music Playback using wirelEss Devices</em></a></dd>
+
+<dt>Nicholas Santos (Smith), 2006</dt>
+<dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2006-574/"><em>Limited Delegation (Without Sharing Secrets) in Web Applications</em></a></dd>
+</dl>
+
+<dl>
+  <dt>Marco Adelfio, 2005 (Chakrabarti)</dt>
+  <dd><em>Lower Bounds of the Communication Complexity of Shifting</em></dd>
+
+  <dt>Matthew Bell, 2005 (Balkcom)</dt>
+  <dd><em>Utilizing Motion Planning with Friction and Uncertainty to Develop a Toy Rock Climbing Robot</em></dd>
+
+  <dt>Patrick Brady, 2005 (Linder)</DT>
+  <dd><em>GPS-Based Direction Provider Photographic Landmarks</em></dd>
+
+  <dt>Alexander Clay, 2005 (Linder)</dt>
+  <dd><em>Path-Planning for a Mobile Wall-Climbing Robot</em></dd>
+
+  <dt>Twum Djin, 2005 (Smith)</dt>
+  <dd><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-544/"><em>Managing Access Control in Virtual Private Networks</em></a></dd>
+
+  <dt>Ohene Kwasi Ohene-Adu, 2005 (Linder)</dt>
+  <dd><em>Force Feedback and Tilt Sensing</em></dd>
+
+  <dt>Gary Morris, 2005 (McIlroy)</dt>
+  <dd><em>A Binding Time Analysis Technique for Functional Programming Languages</em></dd>
+
+  <dt>Alexei Pytel, 2005 (Drysdale)</dt>
+  <dd><em>Image Thinning</em></dd>
+
+  <dt>Nebojsa Sabovic, 2005 (Cormen)</dt>
+  <dd><em>Performing Out-of-Core Mixed-Radix Permutations on Parallel Disk Systems</em></dd>
+
+  <dt>David Schnur, 2005 (Smith)</dt>
+  <dd><em>GPUGrid: A Framework for Distributed Computation Across GPU Networks</em></dd>
+
+  <dt>Michael Swift, 2005 (Linder)</dt>
+  <dd><em>3D Reconstruction on Consumer Grade Video Cards</em></dd>
+
+  <dt>Timothy Williamson, 2005 (Linder)</dt>
+  <dd><em>Integrating a Human Figure into an Animation by Interpolating Key Poses</em></dd>
+
+  <dt>Ling Yan, 2005 (Bailey-Kellogg)</dt>
+  <dd><em>Industry Ecosystem Processing and Analysis System</em></dd>
+</dl>
+
+<dl class="evenyear">
+  <dt> Alexander Barsamian, 2004 (Smith)
+  <dd> <em>Compartmentalization and Attestation Using SELinux and
+       TPM-enhanced Hardware</em>
+
+  <dt> Nikita Dubrovsky, 2004 (Gray)
+  <dd> <a href="/reports/abstracts/TR2004-499"><em>Mobile Agents
+       Simulation with DaSSF</em></a>
+
+  <dt> Eric Krupski, 2004 (Hawblitzel)
+  <dd> <em>Using Packet Types in a Packet Processing Language</em>
+
+  <dt> Rizwan Mahmud, 2004 (Linder)
+  <dd> <em>Representing Movement as Sound</em>
+
+  <dt> Cristina Maracine, 2004 (Cormen)
+  <dd> <em>Experimenting With Prefetch Instructions for Better
+       Performance in Pipeline-Structured Computations</em>
+
+  <dt> Paul Mazzuca, 2004 (Feustel)
+  <dd> <a href="/reports/abstracts/TR2004-506"><em> Access Control in
+       a Distributed Decentralized Network: An XML Approach to Network
+       Security using XACML and SAML</em></a>
+
+  <dt> Calvin Newport, 2004 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2004-504"><em>Simulating Mobile
+       Ad hoc Networks: A Quantitative Evaluation of Common MANET
+       Simulation Models</em></a>
+
+  <dt> Joseph Pechter, 2004 (Farid and Loeb)
+  <dd> <a href="/reports/abstracts/TR2004-503"><em>Enhancing
+       Expressiveness of Speech through Animated Avatars for Instant
+       Messaging and Mobile Phones</em></a>
+
+  <dt> William Pechter, 2004 (Farid and Loeb)
+  <dd> <a href="/reports/abstracts/TR2004-501"><em> Synchronizing
+       Keyframe Facial Animation to Multiple Text-to-Speech Engines
+       and Natural Voice with Fast Response Time</em></a>
+
+  <dt> Kimberly Powell, 2004 (Smith)
+  <dd> <a href="/reports/abstracts/TR2004-512"><em>Testing the
+       Greenpass Wireless Security System</em></a>
+
+  <dt> Rachel Ringel, 2004 (Jayanti)
+  <dd> <a href="/reports/abstracts/TR2004-498"><em> Efficient
+       Wait-Free Implementation of Atomic Multi-Word Buffer</em></a>
+
+  <dt> Brunn Roysden III, 2004 (Cormen)
+<!--   <dd> <a href="/reports/abstracts/TR2004-500"><em>Scheduling -->
+<!--        Pipelined, Multi-Threaded Programs in Linux</em></a> -->
+  <dd> <em>Scheduling Pipelined, Multi-Threaded Programs in Linux</em>
+
+  <dt> Samuel Slee, 2004 (Jayanti)
+  <dd> <em>Adaptive, Long-lived, Namespace-Optimal Renaming in the
+       Asynchronous, Shared-Memory Model</em>
+
+  <dt> Geoffrey Stowe, 2004 (Feustel)
+  <dd> <a href="/reports/abstracts/TR2004-502"><em> A Secure Network
+       Node Approach to the Policy Decision Point in Distributed
+       Access Control</em></a>
+
+</dl>
+
+<dl>
+
+  <dt> Mark Barolak, 2003 (Drysdale)
+  <dd> <em>Finding Optimal Lower Bounds on Sorting Networks Through
+       Exhaustive Search</em>
+
+  <dt> Michael DeRosa, 2003 (Gray)
+  <dd> <a href="/reports/abstracts/TR2003-458/"><em>Power Conservation
+       in the Network Stack of Wireless Sensors</em></a>
+
+  <dt> Elizabeth Hamon, 2003 (Cormen)
+  <dd> <a href="/reports/abstracts/TR2003-460"><em>Enhancing
+       Asynchronous Parallel Computing</em></a>
+
+  <dt> Byungil Kang, 2003 (Smith)
+  <dd> <em>Strengthening Voice Authentication with Splicing Detection
+       for Use with Untrusted Clients</em>
+
+  <dt> Clara Lee, 2003 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2003-455/"><em>Persistence and
+       Prevalence in the Mobility of Dartmouth Wireless Network
+       Users</em></a>
+
+  <dt> Thomas Mueller, 2003 (Butler)
+  <dd> <em>Billiards Mentor for Studying Performance of Search
+       Algorithms in a Continuous Domain with Significant
+       Uncertainly</em>
+
+  <dt> Neha Narula, 2003 (Jayanti)
+  <dd> <em>Eliminating Complex Synchronization Instructions in the
+       Contention-Free Case for Mutual Exclusion Algorithms</em>
+
+  <dt> Mindy Pereira, 2003 (Smith)
+  <dd> <a href="/reports/abstracts/TR2003-461/"><em>Trusted S/MIME
+       Gateways</em></a>
+
+  <dt> Evan Richardson, 2003 (Perrone)
+  <dd> <a href="/reports/abstracts/TR2003-450"><em>An Evaluation of
+       the Impact of Models for Radio Propagation
+       on the Simulation of 802.11b Wireless Networks</em></a>
+
+  <dt> Paul Seligman, 2003 (Smith)
+  <dd> <em>An Exploration of Machine Learning Algorithms to Prevent
+       Fraudulent Data Access from Online Journal Archives</em>
+
+  <dt> Daniel Simola, 2003 (Aslam)
+  <dd> <a href="/reports/abstracts/TR2003-456"><em>Discovery and
+       Analysis of Gene Regulatory Sequence Elements in the Human
+       Genome</em></a>
+
+  <dt> Lisa A. Torrey, 2003 (Aslam)
+  <dd> <a href="/reports/abstracts/TR2003-449"><em>An Active Learning
+       Approach to Ranking Search Engines</em></a>
+
+  <dt> Gabriel Vanrenen, 2003 (Smith)
+  <dd> <em>Revocation of Security Capabilities: A Case Study on
+       Distributed, Trusted Third Parties</em>
+
+  <dt> Edward Wei, 2003 (Hawblitzel)
+  <dd> <a href="/reports/abstracts/TR2003-465"><em> Using Low Level
+       Linear Memory Management for Type-Preserving Mark-Sweep Garbage
+       Collector</em></a>
+
+</dl>
+
+<dl class="evenyear">
+  <dt> Kwang-Hyun Baek, 2002 (Jayanti)
+  <dd> <em>Mutual Exclusion with Process Priorities</em>
+
+
+  <dt> Marco Barreno, 2002 (Smith)
+  <dd> <a href="/reports/abstracts/TR2002-425/"><em>The Future of
+       Cryptography under Quantum Computers</em></a>
+
+  <dt> Kobby Essien, 2002 (Akay)
+  <dd> <a href="/reports/abstracts/TR2002-431/"><em>Analysis of Protein
+       Sequences Using Time Frequency and Kolmogorov-Smirnov Methods</em></a>
+
+  <dt> Sebastien Lahaie, 2002 (Aslam)
+  <dd> <a href="/reports/abstracts/TR2002-428/"><em>
+
+       Information-theoretic Bounds on the Training and Testing Error of
+       Boosting </em></a>
+
+  <dt> Christopher Masone, 2002 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2002-426/"><em> Role Definition
+       Language (RDL): A Language to Describe Context-Aware Roles </em></a>
+
+  <dt> A. Abram White, 2002 (Kotz)
+
+  <dd> <a href="/reports/abstracts/TR2002-427/"><em> Performance and
+       Interoperability In Solar </em></a>
+</dl>
+
+<dl>
+  <dt> Jeremy T. Fineman, 2001 (Cormen)
+  <dd> <a href="/reports/abstracts/TR2001-402/"><em>Optimizing the Dimensional Method for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs</em></a>
+
+  <dt> Alex Iliev, 2001 (Smith) <dd> <a
+  href="http://www.cs.dartmouth.edu/~sws/theses/alex.ps"><em>An Armored
+  Data Vault</em></a>
+
+  <dt> Mehmet Iyigun, 2001 (Nicol)
+  <dd> <a href="/reports/abstracts/TR2001-405/"><em>DaSSFNet: An Extension to DaSSF for High-Performance Network Modeling</em></a>
+
+  <dt> Ammar Khalid, 2001 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2001-391/"><em>A Directory Infrastructure to Support Mobile Services</em></a>
+
+  <dt> Mikhail G. Khankin
+  <dd> <a href="/reports/abstracts/TR2001-407/"><em>TCP/IP Implementation within the Dartmouth Scalable Simulation Framework</em></a>
+
+  <dt> Eric Kidd, 2001 (Hawblitzel)
+  <dd> <a href="/reports/abstracts/TR2001-404/"><em>Efficient Compression of Generic Function Dispatch Tables</em></a>
+
+  <dt> David D. Latham, 2001 (Aslam)
+  <dd> <a href="/reports/abstracts/TR2001-394/"><em>An Empirical Study of Training and Testing Error in Boosting</em></a>
+
+  <dt> Aidan S. Marcuss, 2001 (Makedon)
+  <dd> <a href="/reports/abstracts/TR2001-403/"><em>EcomRISK.org : A site to classify and organize the risks of performing business on the Internet</em></a>
+
+  <dt> David Marmaros, 2001 (Rus and Kotz)
+  <dd> <em>A System for Audio Personalization with Applications on Wireless Devices</em>
+
+  <dt> Arun Mathias, 2001 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2001-392/"><em>SmartReminder: A Case Study on Context-Sensitive Applications</em></a>
+
+  <dt> G. Ayorkor Mills-Tettey, 2001 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2001-390/"><em>Mobile Voice Over IP (MVOIP): An Application-level Protocol </em></a>
+
+  <dt> Sean Richardson, 2001 (Smith)
+  <dd> <em>Whom Can You Trust?  Designing a System to Evaluate and
+       Represent the Security State of Machines Using PKI</em>
+
+  <dt> Jeremy I. Robin, 2001 (Drysdale)
+  <dd> <a href="/reports/abstracts/TR2001-406/"><em>Fastab: Solving the Pitch to Notation Problem</em></a>
+
+  <dt> Thomas B. Stephens, 2001 (Wilson)
+  <dd> <a href="/reports/abstracts/TR2001-389/"><em>Improving a Brokering System for Linking Distributed Simulations</em></a>
+
+  <dt> Pablo Stern, 2001 (Kotz)
+  <dd> <a href="/reports/abstracts/TR2001-393/"><em>Measuring Early Usage of Dartmouth's Wireless Network</em></a>
+
+  <dt> Tiffany M. Wong, 2001 (Cormen)
+  <dd> <a href="/reports/abstracts/TR2001-395/"><em>An Implementation of Object-Oriented Program Transformation for Thought-Guided Debugging </em></a>
+  <dd> <a href="/reports/abstracts/TR2001-396/"><em>Implementing a Database Information System for an Electronic Baseball Scorecard</em></a>
+
+</dl>
+
+<dl class="evenyear">
+  <dt> Karolyn Abram, 2000 (Rockmore)
+  <dd> <em>Registration of Images with Dissimilar Contrast using a Hybrid
+   Method Employing Correlation and Mutual Information</em>
+
+  <dt> John C. Artz, 2000 (Kotz and Rus)
+  <dd> <em><a href="/reports/abstracts/TR2000-372/"> Personal Radio
+  </a></em>
+
+  <dt> Debbie O. Chyi, 2000 (Kotz)
+  <dd> <em><a href="/reports/abstracts/TR2000-370/">An Infrastructure
+  for a Mobile-Agent System that Provides Personalized Services to
+  Mobile Devices </a></em>
+
+  <dt> Ezra E.k. Cooper, 2000 (Gray)
+  <dd> <em><a href="/reports/abstracts/TR2000-375/"> An Economic
+  CPU-Time Market for D'Agents </a></em>
+
+  <dt> Cenk Ergan, 2000 (Kotz)
+  <dd> <em>Porting the Minix File System to Windows NT</em>
+
+  <dt> Eric Greenberg, 2000 (Rockmore)
+  <dd> <em>A Simulation of Auroral Absorption</em>
+
+  <dt> David B. Martin, 2000 (Farid)
+  <dd> <em><a href="/reports/abstracts/TR2000-373/">Depth from Flash</a></em>
+
+  <dt> Fred Reiss, 2000 (Aslam)
+  <dd> <em>Automated Information Organization for Information Retrieval</em>
+
+  <dt> Dan Scholnick, 2000 (Aslam)
+  <dd> <em>JBoost: A Java platform for experimenting with boosting algorithms</em>
+</dl>
+
+<dl>
+  <dt> Lauren Baptist, 1999 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR99-350/">Two Algorithms for
+       Performing Multidimensional, Multiprocessor, Out-of-Core
+       FFTs</a></em>
+
+  <dt> James Chalfant, 1999 (Nicol)
+  <dd> <em><a href="/reports/abstracts/TR99-346">Parallel DaSSF
+       Discrete-Event Simulation without Shared Memory</a></em>
+
+  <dt> Jeffrey Isaacs, 1999 (Aslam)
+  <dd> <em><a href="/reports/abstracts/TR99-357">Investigating
+       Measures for Pairwise Document Similarity</a></em>
+
+  <dt> Marisa Kolodny, 1999 (Rus)
+  <dd> <em><a href="/reports/abstracts/TR99-354">Computers, Art and
+       Smart Rooms: A Smart Picture Frame that Senses the Weather and
+       Genetically Evolves Images</a></em>
+
+  <dt> David Kung, 1999 (Cybenko)
+  <dd> <em><a href="/reports/abstracts/TR99-349">Improved Computer
+       Detection and Mapping of Cerebral Oxygenation</a></em>
+
+  <dt> Artem Lifschitz, 1999 (Rus)
+  <dd> <em><a href="/reports/abstracts/TR99-356">An Environment for
+       the Facilitation of Robotic Programming</a></em>
+
+  <dt> Matthew Pearson, 1999 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR99-351">Fast Out-of-Core
+       Sorting on Parallel Disk Systems</a></em>
+
+  <dt> Hongxia Quan, 1999 (Nicol)
+  <dd> <em>The implementation of DaSSF OTcl APIs</em>
+
+  <dt> April Rasala, 1999 (Stein)
+  <dd> <em><a href="/reports/abstracts/TR99-347">Existence Theorems
+       for Scheduling to Meet Two Objectives</a></em>
+
+  <dt> Marsette Vona, 1999 (Rus)
+  <dd> <em><a href="/reports/abstracts/TR99-348">A Two Dimensional
+       Crystalline Atomic Unit Modular Self-reconfigurable Robot</a></em>
+
+  <dt> Jason Whaley, 1999 (Aslam)
+  <dd> <em><a href="/reports/abstracts/TR99-352">An Application of
+       Word Sense Disambiguation to Information Retrieval</a></em>
+
+  <dt> Alik Widge, 1999 (Donald)
+  <dd> <em>A Method for Automatic Determination of Protein Secondary
+       Structure from Sparse Unassigned Heteronuclear NMR Data</em>
+
+</dl>
+
+<dl class="evenyear">
+  <dt> Chrissy Alvarado, 1998 (Rus)
+  <dd> <em><a href="/reports/abstracts/TR98-336/">Distributed
+       Route Planning Using Partial Map-Building</a></em>
+
+  <dt> Bill Bleier, 1998 (Makedon)
+  <dd> <em>Authoring 3D Multimedia Stimuli for Functional Brain Mapping</em>
+
+  <dt> Matt Carter, 1998 (Aslam)
+  <dd> <em><a href="/reports/abstracts/TR98-341/">Boosting a
+       Simple Weak Learner For Classifying Handwritten Digits</a></em>
+
+  <dt> Peter DeSantis, 1998 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR98-339/">Avoiding Conflicts
+       Dynamically in Direct Mapped Caches with Minimal
+       Hardware Support</a></em>
+
+  <dt> Susanna Leng, 1998 (Donald)
+  <dd> <em>Data-directed conformational search: using global
+       optimization to determine large protein structure from
+       sparse NOE data</em>
+
+  <dt> Chris Leon, 1998 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR98-333/">An Implementation
+       of External-Memory Depth-First Search</a></em>
+
+  <dt> Cem Paya, 1998 (Morris)
+  <dd> <em><a href="/reports/abstracts/TR98-328/">A framework for
+       World Wide Web client-authentication protocols</a></em>
+
+  <dt> Jack Pien, 1998 (Aslam)
+  <dd> <em><a href="/reports/abstracts/TR98-334/">C Compiler
+       Targeting the Java Virtual Machine</a></em>
+
+  <dt> Mike Pryor, 1998 (Aslam and Davis)
+  <dd> <em><a href="/reports/abstracts/TR98-338/">The Effects of
+       Singular Value Decomposition on Collaborative Filtering</a></em>
+
+  <dt> Mike Ross, 1998 (Rus)
+  <dd> <em><a href="/reports/abstracts/TR98-332/">Multiscouting:
+       Guiding distributed manipulation with multiple mobile sensors</a></em>
+
+  <dt> Eric White, 1998 (Kotz)
+  <dd> <em>A Comparison of Mobile Agent Migration Mechanisms</em>
+
+</dl>
+
+<dl>
+  <dt> Jon Feldman, 1997 (Stein)
+  <dd> <em> <a href="/reports/abstracts/TR97-316/">The Complexity of
+       Clerkship Scheduling</a></em>
+
+  <dt> Eric Hagen, 1997 (Aslam)
+  <dd> <em> <a href="/reports/abstracts/TR97-318/">An Information Retrieval
+       System for Performing Hierarchical Document Clustering</a></em>
+
+  <dt> Simon Holmes a Court, 1997 (Danskin)
+  <dd> <em> <a href="/reports/abstracts/TR97-315/">Admission Control
+       Policies for Internet File Transfer Protocols</a></em>
+
+  <dt> Dawn Lawrie, 1997 (Rus)
+  <dd> <em> <a href="/reports/abstracts/TR97-313/">Self-Organizing
+       File Cabinet</a></em>
+
+  <dt> Ka-Tak Lo, 1997 (Danskin)
+  <dd> <em> <a href="/reports/abstracts/TR97-314/">KLZ:
+       A Prototype X Protocol Compression System</a></em>
+
+</dl>
+
+<dl class="evenyear">
+  <dt> Mark Giles, 1996 (Rus)
+  <dd> <em>The virtual yellow page system and cooperation between
+       transportable agents</em>
+
+  <dt> Jonathan Moore, 1996 (Danskin)
+  <dd> <em><a href="/reports/abstracts/TR96-291/">Object-oriented
+       Scenes for Virtual Light</a></em>
+
+  <dt> Denis Serenyi, 1996 (Danskin)
+  <dd> <em><a href="/reports/abstracts/TR96-289/">Segmenting
+       Workstation Screen Images</a></em>
+
+  <dt> Scott Silver, 1996 (Kotz)
+  <dd> <em><a href="/reports/abstracts/TR96-287/">Implementation
+       and Analysis of Software-based Fault Isolation</a></em>
+
+  <dt> Bin Song, 1996 (Jayanti)
+  <dd> <em>Space Complexity Lower Bound of 1-Tolerant
+       Self-Implementation of Consensus</em>
+
+  <dt> Michael Taylor, 1996 (Healy)
+  <dd> <em><a href="/reports/abstracts/TR96-290/">MRI on the Fly:
+       Accelerating MRI Imaging Using LOA
+       Classification with LOB Feature Extraction</a></em>
+
+  <dt> Joel Thomas, 1996 (Kotz)
+  <dd> <em><a href="/reports/abstracts/TR96-288/">The Panda Array
+       I/O Library on the Galley Parallel File System</a></em>
+
+</dl>
+
+<dl>
+  <DT> Matthew Cheyney, 1995 (Stein and Danskin)
+  <dd> <em>Can Biological Computation be Used to Factor Large Numbers</em>
+
+  <DT>Scott Cushman, 1995 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR95-259/">A Multiple Discrete
+       Pass Algorithm on a DEC Alpha 2100</a></em>
+
+  <DT>Kenneth Harker, 1995 (Kotz)
+  <dd> <em><a href="/reports/abstracts/TR95-258/">TIAS: A Transportable
+       Intelligent Agent System</a></em>
+
+
+  <DT>Daniel Kranowski, 1995 (Rus)
+  <dd> <em>Morpho-lexical and Syntactic Elements of Natural Language and Understanding</em>
+
+  <DT>Song Bac Toh, 1995 (Kotz)
+  <dd> <em><a href="/reports/abstracts/TR95-260/">Simulation of a
+       Video-on-Demand  System</a></em>
+
+</dl>
+
+<dl class="evenyear">
+  <DT>Kristin Bruhl, 1994 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR94-224/">BMMC Permutations
+       on a DECmpp 12000/Sx</a></em>
+
+
+  <DT>Christine McGavran, 1994 (Cormen)
+  <dd> <em><a href="/reports/abstracts/TR94-225/">Human Creativity
+       Through Computer Gaming</a> </em>
+
+  <DT>James Thomas, 1994 (Sandon)
+  <dd> <em>Automated classification of leaves by quantitative analysis of vein structure from images  </em>
+
+</dl>
+
+<dl>
+  <DT>Derek Allen, 1993 (Sandon)
+  <dd> <em>On the use of structure to optimize neural network performance using the game of tetris </em>
+
+
+  <DT>Lewis Cirne, 1993 (Brown)
+  <dd> <em>Yakkity Yak:  A Macintosh front end to network chat programs</em>
+</dl>
+
+<dl class="evenyear">
+  <DT>Christopher Bingham, 1992 (Walinsky)
+  <dd> <em>Exploring Hybrid Genetics-Based Machine Learning: A Non-Stimulus-Response Animat Problem  Incorporating State  </em>
+
+  <DT>Jeff Cobb, 1992 (Walinsky)
+  <dd> <em>Applying Artificial Neural Network Classifiers to Handwritten Character Recognition </em>
+
+  <DT>James Gochee, 1992 (Kotz)
+  <dd> <em><a href="/reports/abstracts/TR94-218/">SPEDE-- A Simple Programming
+       Environment for Distributed Execution</a></em>
+
+
+  <DT>Brendan Hahn, 1992 (Kotz)
+  <dd> <em>Anthrax:  A system for parallel distributed computation</em>
+
+  <DT>Nicholas P. Wilt, 1992 (Drysdale)
+  <dd> <em>OORT- an Object Oriented Ray Tracer</em>
+</dl>
+
+
+
+
+	</TD>
+
+</TR>
+</TABLE>
+
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>

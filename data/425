@@ -1,0 +1,45 @@
+http://www.cs.dartmouth.edu/~sasho/faerieplay
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+  <title>Tiny Trusted Third Parties</title>
+
+  <link href="../main.css" title="main" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+  
+
+<h1>Faerieplay: Secure-hardware assisted secure multiparty computation</h1>
+
+<h2>Technical Report</h2>
+<p>
+<a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2005-551/"> More
+Efficient Secure Function Evaluation Using Tiny Trusted Third Parties</a>. Here
+we describe our circuit-based Secure Multiparty Computation (SMC) system, which
+uses tiny TTPs, and improves efficiency with indirect arrays. Indirect arrays
+are a major weakness with exisiting non-TTP protocols.
+</p>
+
+<h2>Software</h2>
+<a name="software">
+<p>
+Contact <a href="../">Alex</a> about the circuit compiler and circuit "virtual
+machine" which comprise the current Faerieplay system. They will also be made
+available here during May-June 2007.
+
+<hr>
+Maintained by <a href="../">Alex Iliev</a>
+
+<hr>
+<!--time-start-->
+Last modified: May 08, 2007
+<!--time-end-->
+
+</body>
+</html>

@@ -1,0 +1,145 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/Project/proj.html
+3
+<html><head><title>CS 33 (Spring 2009): Course Project</title></head> <body>
+
+<div style="width:800px">
+<h2>CS 33 (Spring 2009): Course Project</h2>
+
+  <h3>Deadline for Stage 1 (High-Level Design): Before class on May 4, 2009</h3>
+
+  <h3 style="color:red">Deadline for Stage 2 (High-Level Design): 10:00pm sharp on May 11, 2009</h3>
+
+  <h4 style="color:red">[This page will be updated from time to time]</h4>
+
+  <p> Your course project will consist of conceiving, designing and
+  implementing a moderate-sized database application for an enterprise
+  of your choice (except for a bank, since a bank is used heavily in the
+  book as a running example). You <i>will not</i> need to implement an
+  actual DBMS: you should use MySQL instead. You <i>will</i> need to
+  implement an elegant and intuitive user-interface, which will almost
+  surely be Web-based. At this point, you have already used a connector
+  to work with a MySQL database while coding in a general-purpose
+  language. The textbook has some basic coverage of the other relevant
+  technologies that you might need: CGI, PHP and XML. We shall also
+  discuss these briefly in class, at the appropriate time. </p>
+
+  <p> The stages of this project will be as follows:
+  <ol>
+
+    <li> <b>High-Level Design:</b> Identify the entities, attributes and
+    relationships that your database will represent. Prepare a detailed
+    E-R diagram showing this information. Also, at this stage, identify
+    the potential users of the system, and what kinds of authorizations
+    they should have to access or modify the data in your database.
+    </li> <br/>
+
+    <li> <b>Schema Design:</b> Translate your E-R diagram into a schema
+    for your relational database. Pay heed to normalization and be
+    prepared to reason cogently about (1) the level of normalization of
+    your database, and (2) any purposeful deviations from normal forms
+    and your justification for such deviations. Also, at this stage,
+    make a list of views that you might wish to create, based on the
+    varying needs or different types of users. </li> <br/>
+
+    <li> <b>SQL-Mania:</b> Prepare a large collection of SQL statements
+    for a number of natural queries and database updates that each of
+    your user types might want to perform. Populate your database with a
+    large amount of data and test your SQL statements. At this stage,
+    you should spend some time designing intelligent ways to generate
+    test data. Random is usually good, but <i>purely</i> random data may
+    hide problematic performance-busting corner cases, so you will have
+    to be cleverer than that. </li> <br/>
+
+    <li> <b>The Application Layer:</b> Provide a suitable intuitive
+    interface (ideally, web-based) for each category of user that will
+    be using your database. When appropriate, you may combine interfaces
+    for multiple user types (as in, e.g., Dartmouth's Banner system).
+    You should also provide an interface for appropriately authorized
+    users to modify data (depending on your application, a web interface
+    might not be the best for this).  At this stage, you need not bother
+    about users lying to your system about their identity.  </li> <br/>
+
+    <li> <b>Authentication:</b> Finally, implement a web-based
+    authentication system in preparation for a mock deployment of your
+    entire database application. In other words, ensure that your users
+    are not lying about their identities. </li> <br/>
+
+  </ol> </p>
+
+  <p> The choice of what enterprise to build an application for is up to
+  you. Here are some suggestions to get you started. There is no
+  obligation to pick from one of these. 
+
+  <ul>
+
+    <li> Academics at a university. Your system will manage information
+    about students, professors and staff at the university, plus
+    courses, grades, prerequisites, majors, etc. This is only a starter
+    list.  Flesh this out as appropriate. </li>
+
+    <li> An airline. Manage information about a fleet of aircraft,
+    flights, fuel purchases, customers, passengers, frequent flier
+    miles, airports, etc. Again, this is only a starter list and should
+    be fleshed out. </li>
+
+    <li> A hospital. You might want to interface with a toy
+    health-insurance system to make this interesting and complex.  There
+    are interesting authorization issues that arise here, and if you
+    decide to take up this topic, and you want to provide some realism
+    to your project, you ought to talk to people at DHMC to understand
+    these issues. </li>
+
+  </ul> </p>
+
+  <br/>
+
+  <h3>What to turn in (Stage 1)</h3>
+  <ul>
+    <li> By 5:00pm on Thu Apr 30, notify the professor and the TA about
+    your chosen project topic. A simple email will suffice. No two teams
+    can pick the exact same topic, so if you know early what you want to
+    do, then notify us early and "reserve" the topic!
+    </li> <br/>
+
+    <li> Before class on Mon May 4, prepare (as a team) your E-R diagram
+    and information about potential users of your system. During class
+    that day, you will present this information to the class, and we
+    will critique everyone's high-level design as a class. Make sure
+    everyone on the team gets a chance to speak about some part of the
+    design. Plan a 10-12 minute presentation.
+    </li> <br/>
+
+    <li> You need a way to show your E-R diagram to the entire class.
+    Good presentation software, such as Microsoft's PowerPoint, or
+    Apple's Keynote, is recommended. But feel free to use whatever
+    software you find useful.
+    </li> <br/>
+  </ul>
+
+  <br/>
+
+  <h3 style="color:red">What to turn in (Stage 2)</h3>
+  <ul>
+    <li> Describe the schema for your database in a suitably formatted
+    document. You can use LaTeX to create a PDF (as in some of the
+    homeworks), or you can use MS Word or a similar program to produce
+    your document. </li> <br/>
+
+    <li> Write an SQL script to create the tables in your database,
+    declaring appropriate types for each attribute, and including the
+    appropriate basic integrity constraints, such as primary key,
+    foreign key, not null, etc. Your script should also create views
+    that particular users will have access to. (It's likely that you
+    will have to add some more views at a later stage of the project,
+    but you should think through the design deeply so you already have
+    close to a complete set of views.) </li> <br/>
+
+    <li> Submit the two documents (the schema description, and the SQL
+    script) as "Homework 4", using the homework submission form. Only
+    one member of each team needs to submit. </li> <br/>
+  </ul>
+
+</div>
+
+</body></html>
+mi

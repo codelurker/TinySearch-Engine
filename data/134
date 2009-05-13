@@ -1,0 +1,207 @@
+http://www.cs.dartmouth.edu/farid
+2
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+   var isNS4 = (document.layers) ? true : false;
+   var isIE4 = (document.all && !document.getElementById) ? true : false;
+   var isIE5 = (document.all && document.getElementById) ? true : false;
+   var isNS6 = (!document.all && document.getElementById) ? true : false;
+   var home_bg_index;
+
+   function pickhome_bg() {
+      home_bg_index = 9;
+      filename = "home_bg" + home_bg_index + ".gif";
+      photo = new Image(); photo.src = filename;
+      document.home_bg.src = photo.src;
+   }
+
+   function setvis( name, val ) {
+      if( isNS4 ) {
+          p = document.layers[name];
+	  (val == 1) ? p.visibility = "show" : p.visibility = "hidden";
+      } else {
+	if( isIE4 ){
+          p = document.all[name].style;
+	  ( val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else if( isIE5 || isNS6 ) {
+          p = document.getElementById(name).style;
+	  (val == 1 ) ? p.visibility = "visible" : p.visibility = "hidden";
+	} else {
+          p = document.getElementById(name).style;
+	  ( val == 1 ) ? p.visibility = "show" : p.visibility = "hidden";
+	}
+      }
+   }
+//-->
+</SCRIPT>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066"
+      onLoad="pickhome_bg();">
+
+
+<META name="keywords" content="Hany Farid, Hani Farid, research, vision, image
+processing, computer vision, machine vision, human vision, steerable
+filters, derivative filters, fractional derivatives, fractional
+fourier transform, range estimation, image separation, separating
+reflections, digital forgery, digital tampering, digital forensics,
+expert witness, steganography, steganalysis, secret messages, motion
+grouping, texture grouping, temporal synchrony, transparency,
+tutorials, primer, matlab, bispectrum, bicoherence, blind gamma
+correction, image non-linearity, mathematics for kids, math for kids,
+mathematics stories, math stories, reconstructing egyptian tombs,
+unfolding egyptian tombs, virtual egyptian tombs, egyptian tomb,
+egyptian murals, Orozco murals, vrml, visual illusions">
+
+<META Name="description" Content="Hany Farid, Professor,
+Image Science Group, Department of Computer Science, Dartmouth
+College">
+
+   <map name="menubar">
+   <area shape="rect" coords="35,105,95,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('me',1);setvis('medot',1);"
+      onmouseout="setvis('me',-1);setvis('medot',-1);">
+
+   <area shape="rect" coords="100,105,160,125"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('info',1);setvis('infodot',1);"
+      onmouseout="setvis('info',-1);setvis('infodot',-1);">
+
+   <area shape="rect" coords="230,108,295,123"
+      href="group.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('peopledot',1);"
+      onmouseout="setvis('peopledot',-1);">
+
+   <area shape="rect" coords="230,131,295,146"
+      href="publications/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('papersdot',1);"
+      onmouseout="setvis('papersdot',-1);">
+
+   <area shape="rect" coords="230,154,318,167"
+      href="research/" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('researchdot',1);"
+      onmouseout="setvis('researchdot',-1)">
+
+   <area shape="rect" coords="230,175,317,188"
+      href="teaching" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('teachingdot',1);"
+      onmouseout="setvis('teachingdot',-1);">
+
+   <area shape="rect" coords="230,196,316,210"
+      href="tutorials" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('tutorialsdot',1);"
+      onmouseout="setvis('tutorialsdot',-1);">
+
+   <area shape="rect" coords="585,105,665,125"
+      onmouseover="setvis('contact',1);setvis('contactdot',-1);setvis('contactdot',1);">
+
+   <area shape="rect" coords="375,233,435,246"
+      href="egypt/reconstruction.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('egyptdot',1);"
+      onmouseout="setvis('egyptdot',-1);">
+
+   <area shape="rect" coords="375,252,450,265"
+      href="myphotos"
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('photosdot',1);"
+      onmouseout="setvis('photosdot',-1);">
+
+   <area shape="rect" coords="375,271,460,284"
+      href="illusions/monster.html" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('illusiondot',1);"
+      onmouseout="setvis('illusiondot',-1);">
+
+   <area shape="rect" coords="375,290,475,303"
+      href="mathkids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('mathkidsdot',1);"
+      onmouseout="setvis('mathkidsdot',-1);">
+
+   <area shape="rect" coords="375,309,505,326"
+      href="sciencekids" 
+      onmouseover="setvis('contact',-1);setvis('contactdot',-1);setvis('sciencekidsdot',1);"
+      onmouseout="setvis('sciencekidsdot',-1);">
+  </map>
+
+
+  <div id="home" style="position:absolute; left:50; top:50; visibility:show">
+       <img src="home.gif" border="0" usemap="#menubar" name="home_bg">
+  </div>
+
+  <div  style="position:absolute; left:88; top:185">   
+       <a href="cv.pdf"><font color=#291C5E>cv</font></a>  
+       <font color=#291C5E>&</font>
+       <a href="bio.html"><font color=#291C5E>bio</font></a>
+  </div>
+
+  <div id="me" style="position:absolute; left:185; top:195; visibility:hidden">
+       <img src="icon/meicon4.jpg" border="0">
+  </div>
+
+  <div id="contact" style="position:absolute; left:585; top:246; 
+       visibility:hidden"> <img src="icon/contact.gif" border="0">
+  </div>
+
+  <div id="info" style="position:absolute; left:51px; top:268px; 
+       visibility:hidden"> <img src="icon/info.gif" border="0">
+  </div>
+
+  <div id="peopledot" style="position:absolute;  left:268px; top:163px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+  <div id="papersdot" style="position:absolute;  left:268px; top:183px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="researchdot" style="position:absolute;  left:268px; top:204px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="teachingdot" style="position:absolute;  left:268px; top:225px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="tutorialsdot" style="position:absolute;  left:268px; top:246px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+  </div>
+
+   <div id="contactdot" style="position:absolute;  left:625px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="egyptdot" style="position:absolute;  left:418px; top:284px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="photosdot" style="position:absolute;  left:418px; top:306px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="illusiondot" style="position:absolute;  left:418px; top:326px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="mathkidsdot" style="position:absolute;  left:418px; top:348px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="sciencekidsdot" style="position:absolute;  left:418px; top:368px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="infodot" style="position:absolute;  left:215px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+   <div id="medot" style="position:absolute;  left:76px; top:162px; 
+       visibility:hidden"> <img src="icon/dot.gif" border="0">
+   </div>
+
+</body>
+</html>
+
+

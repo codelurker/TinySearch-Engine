@@ -1,0 +1,93 @@
+http://www.cs.dartmouth.edu/~sasho
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+  <link href="main.css" type="text/css" rel="stylesheet">
+
+  <title>Alex's Home</title>
+</head>
+
+
+<body>
+  
+<div style="float: right; margin-left: 3ex;">
+<img src="pics/closeup-right-web.jpg"
+     alt="Photo of Alex Iliev">
+</div>
+
+
+<h1>Alex Iliev</h1>
+
+<h2>Classification</h2>
+<p>
+Ph.D. candidate, 
+<a href="http://www.cs.dartmouth.edu/">Computer Science</a>,
+<a href="http://www.dartmouth.edu/">Dartmouth College</a>. Advised by <a href="http://www.cs.dartmouth.edu/~sws/">Prof. Sean Smith</a>.
+</p>
+
+<h2>Resume</h2>
+<p>
+See <a href="resume/iliev-resume.html">here</a> for an html version, and <a
+href="resume/">here</a> for several other formats. Note though that I'm not
+currently on the job market.
+</p>
+
+
+<h2>Research</h2>
+<p>
+<ul>
+  <li><a href="publications.html">Publications</a></li>
+
+  <li>Secure computation with <a href="faerieplay/">Faerieplay</a>.</li>
+  <li><a href="tttp/">Tiny Trusted Third Parties</a><br />
+  This project is featured in the ISTS newsletter, <a href="http://www.ists.dartmouth.edu/ists_v2_4_06.pdf">winter 2005/6</a>.
+  </li>
+
+  <li><a href="privdir/">Directory server prototype, with Private Information
+  Retrieval</a></li>
+
+</ul>
+
+
+<h2>Links</h2>
+
+<p>
+<ul>
+
+<li>My <a href="http://wiki.cs.dartmouth.edu/sasho/">Wiki</a>. For now it has
+some juicy <a href="http://wiki.cs.dartmouth.edu/sasho/doku.php/fpga:code">VHDL
+samples</a> for our fancy new <a href="http://wiki.cs.dartmouth.edu/sasho/doku.php/fpga:board">Avnet PCI development board</a>. Please ignore the
+certificate warning, there's nothing sensitive in there. For friends of
+Dartmouth, you can get our CA certificate <a
+href="https://collegeca.dartmouth.edu/rootcert.html">here</a>, after which you
+should have no more certificate warnings from Dartmouth servers.
+</li>
+
+<li>Iga's <a href="http://www.czarfilm.com/">website</a>.</li>
+<li>Iga's film <a href="http://iga.czarnawska.com/">From the Body Cage</a>.</li>
+
+</ul>
+</p>
+  
+
+<hr>
+
+<address>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;a&#115;&#104;&#111;&#64;&#99;&#115;&#46;&#100;&#97;&#114;&#116;&#109;&#111;&#117;&#116;&#104;&#46;&#101;&#100;&#117;">&#65;l&#101;&#120;&#32;&#73;&#108;&#105;&#101;&#118; &lt;&#115;a&#115;&#104;&#111;&#64;&#99;&#115;&#46;&#100;&#97;&#114;&#116;&#109;&#111;&#117;&#116;&#104;&#46;&#101;&#100;&#117;&gt;</a>
+</address>
+
+<hr>
+
+<p>
+<!--time-start-->
+Last modified: Aug 20, 2007
+<!--time-end-->
+</p>
+
+</body>
+</html>
+exi

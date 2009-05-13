@@ -1,0 +1,329 @@
+http://www.cs.dartmouth.edu/~miluzzo/publications.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Emiliano Miluzzo :: publications</title>
+  <style type="text/css">
+
+a.three:link {color: #006600; text-decoration: none}
+a.three:visited {color: #006600; text-decoration: none}
+a.three:hover {background: #000000; color: #FFFFFF}
+
+a.four:link {color: #006600; text-decoration: none}
+a.four:visited {color: #006600; text-decoration: none}
+a.four:hover {background: #000000; color: #FF0000}
+
+#coolmenu{
+border: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
+border-bottom-width: 0;
+width: 177px;
+position: absolute; top: 188px; left: 8px;
+background-color: #E6E6E6;
+}
+
+* html #coolmenu{ /*IE only rule, to negate the padding below IE includes in menu width.*/
+width: 177px;
+}
+
+#coolmenu a{
+font: bold 13px Arial;
+padding: 5px;
+padding-left: 20px;
+display: block;
+width: 100%;
+color: black;
+text-decoration: none;
+border-bottom: 1px; /* If border needed replace this line with: border-bottom: 1px solid black;*/
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+
+#coolmenu a:hover{
+background-color: black;
+color: white;
+}
+
+  </style>
+  <script charset="utf-8" id="injection_graph_func"
+ src="injection_graph_func.js"></script>
+</head>
+<body style="background-image: url(Background.gif);">
+<div
+ style="top: 30px; position: absolute; z-index: 1; left: 245px; width: 317px;"><big><big
+ style="font-weight: bold;"><big><span
+ style="font-family: courier new,courier,monospace;">
+Emiliano Miluzzo</span></big></big><span style="font-style: italic;">
+</span></big></div>
+<a
+ href="http://www.cs.dartmouth.edu/~miluzzo">
+<img style="position: absolute; top: 10px; left: 10px;"
+ src="emi2.jpg" border="0" height="138" width="177"></a>
+<a
+ href="http://www.dartmouth.edu/">
+<img style="position: absolute; top: 20px; left: 900px;"
+ src="dartlogo.gif" border="0" height="94" width="99"></a>
+<img
+ style="position: absolute; top: 70px; left: 245px;"
+ src="stripe.jpg" height="8" width="620"> <img
+ style="position: absolute; top: 630px; left: 245px;"
+ src="stripe.jpg" height="21" width="740"> <img
+ style="position: absolute; top: 430px; left: 8px;"
+ src="dx_band.jpg" height="800" width="177">
+<center><big> </big></center>
+<div id="coolmenu">
+<big><a href="http://www.cs.dartmouth.edu/~miluzzo/index.html">Personal
+Biography</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/research.html">Research</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/publications.html">Publications</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/cv.html">Curriculum
+Vitae</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/links.html">Interesting
+Links</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/download.html">Download</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/photos.html">Pictures</a>
+<a href="http://www.cs.dartmouth.edu/~miluzzo/contactinfo.html">Contact
+Information</a>
+</big>
+<center><big> </big></center>
+</div>
+<div
+ style="top: 117px; position: absolute; z-index: 1; width: 738px; left: 245px;"><big><big><span
+ style="font-style: italic; font-family: Arial;">
+<p><small>Publications</small> </p>
+<hr></span></big>
+</big>
+<div style="overflow: auto; height: 410px; width: 738px;"><big><big><span
+ style="font-family: Arial;"></span></big><span
+ style="font-family: Arial;"><br>
+</span></big>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Emiliano Miluzzo, James M. H. Oakley, Hong Lu, Nicholas D. Lane, 
+Ronald A. Peterson, Andrew T. Campbell,<br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">Evaluating the iPhone as a Mobile Platform for People-Centric Sensing Applications</span>",
+<br>In Proc. of <i> Intl Workshop on Urban, Community, and Social Applications of Networked <br>Sensing Systems (UrbanSense08)</i>.
+Raleigh, NC, USA, Nov. 4, 2008.
+[<a class="four" href="http://sensorlab.cs.dartmouth.edu/urbansensing/papers/miluzzo_urbansense08.pdf">pdf</a>][BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Emiliano Miluzzo, Nicholas D. Lane, Krist&#243f Fodor, Ronald A. Peterson,
+Hong Lu, Mirco Musolesi, <br>Shane. B. Eisenman, Xiao Zheng, Andrew T. Campbell,<br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">Sensing Meets Mobile Social Networks: The Design, 
+Implementation and Evaluation <br>of the CenceMe Application</span>",
+In Proc. of <i> 6th ACM Conference on Embedded Networked <br>Sensor Systems (SenSys '08)</i>.
+Raleigh, NC, USA, Nov. 5-7, 2008.
+[<a class="four" href="http://www.cs.dartmouth.edu/~miluzzo/papers/cenceme_sensys08.pdf">pdf</a>][BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Emiliano Miluzzo, Nicholas D. Lane, Andrew T. Campbell, Reza Olfati-Saber,<br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">CaliBree: a Self-Calibration
+System for Mobile Sensor Networks</span>",
+In Proc. of <br><i> International Conference on Distributed Computing 
+in Sensor Networks (DCOSS 2008)</i>.<br>
+Santorini Island, Greece, June 11-14, 2008.
+[<a class="four" href="http://www.cs.dartmouth.edu/~miluzzo/papers/CaliBree-dcoss2008.pdf">pdf</a>] 
+[<a class="four" href="http://www.cs.dartmouth.edu/~miluzzo/papers/miluzzo_DCOSS08_talk.ppt">talk</a>] [BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Mirco Musolesi, Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Tanzeem Choudhury, Andrew T. Campbell,<br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">The Second Life of a Sensor: Integrating Real-world Experience in Virtual Worlds using Mobile Phones</span>",<br>
+In Proc. of <i> Fifth Workshop on Embedded Networked Sensors (HotEmNets 2008)</i>. June 2008, <br>Charlottesville, Virginia, USA.
+[<a class="four" href="http://www.cs.dartmouth.edu/~sensorlab/pubs/SL-HotEmnets08.pdf">pdf</a>] [BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Andrew T. Campbell, Shane B. Eisenman,
+Nicholas D. Lane, Emiliano Miluzzo, Ronald Peterson, Hong Lu, Xiao Zheng,<br>
+Mirco Musolesi, Kristof Fodor, Gahng-Seop Ahn,"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">The Rise of People-Centric Sensing</span>",
+ In <br><i> IEEE Internet Computing Special Issue on Sensor Networks</i>, 2008. [<a class="four"
+ href="http://www.cs.dartmouth.edu/~sensorlab/pubs/metrosense-ic.pdf">pdf</a>] [BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Andrew T. Campbell, 
+Shane B. Eisenman, Krist&#243f Fodor, Nicholas D. Lane, Hong Lu, <br>Emiliano Miluzzo, 
+Mirco Musolesi, Ronald A. Peterson, Xiao Zheng, <br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">CenceMe - Injecting Sensing
+Presence into Social Networking Applications using Mobile Phones</span>", <br>(Demo abstract)
+In Proc. of <i> Ninth Workshop on Mobile Computing Systems and Applications (HotMobile 2008)</i>,
+<br>Napa Valley, CA, USA, Feb. 25-26, 2008.
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/cencemeDemo-HotMobile08.pdf">pdf</a>] [BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Nicholas D. Lane, 
+Shane B. Eisenman, Mirco Musolesi, Emiliano Miluzzo, Andrew T. Campbell,<br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">Urban Sensing Systems:
+Opportunistic or Participatory?</span>", <br>
+In Proc. of <i> Ninth Workshop on Mobile Computing Systems and Applications (HotMobile 2008)</i>,
+<br>Napa Valley, CA, USA, Feb. 25-26, 2008.
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~niclane/pubs/hotmobile08.pdf">pdf</a>] [BibTex]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Emiliano Miluzzo, 
+Xiao Zheng, Krist&#243f Fodor, Andrew T. Campbell, <br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">Radio Characterization
+of 802.15.4 and its Impact on the Design of Mobile Sensor Networks</span>",<br>
+In Proc. of <i> Fifth European Conference on Wireless Sensor Networks <br>(EWSN 2008)</i>, 
+Bologna, Italy, Jan. 30/31 - Feb 1, 2008. 
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/miluzzo_EWSN08.pdf">pdf</a>]
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/miluzzo_EWSN-08_talk.ppt">talk</a>]
+ [BibTex] 
+[<a class="four"
+ href="http://crawdad.cs.dartmouth.edu/dartmouth/zigbee_radio">CRAWDAD</a>]
+</font></font><small> </small><br>
+</div><br>
+
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">
+Emiliano Miluzzo, Nicholas D. Lane, Shane B. Eisenman, Andrew T. Campbell,<br>"<span
+ style="font-weight: bold; font-family: arial,sans-serif;">CenceMe - 
+Injecting Sensing Presence into Social Networking Applications</span>",<br>
+(Invited paper) In Proc. of<i>  Second European Conference on Smart Sensing and Context (EuroSSC 2007) </i>, <br>Lake District, UK, October 23-25, 2007.
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/cenceme_EuroSSC07.pdf">pdf</a>] [BibTex]
+</font></font><small> </small><br>
+</div>
+
+<span style="font-family: arial,sans-serif;">&nbsp; </span>
+<div style="text-align: justify;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Shane
+B. Eisenman, Emiliano Miluzzo, Nicholas D. Lane, Ronald A. Peterson,
+Gahng-Seop Ahn, <br>Andrew T. Campbell, "<span
+ style="font-weight: bold; font-family: arial,sans-serif;">The
+BikeNet Mobile Sensing System for Cyclist Experience Mapping</span>",<br>
+In Proc. of <i> Fifth ACM Conference on Embedded Networked
+Sensor <br>Systems (SenSys 2007)</i>, Sydney, Australia, Nov. 6-9, 2007.
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/BikeNet-SenSys07.pdf">pdf</a>] [BibTex]
+</font></font><small> </small><br>
+</div>
+<span style="font-family: arial,sans-serif;">&nbsp; </span>
+<div
+ style="text-align: justify; font-family: arial,sans-serif;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Emiliano
+Miluzzo, Nicholas D. Lane, and Andrew T. Campbell, "<span
+ style="font-weight: bold;">Virtual Sensing Range</span>",<br> (Poster
+Abstract), In <i>Proc. of Fourth ACM Conference on Embedded Networked
+Sensor <br>Systems (SenSys 2006)</i>, Boulder, Colorado, USA, Nov. 1-3,
+2006. [<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/VSR-sensys06.pdf">pdf</a>]
+[<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/bibtex_vsr.html">BibTex</a>]
+</font></font><small> </small><br>
+</div>
+<span style="font-family: arial,sans-serif;">&nbsp; </span>
+<div
+ style="text-align: justify; font-family: arial,sans-serif;"><font
+ style="font-family: arial,sans-serif;"><font size="2">Gahng-Seop
+Ahn, Emiliano Miluzzo, Andrew T. Campbell, Se Gi Hong and
+Francesca <br>Cuomo, "<span style="font-weight: bold;">Funneling-MAC: A
+Localized, Sink-Oriented MAC For Boosting Fidelity <br>in Sensor Networks</span>",
+In <i>Proc. of Fourth ACM Conference on Embedded Networked Sensor <br>
+Systems (SenSys 2006)</i>, Boulder, Colorado, USA, Nov. 1-3, 2006. [<a
+ class="four"
+ href="http://www.cs.dartmouth.edu/~sensorlab/funneling-mac/">Project
+web page</a>] [<a class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/bibtex_funneling-mac.html">BibTex</a>]
+</font></font><small> </small><br>
+</div>
+<span style="font-family: arial,sans-serif;">&nbsp; </span>
+<div
+ style="text-align: justify; font-family: arial,sans-serif;"><font
+ style="font-family: times new roman,times,serif;"><font size="2"><span
+ style="font-family: arial,sans-serif;"> Shane B. Eisenman,
+Nicholas D. Lane, Emiliano Miluzzo, Ronald A. Peterson, Gahng-Seop <br>Ahn,
+and Andrew T. Campbell, "</span><span
+ style="font-weight: bold; font-family: arial,sans-serif;">Metrosense
+Project: People-Centric Sensing at Scale</span><span
+ style="font-family: arial,sans-serif;">", <br>In </span><i
+ style="font-family: arial,sans-serif;">Proc. of First
+Workshop on World-Sensor-Web (WSW 2006)</i><span
+ style="font-family: arial,sans-serif;">, Boulder, Colorado,
+USA, <br>Oct. 31, 2006.</span> <span
+ style="font-family: arial,sans-serif;">[</span><a
+ style="font-family: arial,sans-serif;" class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/metrosense-wsw06.pdf">pdf</a><span
+ style="font-family: arial,sans-serif;">]
+</span></font></font><small> </small><br>
+</div>
+<span style="font-family: arial,sans-serif;">&nbsp; </span>
+<div
+ style="text-align: justify; font-family: arial,sans-serif;"><font
+ style="font-family: times new roman,times,serif;"><font size="2"><span
+ style="font-family: arial,sans-serif;"> Gahng-Seop Ahn,
+Emiliano Miluzzo, Andrew T. Campbell, "</span><span
+ style="font-weight: bold; font-family: arial,sans-serif;">A
+Funneling-MAC for High <br>Performance Data Collection in Sensor Networks</span><span
+ style="font-family: arial,sans-serif;">", (Demo Abstract),
+In </span><i style="font-family: arial,sans-serif;">Proc. of
+Fourth <br>ACM Conference on Embedded Networked Sensor Systems (SenSys 2006)</i><span
+ style="font-family: arial,sans-serif;">, Boulder, Colorado,<br>
+USA, Nov. 1-3, 2006. [</span><a
+ style="font-family: arial,sans-serif;" class="four"
+ href="http://www.cs.dartmouth.edu/~sensorlab/funneling-mac/">Project
+web page</a><span style="font-family: arial,sans-serif;">]
+</span></font></font><small
+ style="font-family: arial,sans-serif;"> </small><br
+ style="font-family: arial,sans-serif;">
+</div>
+<span style="font-family: arial,sans-serif;">&nbsp; </span>
+<div
+ style="text-align: justify; font-family: arial,sans-serif;"><font
+ style="font-family: times new roman,times,serif;"><font size="2"><span
+ style="font-family: arial,sans-serif;">Andrew
+T. Campbell, Shane B. Eisenman, Nicholas D. Lane,
+Emiliano Miluzzo, Ronald <br>Peterson, "</span><span
+ style="font-weight: bold; font-family: arial,sans-serif;">People-Centric
+Urban Sensing</span><span
+ style="font-family: arial,sans-serif;">" (Invited Paper), In
+</span><i style="font-family: arial,sans-serif;">Proc. of
+Second
+ACM/IEEE <br>Annual International Wireless Internet Conference (WICON 2006)</i><span
+ style="font-family: arial,sans-serif;">,
+Boston, USA, August 2-5, <br>2006. [</span><a
+ style="font-family: arial,sans-serif;" class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/metrosense06.pdf">pdf</a><span
+ style="font-family: arial,sans-serif;">] [</span><a
+ style="font-family: arial,sans-serif;" class="four"
+ href="http://www.cs.dartmouth.edu/~miluzzo/papers/bibtex_metro.html">BibTex</a><span
+ style="font-family: arial,sans-serif;">]
+</span></font></font><small> </small><br>
+</div>
+<small><font size="-1"><a class="three"
+ href="http://www.cs.dartmouth.edu/~miluzzo/publications.html"><br>
+</a></font></small></div>
+</div>
+<div
+ style="position: absolute; top: 665px; height: 21px; left: 849px; width: 141px;"><big><big><small><small><small
+ style="font-style: italic;"><span style="font-family: verdana;"><small>last
+modified: Sept. 2008</small></span></small></small></small><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></big></big></div>
+<div
+ style="position: absolute; top: 660px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><big><big><small>
+<font size="-1"><small><sup>&copy; Emiliano Miluzzo</sup></small></font>
+</small></big></big></div>
+</body>
+</html>
+i

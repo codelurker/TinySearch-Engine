@@ -1,0 +1,248 @@
+http://www.cs.dartmouth.edu/~cs5/hw-requirements.html
+3
+<html> <head>
+<title>CS 5 Homework Requirements</title>
+</head>
+
+<body>
+<h1><a href="/~cs5/">CS 5, Fall 2008</a><br>
+Homework Requirements</h1>
+
+<h2>Purpose</h2>
+
+<p>
+
+The purpose of the homework is to deepen your understanding of the
+ideas and techniques developed in the course, to illustrate
+applications of these ideas and techniques, and to give you practice
+in using them in working programs.
+
+<h2>Assignments</h2>
+
+The course library is the CS 5 web site, 
+<!--
+which you can access through
+<a href="http://www.dartmouth.edu/~blackboard/">Blackboard</a>, or you
+can dial direct and go to --> <a
+href="http://www.cs.dartmouth.edu/~cs5/">http://www.cs.dartmouth.edu/~cs5/</a>.
+Short assignments and lab assignments will appear there, accessed by
+easily recognized links.  Solutions will be placed in the web site
+soon after an assignment is due.
+
+<h2>Requirements</h2>
+
+Success and skill in programming require discipline and practice.  The
+following requirements for homework embody standards we set for
+ourselves and are designed to help you become a better programmer.
+The guidelines below refer mainly to the lab assignments, but they can
+also guide you in the short assignments.
+
+<h3>Completeness</h3>
+
+<em>Submitted assignments must be complete.</em> Listings must show
+the final version of the program; we will not accept handwritten
+corrections to the program.  If your program does not work perfectly
+by the time it is due, turn in your best effort with a clear
+explanation of what works and what does not.  We will have more
+respect for you, and you will get a better grade, if you demonstrate
+that you understand the merits and limitations of your program rather
+than hoping that the defects in a half-working program will go
+unnoticed.
+
+<h3>Testing</h3>
+
+<em>You must include well-chosen sample runs of the program to
+demonstrate that the program works.</em> Sometimes we will supply test
+data.  Other times you must invent it yourself.  The quality of this
+test data is important.  Your runs should show that you tested each
+special case of your program.  If you leave out some cases, we will
+not be sure that your program works.  If you generate lots of random
+test data that repeatedly test the same cases, or if the answers are
+so complex that they cannot be easily verified, we will suspect that
+you do not understand what you are doing.  
+
+<p>
+
+We recommend developing test data (including the correct answers!) 
+<em>before</em> you write the program,
+and updating it as you develop the program.  This may seem like a strange
+idea, but thinking about the test data in advance can be an aid in 
+designing the program.  Designing the test data helps you explore the
+"problem space" - the types of inputs that your program must handle.
+You can then think about how to write a program that can handle the various cases.
+
+<p>
+
+You should make sure to
+test boundary cases.  These are the values that separate valid data
+from invalid data or one subcase of your program from another subcase.
+These boundaries are the places where your program is most likely to
+fail.  One boundary case that many programs fail to deal with
+correctly is the empty case--namely the case where there is no data at
+all to be processed.
+
+<h3>Documentation</h3>
+
+<em>It is as important that programs be readable by people as by
+computers.</em> Thus we pay attention to certain aspects of style in
+programs that contribute to readability.  There is no absolutely right
+style, just as individual styles may vary in writing English.  But you
+can obtain some guidance by examining the examples placed in the CS 5
+folder.  Style may refer to including appropriate comments in your
+programs; to using consistent spacing, indentation and blank lines;
+and to choosing consistent names for your classes, variables, and
+methods.  Style may also refer, more importantly, to the way that you
+structure your program, and this meaning of the term will occupy much
+of our attention during the course.
+
+<p>
+
+You should use comments liberally (but not overuse them) to explain
+what your program does.  We will be looking for four types of comments:
+
+<ol>
+
+  <li> First, you should have a block of comments at the beginning of
+       your program, collectively called the "header."  They should
+       contain your name, the date you wrote the program, a description of
+       what the program does, and any special instructions on how to use it
+       (including any restrictions on its input).  This is also the place to
+       credit the original author if you modified or copied someone
+       else's code.  In addition, each class and method in your program should
+       have a small header of its own to explain what it does and how to use
+       it.  Ideally, a person should be able to use a class, or the entire
+       program, after reading only its header.  It should not be necessary to
+       look at the code.  (Like many ideals, this one is often unattainable.
+       Yet you should strive to achieve it.)
+
+       <p>
+
+  <li> The second type of comment explains the use of each variable,
+       programmer-defined type, or constant.  These comments are often placed
+       on the end of the line containing the definition.  You should choose
+       descriptive names for all identifiers (names for variables, constants,
+       types, functions, etc.) in your program, and all but the most obvious
+       or trivial names should be further described in a comment.
+
+       <p>
+       
+  <li> The third kind of comment is a "section header"
+       within the code.  It usually appears on one or more lines by itself
+       with blank lines before and after it, and it gives a high-level
+       description of the role that the "paragraph" or
+       "section" (a group of consecutive lines that
+       accomplish a task) following it plays
+       in the program.  If you first write a high-level English description
+       of how the program works, the lines in that description become section
+       header comments in the program.
+
+       <p>
+
+  <li> The fourth kind of comment explains the role of a particular
+       line of code, and it usually appears at the end of that line.  These
+       comments are often misused.  They should <em>not</em> be English
+       translations of the Java statements. For example, the comment
+       <xmp>
+       status = 3;  // Set status to 3
+       </xmp>
+       
+       is worse than worthless.  It conveys no additional information
+       and clutters up the program.  This kind of comment should instead be a
+       higher-level description of how the statement contributes to the
+       program or a warning about tricky coding, where more is
+       happening than a casual reading might suggest.  A better
+       comment would be
+       
+       <xmp>
+       status = 3;  // Indicates that we have found a left-hand monkey wrench
+       </xmp>
+
+       This comment explains that <code>3</code> has a special meaning in
+       the overall scheme of things.  Such information is vitally important
+       to anyone trying to understand how the program works and is not clear
+       from the Java code itself.  Of course, it would have been even
+       better to have defined a constant
+       <code>FOUND_LEFT_HAND_MONKEY_WRENCH</code> to be 3 and to have
+       written
+
+       <xmp>
+       status = FOUND_LEFT_HAND_MONKEY_WRENCH;
+       </xmp>
+
+</ol>
+
+<h3>You should comment your program as you write it</h3>
+
+Believe it or not, it is actually much faster than adding the comments
+later.  Having written a lot of code over the years, I know what
+I'm talking about.  At the time you write the code, you know what each
+line and section is meant to do and the comments come easily.  If you
+add them later, you must spend time reconstructing what the code does.
+I have had comments save me more than once when someone came and asked
+me about code I had written years earlier.  Admittedly, this
+situation probably won't occur with CS 5 homeworks, but it's good
+practice for your future programs.
+
+<p>
+
+Also, comments are very useful when debugging.  If what the comment
+says the code is supposed to do is different from what the code really
+does, either the code or the comment needs fixing; in either case,
+congratulations--you have found a bug!  <strong>All members of the
+course staff reserve the right to refuse to look at uncommented
+programs.</strong>
+
+<p>
+
+In fact, if you're really doing it right, <em>you should comment your
+program before you write it</em>.  Write the first three types of
+comments as an outline of what your code will do once you have written
+it.  Because they're in English, you ought to be able to understand
+them easily.  Then write the code to match the comments.
+
+<h3>Neatness</h3>
+
+<em>Programs that make good use of indentation for program statements
+and tabs to line up comments are much easier to read.</em> Readability
+is further improved by judicious use of blank lines to separate blocks
+of information and sections of code.  You should also choose a
+pleasing way to lay out each control structure and use it
+consistently.  The text demonstrates one style.  The class examples
+use a slightly different style.  Eclipse supplies its own style, and
+using it may be the easiest way to be consistent.  The course staff
+will encourage you to write neat code.  We will deduct points for code
+that is painful to read.
+
+<p>
+
+Especially important for Java is choosing a consistent mode for using
+capital letters.  Because Java is case sensitive, you <em>must</em>
+train yourself to use uppercase letters in a consistent way.  We will
+expect you to use the standard Java conventions: class names start
+with a capital letter, variable and method names start with a
+lowercase letter, and names of constants are all uppercase.  For
+identifier names that are made up of several words, you should
+capitalize each new word (e.g., <code>severalWordVariableName</code>,
+<code>MultipleWordClassName</code>).  For multi-word constant names,
+use underscores as in the above example of
+<code>FOUND_LEFT_HAND_MONKEY_WRENCH</code>.
+
+<h3>Prose</h3>
+
+Exams and some homework assignments will include questions in which
+you will need to write some text in English rather than Java.  When
+this is the case, be sure to answer these questions.  Answers need not
+be typewritten, but they should be well thought out, complete, neat,
+legible, and grammatical.  Good English is just as important in
+science as it is in nineteenth-century literature.  We set high
+standards for ourselves in the use of language and we expect you to do
+likewise.  Remember: we cannot appreciate your ideas unless we
+understand them, and we will not understand them if they are poorly
+communicated.
+
+<hr>
+
+<a href="/~cs5/">Back to CS 5 home page</a>
+
+</body> </html>
+iná

@@ -1,0 +1,220 @@
+http://www.cs.dartmouth.edu/~sensorlab
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Sensor Networks Group - Home</title>
+  <style type="text/css">
+
+a.three:link {color: #006600; text-decoration: none}
+a.three:visited {color: #006600; text-decoration: none}
+a.three:hover {background: black /*#FFFF00*/; color: white/*#000099*/}
+
+#coolmenu{
+border: 1px;
+border-bottom-width: 0;
+width: 177px;
+position: absolute; top: 208px; left: 8px;
+background-color: #E6E6E6;
+}
+
+* html #coolmenu{ /*IE only rule, to negate the padding below IE includes in menu width.*/
+width: 177px;
+}
+
+#coolmenu a{
+font: bold 12px Verdana;
+padding: 5px;
+padding-left: 30px;
+display: block;
+width: 100%;
+color: black;
+text-decoration: none;
+border-bottom: 1px;
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+
+#coolmenu a:hover{
+background-color: black;
+color: white;
+}
+
+  </style>
+  <script charset="utf-8" id="injection_graph_func"
+ src="injection_graph_func.htm"></script>
+</head>
+<body style="background-image: url(Background.gif);">
+<div
+ style="top: 30px; position: absolute; z-index: 1; left: 245px; width: 669px;"><big><big
+ style="font-family: verdana;"><big style="font-weight: bold;"><big>Sensor
+Networks
+Group</big></big></big><span style="font-style: italic;">
+</span></big></div>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/index.html"><img
+ style="position: absolute; top: 10px; left: 10px;"
+ src="img/sng-1.png" border="0" height="165" width="177"></a>
+<img style="position: absolute; top: 90px; left: 245px;"
+ src="img/stripe.jpg" height="8" width="640"> <img
+ style="position: absolute; top: 630px; left: 245px;"
+ src="img/stripe.jpg" height="21" width="740"><img
+ style="position: absolute; top: 415px; left: 8px;"
+ src="img/dx_band.jpg" height="700" width="177"><a
+ href="http://www.nsf.gov/"><img
+ style="position: absolute; top: 760px; left: 590px;"
+ src="img/nsf.gif" border="0" height="68" width="68"></a><a
+ href="http://www.ists.dartmouth.edu/"><img
+ style="position: absolute; top: 765px; left: 245px;"
+ src="img/ists.gif" border="0" height="58" width="270"></a><a
+ href="http://www.arl.army.mil/www/default.cfm?Action=29&amp;Page=29"><img
+ style="position: absolute; top: 760px; left: 805px;"
+ src="img/eagleARL.gif" border="0" height="68" width="68"></a><a
+ href="http://www.intel.com/"><img
+ style="position: absolute; top: 869px; left: 335px;"
+ src="img/intel.gif" border="0" height="50" width="130"></a><a
+ href="http://www.nokia.com/"><img
+ style="position: absolute; top: 869px; left: 567px;"
+ src="img/nokia.gif" border="0" height="32" width="120"></a><a
+ href="http://www.motorola.com/"><img
+ style="position: absolute; top: 869px; left: 805px;"
+ src="img/motorola.jpg" border="0" height="52" width="77"></a>
+<center></center>
+<div id="coolmenu">
+<big style="font-family: verdana;"><a
+ href="http://www.cs.dartmouth.edu/~sensorlab/index.html">Home</a>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/projects.html">Projects</a>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/publications.html">Publications</a>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/software.html">Software</a>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/events.html">Events</a>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/directions.html">Directions</a>
+<a href="http://www.cs.dartmouth.edu/~sensorlab/index.html#sponsors">Sponsors</a>
+</big>
+<center><big> </big></center>
+</div>
+<div
+ style="position: absolute; z-index: 1; top: 120px; height: 549px; left: 245px; width: 737px;"><big><big><span
+ style="font-style: normal; font-family: Arial;">
+<p><small><br>
+<small style="font-weight: bold; font-family: verdana;">Welcome
+to the home page of the Sensor Networks Group at Dartmouth College</small><br>
+</small> </p>
+
+<!-- temporary advert for urbansense -->
+<!--<hr width="640" align="left">
+<p><font size="3" color="green"><b>
+** Consider submitting and/or participating in the 
+<a href="http://sensorlab.cs.dartmouth.edu/urbansensing/">UrbanSense08</a> workshop **
+</b></font></p>
+-->
+
+<!--<div style="overflow: auto; height: 300px; width: 740px;">
+<hr width="640" align="left">
+</span></big>
+</big></div>
+-->
+<hr></span></big>
+</big>
+<div style="overflow: auto; height: 400px; width: 740px;">
+
+<div style="text-align: justify;"><span
+ style="font-weight: bold; font-family: verdana;">Faculty<br>
+<br>
+</span><a class="three"
+ href="http://www.cs.dartmouth.edu/%7Ecampbell"><span
+ style="font-family: verdana;">Andrew T. Campbell</span></a><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span></div>
+
+<br><br>
+<div style="text-align: justify;"><span
+ style="font-weight: bold; font-family: verdana;">Technical Staff<br>
+<br>
+</span><a class="three"
+ href="http://www.cs.dartmouth.edu/~rapjr/"><span
+ style="font-family: verdana;">Ronald Peterson</span></a><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span></div>
+
+<br><br>
+<div style="text-align: justify;"><span
+ style="font-weight: bold; font-family: verdana;">Current Ph.D. students<br>
+<br>
+</span><span
+ style="font-family: verdana;">
+<a class="three"
+ href="http://www.cs.dartmouth.edu/%7Eniclane/">Nicholas Lane</a><br>
+<a class="three"
+ href="http://www.cs.dartmouth.edu/%7Ehong">Hong Lu</a><br>
+<a class="three"
+ href="http://www.cs.dartmouth.edu/%7Emiluzzo">Emiliano Miluzzo</a><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></div>
+
+<br><br>
+<div style="text-align: justify;"><span
+ style="font-weight: bold; font-family: verdana;">Former Ph.D. students<br>
+<br>
+</span><span
+ style="font-family: verdana;"><a class="three"
+ href="http://comet.columbia.edu/%7Eahngang/">Gangh Seop Ahn</a><br>
+<a class="three"
+ href="http://www.comet.columbia.edu/%7Eshane/">Shane Eisenman</a><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></div>
+
+<br><br>
+<div style="text-align: justify;">
+<span style="font-weight: bold; font-family: verdana;">Former Postdoc<br><br>
+</span>
+<a class="three" href="http://www.cl.cam.ac.uk/~mm753/">
+<span style="font-family: verdana;">Mirco Musolesi</span>
+</a>
+<span style="font-weight: bold; font-family: verdana;"><br>
+</span>
+</div>
+
+<br><br>
+<div style="text-align: justify;"><span
+ style="font-weight: bold; font-family: verdana;">Former visiting researchers<br>
+<br>
+</span><span
+ style="font-family: verdana;"><a class="three" href=http://www.cs.dartmouth.edu/~fodor>Krist&#243f Fodor</a> <br>
+<small style="font-style: italic;">Ericsson Research, Hungary</small><br><br>
+ <a class="three" href=http://pira83.altervista.org/>Mattia Piraccini</a> <br> <small
+ style="font-style: italic;">University of Bologna, Italy</small> <br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></div>
+
+<br><br>
+<div style="text-align: justify;">
+<span
+ style="font-weight: bold; font-family: verdana;">Former undergraduates<br><br>
+</span>
+<span style="font-family: verdana;">
+James Oakley<br>
+</span>
+<span style="font-weight: bold; font-family: verdana;"></span>
+</div>
+
+</div><!--END OVERFLOW  -->
+</div>
+
+<div
+ style="position: absolute; width: 139px; left: 841px; top: 665px; height: 21px;"><small
+ style="font-style: italic;"><span style="font-family: verdana;"><small>last
+modified: April 2009</small></span></small><span
+ style="font-weight: bold; font-family: verdana;"><br>
+</span><span style="font-weight: bold; font-family: verdana;"></span></div>
+<div
+ style="position: absolute; top: 665px; height: 21px; font-family: verdana; left: 245px; width: 245px;"><small>
+<font size="-1"><small><sup>&copy; Sensor Networks Group at
+Dartmouth
+College</sup></small></font>
+</small></div>
+<div
+ style="position: absolute; top: 720px; height: 21px; font-family: verdana; left: 485px; width: 266px;"><big>
+<font size="-1"><big><sup><a name="sponsors"></a> The group's research
+is sponsored by:</sup></big></font>
+</big></div>
+</body>
+</html>

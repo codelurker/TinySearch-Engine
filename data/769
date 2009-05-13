@@ -1,0 +1,538 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall05
+3
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 39 (Fall 2005): Amit Chakrabarti</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 39<br>
+    Theory of Computation<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Fall 2005<h3></td>
+</tr></table>
+<center>
+  [ <a href="#announcements">Announcements</a> |
+  <a href="#admin">Administrative Basics</a> |
+  <a href="#lectures">Schedule and Homeworks</a> |
+  <a href="#solutions">Solutions</a> |
+  <a href="#scores">Grades Database</a> ]
+
+</center>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+<h3>Course Description</h3> 
+
+<p> This course serves as an introduction to formal models of languages
+and computation. Topics covered include finite automata, regular
+languages, context-free languages, pushdown automata, Turing machines,
+computability, and NP-completeness. </p>
+
+<p> This course has substantial mathematical content. It is expected
+that a student who enrols for this course <i>already knows how to write
+mathematical proofs</i> and is generally mathematically mature. If a
+student passes this basic criterion and is interested in thinking
+philosophically about what a computer can or cannot do, then this course
+should be great fun. </p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="announcements"></a>
+<h3>Announcements</h3> 
+
+  <ul> 
+
+    <li> [Nov 30] The <a href="Exams/final.pdf">final exam</a>
+    has been posted and is due at 6:00pm sharp on Dec 6. Please note
+    that <b>THERE IS NO "LATE PENALTY" PROVISION</b> for the final 
+    exam. If you haven't turned in the exam by the deadline, you score
+    zero for the entire exam. 
+
+    <li> [Nov 9] URL for the two Turing Machine applets we saw in class
+    are <a href="http://ironphoenix.org/tril/tm/">here</a> and 
+    <a href="http://math.hws.edu/TMCM/java/xTuringMachine/">here</a>.
+    Please play with them sometime.
+
+    <li> [Nov 4] Solutions to the midterm have been posted. Please note
+    that all posted solutions are part of the required reading for the
+    course.
+
+    <li> [Oct 4] Homeworks are due each Wednesday at 12:30 (i.e. before 
+    class). Please submit them into Prof. Chakrabarti's mailbox. Note
+    the <a href="admindetails.html#late">late homework policy</a>.
+
+    <li> [Sep 28] A note about asking questions about homeworks via 
+    blitz. If you send your question to the instructor, please
+    <em>also</em> send a copy to the TA, so as to get a quicker 
+    response. Plus, the TA needs to be kept in the loop, because he 
+    is doing the grading.
+
+    <li> [Sep 15] Please send a blitz to the instructor with your name
+    (only first and last name, no initials) and a password for
+    accessing your grades in the grades database.
+
+  </ul>
+
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="admin"></a>
+<h3>Administrative Basics</h3>
+
+<b>Important!</b> Please also read and familiarize yourself with the <a
+href="admindetails.html">administrative details</a> not covered in the
+outline below. Pay special attention to the section that describes <a
+href="admindetails.html#honorcode">how the honor code applies to this
+course</a>; violations of the honor code <i>will</i> be treated
+seriously.<p><br>
+
+<table cellpadding=2>
+  <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 214 | 12 hour | MWF 12:30-13:35, X-hr T 13:00-13:50
+    </td>
+  </tr>
+  <tr><td valign=top><b>Instructor</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 107 | 6-1710 | 
+      Office hours: MF 10:00-11:30 or by appointment
+    </td>
+  </tr>
+  <tr><td valign=top><b>Teaching Assistant</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~kdb">Khanh Do Ba</a> | Sudikoff 114 | 6-5573 | 
+      Office hours: Tu 17:00-19:00, Th 19:00-21:00
+    </td>
+  </tr>
+  <tr><td valign=top><b>Textbook</b> <br><br></td> 
+    <td valign=top> 
+      Required: <br>&nbsp;&nbsp;
+      <a href="http://www-math.mit.edu/~sipser/book.html">
+      "Introduction to the Theory of Computation,"</a> Second Edition. &nbsp; 
+      Michael Sipser. <br>
+      Suggested additional reading (not required): <br>&nbsp;&nbsp;
+      <a href="http://images.amazon.com/images/P/020102988X.01.LZZZZZZZ.jpg">
+      "Introduction to Automata Theory, Languages and Computation."</a> &nbsp; 
+      J. E. Hopcroft and J. D. Ullman. <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
+    <td valign=top> 
+      CS 25, or <br>
+      a <i>strong</i> mathematics backround and permission of the
+      instructor <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Work</b> <br><br> </td> 
+    <td valign=top>
+      One homework per week. [35 points] <br>
+      Two in-class quizzes. [15 points] <br>
+      One take-home midterm. [20 points] <br>
+      One take-home final exam. [30 points]  <br>
+      <br>
+      Please take note of the <a href="admindetails.html#late">late 
+      homework policy</a>. It will be enforced, strictly. <br><br>
+  </tr>
+</table>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="lectures"></a>
+<h3>Schedule and Homeworks</h3> 
+
+<p> This schedule will be updated frequently. Please check back often,
+and please remember to hit the RELOAD button to get the latest
+schedule. </p>
+
+<p> Any part of the schedule that is <font color=#888888>greyed
+out</font> is tentative and subject to change. </p>
+
+<table border=1 cellpadding=2 cellspacing=1>
+<tr>
+  <td valign=top><p class=hdr>L#</p></td>
+  <td><p class=hdr>Date</p></td>
+  <td><p class=hdr>Reading Due</p></td>
+  <td><p class=hdr>Homework Due</p></td>
+  <td><p class=hdr>Class Topic</p></td>
+</tr><tr>
+  <td align=right valign=top> 1 </td>
+  <td> Sep 21 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> Welcome, administrivia, overview; Mathematical notation 
+    (<a href="SlidesAndNotes/lec01.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 2 </td>
+  <td> Sep 23 </td>
+  <td> 0.1, 0.2, 0.3 </td>
+  <td> &mdash; </td>
+  <td> Types of proof: by construction, by contradiction, by induction
+    (<a href="SlidesAndNotes/lec02.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 3 </td>
+  <td> Sep 26 </td>
+  <td> 0.4 </td>
+  <td> &mdash; </td>
+  <td> Strings and languages; Finite automata introduced
+    (<a href="SlidesAndNotes/lec03.pdf">slides</a>)</td>
+</tr><tr>
+  <td align=right valign=top> 4 </td>
+  <td> Sep 27 (X-hr) </td>
+  <td> 1.1 up to p34 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    More on (deterministic) finite automata; examples of DFAs;
+    formal definition as (Q,&Sigma;,&delta;,q<sub>0</sub>,F) </div> </td>
+</tr><tr>
+  <td align=right valign=top> 5 </td>
+  <td> Sep 28 </td>
+  <td> 1.1 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Formal definition of a DFA recap; how to design a DFA, examples
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 6 </td>
+  <td> Sep 30 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    DFA computation formalized; NFA introduced, examples </div> </td>
+</tr><tr>
+  <td align=right valign=top> 7 </td>
+  <td> Oct 3 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Designing NFAs; Union and concatenation of two regular languages 
+    is regular </div> </td>
+</tr><tr>
+  <td align=right valign=top> 8 </td>
+  <td> Oct 4 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Kleene star; Regular expressions and examples </div> </td>
+</tr><tr>
+  <td align=right valign=top> 9 </td>
+  <td> Oct 5 </td>
+  <td> 1.3 up to p66 </td>
+  <td> <a href="Homeworks/hw1.pdf">HW1</a> </td>
+  <td> <div class=final>
+    Equivalence of DFAs, NFAs and regular expressions, I </div> </td>
+</tr><tr>
+  <td align=right valign=top> 10 </td>
+  <td> Oct 7 </td>
+  <td> 1.2 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Equivalence of DFAs, NFAs and regular expressions, II </div> </td>
+</tr><tr>
+  <td align=right valign=top> 11 </td>
+  <td> Oct 10 </td>
+  <td> 1.3 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Equivalence of DFAs, NFAs and regular expressions, III 
+  (<a href="SlidesAndNotes/lec11dfa2regexp.pdf">lecture notes</a>) </div> </td>
+</tr><tr>
+  <td align=right valign=top> 12 </td>
+  <td> Oct 11 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Example of DFA to RegExp conversion; The pumping lemma </div> </td>
+</tr><tr>
+  <td align=right valign=top> 13 </td>
+  <td> Oct 12 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw2.pdf">HW2</a> </td>
+  <td> <div class=final>
+    Proof and applications of the pumping lemma </div> </td>
+</tr><tr>
+  <td align=right valign=top> 14 </td>
+  <td> Oct 14 </td>
+  <td> 1.4 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Closure properties of regular languages </div>  </td>
+</tr><tr>
+  <td align=right valign=top> 15 </td>
+  <td> Oct 17 </td>
+  <td> Chapter 1 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Wrap-up of regular language theory; pushdown automata </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Oct 18 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> <div class=>
+    Quiz 1: closed-notes, in-class </div> </td>
+</tr><tr>
+  <td align=right valign=top> 16 </td>
+  <td> Oct 19 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw3.pdf">HW3</a> </td>
+  <td> <div class=final>
+    Discussion of Quiz 1; more examples of pushdown automata (PDAs) 
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Oct 21 </td>
+  <td align=center colspan=3 bgcolor=#ff4444>
+     No lecture; homecoming </td> 
+</tr><tr>
+  <td align=right valign=top> 17 </td>
+  <td> Oct 24 </td>
+  <td> 2.2 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Closure properties of PDAs (union, concatenation)
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 18 </td>
+  <td> Oct 25 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Closure and non-closure properties; 
+    PDA for not-<i>ww</i> </div> </td>
+</tr><tr>
+  <td align=right valign=top> 19 </td>
+  <td> Oct 26 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw4.pdf">HW4</a> </td>
+  <td> <div class=final>
+    Context-free grammars; Simple examples </div> </td>
+</tr><tr>
+  <td align=right valign=top> 20 </td>
+  <td> Oct 28 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    More CFG examples; equally many 0s and 1s
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 21 </td>
+  <td> Oct 31 </td>
+  <td> 2.1 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Equivalence of CFGs and PDAs, I (PDA to CFG) </div> </td>
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 22 </td>
+  <td> Nov 1 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Equivalence of CFGs and PDAs, II (CFG to PDA) 
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 23 </td>
+  <td> Nov 2 </td>
+  <td> 2.2 (again) </td>
+  <td bgcolor=#00ff00> <a href="Exams/mid.pdf"><b>Midterm</b></a> </td>
+  <td> <div class=final>
+    Pumping lemma for context-free languages; Applications
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 24 </td>
+  <td> Nov 4 </td>
+  <td> 2.3 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Chomsky Normal Form; Proof of the pumping lemma for CFLs </div> </td>
+</tr><tr>
+  <td align=right valign=top> 25 </td>
+  <td> Nov 7 </td>
+  <td> Chapter 2 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Turing machines; Informal description and simple examples </div> </td>
+</tr><tr>
+  <td align=right valign=top> 26 </td>
+  <td> Nov 8 (X-hr) </td>
+  <td> 3.1 up to p133 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Two TM applets; TM formalized; Configurations
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 27 </td>
+  <td> Nov 9 </td>
+  <td> &mdash; </td>
+  <td> <a href="Homeworks/hw5.pdf">HW5</a> </td>
+  <td> <div class=final>
+    Deciders/recognizers; Multi-tape TMs; Closure properties of 
+    decidable languages
+    (<a href="SlidesAndNotes/lec27.pdf">slides</a>) </div> </td>
+</tr><tr>
+  <td align=right valign=top> 28 </td>
+  <td> Nov 11 </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Nondeterministic TMs; the RAM model; Church-Turing Thesis
+    (<a href="SlidesAndNotes/lec28.pdf">slides</a>) </div> </td>
+</tr><tr>
+  <td align=right valign=top> 29 </td>
+  <td> Nov 14 </td>
+  <td> Chapter 3 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    Enumerator TMs; Decision problems for the major language classes:
+    A<sub>DFA</sub>, A<sub>CFG</sub> and A<sub>TM</sub> </div> </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Nov 15 (X-hr) </td>
+  <td> &mdash; </td>
+  <td> &mdash; </td>
+  <td bgcolor=#00ff00> <div class=>
+    Quiz 2: closed-notes, in-class </div> </td>
+</tr><tr>
+  <td align=right valign=top> 30 </td>
+  <td> Nov 16 </td>
+  <td> 4.1 </td>
+  <td> <a href="Homeworks/hw6.pdf">HW6</a> </td>
+  <td> <div class=final> Decidability of A<sub>DFA</sub>, A<sub>CFG</sub>;
+    Recognizability of A<sub>TM</sub>; Undecidability of A<sub>TM</sub>
+    and the halting problem
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 31 </td>
+  <td> Nov 18 </td>
+  <td> 4.2 up to p180 </font> </td>
+  <td> &mdash; </td>
+  <td> <div class=final> Decidability of E<sub>DFA</sub>, 
+    ALL<sub>DFA</sub>, EQ<sub>DFA</sub>, E<sub>CFG</sub>;
+    Unrecognizability of 
+    <span style="text-decoration: overline">A</span><sub>TM</sub> 
+    and E<sub>TM</sub>
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 32 </td>
+  <td> Nov 21 </td>
+  <td> Chapter 4 </td>
+  <td> &mdash; </td>
+  <td> <div class=final> Time complexity, P and NP 
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 33 </td>
+  <td> Nov 22 (X-hr) </td>
+  <td> 5.1 up to p192; 5.3 </td>
+  <td> &mdash; </td>
+  <td> <div class=final>
+    NP-completeness and polynomial time reductions 
+    (<a href="SlidesAndNotes/lec33.pdf">slides</a>)
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 34 </td>
+  <td> Nov 28 </td>
+  <td> 7.1 - 7.3 </td>
+  <td> <a href="Homeworks/hw7.pdf">HW7</a> </td>
+  <td> <div class=tnt>
+    More NP-completeness proofs </div> </td>
+</tr><tr>
+  <td align=right valign=top> 35 </td>
+  <td> Nov 29 (X-hr) </td>
+  <td> 7.5 </td>
+  <td> &mdash; </td>
+  <td> <div class=tnt>
+    Computation tableaux; The Cook-Levin theorem;
+    Unrecognizability of ALL<sub>CFG</sub>; 
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 36 </td>
+  <td> Nov 30 </td>
+  <td> 7.4 </td>
+  <td> <a href="Homeworks/hw8.pdf">HW8 (optional)</a> </td>
+  <td> Wrap up </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td bgcolor=#00ff00> Dec 6 </td>
+  <td align=center colspan=3 bgcolor=#00ff00> Take-home 48-hour <a
+  href="Exams/final.pdf"><b>final exam</b></a>, due at 6:00pm sharp </td>
+
+</table><p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name=solutions></a>
+<h3>Solutions to Homework and Exam Problems</h3>
+
+<ul>
+  <li> <a href="Homeworks/hw1-sol.pdf">Solutions to HW1</a>
+  <li> <a href="Homeworks/hw2-sol.pdf">Solutions to HW2</a>
+  <li> <a href="Homeworks/hw3-sol.pdf">Solutions to HW3</a>
+  <li> <a href="Homeworks/hw4-sol.pdf">Solutions to HW4</a>
+  <li> <a href="Homeworks/hw5-sol.pdf">Solutions to HW5</a>
+  <li> <a href="Homeworks/hw6-sol.pdf">Solutions to HW6</a>
+  <li> <a href="Homeworks/hw7-sol.pdf">Solutions to HW7</a>
+  <li> <a href="Homeworks/hw8-sol.pdf">Solutions to HW8</a>
+  <li> <a href="Exams/quiz1-sol.pdf">Solutions to Quiz 1</a>
+  <li> <a href="Exams/quiz2-sol.pdf">Solutions to Quiz 2</a>
+  <li> <a href="Exams/mid-sol.pdf">Solutions to Midterm Exam</a>
+</ul>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name=scores></a>
+<h3>Grades Database</h3>
+
+<p> If you are a registered student, you may verify your grades as
+entered in our database using the form below. </p>
+
+<form
+  method=post
+  action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs39/glookup.cgi">
+    <table><tr>
+      <td>Your name, without initials or suffixes:</td>
+      <td><input type=text name=name size=25></td>
+    <tr>
+      <td>Your CS 39 password:</td>
+      <td><input type=password name=password size=25></td>
+    </table>
+    <p>
+    <input type=submit name=submit value="Check scores">
+</form>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+</body></html>

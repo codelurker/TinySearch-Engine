@@ -1,0 +1,20 @@
+http://www.cs.dartmouth.edu/~nimit
+2
+<html>
+<body bgcolor="aquamarine">
+
+<div style="width:100%; margin-left:10%;">
+<div style="padding-bottom:1%;">
+<h2><marquee direction="right" behavior="alternate">Sit back and Enjoy the Show</marquee></h2>
+</div>
+
+<div style="width:13%; font-family:Lucida Grand; align:left; text-align:center;"><h4>Nimit Dhulekar<br/>62111 Sudikoff Lab<br/>Dartmouth College<br/>Hanover, NH 03755<br/>
+<a href="mailto:nimit.s.dhulekar@dartmouth.edu">Nimit @ Dartmouth</a>
+Office : (609) 213-8338
+</h4>
+</div>
+<div style="width:40%; margin-top:-10.5%;"><img src="nimit1.gif" align="right" valign="top" title="That's me drinking a cup of tea"/></div>
+<div style="width:40%; margin-top:-10.5%; padding-left:30%; margin-left:12%; font-family:Lucida Grand"><h4>Hi I am Nimit. <br/>I am a Masters student in the Computer Science department at Dartmouth College.</h4></div>
+</div>
+</body>
+</html>

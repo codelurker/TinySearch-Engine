@@ -1,0 +1,29 @@
+http://www.cs.dartmouth.edu/reports/updates.html
+2
+<html>
+<head>
+ <title>Dartmouth TR Notification Service</title>
+ <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="feed.xml"/>
+</head>
+<body bgcolor=#FFFFFF>
+<h1>Dartmouth Technical Report Notification Service</h1>
+
+<h3>Want to keep up to date?</h3>
+
+If you find some of our research interesting, and want to hear about
+new technical reports without having to check our web page
+periodically, you have two choices: 
+<ul>
+  <li> <b>subscribe to our RSS feed</b>:
+       <a href=/reports/feed.xml><img src=/reports/rss.gif><a>
+  <li> <b>subscribe to our electronic mailing list</b>:
+       <a href="http://listserv.dartmouth.org/scripts/wa.exe?SUBED1=CS-TR">LISTSERV</a>.
+</ul>
+
+<p>
+We issue about 30-40 technical reports each year--- less than one per
+week on average, so you won't get much traffic.  But you'll be sure to
+hear about new technical reports right away!
+
+</body>
+</html>

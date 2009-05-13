@@ -1,0 +1,89 @@
+http://www.cs.dartmouth.edu/~cbk/research.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Research</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<p>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Research</div><br>
+
+<p>In general, my lab's research focuses on mixed
+computational-experimental approaches to the structural and functional
+understanding of and control over the molecular machinery of the cell.
+We are developing algorithms and systems to automatically plan
+experiments, predict outcomes, interpret data, revise models, and so
+forth.  The figures below point to pages with high-level descriptions
+of some of our current projects.</p>
+
+<table align=center>
+<tr>
+<td><a href="multimodal.html"><img src="images/multimodal-small.jpg" alt="multimodal"></a></td>
+<td width=50></td>
+<td><a href="nmr.html"><img src="images/nmr-graph-small.jpg" alt="nmr"></a></td><td width=50></td>
+<td><a href="oligomer.html"><img src="images/2hyn-small.jpg" alt="oligomer"></a></td>
+</tr>
+</table>
+
+<br><br>
+
+<table align=center>
+<tr>
+<td><a href="mrf.html"><img src="images/mrf-small.jpg" alt="graphical models"></a></td>
+<td width=50></td>
+<td><a href="recombination.html"><img src="images/recomb-small.jpg" alt="recombination"></a></td>
+</tr>
+</table>
+
+<br><br>
+
+<p>This work is funded in part by the following:</p>
+<ul>
+<li>An NIH R01: "Automated NMR Assignment and Protein Structure Determination" to B.R. Donald (Duke).</li>
+<li>An Alfred P. Sloan Research Fellowship, to C. Bailey-Kellogg.</li>
+<li>A grant from the NSF SEIII program: "Integration of Multimodal
+Experiments for Protein Structure", to C. Bailey-Kellogg, B.A. Craig
+(Statistics, Purdue) and A.M. Friedman (Biological Sciences,
+Purdue).</li> 
+<li>An NSF CAREER award: "Sparse Spatial Reasoning for
+High-Throughput Protein Structure Determination", to C. Bailey-Kellogg.</li>
+</ul>
+
+<p>We gratefully acknowledge previous support from the following:</p>
+<ul>
+<li>An award from the Showalter Foundation: "Distribution Functions of
+Standard Free Energies of Protein-Protein Association", to
+C. Bailey-Kellogg and M. Laskowski (Chemistry, Purdue).</li>
+<li>A grant from Purdue's Computing Research Institute, through the
+PRF-SIRG program: "Multimodal Discrimination of Protein Fold", 
+to C. Bailey-Kellogg and A. Friedman (Biological Sciences, Purdue).</li>
+</ul>
+
+</td></tr>
+
+</tbody></table>
+</body>
+</html>

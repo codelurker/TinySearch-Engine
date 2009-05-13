@@ -1,0 +1,137 @@
+http://www.cs.dartmouth.edu/~cbk/bio/05fall
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv=content-type content="text/html">
+<title>CS 88/188: Introduction to Bioinformatics, Fall 2005</title>
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<table border=0 width=750>
+
+<tr>
+<td colspan="2"><h2>CS 88/188: Introduction to Bioinformatics, Fall 2005</h2></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td><b>Instructor</b></td>
+<td><a href="http://www.cs.dartmouth.edu/~cbk/">Chris
+Bailey-Kellogg</a></td>
+</tr>
+
+<td><b>TA</b></td>
+<td>Sara Thiebaud (usual Dartmouth email address)</td>
+</tr>
+
+<tr valign="top">
+<td><b>Class</b></td>
+<td>2A: TuTh 2-3:50; x-hour W 4:15-5:05<br>
+Sudikoff 214</td>
+</tr>
+
+<tr>
+<td><b>Office hours</b></td>
+<td>After class, during x-hour, and by appointment</td>
+</tr>
+
+<tr>
+<td valign="top"><b>Textbook</b></td> <td>None required.  While there
+are several great books out there covering some of the material, none
+comprehensively introduces the topics we'll cover (biomolecular
+sequence, structure, and function) from a computational perspective.
+Thus I'll distribute lecture notes and provide references to the
+research literature.</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td class=hr colspan=2 height=2></td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td valign="top"><b>Overview</b></td>
+<td><p>Computation is vital for modern molecular biology, helping
+scientists to model, predict the behaviors of, and control the
+molecular machinery of the cell.  This course will study algorithmic
+challenges in analyzing biomolecular <i>sequences</i> (what genes
+encode an organism, and how are genes related across organisms?),
+<i>structures</i> (what do the proteins constructed for these genes
+look like, and what does that tell us about their mechanisms?), and
+<i>functions</i> (what do these things do, and how do they interact
+with each other in doing it?).  The course is application-driven, but
+focused on the underlying algorithms and information processing
+techniques, employing approaches from search, optimization, pattern
+recognition, and so forth.</p>
+
+<p>Here's a fun little <a href="flyer.pdf">flyer</a> for CS types.</p>
+</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td valign="top"><b>Expected background</b></td>
+<td><p>This is an introductory course targeted at advanced undergraduate and
+beginning graduate students in computer science.  A background in
+biology is not required, but students should be interested in catching
+up quickly on some basic molecular biology and biochemistry.  Bruce
+Donald's <a
+href="http://www.cs.dartmouth.edu/~brd/Teaching/Bio/current/">Topics
+in Computational Molecular Biology</a> is a natural successor for
+those who would like additional depth in the applications and
+algorithms.</p>
+
+<p>While the course is structured from an algorithmic perspective, I very
+much welcome and encourage the participation of students from the life
+sciences, statistics, and other related disciplines.  Naturally, a
+basic understanding of and interest in computational issues is
+expected.  Please contact me to discuss your background and interests.</p>
+</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td class=hr colspan=2 height=2></td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td valign="top"><b>Course requirements</b></td>
+<td>
+<p>The course seeks to provide broad exposure to some important
+algorithmic challenges and approaches in bioinformatics.  The lectures
+and readings will provide a fairly general (for a ten-week course)
+survey of the field.  Since one of the best ways to learn something is
+by doing it, a series of labs will offer the opportunity to implement
+and apply some of the algorithms.  Each lab will be introduced in
+conjunction with the relevant lecture, and a portion of the class time
+will be devoted to getting started on the lab.  After each pair of
+labs on related topics (sequence, structure, and function), a class
+will be devoted to student presentations and discussion about the
+labs.</p>
+
+<p>All students are expect to read, understand, and follow the
+<a href="policies.html">course policies</a>.</p>
+
+<p>The <a href="schedule.html">course schedule</a> lists due dates,
+topics, and readings.</p>
+</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td class=hr colspan=2 height=2></td></tr>
+<tr>
+<td><img src="cbf-cartoon.gif" alt="CS 88/188" width="100"></td>
+<td class="footer" align="right">
+<a href="http://www.cs.dartmouth.edu/~cbk/bio/">CS 88/188</a><br>
+<a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a><br>
+<!-- hhmts start -->
+Last modified: Tue Sep 20 10:16:37 EDT 2005
+<!-- hhmts end -->
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
+><li>i

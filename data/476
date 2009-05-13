@@ -1,0 +1,330 @@
+http://www.cs.dartmouth.edu/~rvs/vita.html
+3
+<html>
+<head>
+	<meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8"/>
+	<meta name="AUTHOR" content="Rouslan Solomakhin"/>
+	<title>Rouslan V. Solomakhin - Curriculum Vitae</title>
+</head>
+<body style="margin-bottom:20px;">
+
+<p style="position:absolute;right:5px;top:5px;border:1px dotted grey;">
+<a title="Download vita in PDF format" style="padding: 5px; color: grey;
+text-decoration: none;" href="vita.pdf">
+	PDF
+</a>
+</p>
+
+<h1 style="text-align: center;">Rouslan Solomakhin</h1>
+
+<p style="text-align: center;">
+Curriculum vitae<br/>
+January 2009
+</p>
+
+<table style="width:100%; border: 0px;">
+<tr>
+<td style="vertical-align: top; text-align: left;">
+	<i>Department of Computer Science<br/>
+	6211 Sudikoff Laboratory<br/>
+	Dartmouth College<br/>
+	Hanover, New Hampshire &nbsp; 03755-3510
+	</i>
+</td>
+<td style="text-align: right; vertical-align: top;">
+	<i>Masters Student<br/>
+	Phone: (315) 244-3439<br/>
+	E-Mail:rvs@cs.dartmouth.edu<br/>
+	http://www.cs.dartmouth.edu/~rvs</i>
+</td>
+</tr>
+</table>
+
+<h2>RESEARCH INTERESTS</h2>
+
+	<p style="margin-left: 20px;">
+		Security, Machine Learning, Bio-Informatics,
+		Algorithmic Game Theory
+	</p>
+
+<h2>EDUCATION</h2>
+
+	<table style="width: 100%; border:0px">
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		<b>Dartmouth College</b>, Hanover, NH<br/>
+		<i>M.S. in Computer Science</i>
+	</td>
+	<td style="text-align: right; vertical-align: top;">
+		Expected June 2010
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Coursework Includes: Linear Algebra, Algorithms,
+		Operating Systems<br/>
+		Research Topic: Security of the Power Grid
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; padding-top: 10px; vertical-align: top;">
+		<b>Clarkson University</b>, Potsdam, NY<br/>
+		<i>B.S. with Honors in Computer Science;</i>
+	</td>
+	<td style="padding-top: 10px; text-align:right; vertical-align: top;">
+		May 2007
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Minor in Software Engineering<br/>
+		Coursework Includes: Cryptography, Computational Learning,
+		Compilers<br/>
+		Thesis: Learning Shifting Automata
+
+	</td>
+	</tr>
+	</table>		
+
+<h2>PROFESSIONAL EXPERIENCE</h2>
+
+	<table style="width: 100%; border: 0px;">
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		<b>Mobile Armor</b><br/>
+		<i>Software Engineer</i>
+	</td>
+	<td style="text-align: right; vertical-align: top;">
+		St. Louis, MO<br/>
+		2007-2008
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Maintained security and overhauled user interface usability of
+		a multiplatform full-disk encryption software suite. Engineered
+		a smartcard library for multiple cryptographic authentication tokens.
+		Assembled cryptographic API tests for NIST certification. Troubleshot
+		customer data corruption problems and built an automated bootable
+		repair disk. Authored software design documentation and user manuals.
+		Trained incoming developers. Monitored testing processes. Directed user
+		interface internationalisation.<br/>
+		Environment: C#, C, Windows, Linux, Mac OS X, Visual Studio,
+		Monodevelop, Glade, Subversion, PKCS11, X.509, CAC, PIV,
+		RSA SecurID 800.
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-top: 10px; padding-left: 20px; vertical-align: top;">
+		<b>IBM zSeries Cryptographic Services</b><br/>
+		<i>Pre-Professional Software Engineer</i>
+	</td>
+	<td style="padding-top: 10px; text-align: right; vertical-align: top;">
+		Poughkeepsie, NY<br/>
+		Summer 2007
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Built a library for secure PIN entry on smartcard readers that plugged
+		into business-critical zero-downtime servers. Coordinated code review
+		meetings with team members. Streamlined software testing with cutting
+		edge toolkits. Surveyed emerging technologies in the Linux Symposium.<br/>
+		Environment: Java, C, Linux, Eclipse, JUnit.
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-top: 10px; padding-left: 20px; vertical-align: top;">
+		<b>IBM zSeries Reliability Department</b><br/>
+		<i>Pre-Professional Software Engineer</i>
+	</td>
+	<td style="padding-top: 10px; text-align: right; vertical-align: top;">
+		Poughkeepsie, NY<br/>
+		January-August 2006
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Designed and implemented a model for IBM Server Group hardware
+		reliability. Leveraged Enterprise Java Beans and DB2 database for
+		scalability and reliability of the software solution. Maintained weekly
+		meetings to solicit input on the project and inform on progress.
+		Represented IBM in local schools as a volunteer for National Engineers
+		Week.<br/>
+		Environment: Java, Windows, Rational Application Developer,
+		Webshpere Application Server, CVS, EJB, DB2, JSP, JSF, Web
+		Services.
+	</td>
+	</tr>
+	</table>
+
+<h2>HONORS AND AWARDS</h2>
+
+	<table style="width: 100%; border: 0px;">
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		Phalanx Commendable Service Award, 2006<br/>
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		Clarkson University Adirondack Scholars Award, 2003<br/>
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		Presidential Scholar, two semesters in Clarkson<br/>
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		Dean's List, two semesters in Clarkson
+	</td>
+	</tr>
+	</table>
+
+<h2>TALKS</h2>
+
+	<table style="width: 100%; border: 0px;">
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		“Learning Shifting Automata,” advisor Tino Tamon, thesis defense, 2007
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		“Cyber-Security,” Clarkson Open Source Institute, 2006
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		“Java Graphics,” Clarkson Open Source Institute, 2006
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		“Automated proofs of correctness of programs using Three-Valued
+		Logic Analyser,” advisor William Hesse, Summer Undergraduate
+		Research Experience conference, 2005
+	</td>
+	</tr>
+	</table>
+
+<h2>TEACHING</h2>
+
+	<table style="width: 100%; border: 0px;">
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		<b>Dartmouth-Montshire Institute for Science Education</b><br/>
+		<i>Science Mentor in 6th Grade Electricity</i>
+	</td>
+	<td style="text-align: right; vertical-align: top;">
+		Winter 2009
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; padding-top: 10px; vertical-align: top;">
+		<b>Collegiate Science and Technology Entry Program</b><br/>
+		<i>Tutor in Freshman Calculus</i>
+	</td>
+	<td style="text-align: right; padding-top: 10px; vertical-align: top;">
+		Fall 2006
+	</td>
+	</tr>
+	</table>
+
+<h2>ACTIVITIES</h2>
+
+	<table style="width: 100%; border: 0px;">
+	<tr>
+	<td style="padding-left: 20px; vertical-align: top;">
+		<b>Graduate Student Council</b><br/>
+		<i>Department Representative</i>
+	</td>
+	<td style="text-align: right; vertical-align: top;">
+		2008-2009
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px;" colspan="2">
+		Recommended initiatives based on preferences collected from students in
+		the department. Facilitated college events for graduate students.
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; padding-top: 10px; vertical-align: top;">
+		<b>Dartmouth Argentine Tango Society</b><br/>
+		<i>Web-Master</i>
+	</td>
+	<td style="text-align: right; padding-top: 10px; vertical-align: top;">
+		2008-2009
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px;" colspan="2">
+		Upgraded the organisation's web-site to revitalise the community
+		outreach. Administered the schedule of events and a map with directions
+		to where the events were held. Partially outsourced content storage to
+		reduce engineering costs.
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; padding-top: 10px; vertical-align: top;">
+		<b>National Engineers Week</b><br/>
+		<i>Event Organiser</i>
+	</td>
+	<td style="text-align: right; padding-top: 10px; vertical-align: top;">
+		Summer 2006
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Familiarised middle school children in Hudson Valley with basic
+		engineering skills. Directed several interclass engineering
+		competitions.
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; padding-top: 10px; vertical-align: top;">
+		<b>Clarkson Open Source Institute</b><br/>
+		<i>Student Director</i>
+	</td>
+	<td style="text-align: right; padding-top: 10px; vertical-align: top;">
+		2005
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px;" colspan="2">
+		Installed and maintained a lab of 40 Linux desktops in a public lab.
+		Engineered an application to simultaneously upgrade lab software
+		triggered by a timer or a command launched from a remote management
+		console. Customised login screen to display the university insignia.
+		Assigned server maintenance tasks to student members. Organised weekly
+		meetings with project progress reports. Promoted software engineering
+		and computer science through open houses and presentations.
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-left: 20px; padding-top: 10px; vertical-align: top;">
+		<b>Honors Program</b>
+	</td>
+	<td style="text-align: right; padding-top: 10px; vertical-align: top;">
+		2004-2007
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" style="padding-left: 20px;">
+		Investigated alternatives to fossil fuels, relationship of technology
+		and humanity throughout history, roots of innovation, and social
+		implications of security and privacy. Evaluated automatic program
+		correctness provers and presented results in SURE '05. Invented a
+		software application for computational learning of automata that are
+		changing over time. Composed LaTeX classes for Honors, M.S., and Ph.D.
+		theses.
+	</td>
+	</tr>
+	</table>
+
+</body>
+</html>
+<pclasi

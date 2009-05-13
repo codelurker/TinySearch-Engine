@@ -1,0 +1,73 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS85-Fall03/topics.html
+3
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 85 (Fall 2003): Amit Chakrabarti</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 85/185<br>
+    Lower Bounds in Computer Science<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Fall 2003<h3></td>
+</tr></table>
+
+<h3>List of Topics</h3> 
+
+    <p> As of Sep 24, 2003 (start of Fall term classes), here is the
+    list of topics we plan to cover. This list may be adjusted based on
+    feedback around half-way through the course. </p>
+
+    <b>A&rang; Decision (and other) trees</b> <br>
+    <table><tr>
+      <td>&nbsp;&nbsp;</td>
+      <td>
+        0. Lower bounds for sorting (deterministic/randomized) <br>
+        1. Connection with certificate complexity and sensitivity <br>
+        2. Connection with polynomial degree and approximate degree <br>
+        3. Lower bounds for symmetric functions <br>
+        4. Lower bounds for graph properties <br>
+        5. Algebraic decision/computation trees <br>
+      </td>
+    </tr></table>
+
+    <b>B&rang; Circuits</b> <br>
+    <table><tr>
+      <td>&nbsp;&nbsp;</td>
+      <td>
+        6. Non-constructive lower bounds <br>
+        7. Monotone circuits <br>
+        8. Circuits with modulo gates <br>
+        9. Arithmetic circuits <br>
+      </td>
+    </tr></table>
+
+    <b>C&rang; Communication Complexity and Applications</b> <br>
+    <table><tr>
+      <td>&nbsp;&nbsp;</td>
+      <td>
+        10. The rectangle and rank methods for lower bounds <br>
+        11. Randomized communication complexity <br>
+        12. Information complexity <br>
+        13. Application: Data structures <br>
+        14. Application: Circuit depth <br>
+      </td>
+    </tr></table>
+
+
+117.Fñ

@@ -1,0 +1,177 @@
+http://www.cs.dartmouth.edu/~afra/courses/cs19/winter08
+3
+<html>
+<head>
+<title>CS 19 - Discrete Mathematics</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+
+<hr align="center" noshade="noshade">
+
+<!-- ----- One row top level table  ----- -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+
+<!-- ----- Left-hand side navbar ----- -->
+<td width="200" align="right">
+<font size = "+1" align=right>
+CS 19 &ndash; Winter 2008<br><br>
+Discrete Mathematics<br>
+for<br>
+Computer Science<br>
+</font>
+<br>
+<br>
+<br>
+<br>
+<b>Announcements</b><br>
+<a href="admin.html">Administrivia</a><br>
+<a href="schedule.html">Schedule</a><br>
+<a href="resources.html">Resources</a><br>
+<a href="glookup.html">View Grades</a><br>
+<br><br><br><br>
+</td>
+
+<!-- ----- Interior left margin ----- -->
+<td width="25">&nbsp;</td> 
+
+<!-- ----- Page body ----- -->
+<td>
+<h3>Announcements</h3> 
+<p>
+<h4>What's New <img src = "images/new.gif" alight = left> </h4>
+
+<ul>
+<li> &empty;
+</ul>
+
+<h4>What's Old  <img src = "images/old.gif" alight = left> </h4>
+<ul>
+(03/15/08) Homework Eight and the Final have been graded and the grades are now online.  If you wish to pick up either of them, they will be in Afra's office.
+<li> (03/07/08) The <b>Final</b> will be on Monday, March 10, from 3 &ndash 6 PM in Kemeny 007.  Good luck!
+<li> (03/07/08) Someone accidentally handed in something that looks like a homework for a language class (perhaps Japanese?)  If you are that person, email me to pick it up.
+<li> (03/06/08) Question 7 is somewhat badly worded in the book.  It really should say "T is connected <em>and</em>", instead of <em>but</em>.  Thanks to Michael for pointing this out.
+<li> (03/05/08) Error on Homework Eight:  Question 9 should use set notation to refer to edge, not ordered pair notation, as the graph is undirected.
+<li> (03/05/08) The <b>Final</b> will be on Monday, March 10, from 3 &ndash 6 PM in Kemeny 007.
+<li> (03/03/08) Reminder:  Homework Eight is due on Friday with no late days possible.
+<li> (03/02/08) Ranganath's Office hours for this week will be Wed 6-7 PM, Thu 5-7 PM.
+<li> (02/26/08) Our own Kyle Lad has made it to the 
+<a href = "http://dartmouthidol.com/">Dartmouth Idol</a>
+Finals, which are on Thursday, March 6 at 7 PM at the HOP.
+<li> (03/03/08) Afra's office hours will be on Tuesday 3 &ndash 4 PM 
+and by appointment.
+<li> (02/26/08) Reminder:  Homework Seven is the last homework on which you may take a late day.
+<li> (02/26/08) Afra's office hours will be on Wednesday, 4 &ndash 5 PM and by appointment.
+<li> (02/26/08) Ranganath's Office hours for this week will be Wed 6-7 PM, Thu 5-7 PM.
+<li> (02/12/08) The <b>Second Midterm</b> is tonight, 7 to 9 PM, 
+in Moore B03.  It covers the Lectures 1 &ndash 18.
+<li> (02/23/08) Afra will have a midterm review on Sunday, February 24, from 4 &ndash; 5 in our regular classroom.
+<li> (02/20/08) Katelin and Afra were in the 
+<a href = "http://www.vnews.com/02202008/4650563.htm">Valley News</a>
+this morning.
+<li> (02/20/08) Tonight, we have a 
+<a href = "http://sunearth.gsfc.nasa.gov/eclipse/LEmono/TLE2008Feb21/image/TLE2008Feb21-EST.GIF">total lunar eclipse</a> at 10:26 PM.
+<li> (02/18/08) Afra's Office hours for this week will be Wednesday 5-6 PM 
+and Thursday 11 AM to 12 PM.
+<li> (02/18/08) Ranganath's Office hours for this week will be Wed 6-7 PM, Thu 5-7 PM.
+<li> (02/18/08) Due to being a zombie, Afra made a <em>big</em> mistake today in copying the wrong formula in the spreadsheet.  Homework Four average is actually 82%, which is very good!  I'm sorry for the early morning rant.
+<li> (02/18/08) Tomorrow is <a href = "http://www.math.dartmouth.edu/~puzzles/">Mathematical Puzzles Day</a> at Dartmouth.
+<li> (02/12/08) Next Tuesday, February 19, is 
+<a href = "http://www.math.dartmouth.edu/~puzzles/">Mathematical Puzzles Day</a> at Dartmouth.  It should be a lot of fun.  You should preregister!
+<li> (02/11/08) The <b>Second Midterm</b>  is Monday, February 25, 7 to 9 PM, 
+in Moore B03.  
+<li> (02/11/08) Afra's office hours will be Tuesday, 3 &ndash; 4 PM.
+<li> (02/10/08) Ranganath's Office hours for this week will be Wed 5-6 PM, Thu 5-7 PM.
+<li> (02/05/08) There is a mistake in Homework Four, Question 6.  It should say "line segment" instead of "line".  That is, the line segment joining the two points.  
+<li> (02/05/08) Ranganath's Office hours for this week will be Wed 5-7 PM, Thu 5-6 PM.
+<li> (02/04/08) We have x-hour this week on Thursday, no class on Friday.
+<li> (02/04/08) Afra's Office hours will be tomorrow, 2-3 PM.  Same bat 
+channel, same bat time.
+<li> (02/04/08) The <b>First Midterm</b>  is tonight, 7 to 9 PM, 
+in <b>Moore B03</b>.  
+<li> (02/01/08) All about next week:
+<ul> 
+<li> The <b>First Midterm</b> will be on Monday, February 4 in <b>Moore B03</b>.  It will cover the first 9 lectures.
+<li> We will have an x-hour on Thursday
+<li> Homework Four will be due on Thursday
+<li> There will be no class on Friday (Carnival Holiday)
+</ul>
+<li> (01/30/08) Comments on Homework Three:
+<ul>
+<li> On Question 7b, Make sure that P(n) is a <em>proposition</em>.  That is, it is a statement that is saying something!  In this case, it should say the rule for negating the universal quantifier, using the symbols you developed in Part a.
+<li> In your induction proofs (or any proofs for that matter), it is very important that you prove an equality by starting from the left hand side, and ending up with the right hand side.  For instance, for showing P(n+1) in your induction proofs, you must start with what P(n+1) states on its left hand side.  Do not start with the inductive hypothesis!
+</ul>
+<li> (02/02/07) Today, Afra will have a review session for the 1st Midterm from 6 &ndash 7 in Sudikoff 115.  Bring your questions!
+<li> (02/01/07) Copies of Homework Four and Solutions to Homework Two are in the box.
+If you were not in class on Friday, I have your graded Homework Two (not in the box.)
+<li> (01/30/08) Yiming reminded me that today's the Microsoft visit:  [1/30 &ndash; 6:00-7:30 PM &ndash; Moore B03].  Take your r&eacute;sum&eacute;s!
+<li> (01/28/08) Ranganath's Office hours for this week will be wed, 3.30-4.30 PM, Thu 5-7 PM.
+<li> (01/28/08) The <b>First Midterm</b> will be on Monday, February 4 in <b>Moore B03</b>.  It will cover the first 9 lectures.
+<li> (01/28/08) Afra's Office hours will be tomorrow, 2-3 PM.  Same bat channel, same bat time.
+<li> (01/25/08) If you accidentally received a homework today that is not 
+yours, please put that homework in Afra's mailbox.  It may have attached 
+itself to your homework.
+<li> (01/25/08) Copies of Homework Three, Solutions to Homework One, and 
+the remaining graded homeworks are in the CS 19 box outside of our 
+classroom (Sudikoff 115).
+<li> (01/25/08) You should now be able to check your grades online using
+the name and password you gave us in Homework One.  If you cannot do it,
+email Ranganath.
+<li> (01/18/08) The <b>First Midterm</b> will be on Monday, February 4.  
+It will cover the first 9 lectures.
+<li> (01/24/08) Comment on Homework 2, Problem 4 (Section 1.7:  Exercise 4):  One way to lower the number of cases is to focus on a, b, or c being the minimum number, so there are 3 cases.  But you cannot do it with just one case WLOG.
+<li> (01/22/08) We will have an x-hour this Thursday.
+<li> (01/22/08) Microsoft is coming to campus:  [1/30 &ndash; 6:00-7:30 PM &ndash; Moore B03].  Prepare your r&eacute;sum&eacute;s! 
+<li> (01/21/08) The TA's office hours for this week are Wed 5:30 - 6:30, Thu 5:00- 7:00
+<li> (01/21/08) Afra will have office hours tomorrow from 2 -3 PM.
+<li> (01/18/08) We will have an x-hour next Thursday.
+<li> (01/18/08) The reading assigned today is 2.3, 2.4 
+     (not 2.4, 4.1, as announced in class.) Afra made a mistake.
+<li> (01/18/08) Next Monday is the MLK holiday, so we will not have class.
+<li> (01/16/08) Comments on first homework, as elaborated in class:
+<ul>
+<li> Problem 4: you are allowed to use direct proofs and arguement,
+     instead of symbolic proofs using logical equivalences.
+<li> Problem 5: you may argue logically, but remember to argue both sides.
+<li> Problem 10: focus on making the second biconditional true by making
+     both sides false.
+<li> Problem 15:  There may be nothing specific you can deduce.  That's OK.
+</ul>
+<li> (01/13/08) The TA's office hours for this week are Wed 5:00 - 6:00, Thu 5:00- 7:00
+<li> (01/14/08) Afra will have office hours Tuesday, 2 - 3 PM.
+<li> (01/11/08) We will <em>not</em> be having the special Saturday 
+X-hour tomorrow.
+<li> (01/11/08) Homework One is now on both the 
+<a href = "schedule.html">Schedule</a> 
+as well as the
+<a href = "resources.html">Resources</a> page.  It is due next Friday.
+<li> (01/09/08) We will <em>not</em> be having an X-hour tomorrow.
+<li> (01/07/08) The
+<a href = "schedule.html">Schedule</a> is updated with the first reading
+assignment, as well as the first Story Time.
+</ul>
+</td>
+
+<!-- ----- Right-hand margin ----- -->
+<td width="25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<hr align="center" noshade="noshade">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+<tr><td>
+<img src="images/Dshield.png" align="left" height="45">
+<img src="images/Dtree.gif" align="left" height="45">
+<a href="http://www.cs.dartmouth.edu/">Computer Science</a><br>
+<a href="http://www.dartmouth.edu/">Dartmouth College</a>
+
+</td></tr>
+</tbody>
+</table>
+</body></html>
+

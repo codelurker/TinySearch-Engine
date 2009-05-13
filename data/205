@@ -1,0 +1,193 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS109-Spring08
+2
+<html><head>
+  <title>CS 109 (Spring 2008): Amit Chakrabarti</title>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <style>
+    td {font-family:arial,sans-serif; font-size:smaller}
+    .bannertext {color: #ffffff; font-weight: bold}
+  </style>
+</head>
+
+<body>
+
+<table width=750px> <tr> <td>
+
+<table bgcolor=#aaccaa border=0 width=100%> <tr>
+  <td valign=bottom>
+    <h3>Computer Science 109 (Spring 2008)<br/><br/>
+    Theory of Computation
+    <div style="font-size: smaller"> Advanced Level</div>
+  </td>
+  <td align=right valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br/>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+</tr></table>
+
+<!-- ------------------------------------------------ -->
+
+<br/>
+
+<div style="font-size:larger">
+<b>Who:</b> Taught by <a href="www.cs.dartmouth.edu/~ac">Amit Chakrabarti</a> <br/>
+<b>When:</b> 10A hour, TTh 10:00-12:00, X-hr W 15:00-16:15 <br/>
+<b>Where:</b> Sudikoff 214 <br/>
+</div>
+
+<p> This course is designed as a follow-up to an introductory Theory of
+Computation course, such as <a
+href="http://www.cs.dartmouth.edu/~ac/Teach/CS39-Fall07">Dartmouth's CS
+39</a>.  <b>Students who have not yet taken such an introductory course
+are required to do so before registering for CS 109.</b>
+
+<p> In <a href="www.cs.dartmouth.edu/~ac/Teach/CS39-Fall07">CS39</a>, we
+learned that the Turing Machine is a powerful abstraction that helps us reason
+about computation. In this course, we shall continue from where CS39 left off,
+and delve deeper into the mysteries of the Turing Machine and study five key
+aspects of computation: time, space, nondeterminism, randomness and
+interaction. The goal is to understand the power of each of these. The
+course is structured into three major phases, as indicated in the following
+plan. </p>
+
+<center> <table cellpadding=1>
+
+  <tr> <!-- Header -->
+  <td colspan=5 bgcolor=#ff8800> <div class=bannertext> Phase 1: Delving deeper into Nondeterminism, Time and Space </div> </td> </tr>
+
+  <tr class=oddrow>
+  <td align=right>1. </td> <td>Mar 25</td>  <td>Review of Turing Machines, Nondeterminism, DTIME, NTIME, P, NP</td>  <td>[Sip], Ch.3,4,5,7</td>  <td>&nbsp;</td> </tr>
+			  
+  <tr class=evenrow>
+  <td align=right>2. </td> <td>Mar 27</td>  <td>Review of reductions and NP-completeness</td>  <td>[Sip], Ch.7</td>  <td>&nbsp;</td> </tr>
+			  
+  <tr class=oddrow>
+  <td align=right>3. </td> <td>Apr 1 </td>  <td>Space complexity; L and NL; Savitch's Theorem</td>  <td>[Sip], Ch.8</td>  <td><a href="hw01.pdf">Homework 1</a></td> </tr>
+			  
+  <tr class=evenrow>
+  <td align=right>4. </td> <td>Apr 3 </td>  <td>NL completeness;
+  Immerman-Szelepcsenyi Theorem (NL = coNL)</td>  <td>[Sip], Ch.8</td>  <td><a href="hw02.pdf">Homework 2</a></td> </tr>
+			  
+  <tr class=oddrow>
+  <td align=right>5. </td> <td>Apr 8 </td>  <td>Space and time hierarchy theorems, deterministic and nondeterministic</td>  <td>[Sip], Ch.8,9</td>  <td><a href="hw03.pdf">Homework 3</a></td> </tr>
+			  
+  <tr class=evenrow>
+  <td align=right>6. </td> <td>Apr 10</td>  <td>PSPACE; polynomial hierarchy (PH)</td>  <td>&nbsp;</td>  <td><a href="hw04.pdf">Homework 4</a></td> </tr>
+			  
+  <tr class=oddrow>
+  <td align=right>7. </td> <td>Apr 15</td>  <td>Circuits; computation with advice; Karp-Lipton Theorem</td>  <td>[AB], Ch.6</td>  <td><a href="hw05.pdf">Homework 5</a></td> </tr>
+			  
+  <tr class=evenrow>
+  <td align=right>8. </td> <td>Apr 17</td>  <td>NC; Parallel algorithms; P-completeness</td>  <td>[AB], Ch.6</td>  <td><a href="hw06.pdf">Homework 6</a></td> </tr>
+			  
+  <tr> <!-- Header -->
+  <td colspan=5 bgcolor=#ff8800> <div class=bannertext> Phase 2: The Power of Randomness </div> </td> </tr>
+
+  <tr class=oddrow>
+  <td align=right>9. </td> <td>Apr 22</td>  <td>Randomness; BPP; RP; Error reduction by repetition; Chernoff bounds</td>  <td>[AB], Ch.7</td>  <td><a href="hw07.pdf">Homework 7</a></td> </tr>
+						
+  <tr class=evenrow>
+  <td align=right>10.</td> <td>Apr 24</td>  <td>Adleman's Theorem; Sipser-Gacs Theorem</td>  <td>[AB], 7.7</td>  <td>&nbsp;</td> </tr>
+						
+  <tr class=oddrow>
+  <td align=right>11.</td> <td>Apr 29</td>  <td>Schwartz-Zippel Lemma; Valiant-Vazirani Theorem</td>  <td>[AB], Ch.7,9</td>  <td><a href="hw08.pdf">Homework 8</a></td> </tr>
+						
+  <tr class=evenrow>
+  <td align=right>12.</td> <td>May 1 </td>  <td>Foundations of cryptography, overview</td>  <td>[AB], Ch.10</td>  <td><a href="hw09.pdf">Homework 9</a></td> </tr>
+						
+  <tr class=oddrow>
+  <td align=right>13.</td> <td>May 6 </td>  <td>One-way functions, pseudorandom generators</td>  <td>[AB], Ch.10</td>  <td>&nbsp;</td> </tr>
+						
+  <tr class=evenrow>
+  <td align=right>14.</td> <td>May 8 </td>  <td>Equivalence of next-bit unpredictability and pseudorandomness</td>  <td>[AB], Ch.10</td>  <td><a href="hw10.pdf">Homework 10</a></td> </tr>
+						
+  <tr> <!-- Header -->
+  <td colspan=5 bgcolor=#ff8800> <div class=bannertext> Phase 3: The Power of Interaction </div> </tr>
+
+  <tr class=oddrow>
+  <td align=right>15.</td> <td>May 13</td>  <td>Interaction; Interactive proofs (IP); Arthur-Merlin games (AM)</td>  <td>[Sip], Ch.10</td>  <td><a href="hw11.pdf">Homework 11</a></td> </tr>
+						
+  <tr class=evenrow>
+  <td align=right>16.</td> <td>May 14</td>  <td><a style="color:red">(X-hour)</a> Goldwasser-Sipser Protocol; impact on Graph Isomorphism</td>  <td>&nbsp;</td>  <td></td> </tr>
+			  
+  <tr class=oddrow>
+  <td align=right>17.</td> <td>May 15</td>  <td>Shamir's Theorem (IP = PSPACE)</td>  <td>&nbsp;</td>  <td><a href="hw12.pdf">Homework 12</a></td> </tr>
+			  
+  <tr class=evenrow>
+  <td align=right>   </td> <td>May 20</td>  <td><div style="color:red">No lecture: Amit is out of town</div></td>  <td>&nbsp;</td>  <td>&nbsp;</td> </tr>
+			  
+  <tr class=oddrow>
+  <td align=right>18.</td> <td>May 22</td>  <td>Shamir's Theorem continued; PCP theorem</td>  <td>&nbsp;</td>  <td><aa href="hw13.pdf">Homework 13</a></td> </tr>
+			  
+  <tr class=evenrow>
+  <td align=right>19.</td> <td>May 27</td>  <td>Applications of the PCP theorem</td>  <td>&nbsp;</td>  <td>&nbsp;</td> </tr>
+
+</table> </center>
+               
+<br/> <br/>
+
+<div style="font-size:larger">
+<b>Textbooks and Such</b>
+</div>
+
+<p> There is no set textbook for the course, so it is vital to attend
+class. However, there are three reference books that cover just about
+everything we shall do in class, and I will be updating the schedule
+table above with appropriate references. These reference books are:
+<ul>
+  <li> <i>Introduction to the Theory of Computation (Second Edition)</i>. 
+  Michael Sipser. Referred to above as [Sip]. </li>
+  <li> <i>Computational Complexity</i>. Christos Papadimitriou. Referred
+  to above as [Pap]. </li>
+  <li> <i>Complexity Theory: A Modern Approach</i>. Sanjeev Arora and
+  Boaz Barak. Available <a
+  href="http://www.cs.princeton.edu/theory/complexity/">online</a>. 
+  Referred to above as [AB]. </li>
+</ul>
+
+<div style="font-size:larger">
+<b>Administrative Details about Grading</b>
+</div>
+
+<p> <b>Your goal</b> is to earn at least <b>25 points</b> over the
+course of the term. There are two ways to earn points.
+
+<p> <b>Homework:</b> Starting Apr 1, there will be a short homework,
+consisting of approximately 2 problems, given out after every class.
+There will be a total of about 25 problems given out throughout the
+term. Each problem will be worth 2 points. <b>I strongly recommend that
+you solve each homework before the next class, as this will help in your
+understanding of the next class.</b> By "solve", I mean solve for
+yourself. You don't need to turn in everything, just turn in "enough" to
+make progress towards the 25-point goal. </p>
+
+<p> <b>Final exam:</b> This will be a take-home exam given out at the
+end of the course. The maximum possible score in the final exam will be
+10 points, so you will have to earn at least 15 points from turning in
+homework solutions. My recommendation is that you secure at least 20
+points from the homework, because the final exam may be tougher. </p>
+
+<p> <b>Working together</b> is allowed on homework problems (except when
+indicated otherwise), but not on the final exam. </p>
+
+<br/>
+
+<p> Similar courses taught by others: <a
+href="http://www.cs.berkeley.edu/~luca/cs278-08/"> Luca Trevisan
+(Berkeley) </a>, <a
+href="http://www.cs.princeton.edu/courses/archive/fall04/cos522/">
+Sanjeev Arora (Princeton) </a> </p>
+
+<hr/>
+
+<p> Other courses taught by <a href="/~ac/Teach/">Amit Chakrabarti</a> </p>
+
+<p> <a href="/~ac">Home</a> </p>
+
+</td> </tr> </table>
+
+</body>
+</html>
+><td><dá

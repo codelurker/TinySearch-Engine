@@ -1,0 +1,73 @@
+http://www.cs.dartmouth.edu/~farid/publications/hsthesis05.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=650>
+<tr>
+<td>
+
+<dl>
+<dt> <b>  Stereopsis-Guided Brain Shift Compensation  </b>
+<dd> H. Sun <i> (advisor: H. Farid and K. Paulsen) </i>
+<dd> Ph.D. Dissertation, Thayer School of Engineering,
+     Dartmouth College, 2005 
+
+<BR><BR>
+<dd>	<a href="hsthesis05.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#sun05">Bibtex</a>
+
+        
+</dl>
+<p><BR>
+
+Brain deformation models have proven to be a powerful tool in
+compensating for soft tissue deformation during image-guided
+neurosurgery. The accuracy of these models can be improved by
+incorporating intraoperative measurements of brain motion. We have
+designed and implemented a passive intraoperative stereo vision (iSV)
+system capable of estimating the 3-D shape of the surgical scene in
+near real-time. The motion of the estimated cortical surface is then
+tracked over time. This cortical motion is used to guide a full brain
+model, which subsequently updates a preoperative MR volume. We have
+found that the iSV system is accurate to within approximately
+1mm. Executing on a 1.1 GHz Pentium machine, the 3-D estimation from a
+stereo pair of 1024 x 768 resolution images requires approximately 60
+seconds of computation. Based on data from representative clinical
+cases, we show that stereopsis guidance improves the accuracy of brain
+shift compensation both at and below the cortical
+surface. Specifically, we report an average error reduction of 3.7mm
+relative to the model estimate without using intraoperative data. In
+addition, advantages of our iSV system include its fast acquisition
+rates, predominantly automated steps, and overall accuracy. These
+characteristics allow us to capture other important cortical behavior
+such as the tissue resection and the pulsatile motion of the cortical
+surface. 
+
+</td>
+</tr>
+</table>
+
+<HR>
+<table align=center width=650>
+<tr>
+<td align=left>
+<i><a href="../research/imageneuro.html">Related material</a></i>
+</td>
+<td valign=top align=right>
+	<i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
+</td>
+</tr>
+</table>
+</html>
+ñ

@@ -1,0 +1,61 @@
+http://www.cs.dartmouth.edu/~mckeeman/cs48/index.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- FILE:    cs48/index.html
+     PURPOSE: CS48 Information
+     MODS:    McKeeman - 2000.05.16 - original for Spring 2001
+     MODS:    McKeeman - 2003.03.24 - updated for Spring 2003
+     MODS:    McKeeman - 2009.03.23 - updated for Spring 2009
+  -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>COSC48: Course Information</title>
+</head>
+<body bgcolor="#FFF0D0">
+<!-- the following table head provides margins and textbook like appearance -->
+<table>
+<tr><td></td></tr>
+<tr><td width="50"></td><td width="600">
+<h2><a href="index.html">COSC48</a>
+    Implementation of Programming Languages</h2>
+<h1><a href="http://www.cs.dartmouth.edu">Department of Computer Science</a></h1>
+<h2>Course Information</h2>
+
+This web of documents serves as guide to Dartmouth's undergraduate
+course in <a href = "http://www.cs.dartmouth.edu/academics/undergrad/cs_48.html">
+<em>Compilers</em>.
+</a>
+<h1>under construction</h1>
+<p>
+  Notes from COSC 48 Spring <a href="2005/index.html">2007</a>
+</p>
+<p>
+  Notes from an industrial <a href="mxcom/README.html">short course</a> (2009)
+</p>
+<ul>
+<li><a href="course_guide.html">Course Guide</a></li>
+<li><a href="course_content.html">Course Content</a></li>
+<li><a href="course_assignments.html">Assignments</a></li>
+<li><a href="lectures">Lecture Plans</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~mckeeman/cs48/references/references.html">References</a></li>
+<li><a href="course_software.html">Course Software</a></li>
+</ul>
+<hr/>
+<table>
+<tr><td>
+Created:
+</td><td><i>
+May 16, 2000
+</i></td></tr>
+<tr><td>
+Last modified:
+</td><td><i>
+March 23, 2009
+</i></td></tr>
+</table>
+<!-- the following table end provides margins and textbook like appearance -->
+</td><td width="50"></td></tr>
+</table>
+</body>
+</html>
+i

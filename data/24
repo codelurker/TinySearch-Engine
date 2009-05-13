@@ -1,0 +1,206 @@
+http://www.cs.dartmouth.edu/~ac
+1
+<html><head>
+  <title>Amit Chakrabarti's Homepage</title>
+  <link rel="shortcut icon" href="favicon.ico">
+  <style>
+    body,td,font,p,a {font-family: arial, sans-serif}
+    a:link,a:visited {color: blue}
+    a:link:hover,a:visited:hover {color: black; background-color: #8888ff; text-decoration: underline}
+    a:active {color: white; background-color: #aaaaff}
+    .banner {background-color: #662222; vertical-align: middle}
+    .bannertext {color: #ffffff; font-weight: bold}
+    .header {color: #662222; font-weight: bold}
+    .details {font-size: smaller}
+  </style>
+</head>
+
+<body>
+
+<table width=100% cellpadding=4><tr>
+  <td align=left valign=top> 
+    <h2 style="font-family:times">Amit Chakrabarti</h2>
+    <b style="font-family:times">Assistant Professor</b><br/>
+    <a style="font-family:times" href="/">Department of Computer Science</a>,
+    <a style="font-family:times" href="http://www.dartmouth.edu/">Dartmouth College</a>,
+    <a style="font-family:times" href="http://www.hanovernh.org">Hanover, NH</a>
+    <text style="font-family:times"> 03755, USA. </text> <br/>
+  </td>
+  <td align=right valign=top>
+    <a href="amit.jpg">
+    <img src="track.cgi" width=90 height=95 border=0 align="bottom" alt="Photo of Amit">
+    </a>
+  </td>
+</tr></table>
+
+<br/>
+
+<table width=100%><tr>
+  <td valign=top width=48%>
+    <table width=100% cellpadding=4><tr>
+      <td class=banner>
+        <div class=bannertext>Basics</div>
+      </td>
+    </tr> <tr>
+      <td> 
+        <div class=header>Areas of Interest</div>
+	<div class=details>
+	  Most aspects of <a href="tcslinks.html">Theoretical</a> Computer Science <br/>
+	  Especially: complexity theory, approximation algorithms, data stream algorithms <br/>
+	  My C.V. [<a href="cv.pdf">PDF version</a> |
+          <a href="cv.ps">PS version</a>]
+	  <!--aa href="res-stmt.pdf">Research Statement </aa-->
+	</div>
+      </td>
+    </tr> <tr>
+      <td> 
+        <div class=header>Education</div>
+	<div class=details>
+	  Ph.D., <a href="http://www.cs.princeton.edu">Princeton University</a>, 2002 <br/>
+	  B.Tech., <a href="http://www.cse.iitb.ac.in">IIT Bombay</a>, 1997 
+	</div>
+      </td>
+    </tr> <tr>
+      <td> 
+        <div class=header>Contact</div>
+        <div class=details>
+	  +1-603-646-1710 (tel), -1672 (fax),
+	  firstname.lastname@dartmouth.edu
+	</div>
+      </td>
+    </tr> </table>
+  </td>
+  <td width=5> &nbsp; </td>
+  <td valign=top width=52%>
+    <table width=100% cellpadding=4><tr>
+      <td class=banner>
+        <div class=bannertext>Teaching</div>
+      </td>
+    </tr> <tr>
+      <td>  
+        <div class=header>Currently Teaching</div>
+        <div class=details>
+	  <a href="Teach/CS109-Spring09">CS 109: Theory of Computation (Graduate Level)</a>, Spring 2009 <br/>
+	  <a href="Teach/CS33-Spring09">CS 33: Information Systems</a>, Spring 2009
+	</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Upcoming Courses</div>
+        <div class=details>
+	  <aa href="Teach/CS85-Fall09">CS 85: Data Stream Algorithms</aa>, Fall 2009 <br/>
+	</div>
+      </td>
+    </tr> <tr>
+      <td> 
+        <div class=header>Past Courses</div>
+        <div class=details>
+	  <a href="Teach/CS39-Winter09">CS 39: Theory of Computation</a>, Winter 2009 <br/>
+	  <a href="Teach/CS109-Spring08">CS 109: Theory of Computation (Graduate Level)</a>, Spring 2008 <br/>
+	  <a href="Teach/CS85-Spring08">CS 85: You Can't Do That: Lower Bounds in CS</a>, Spring 2008 <br/>
+	  <a href="Teach/">Distant past</a>
+	</div>
+      </td>
+    </tr> </table>
+  </td>
+</tr></table>
+
+<br/>
+
+<table width=100%><tr>
+  <td valign=top width=48%>
+    <table width=100% cellpadding=4><tr>
+      <td class=banner>
+        <div class=bannertext>Research and Related Service</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Publications</div>
+	<div class=details>
+	  <a href="Pubs/">Papers</a>, with brief synopses and downloadable copies <br/>
+          <a href="Pubs/thesis-d.ps.gz">Ph.D. thesis</a>, "Limitations of Non-Uniform Computational Models"
+	</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Funding</div>
+	<div class=details>
+          Supported by an <a href="http://www.nsf.gov">NSF</a>
+	  <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=0448277"> CAREER Award</a>
+	  (gratefully acknowledged)
+	</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Committees</div>
+	<div class=details>
+          Program committee member, <a href="http://www.register123.com/event/profile/web/index.cfm?PKwebID=0x1106386294&varPage=home">CCC 2008</a>, College Park, MD <br/> 
+          Program committee member, <a href="http://focs2009.org/">FOCS 2009</a>, Atlanta, GA <br/> 
+	</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Organization</div>
+	<div class=details>
+          I organized the <a href="DTS/">Dartmouth Theory Seminars</a> from Spring 2004 to Fall 2007. <br/>
+	  I have been organizing the <a href="/~theory/trg.html">Theory Reading Group</a> since Fall 2005.
+	</div>
+      </td>
+    </tr> </table>
+  </td>
+  <td width=5> &nbsp; </td>
+  <td valign=top width=52%>
+    <table width=100% cellpadding=4><tr>
+      <td class=banner>
+        <div class=bannertext>Students</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Current</div>
+	<div class=details>
+	  Graduate: 
+	  <a href="/~jbrody">Joshua Brody</a>,
+	  <a href="/~cja">Chrisil Arackaparambil</a>,
+	  <a href="/~rangak">Ranganath Kondapally</a>.
+	  <br/>
+	  Undergraduate:
+	  William Henderson-Frost '08 (Honors thesis)
+        </div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Former</div>
+	<div class=details>
+	  Graduate:
+	  <a href="/~ashubina">Anna Shubina</a>, Ph.D., 2007.
+	  <br/>
+	  Undergraduate:
+	  Owen Worley '09 (Presidential scholar),
+	  David Blinn '06 (High Honors: 
+	  <a href="Pubs/Students/david-blinn-thesis.pdf">thesis</a>),
+	  <br/>&nbsp;
+          Marco Adelfio '05, (High Honors: 
+	  <a href="Pubs/Students/marco-adelfio-thesis.ps">thesis</a>),
+          Khanh Do Ba '06, (<a href="ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/2005/2005-33.pdf">summer project</a>).
+	</div>
+      </td>
+    </tr> <tr>
+      <td>
+        <div class=header>Prospective Students</div>
+	<div class=details>
+          Are you interested in theoretical topics (either algorithms or complexity)? <br/>
+	  Are you a CS Major with solid mathematical foundations, looking for a thesis topic? <br/>
+	  Please stop by for a chat.
+    </tr> </table>
+  </td>
+</tr></table>
+
+<hr width=100% size=1 noshade/>
+
+<center> <div style="color: #666666; font-size: smaller"> 
+  &copy;2008 Amit Chakrabarti &nbsp;&nbsp;&nbsp;&nbsp; Last modified:
+  Tue May 27 20:06:13 EDT 2008
+</center>
+
+</body></html>
+aá

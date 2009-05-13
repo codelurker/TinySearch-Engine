@@ -1,0 +1,201 @@
+http://www.cs.dartmouth.edu/~cbk/bio/index.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>CS 43/143 | Intro to Bioinformatics | Spring 2008</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+<div class="pagebackground">
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+<div class="header">
+  <div style="float:left">
+    <div class="title">CS 43/143, Spring 2008</div>
+    <div class="subtitle">Intro to Bioinformatics</div>
+  </div>
+  <div style="float:right"><img src="cbf-cartoon.gif"/></div>
+</div>
+
+<div class="navigation">
+  <a href="index.html" class="navhere">About</a>
+  <a href="schedule.html" class="navthere">Schedule</a>
+</div>
+
+<div class="content">
+
+<h2>Course description</h2> 
+
+<p>Computation is vital for modern molecular biology, helping
+scientists to model, predict the behaviors of, and control the
+molecular machinery of the cell.  This course will study algorithmic
+challenges in analyzing biomolecular <i>sequences</i> (what genes
+encode an organism, and how are genes related across organisms?),
+<i>structures</i> (what do the proteins constructed for these genes
+look like, and what does that tell us about their mechanisms?), and
+<i>functions</i> (what do these things do, and how do they interact
+with each other in doing it?).  The course is application-driven, but
+focused on the underlying algorithms and information processing
+techniques, employing approaches from search, optimization, pattern
+recognition, and so forth.</p>
+
+<p>For a beautiful visualization of the underlying molecules, see
+<i>The Inner Life of the Cell</i>, with either <a
+href="http://www.studiodaily.com/main/searchlist/6850.html">musical
+accompaniment</a> or <a
+href="http://multimedia.mcb.harvard.edu/anim_innerlife_Hi.html">narration</a>.</p>
+
+<p>Here's a fun little <a href="flyer.pdf">flyer</a> for CS types.</p>
+
+<p>To get a feel for the content (although it will be revised), see the <a href="05fall/">previous version</a>.</p>
+
+<a name="admin"></a>
+<h2>Administrative info</h2>
+
+<dl>
+<dt>Instructor</dt>
+<dd><a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> |
+250 Sudikoff | office hour: after class and by appointment</dd>
+
+<dt>Teaching Assistant</dt>
+<dd><a href="http://www.cs.dartmouth.edu/~priya/">Priya Natarajan</a> |
+205 Sudikoff | office hour: MW 3-4</dd>
+
+<dt>Announcements and discussion board</dt>
+<dd>Available on <a href="http://www.dartmouth.edu/~blackboard/">Blackboard</a> </dd>
+
+<dt>Lectures</dt>
+<dd>2A | TuTh 2-3:50 | Wilder 102</dd>
+
+<dt>Textbook</dt> 
+<dd class="para">None required.  While there are several great
+books out there covering some of the material, I haven't found one
+that comprehensively introduces the topics we'll cover (biomolecular
+sequence, structure, and function) from a computational perspective.
+Thus I'll distribute lecture notes and provide references to the
+literature.</dd>
+
+<dt>Expected background</dt>
+<dd class="para">This is an introductory course targeted at
+undergraduate and graduate students in computer science.  A background
+in biology is not required, but students should be interested in
+catching up quickly on some basic molecular biology and biochemistry.
+I also very much welcome and encourage the participation of students
+from the life sciences and other related disciplines.  Naturally, a
+basic understanding of and interest in computational issues is
+expected.  Please contact me to discuss your background and
+interests.</dd>
+
+</dl>
+
+<a name="grading"></a>
+<h2>Coursework and grading</h2>
+
+<p>The course seeks to provide broad exposure to some important
+algorithmic challenges and approaches in bioinformatics.  The lectures
+and readings will provide a fairly general (for a ten-week course)
+survey of the field.  Students will then implement and apply some of
+the techniques.</p>
+
+<p>Grades are derived from the following:</p>
+<ul class="bullet">
+  <li>Homeworks: 50%</li>
+  <li>Final project: 25%</li>
+  <li>Midterm exam: 20%</li>
+  <li>Participation: 5%</li>
+</ul>
+
+<p>The homeworks are to be done individually; see the honor code
+policies below regarding discussion.  We encourage students to work in
+groups for the final project.</p>
+
+<p>Homework and project assignments are to be turned in via <a
+href="http://www.dartmouth.edu/~blackboard/">Blackboard</a>
+<em>before</em> class on the due date.  Ample time is provided for
+each assignment, so in general, late submissions will not be accepted.
+Under extenuating circumstances (prolonged illness, death in the
+family, etc.), arrangements must be made with the instructor
+<em>before</em> the due date.</p>
+
+<p>For exceptional work, it is possible to receive extra credit
+points.  Extra credit is tabulated separately from the regular grades
+on homework and exams, and is used to adjust final grades after the
+final average is computed.  Thus extra credit is always optional, and
+not doing any extra credit work will never reduce your final grade,
+even if everyone else in the class does a lot of extra credit.</p>
+
+<a name="honor"></a>
+<h2>Honor code</h2>
+
+<p>Dartmouth's honor code applies to this course, and academic
+misconduct policies will be strictly enforced.  If you have questions,
+ask!</p>
+
+<p>You may discuss the homework with other current CS 43/143 students,
+but your submitted homework must be entirely your own.  As part of a
+discussion, you may show (in person) another student your work.
+However, your code and any other solutions you submit must be created,
+written/typed, and documented by you alone.  You may not copy anything
+directly from another student's work.  For example, copying a portion
+of someone else's solution onto a piece of paper would violate the
+honor code, even if you eventually turn in a different answer.
+Similarly, e-mailing a portion of your code to another student, or
+posting it on-line for them to see would violate the honor code.
+Although all students must create and type in their own code, you may
+help other students debug their programs once you and they have
+already written your programs.  We do encourage discussion of homework
+assignments between students, subject to these rules.  Note that
+discussion between two students will be most useful when both students
+have already made serious attempts to solve the problem on their
+own.</p>
+
+<p>If you make use of any code that is not your own, you must clearly
+attribute the source of the code with clear comments in the code that
+you submit.  You do not need to acknowledge discussion with other
+students on your submitted work.  Proper respect for copyright laws as
+applied to printed materials and software products is subsumed by
+Dartmouth College's <a
+href="http://www.dartmouth.edu/comp/about/policies/">Computing
+Policies</a>.</p>
+
+<p>The final project may be conducted individually or in a group.
+Here, collaboration is encouraged.  Building on existing code is
+acceptable, subject to the above comments regarding attribution.</p>
+
+<p>On the quiz, you may not collaborate with, copy from, or otherwise
+share information with anyone.  (You may of course ask questions of
+the course staff.)</p>
+
+<a name="access"></a>
+<h2>Disabilities</h2>
+
+<p>Students with disabilities enrolled in this course and who may need
+disability-related classroom accommodations are encouraged to make an
+appointment to see the instructor before the end of the second week of
+the term. All discussions will remain confidential, although the <a
+href="http://www.dartmouth.edu/~accessibility/">Student Accessibility
+Services</a> office may be consulted to discuss appropriate
+implementation of any accommodation requested.</p>
+
+</div>
+
+<div class="footer">
+<!-- hhmts start --> Last modified: Fri Mar 28 20:07:26 EDT 2008 <!-- hhmts end -->
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,557 @@
+http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+
+
+
+
+  
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+
+
+
+  
+  
+  
+  <link rel="File-List" href="index_files/filelist.xml">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+b\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  <title>Home</title>
+  <style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Times New Roman";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	text-align:left;
+	font-family:"Times New Roman";
+	font-size:10.0pt;
+	color:black;}
+p.MsoTitle3, li.MsoTitle3, div.MsoTitle3
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	line-height:112%;
+	text-align:left;
+	font-family:"Times New Roman";
+	font-size:16.0pt;
+	color:#666633;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:1.75pt;}
+p.msotablecolorfullistaccent1CxSp, li.msotablecolorfullistaccent1CxSp, div.msotablecolorfullistaccent1CxSp
+	{mso-style-name:msotablecolorfullistaccent1CxSp;
+	margin-left:36.0pt;
+	margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:10.0pt;
+	text-align:left;
+	font-family:Cambria;
+	font-size:12.0pt;
+	color:black;}
+ol
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:-2197in;}
+ul
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:-2197in;}
+@page
+	{size:8.0302in 11.0in;}
+-->
+  </style><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3075" fill="f" fillcolor="white [7]"
+  strokecolor="black [0]">
+  <v:fill color="white [7]" color2="white [7]" on="f"/>
+  <v:stroke color="black [0]" color2="white [7]">
+   <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+  </v:stroke>
+  <v:shadow color="#ccc [4]"/>
+  <v:textbox inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+  <o:colormenu v:ext="edit" fillcolor="#ccc [1]" strokecolor="black [0]"
+   shadowcolor="#ccc [4]"/>
+ </o:shapedefaults><o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+
+<body style="margin: 0pt;" link="navy" vlink="#660099">
+
+
+
+
+
+<div style="position: absolute; width: 8.0459in; height: 11.0156in;">
+<span style="position: absolute; z-index: 1; left: 223px; top: 118px; width: 727px; height: 1202px;"><img src="index_files/image294.gif" v:shapes="_x0000_s1037" height="1202" width="727"></span><span style="position: absolute; z-index: 2; left: 0px; top: 118px; width: 223px; height: 1202px;"><img src="index_files/image295.gif" v:shapes="_x0000_s1038" height="1202" width="223"></span><span style="position: absolute; z-index: 3; left: 0px; top: 592px; width: 118px; height: 257px;"><img src="index_files/image2961.gif" v:shapes="_x0000_s1041" height="257" width="118"></span><span style="position: absolute; z-index: 4; left: 0px; top: 39px; width: 223px; height: 79px;"></span><span style="position: absolute; z-index: 7; left: 0px; top: 38px; width: 61px; height: 79px;"></span><span style="position: absolute; z-index: 9; left: 745px; top: 32px; width: 169px; height: 85px;"><img src="index_files/image306.gif" v:shapes="_x0000_s1059" height="85" width="169"></span><span style="position: absolute; z-index: 10; left: 160px; top: 38px; width: 61px; height: 79px;"></span><span style="position: absolute; z-index: 11; left: 163px; top: 1px; width: 57px; height: 34px;"></span><span style="position: absolute; z-index: 12; left: -2px; top: 35px; width: 227px; height: 5px;"></span><span style="position: absolute; z-index: 14; left: 240px; top: 118px; width: 696px; height: 111px;">
+
+<table cellpadding="0" cellspacing="0">
+
+
+
+
+ <tbody>
+
+
+
+    <tr>
+
+
+
+
+  <td style="vertical-align: top;" height="111" width="696"><br>
+
+
+
+  
+      
+      
+      
+      <div v:shape="_x0000_s1071" style="padding: 2.85pt;" class="shape">
+  
+      
+      
+      
+      <p class="MsoTitle3"><span style="" lang="en-US">AAAI Spring Symposium 2009</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoTitle3"><span style="" lang="en-US">H</span><span style="text-transform: none;" lang="en-US">uman Behavior Modeling</span></p>
+
+
+
+
+  </div>
+
+
+
+
+  <br>
+
+
+      </td>
+
+
+
+
+ </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+</span><br>
+
+
+<span style="position: absolute; z-index: 15; left: 240px; top: 230px; width: 503px; height: 918px;">
+
+<table style="left: 240px; width: 615px;" cellpadding="0" cellspacing="0">
+
+
+
+
+ <tbody>
+
+
+
+    <tr>
+
+
+
+
+  <td style="vertical-align: top;" height="918" width="503"><br>
+
+
+
+  
+      
+      
+      
+      <div v:shape="_x0000_s1072" style="padding: 2.85pt;" class="shape">
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-top: 12pt;"><span style="font-family: &quot;Palatino Linotype&quot;; font-style: italic;" lang="en-US"><span style="font-weight: bold; color: rgb(255, 0, 0);">New:<span style="color: rgb(0, 0, 0);"> Conference program posted</span></span></span></p>
+
+
+
+      
+      
+      
+      <p class="MsoNormal" style="margin-top: 12pt;"><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">This workshop will explore methods for creating models of individual and group behavior from data</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-left: 18pt; text-indent: -18pt; margin-bottom: 6pt;"><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="msotablecolorfullistaccent1CxSp" style="margin-left: 18pt; text-indent: -18pt; margin-bottom: 6pt;"><span style="font-size: 10pt; font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Models</span><span style="font-size: 10pt; font-family: &quot;Palatino Linotype&quot;;" lang="en-US"> include generative and discriminative statistical models, relational models, and social network models</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="msotablecolorfullistaccent1CxSp" style="margin-left: 18pt; text-indent: -18pt; margin-bottom: 6pt;"><span style="font-size: 10pt; font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Data</span><span style="font-size: 10pt; font-family: &quot;Palatino Linotype&quot;;" lang="en-US"> includes low-level sensor data (GPS, RFID, accelerometers, physiological measures, etc.), video, speech, and text</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="msotablecolorfullistaccent1CxSp" style="margin-left: 18pt; text-indent: -18pt; margin-bottom: 6pt;"><span style="font-size: 10pt; font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Behaviors</span><span style="font-size: 10pt; font-family: &quot;Palatino Linotype&quot;;" lang="en-US">
+include high-level descriptions of purposeful and meaningful activity
+or abstractions of cognitive and affective states. These include&nbsp;
+activities of daily living (e.g., preparing a meal), interaction
+between small sets of individuals (e.g., having a conversation), mass
+behavior of groups (e.g. the flow of traffic in a city) and related
+internal user states.</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal"><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">While
+behavior modeling is part of many research communities, such as
+intelligent user interfaces, machine vision, smart homes for aging in
+place, discourse understanding, social network analysis, and others,
+this workshop will be distinguished by its emphasis on exploring
+general representations and reasoning methods that can apply across
+many different domains.</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">Questions the participants in the workshop will discuss include:</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-top: 6pt; margin-bottom: 6pt; text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Representation</span><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">: Is it important to make all-levels of the model interpretable?</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 6pt; text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Generalization</span><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">: What are some effective strategies for generalization?</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 6pt; text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Domain Knowledge</span><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">: How can commonsense prior knowledge be combined with sensor data?</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 6pt; text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Challenges in Collecting Data</span><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">: What modeling strategies can be used to address challenges in collecting data used for analysis and training?&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 6pt; text-align: justify;"><span style="font-family: &quot;Palatino Linotype&quot;; font-weight: bold;" lang="en-US">Evaluation</span><span style="font-family: &quot;Palatino Linotype&quot;;" lang="en-US">: How do we evaluate models in real world scenarios, especially when ground truth data is sparse or unavailable?</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 10pt;"><span style="font-family: Calibri;" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  </div>
+
+
+
+
+  <br>
+
+
+      </td>
+
+
+
+
+ </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+</span><span style="position: absolute; z-index: 16; left: 238px; top: 1148px; width: 701px; height: 4px;"></span><span style="position: absolute; z-index: 18; left: 240px; top: 15px; width: 120px; height: 87px;"><img src="index_files/image3201.jpg" v:shapes="_x0000_s1410" height="87" width="120"></span><span style="position: absolute; z-index: 19; left: 23px; top: 233px; width: 165px; height: 435px;">
+
+<table cellpadding="0" cellspacing="0">
+
+
+
+
+ <tbody>
+
+
+
+    <tr>
+
+
+
+
+  <td style="vertical-align: top;" height="435" width="165"><br>
+
+
+
+  
+      
+      
+      
+      <div v:shape="_x0000_s1414" style="padding: 2.88pt;" class="shape">
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 14pt;"><a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09/"><span style="text-decoration: underline;" lang="en-US">Home</span></a></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal"><span style="" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 14pt;"><a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09/cfp.html"><span style="text-decoration: underline;" lang="en-US">Call for Paper</span></a></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal"><span style="" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal" style="margin-bottom: 14pt;"><a href="http://www.cs.dartmouth.edu/%7Etanzeem/hbm_ss09/committee.html"><span style="text-decoration: underline;" lang="en-US">Organizing Committee</span></a></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal"><span style="" lang="en-US">&nbsp;</span></p>
+
+
+
+
+  
+      
+      
+      
+      <p class="MsoNormal"><a href="program.html"><span style="" lang="en-US">Program</span></a></p>
+
+
+
+
+  </div>
+
+
+
+
+  <br>
+
+
+      </td>
+
+
+
+
+ </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+</span><br>
+
+
+
+</div>
+
+
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3833380; 
+var sc_invisible=1; 
+var sc_partition=34; 
+var sc_click_stat=1; 
+var sc_security="d0e74c78"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a
+href="http://www.statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/3833380/0/d0e74c78/1/" alt="counter
+stats" ></a></div></noscript>
+
+
+
+
+<!-- End of StatCounter Code -->
+</body>
+</html>

@@ -1,0 +1,119 @@
+http://www.cs.dartmouth.edu/farid/research/reducedim.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Dimensionality Reduction </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top>
+<b> Dimensionality Reduction of Non-Linear Manifolds</b>
+<BR>
+<p>
+
+Eigenvalue/eigenvector techniques are commonly used to uncover
+low-dimensional <b>linear</b> subspaces embedded in higher-dimensional
+spaces.  Given a collection of points in a <b>P</b>-dimensional space,
+the eigenvalues of the covariance matrix reveal the underlying
+dimensionality of the space.  Specifically, the points live on a
+<b>Q</b>-dimensional linear subspace, where <b>Q<=P</b> is the number
+of non-zero eigenvalues of the covariance matrix.
+
+For example, the blue points shown on the right live on a 2-D
+<b>linear</b> subspace of the full 3-D space.  The eigenvalues of the
+covariance matrix are <b>1.0, 0.34, 0.0</b>, revealing the underlying
+two-dimensional linear subspace.
+
+<BR><BR>
+
+However, if the points live on a <b>non-linear</b> manifold then this
+approach is ineffective in revealing the underlying dimensionality.
+For example, the red points live on a 2-D <b>non-linear</b> manifold
+(a parabolic cylinder).  The eigenvalues of the covariance matrix are
+<b>1.0,0.9,0.6</b>, which do not reveal the two-dimensional nature of
+this manifold.
+
+<BR><BR>
+
+Outlined below is a simple approach (see <i> "Mapping a Manifold of
+Perceptual Observations", J.B. Tenenbaum, NIPS 98.</i>) for
+determining the intrinsic dimensionality of a certain class of
+non-linear manifolds.
+
+<OL> 
+<li> Given <b>N</b> points in a <b>P</b>-dimensional space, construct
+a non-parametric manifold (a graph)
+	<UL>
+	<li> choose a random subset of <b>M</b> points (vertices)
+	<li> for each point
+	     <b>P<sub>i</sub></b>, <b>i = 1,...,N</b> compute the
+	     Euclidean distance to each of the <b>M</b> points
+	<li> create an edge between the two points <b>Q</b> and
+	     <b>R</b> that have the shortest distances to
+	     <b>P<sub>i</sub></b>
+	</UL>
+
+<li> Compute the manifold distance between all pairs of <b>M</b> points
+	<UL>
+	<li> using Floyd's algorithm, compute <b>D</b>, the <b>M x
+	     M</b> distance matrix
+	</UL>
+
+<li> Perform metric multi-dimensional scaling (MDS) on <b>D</b>  
+	<UL>
+	<li> i.e., determine if there is a projection from the
+	     original <b>P</b>-dimensional subspace to a lower
+	     dimensional subspace that preserves the manifold
+	     distances (<b>not Euclidean distances</b>).  The solution
+	     is analytic and involves an eigenvalue/eigenvector
+	     analysis of the distance matrix
+	     <b>D</b>.  	
+	</UL>
+</OL>
+Shown on the right is the connected graph from step 1.  The MDS
+analysis returns eigenvalues <b>1.0, 0.38, 0.06</b> revealing the
+inherent two-dimensional structure of the manifold.
+
+<BR><BR>
+
+<a href="reducedim.m"> Matlab code</a> for dimensionality
+reduction of non-linear manifolds.
+</td>
+
+<td valign=top>
+<table>
+<tr> <IMG SRC="plane.gif" width=173 height=184>  </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <IMG SRC="paracyl.gif" width=172 height=185>  </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <BR> </tr>
+<tr> <IMG SRC="paracylman.gif" width=174 height=190>  </tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=right>
+	<font size=-1><i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	<a href="research.html"> Research</a> 	
+	</i></font>
+</td>
+</tr>
+</table>
+</html>
+10ñ

@@ -1,0 +1,34 @@
+http://www.cs.dartmouth.edu/~cs33/login.html
+3
+<html><head> <title>CS 33 (Spring 2009): Authenticate</title> </head><body>
+<hr>
+
+<a name="scores"></a>
+<h3>Connect to the CS 33 Homework Submission and Grade Lookup Site</h3>
+
+<p> All homework in CS 33 is to be submitted electronically, starting
+with this form. First, you need to log in using your full name and CS 33
+password, below. Also, you may verify your grades as entered in our
+database on the next page, after you log in. </p>
+
+<form name="form1" onSubmit="set_cs33_cookie()" method="post" action="https://ssl.cs.dartmouth.edu/cgi-bin/cgiwrap/cs33/login.cgi">
+    <table><tbody><tr>
+      <td>Your name, without initials or suffixes:</td>
+      <td><input name="name" size="25" type="text" id = "NAME"></td>
+    </tr><tr>
+      <td>Your CS 33 password:</td>
+      <td><input name="password" size="25" type="password" id = "PASS"></td>
+    </tr></tbody></table>
+    <p>
+    <input name="submit" value="Authenticate" type="submit">
+</form>
+
+<!-- ------------------------------------------------ -->
+
+</p><hr>
+
+<script type="text/javascript" src="cookie.js"></script>
+
+</body></html>
+
+commonfi

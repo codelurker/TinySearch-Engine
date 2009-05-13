@@ -1,0 +1,73 @@
+http://www.cs.dartmouth.edu/~doug/crypt.html
+3
+<html>
+<head>
+<title>Dual cryptogram</title>
+</head>
+<body>
+<h2>Dual cryptograms</h2>
+<p>
+Save for punctuation, the passages in each pair are substitution
+ciphers for each other.
+They could be solutions of the same cryptogram; such
+ambiguity can drive an automatic cryptogram solver
+up the wall.
+<p>
+<h3>Refuges</h3>
+<p>
+This example is remarkable for the length of its words.
+<pre>
+Hillary mentors silvery vervain; bindery  succors corrida slogger.
+</pre>
+<pre>
+Barrens holding garcons conceal  Waltons' gypping pinnate griffon.
+</pre>
+<p><em>Hillary fondly tends medicinal herbs for a
+hapless runner who's taken refuge in a bookbinder's shop
+to escape Pamplona's running bulls.</em>
+<p><em>The wild barrens hide everything: fugitive waiters and a thieving
+dog with wiry feather-combed hair.</em>
+<h3>Maine drag</h3>
+<p>
+This one, 129 letters long, far surpasses Shannon's `unicity distance'
+of about 30 letters, beyond which it is almost sure that
+any solution to a cryptogram is the only solution.
+<pre>
+I hear
+Fool red-coped gent
+Rico sues Pepe re wanton
+Duo brood dared help Al get cods
+In great ME drag.
+As he'd met vixens
+In wet flood-kelp grot, duo
+Did besot Al Rico.
+</pre>
+<pre>
+O wail,
+Keen Las Vegas pard, 
+Love that gaga LA birder.
+She flees Silas Wang in pad vest
+Or plaid CA slip.
+"It was cad Mozart
+Or bad-knees Yang," pled she.
+SOS, fated in love.
+</pre>
+<br>
+<p><em>A swell buffoon, Al Rico, while fishing for cod on a Maine dragger, met a pair
+of mermaids who lured him to their sea cave and boozed him up.  Now he's suing
+the captain, Pepe, for leading him into embarrassment.</em>
+<p><em>A sensitive cowboy gambler, smitten by a valley-girl naturalist who's
+fallen in with the infamous Mozart/Yang gang, despairs as his beloved
+is pursued in dishabille by one of the gang's victims, to whom she
+protests her innocence, crying out that the real culprits
+are the gang's notorious leaders.</em>
+<p>
+More dual cryptograms have been published in <em>Word Ways</em>;
+see my <a href="doug.bib">bibliography<a>.
+<hr>
+<a href="index.html">Doug McIlroy's home page</a>
+<hr>
+<em>Last modified August 4, 2003.</em>
+<br>
+</body>
+</html>

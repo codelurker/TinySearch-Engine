@@ -1,0 +1,17 @@
+http://www.cs.dartmouth.edu/~cs52
+2
+<html>
+<head>
+<title>HTML Redirection Example</title>
+<META HTTP-EQUIV="Refresh"
+      CONTENT="10; URL=http://www.cs.dartmouth.edu/~fabio/teaching/cs52-fall06">
+</head>
+<body>
+The <b>CS52 - Computer Graphics</b> webpage has moved to
+<a href="http://www.cs.dartmouth.edu/~fabio/teaching/cs52-winter08">
+http://www.cs.dartmouth.edu/~fabio/teaching/cs52-winter08
+</a>.
+You will be redirected there in a few seconds.
+</body>
+</html>
+

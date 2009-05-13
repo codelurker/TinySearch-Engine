@@ -1,0 +1,72 @@
+http://www.cs.dartmouth.edu/reports/TR2008-631
+2
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Pas de Deux avec les Microrobots</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2900.3157" name=GENERATOR></HEAD>
+<BODY><BR>
+<CENTER><FONT size=5><B>Pas de Deux avec les Microrobots<BR>
+(Video)</B></FONT><BR><BR><FONT size=4>Dartmouth Computer Science Technical Report TR2008-631</FONT></CENTER>
+
+<FONT size=4><BR>
+<CENTER>Bruce R. Donald<SUP>a,b,*</SUP>, Christopher Levey<SUP>c</SUP>, and Igor Paprotny<SUP>d,a</SUP> </CENTER></FONT><BR>
+
+<FONT size=3>
+<CENTER>
+<SUP>a</SUP>Department of Computer Science, Duke University, Durham NC 27708 <BR>
+<SUP>b</SUP>Department of Biochemistry, Duke University Medical Center, Durham NC 27708<BR>
+<SUP>c</SUP>Thayer School of Engineering, Dartmouth College, Hanover NH 03755 <BR> 
+<SUP>d</SUP>Department of Computer Science, Dartmouth College, Hanover NH 03755</CENTER></FONT>
+
+<BR><FONT size=2><CENTER>*Corresponding Author:<BR>
+<A href="http://www.cs.duke.edu/~brd/">Bruce R. Donald</A><BR>
+Department of Computer Science<BR>
+Duke University<BR>
+Department of Biochemistry<BR>
+Duke University Medical Center<BR>
+</CENTER></FONT>
+<BR><BR>
+
+
+
+
+<CENTER><FONT size=4><FONT size=3><IMG src="image2.JPG"></CENTER>
+<CENTER><BR><strong>
+<a name="Video">The Video:</a><br>
+<A href="PasDeuxBots_cinepac.avi">AVI with Cinepac Radius</A><I>  157 MB</I><BR>
+<A href="PasDeuxBots_cinepac.zip">AVI with Cinepac Radius - zipped</A><I>  142 MB</I><BR>
+</strong>
+<BR><!--
+<strong>More information  and additional videos can be found in reference [1] below and here:<BR>
+<A href="http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/">http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/</A></strong> -->
+<BR> 
+
+
+</LEFT><CENTER><BR><BR><I>This video may not be used for commercial or 
+for-profit purposes. <BR>It is copyrighted by the authors. 
+</I>
+
+</center></center>
+
+<br><br><RIGHT>
+
+<strong>Description:</strong>
+Video captured through an optical microscope, showing simultaneous control and operation of two stress-engineered microrobots. The dimensions of our microrobots are 260 x 60 x 10 micrometers; each robot consists of an unthetered scratch-drive actuator that provides forward motion, and a steering-arm actuator that controls whether the robot moves in a straight line or turns.
+<BR><BR>
+Our stress-engineered microrobots are electrostatically powered via a global control signal transmitted to all the robots regardless of the their position and orientation within their operating environment. Hence, a single control and power-delivery signal must be used to simultaneously control all robots within the same operating environment, resulting in a highly underactuated system. Despite this high level of underactution we are able to achieve independent control of the individual microrobots by designing their steering-arms to respond to different voltage levels of the supplied control signal.
+<BR><BR>
+This example uses nested hysteresis gaps. A hysteresis gap is the difference between the snap-down and release voltages for a steering-arm actuator. Nested hysteresis gaps allow us to set the states of the steering-arms (up or down) to any configuration. As shown in this video, all four states of the two microrobot steering-arms are used to choreograph their motion.
+<BR><BR>
+A disadvantage of nested hysteresis gaps is that they are control-voltage bandwidth intensive, limiting the number of simultaneously-controllable devices. An alternative multi-microrobot control scheme that minimizes control-bandwidth is described in [1].
+<BR><BR>
+<B>References:</B><BR><BR>
+[1]   B. R. Donald, C. G. Levey and I. Paprotny.  
+
+"<A href="http://www.cs.duke.edu/donaldlab/Supplementary/jmems08/">Planar Microassembly by Parallel
+Actuation of MEMS Microrobots</A>." <I>Journal of Microelectromechanical Systems</I>, 2008; <B>17</B>(4): 789-808.
+
+ 
+</RIGHT>
+
+
+</BODY></HTML>dren"i

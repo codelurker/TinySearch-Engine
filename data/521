@@ -1,0 +1,77 @@
+http://www.cs.dartmouth.edu/~wbc/suditour/switches/index.html
+3
+
+<html><head><title>switches</title></head>
+<body>
+<table border=3>
+<tr><td> 192.1</td><td>router</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.3</td><td>pass through to 192.13</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.6</td><td>room 011 smuggler rack</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.7</td><td> 0S -> 003 mac lab</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.9</td><td>room 009 Concentrator</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.11</td><td>room 011B</td><td>asante 6524-G</td><td>2.01A</td></tr>
+<tr><td> 192.13</td><td>jefferson</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.14</td><td>jefferson</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.14</td><td>jefferson</td><td>asante 3524</td><td>2.01A</td></tr>
+<tr><td> 192.28</td><td>room 011 blue rack</td><td>asante 6524-G</td><td>1.07A</td></tr>
+<tr><td> </td><td>dumb switch in old-tahoe rack</td><td>asante 3524</td><td>2.01A</td></tr>
+</table>
+<hr>
+<table border=3>
+<tr><td><a href="212-007.html">    212.7 switch</a></td><td> 2S</td><td>asante 3524</td><td></td></tr>
+<tr><td><a href="212-009.html">    212.9 switch</a></td><td> The BIG one! in 009</td><td>asante 3524 </td><td>107.A</td></tr>
+<tr><td><a href="212-012.html">    212.12 switch</a></td><td> 011B</td><td>asante 3524</td><td></td></tr>
+<tr><td><a href="212-014.html">    212.14 switch</a></td><td> 2S</td><td>asante 6524 2G</td><td> 1.07a</td></tr>
+<tr><td><a href="212-023.html">    212.23 switch</a></td><td> 1S middle</td><td>asante 6524 2G</td><td> 1.07a</td></tr>
+<tr><td><a href="212-016.html">    212.16 switch</a></td><td> 0S BRD labs</td><td>asante 6524 2G</td><td> 1.07a</td></tr>
+<tr><td><a href="212-017.html">    212.17 switch</a></td><td> not in use</td><td>asante </td></tr>
+<tr><td><a href="212-019.html">    212.19 switch</a></td><td> back in 1E</td><td>asante 3524</td><td></td></tr>
+<tr><td>   212.020 </td><td>tahoe </td></tr>
+<tr><td><a href="212-023.html">    212.23 switch</a></td><td> tahoe, green, lamarck, mail in 011</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="212-024.html">    212.24 switch</a></td><td> 0S</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="212-029.html">    212.29 switch</a></td><td> 0S</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="212-036.html">    212.36 switch</a></td><td> blue rack</td><td>asante 35160-T</td><td>2.05A</td></tr>
+<tr><td><a href="212-041.html">    212.41 switch</a></td><td> fiji rack</td><td>asante 6224M</td><td>2.05A</td></tr>
+<tr><td><a href="215-220.html">    215.220 switch</a></td><td> 2S</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-221.html">    215.221 switch</a></td><td> 2E</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-223.html">    215.223 switch</a></td><td> front in 1E</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-226.html">    215.226 switch</a></td><td> 2E in back</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-227.html">    215.227 switch</a></td><td> 2E in middle</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-229.html">    215.229 switch</a></td><td> 1S front</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-230.html">    215.230 switch</a></td><td> 011-katahdin rack second</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-231.html">    215.231 switch</a></td><td> not in use</td><td>asante 65120-12G</td></tr>
+<tr><td><a href="215-232.html">    215.232 switch</a></td><td> 011-katahdin rack</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-233.html">    215.233 switch</a></td><td> 1S back</td><td>asante 3524</td><td> 2.01A</td></tr>
+<tr><td><a href="215-234.html">    215.234 switch</a></td><td> tahoe rack, bottom to s011-power1</td><td>asante 6524 2G</td><td> 1.07a</td></tr>
+<tr><td><a href="215-235.html">    215.235 switch</a></td><td> new BIG concentrator</td><td>asante 35516-G</td><td>2.03A</td></tr>
+<tr><td><a href="215-236.html">    215.236 switch</a></td><td> smuggler rack</td><td>asante IC3548-2GT</td><td> 1.22A </td></tr>
+<tr><td><a href="215-237.html">    215.237 switch</a></td><td> 011B</td><td>asante IC3548-2GT</td><td> 1.22A</td></tr>
+</table>
+
+<ul>
+<li><a href="210-008.html">210.8 central switch</a> in 009
+<li>
+<li>215.240 addition level 0
+<li>215.241 addition level 0
+<li>215.242 addition level 0
+<li>215.243 addition level 1
+<li>215.244 addition level 1
+<li>215.245 addition level 1
+<li>215.249 addition level 1
+<li>215.246 addition level 2
+<li>215.247 addition level 2
+<li>215.248 addition level 2
+<li>215.250 addition level 2
+</ul>
+<hr>
+<ul>
+<li><a href="traceroute.html">some traceroute logs</a>
+<li><a href="http://netmon-network.dartmouth.edu">Dartmouth netmon</a>
+<li> see "map list"/"Internet and Peering"
+<li><a href="http://www.dartmouth.edu/~blocked/BlockedHostsOnCampus.html"> are you blocked </a>
+</ul>
+<hr>
+<a href="access-points.html">access points</a>
+<hr>
+<a href="../index.html">up</a>
+</body></html>

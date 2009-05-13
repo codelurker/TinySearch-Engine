@@ -1,0 +1,482 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09
+2
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 33 (Spring 2009): Amit Chakrabarti</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 33<br>
+    Information Systems<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Spring 2009<h3></td>
+</tr></table>
+<center>
+  [ <a href="#announcements">Announcements</a> |
+  <a href="#admin">Administrative Basics</a> |
+  <a href="#lectures">Schedule and Homeworks</a> |
+  <a href="#scores">Grades Database</a> ]
+
+</center>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+<h3>Course Description</h3> 
+
+<p> In this course we shall study the management of large bodies of data
+or information.  During the first half of the course, we shall study on
+schemes for the representation, manipulation, and storage of complex
+information structures as well as algorithms for processing these
+structures efficiently and for retrieving the information they contain.
+In particular, we shall spend considerable time on relational algebra,
+SQL, database normalization, indexing and hashing. </p>
+
+<p> In the second half of the course, we shall study &mdash; at a high
+level &mdash; the issues raised when databases are shared by several
+users and/or several computers. This includes such topics as transaction
+processing, robustness guarantees against failure, security and data
+integrity guarantees from unauthorized access, privacy. Time permitting,
+we might also consider data mining, warehousing and object-oriented
+schemes for multimedia data. </p>
+
+<p> It is expected that a student who enrols for this course <i>already
+knows how to program</i> and is comfortable working within a
+<i>UNIX-like environment</i>. Some degree of mathematical maturity will
+be required for the more theoretical aspects of the course. </p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="announcements"></a>
+<h3>Announcements</h3> 
+
+  Newer announcements are at the top. Think "blogs" or "twitter".
+
+  <ul> 
+
+    <li> [Apr 28] Important details about the <a href="Project/proj.html">
+    course project</a> have been announced. Please read them right away, 
+    for immediate action is required.
+
+    <li> [Apr 6] Homework 1 is ready, and is due in just over one week.
+    Please start working on it ASAP, and have fun!
+
+    <li> [Mar 31] On the other hand, quizzes and exams will be entirely hand-written.
+
+    <li> [Mar 31] All homework in this course must be submitted electronically; 
+    there will be no hand-written submissions. I strongly suggest that 
+    you learn to use a suitable typesetting system to prepare the 
+    non-programming part of your homework submissions. My personal
+    favorite is <a href="http://www.latex-project.org/">LaTeX</a>, which
+    is also the de-facto standard in many academic disciplines, but 
+    MS Word or its equivalents would also be okay.
+
+    <li> [Mar 30] You will need an account on the CS department UNIX servers for 
+    some of your work in this course. Make sure you have one.
+
+  </ul>
+
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="admin"></a>
+<h3>Administrative Basics</h3>
+
+<b>Important!</b> Please also read and familiarize yourself with the <a
+href="admindetails.html">administrative details</a> not covered in the
+outline below. Pay special attention to the section that describes <a
+href="admindetails.html#honorcode">how the honor code applies to this
+course</a>; violations of the honor code <i>will</i> be treated
+seriously.<p><br>
+
+<table cellpadding=2>
+  <tr><td valign=top width=15%><b>Lectures</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 115 | 10 hour | Mon-Wed-Fri 10:00-11:05, X-hr Thu 12:00-12:50
+    </td>
+  </tr>
+  <tr><td valign=top><b>Instructor</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~ac">Amit Chakrabarti</a> | Sudikoff 107 | 6-1710 | 
+      Office hours: TBA, or by appointment
+    </td>
+  </tr>
+  <tr><td valign=top><b>Teaching Assistants</b> <br><br> </td> 
+    <td valign=top> 
+      <a href="/~tracygu">Qi (Tracy) Gu</a> | Sudikoff 220 | 6-8752 | 
+      Office hours: TBA, or by appointment
+      <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Textbook (Required)</b> <br><br></td> 
+    <td valign=top> 
+      <a href="http://www.db-book.com/">
+      "Database System Concepts,"</a> Fifth Edition. <br>
+       Avi Silberschatz, Henry F. Korth, S. Sudarshan. <br><br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
+    <td valign=top> 
+      CS 23 <br><br>
+    </td>
+  </tr>
+
+  <tr><td valign=top><b>Work</b> <br><br> </td> 
+    <td valign=top>
+      Homeworks, roughly one a week [20 points] <br>
+      Three in-class quizzes [30 points] <br>
+      Class project [25 points] <br>
+      Final exam [25 points] <br>
+      <br>
+      Please take note of the <a href="admindetails.html#late">late 
+      homework policy</a>. It will be enforced, strictly. <br><br>
+  </tr>
+</table>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name="lectures"></a>
+<h3>Schedule and Homeworks</h3> 
+
+<p> This schedule will be updated frequently. Please check back often,
+and please remember to hit the RELOAD button to get the latest
+schedule. </p>
+
+<p style="color:red"> The homework and quiz schedule is not posted yet, 
+but will be, soon.  </p>
+
+<p> Any part of the schedule that is <font color=#888888>greyed
+out</font> is tentative and subject to change. </p>
+
+<table border=1 cellpadding=2 cellspacing=1>
+<tr class=bkg>
+  <td valign=top colspan=3><p class=hdr> Lecture Number<br> and Date </p></td>
+  <td><p class=hdr> Reading Due<br> Before Class </p></td>
+  <td><p class=hdr> Homework<br> Due </p></td>
+  <td><p class=hdr> Topics Covered in<br> This Lecture </p></td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 1 -------------->
+
+</tr><tr>
+  <td align=center rowspan=2 class=bkg> Week<br> 1 </td>
+  <td align=right valign=top> 1 </td>
+  <td> Apr 01 </td>
+  <td> &mdash;&mdash; </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Course overview: Things to think about when designing a database system
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 2 </td>
+  <td> Apr 03 </td>
+  <td> Chapter 1 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    The relational model; The fundamental operators of relational algebra
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 2 -------------->
+
+</tr><tr>
+  <td align=center rowspan=3 class=bkg> Week<br> 2 </td>
+  <td align=right valign=top> 3 </td>
+  <td> Apr 06 </td>
+  <td> 2.1 &ndash; 2.3 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Extended relational algebra operators; Null values; DB modification
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 4 </td>
+  <td> Apr 08 </td>
+  <td> Chapter 2 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    SQL I: Language basics; The set operations
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 5 </td>
+  <td> Apr 10 </td>
+  <td> 3.1 &ndash; 3.4 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    SQL II: Aggregation; Null values; Nested subqueries
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 3 -------------->
+
+</tr><tr>
+  <td align=center rowspan=4 class=bkg> Week<br> 3 </td>
+  <td align=right valign=top> 6 </td>
+  <td> Apr 13 </td>
+  <td> 3.5 &ndash; 3.7 </td>
+  <td> <a href="Homework/hw1.html">HW1</a> </td>
+  <td> <div class=sure>
+    SQL III: Complex queries; Views; DB modification
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 7 </td>
+  <td> Apr 15 </td>
+  <td> Chapter 3 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    SQL IV: Types; Integrity constraints; Authorization
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Apr 16 (X-hr) </td>
+  <td> 4.1 &ndash; 4.3 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=exm>
+    Quiz 1: Closed notes, in class
+ </tr><tr>
+  <td align=right valign=top> 8 </td>
+  <td> Apr 17 </td>
+  <td> 4.1 &ndash; 4.3 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Embedded SQL; Dynamic SQL
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 4 -------------->
+
+</tr><tr>
+  <td align=center rowspan=3 class=bkg> Week<br> 4 </td>
+  <td align=right valign=top> 9 </td>
+  <td> Apr 20 </td>
+  <td> Chapter 4 </td>
+  <td> <a href="Homework/hw2.html">HW2</a> </td>
+  <td> <div class=sure>
+    Overview of relational calculus and QBE
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 10 </td>
+  <td> Apr 22 </td>
+  <td> &mdash;&mdash; </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Overview of the Entity-Relationship model
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 11 </td>
+  <td> Apr 24 </td>
+  <td> Chapter 5 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Normal forms I
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 5 -------------->
+
+</tr><tr>
+  <td align=center rowspan=4 class=bkg> Week<br> 5 </td>
+  <td align=right valign=top> 12 </td>
+  <td> Apr 27 </td>
+  <td> Chapter 6 </td>
+  <td> <a href="Homework/hw3.html">HW3</a> </td>
+  <td> <div class=sure>
+    Normal forms II
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 13 </td>
+  <td> Apr 29 </td>
+  <td> 7.1 &ndash; 7.5 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Normal forms III
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> &nbsp; </td>
+  <td> Apr 30 (X-hr) </td>
+  <td> 4.1 &ndash; 4.3 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=exm>
+    Quiz 2: Closed notes, in class
+</tr><tr>
+  <td align=right valign=top> 14 </td>
+  <td> May 01 </td>
+  <td> Chapter 7 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Normal forms IV
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 6 -------------->
+
+</tr><tr>
+  <td align=center rowspan=3 class=bkg> Week<br> 6 </td>
+  <td align=right valign=top> 15 </td>
+  <td> May 04 </td>
+  <td> Chapter 8 </td>
+  <td> <a href="Project/proj.html">Project, Stage 1</a> </td>
+  <td> <div class=sure>
+    Stage 1 project presentations
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 16 </td>
+  <td> May 06 </td>
+  <td> Chapter 11 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Application design, Web interfaces, PHP/CGI/Javascript
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 17 </td>
+  <td> May 08 </td>
+  <td> 12.1 &ndash; 12.5 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Organizing storage; RAID
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 7 -------------->
+
+</tr><tr>
+  <td align=center rowspan=3 class=bkg> Week<br> 7 </td>
+  <td align=right valign=top> 18 </td>
+  <td> May 11 </td>
+  <td> Chapter 12 </td>
+  <td> <a href="Project/proj.html">Project, Stage 2</a> </td>
+  <td> <div class=sure>
+    File structure; Indexing: B and B+ trees
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 19 </td>
+  <td> May 13 </td>
+  <td> &mdash;&mdash; </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=sure>
+    Hashing; Trees vs Hashing
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 20 </td>
+  <td> May 15 </td>
+  <td> &mdash;&mdash; </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Indexing wrap-up; Query processing I (if time permits)
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 8 -------------->
+
+</tr><tr>
+  <td align=center rowspan=3 class=bkg> Week<br> 8 </td>
+  <td align=right valign=top> 21 </td>
+  <td> May 18 </td>
+  <td> Chapter 13 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Query processing II; Query optimization
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 22 </td>
+  <td> May 20 </td>
+  <td> Chapter 14 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Transactions; Atomicity; Durability
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 23 </td>
+  <td> May 22 </td>
+  <td> 15.1 &ndash; 15.3 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Concurrency: The important issues
+    </div> </td>
+</tr><tr>
+  <td class=bkg colspan=6> &nbsp; </td>
+
+<!-------------- Week 9 -------------->
+
+</tr><tr>
+  <td align=center rowspan=3 class=bkg> Week<br> 9 </td>
+  <td align=right valign=top> 24 </td>
+  <td> May 27 </td>
+  <td> Chapter 15 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Concurrency Control
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 25 </td>
+  <td> May 29 </td>
+  <td> Chapter 16 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Failures; Recovery; Logging
+    </div> </td>
+</tr><tr>
+  <td align=right valign=top> 26 </td>
+  <td> Jun 01 </td>
+  <td> Chapter 17 </td>
+  <td> &mdash;&mdash; </td>
+  <td> <div class=tnt>
+    Wrap up
+    </div> </td>
+
+</tr></table>
+<br>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<a name=scores></a>
+<h3>Homework Submission Form and Grades Database</h3>
+
+<p> All homework is to be submitted electronically, using a homework
+submission form. <a href="http://www.cs.dartmouth.edu/~cs33/login.html">
+Click here</a> to get to that form. </p>
+
+<p style="color:red"> The homework submission system is still
+experimental.  Please use it only as instructed, for everyone's 
+safety!  </p>
+
+<!-- ------------------------------------------------ -->
+
+<hr>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+</body></html>

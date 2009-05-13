@@ -1,0 +1,716 @@
+http://www.cs.dartmouth.edu/~patrick
+2
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>Patrick Tsang's Web Page</title>
+  <meta name="generator" content="Amaya, see http://www.w3.org/Amaya/" />
+</head>
+
+<body>
+<h1>Patrick (Pak Kong) Tsang</h1>
+
+<p></p>
+
+<p>Patrick is a 4th year PhD candidate in the <a
+href="http://www.cs.dartmouth.edu">Department of Computer Science</a> at <a
+href="http://www.dartmouth.edu">Dartmouth College</a>. His research interests
+include <em>Computer and Network Security</em>, <em>Privacy-Enhancing
+Technologies</em>, <em>Applied Cryptography</em> and <em>Trusted
+Computing</em>. His academic advisor is Prof. <a
+href="http://www.cs.dartmouth.edu/~sws">Sean Smith</a>. </p>
+
+<p>He obtained both of his Bachelor of Engineering degree (with first class
+honors) and Master of Philosophy degree in the Information Engineering program
+from the <a href="http://www.ie.cuhk.edu.hk">Department of Information
+Engineering</a> at <a href="http://www.cuhk.edu.hk">the Chinese University of
+Hong Kong</a>.</p>
+
+<p></p>
+
+<h1>Contact</h1>
+<ul>
+  <li>Email: patrick at cs dot dartmouth dot edu</li>
+  <li>Office: Rm 063, Sudikoff Lab</li>
+  <li>Phone: 603-646-8715</li>
+</ul>
+
+<h1>Educational Activities</h1>
+<ul>
+  <li><a href="http://www.cs.dartmouth.edu/robotcamp/">Summer Robotics and
+    Security Program at Dartmouth College</a>, Summer 2008 
+    <ul>
+      <li>Lead instructor in Camp I: <em>"Make &amp; Break Cryptographic
+        Security"</em></li>
+      <li>Reported in <a
+        href="http://www.dartmouth.edu/%7Enews/releases/2008/07/16.html">Dartmouth
+        News</a>, July 16, 2008, and <a
+        href="http://www.ists.dartmouth.edu/docs/ists_v6_1_08.pdf">ISTS
+        Newsletter</a>, vol. 6, no. 1, Summer/Fall 2008</li>
+      <li>Camp material available soon</li>
+    </ul>
+  </li>
+  <li><a href="http://www.cs.dartmouth.edu/~sismat/">Secure Information Systems
+    Mentoring and Training</a> (SISMAT), 2008 
+    <ul>
+      <li>Instructor</li>
+    </ul>
+  </li>
+  <li><a href="http://www.dartmouth.edu/~wisp/">Women In Science Project</a>
+    (WISP), 2008 
+    <ul>
+      <li>Mentor in project: <em>"SUPERS: A Smart, Usable and Privacy-Enhancing
+        Reputation System for eBay"</em></li>
+      <li>Co-mentor in project: <em>"Social Circles: Tackling Privacy in Social
+        Networks"</em> 
+        <ul>
+          <li>Resulted in a poster abstract at SOUPS '08</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Program
+    for the Upper Valley Youth</a>, 2007 
+    <ul>
+      <li>Instructor in the Cybersecurity Camp</li>
+      <li>Reported in <a
+        href="http://www.ists.dartmouth.edu/docs/ists_v4_2_07.pdf">ISTS
+        Newsletter</a>, vol. 4, no. 2, Fall 2007</li>
+      <li><a
+        href="https://wiki.cs.dartmouth.edu/patrick/doku.php?id=cybersecurity_camp_2007_summer_07">Camp
+        materials</a></li>
+    </ul>
+  </li>
+  <li>ISTS Cryptography Workshop 2006 
+    <ul>
+      <li>Organizer and Instructor</li>
+      <li><a
+        href="https://wiki.cs.dartmouth.edu/patrick/doku.php?id=cryptography_workshop_2006_summer_06">Workshop
+        materials</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1>Professional Activities</h1>
+<ul>
+  <li>Financial Cryptography and Data Security, Thirteenth International
+    Conference (<a href="http://fc09.ifca.ai/">FC '09</a>) 
+    <ul>
+      <li>Program committee member</li>
+    </ul>
+  </li>
+  <li>Applied Cryptography and Information Security 2006 (<a
+    href="http://www.cs.nyu.edu/~schow/acis06/">ACIS '06</a>) 
+    <ul>
+      <li>General Co-Chair</li>
+      <li>Superseded by <a
+        href="http://www.informatik.uni-trier.de/~ley/db/conf/provsec/index.html">ProvSec</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1>Publications</h1>
+
+<h2>Refereed Conference Papers</h2>
+
+<p>(Jump to year <a href="#2008">2008</a>, <a href="#2007">2007</a>, <a
+href="#2006">2006</a>, <a href="#2005">2005</a>, <a href="#2004">2004</a>)</p>
+
+<h3>2009</h3>
+
+<h4>C-17. DEAMON: Engergy-efficient Sensor Monitoring</h4>
+<ul>
+  <li>Minho Shin, <span style="text-decoration: underline;">Patrick
+  P. Tsang</span>, Cory Cornelius and David Kotz.</li>
+  <li> In the 6th IEEE Communications Society Conference on Sensor,
+  Mesh and Ad Hoc Communications and Networks (<strong>SECON
+  2009</strong>).</li>
+  <li>To Appear.</li>
+  <li>Acceptance rate: ~19%.</li>
+</ul>
+<h4>C-16. Dynamic Universal Accumulators for DDH Groups and Their Application
+to Attribute-Based Anonymous Credential Systems</h4>
+<ul>
+  <li>Man Ho Au, <span style="text-decoration: underline;">Patrick P.
+    Tsang</span>, Willy Susilo and Yi Mu.</li>
+  <li>In the Cryptographers' Track at the RSA Conference 2009 (<strong>CT-RSA 2009</strong>).</li>
+  <li>To Appear.</li>
+  <li> Acceptance rate: ~33%.</li>
+</ul>
+
+<h3><a name="2008" id="2008">2008</a></h3>
+
+<h4>C-15. PEREA: Towards Practical TTP-Free Revocation in Anonymous
+Authentication</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Man Ho
+    Au, Apu Kapadia and Sean W. Smith.</li>
+  <li>In <em>Proceedings of the 15th ACM Conference on Computer and
+    Communication Security (<strong>ACM CCS '08</strong>)</em>,</li>
+  <li>Alexandria, VA, USA, Oct 27-31, 2008.</li>
+  <li>pp. 333-344. ACM, 2008.</li>
+  <li>Acceptance rate: ~18%. Download: <a
+    href="http://doi.acm.org/10.1145/1455770.1455813">ACM</a>, <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/perea-ccs08.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/ccs/TsangAKS08">bibtex</a>.
+  </li>
+</ul>
+
+<h4>C-14. YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy
+SCADA Systems</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>
+    and Sean W. Smith.</li>
+  <li>In <em>Proceedings of The IFIP TC-11 23rd International Information
+    Security Conference, IFIP 20th World Computer Congress (<strong>IFIP SEC
+    '08</strong>),</em></li>
+  <li>Milan, Italy, September 7-10, 2008. </li>
+  <li>IFIP 278, pp. 445-459. Springer, 2008.</li>
+  <li>Acceptance rate: ~29%. Download: <a
+    href="http://www.springerlink.com/content/fx72247752277415/">Springer</a>,
+    <a href="http://www.cs.dartmouth.edu/~patrick/pub/yasir-sec08.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/sec/TsangS08">bibtex</a>.</li>
+  <li>Note: A preliminary version of this paper appeared as Dartmouth Computer
+    Science Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-603/">TR2007-603</a>.
+    An extended version of this paper is available as Dartmouth Computer
+    Science Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-617/">TR2008-617</a>.</li>
+</ul>
+
+<h4>C-13. PPAA: Peer-to-Peer Anonymous Authentication</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>
+    and Sean W. Smith</li>
+  <li>In <em>Applied Cryptography and Network Security, 6th International
+    Conference (<strong>ACNS '08</strong>)</em></li>
+  <li>New York, NY, USA, June 3-6, 2008 </li>
+  <li>LNCS 5037, pp. 55-74. Springer-Verlag, 2008</li>
+  <li>Acceptance rate: ~23%. Download: <a
+    href="http://dx.doi.org/10.1007/978-3-540-68914-0_4">Springer</a>, <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/ppaa-acns08.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/acns/TsangS08">bibtex</a>.</li>
+  <li>Note: An extended version of this paper is available as Dartmouth
+    Computer Science Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-615/">TR2007-615</a>.</li>
+</ul>
+
+<h4>C-12. Combating Spam and Denial-of-Service Attacks with Trusted Puzzle
+Solvers</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>
+    and Sean W. Smith</li>
+  <li>In <em>Information Security Practice and Experience, Forth International
+    Conference (<strong>ISPEC '08</strong>)</em></li>
+  <li>Sydney, Australia, Apr 21-23, 2008</li>
+  <li>LNCS 4991, pp. 188-202. Springer-Verlag, 2008</li>
+  <li>Acceptance rate: ~31%. Download: <a
+    href="http://dx.doi.org/10.1007/978-3-540-79104-1_14">Springer</a>, <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/puzzles-ispec08.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/ispec/TsangS08a">bibtex</a>.</li>
+</ul>
+
+<h4>C-11. Secure Cryptographic Precomputation with Insecure Memory</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>
+    and Sean W. Smith</li>
+  <li>In <em>Information Security Practice and Experience, Forth International
+    Conference (<strong>ISPEC '08</strong>)</em></li>
+  <li>Sydney, Australia, Apr 21-23, 2008</li>
+  <li>LNCS 4991, pp. 146-160. Springer-Verlag, 2008.</li>
+  <li>Acceptance rate: ~31%. Download: <a
+    href="http://dx.doi.org/10.1007/978-3-540-79104-1_11">Springer</a>, <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/precomp-ispec08.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/ispec/TsangS08">bibtex</a>.</li>
+  <li>Note: A preliminary version of this paper appeared as Dartmouth Computer
+    Science Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-590/">TR2007-590</a>.</li>
+</ul>
+
+<h3><a name="2007" id="2007">2007</a></h3>
+
+<h4>C-10. Blacklistable Anonymous Credentials: Blocking Misbehaving Users
+Without TTPs</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Man Ho
+    Au, Apu Kapadia and Sean W. Smith. </li>
+  <li>In <em>Proceedings of the 14th ACM Conference on Computer and
+    Communication Security (<strong>ACM CCS '07</strong>)</em>, </li>
+  <li>Alexandria, VA, USA, Oct 29-Nov 2, 2007. </li>
+  <li>Acceptance rate: ~18%. Download: <a
+    href="http://doi.acm.org/10.1145/1315245.1315256">ACM</a>, <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/blac-ccs07.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/ccs/TsangAKS07">bibtex</a>.
+  </li>
+  <li>Note: An extended version of this paper is available as Dartmouth
+    Computer Science Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-601/">TR2007-601</a>.
+    Further follow-up work is reported in <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-635/">TR2007-635</a>.</li>
+  <li>Media coverage: 
+    <ul>
+      <li>Cara Garretson. <a
+        href="http://www.nwwsubscribe.com/news/2007/112007-spam-research.html">12
+        spam research projects that might make a difference -- Image spam,
+        phishing hot topics in the research community</a>. In Network World.
+        11/20/2007.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>C-9. Batch Pairing Delegation</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>,
+    Sherman S.M. Chow and Sean W. Smith. </li>
+  <li>In <em>Advances in Information and Computer Security, 2nd International
+    Workshop on Security (<strong>IWSEC '07</strong>)</em>, </li>
+  <li>Nara, Japan, Oct 29-31, 2007. </li>
+  <li>LNCS 4752, pp. 74-90. Springer-Verlag, 2007. </li>
+  <li>Acceptance rate: ~27%. Download: <a
+    href="http://dx.doi.org/10.1007/978-3-540-75651-4_6">Springer</a>, <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/bpd-iwsec07.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/iwsec/TsangCS07">bibtex</a>.</li>
+</ul>
+
+<h4>C-8. Nymble: Anonymous IP-Address Blocking</h4>
+<ul>
+  <li>Peter C. Johnson, Apu Kapadia, <span
+    style="text-decoration: underline;">Patrick P. Tsang</span> and Sean W.
+    Smith. </li>
+  <li>In <em>Privacy Enhancing Technologies, 7th International Symposium
+    (<strong>PET '07</strong>)</em>, </li>
+  <li>Ottawa, Canada, Jun 20-22, 2007. </li>
+  <li>LNCS 4776, pp. 113-133. Springer-Verlag, 2007. </li>
+  <li>Acceptance rate: ~20%. Download: Springer, local copy. Cite: bibtex. </li>
+  <li>Note: Further follow-up work is reported in Dartmouth Computer Science
+    Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-637/">TR2008-637</a>.
+    Check out our <a href="http://www.cs.dartmouth.edu/~nymble/">website</a>
+    for an open-source implementation.</li>
+  <li>Media coverage: 
+    <ul>
+      <li>Dennis Fisher. <a
+        href="http://searchsecurity.techtarget.com/news/article/0,289142,sid14_gci1305120,00.html">Tor
+        network 'bridges' help evade blockers</a>. In SearchSecurity.com, 12
+        Mar 2008. </li>
+      <li>tshb. Podcast <a
+        href="http://cryptocracy.net/broadcasts/cryptocracy-podcast/6">Episode
+        1</a>. In <a href="http://cryptocracy.net/">Cryptocracy</a>. February
+        4th, 2008.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>C-7. Attribute-Based Publishing with Hidden Credentials and Hidden
+Policies</h4>
+<ul>
+  <li>Apu Kapadia, <span style="text-decoration: underline;">Patrick P.
+    Tsang</span> and Sean W. Smith. </li>
+  <li>In <em>the 14th Annual Network &amp; Distributed System Security
+    Symposium (<strong>NDSS '07</strong>)</em>, </li>
+  <li>San Diego, CA, USA, Feb 28-Mar 2, 2007. </li>
+  <li>Acceptance rate ~ 15%. Download: <a
+    href="http://www.isoc.org/isoc/conferences/ndss/07/papers/attribute-based_publishing.pdf">ISOC</a>,
+    <a href="http://www.cs.dartmouth.edu/~patrick/pub/peapod-ndss07.pdf">local
+    copy</a>. Cite: <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/peapod-ndss07.bib">bibtex</a>.</li>
+</ul>
+
+<h3><a name="2006" id="2006">2006</a></h3>
+
+<h4>C-6. Short Linkable Ring Signature Revisited</h4>
+<ul>
+  <li>Man Ho Au, Sherman S.M. Chow and Willy Susilo and <span
+    style="text-decoration: underline;">Patrick P. Tsang</span>. </li>
+  <li>In <em>Public Key Infrastructure, Third European PKI Workshop: Theory and
+    Practice (<strong>EuroPKI 2006</strong>)</em>, </li>
+  <li>Turin, Italy, Jun 19-20, 2006.</li>
+  <li>LNCS 4043, pp. 101-115. Springer-Verlag, 2006. </li>
+  <li>Acceptance rate: ~36%. Download: <a
+    href="http://www.springerlink.com/content/mh354x617t055533/">Springer</a>,
+    <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/slrsr-europki06.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/europki/AuCST06">bibtex</a>.</li>
+</ul>
+
+<h3><a name="2005" id="2005">2005</a></h3>
+
+<h4>C-5. Universal Custodian-Hiding Verifiable Encryption for Discrete
+Logarithms</h4>
+<ul>
+  <li>Joseph K. Liu, <span style="text-decoration: underline;">Patrick P.
+    Tsang</span>, Duncan S. Wong and Robert W. Zhu. </li>
+  <li>In <em>Information Security and Cryptology - ICISC 2005, 8th
+    International Conference (ICISC '05)</em>, </li>
+  <li>Seoul, Korea, Dec 1-2, 2005. </li>
+  <li>LNCS 3935, pp. 389-409. Springer-Verlag, 2006. </li>
+  <li>Acceptance rate: ~18%. Download: <a
+    href="http://www.springerlink.com/content/r76244134822p061/">Springer</a>,
+    <a href="http://www.cs.dartmouth.edu/~patrick/pub/uchve-icisc05.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/icisc/LiuTWZ05">bibtex</a>.</li>
+</ul>
+
+<h4>C-4. Efficient Verifiable Ring Encryption for Ad hoc Groups</h4>
+<ul>
+  <li>Joseph K. Liu, <span style="text-decoration: underline;">Patrick P.
+    Tsang</span> and Duncan S. Wong. </li>
+  <li>In <em>Security and Privacy in Ad-hoc and Sensor Networks, Second
+    European Workshop (<strong>ESAS '05</strong>)</em>, </li>
+  <li>Visegrad, Hungary, Jul 13-14, 2005. </li>
+  <li>LNCS 3813, pp. 1-13. Springer-Verlag, 2005. </li>
+  <li>Acceptance rate: ~33%. Download: <a
+    href="http://www.springerlink.com/content/f324728r75515787/">Springer</a>,
+    <a href="http://www.cs.dartmouth.edu/~patrick/pub/vre-esas05.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/esas/LiuTW05">bibtex</a>.</li>
+</ul>
+
+<h4>C-3. Recoverable and Untraceable E-cash</h4>
+<ul>
+  <li>Joseph K. Liu, <span style="text-decoration: underline;">Patrick P.
+    Tsang</span> and Duncan S. Wong. </li>
+  <li>In <em>Public Key Infrastructure, Second European PKI Workshop: Research
+    and Applications (<strong>EuroPKI '05</strong>)</em>, </li>
+  <li>Canterbury, UK, Jun 30-Jul 1, 2005. </li>
+  <li>LNCS 3813, pp. 1-13. Springer-Verlag, 2005. </li>
+  <li>Acceptance rate: ~43%. Download: <a
+    href="http://www.springerlink.com/content/p77432q3821501jg/">Springer</a>,
+    <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/ruecash-europki05.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/europki/LiuTW05">bibtex</a>.</li>
+</ul>
+
+<h4>C-2. Short Linkable Ring Signatures for E-Voting, E-Cash and
+Attestation</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span> and
+    Victor K. Wei. </li>
+  <li>In <em>Information Security Practice and Experience, First International
+    Conference (<strong>ISPEC '05</strong>)</em>, </li>
+  <li>Singapore, Apr 11-14, 2005, Proceedings. </li>
+  <li>LNCS 3439, pp. 48-60. Springer-Verlag, 2005. </li>
+  <li>Acceptance rate: ~33%. Download: <a
+    href="http://springerlink.metapress.com/content/tl000qeclpm1pear">Springer</a>,
+    <a href="http://www.cs.dartmouth.edu/~patrick/pub/slrs-ispec05.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/ispec/TsangW05">bibtex</a>.</li>
+</ul>
+
+<h3><a name="2004" id="2004">2004</a></h3>
+
+<h4>C-1. Separable Linkable Threshold Ring Signatures</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Victor
+    K. Wei, Tony K. Chan, Man Ho Au, Joseph K. Liu, and Duncan S. Wong. </li>
+  <li>In <em>Progress in Cryptology - INDOCRYPT 2004, 5th International
+    Conference on Cryptology in India (<strong>INDOCRYPT '04</strong>)</em>,
+  </li>
+  <li>Chennai, India, December 20-22, 2004. </li>
+  <li>LNCS 3348, pp. 384-398. Springer-Verlag, 2004. </li>
+  <li>Acceptance rate: ~17%. Download: <a
+    href="http://springerlink.metapress.com/content/rfwpb8v6taqw1byc">Springer</a>,
+    <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/sltrs-indocrypt04.pdf">local
+    copy</a>. Cite: <a
+    href="http://dblp.uni-trier.de/rec/bibtex/conf/indocrypt/TsangWCALW04">bibtex</a>.</li>
+</ul>
+
+<h2>Journal Papers</h2>
+
+<h4>J-2. Nymble: Blocking Misbehaving Users in Anonymizing Networks</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Apu
+    Kapadia, Cory Cornelius and Sean W. Smith. </li>
+  <li>Currently under review</li>
+  <li>An extended version is available as Dartmouth Computer Science Tech
+    Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-637/">TR2008-637</a>.</li>
+</ul>
+
+<h4>J-1. BLAC: Revoking Repeatedly Misbehaving Anonymous Users Without Relying
+on TTPs</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Man Ho
+    Au, Apu Kapadia and Sean W. Smith. </li>
+  <li>Currently under review</li>
+  <li>Available as Dartmouth Computer Science Tech Report <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-635/">TR2008-635</a>.</li>
+</ul>
+
+<h2>Technical Reports</h2>
+
+<h4>T-10. Dynamic Universal Accumulators for DDH Groups and Their
+  Application to Attribute-Based Anonymous Credential Systems</h4>
+<ul>
+  <li>Man Ho Au, <span style="text-decoration: underline;">Patrick
+  P. Tsang</span>, Willy Susilo and Yi Mu.</li>
+<li> Technical Report 2009-643, Department of Computer Secience,
+  Dartmouth College, Apr 2009. </li>
+<li>Download: <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2009-643">Dartmouth</a>.
+  Cite: <a href="http:/www.cs.dartmouth.edu.edu/reports/abstracts/TR2009-643/TR2009-643.bibtex">bibtex</a></li>
+<li>Note: This report is the extended version of the paper appeared in
+  CT-RSA '09 under the same title.</li>
+</ul>
+
+<h4>T-9. Authenticated Streamwise On-line Encryption</h4>
+<ul>
+<li><span style="text-decoration: underline;">Patrick P. Tsang</span>,
+  Rouslan V. Solomakhin and Sean W. Smith. </li>
+<li> Technical Report 2009-640, Department of Computer Science,
+  Dartmouth College, Mar 2009. </li>
+<li>Download: <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2009-640">Dartmouth</a>.
+  Cite: <a href="http:/www.cs.dartmouth.edu.edu/reports/abstracts/TR2009-640/TR2009-640.bibtex">bibtex</a></li>
+</ul>
+<h4>T-8. Nymble: Blocking Misbehaving Users in Anonymizing Networks</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Apu
+    Kapadia, Cory Cornelius and Sean W. Smith. </li>
+  <li>Technical Report 2008-637, Department of Computer Science, Dartmouth
+    College, Dec 2008. </li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-637">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-637/TR2008-637.bibtex">bibtex</a>.</li>
+  <li>Note: Nymble first appeared as a PET '07 paper. This tech report presents
+    a significantly improved construction and a complete rewrite and evaluation
+    of our (open-source) implementation. </li>
+</ul>
+
+<h4>T-7. BLAC: Revoking Repeatedly Misbehaving Anonymous Users Without Relying
+on TTPs</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Man Ho
+    Au, Apu Kapadia and Sean W. Smith. </li>
+  <li>Technical Report 2008-635, Department of Computer Science, Dartmouth
+    College, Oct 2008. </li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-635">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-635/TR2008-635.bibtex">bibtex</a>.</li>
+  <li>Note: This tech report extends our work priorly published as a CCS '07
+    paper and another tech report. </li>
+</ul>
+
+<h4>T-6. YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy
+SCADA Systems (Extended Version)</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span> and
+    Sean W. Smith. </li>
+  <li>Technical Report 2008-617, Department of Computer Science, Dartmouth
+    College, Apr 2008. </li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-617/">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-617/TR2008-617.bibtex">bibtex</a>.</li>
+  <li>Note: This tech report is an extended version of the paper to appear in
+    IFIP SEC '08 under the same title. </li>
+</ul>
+
+<h4>T-5. PPAA: Peer-to-Peer Anonymous Authentication (Extended Version)</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span> and
+    Sean W. Smith. </li>
+  <li>Technical Report 2007-615, Department of Computer Science, Dartmouth
+    College, Apr 2008. </li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-615/">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-615/TR2008-615.bibtex">bibtex</a>.</li>
+  <li>Note: This tech report is an extended version of the paper to appear in
+    ACNS '08 under the same title. </li>
+</ul>
+
+<h4>T-4. YASIR: A Low-Latency, High-Integrity Security Retrofit for Legacy
+SCADA Systems</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span> and
+    Sean W. Smith. </li>
+  <li>Technical Report 2007-603, Department of Computer Science, Dartmouth
+    College, Sep 2007. </li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-603/">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-603/TR2007-603.bibtex">bibtex</a>.
+  </li>
+  <li>Note: This tech report is a preliminary version of the paper to appear in
+    IFIP SEC '08 under the same title. </li>
+</ul>
+
+<h4>T-3. Blacklistable Anonymous Credentials: Blocking Misbehaving Users
+without TTPs (Extended Version)</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Man Ho
+    Au, Apu Kapadia and Sean W. Smith. </li>
+  <li>Technical Report 2007-601, Department of Computer Science, Dartmouth
+    College, Sep 2007.</li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-601/">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-601/TR2007-601.bibtex">bibtex</a>.</li>
+  <li>Note: This tech report is an extended version of the paper appeared in
+    CCS '07 under the same title. </li>
+</ul>
+
+<h4>T-2. Secure Cryptographic Precomputation with Insecure Memory </h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span> and
+    Sean W. Smith. </li>
+  <li>Technical Report 2007-590, Department of ComputerScience, Dartmouth
+    College, Jul 2007. </li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-590/">Dartmouth</a>.
+    Cite: <a
+    href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-590/TR2007-590.bibtex">bibtex</a>.</li>
+  <li>Note: This tech report is a preliminary versionof the paper to appear in
+    ISPEC '08 under the same title. </li>
+</ul>
+
+<h4>T-1. A Suite of ID-Based Threshold Ring Signatures with Different Levels of
+Anonymity</h4>
+<ul>
+  <li>Man Ho Au, Joseph K. Liu, <span
+    style="text-decoration: underline;">Patrick P. Tsang</span> and Duncan S.
+    Wong. </li>
+  <li>In Cryptology ePrint Archive, Report 2005/326, Sep 2005. </li>
+  <li>Download: <a href="http://eprint.iacr.org/2005/326">ePrint</a>. Cite: <a
+    href="http://eprint.iacr.org/cgi-bin/cite.pl?entry=2005/326">bibtex</a>.</li>
+</ul>
+
+<h2>Refereed Work-In-Progress Papers, Posters and Abstracts</h2>
+
+<h4>W-3. Social Circles: Tackling Privacy in Social Networks (Poster
+Abstract)</h4>
+<ul>
+  <li>Fabeah Adu-Oppong, Casey K. Gardiner, Apu Kapdia and <span
+    style="text-decoration: underline;">Patrick P. Tsang</span>. </li>
+  <li>In <em>the Fourth Symposium on Usable Privacy and Security (<strong>SOUPS
+    '08</strong>)</em>, </li>
+  <li>Pittsburgh, PA, USA, July 23-25, 2008.</li>
+</ul>
+
+<h4>W-2. SenseRight: Reliable People-centric Sensing with Unreliable
+Participants (Poster)</h4>
+<ul>
+  <li>Minho Shin, Cory Cornelius, Daniel Peebles, Apu Kapadia, <span
+    style="text-decoration: underline;">Patrick Tsang</span> and David Kotz.
+  </li>
+  <li>In <em>the 6th International Conference on Mobile Systems, Applications,
+    and Services (<strong>MobiSys '08</strong>)</em>, </li>
+  <li>Breckenridge, Colorado, USA, Jun 17-20, 2008.</li>
+</ul>
+
+<h4>W-1. Anonymous IP-Address Blocking in Tor with Trusted Computing
+(Work-in-Progress)</h4>
+<ul>
+  <li><span style="text-decoration: underline;">Patrick P. Tsang</span>, Apu
+    Kapadia and Sean W. Smith. </li>
+  <li>In <em>the Second Workshop on Advances in Trusted Computing (<strong>WATC
+    '06 Fall</strong>)</em>, </li>
+  <li>Tokyo, Japan, Nov 30-Dec 1, 2006. </li>
+  <li>Note: Superseded by the PET '07 paper "Nymble: Anonymous IP-address
+    Blocking".</li>
+</ul>
+
+<h2>Magazine Articles</h2>
+
+<h4>M-1. When Cryptographers Turn Lead into Gold</h4>
+<ul>
+  <li>Patrick P. Tsang.</li>
+  <li>In <em>IEEE Security and Privacy (<strong>IEEE
+  S&amp;P</strong>)</em>,</li>
+  <li>vol. 5, no. 2, pp. 76-79, Mar/Apr, 2007.</li>
+  <li>Download: <a
+    href="http://ieeexplore.ieee.org/iel5/8013/4140976/04140995.pdf?isnumber=4140976&amp;prod=JNL&amp;arnumber=4140995&amp;arSt=76&amp;ared=79&amp;arAuthor=Patrick+P.+Tsang">IEEE</a>,
+    <a href="http://www.cs.dartmouth.edu/~patrick/pub/alchemist.pdf">local
+    copy</a>. Cite: <a
+    href="http://portal.acm.org/citation.cfm?id=1262542.1262682&amp;coll=&amp;dl=#">bibitex</a></li>
+</ul>
+
+<h2>Dissertations</h2>
+
+<h4>D-1. Cryptography in Privacy-Preserving Applications</h4>
+<ul>
+  <li>Patrick P. Tsang.</li>
+  <li>M. Phil. Thesis, Department of Information Engineering, Chinese
+    University of Hong Kong, 2005.</li>
+  <li>Download: <a
+    href="http://www.cs.dartmouth.edu/~patrick/pub/mphil-thesis.pdf">local
+    copy</a>.</li>
+</ul>
+
+<h1>Courses</h1>
+
+<h2>I've taken</h2>
+<ul>
+  <li>CS185 <strong>Algorithmic Game Theory</strong>, Spring 2007. Lecturer:
+    Lisa K. Fleischer. </li>
+  <li>CS185 <strong>Concurrent Algorithms</strong>, Fall 2006. (High Pass.)
+    Lecturer: Prasad Jayanti. </li>
+  <li>CS109 <strong>Theory of Computation</strong>, Spring 2006. (High Pass.)
+    Lecturer: Peter Winkler. </li>
+  <li>CS118 <strong>Programming Languages</strong>, Spring 2006. (High Pass.)
+    Lecturers: William M. McKeeman and M. Douglas McIlroy. </li>
+  <li>CS105 <strong>Data Structures and Algorithms</strong>, Winter 2006.
+    Lecturer: Rahul Ray. </li>
+  <li>CS108 <strong>Advanced Operating Systems</strong>, Winter 2006. (High
+    Pass.) Lecturer: Sean W. Smith. </li>
+  <li>CS107 <strong>Computer Architecture</strong>, Fall 2005. Lecturer:
+    Vincent Berk. </li>
+  <li>CS188 <strong>Introduction to Bioinformatics</strong>, Fall 2005. (High
+    Pass.) Lecturer: Chris Bailey-Kellogg.</li>
+</ul>
+
+<h2>I've TA'ed</h2>
+<ul>
+  <li>CS108 <strong>Advanced Operating Systems</strong>, Winter 2007. Lecturer:
+    Sean W. Smith. </li>
+  <li>CS4 <strong>Concepts in Computing</strong>, Summer 2006. Lecturer: Chris
+    Bailey-Kellogg. </li>
+  <li>CS38 <strong>Security and Privacy</strong>, Spring 2006. (High Pass.)
+    Lecturer: Sean W. Smith. </li>
+  <li>CS18 <strong>Structure and Interpretation of Computer Programs</strong>,
+    Fall 2005. (High Pass.) Lecturer: Michael J. Fromberger.</li>
+</ul>
+
+<h1>Links</h1>
+<ul>
+  <li><a href="http://www.phdcomics.com/comics/comics.php">PHD Comics</a>, <a
+    href="http://xkcd.com/">xkcd</a>, <a
+    href="http://www.anagram.com/%7Ejcrap/">J. Crap.</a>, <a
+    href="http://www.dilbert.com/">Dilbert</a>, <a
+    href="http://www.mcplusplus.com/downloads/">mcplusplus</a></li>
+  <li><a
+    href="http://research.cyber.ee/~lipmaa/crypto/">Cipher-Call-for-Papers</a>,
+    <a href="http://www.iacr.org/events/">IACR Calendar of Events in
+    Cryptology</a></li>
+  <li><a href="http://www.ists.dartmouth.edu/">ISTS</a>, <a
+    href="https://wiki.cs.dartmouth.edu/srg/doku.php">SRG</a></li>
+  <li><a href="http://research.cyber.ee/~lipmaa/crypto/">Cryptology
+    Pointers</a>, <a href="http://www.freehaven.net/anonbib/">Free Haven's
+    Selected Papers in Anonymity</a>, <a
+    href="http://www.cs.bham.ac.uk/%7Egzw/bible.htm">Bibliography on Digital
+    Signatures</a></li>
+</ul>
+
+<h1>Last Modified</h1>
+<ul>
+  <li>Last Modified: 
+    <script type="text/javascript">
+document.write(document.lastModified);</script>
+  </li>
+</ul>
+</body>
+</html>

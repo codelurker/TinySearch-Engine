@@ -1,0 +1,142 @@
+http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Spring2009/projects.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>CS034/CS134 | Machine Learning and Statistical Data Analysis | Spring 2009</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<div class="pagebackground">
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+<div class="header">
+  <div class="title"> CS034/CS134, Spring 2009</div>
+  <div class="subtitle">Machine Learning and Statistical Data Analysis</div>
+</div>
+
+<div class="navigation">
+  <a href="index.html" class="navthere">About</a>
+  <a href="schedule.html" class="navthere">Schedule</a>
+  <a href="projects.html" class="navhere">Projects</a>
+</div>
+
+<div class="content">
+
+<p><a href="ProjGuidelines.pdf">Project guidelines</a>
+<p>
+<br>
+Student Projects:</p>
+<p></p>
+<ul>
+  <li>Bornika Ghosh and Andrew Parker, <span
+ style="font-style: italic;">Epitope Classification Using
+Support Vector Machines</span>.</li>
+  <ul>
+    <li><a href="proposal/BornikaAndrew/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Chrisil Arackaparambil and Ashok Chandrashekhar,&nbsp; <span
+ style="font-style: italic;">Object Categorization Using
+Spatial-Temporal Features</span>.</li>
+  <ul>
+    <li><a href="proposal/ChrisilAshok/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Emiliano Miluzzo, &nbsp; <span style="font-style: italic;">Discovery: a Framework to Determine Mobile Phones Sensing Context</span>.</li>
+  <ul>
+      <li><a href="proposal/Emiliano/index.html">Proposal</a></li>
+  </ul>
+  <li>Eric Trautmann, &nbsp; <span style="font-style: italic;">Proprioceptive Obstacle Recognition using Hidden Markov Models for Mobile Robot Navigation</span>.</li>
+  <ul>
+      <li><a href="proposal/Eric/proposal.html">Proposal</a></li>
+  </ul>
+
+  <li>Hong Lu and Dan Peebles, &nbsp; <span style="font-style: italic;">Indoor Location Recognition</span>.</li>
+  <ul>
+      <li><a href="proposal/HongDaniel/index.html">Proposal</a></li>
+  </ul>
+  <li>Jason Victor, &nbsp; <span style="font-style: italic;">Predicting Excess Equity Returns from Company Fundamentals</span>.</li>
+  <ul>
+      <li><a href="proposal/Jason/jasonvictor.html">Proposal</a></li>
+  </ul>
+  <li>Abhijeet Jha, &nbsp; <span style="font-style: italic;">Support Vector Machines for Face Recognition</span>.</li>
+  <ul>
+      <li><a href="proposal/Abhijeet/jha_proposal.htm">Proposal</a></li>
+  </ul>
+  <li>John Eikens, &nbsp; <span style="font-style: italic;"> Personalized RSS Feed Aggregation using Support Vector Machines</span>.</li>
+  <ul>
+      <li><a href="proposal/John/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Karn Seth, &nbsp; <span style="font-style: italic;">Digg Analysis</span>.</li>
+  <ul>
+      <li><a href="proposal/Karn/index.html">Proposal</a></li>
+  </ul>
+  <li>Lu He and Tuobin Wang, &nbsp; <span style="font-style: italic;">Multi-class Object Categorization in Images</span>.</li>
+  <ul>
+      <li><a href="proposal/LuTuobin/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Nic Lane, &nbsp; <span style="font-style: italic;">Spoken Word Project</span>.</li>
+  <ul>
+      <li><a href="proposal/Nic/spoken_word.html">Proposal</a></li>
+  </ul>
+  <li>Geethmala Sridaran and Nimit Dhulekar, &nbsp; <span style="font-style: italic;">Object Recognition and Tracking in Video Sequences</span>.</li>
+  <ul>
+      <li><a href="proposal/NimitGeethmala/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Peng Ding and Tao Mao, &nbsp; <span style="font-style: italic;">Reinforcement Learning in Tic-Tac-Toe Game
+and Its Similar Variations</span>.</li>
+  <ul>
+      <li><a href="proposal/PengTao/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Qi Gu, &nbsp; <span style="font-style: italic;">Region-based Image Classification</span>.</li>
+  <ul>
+      <li><a href="proposal/Qi/projproposal.htm">Proposal</a></li>
+  </ul>
+  <li>Ray Di Ciaccio and Yoon-ki Park, &nbsp; <span style="font-style: italic;">Classifying Inrush Currents for Device Identification</span>.</li>
+  <ul>
+      <li><a href="proposal/RayYoonki/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Rong Yang, &nbsp; <span style="font-style: italic;">Training Conditional Random Fields using Virtual Evidence Boosting</span>.</li>
+  <ul>
+      <li><a href="proposal/Rong/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Shaohan Hu and Mu Lin, &nbsp; <span style="font-style: italic;">Information Classification</span>.</li>
+  <ul>
+      <li><a href="proposal/ShaohanMu/proposal.html">Proposal</a></li>
+  </ul>
+  <li>Xiaoyu(Sarah) Zhao, &nbsp; <span style="font-style: italic;">Audio Source Separation</span>.</li>
+  <ul>
+      <li><a href="proposal/Xiaoyu/index.html">Proposal</a></li>
+  </ul>
+  <li>Yiming Qi and Zhiyuan(Jack) Zhang, &nbsp; <span style="font-style: italic;">Learning to Classify and Forecast Telemarketing Phone Numbers</span>.</li>
+  <ul>
+      <li><a href="proposal/YimingJack/proposal.html">Proposal</a></li>
+  </ul>
+
+
+
+</ul>
+
+
+
+
+</div>
+
+<div class="footer">
+<!-- hhmts start --> <!-- hhmts end -->
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html>

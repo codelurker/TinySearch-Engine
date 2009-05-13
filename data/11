@@ -1,0 +1,523 @@
+http://www.cs.dartmouth.edu/seminar.php
+1
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+   <title>Dartmouth Computer Science:  Seminar Series</title>
+   <style type="text/css" media="all">
+   @import url(dartmouthcs_colloq.css);
+   .style1 {
+	color: #FF0000;
+	font-weight: bold;
+}
+   .style2 {color: #FF0000}
+   .style3 {color: #000000}
+   .style5 {color: #333333}
+   </style>
+   
+<body id="home">
+
+
+
+<div id="header">
+
+   <h1>Dartmouth Computer Science</h1>
+
+   
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+   <form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+   <div>
+   <input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+   <input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+   <input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+   <input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+   <input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+   <input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+   <input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+<input class="button" type="submit"  name="search" value="Search" />  
+   </div>
+
+   </form>
+   -->
+   
+   
+   <!--
+   <form method="get" action="http://www.htmldog.com/search/">
+   <div>
+   <input type="hidden" name="sp-a" value="sp1002e60e" />
+   <input type="hidden" name="sp-f" value="UTF-8" />
+   <label for="morombe">Search: </label>
+   <input type="text" name="sp-q" id="morombe" />
+   <input type="submit" value="Search" class="button" />
+   </div>
+   </form>
+   -->
+   
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+   <li>General
+   <ul>
+   <li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+
+   <li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+
+   <li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+   </ul>
+   </li>
+
+   <li>Research
+   <ul>
+   <li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+   <li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+   <li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+
+   <li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+   </ul>
+   </li>
+   
+   <li>Education
+   <ul>
+   <li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+   <li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+   <li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+
+   <li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+   <li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>
+
+   </ul></li>
+
+   <li>Admissions
+   <ul>
+   <li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+
+   <li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+   <li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+   </ul>
+   <ul>
+
+   </ul></li>
+   
+</ul>
+
+</div>
+   
+
+
+<div id="section">
+   
+   <div id="content">
+
+
+<h1> 2008-09 Dartmouth Computer Science Colloquium Schedule</h1>
+<h2> Seminars occur on <b>Wednesdays from 4:30pm to 5:30pm</b> in <span class="style1"><a href="map-ne.jpg">B03 in Moore</a></span> (unless otherwise noted), and are open to everyone. We are pleased to have you join us for light refreshments and tea at 4pm to meet the guest speaker and the audience.</h2>
+<h2>Upcoming Seminars</h2>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.katherineinterface.com">Katherine Isbister</a><a href="http://www.cse.ohio-state.edu/~tamaldey/"></a></li>
+  <li><b>Affiliation:</b> <a href="http://www.poly.edu/">NYU-Poly</a><a href="http://web.mit.edu/"></a> and ITU Copenhagen's <a href="http://game.itu.dk/" target="_blank">Center for Computer Games Research</a></li>
+  <li><b>Date: </b>Wed, May 13, 2009</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b>Jointly sponsored by Digital Humanities and Computer Science</li>
+  <li><b>Title:&nbsp;</b>Touchy Feely Games: Broadening Designers' Social and Emotional Palette</li>
+  <li> <b>Abstract:&nbsp; </b> In the 1980s the fledgling Electronic Arts company asked 'Can a  Computer Make You Cry?' in a famous advertising campaign, and set a  challenge for the field that many would say has yet to be fully  realized. The popular press often emphasizes violent or 'primitive'  emotions in its portrayal of games, and holds up the solitary  antisocial gamer as a warning to us all. Yet the Entertainment Software  Association reports that over half of gaming is done socially, and game  designers and developers have recently renewed enthusiasm and efforts  devoted to making games more emotionally rich and appealing. I believe  that a wide range of social and emotional qualities can be designed  into games and other interactive experiences, and will present research  projects that show my efforts to understand what drives emotion and  social connection, and that apply what I've learned to create designed  experiences that push the boundaries of the medium toward a broader  social and emotional palette.</li>
+  <li> <b>Bio: </b> Katherine Isbister is an Associate Professor of Digital Media and  Computer Science and Engineering at NYU-Poly, and also maintains an  affiliation at the ITU Copenhagen Center for Computer Games Research.  She received her Ph.D. from Stanford University, with a focus on  applying human social behavior to the design of digital characters.  Since then, she has worked in both industry and research venues to  create and evaluate interfaces that enhance the player (or user)  experience using social and emotional qualities.  <br />
+    <br />
+    Dr. Isbister has written two books: Better Game Characters by  Design: A Psychological Approach, and Game Usability: Advice from the  Experts for Advancing the Player Experience. Better Game Characters was  nominated for a Game Developer Magazine Frontline Award in 2006. <br />
+    <br />
+    Current research interests include emotion and gesture in games,  supple interactions, design of game characters, and game usability. Dr.  Isbister presents and publishes her work in Human Computer Interaction  (HCI) and Game Studies venues. She has received funding from both  governmental and private sources, including the U.S. National Science  Foundation and companies such as Electronic Arts.&nbsp; She serves on the  advisory board of the International Game Developers Association Games  Education Special Interest Group, and on the Editorial Board of the  International Journal of Human Computer Studies. In 1999 Katherine  Isbister was selected as one of MIT Technology Review's TR100 Young  Innovators most likey to shape the future of technology. <br />
+</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://web.media.mit.edu/~picard/">Rosalind Picard</a><a href="http://www.cse.ohio-state.edu/~tamaldey/"></a></li>
+  <li><b>Affiliation:</b> <a href="http://web.media.mit.edu/">Media Laboratory</a>, <a href="http://web.mit.edu/">MIT</a></li>
+  <li><b>Date: </b>Wed, May 20, 2009</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b>Jointly sponsored by Digital Humanities and Computer Science</li>
+  <li><b>Title:&nbsp;</b>Coming Soon</li>
+  <li> <b>Abstract:&nbsp; </b> </li>
+  <li> <b>Bio: </b> </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.mit.edu/~kimo/">Kimo Johnson</a></li>
+  <li><b>Affiliation:</b><a href="http://web.mit.edu/">MIT</a></li>
+  <li><b>Date: </b>Wed, May 27, 2009</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/farid/">Hany Farid</a></li>
+  <li><b>Title:&nbsp;</b>Coming Soon</li>
+  <li> <b>Abstract:&nbsp; </b> </li>
+  <li> <b>Bio: </b> </li>
+</ul>
+<hr />
+<h2>Past Seminars</h2>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://web.media.mit.edu/~sandy/">Alex (Sandy) Pentland</a></li>
+  <li><b>Affiliation:</b> <a href="http://web.media.mit.edu">Media Laboratory, MIT</a></li>
+  <li><b>Keynote Speaker for the Annual Computer Science Research Symposium</b></li>
+  <li><b>Date: </b>Saturday, September 27, 2008</li>
+  <li><b>Time:</b> 9:20 - 10:20am</li>
+  <li><strong>Location</strong>: Rockefeller Center, Room 003</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~hughes/">James Hughes</a> and <a href="http://www.cs.dartmouth.edu/~tanzeem/">Tanzeem Choudhury</a> <a href="http://www.cs.dartmouth.edu/~hughes/"></a></li>
+  <li><b>Title:&nbsp;</b>Honest Signals</li>
+  <li> <b>Abstract: </b>We are in the midst of an explosion of information about people and  their behavior, but most of it is noise.  Reality Mining sifts through  this noise to discover the `honest signals' hidden within: subtle  patterns that reliably reveal our relationships with other people, and  accurately predict our future behavior. Honest signals offer an  unmatched window into our financial, cultural, and organizational  health. By understanding these subtle patterns we can better understand  ourselves, and begin to create true collective intelligences.&nbsp; </li>
+  <li> <b>Bio: </b> Professor Alex (&ldquo;Sandy&rdquo;)        Pentland is a pioneer in organizational engineering, mobile information        systems, and computational social science. Sandy's focus is the development of        human-centered technology, and the creation of ventures that take this        technology into the real world.  
+    He directs the <a href="http://dl.media.mit.edu/">Digital Life Consortium</a>,        a group of more than twenty multinational corporations exploring new ways        to innovate, and oversees the <a href="http://nextbillion.mit.edu/">Next        Billion Network</a>, established to support aspiring entrepreneurs in        emerging markets, and the <a href="http://eprom.mit.edu/">EPROM</a> entrepreneurship program in Africa.&nbsp;        He is among the most-cited computer scientists in the world, and        in 1997 Newsweek magazine named him one of the 100 Americans likely to        shape this century </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name:</b> Stephen Kobourov</li>
+  <li><b>Affiliation:</b> AT&amp;T Labs</li>
+  <li><b>Date: </b>Wed, Oct 1, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~scot/">Scot Drysdale</a></li>
+  <li><b>Title:&nbsp;</b>Simultaneous Graph Embedding</li>
+  <li> <b>Abstract:&nbsp; </b> Traditional problems in graph visualization deal with a single graph  while simultaneous graph visualization involves multiple related  graphs. In the latter case nodes are placed in the same locations in  all graphs and the graphs are simultaneously embeddable if  crossing-free drawings for each graph can be found. We present  polynomial time algorithms for simultaneous embedding of several  classes of planar graphs and prove that some classes of graphs cannot  be simultaneously embedded. More interesting are the half dozen  variations: simultaneous geometric embedding, with and without mapping,  colored simultaneous embeddings, near simultaneous embeddings, and  matched embeddings. </li>
+  <li> <b>Bio: </b>Stephen Kobourov's research interests include information  visualization, graph drawing and geometric algorithms, emphasizing  problems relating to graph visualization. He received a BS in Computer  Science and Mathematics from Dartmouth College in 1995 and PhD in  Computer Science from Johns Hopkins University in 2000. He worked at  the University of Arizona where he received a NSF Career grant and was  tenured in 2006. As a Fulbright Scholar he spent a sabbatical year at  the University of Botswana. He is an editor of the Journal of Graph  Algorithms and Applications and has served on program committees for  SODA, ESA, GD and SoftVis, and as program committee chair for the 10th  Symposium on Graph Drawing. He joined AT&amp;T Research Labs in 2008. </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name:</b><a href="http://www.cse.ohio-state.edu/~tamaldey/">Tamal Dey</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cse.ohio-state.edu">Computer Science and Engineering, Ohio State University</a></li>
+  <li><b>Date: </b>Wed, Oct 8, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~afra/">Afra Zomorodian</a></li>
+  <li><b>Title:&nbsp;</b>Delaunay Mesh Generation for Piecewise Smooth Domains</li>
+  <li> <b>Abstract:&nbsp; </b> Automatic mesh generation of various domains  is an important goal in CAD. Recent sampling theory coupled with the Delaunay refinement strategy have proven to be effective for this problem. However, piecewise smooth surfaces and volumes remained as a challenge. Specifically, small angles subtended at non-smooth regions pose a serious obstacle to the strategy. In this talk we describe a method that removes the obstacle and can generate Delaunay meshes of piecewise smooth surfaces, volumes, and non-manifolds. The method is practical and has been implemented into a software called DelPSC which is available from <a href="http://www.cse.ohio-state.edu/%7Etamaldey/delpsc.html">http://www.cse.ohio-state.edu/~tamaldey/delpsc.html</a>. </li>
+  <li> <b>Bio: </b> Tamal K. Dey is professor of computer science  at The Ohio State University. His research interest includes computational geometry, computational topology and their applications in graphics and geometric modeling. After finishing his PhD from Purdue University in 1991 he spent a year in University of Illinois at Urbana Champaign as a post doctoral fellow. He has held academic positions in Indiana University-Purdue University at Indianapolis, IndianInstitute of Technology, Kharagpur, India, and Max-Planck Institute, Germany. Recently he authored a book ``Curve and surface reconstruction: Algorithms with mathematical analysis&quot; published by Cambridge University Press. He leads the Jyamiti group which has developed various software including the well known Cocone software for surface reconstruction and DelPSC software for mesh generation. Details can be found at <a href="http://www.cse.ohio-state.edu/%7Etamaldey">http://www.cse.ohio-state.edu/~tamaldey</a>. </li>
+  </ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://people.csail.mit.edu/indyk/">Piotr Indyk</a></li>
+  <li><b>Affiliation:</b> <a href="http://people.csail.mit.edu/">CSAIL, MIT</a></li>
+  <li><b>Date: </b>Wed, Oct 15 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~afra/">Afra Zomorodian</a> and <a href="http://www.cs.dartmouth.edu/farid/">Hany Farid</a></li>
+  <li><b>Title:&nbsp;</b>Sparse Recovery Using Sparse Random Matrices</li>
+  <li> <b>Abstract:&nbsp;</b>Over the recent years, a new *linear* method for compressing high-dimensional data (e.g., images) has been discovered. For any high-dimensional vector x, its *sketch* is equal to Ax, where A is an m x n matrix (possibly chosen at random). Although typically the sketch length m is much smaller than the number of dimensions n, the sketch contains enough information to recover an *approximation* to x. At the same time, the linearity of the sketching method is very convenient for many applications, such as data stream computing and compressed sensing. <br />
+    The major sketching approaches can be classified as either combinatorial (using sparse sketching matrices) or geometric (using dense sketching matrices). They achieve different trade-offs, notably between the compression rate and the running time. Thus, it is desirable to understand the connections between them, with the goal of obtaining the &quot;best of both worlds&quot; solution. <br />
+    In this talk we show that, in a sense, the combinatorial and geometric approaches are based on different manifestations of the same phenomenon. This connection will enable us to obtain several novel algorithms and constructions, which inherit advantages of sparse matrices, such as lower sketching and recovery times. <br />
+    Joint work with: Radu Berinde, Anna Gilbert, Howard Karloff, Milan Ruzic and Martin Strauss. <br />
+  </li>
+  <li> <b>Bio: </b>Piotr joined MIT in September 2000, after earning PhD from Stanford  University. Earlier, he received Magister degree from Uniwersytet  Warszawski in 1995. As of July 2007, he holds the title of Associate  Professor with Tenure in the Department of Electrical Engineering and  Computer Science. Piotr's research interests include: computational geometry  (especially in high dimensional spaces), algorithms using sublinear  time and/or space and streaming algorithms. He is also interested in  algorithmic coding theory and pattern matching problems. </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://cs-www.cs.yale.edu/homes/spielman/">Daniel Spielman</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.yale.edu/">Computer Science, Yale University</a></li>
+  <li><b>Date: </b>Wed, Oct 22, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></li>
+  <li><b>Title:&nbsp;</b>Graph approximation and local clustering, with applications to the solution of diagonally-dominant systems of linear equations</li>
+  <li> <b>Abstract:&nbsp;</b>We discuss several fascinating concepts and algorithms in graph theory that arose in the design of a nearly-linear time algorithm for solving diagonally-dominant linear systems.  We begin by defining a new notion of what it means to approximate a graph by another graph, and explain why these sparse approximations enable the fast solution of linear equations.  To build these sparsifiers, we rely on low-stretch spanning trees, random matrix theory, spectral graph theory, and graph partitioning algorithms. <br/>
+    The need to quickly partition a graph leads us to the local clustering problem: given a vertex in a massive graph,  output a small cluster near that vertex in time proportional to the size of the cluster.<br/>
+    We use all these tools to design nearly-linear time algorithms for solving diagonally-dominant systems of linear equations, and give some applications. <br />
+    This talk focuses on joint work with Shang-Hua Teng, and touches on work by Vaidya, Gremban, Miller, Koutis, Emek, Elkin, Andersen, Chung, Lang, Daitch, Srivastava and Batson. </li>
+</ul>
+<ul>
+  <li> <b>Bio: </b> </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name:</b> <a href="http://www.cs.uvm.edu/~jbongard/">Josh Bongard</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.uvm.edu/~cems/cs/">Computer Science, University of Vermont</a><a href="http://www.cs.yale.edu/"></a></li>
+  <li><b>Date: </b>Wed, Oct 29, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~robotics/">Devin Balkcom</a><a href="http://www.cs.dartmouth.edu/~ac/"></a></li>
+  <li><b>Title:&nbsp; </b>Investigations at the Interface of Morphology, Evolution and Cognition </li>
+  <li> <b>Abstract:&nbsp; </b> Most computational attempts to understand cognition have focused on its  proximate mechanisms: understanding the function of existing biological  systems related to cognition and implementing them in artificial  systems. In this talk I will discuss several robotics projects I have  been involved in in which we try to shed light on the ultimate  mechanisms of cognition: what selection pressures and task environments  lead to the appearance of particular cognitive abilities, and what  morphological and neural structures must evolve to support those  abilities. </li>
+  <li> <b>Bio: </b> Josh Bongard received his Bachelors degree in Computer Science from McMaster University, Canada, his Masters degree from the University of Sussex, UK, and his PhD from the University of Zurich, Switzerland. He served as a postdoctoral associate under Hod Lipson in the Computational Synthesis Laboratory at Cornell University from 2003 to 2006. He is the co-author of the popular science book entitled &quot;How the Body Shapes the Way We Think: A New View of Intelligence,&quot; MIT Press, November 2006 (with Rolf Pfeifer). Currently, he is an assistant professor in the Computer Science Department at the University of Vermont. His research interests include embodied cognition and evolutionary computation, and he was named both a Microsoft Research New Faculty Fellow in 2006, as well as a member of the TR35: MIT Technology Review's top 35 innovators under the age of 35. </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.math.uiuc.edu/~ghrist/">Rob Ghrist</a></li>
+  <li><b>Affiliation:</b> U. of Pennsylvania</li>
+  <li><b>Date: </b>Wed, Nov 5, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~afra/">Afra Zomorodian</a></li>
+  <li><b>Title:&nbsp;</b>Euler Calculus for Sensor Networks</li>
+  <li> <b>Abstract:&nbsp; </b> This work is motivated by a fundamental problem in  sensor networks -- the need to aggregate redundant sensor data across a network. We focus on simple problems of enumerating and localizing targets using a network of minimal sensors that can detect and count nearby targets, but cannot identify or localize them. We solve this problem with calculus --- but not the calculus of Netwon et al. An integration theory built from algebraic topology and the Euler characteristic provides a computable, robust, and powerful tool for data aggregation. </li>
+</ul>
+<ul><li> <b>Bio: </b> Rob Ghrist is the Andrea Mitchell PIK Professor at the University of   Pennsylvania, where he holds a joint appointment in the departments of   Mathematics and Electrical and Systems Engineering.&nbsp; Before joining Penn,   Ghrist was University Scholar and Richard and Margaret Romano Professional Scholar at the University of Illinois at Urbana-Champaign, where he held   positions in the Department of Mathematics, Coordinated Science Laboratory, and Information Trust Institute.&nbsp; A winner of a Presidential Early   Career Award for Scientists and Engineers (PECASE) and a Career Award   from the National Science Foundation, Ghrist was named by Scientific   American as a top 50 scientific innovator of 2007. <br />
+  </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name:</b> <a href="http://www.ece.northwestern.edu/~hartline/">Jason Hartline</a></li>
+  <li><b>Affiliation: </b><a href="http://www.ece.northwestern.edu">Electrical Engineering and Computer Science, Northwestern University</a></li>
+  <li><b>Date: </b>Wed, Nov 12, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><strong>Location</strong>: <span class="style1">Kemeny 007</span> (note different location this week)</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~lkf/">Lisa Fleischer</a></li>
+  <li><b>Title:&nbsp;</b>Economics in Internet Design</li>
+  <li> <b>Abstract:&nbsp; </b> As the Internet has developed to become the single most   important arena for resource sharing among parties with diverse and   selfish interests, traditional algorithmic and distributed systems   approaches are insufficient. To prevent undesirable Internet phenomena   such as spam in email systems, bid-sniping in eBay's auction   marketplace, free-loading in file-sharing networks, and click-fraud in   Internet advertising; game-theoretic and economic considerations from   auction theory must be applied. The first part of the talk is an   overview of the foundational 2007 Economics Nobel prize winning theory   of auction design. Unfortunately, this theory is insufficient for design   of Internet algorithms both for its reliance on (micro) payments   (whereas Internet protocols do not use payments) and because it suggests   a different auction for every setting (whereas an Internet protocol must   work well under a wide range of workloads). The second part of the talk   develops an economic theory appropriate for Internet design. </li>
+  <li> <b>Bio: </b> Dr. Hartline joined the EECS department at Northwestern University   in January of 2008. Prior to joining Northwestern, he spent four years   as researcher at Microsoft Research, Silicon Valley, where he studied   foundational topics in Internet economics and applied them, e.g., to ad   auctions. He was a founding organizer of the Bay Algorithmic Game Theory   Symposium. In 2003, he held a postdoctoral research fellowship at the   Aladdin Center at Carnegie Mellon University and he received his Ph.D.   in Computer Science from the University of Washington in 2003 advised by   Anna Karlin. In third grade he got first place in a Halloween window   painting contest. <a href="http://www.eecs.northwestern.edu/%7Ehartline/">www.eecs.northwestern.edu/~hartline/</a> </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.eecs.umich.edu/~pollackm/">Martha E. Pollack</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.eecs.umich.edu">Electrical Engineering and Computer Science</a> and <a href="http://www.si.umich.edu/">School of Information</a>, U. of Michigan</li>
+  <li><b>Date: </b>Wed, Nov 19, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~tanzeem/">Tanzeem Choudhury</a></li>
+  <li><b>Title:&nbsp;</b>Intelligent Assistive Technology:&nbsp; The Present and the  Future</li>
+  <li> <b>Abstract:&nbsp;</b>Recent advances in two areas of computer  science&mdash;wireless sensor networks and AI inference strategies&mdash;have  made it possible to envision, and to begin developing, &nbsp;a wide range of  technologies that can improve the lives of people with physical, cognitive,  and/or psycho-social impairments.&nbsp; This talk will focus on assistive  technology for people with cognitive impairment, surveying the state-of-the-art  and speculating about future design challenges and opportunities. &nbsp;&nbsp;A  key theme will be that the usefulness and effectiveness of these systems  depends on their being adaptive to the often highly individualized and changing  needs of their users, and that to achieve these properties, designers must  integrate a variety of strategies for automated reasoning and  learning.&nbsp;&nbsp; &nbsp;&nbsp;<b> </b> </li>
+  <li> <b>Bio: </b>Martha E. Pollack is Dean and Professor in the School of Information  at the University   of Michigan, where she is  also Professor of Computer Science and Engineering. &nbsp;&nbsp;She received  her B.A. degree from Dartmouth College and her M.S.E. and Ph.D. degrees from the University of Pennsylvania,  and has been a faculty member at the University   of Pittsburgh and a  research staff member at the AI Center at SRI International.&nbsp; A Fellow of  the Association for the Advancement for Artificial Intelligence, for which she  is also President-Elect, Dr. Pollack serves on the NSF CISE Advisory Committee  and the Board of Directors of the Computing Research Association.  &nbsp;&nbsp;She has conducted and published research in a number of subareas of  Artificial Intelligence, including natural-language processing, automated plan  generation and execution, and adaptive interfaces, and has been a pioneer in  the application of AI methods to the design of assistive technology for people  with cognitive impairment.&nbsp; Dr. Pollack is the recipient of a number of  professional awards, including the Computers and Thought Award, the University of Pittsburgh Distinguished Research Award,  and the Sarah Goddard Power Award. </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.math.gatech.edu/~tetali/">Prasad Tetali</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.math.gatech.edu/">School of Mathematics</a> and <a href="http://www.cc.gatech.edu/">College of Computing</a>, <a href="http://www.gatech.edu/">Georgia Tech</a></li>
+  <li><b>Date: </b>Wed, Dec 3, 2008</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.math.dartmouth.edu/~pw/">Pete Winkler</a></li>
+  <li><b>Title:&nbsp;</b>Correlation Decay and Deterministic Approximation Algorithms</li>
+  <li> <b>Abstract:&nbsp; </b>The notion of a correlation decay, originating in statistical physics, has recently played an important role in yielding fully polynomial time&nbsp;   deterministic approximation algorithms for various counting problems. I will try to illustrate this technique (in a self-contained way) with&nbsp;   two examples: counting matchings in bounded degree graphs, and&nbsp; counting independent sets in certain claw-free graphs.</li>
+  <li><b>Bio: </b></li>
+  </ul>
+<hr />
+<ul>
+  <li><b>Name: </b>Jim Haxby</li>
+  <li><b>Affiliation:</b> <a href="http://www.dartmouth.edu/~psych/">Psychology and Brain Sciences</a>, <a href="http://www.dartmouth.edu">Dartmouth College</a></li>
+  <li><b>Date: </b>Wed, Jan 14th, 2009</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~tanzeem">Tanzeem Choudhury</a></li>
+  <li><b>Title:&nbsp;</b>Characterizing local neural representation as a multidimensional similarity space</li>
+  <li> <b>Abstract:&nbsp; </b> Whereas  conventional univariate analysis of functional brain imaging data  characterized the function of a region in terms of the conditions that  activate that region, multivariate pattern (MVP) analysis characterizes  local function in terms of the conditions that evoke distinct patterns  of activity.&nbsp; Moreover, the dissimilarities of the patterns of activity  for different conditions can be quantified.&nbsp; Thus, local neural  representation can be analyzed in terms of a high-dimensional  similarity structure rather than as a (short) list of functions.&nbsp;  Functional differences among brain regions can similarly by analyzed as  differences in the neural representational space rather than as  different functional labels.&nbsp; For example, different categories of  visual stimuli &ndash; faces and objects &ndash; activate and evoke distinct  patterns of activity in medial occipital, inferior lateral occipital  (LO), and ventral temporal (VT) cortex, including when analysis is  restricted to subregions that respond maximally to faces (FFA) and  places (PPA).&nbsp; The similarity structure of the responses to categories,  however, differs significantly among these brain regions.&nbsp; Whereas LO  demonstrates larger distinctions than does VT within animate (faces of  different species) and inanimate domains (houses, chairs, and shoes),  VT demonstrates larger distinctions between the animate and inanimate  domains.&nbsp; Medial occipital cortex, on the other hand, demonstrates a  similarity structure that is not dominated by the animate-inanimate  distinction at all.&nbsp; MVP analysis, therefore, reveals how local neural  representation projects information into different subspaces that  emphasize different distinctions among conditions.&nbsp; These methods  provide a powerful tool for investigating how information is processed  and re-represented in hierarchical and distributed neural systems.</li>
+  <li> <b>Bio: </b> Jim Haxby is the Director of the Center for Cognitive Neuroscience at  Dartmouth. &nbsp;Prior to Dartmouth, he worked at the National Institutes of  Health for twenty years followed by five years at Princeton University.  &nbsp;He is a cognitive neuroscientist with an interest in face and object  perception. &nbsp;Recently, his work has concentrated on the application of  pattern classification methods from machine learning to the analysis of  functional brain imaging data. &nbsp;</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://eamusic.dartmouth.edu/~mcasey/">Michael Casey</a></li>
+  <li><b>Affiliation:</b> <a href="http://eamusic.dartmouth.edu/people/faculty.html">Electro-Acoustic Music</a>, <a href="http://www.dartmouth.edu">Dartmouth College</a></li>
+  <li><b>Date: </b>Wed, Jan 21st, 2009</li>
+  <li><b>Location: </b><span class="style2">Silsby 028 - note special location</span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~tanzeem">Tanzeem Choudhury</a></li>
+  <li><b>Title:&nbsp;</b> The Problem with Music: Modeling Distance Distributions of  Large Music Collections</li>
+  <li> <b>Abstract: </b>Recently, a number of piano recordings by different artists were found in a classical music catalog that exhibited a striking resemblance to each other. Could this resemblance be purely coincidental? We set about building a system that could answer this question and others in large recorded collections of music. The AudioDB system listens to polyphonic music recordings and encodes important perceptual information about them at fine time scales. The information extracted corresponds to traditional music-theoretic concepts such as, harmony, timbre, pitch, texture and rhythm yielding a high-dimensional representation; consisting of 300-1200 dimensions.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our music databases have 10<sup>4<sup></sup></sup>-10<sup>7<sup></sup></sup> recordings, each with thousands of vectors, so brute-force methods for similarity computation are not practical. Instead, we use locality-sensitive hashing (LSH) which searches in high dimensions with sub-linear time complexity. We propose a method for automatically estimating the radius threshold for efficient and accurate LSH retrieval. Our method employs statistical sampling of the background distance distribution and solving for the minimum distance distribution using order statistics.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using these methods, we are able to quantify the &quot;purely coincidental&quot; resemblance in the piano recordings mentioned above, demonstrating that their similarity is not, in fact, coincidental. The newer recordings are altered copies of the older ones. Detecting fraudulent recordings with human hearing is difficult; even the music critics were fooled into highly commending these newer recordings. We conclude that scalable audio search systems, such as AudioDB, are required to address the emerging multimedia needs of the Internet, commercial music services and large multimedia archives.<br />
+  </li>
+  <li> <b>Bio: </b>Professor Michael Casey is director of the graduate program  in Digital   Musics at Dartmouth College. He received his Ph.D. from the  MIT Media Laboratory   in 1998 and has since authored numerous articles in the  fields of music information   retrieval, statistical audio analysis/synthesis, and  audio-visual signal processing. Prior to coming to Dartmouth he   was Professor of Computer Science at the University of  London, where he lead a music computing research group, and  Research Scientist for Mitsubishi Electric Research  Laboratories (MERL) working on non-speech audio analysis and  classification. Michael currently leads   the development of AudioDB, an open source initiative, in  collaboration with Dartmouth Digital Musics, OMRAS2 at  Goldsmiths, University of London, and Yahoo! Research Inc.  Support for this research was provided by the UK Engineering  and Physical Sciences Research Council (EPSRC) and a Yahoo!  Research Alliance award.</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name:</b> <a href="http://www.ee.columbia.edu/~aurel/">Aurel Lazar</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.ee.columbia.edu/">Electrical Engineering</a>, <a href="http://www.columbia.edu">Columbia University</a></li>
+  <li><b>Date: </b>Wed, Jan 28th, 2009</li>
+  <li><b>Location: </b><span class="style2">Silsby 028 - note special location</span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~campbell">Andrew Campbell</a></li>
+  <li><b>Title:&nbsp;</b>Invariant Representations of Visual Streams in the Spike Domain</li>
+  <li> <b>Abstract:&nbsp; </b> We investigate an architecture for invariant representations of visual  stimuli such as natural and synthetic video streams (movies, animation)  in the spike domain. The stimuli are encoded with a population of  spiking neurons, processed in the spike domain and finally decoded. The  population of spiking neurons includes level crossing as well as  integrate-and-fire neuron models with feedback. A number of spike  domain processing algorithms are demonstrated including faithful  stimulus recovery, as well as simple operations on the original  visual stimulus such as translations, rotations and zooming. All these  operations are executed in the spike domain. Finally, the processed  spike trains are decoded for the faithful recovery of the stimulus and its transformations.<br />
+    We  show that the class of linear operations described above can easily be  realized with the same basic stimulus decoding algorithm. What changes  in the architecture, however, is the switching matrix (i.e., the  input/output ``wiring'') of the spike domain switching building block.  For example, for a particular setting of the switching matrix, the  original stimulus is faithfully recovered. For other settings,  translations, rotations and dilations (or combinations of these  operations) of the original video stream are obtained.</li>
+  <li> <b>Bio: </b> Aurel  A. Lazar is a Professor of Electrical Engineering at Columbia  University. In the mid 80s and 90s, he pioneered investigations into  networking games and programmable networks. In addition, he conducted  research in broadband networking with quality of service constraints;  and in architectures, network management and control of  telecommunications networks. His current research interests are at the  intersection of Computational Neuroscience, Information/ Communications  Theory and Systems Biology. In silico, his focus is on Time Encoding  and Information Representation in Sensory Systems, and, Spike  Processing and Neural Computation in the Cortex. In vivo, his focus is  on the olfactory system of the Drosophila.</li>
+  </ul>
+<hr />
+<ul>
+  <li><b>Name:</b> <a href="http://www.cs.umass.edu/~dganesan/">Deepak Ganesan</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.umass.edu/">Computer Science</a>, <a href="http://www.umass.edu">UMass Amherst</a></li>
+  <li><b>Date: </b>Wed, Feb 4th, 2009</li>
+  <li><b>Location: </b><span class="style2">Silsby 028 </span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~campbell">Andrew Campbell</a></li>
+  <li><b>Title:&nbsp;</b>Towards a Storage-centric Sensor Network Architecture</li>
+  <li> <b>Abstract:&nbsp; </b> A significant amount of sensor network research has addressed the  problem of energy-efficiency, primarily by exploiting the fact that  local computation is considerably less expensive than wireless  communication. However, NAND flash memories allow storage to be more  than two orders of magnitude cheaper than communication, significantly  altering existing tradeoffs. In this talk, I will present our&nbsp; research  on the design of a &quot;rich sensor data management stack&quot; that aims to  make the role of storage central in sensor systems. I will focus on two  recent research efforts in this talk.&nbsp; First, I will describe the  design of novel flash-optimized index structures&nbsp;for archival storage  and querying of sensor data.&nbsp; Second, I will describe an embedded image  search engine to enable local storage of images on camera sensors (or  mobile phones), and fast and efficient distributed search across such a  camera network.</li>
+  <li><b>Bio: </b> Deepak Ganesan is an Assistant Professor at the University  of&nbsp;&nbsp;Massachusetts Amherst. He received his B.Tech in Computer Science  from the Indian Institute of Technology, Madras, India, in 1998 and his  Ph.D. from the University of California, Los Angeles,&nbsp;&nbsp;2004.&nbsp;His  research interests are in&nbsp;sensor networks,&nbsp;wireless networks, and  flash-based storage systems.&nbsp;He has served on the program committees of  a number of top conferences including NSDI and SenSys, and is an editor  for the ACM Transactions on Sensor Networks. He is a recipient of the  NSF CAREER Award and the IBM Faculty Partnership Award, and was  selected as a UMass Chancellor's Junior Faculty Fellow.</li>
+  </ul>
+<hr />
+<ul>
+  <li><b>Name:</b> <a href="http://www.cs.washington.edu/homes/fox/">Dieter Fox</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.washington.edu/">Computer Science</a>, <a href="http://www.washington.edu/">University of Washington</a></li>
+  <li><b>Date: </b>Wed, Feb 11th, 2009</li>
+  <li><b>Location: </b><span class="style3">Filene Auditorium, Moore Hall</span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~tanzeem">Tanzeem Choudhury</a></li>
+  <li><b>Title:&nbsp;</b>Toward High-level Reasoning for Autonomous Systems</li>
+  <li> <b>Abstract:&nbsp; </b> Over the last decade, the robotics community has developed highly efficient and  robust solutions to state estimation problems such as robot localization, people tracking, and map building.&nbsp; With the availability of various techniques for spatially consistent sensor integration, an important next goal is to enable robots to reason about the many objects located in our everyday environments and to reason about spatial concepts such as rooms, hallways, streets, and intersections.&nbsp; An additional requirement for successful operation in populated environments is the ability to recognize the intent of humans and to adapt to their behavior patterns. <br />
+    In this talk I will present an overview of some recent work using graphical models and machine learning techniques to extract high level information from raw sensor data.&nbsp; Examples include place and object recognition from vision and laser data, and human activity recognition from wearable sensor data.&nbsp; I will conclude with an outlook for research directions in autonomous systems.</li>
+  <li> <b>Bio: </b> Dieter Fox is Associate Professor and Director of the Robotics and  State Estimation Lab in the Computer Science &amp; Engineering Department at the University of Washington, Seattle. He obtained his Ph.D. from the University of Bonn, Germany.&nbsp; Before joining UW, he spent two years as a postdoctoral researcher at the CMU Robot Learning Lab. Dieter's research focuses on probabilistic state estimation with applications in robotics and activity recognition. He has published over 100 technical papers and is co-author of the text book &quot;Probabilistic Robotics&quot;.&nbsp; Dieter is an Associate Editor of JAIR and was program co-chair of AAAI-08. He has received several awards for his research, including an NSF CAREER award and best paper awards at robotics and Artificial Intelligence conferences. <br />
+  </li>
+  </ul>
+<hr />
+<ul>
+  <li><b>Name:</b> <a href="http://www.cs.princeton.edu/~smr/">Szymon Rusinkiewicz</a> </li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.princeton.edu">Computer Science</a>, <a href="http://www.princeton.edu">Princeton University</a></li>
+  <li><b>Date: </b>Wed, Feb 18th, 2009</li>
+  <li><b>Location: </b><span class="style3">Silsby 028</span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~fabio">Fabio Pellacini</a></li>
+  <li><b>Title:&nbsp;</b>A System for High-Volume Acquisition and Matching of Fresco Fragments: Reassembling Theran Wall Paintings </li>
+  <li> <b>Abstract:&nbsp; </b>The archaeological site of Akrotiri on the volcanic island of Thera (modern-day Santorini, Greece) has yielded an unparalleled trove of artifacts and information from the prehistoric Aegean.&nbsp; The ancient civilization was destroyed by a volcanic eruption, which buried the remains of a flourishing Late Bronze Age (c. 1630 B.C.) settlement in ash. Among the most significant finds are numerous wall paintings, ranging from naturalistic and narrative scenes to abstract motifs.&nbsp; However, these paintings are recovered as thousands of plaster fragments, and reassembling them consumes a substantial portion of the effort expended at Akrotiri. <br />
+    I will describe a system that uses 3-D and 2-D digitization hardware, together with computer-based matching techniques, to assist archaeologists and conservators in documenting and reassembling the wall paintings. Although mature technologies exist for acquiring images, geometry, and surface normals of small objects, they remain cumbersome and time-consuming for non-experts to employ on a large scale.&nbsp; Our system addresses the scalability, usability, and quality challenges of large-scale 3-D and 2-D digitization, by incorporating new algorithms to automatically align 3-D scans, register 2-D scans to 3-D geometry, and compute surface normals from 2-D scans.&nbsp; A novel 3-D matching algorithm efficiently searches for matching fragments using the scanned geometric models. </li>
+  <li> <b>Bio: </b>Szymon Rusinkiewicz is an associate professor of Computer Science at Princeton University.&nbsp; His work focuses on acquisition and analysis of the 3D shape and appearance of real-world objects, including the design of capture devices, data structures for efficient representation, and applications (most notably to cultural heritage objects and human skin). He also investigates algorithms for processing complex datasets of shape and reflectance, including registration, matching, completion, symmetry analysis, and sampling.&nbsp; His research interests also include illustrative depiction through line-drawings and non-photorealistic shading models.</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.cs.cmu.edu/~tom/">Tom Mitchell</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.cmu.edu/~cald">Machine Learning Department</a> <a href="http://www.cs.cmu.edu/">School of Computer Science</a>, <a href="http://www.cmu.edu/">Carnegie Mellon University</a></li>
+  <li><b>Date: </b><s>Thursday Feb 19th, 2009</s> <span class="style1">RESCHEDULED DUE TO WEATHER</span></li>
+  <li><b>Location: </b><span class="style3">Filene Auditorium, Moore Hall</span></li>
+  <li><b>Host: </b>Jointly sponsored by the Center for Cognitive Neuroscience and Computer Science</li>
+  <li><b>Title:&nbsp;</b>Brains, Meaning and Corpus Statistics</li>
+  <li> <b>Abstract:&nbsp; </b> How does the human brain represent meanings of words and pictures in terms of the underlying neural activity?  This talk will present our research using machine learning methods together with fMRI brain imaging to study this question.  One line of our research has involved training classifiers that identify which word a person is thinking about, based on the image of their fMRI brain activity.  A more recent line involves developing a generative computational model that predicts the neural activity associated with arbitrary English words, including words for which we do not yet have brain image data.  This computational model is trained using a combination of fMRI data associated with several dozen concrete nouns, together with statistics gathered from a trillion-word text corpus.  Once trained, the model predicts fMRI activation for any other concrete noun appearing in the tera-word text corpus, with highly significant accuracies over the 100 nouns for which we currently have fMRI data.</li>
+  <li><b>Bio: </b> Tom Mitchell is the E. Fredkin Professor and Department Head Machine Learning Department Carnegie Mellon University.</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.bowdoin.edu/~ltoma/">Laura Toma</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.bowdoin.edu/computer-science/">Department</a><a href="http://www.cs.cmu.edu/"> of Computer Science</a>, <a href="http://www.bowdoin.edu/">Bowdoin College</a></li>
+  <li><b>Date: </b>Wed, Feb 25th, 2009</li>
+  <li><b>Location: </b><span class="style3">Silsby 028</span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~afra/">Afra Zomorodian</a></li>
+  <li><b>Title:&nbsp;</b>I/O-Efficient Indexes for Fat Triangulations and Low-Density Planar Subdivisions </li>
+  <li> <b>Abstract:&nbsp; </b> The traditional approach to algorithms design considers each atomic  operation to take roughly the same amount of time. Unfortunately this assumption is not valid&nbsp; when the algorithm operates on data stored on disk: reading data from or writing data to disk&nbsp; can be a factor 1,000,000 or more slower than an operation on data that is&nbsp; already present&nbsp; in main memory.&nbsp; This has led to the study of so-called I/O- <br />
+    efficient algorithms, which specifically&nbsp; optimize&nbsp; the number of blocks transfered between main memory and disk. <br />
+    <br />
+    In this talk I will describe two I/O-efficient index structures for storing planar subdivisions.&nbsp; The structures are based on quadtrees and exploit features of realistic terrains:&nbsp; they are provably efficient when the input has&nbsp; low-density&nbsp; (any disk <em>D</em> is intersected by at most a constant number edges whose length is at least the diameter of <em>D</em>) or&nbsp; is a fat triangulation (every angle is bounded from below by a fixed constant), respectively. <br />
+    <br />
+    In particular, we show that a low-density subdivision with <em>n</em>&nbsp; edges can be preprocessed i in $O(\sort(n))$ IOs, allowing to compute the intersections between the edges of two such preprocessed subdivisions in $O(scan(n))$ IOs, where <em>n</em> is the total number of edges in the two subdivisions; and&nbsp; allowing to answer a single point location query in $O(\log_B n)$ IOs. <br />
+    <br />
+    The&nbsp; data structures improve on the previous best&nbsp; known bounds for overlaying subdivisions, both in the number of IOs and storage usage. Moreover, they are significantly simpler and they are cache- oblivious.&nbsp; preliminary experimental results have shown that they are fast and scalable in practice on real-world data. </li>
+  <li> <b>Bio: </b> Laura Toma is&nbsp; Assistant Professor at Bowdoin College since 2003. Laura is originally from Romania and got her&nbsp; PhD degree from Duke University in 2003.&nbsp; Her research is in the area of I/O-efficient algorithms and algorithm engineering, and in particular terrain processing and applications to GIS. </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.motorola.com/content.jsp?globalObjectId=6721-9277">Frank Bentley</a></li>
+  <li><b>Affiliation:</b><a href="http://www.motorola.com/content.jsp?globalObjectId=6584-11664">Motorola Applied Research and Technology Center</a></li>
+  <li><b>Date: </b>March 4th, 2009</li>
+  <li><b>Location: </b><span class="style3">Silsby 028</span></li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~campbell">Andrew Campbell</a><a href="http://www.cs.dartmouth.edu/~afra/"></a></li>
+  <li><b>Title:&nbsp;</b>Ambient Mobile Micro-coordination: Putting Presence and People in   the Loop </li>
+  <li> <b>Abstract:&nbsp; </b> Micro-coordination has traditionally been a tedious task.   Deciding where to meet someone and when, and then actually getting   there is a process that often involves multiple emails and phone calls   and sometimes violent hand gestures to indicate that &ldquo;I&rsquo;m over here!&rdquo;   In the Motorola Social Media Research Lab, we&rsquo;ve implemented and   studied several mobile presence systems to help people coordinate with   others in a much more passive manner.&nbsp; We&rsquo;ve found that people can often   infer quite a lot from a simple bit of presence information and can use   that information in planning communication and in-person interactions.   I&rsquo;ll describe our systems as well as our field research and provide   implications for the design of mobile social applications. </li>
+  <li> <b>Bio: </b> Frank Bentley is a Principal Staff Research Scientist in the   Experiences Research Lab of the Motorola Applied Research and Technology   Center in Chicago.&nbsp; He studies how people interact with new   communications technology and is involved in all aspects of research   projects from early ethonographic-style research through to design,   prototyping, field trials, and commercialization.&nbsp; His research   interests lie in the areas of ambient interfaces, mobile computing, and   social media.&nbsp; Frank also teaches a multi-disciplinary class on   &ldquo;Communicating with Mobile Technology&rdquo; in the Spring at MIT. </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://gaia.cs.umass.edu/kurose/">Jim Kurose</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.umass.edu/">Department</a><a href="http://www.cs.cmu.edu/"> of Computer Science</a>, <a href="http://www.umass.edu/">UMass Amherst</a></li>
+  <li><b>Date: </b>April 1st, 2009</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~campbell">Andrew Campbell</a><a href="http://www.cs.dartmouth.edu/~afra/"></a></li>
+  <li><b>Title:&nbsp;</b>Collaborative Adaptive Sensing of the Atmosphere: Challenges in End-to-End Sensor Networking</li>
+  <li> <b>Abstract:&nbsp; </b> The CASA project is an NSF Engineering Research Center investigating the design and implementation of a dense network of low-power meteorological radars whose goal is to collaboratively and adaptively sense the lowest few kilometers of the earth's atmosphere.  In the first part of this talk we overview the CASA project, describe its computing and networking challenges, and overview the software/network architecture and implementation of the CASA testbeds. We also discuss the operation of  CASA&rsquo;s testbed during the spring tornado season in Oklahoma.  In the second part of this talk, we focus on networking-related research issues and discuss our experiences in using user-specified preferences to drive the optimization of the network's radar scanning behavior. Throughout the talk, we&rsquo;ll discussion of a number of interesting on-going and open research issues.</li>
+  <li> <b>Bio: </b> Jim Kurose received a B.A. degree in physics from Wesleyan University and his Ph.D. degree in computer science from Columbia University. He is currently Interim Dean of the College of Natural Science and Mathematics and Distinguished University Professor (and past chairman) in the Department of  Computer Science at the University of Massachusetts. He is also co-director of the Networking Research Laboratory and Associate Director of the NSF Engineering Research Center for Collaborative Adaptive Sensing of the Atmosphere (CASA).   Professor Kurose has been a Visiting Scientist atIBM Research, INRIA, Institut EURECOM , the University of Paris, LIP6, and Thomson Research Labs.
+    
+    His research interests include network protocols and architecture, network measurement, sensor networks, multimedia communication, and modeling and performance evaluation. Dr. Kurose has served as Editor-in-Chief of the IEEE Transactions on Communications and was the founding Editor-in-Chief of the IEEE/ACM Transactions on Networking. He has been active in the program committees for IEEE Infocom, ACM SIGCOMM, and ACM SIGMETRICS conferences for a number of years, and has served as Technical Program Co-Chair for these conferences. He has won several conference best paper awards and received the ACM Sigcomm Test of Time Award.</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.cs.toronto.edu/~fleet/">David Fleet</a></li>
+  <li><b>Affiliation:</b> <a href="http://web.cs.toronto.edu/dcs/index.php?section=156">Department</a><a href="http://www.cs.cmu.edu/"> of Computer Science</a>, <a href="http://www.utoronto.ca/">University of Toronto</a></li>
+  <li><b>Date: </b>April 8th, 2009</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~lorenzo/">Lorenzo Torresani</a></li>
+  <li><b>Title:&nbsp;</b>Model-Based Human Pose Tracking </li>
+  <li><b>Abstract:&nbsp; </b> Future computer vision systems will recognize people and their activities,  enabling myriad new applications, such as smart mobile devices, advanced surveillance systems, and new perceptual man-machine interfaces. The detection, tracking and pose estimation of people from digital images are therefore key problems in Computer Vision.&nbsp; Pose estimation is especially challenging because image measurements are often insufficient to fully constrain 3D pose, and as a consequence, current formulations rely heavily on prior models of human pose and model. <br />
+      <br />
+    This talk presents two new techniques for modeling human pose and motion. The first is a probabilistic latent variable model called the Gaussian Process Dynamical Model.&nbsp; It is a form of probabilistic nonlinear dimensionality reduction for time-series data.&nbsp; The second class of models stems from Newtonian physics and biomechanical principles.&nbsp; The formulation of these models and applications to visual tracking will be described. Where time permits I will also mention several other emerging research directions that appear promising.</li>
+  <br />
+  <li><b>Bio: </b> David Fleet is professor of computer science at the University  of Toronto.&nbsp; He received the PhD in Computer Science from the University of Toronto in 1991.&nbsp; From 1991 to 2000 he was on faculty at Queen's University, Canada, in the Department of Computing and Information Science, with cross-appointments in Psychology and Electrical Engineering.&nbsp; In 1999 he joined the Palo Alto Research Center (PARC) where he managed the Digital Video Analysis Group and the Perceptual Document Analysis Group.&nbsp; He returned to the University of Toronto in October 2003. <br />
+      <br />
+    In 1996 Dr. Fleet was awarded an Alfred P. Sloan Research Fellowship for his research on biological vision.&nbsp; His 1999 paper with Michael Black on probabilistic detection and tracking of motion boundaries received Honorable Mention for the Marr Prize at the IEEE International Conference on Computer Vision.&nbsp; His 2001 paper with Allan Jepson and Thomas El-Maraghi on robust appearance models for visual tracking was awarded runner-up for the best paper at the IEEE Conference on Computer Vision and Pattern Recognition.&nbsp; In 2003, his paper with Eric Saund, James Mahoney and Dan Larner won the best paper award at ACM UIST '03.&nbsp; He was Associate Editor of IEEE Transactions on <br />
+    Pattern Analysis and Machine Intelligence (2000-2004), Program Co-Chair for the IEEE Conference on Computer Vision and Pattern Recognition in 2003, and Associate Editor-In-Chief for IEEE Transactions on Pattern Analysis and Machine Intelligence (2005-2008).&nbsp; He is Fellow of the Canadian Institute of Advanced Research. <br />
+    <br />
+    His research interests include computer vision, image processing, visual perception, and visual neuroscience. He has published research articles and one book on various topics including the estimation of optical flow and stereoscopic disparity, probabilistic methods in motion analysis, 3D people tracking, modeling appearance in image sequences, non-Fourier motion and stereo perception, and the neural basis of stereo vision. <br />
+  </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.math.mcgill.ca/~bshepherd/">Bruce Shepherd</a> <strong><span class="style2">CANCELLED</span></strong></li>
+  <li><b>Affiliation:</b> <a href="http://www.math.mcgill.ca/">Department of Mathematics and Statistics</a>,<a href="http://www.mcgill.ca/">McGill University</a><a href="http://www.gatech.edu/"></a></li>
+  <li><b>Date: </b>Wed, April 15, 2009</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~lkf/">Lisa Fleischer</a><a href="http://www.math.dartmouth.edu/~pw/"></a></li>
+  <li><b>Title:&nbsp;</b>Coming Soon</li>
+  <li> <b>Abstract:&nbsp; </b> </li>
+  <li> <b>Bio: </b> </li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://people.csail.mit.edu/billf/">Bill Freeman</a><a href="http://www.cse.ohio-state.edu/~tamaldey/"></a></li>
+  <li><b>Affiliation:</b> <a href="http://www.csail.mit.edu/">CSAIL</a><a href="http://www.math.mcgill.ca/">,</a> <a href="http://web.mit.edu/">MIT</a></li>
+  <li><b>Date: </b>POSTPONED TILL FALL 2009<span class="style2"></span></li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~lorenzo/">Lorenzo Torresani</a><a href="http://www.math.dartmouth.edu/~pw/"></a></li>
+  <li><b>Title:&nbsp;</b>Coming Soon</li>
+  <li> <b>Abstract:&nbsp; </b> </li>
+  <li> <b>Bio: </b></li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.cs.cmu.edu/~tom/">Tom Mitchell</a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.cmu.edu/~cald">Machine Learning Department</a> <a href="http://www.cs.cmu.edu/">School of Computer Science</a>, <a href="http://www.cmu.edu/">Carnegie Mellon University</a></li>
+  <li><b>Date: </b><span class="style1">Thursday, April 23, 2009</span> <span class="style5">Please note that this talk will be on Thursday instead of our regular Wednesday seminars</span></li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><strong>Location</strong>: <span class="style1">Rockefeller 001</span></li>
+  <li><b>Host: </b>Jointly sponsored by the Center for Cognitive Neuroscience and Computer Science</li>
+  <li><b>Title:&nbsp;</b>Brains, Meaning and Corpus Statistics</li>
+  <li> <b>Abstract:&nbsp; </b> How does the human brain represent meanings of words and pictures in terms of the underlying neural activity?  This talk will present our research using machine learning methods together with fMRI brain imaging to study this question.  One line of our research has involved training classifiers that identify which word a person is thinking about, based on the image of their fMRI brain activity.  A more recent line involves developing a generative computational model that predicts the neural activity associated with arbitrary English words, including words for which we do not yet have brain image data.  This computational model is trained using a combination of fMRI data associated with several dozen concrete nouns, together with statistics gathered from a trillion-word text corpus.  Once trained, the model predicts fMRI activation for any other concrete noun appearing in the tera-word text corpus, with highly significant accuracies over the 100 nouns for which we currently have fMRI data.</li>
+</ul>
+<ul>
+  <li><b>Bio: </b> Tom Mitchell is the E. Fredkin Professor and Department Head Machine Learning Department Carnegie Mellon University.</li>
+</ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://www.cs.cmu.edu/~biglou/">Luis Von Ahn</a><a href="http://www.cse.ohio-state.edu/~tamaldey/"></a></li>
+  <li><b>Affiliation:</b> <a href="http://www.cs.cmu.edu">Computer Science</a><a href="http://www.math.mcgill.ca/">,</a> <a href="http://www.cmu.edu">CMU</a></li>
+  <li><b>Date: </b>Wed, April 29, 2009</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b>Jointly sponsored by Digital Humanities and Computer Science</li>
+  <li><b>Title:&nbsp;</b>Human Computation</li>
+  <li> <b>Abstract:&nbsp; </b> This talk is about harnessing human brainpower to solve problems that computers cannot. Although computers have advanced dramatically over the last 50 years, they still do not possess the basic conceptual intelligence or perceptual capabilities that most humans take for granted. By leveraging human abilities in a novel way, I want to solve large-scale computational problems and collect data to teach computers basic human talents. To this end, I treat human brains as processors in a distributed system, each performing a small part of a massive computation. Unlike computer processors, however, humans require an incentive to join a collective computation. Among other things, I show how to use online games as a means to encourage participation in the process.</li>
+  <li> <b>Bio: </b> Professor Luis von Ahn works in the Computer Science Department at Carnegie Mellon University. He is the recipient of a MacArthur Fellowship, a Sloan Fellowship, and a Microsoft New Faculty Fellowship. He has been named one of the 50 Best Minds in Science by Discover Magazine, one of the &quot;Brilliant 10&quot; of 2006 by Popular Science Magazine, one of the 50 most influential people in technology by Silicon.com, and one of the Top Innovators in the Arts and Sciences by Smithsonian Magazine. His research interests include encouraging people to do work for free, as well as catching and thwarting cheaters in online environments.    </li>
+  </ul>
+<hr />
+<ul>
+  <li><b>Name: </b><a href="http://engineering.dartmouth.edu/faculty/regular/georgecybenko.html">George Cybenko</a><a href="http://www.cse.ohio-state.edu/~tamaldey/"></a></li>
+  <li><b>Affiliation:</b> <a href="http://engineering.dartmouth.edu/">Thayer School of Engineering</a>, <a href="http://www.dartmouth.edu/">Dartmouth College</a></li>
+  <li><b>Date: </b>Wed, May 6, 2009</li>
+  <li><b>Time:</b> 4:00 - 5:30pm</li>
+  <li><b>Host: </b><a href="http://www.cs.dartmouth.edu/~campbell">Andrew Campbell</a></li>
+  <li><b>Title:&nbsp;</b>Learning Behaviors:  The next big (computational) thing?</li>
+  <li> <b>Abstract:&nbsp; </b> Learning, analyzing and detecting behaviors of computers, networks, people and human organizations is a growing multi-disciplinary area.  This talk will survey some recent algorithmic and applications results, with a focus on ongoing projects at the Thayer School.</li>
+  <li> <b>Bio</b>: George Cybenko is the Dorothy and Walter Gramm Professor of Engineering at the Thayer School of Engineering at Dartmouth.  Prior to joining the Dartmouth faculty in 1992, he was Professor of Electrical and Computer Engineering and Computer Science at the University of Illinois at Urbana-Champaign. Cybenko's current research interests are behavioral modeling and analysis in various technical areas.  Cybenko was the founding Editor-in-Chief of IEEE/AIP Computing in Science and Engineering and IEEE Security &amp; Privacy. He serves on the Defense Science Board, the IEEE Computer Society's Board of Governors and the Computing Research Association's Board of Directors.  Cybenko received a B.Sc. degree from the University of Toronto and a Ph.D. degree Princeton, both in Mathematics, and is a Fellow of the IEEE.</li>
+</ul>
+<hr />
+<p>&nbsp;</p>
+<ul>
+</ul>
+  </div>
+
+
+<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+     <div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2008 </p></div>
+
+
+</body>
+
+</html>
+

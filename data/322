@@ -1,0 +1,555 @@
+http://www.cs.dartmouth.edu/~cbk/pubs.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Publications</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+
+<style type="text/css">
+h3.year {
+  margin-bottom:0;
+}
+ul.oddyear {
+  background:#ddd;
+  margin:0 0 0 0;
+  padding:9px 9px 0 9px;
+  list-style: none;
+}
+ul.oddyear li {
+  padding-bottom:9px;
+}
+ul.evenyear {
+  margin:0 0 0 0;
+  padding:9px 9px 0 9px;
+  list-style: none;
+}
+ul.evenyear li {
+  padding-bottom:9px;
+}
+</style>
+</head>
+
+<body>
+<p>
+<span class="me">Chris Bailey-Kellogg</span><br/>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br/>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br/>
+<a href="index.html" class=nav>home</a><br/>
+<a href="research.html" class=nav>research</a><br/>
+<a href="pubs.html" class=nav>publications</a><br/>
+<a href="lab.html" class=nav>lab</a><br/>
+<a href="teaching.html" class=nav>teaching</a><br/>
+<a href="personal.html" class=nav>personal</a><br/>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Selected publications</div><br/>
+
+<p>The following list is in roughly reverse chronological order;
+recent papers are also listed in their appropriate <a
+ href="research.html">research categories</a>.  There are <a
+ href="abs.html">abstracts</a> posted for most of these, and pdfs when
+possible.
+
+<h3 class="year">2009</h3>
+<ul class="oddyear"> 
+<li>H. Kamisetty, B. Ghosh, C. Bailey-Kellogg, and C.J. Langmead, "Modeling
+and inference of sequence-structure specificity", Proc. CSB 2009, to
+appear.</li>
+
+<li>P. Kavethekar, B. Craig, A.M. Friedman, C. Bailey-Kellogg, and
+D. Balkcom, "Characterizing the space of interatomic distance
+distribution functions consistent with solution scattering data",
+Proc. CSB 2009, to appear.</li>
+
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
+models of protein-protein interaction specificity from correlated
+mutations and interaction data", <i>Proteins</i>, in press.
+<a href="abs.html#proteins09">abstract</a>.
+</li>
+
+<li>W. Zheng, K.E. Griswold, and C. Bailey-Kellogg, "Protein fragment
+swapping: a method for asymmetric, selective site-directed
+recombination", Proc. RECOMB, 2009, to appear.</li>
+
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Protein design
+by sampling an undirected graphical model of residue constraints", 
+<i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>,
+in press.
+<a href="abs.html#tcbb08">abstract</a>.
+<a href="papers/tcbb08.pdf">preprint</a>.
+</li>
+</ul>
+
+<h3 class="year">2008</h3>
+<ul class="evenyear">
+<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg,
+"Optimizing Bayes error for protein structure model selection by
+stability mutagenesis", Proc. CSB, 2008, pp. 99-108.
+<a href="abs.html#csb08">abstract</a>.
+<a href="papers/csb08.pdf">paper</a>.</li>
+
+<li>F. Xiong, G. Pandurangan, and C. Bailey-Kellogg,
+"Contact replacement for NMR resonance assignment", Proc. ISMB, 2008;
+published in <i>Bioinformatics</i>, 2008, 24:i105-i213.
+<a href="abs.html#ismb08">abstract</a>.
+<a href="http://bioinformatics.oxfordjournals.org/cgi/content/full/24/13/i205">official version</a>.
+<a href="papers/ismb08.pdf">preprint</a>.</li>
+  
+<li>W. Zheng, A.M. Friedman, and C. Bailey-Kellogg,
+"Algorithms for joint optimization of stability and diversity in planning
+combinatorial libraries of chimeric proteins", Proc. RECOMB, 2008,
+pp. 300-314.
+<a href="abs.html#recomb08">abstract</a>.
+<a href="http://dx.doi.org/10.1007/978-3-540-78839-3_26">official version</a>.
+<a href="papers/recomb08.pdf">preprint</a>.</li>
+
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
+models of residue coupling in protein families", <i>IEEE/ACM
+Transactions on Computational Biology and Bioinformatics</i>, 2008, 5:183-197.
+<a href="abs.html#tcbb07">abstract</a>.
+<a href="http://www2.computer.org/portal/web/csdl/doi/10.1109/TCBB.2007.70225">official version</a>.
+<a href="papers/tcbb07.pdf">preprint</a>.
+</li>
+
+<li>T.E. Williamson, B.A. Craig, E. Kondrashkina, C.
+Bailey-Kellogg, and A.M. Friedman, "Analysis of self-associating
+proteins by singular value decomposition of solution scattering
+data", <i>Biophys. J.</i>, 2008, 94:4906-4923.
+<a href="abs.html#biophysj07">abstract</a>.
+<a href="http://www.biophysj.org/cgi/content/full/94/12/4906">official version</a>.
+</li>
+
+<li>L.V. Avramova, J. Desai, S. Weaver, A.M. Friedman, and C.
+Bailey-Kellogg, "Robotic hierarchical mixing for the production of
+combinatorial libraries of proteins and small molecules", <i>J.
+Comb. Chem.</i>, 10:63-68, 2008. <a href="abs.html#jcc07">abstract</a>.
+<a href="http://pubs.acs.org/cgi-bin/abstract.cgi/jcchff/2008/10/i01/abs/cc700106e.html">paper</a>.</li>
+</ul>
+
+<h3 class="year">2007</h3>
+<ul class="oddyear">
+<li>F. Xiong and C. Bailey-Kellogg, "A hierarchical
+grow-and-match algorithm for backbone resonance assignments
+given 3D structure", Proc. IEEE BIBE, 2007, pp. 403-410.
+<a href="abs.html#bibe07">abstract</a>.
+<a href="papers/bibe07.pdf">preprint</a>.</li>
+
+<li>W. Zheng, X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Algorithms
+for selecting breakpoint locations to optimize diversity in protein
+engineering by site-directed protein recombination", Proc. CSB, 2007,
+pp. 31-40.
+<a href="abs.html#csb07">abstract</a>.
+<a href="papers/csb07.pdf">preprint</a>.</li>
+
+<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Hypergraph model of
+multi-residue interactions in proteins: sequentially-constrained
+partitioning algorithms for optimization of site-directed protein
+recombination", <i>J. Computational Biology</i>, 2007, 14:777-790.
+<a href="abs.html#jcb07">abstract</a>.
+<a
+href="http://www.liebertonline.com/doi/abs/10.1089/cmb.2007.R016">official version</a>.
+<a href="papers/jcb07.pdf">preprint</a>.
+</li>
+
+<li>S. Potluri, A.K. Yan, B.R. Donald, and C.  Bailey-Kellogg, "A
+complete algorithm to resolve ambiguity for inter-subunit NOE
+assignment in structure determination of symmetric homo-oligomers",
+<i>Protein Science</i>, 2007, 16:69-81. 
+<a href="abs.html#prosci07">abstract</a>.
+<a href="http://www.proteinscience.org/cgi/content/full/16/1/69">official version</a>.
+<a href="papers/prosci07.pdf">preprint</a>.
+</li>
+</ul>
+
+<h3 class="year">2006</h3>
+<ul class="evenyear">
+<li>S. Potluri, A.K. Yan, J.J. Chou, B.R. Donald, and C.
+Bailey-Kellogg, "Structure determination of symmetric homo-oligomers
+by a complete search of symmetry configuration space using NMR
+restraints and van der Waals packing", <i>Proteins</i>, 2006, 65:203-219.
+<a href="abs.html#proteins06c">abstract</a>.
+<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/112749452/ABSTRACT">official version</a>.
+<a href="papers/proteins06c.pdf">preprint</a>.</li>
+
+<li>A. Kuzminykh and C. Bailey-Kellogg, "Polyhedral approximations of
+the sphere and representations of graphs", <i>Geombinatorics</i>,
+2006, 15(4):183-190.</li>
+
+<li>O. Vitek, C. Bailey-Kellogg, B. Craig, and J. Vitek, "Inferential
+backbone assignment for sparse data", <i>J. Biomolecular NMR</i>, 
+2006, 35:187-208.  <a href="abs.html#jbnmr06">abstract</a>.  
+<a href="http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10858-006-9027-8">official version</a>.
+</li>
+
+<li>L. Saftalov, P.A. Smith, A.M. Friedman, and C. Bailey-Kellogg,
+"Site-directed combinatorial construction of chimaeric genes:
+general method for optimizing assembly of gene fragments",
+<i>Proteins</i>, 2006, 64:629-642.
+<a href="abs.html#proteins06b">abstract</a>.
+<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/112656549/ABSTRACT">official version</a>.
+<a href="papers/proteins06b.pdf">preprint</a>.
+</li>
+
+<li>S. Potluri, A.K. Yan, J.J. Chou, B.R. Donald, and
+C.  Bailey-Kellogg, "Extended Abstract: Structure determination of
+symmetric protein complexes by a complete search of symmetry
+configuration space using NMR distance restraints", Proc. WAFR, 2006.
+<a href="abs.html#wafr06">abstract</a>.
+<a href="papers/wafr06.pdf">preprint</a>.</li>
+
+<li>X. Ye, A.M. Friedman, and C. Bailey-Kellogg, "Hypergraph model of
+multi-residue interactions in proteins: sequentially-constrained
+partitioning algorithms for optimization of site-directed protein
+recombination", Proc. RECOMB, 2006, 15-29.
+<a href="abs.html#recomb06">abstract</a>.
+<a href="http://dx.doi.org/10.1007/11732990_2">official version</a>.</li>
+
+<li>Z. Yi, O. Vitek, M. A. Qasim, S.M. Lu, W. Lu, M. Ranjbar, J. Li,
+M.C. Laskowski, C. Bailey-Kellogg, and M. Laskowski, Jr., "Functional
+evolution within a protein superfamily", <i>Proteins</i>, 2006,
+63:697-708.  <a href="abs.html#proteins06">abstract</a>.  <a
+href="http://www3.interscience.wiley.com/cgi-bin/abstract/112396167/ABSTRACT">official version</a>.
+<a href="papers/proteins06.pdf">preprint</a>.
+</li>
+
+<li>H. Kamisetty, C. Bailey-Kellogg, and G. Pandurangan, "An
+efficient randomized algorithm for contact-based NMR backbone
+resonance assignment", <i>Bioinformatics</i>, 2006, 22:172-80.
+<a href="abs.html#bioinformatics06">abstract</a>.
+<a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/bti786?ijkey=j9Hh0m4DczPaHmu&keytype=ref">official abstract</a>.
+<a href="http://bioinformatics.oxfordjournals.org/cgi/reprint/bti786?ijkey=j9Hh0m4DczPaHmu&keytype=ref">paper</a>.
+</li>
+
+<li>C. Bailey-Kellogg, N. Ramakrishnan, and M. Marathe, "Spatial Data
+Mining to Support Pandemic Preparedness", <i>ACM SIGKDD Explorations</i>,
+8:80-82, 2006.  (Report on <a href="sdm06/">SIAM DM 2006
+Workshop on Spatial Data Mining</a>.)
+<a href="papers/sigkdd06.pdf">local pdf</a>.
+<a href="http://www.acm.org/sigs/sigkdd/explorations/issues/8-1-2006-06/11-Kellogg.pdf">official version</a>.
+</li>
+</ul>
+
+<h3 class="year">2005</h3>
+<ul class="oddyear">
+<li>J. Thomas, N. Ramakrishnan, and C. Bailey-Kellogg, "Graphical
+models of residue coupling in protein families", Proc. BioKDD, 2005.
+<a href="abs.html#biokdd05">abstract</a>.
+<a href="papers/biokdd05.pdf">pdf</a>.  
+Copyright 2005, ACM.
+</li>
+
+<li>O. Vitek, C. Bailey-Kellogg, B. Craig, P. Kuliniewicz, J. Vitek,
+"Reconsidering complete search algorithms for protein backbone NMR
+assignment", Proc. ECCB, 2005, published in <i>Bioinformatics</i>, 2005, 
+21:ii230-236.
+<a href="abs.html#eccb05">abstract</a>.  
+<a href="papers/eccb05.pdf">pdf</a>.  
+</li>
+
+<li>C. Bailey-Kellogg, S. Chainraj, and G. Pandurangan, "A Random
+Graph Approach to NMR Sequential Assignment", <i>J. Comp. Biol.</i>,
+2005, 12:569-583.
+<a href="http://www.liebertonline.com/doi/abs/10.1089/cmb.2005.12.569">paper</a>.
+</li>
+
+<li>N. Ramakrishnan, C. Bailey-Kellogg, S. Tadepalli, and V.N. Pandey,
+"Gaussian Processes for Active Data Mining of Spatial Aggregates",
+Proc. SIAM Data Mining Conference, 2005.  Selected among "Best of SIAM
+Data Mining 2005" for presentation at Interface 2005.  <a
+href="abs.html#sdm05">abstract</a>.  <a
+href="papers/sdm05.pdf">pdf</a>.
+</li>
+
+<li>J. Li, Z.-P. Yi, M.C. Laskowski, M. Laskowski Jr., and C. Bailey-Kellogg,
+"Analysis of sequence-reactivity space for protein-protein interactions",
+<i>Proteins</i>, 2005, 58:661-671.
+<a href="abs.html#proteins05">abstract</a>.  
+<a href="http://www3.interscience.wiley.com/cgi-bin/fulltext/109860671/HTMLSTART">paper</a>.
+</li>
+</ul>
+
+<h3 class="year">2004</h3>
+<ul class="evenyear">
+<li>X. Ye, P.K. O'Neil, A.N. Foster, M.J. Gajda, J. Kosinski,
+M.A. Kurowski, A.M. Friedman, and C. Bailey-Kellogg, "Probabilistic
+cross-link analysis and experiment planning for high-throughput
+elucidation of protein structure", <i>Protein Sci.</i>, 2004, 13:3298-3313.
+<a href="abs.html#prosci04">abstract</a>.  
+<a href="http://www.proteinscience.org/cgi/content/full/13/12/3298">paper</a>.
+</li>
+
+<li>A. Kuzminykh and C. Bailey-Kellogg, "Polyhedral approximations of
+the sphere with unusual geometric and topological properties",
+<i>Geombinatorics</i>, 2004, 14(2):55-61.
+<a href="abs.html#geom04">abstract</a>.
+</li>
+
+<li>N. Ramakrishnan, C. Bailey-Kellogg, S. Tadepalli, and V.N. Pandey,
+"Gaussian Processes for Active Data Mining of Spatial Aggregates",
+Proc. 18th International Workshop on Qualitative Reasoning, Chicago,
+2004.  (Preliminary version of SIAM-DM-05 paper above.)
+<a href="abs.html#qr04">abstract</a>.
+<a href="papers/qr04.pdf">pdf</a>.
+</li>
+
+<li> C. Bailey-Kellogg and N. Ramakrishnan, "Spatial Aggregation for
+Qualitative Assessment of Scientific Computations", Proc. AAAI,
+2004.
+<a href="abs.html#aaai04">abstract</a>.
+<a href="papers/aaai04.pdf">pdf</a>.
+Copyright 2004, <a href="http://www.aaai.org">
+American Association for Artificial Intelligence (www.aaai.org)</a>.
+</li>
+
+<li>R.H. Lilien, C. Bailey-Kellogg, A.A. Anderson, and B.R. Donald, "A
+subgroup algorithm to identify cross-rotation peaks consistent with
+non-crystallographic symmetry", <i>Acta Cryst.</i>, 2004, D60:1057-1067.
+<a href="abs.html#acta04">abstract</a>.  
+<a href="http://www.iucr.org/cgi-bin/paper?ol5284">paper</a>.
+<a href="papers/acta04.pdf">local pdf</a>.  
+Copyright &copy; International Union of Crystallography.
+</li>
+
+<li>O. Vitek, J. Vitek, B. Craig, and C. Bailey-Kellogg, "Model-based
+assignment and inference of protein backbone nuclear magnetic
+resonances", <i>Statistical Applications in Genetics and Molecular Biology</i>,
+2004, 3(1), article 6, 1-33.
+<a href="abs.html#sagmb04">abstract</a>.
+<a href="http://www.bepress.com/sagmb/vol3/iss1/art6">paper</a>.
+<a href="papers/sagmb04.pdf">local pdf</a>.
+</li>
+
+<li>C. Bailey-Kellogg, S. Chainraj, and G. Pandurangan, "A Random
+Graph Approach to NMR Sequential Assignment", Proc. RECOMB, 2004, pp. 58-67.
+<a href="abs.html#recomb04">abstract</a>.
+<a href="papers/recomb04.pdf">pdf</a>.
+</li>
+
+<li> C. Bailey-Kellogg and F. Zhao, "Qualitative spatial reasoning:
+extracting and reasoning with spatial aggregates", <i>AI Magazine</i>,
+2004, 24:47-60.
+<a href="abs.html#aimag04">abstract</a>.
+<a href="papers/aimag04.pdf">pdf</a>.
+Copyright 2004, <a href="http://www.aaai.org">
+American Association for Artificial Intelligence (www.aaai.org)</a>.
+</li>
+
+<li>S. Potluri, A.A. Khan, A. Kuzminykh, J.M. Bujnicki, A.M. Friedman,
+and C. Bailey-Kellogg, "Geometric analysis of cross-linkability for
+protein fold discrimination", Proc. Pacific Symposium on Biocomputing
+(PSB), 2004.
+<a href="abs.html#psb04">abstract</a>.
+<a href="papers/psb04.pdf">pdf</a>.
+</li>
+</ul>
+
+<h3 class="year">2003</h3>
+<ul class="oddyear">
+<li> C. Bailey-Kellogg and N. Ramakrishnan, "Active data mining of
+correspondence for qualitative assessment of scientific computations,"
+Proc. 17th International Workshop on Qualitative Reasoning, Brasilia,
+2003, pp. 23-30.
+<a href="abs.html#qr03">abstract</a>.
+<a href="papers/qr03.pdf">pdf</a>.
+</li>
+
+<li> N. Ramakrishan and C. Bailey-Kellogg, "Gaussian process models of
+spatial aggregation algorithms", Proc. Int'l Joint Conf. on Artificial
+Intelligence (IJCAI), 2003, pp. 1045-1051.  
+<a href="abs.html#ijcai03">abstract</a>.
+<a href="papers/ijcai03.pdf">pdf</a>.
+Copyright 2003, <a href="http://www.ijcai.org">IJCAI (www.ijcai.org)</a>.
+</li>
+
+<li> F. Zhao, C. Bailey-Kellogg, and M. Fromherz, "Physics-based
+encapsulation in embedded software for distributed sensing and control
+applications," <i>Proceedings of the IEEE</i>, 2003, 91:40-63.
+<a href="abs.html#ieee03">abstract</a>.
+<a href="papers/ieee03.ps.gz">postscript</a>.
+</li>
+</ul>
+
+<h3 class="year">2002</h3>
+<ul class="evenyear">
+<li> N. Ramakrishnan and C. Bailey-Kellogg, "Using physical properties for
+mining in data-scarce domains," <i>IEEE Computing in Science &amp;
+Engineering</i>, 2002, 4:31-43.
+<a href="abs.html#cise02">abstract</a>.
+<a href="papers/cise02.pdf">pdf</a>.
+</li>
+</ul>
+
+<h3 class="year">2001</h3>
+<ul class="oddyear">
+<li> C. Bailey-Kellogg and F. Zhao, "Influence-based model
+decomposition," <i>Artificial Intelligence</i>, 2001, 130:125-166.
+<a href="abs.html#aij01">abstract</a>.
+<a href="papers/aij01.pdf">pdf</a>.
+</li>
+
+<li> C. Bailey-Kellogg and N. Ramakrishnan, "Ambiguity-directed
+sampling for qualitative analysis of sparse data from
+spatially-distributed physical systems," Proc. Int'l Joint Conf. on
+Artificial Intelligence (IJCAI), 2001, pp. 43-50.
+<a href="abs.html#ijcai01">abstract</a>.
+<a href="papers/ijcai01.pdf">pdf</a>.
+Copyright 2001, <a href="http://www.ijcai.org">IJCAI
+(www.ijcai.org)</a>.
+</li>
+
+<li> F. Zhao, C. Bailey-Kellogg, and I. Ord&oacute;&ntilde;ez, "The
+spatial aggregation language: think globally, act locally,"
+<a href="http://www.ddj.com"><i>Dr. Dobb's Journal</i></a>, April, 2001.
+</li>
+
+<li>C. Bailey-Kellogg, J.J. Kelley, III, R. Lilien, and B.R. Donald,
+"Physical geometric algorithms for structural molecular biology,"
+invited paper at the Special Session on Computational Biology and
+Chemistry, International Conference on Robotics and Automation (ICRA), 2001.
+<a href="abs.html#icra01">abstract</a>.
+<a href="papers/icra01.pdf">pdf</a>.
+</li>
+
+<li>C. Bailey-Kellogg, J.J. Kelley, III, C. Stein, and B.R. Donald,
+"Reducing mass degeneracy in SAR by MS by stable isotopic labeling,"
+<i>J. Computational Biology</i>, 2001, 8:19-36.
+<a href="abs.html#jcb01">abstract</a>.
+<a href="papers/jcb01.pdf">pdf</a>.
+</li>
+</ul>
+
+<h3 class="year">2000</h3>
+<ul class="evenyear">
+<li>C. Bailey-Kellogg, A. Widge, M.J. Berardi, J.H. Bushweller, and
+B.R. Donald, "The NOESY Jigsaw: automated protein secondary structure
+and main-chain assignment from sparse, unassigned NMR data,"
+<i>J. Computational Biology</i>, 2000, 7:537-558.
+<a href="abs.html#jcb00">abstract</a>.
+<a href="papers/jcb00.pdf">pdf</a>.
+</li>
+
+<li>C. Bailey-Kellogg, J.J. Kelley, III, C. Stein, and B.R. Donald,
+"Reducing mass degeneracy in SAR by MS by stable isotopic labeling,"
+Proc. ISMB, 2000, pp. 13-24. 
+<a href="abs.html#ismb00">abstract</a>. 
+<a href="papers/ismb00.ps.gz">postscript</a>. 
+</li>
+
+<li>C. Bailey-Kellogg, A. Widge, M.J. Berardi, J.H. Bushweller, and
+B.R. Donald, "The NOESY Jigsaw: automated protein secondary structure
+and main-chain assignment from sparse, unassigned NMR data,"
+Proc. RECOMB, 2000, pp. 33-44.
+<a href="abs.html#recomb00">abstract</a>.
+<a href="papers/recomb00.ps.gz">postscript</a>.
+</li>
+</ul>
+
+<h3 class="year">1999</h3>
+<ul class="oddyear">
+<li> C. Bailey-Kellogg, "The spatial aggregation language for modeling
+and controlling distributed physical systems," PhD thesis, Ohio State
+University, 1999.
+<a href="abs.html#thesis">abstract</a>.
+<a href="papers/thesis-2s.ps.gz">thesis</a>.
+</li>
+
+<li> C. Bailey-Kellogg and F. Zhao, "Influence-based model
+decomposition," Proc. AAAI, 1999, pp. 402-409.  
+<a href="abs.html#aaai-99">abstract</a>.
+<a href="papers/aaai99.ps.gz">postscript</a>.
+Copyright 1999, <a href="http://www.aaai.org">American Association for
+Artificial Intelligence (www.aaai.org)</a>.
+</li>
+
+<li>C. Bailey-Kellogg and F. Zhao, "The SAL interpreter for
+large-scale optimization in distributed control systems,"  Proc. 
+IEEE Symposium on Computer-Aided Control Systems Design, 1999.
+<a href="abs.html#cacsd-99">abstract</a>.
+<a href="papers/cacsd99.ps.gz">postscript</a>.
+</li>
+
+<li> F. Zhao, C. Bailey-Kellogg, X. Huang, and
+I. Ord&oacute;&ntilde;ez, "Intelligent simulation for mining large
+scientific data sets," <i>New Generation Computing</i>, 1999, 17:333-347.
+<a href="abs.html#ngc99">abstract</a>.
+<a href="papers/ngc99.ps.gz">postscript</a>.
+</li>
+</ul>
+
+<h3 class="year">1998</h3>
+<ul class="evenyear">
+<li> C. Bailey-Kellogg and F. Zhao, "Qualitative analysis of
+distributed physical systems with applications to control synthesis,"
+Proc. AAAI, 1998, pp. 232-239.
+<a href="abs.html#aaai-98">abstract</a>.
+<a href="papers/aaai98.ps.gz">postscript</a>.
+Copyright 1998, <a href="http://www.aaai.org">American Association for
+Artificial Intelligence (www.aaai.org)</a>.
+</li>
+
+<li> F. Zhao and C. Bailey-Kellogg, "Intelligent simulation," AAAI
+Tutorial Forum, 1998.  <a href="abs.html#aaai-98-tut">abstract</a>.
+<a href="papers/aaai98-tutorial-handout.ps.gz">Slides handout (2 per
+page)</a>.
+</li>
+
+<li> C. Bailey-Kellogg and F. Zhao, "Reasoning about and optimizing
+distributed parameter physical systems using influence graphs,"
+Proc. 12th International Workshop on Qualitative Reasoning, Cape Cod,
+1998.
+<a href="abs.html#qr-98">abstract</a>.
+<a href="papers/qr98.ps.gz">postscript</a>.
+</li>
+</ul>
+
+<h3 class="year">1997</h3>
+<ul class="oddyear">
+<li> C. Bailey-Kellogg and F. Zhao, "Spatial aggregation: modeling and
+controlling physical fields," Proc. 11th International Workshop on
+Qualitative Reasoning, Italy, 1997. 
+<a href="abs.html#qr-97">abstract</a>.
+<a href="papers/qr97.ps.gz">postscript</a>.
+</li>
+</ul>
+
+<h3 class="year">1996</h3>
+<ul class="evenyear">
+<li> C. Bailey-Kellogg, F. Zhao, and K. Yip, "Spatial aggregation:
+language and applications," Proc. AAAI, 1996, pp. 517-522.  
+<a href="abs.html#aaai-96">abstract</a>.
+<a href="papers/aaai96.ps.gz">postscript</a>.
+Copyright 1996, <a href="http://www.aaai.org">American Association for
+Artificial Intelligence (www.aaai.org)</a>.
+</li>
+
+</ul>
+
+<h3><a name="procs">Proceedings Edited</a></h3>
+
+<ul class="evenyear">
+<li>C. Bailey-Kellogg and N. Ramakrishnan, co-chairs, <a
+href="sdm06/">2006 SIAM Data Mining Workshop on Spatial Data
+Mining</a> (papers on the <a href="sdm06/agenda.html">agenda</a> page).</li>
+
+<li>C. Bailey-Kellogg and B. Kuipers, co-chairs, <a
+href="http://www.cs.dartmouth.edu/~cbk/qr06/">20th International Workshop
+on Qualitative Reasoning</a>, QR-06.  <a
+href="http://www.cs.dartmouth.edu/~cbk/qr06/papers.html">Web
+proceedings</a>.</li>
+</ul>
+
+</td></tr>
+
+</tbody></table>
+</body>
+</html>

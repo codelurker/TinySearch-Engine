@@ -1,0 +1,195 @@
+http://www.cs.dartmouth.edu/professors.php
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Dartmouth Graduates who are now professors</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		<HTML>
+<HEAD>
+
+<LINK REL="SHORTCUT ICON" HREF="favicon.gif">
+
+<title>Computer Science at Dartmouth College: Academics</title>
+</HEAD>
+<BODY BGCOLOR="#EEEEEE">
+
+
+<h2>Dartmouth grads who are now professors:</h2>
+
+<p>
+
+David Kotz has compiled a list of Dartmouth CS grads who are now professors
+at universities and colleges around the world.  Please e-mail the webmaster if you would like to be included on the list!
+
+<p>
+
+<UL>
+
+<LI> Paul Ammann '83 (George Mason University)
+<LI> Chris Armen Ph.D'95 (Trinity College, Connecticut)
+<LI> Owen Astrachan '78 (Duke University)
+<LI> Jon Bredin PhD'01 (Colorado College)
+<LI> Amy Briggs '86 (Middlebury)
+<LI> <a href="http://www.cs.uml.edu/~glchen">Guanling Chen PhD'04 </a>(UMass Lowell)
+<LI> Larry Carter '69 (UCSD)
+<LI> Frederick (Ric) Crabbe '92 (US Naval Academy)
+<LI> Matt Dickerson '85 (Middlebury)
+<LI> Steve Garland '63 (MIT)
+<LI> Michael Goldweber PhD'93 (Xavier University)
+<LI> Dimitris Kagaris PhD'94, (Univ. Illinois at Carbondale)
+<LI> Stavros Kolliopoulos, Ph.D'98 (National and Kapodistrian University of Athens (Greece), and McMaster University, Canada)
+<LI> David Kotz '86  (Dartmouth College)
+<LI> Dexter Kozen '74 (Cornell University)
+<LI> Danny Kpoec '75 (Brooklyn College)
+<LI> Clif Kussmaul MS'93 (Muhlenberg College)
+<LI> Chris Langmead PhD'04 (Carnegie Mellon University)
+<LI> Dawn Lawrie '97 (Loyola College in Maryland)
+<LI> Cathie LeBlanc '85 (Plymouth State University)
+<LI> Kristen LeFevre '02 (Univ of Michigan)
+<LI> Qun Li PhD'04 (William and Mary)
+<LI> Ryan Lilian '06 (U Toronto)
+<LI> Jason Liu PhD'03 (Florida International)
+<LI> Scott McElfresh PhD'02 (Carnegie Mellon University)
+<LI> Takis Metaxas PhD'92 (Wellesley College)
+<LI> Charles B. Owen PhD'98 (Michigan State Univ)
+<LI> Steve Reiss '72 (Brown University)
+<LI> Li Shen PhD'04 (Univ. Mass at Dartmouth)
+<LI> Adam Webber '84 (Univ. Wisconsin)
+<LI> Lea Wittie PhD'04 (Bucknell University)
+
+</ul>
+
+<br><BR>
+In a few of these cases, these "CS alums" were actually math majors as the CS major was not introduced until the late 70s or early 80s, the CS PhD program did not begin until 1986, and the CS MS program did not begin until the 90s.  (The MIS program I think spanned the 70s and early 80s).
+
+</BODY>
+</HTML>
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>

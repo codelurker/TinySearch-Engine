@@ -1,0 +1,62 @@
+http://www.cs.dartmouth.edu/~doug/source.html
+3
+<html>
+<head>
+<title>Source code</title>
+</head>
+<body>
+<h1>Source code </h1>
+Source code is in C, unless otherwise specified.
+<p>
+<a href="map.tar.gz">Maps and map projections.</a>
+Makes outline maps
+(in PostScript)
+for any part of the world in any of 40-odd projections.
+Includes map data
+derived from US government sources.
+500KB gzipped tar file.  Licensed for noncommercial 
+use only.
+<p>
+Higher resolution <a href="wdbii.tar.gz">map data</a>
+from government sources, for use with
+the mapping software.  6MB gzipped tar file.
+<p>
+<a href ="sarray">Suffix arrays</a>.  Functions for making suffix
+arrays, a simple data structure useful for text retrieval, plagiarism
+detection, DNA analysis, data compression, etc.
+<p>
+<a name="aqsort">
+<a href ="aqsort.c">Antiquicksort</a>. 
+Forces quadratic behavior from most any C-standard
+<tt>qsort</tt> implemented by quicksort--even if randomized.
+For a pertinent paper, see ``A killer adversary for quicksort'',
+<a href="mdmspe.ps.gz">gzipped postscript</a> or <a href="mdmspe.pdf">pdf</a>.
+<p>
+<a href="qsort.c">Quicksort.</a>  Efficient code from J. L. Bentley
+and M. D. McIlroy, "Engineering a sort function", 
+<em>Software--Practice and Experience</em> <b>23</b> (1993) 1249-1265.
+<p>
+<a href="jlbcompress.tar">Data compression</a> C source tarball of Bentley's
+implementation of J. Bentley and D. McIlroy, "Data compression with long repeated
+strings", <i>Information Sciences</i> <b>135</b> (2001) 1-11.
+<p>
+<a href="squares.c">Word-square generator</a>.
+Makes all possible word squares from
+a given list of words.
+Does the same for general crossword puzzles, but the
+enumeration algorithm is not really suited for this 
+usually less tightly constrained problem.
+Nice squares discovered by the program appear in various <i>Word Ways</i> articles
+listed in my <a href="doug.bib">bibliography</a>.
+<p><a href="regparse.hs">Regular-language generator</a>
+Parses a regular expressions and enumerates the strings
+of the language it defines.  An avatar of lazy evaluation.
+Haskell.
+<hr>
+<a href="index.html">Doug McIlroy's home page</a>
+<hr>
+<em>Last modified Dec 22, 2007.</em>
+<br><br>
+</body>
+</html>
+B>forCá

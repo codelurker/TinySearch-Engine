@@ -1,0 +1,94 @@
+http://www.cs.dartmouth.edu/~farid/research/cgorphoto.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Computer Generated or Photographic? </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top > 
+<b> Computer Generated or Photographic? </b>
+<BR>
+<p>
+
+Computer graphics rendering software is capable of generating highly
+photorealistic images that are often very difficult to differentiate
+from photographic images.  We have, however, developed a method for
+differentiating between photographic and computer generated
+(photorealistic) images. Specifically, we have shown that a
+statistical model based on first- and higher-order wavelet statistics
+reveals subtle but significant differences between photographic and
+photorealistic images.  This work has begun to have interesting <a
+href="../publications/tr04a.html">legal applications</a> in light of
+the 2002 United States Supreme Court ruling that effectively legalized
+"virtual child pornography".
+
+<BR><BR>
+
+In related work, we have developed techniques to detect traces of <a
+href="tampering.html">digital tampering</a>, and to detect the
+presence of <a href="steganography.html">hidden messages</a> embedded
+within digital images.
+
+<BR><BR>
+
+<a href="cgorphoto.m">Matlab routines</a>
+
+<BR><BR>
+
+<i>(Collaborative work with 
+<a href="http://www.cs.albany.edu/~lsw"> Siwei Lyu</a>)</i>
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top> <IMG SRC="cgorphoto.jpg" width=284 height=360> <BR>
+<div align=right> <font size=-1> <i>
+CG image by Mihai Anghelescu
+</i></font></div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan=3>
+<BR><BR>
+<b>Contact me at <a href=http://hanyfarid.org/maat/>Ma'at Consulting</a> for more
+information about our consulting services.</b> <BR><BR>
+</td>
+</tr>
+
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Photorealistic Rendering: How Realistic Is It? <a href="../publications/vss07.html">(vss07)</a>
+  <li>Natural Image Statistics for Digital Image Forensics <a href="../publications/slthesis05.html">(thesis05)</a> <BR>
+  <li>How Realistic is Photorealistic? <a href="../publications/sp05b.html">(sp05)</a> <BR>
+  <li>Creating and Detecting Doctored and Virtual Images: Implications to The Child Pornography Prevention Act <a href="../publications/tr04a.html">(tr04a)</a> <BR>
+  <li>Higher-Order Wavelet Statistics and their Application to Digital Forensics <a href="../publications/sacv03.html">(sacv03)</a> 
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+</html>
+
+

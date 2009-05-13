@@ -1,0 +1,58 @@
+http://www.cs.dartmouth.edu/~farid/research/animation.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Animation </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top> 
+<b> Animation </b>
+<BR>
+<p>
+We are interested in finding low-dimensional representations of
+complex human motions.  For example, each frame of the 3-D motion
+sequence shown to the right can be described by a 36-dimensional
+vector (12 joints, each with X,Y,Z values).  
+
+<BR><BR>
+
+We have been developing computational techniques for reducing the
+dimensionality of this data into a lower and perceptually meaningful
+space.  In this example, we are able to find a one-dimensional
+representation that corresponds to the inherent one-dimensional nature
+of the motion.
+
+<BR><BR>
+
+<i>(Collaborative work with Fred Henle and <a
+href="http://www.cs.duke.edu/~brd"> Bruce Donald</a>)</i>
+
+<td>&nbsp&nbsp</td>
+
+<td valign=top> <BR><BR><img src="jump.gif" alt="alternative text"> 
+
+</tr>
+</table>
+<BR>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=right>
+	<font size=-1><i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	<a href="research.html"> Research</a> 	
+	</i></font>
+</td>
+</tr>
+</table>
+</html>
+

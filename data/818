@@ -1,0 +1,226 @@
+http://www.cs.dartmouth.edu/~sws/maps
+3
+<html>
+<head>
+<title>Sean's Map Page</title>
+</head>
+<body>
+
+<table width=100%>
+<tr>
+<td align=center>
+<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">
+</td>
+<td align=left>
+<b>
+<big><big>
+
+Sean's Map Page
+</big></big><br>
+
+</b>
+<td align=right>
+<i> www.cs.dartmouth.edu/~sws/maps/index.shtml<br>
+
+Last modified: 06/23/05 10:01:50 AM
+</i>
+</td>
+</tr>
+</table>
+<hr>
+
+<p>
+
+<p>
+          
+
+
+
+<hr>
+<hr>
+<h2>Orienteering Introduction</h2>
+
+Now and then, the Hanover Conservation Council has asked me to prepare
+an "introduction to orienteering" session, using the new Storrs Pond O-map.
+<p>
+Here are the materials I used for the last one, in November 2004.
+We've long since taken the control flags down, but the locations may still be 
+marked with a short piece of blue surveyor's tape, if you're lucky.
+<p>
+<b>Note that control #42 can be a bit tricky---use caution!</b>
+<ul>
+<li> <a href="handout.pdf"><b>Notes</b></a>
+<li> <a href="clues.pdf"><b>Clue sheet</b></a>
+<li> <a href="nov2004.pdf"><b>Map</b></a>
+</ul>
+<hr>
+<hr>
+
+<h2>Orienteering Maps</h2>
+
+Over the years, Dartmouth has made orienteering maps of a few
+regions in the area.
+Brian Kunz of the Office of Outdoor Programs kindly lent me a
+stack of floppies, and I'm gradually working on extracting 
+workable data from them. Below is what I have so far.
+
+<p>
+
+<h3> Burnt Mountain </h3>
+I've poked around here a little bit---it's quite interesting,
+and the field-checked part of the map is very good.
+The northern part looks like it
+connects with some Hanover-owned land, documented in the "Burnt Mountain"
+map from the Hanover Trails Association.
+<p>
+To reach the dead-end on the upper right, head down 120 to the hospital/
+Lebanon Co-op traffic light, turn right, then keep going.
+<ul>
+<li> <a href="burnt/ormap.eps"><b>
+The whole giant map, as an encapsulated postscript file.</b></a></li>
+<li> 
+The northern half, printable on 8.5 x 11 paper, as 
+<a href="burnt/north.ps"><b>postscript</b></a> and
+<a href="burnt/north.pdf"><b>PDF</b></a>.
+</li>
+<li> The southern half, printable on 8.5 x 11 paper, 
+as <a href="burnt/south.ps"><b>postscript</b></a> and
+<a href="burnt/south.pdf"><b>PDF</b></a>.</li>
+</ul>
+
+<p>
+<h3> Storrs Pond </h3>
+I've worked a bit with a paper copy of a 1:10000 version of this map.
+Be warned: since the map was made, the've built a few more ski trails
+throughout (see link below),
+and done a bit of logging on the eastern end.
+<ul>
+<li> 
+The whole giant map, as encapsulated postscript files,
+backwards, in single colors:
+<a href="storrs/blue.eps"><b>blue</b></a>,
+<a href="storrs/black.eps"><b>black</b></a>,
+<a href="storrs/yellow.eps"><b>yellow</b></a>,
+<a href="storrs/green.eps"><b>green</b></a>,
+<a href="storrs/brown.eps"><b>brown</b></a>
+</li>
+<li> 
+The western half, printable on 8.5 x 11 paper,
+as <a href="storrs/east.ps"><b>postscript</b></a> and
+<a href="storrs/east.pdf"><b>PDF</b></a>.</li>
+<li> 
+The eastern half, printable on 8.5 x 11 paper, 
+as <a href="storrs/west.ps"><b>postscript</b></a> and
+<a href="storrs/west.pdf"><b>PDF</b></a>.</li>
+</ul>
+
+<hr>
+<hr>
+
+<h2><a href="waterworks/">The Old Aqueduct System</a></h2>
+<hr>
+<hr>
+<h2>Hanover Trails</h2>
+<a href="http://www.cs.dartmouth.edu/~doug/"><b>Doug McIlroy</b></a>
+has been working with re-surveying Hanover-area trails.
+<a href="http://www.hanovernh.org/stories/storyReader$95"><b>Here</b></a>
+is the latest official data.
+<hr>
+<hr>
+<h2>Historic USGS Maps</h2>
+
+UNH has <b>old</b> <a href="http://docs.unh.edu/towns/HanoverNewHampshireMapList.htm"><b>USGS maps online</b></a>, if you're interested in the way things
+used to be.
+<hr>
+<hr>
+<h2>Oak Hill XC Trails</h2>
+
+<a href="oakhill2000.gif"><b>here</b></a>
+is the Silver Fox Ski Touring Center's map of the Oak Hill/Storrs Pond
+ski trails.  
+<p>
+You may also find some elevation profiles 
+<a href="http://www.dartmouth.edu/%7Encaaski/venues/index.html"><b>here</b></a>
+
+<hr>
+<hr>
+<h2><a name="VMBA">Upper Valley MTB Trails</a></h2>
+
+The <a href="http://www.vmba.org/"><b>Vermont Mountain Biking Association</b>
+</a> has compiled an amazing free map of the trails and old roads in 
+the Vermont side of the Upper Valley region.
+<p>
+<a href="http://www.vmba.org/maps/uvmaps.html"><b>The VMBA map site</b></a>
+<p>
+Locally cached copies (for Dartmouth use only):
+<ul>
+<li> <a href="vmba/mapfront.pdf"><b>the 5-megabyte map</b></a>
+<li> <a href="vmba/backcopy.html"><b>instructions</b></a>
+<li> <a href="vmba/assess.html"><b>the trail annotations</b></a>
+</ul>
+<p>
+<hr>
+<hr>
+<h2>Weather</h2>
+
+I find that the <a href="http://www.intellicast.com/Local/USLocalWide.asp?loc=usnhct10999&seg=LocalWeather&prodgrp=RadarImagery&product=RegionalRadarLoop&prodnav=none"><b>regional loop</b></a>
+at Intellicast is a good way to time my bike rides so I don't get caught in a storm.
+
+<br>
+<br>
+
+<p>
+
+<hr>
+<table width=100%>
+<tr>
+<td align=center>
+<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/icons/back.gif" ALT="">
+</td>
+<td align=left>
+<b>
+
+<a href="/~sws/fun/">
+Back to Sean's Fun Page</a>
+</b>
+</td>
+<td align=right>
+<i>Maintained by 
+<a href="http://www.cs.dartmouth.edu/~sws/">Sean Smith</a>,
+<a href="mailto:sws@cs.dartmouth.edu">sws@cs.dartmouth.edu</a>
+</i>
+</td>
+</tr>
+</table>
+</font>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i

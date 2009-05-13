@@ -1,0 +1,225 @@
+http://www.cs.dartmouth.edu/reports/abstracts/TR99-350
+3
+<HTML>
+<!-- WARNING! Do not modify this file; it is
+      automatically generated from a database in www/TRdata/. -->
+<link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
+<HEAD>
+<TITLE> Dartmouth PCS-TR99-350 </TITLE>
+<META NAME="description" CONTENT="Two Algorithms for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs">
+<META NAME="number" CONTENT="PCS-TR99-350">
+<META NAME="year" CONTENT="1999">
+<META NAME="title" CONTENT="Two Algorithms for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs">
+<META NAME="abstract" CONTENT="		We show two algorithms for computing multidimensional
+Fast Fourier Transforms (FFTs) on a multiprocessor system with
+distributed memory when problem sizes are so large that the data do
+not fit in the memory of the entire system.  Instead, data reside on a
+parallel disk system and are brought into memory in sections.  We use
+the Parallel Disk Model for implementation and analysis. 
+		The first method is a straightforward out-of-core
+variant of a well-known method for in-core, multidimensional FFTs.  It
+performs 1-dimensional FFT computations on each dimension in turn.
+This method is easy to generalize to any number of dimensions, and it
+also readily permits the individual dimensions to be of any sizes that
+are integer powers of~2.  The key step is an out-of-core transpose
+operation that places the data along each dimension into contiguous
+positions on the parallel disk system so that the data for the
+1-dimensional FFTs are contiguous.
+		The second method is an adaptation of another
+well-known method for in-core, multidimensional FFTs.  This method
+computes all dimensions simultaneously.   It is more difficult to
+generalize to arbitrary radices and number of dimensions in this
+method than in the first method.  Our present implementation is
+therefore limited to two dimensions of equal size, that are again
+integer powers of~2. 
+		We present I/O complexity analyses for both methods as
+well as empirical results for a DEC~2100 server and an SGI
+Origin~2000, each of which has a parallel disk system.  Our results
+indicate that the methods are comparable in speed in two-dimensions.">
+<META NAME="author" CONTENT="Lauren M. Baptist">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
+<!-- See also footer.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<table border=0 rules=none>
+<col width=85><col width=100%><col width=85>
+<tr valign=center  bgcolor=#003300 border=0>
+ <td>
+   <a href=/><img src=/reports/Dartmouth2.png alt="Dartmouth logo"
+   width=82 height=91 border=0></a>
+ </td>
+ <td>
+   <font color=#ffffff size=+3>
+     Dartmouth College Computer Science<br>
+     Technical Report series
+   </font>
+ </td>
+ <td>
+  <a href="/"><font color=#ffffff>CS&nbsp;home</font></a><br>
+  <a href="/reports"><font color=#ffffff>TR&nbsp;home</font></a><br>
+  <a href="/reports/#search"><font color=#ffffff>TR&nbsp;search</font></a>
+  <a href="/reports/updates.html"><font color=#ffffff>TR&nbsp;listserv</font></a>
+ </td>
+</tr>
+<tr>
+  <td align=right> By author:
+  </td>
+  <td colspan=2>
+    <a href="/reports/authors/index.shtml#A">A</a>
+    <a href="/reports/authors/index.shtml#B">B</a>
+    <a href="/reports/authors/index.shtml#C">C</a>
+    <a href="/reports/authors/index.shtml#D">D</a>
+    <a href="/reports/authors/index.shtml#E">E</a>
+    <a href="/reports/authors/index.shtml#F">F</a>
+    <a href="/reports/authors/index.shtml#G">G</a>
+    <a href="/reports/authors/index.shtml#H">H</a>
+    <a href="/reports/authors/index.shtml#I">I</a>
+    <a href="/reports/authors/index.shtml#J">J</a>
+    <a href="/reports/authors/index.shtml#K">K</a>
+    <a href="/reports/authors/index.shtml#L">L</a>
+    <a href="/reports/authors/index.shtml#M">M</a>
+    <a href="/reports/authors/index.shtml#N">N</a>
+    <a href="/reports/authors/index.shtml#O">O</a>
+    <a href="/reports/authors/index.shtml#P">P</a>
+    <a href="/reports/authors/index.shtml#Q">Q</a>
+    <a href="/reports/authors/index.shtml#R">R</a>
+    <a href="/reports/authors/index.shtml#S">S</a>
+    <a href="/reports/authors/index.shtml#T">T</a>
+    <a href="/reports/authors/index.shtml#U">U</a>
+    <a href="/reports/authors/index.shtml#V">V</a>
+    <a href="/reports/authors/index.shtml#W">W</a>
+    <a href="/reports/authors/index.shtml#X">X</a>
+    <a href="/reports/authors/index.shtml#Y">Y</a>
+    <a href="/reports/authors/index.shtml#Z">Z</a>
+   </td>
+</tr>
+<tr>
+  <td align=right> By number: 
+  </td>
+  <td colspan=2>
+    <font size=-1>
+      <a href="/reports/abstracts/2009.shtml">2009</a>,
+      <a href="/reports/abstracts/2008.shtml">2008</a>,
+      <a href="/reports/abstracts/2007.shtml">2007</a>,
+      <a href="/reports/abstracts/2006.shtml">2006</a>,
+      <a href="/reports/abstracts/2005.shtml">2005</a>,
+      <a href="/reports/abstracts/2004.shtml">2004</a>,
+      <a href="/reports/abstracts/2003.shtml">2003</a>,
+      <a href="/reports/abstracts/2002.shtml">2002</a>,
+      <a href="/reports/abstracts/2001.shtml">2001</a>,
+      <a href="/reports/abstracts/2000.shtml">2000</a>,
+      <a href="/reports/abstracts/1999.shtml">1999</a>,
+      <a href="/reports/abstracts/1998.shtml">1998</a>,
+      <a href="/reports/abstracts/1997.shtml">1997</a>,
+      <a href="/reports/abstracts/1996.shtml">1996</a>,
+      <a href="/reports/abstracts/1995.shtml">1995</a>,
+      <a href="/reports/abstracts/1994.shtml">1994</a>,
+      <a href="/reports/abstracts/1993.shtml">1993</a>,
+      <a href="/reports/abstracts/1992.shtml">1992</a>,
+      <a href="/reports/abstracts/1991.shtml">1991</a>,
+      <a href="/reports/abstracts/1990.shtml">1990</a>,
+      <a href="/reports/abstracts/1989.shtml">1989</a>,
+      <a href="/reports/abstracts/1988.shtml">1988</a>,
+      <a href="/reports/abstracts/1987.shtml">1987</a>,
+      <a href="/reports/abstracts/1986.shtml">1986</a>
+    </font>
+  </td>
+</tr>
+</table>
+<hr>
+<!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
+
+<font size=+2><b> Two Algorithms for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs </b></font><br>
+<font size=+1><b>
+ <A HREF="../../authors/Baptist,Lauren.M..shtml">Lauren M. Baptist</A>
+<br>
+Dartmouth PCS-TR99-350
+</b></font>
+<p><QUOTE>
+<b>Abstract:</b>
+</P><P>
+		We show two algorithms for computing multidimensional
+Fast Fourier Transforms (FFTs) on a multiprocessor system with
+distributed memory when problem sizes are so large that the data do
+not fit in the memory of the entire system.  Instead, data reside on a
+parallel disk system and are brought into memory in sections.  We use
+the Parallel Disk Model for implementation and analysis. 
+</P><P>
+		The first method is a straightforward out-of-core
+variant of a well-known method for in-core, multidimensional FFTs.  It
+performs 1-dimensional FFT computations on each dimension in turn.
+This method is easy to generalize to any number of dimensions, and it
+also readily permits the individual dimensions to be of any sizes that
+are integer powers of~2.  The key step is an out-of-core transpose
+operation that places the data along each dimension into contiguous
+positions on the parallel disk system so that the data for the
+1-dimensional FFTs are contiguous.
+</P><P>
+		The second method is an adaptation of another
+well-known method for in-core, multidimensional FFTs.  This method
+computes all dimensions simultaneously.   It is more difficult to
+generalize to arbitrary radices and number of dimensions in this
+method than in the first method.  Our present implementation is
+therefore limited to two dimensions of equal size, that are again
+integer powers of~2. 
+</P><P>
+		We present I/O complexity analyses for both methods as
+well as empirical results for a DEC~2100 server and an SGI
+Origin~2000, each of which has a parallel disk system.  Our results
+indicate that the methods are comparable in speed in two-dimensions.
+</QUOTE></p>
+<p><QUOTE>
+<b>Note:</b>
+Undergraduate Honors Thesis.  Advisor: Tom Cormen.
+</QUOTE></p>
+<HR>
+ <a href="http://www.cs.dartmouth.edu/reports/TR99-350.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (760KB)
+,
+ <a href="http://www.cs.dartmouth.edu/reports/TR99-350.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (580KB)
+(derived from the ps.Z)
+<p>
+Bibliographic citation for this report:
+  [<a href="TR99-350.ascii">plain text</a>]
+  [<a href="TR99-350.bib">BIB</a>]
+  [<a href="TR99-350.bibtex">BibTeX</a>]
+  [<a href="TR99-350.refer">Refer</a>]
+</p>
+<p>Or copy and paste:<br>
+&nbsp;&nbsp;
+Lauren M. Baptist, 
+"Two Algorithms for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs."
+Dartmouth Computer Science Technical Report PCS-TR99-350,
+June 1999.
+</p>
+<!-- Include file for abstracts/*.html and authors/*.html -->
+<!-- See also header.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<!-- </td></tr></table> -->
+<hr>
+
+<p><a href=/reports/updates.html>Notify me about new tech reports</a>.
+<a href=/reports/feed.xml><img src=/reports/rss.gif><a></p>
+<p><a href=/reports/index.shtml#search>Search the technical reports</a>.</p>
+<p>To receive paper copy of a report, by mail, 
+send your address and the TR number to <tt>reports</tt> AT <tt>cs.dartmouth.edu</tt>
+
+<hr>
+
+<p><font size=-1><b>Copyright notice</b>:	
+The documents contained in this server are included by the
+contributing authors as a means to ensure timely dissemination of
+scholarly and technical work on a non-commercial basis.  Copyright and
+all rights therein are maintained by the authors or by other copyright
+holders, notwithstanding that they have offered their works here
+electronically.  It is understood that all persons copying this
+information will adhere to the terms and constraints invoked by each
+author's copyright.  These works may not be reposted without the
+explicit permission of the copyright holder.
+</font></p> 
+<p><font size=-1><em>Technical reports collection maintained by David Kotz</em>.
+
+</BODY>
+</HTML>

@@ -1,0 +1,404 @@
+http://www.cs.dartmouth.edu/gr_fellow.php
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Graduate Student Fellowships</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		<h1>Graduate Fellowships</h1>
+
+<p>
+
+This page is a short compilation of information on fellowships
+available for graduate study in computer science.  If you find
+relevant information that is not already on this page (a fellowship
+that's not yet listed, or additional information on a fellowship that
+is listed), please tell <a href="mailto:thc@cs.dartmouth.edu">Tom
+Cormen</a> about it.
+
+<ul>
+	<li><a href="#nsf" class="colorbg">NSF Graduate Research Fellowships</a></li>
+	<li><a href="#DoD" class="colorbg">The Department of Defense National Defense Science and Engineering Graduate Fellowship Program</a></li>
+	<li><a href="#Hertz" class="colorbg">Fannie and John Hertz Foundation Fellowship Awards</a></li>
+	<li><a href="#npsc" class="colorbg">National Physical Science Consortium (NPSC) Graduate Fellowships for Minorities and Women in the Physical Sciences</a></li>
+	<li><a href="#att" class="colorbg">AT&amp;T Labs Fellowship Program</a></li>
+	<li><a href="#belllabs" class="colorbg">Lucent Technologies/Bell Laboratories Fellowships</a></li>
+	<li><a href="#ibm" class="colorbg">IBM Graduate Fellowships</a></li>
+</ul>
+
+
+<h3 id="nsf">NSF Graduate Research Fellowships</h3>
+
+<strong>Deadline</strong>: November 4, 1999.
+
+<p>
+Three-year graduate fellowships in science, mathematics, and
+engineering.
+</p>
+
+<p>
+Applicants must be US citizens or nationals, or permanent resident
+aliens of the US.  Eligible applicants are college seniors, first-year
+graduate students, and "others who have completed a limited amount of
+graduate study in science, mathematics, or engineering" (whatever that
+means).
+</p>
+
+<p>
+There are additional awards offered for "Women in Engineering and
+Computer and Information Science".
+</p>
+
+<p>
+Awards made in March 2000 will carry a stipend for each fellow of
+$15,000 for a 12-month tenure (prorated monthly at $1,250 for lesser
+periods) and an annual cost-of-education allowance of $10,500, paid to
+the fellow's institution in lieu of tuition and fees.
+</p>
+
+<p>
+For further information:
+</p>
+
+<ul>
+  <li> Submit an application electronically using NSF's FastLane:
+       <a href="http://www.fastlane.nsf.gov">http://www.fastlane.nsf.gov</a>
+
+  </li><li> Check the program web site:
+       <a href="http://www.ehr.nsf.gov/ehr/dge/grf.htm">http://www.ehr.nsf.gov/ehr/dge/grf.htm</a>
+
+  </li><li> Write to<br>
+       NSF Graduate Research Fellowship Program<br>
+       Oak Ridge Associated Universities (ORAU)<br>
+
+       P.O. Box 3010<br>
+       Oak Ridge, TN 37831-3010
+
+  </li><li> Printed materials may be obtained by direct request to NSF
+       Graduate Research Fellowship Program, Oak Ridge Associated
+       Universities (ORAU), PO Box 3010, Oak Ridge, Tennessee
+       37831-3010 or telephone (423) 241-4300 or fax (423) 241-4513 or
+       electronic mail to nsfgrfp@orau.gov.
+
+</li></ul>
+
+<hr>
+
+<h3 id="DoD">The Department of Defense National Defense Science and Engineering Graduate Fellowship Program</h3>
+
+<strong>Deadline</strong>: January 19, 2000
+
+<p>
+
+Three-year fellowships in science or engineering.  The three years
+must be consecutive (with certain exceptions).
+
+</p><p>
+
+Applicants must be US citizens or nationals.  Permanent residents are
+<em>not</em> eligible.  NDSEG Fellowships are intended for students at
+or near the beginning of their graduate studies in science or
+engineering.  Ninety percent of the fellowships in 1998 were awarded
+to students who had not yet started their second year of graduate
+school.  Applicants must receive or be on track to receive their
+baccalaureate degrees by Fall 2000.  Applications are encouraged from
+women, persons with disabilities and minorities, including members of
+ethnic minority groups such as American Indian, Black, Hispanic,
+Native Alaskan (Eskimo or Aleut) or Pacific Islander (Polynesian or
+Micronesian).
+
+</p><p>
+
+Current award is a 12-month stipend of $18,500 for 2000-2001, $19,500
+for 2001-2002, and $20,500 for 2002-2003, plus full tuition and
+required fees.
+
+</p><p>
+
+NDSEG Fellows do not incur any military or other service obligation.
+
+</p><p>
+
+For further information, visit the web page at <a href="http://www.asee.org/ndseg/">http://www.asee.org/ndseg/</a>.
+
+
+</p>
+
+<h3 id="Hertz">Fannie and John Hertz Foundation Fellowship Awards</h3>
+
+<strong>Deadline</strong>: November 5, 1999
+
+<p>
+
+Current award is a 9-month stipend of $25,000, renewable for up to 5
+years, plus a cost-of-education allowance, which pays tuition and
+fees.  The hitch is that you must be enrolled at one of their "tenable
+institutions", which include most of the top CS graduate programs.
+
+</p><p>
+
+Eligible applicants must be students of the applied physical sciences
+who are citizens or permanent residents of the United States of
+America, and who are "willing to morally commit to make their skills
+available to the United States in times of national emergency" (sounds
+risky, but there's actually no legally binding commitment
+here). College seniors wishing to pursue the Ph.D. degree in any of
+the acceptable fields, as well as graduate students already in the
+process of doing so, may apply.  High scholastic performance is
+expected, including at least a 3.75/4.00 grade point average during
+the last two years of undergraduate work.  Applications from students
+with lower GPAs will be reviewed for evidence of unusual ability,
+creativity, or accomplishment.
+
+</p><p>
+
+For further information:
+</p><ul>
+
+  <li> Visit the web page at <a href="http://www.hertzfndn.org">http://www.hertzfndn.org</a>.
+
+  </li><li> Write to<br>
+       Fannie and John Hertz Foundation<br>
+       Box 5032<br>
+       Livermore, CA 94550-3850
+
+  </li><li> Call (925) 373-1642
+
+</li></ul>
+
+
+
+<h3 id="att">AT&amp;T Labs Fellowship Program</h3>
+
+<strong>Deadline</strong>: January 15, 2000
+
+<p>
+
+The fellowship provides
+</p><ul>
+  <li> All educational expenses during the school year, including
+       tuition, books, fees, and approved travel expenses.
+
+  </li><li> Education expenses for summer study or university research.
+
+  </li><li> A stipend for living expenses (currently $1,400 per month, paid
+       for 12 months the first two years, and 10 months in the ensuing
+       years).
+
+  </li><li> Support for attending approved scientific conferences.
+
+  </li><li> A mentor who is a staff member at AT&amp;T Labs.
+
+
+</li></ul>
+
+<p>
+
+Fellowships are available to outstanding minority and women students
+who are pursuing PhD studies in computer and communications-related
+fields.
+
+</p><p>
+
+For further information, visit the web page at <a href="http://www.research.att.com/academic/alfp.html">http://www.research.att.com/academic/alfp.html</a>
+or write to AT&amp;T Labs Fellowship Administrator, Room C103, 180 Park
+Ave., Florham Park, NJ 07932-0971.
+
+</p>
+
+
+<h3 id="npsc">National Physical Science Consortium (NPSC)
+Graduate Fellowships for Minorities and Women in the Physical
+Sciences</h3>
+
+<strong>Deadline:</strong> November 5, 1999
+
+<p>
+
+The fellowship is renewable for 6 years.  It provides a yearly stipend
+of $12,500 for years 1-4, and $15,000 for years 5-6.  The "NPSC member
+university" pays tuition and fees.  The fellowship also provides for
+two summers of paid research experience employment.
+
+</p><p>
+
+NPSC welcomes applications from all qualified students with continued
+emphasis toward the recruitment of underrepresented minorities:
+African American; Hispanic; Native American Indian, Eskimo, Aleut;
+Pacific Islander (Polynesian); and/or female.  Must be a U.S. citizen
+and have the ability to pursue graduate work at an NPSC member
+institution.  Must be an undergraduate senior with at least a 3.0 GPA,
+or possess a degree and have been out of school at least one year.
+Selection is based on research experience, letters of recommendation,
+academic standing, and GRE scores.
+
+</p><p>
+
+For further information, visit the web page at <a href="http://www.npsc.org/">http://www.npsc.org/</a>.
+
+</p><hr>
+
+<h3 id="belllabs">Lucent Technologies/Bell Laboratories Fellowships</h3>
+
+<strong>Deadline:</strong> January 30, 1999
+
+<p>
+
+Bell Labs sponsors two types of fellowships:
+</p><ul>
+  <li> Cooperative Research Fellowship Program.  The objective of the
+       CRFP is to develop scientific and engineering ability among
+       members of those minority groups underrepresented in science.
+       The fellowship provides tuition, university fees, books, an
+       annual living stipend of $17,000, and related travel
+       expenses. Fellowship recipients are eligible for summer
+       employment and are matched with a Bell Laboratories scientist
+       as a mentor.
+
+  </li><li> Graduate Research Program for Women.  GRPW is designed to
+       identify and develop scientific and engineering ability in
+       women and to increase the representation of women in these
+       fields.  The fellowship provides an annual living stipend of
+       $17,000, tuition and fees, and textbook allowance.
+
+</li></ul>
+
+<p>
+
+For further information, visit the web page at <a href="http://www.bell-labs.com/fellowships/">http://www.bell-labs.com/fellowships/</a>.
+
+</p><hr>
+
+<h3 id="ibm">IBM Graduate Fellowships</h3>
+
+Near as I can tell, IBM Graduate Fellowships are given only to current
+(not future) graduate students.  The web site is <a href="http://www.research.ibm.com/news/detail/fellowships.html">http://www.research.ibm.com/news/detail/fellowships.html</a>.
+
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>

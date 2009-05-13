@@ -1,0 +1,27 @@
+http://www.cs.dartmouth.edu/%7Epway/cs23/index.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body>
+<h1> <font color="red"> CS <font color="yellow"> 2</font> <font color="green"> 3</font></font></h1>
+<p>
+Regulat Office: 158 Sudikoff
+<br>Phone: 603-646-8722
+<br>E mail: pway AT cs.dartmouth.edu
+<br>Though I have office hour 4-6pm Mon Fri at Lab 001, you can drop by any time. You are welcome to drop me an e-mail or call me before you come.
+<p> 
+
+<a href="uselinux.html"><big style="color: rgb(0, 0, 153);"><big><br>
+How to log onto remote LINUX systems</big></big></a><br>
+
+
+
+
+
+<h2><font color="red"> <font color="blue"> Misc </font></font></h2>
+
+<font color="red"><font color="blue"><a href="stargate.html"><font size="15"> Stargate Guide </font></a></font></font>
+</body>
+</html>

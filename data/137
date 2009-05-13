@@ -1,0 +1,39 @@
+http://www.cs.dartmouth.edu/reports/format.html
+2
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<html> <head>
+ <title>Dartmouth TR numbers</title>
+ <link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="feed.xml"/>
+</head>
+<body bgcolor="#FFFFFF">
+<h1><a href="/">Dartmouth Computer Science</a> <a href=".">Technical Reports</a></h1>
+<h2>Format of the numbers</h2>
+
+When we began our technical-report series in 1986, we chose to number
+them with the format PCS-TRyy-nnn, where yy was the 2-digit year
+(19yy), and nnn was a sequence number.  Needless to say this led to a
+Y2K problem.<p>
+
+As of the year 2000, when new reports are added, they will be numbered
+differently: TRyyyy-nnn.  The old pre-2000 reports will still be
+numbered PCS-TRyy-nnn, that is, no old reports will change their
+numbers.  The sequence number nnn will still be consecutive across the
+change to the new format; thus the last TR of the second millenium is
+PCS-TR99-261, and the first TR of the third millenium will be number
+TR2000-362.<p>
+
+For those who like details, in the old format the first three letters
+could actually be one of three possibilities:
+<ul>
+  <li> "PCS": a paper in computer science
+  <li> "DCS": a diskette in computer science
+  <li> "TCS": a tape in computer science
+</ul>
+There are only a few DCS or TCS reports
+(see <a href="abstracts/1986.shtml">1986</a>).
+I believe the "CS" initials were added because, at the time, we were
+part of a "Department of Math and Computer Science" and there may have
+been an intention to have "PMA", "DMA", and "TMA" (Math) technical
+reports as well.
+
+</body> </html>

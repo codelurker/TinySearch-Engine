@@ -1,0 +1,386 @@
+http://www.cs.dartmouth.edu/~cs108/resources
+3
+<html> <head>
+<title>Textbook and Resources</title>
+</head>
+ 
+<body>
+
+
+<h2> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
+
+Textbook and Resources
+<br> 
+ CS108, Advanced Operating Systems, Winter 2008
+</h2> 
+<i> www.cs.dartmouth.edu/~cs108/resources/index.shtml</i> 
+ &nbsp;&nbsp;&nbsp; 
+ 
+<i> Last modified: Thursday, 03-Jan-2008 10:54:29 EST</i> 
+ 
+<hr> 
+ 
+<p> 
+ 
+<p>
+
+
+
+
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Official Textbooks</b>
+</big><br>
+<p>
+
+<ul>
+<li> Richard McDougall and Jim Mauro.<br>
+<cite>Solaris(TM) Internals: Solaris 10 and OpenSolaris Kernel Architecture (2nd Edition)</cite><br>
+Second Edition, 2006.  Prentice Hall. ISBN: 0131482092
+</ul>
+<P>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Standard OS Textbook</b>
+</big><br>
+<p>
+It would be very good to have one of the following at your disposal.
+<ul>
+<li>Silberschatz, Galvin, and Gagne.<br>
+<cite>Operating System Concepts.</cite>
+Seventh Edition, 2005.  John Wiley.<br>
+(Or the sixth edition, if you don't mind remapping the TOC.)
+<p>
+<li> A. Tanenbaum.<br>
+<cite>Modern Operating Systems (2nd Edition).</cite> 
+Prentice-Hall, 2001.
+(The substantially different first edition is also useful.)
+</ul>
+<p>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Useful References</b>
+</big><br>
+<i>You might consider
+getting copies for yourself.</i>
+<p>
+<p>
+<ul>
+<li>Richard McDougall, Jim Mauro, and Brendan Gregg.<br>
+<cite>Solaris Performance and Tools.</cite>
+2006. Prentice Hall. ISBN:  0131568191.
+</ul>
+
+
+A "Bible" of UNIX systems programming:<br><br>
+<ul>
+<li>Stevens and Rago.
+<cite>Advanced Programming in the UNIX Environment.</cite>
+Addison-Wesley, 2005 (2nd edition).</ul>
+<p>
+<hr>
+<p>
+A Solaris-specific version of Stevens:<br><br>
+<ul>
+<li>
+Rich Teer.<br>
+<cite>Solaris Systems Programming</cite><br>
+Addison Wesley, 2005.
+</ul>
+<p>
+<hr>
+<p>
+The Internet runs on C.  You need to know it.<br><br>
+<ul>
+<li> B. Kernighan and D. Ritchie.<br>
+<cite>The C Programming Language (2nd Edition).</cite><br>
+Prentice-Hall, 1988.
+</ul>
+
+
+
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Some Other Useful Books</b>
+</big><br>
+<p>
+<ul>
+<li>
+M. Beck, et al.
+<cite>Linux Kernel Programming (3rd Edition).</cite>
+Addison-Wesley, 2002.
+<li>
+D. Bovet and M. Cesati.
+<cite>Understanding the Linux Kernel (3rd Edition).</cite>
+O'Reilly, 2005.
+<li> 
+<a name="brooks">F. Brooks.</a>
+<cite>The Mythical Man-Month (Anniversary Edition).</cite>
+Addision-Wesley, 1995.
+<li>
+<a name="kp">B. Kernighan and R. Pike.</a>
+<cite>The Practice of Programming.</cite> 
+Addison-Wesley. 1999.
+<li>
+M. McKusick, K. Bostic, M. Karels, J. Quarterman.
+<cite>The Design and Implementation of the 4.4BSD Operating System.</cite>
+Addison-Wesley, 1996.
+<li> B. Nichols, D. Buttlar and J. Farrell. 
+<cite>Pthreads Programming.</cite>
+O'Reilly, 1996.
+<li>
+A. Oram and M. Loukides.
+<cite>Programming with GNU Software.</cite>
+O'Reilly, 1995.
+<li>
+B. Schneier
+<cite>Applied Cryptography (2nd Edition).</cite>
+Wiley, 1996.
+<li>
+A. Tanenbaum.
+<cite>Computer Networks (4th Edition).</cite>
+Prentice-Hall.
+</ul>
+
+<p>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="sun"><b>Solaris and Sun</b></a>
+</big><br>
+
+<p>
+Local copy of the <a href="dtrace_guide.pdf"><b>DTrace guide</b></a>
+<p>
+
+Local copy of the <a href="sparc_assembly.pdf"><b>SPARC V9 assembler guide</b></a>
+<p>
+
+
+Local copy of the <a href="SPARCV9.pdf"><b>SPARC V9 architecture book</b></a>
+
+<p>
+
+Local copy of the <a href="ultrasparcIIIi.pdf"><b>UltraSPARCIIIi manual</b></a>
+
+<p>
+
+
+
+Link to the <a href="http://cvs.opensolaris.org/source/"><b>OpenSolaris code browser</b></a>
+<p>
+
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>UNIX and Linux</b>
+</big><br>
+
+<p>
+
+Tools:
+<ul>
+<li> From your Linux account, you can access manual pages for most commands 
+and functions with the <tt>man</tt> command, e.g.
+<pre>
+    man getpid
+</pre>
+will tell you about the <tt>getpid( )</tt> system call.
+For an alternative interface, check out <tt>xman</tt>.
+<p>
+If you don't know what the command is, 
+<tt>man -k</tt>
+lets you look up manpages by keyword.  
+In the response, the numbers in parens indicate section
+numbers; use <tt>man -S</tt> to specify section.
+<li> Life is much easier if you use an editor that recognizes
+your syntax, and highlights and indents appropriately. 
+<p>
+I like 
+<tt>emacs</tt>.  (There are various X-enhanced versions around.)
+But your mileage may vary.
+</ul>
+<p>
+ Dartmouth CS has an <a href="http://www.cs.dartmouth.edu/unix/"><b>introduction to Unix</b></a> 
+site.
+<p>
+ ATT had an interesting site on the 
+<a href="http://www.bell-labs.com/history/unix/">
+<b>history of Unix.</b></a>  (But the whole site is down right now...)
+Another source:
+ <a href="http://www.princeton.edu/~mike/unixhistory"><b>an oral history
+of UNIX</b></a>
+<p>
+<hr>
+<p>
+<a href="http://palantir.swarthmore.edu/maxwell/classes/tutorials/maketutor/"><b>Here</b></a>
+is a useful site on makefiles.
+<p>
+<hr>
+
+<p>
+Bovet and Cesati's book (above)
+is a good introduction
+to the internal structure of Linux.
+<p>
+Stevens
+is a good desktop reference for heavy-duty systems programming.
+<p>
+Here is a site with
+<a href="http://lxr.linux.no/source/"><b>browsable Linux source</b></a>.
+If you want to know which one to look up...
+you can use <tt>uname -a</tt> to figure out the version and architecture
+running on a particular machine.
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>GNU Tools</b>
+</big><br>
+<p>
+
+<cite>Programming with GNU Software</cite> (above)
+is a good reference book, with a chapter
+on each of the major tools: <tt>gcc</tt>, <tt>gdb</tt>, etc.
+<p>
+
+On-line resources:
+<ul>
+<li> <a href="http://gcc.gnu.org/onlinedocs/gcc-4.0.3/gcc/"><b>gcc</b></a>
+<li> <a href="http://sources.redhat.com/gdb/current/onlinedocs/gdb.html"><b>gdb</b></a>
+<li> <a href="http://www.gnu.org/software/make/manual/make.html"><b>make</b></a>
+<li> <a href="http://www.gnu.org/software/libc/manual/"><b>glibc</b></a>
+</ul>
+<p>
+(See also
+<a href="http://www.cs.dartmouth.edu/~dwagn/cs58/tutorial/"><b>Dave Wagner's
+C/GDB tutorial</b></a>)
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Threads</b>
+</big><br>
+<p>
+
+<cite>Pthreads Programming</cite> (above)
+is an excellent guide to 
+to the POSIX threads package.
+<p>
+
+<a name="birrell">Andrew Birrell's</a>
+<cite>"An Introduction to Programming with
+  Threads"</cite> is a classic paper full of much good wisdom.
+<A HREF="/~cs58/resources/SRC-035.pdf"><b>pdf</b></A>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Security</b>
+</big><br>
+
+<p>
+A nice (and free) guide to cryptography:
+<a name="rsafaq">
+RSA Laboratories.
+<cite>Frequently Asked Questions about Today's Cryptography.</cite>
+Version 4.1. May 2000.  
+<a href="/~cs58/resources/rsalabs_faq41.pdf"><b>(pdf---with internal links)</b></a>
+</a>
+<p>
+<a href="http://catless.ncl.ac.uk/Risks/"><b>The Risks Digest</b></a>
+<p>  
+<a href="http://www.securityfocus.com/"><b>SecurityFocus</b></a>
+(where BugTraq comes from)
+<p>
+<a href="http://www.cert.org/"><b>CERT</b></a>
+(US gov't-funded security response center at CMU)
+<p>
+<a href="http://www.cs.dartmouth.edu/~sws/wazzu/"><b>my wazzu collection</b></a>
+
+<p>
+
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Misc</b>
+</big><br>
+<p>
+
+<a name="lampson">
+B. Lampson.</a>
+"Hints for Computer System Design."
+<cite>9th ACM Symposium on Operating Systems Principles.</cite>
+1983. <b><a href="/~cs58/resources/lampson.pdf">PDF</a></b>
+<p>
+
+<b><a href="/~cs58/resources/ascii.html">ASCII</a></b>
+<p>
+<A HREF="http://foldoc.doc.ic.ac.uk/foldoc/contents.html"><b>Brighton Computing Dictionary</b></a>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>C</b>
+</big><br>
+
+The Kernighan and Ritchie book is the standard desktop reference.
+<p>
+
+<a href="http://www-h.eng.cam.ac.uk/help/tpl/languages/C/teaching_C/"><b>Tim Love's guide</b></a>
+
+<p>
+<a href="http://www.cs.dartmouth.edu/~dwagn/cs58/tutorial/"><b>Dave's
+C/GDB tutorial</b></a>
+
+<p> 
+ 
+<hr> 
+<b> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
+
+<A HREF="/~cs108/"><b>Back to  CS108 Home Page</b></A>
+</b> 
+&nbsp;&nbsp;&nbsp; 
+<a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
+&nbsp;&nbsp;&nbsp; 
+&lt; <a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>&gt; 
+ 
+ 
+ 
+
+</body> </html>
+
+ike.<ñ

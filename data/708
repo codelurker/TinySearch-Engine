@@ -1,0 +1,479 @@
+http://www.cs.dartmouth.edu/~campbell/cs78/project.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>project</title>
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big>Computer Science 78<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: bold;">projects<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></big></big></big></big><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</big><big style="font-family: Helvetica,Arial,sans-serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></big>There are no lectures during the last two weeks of the course. <br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+<div style="text-align: left;">During that time you will be working in
+teams programming N810s. These are embedded Linux devices that have a
+bunch of wireless interfaces and sensors (GPS for example).<br>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+&nbsp; <img style="width: 311px; height: 253px;" alt="Nokia 810s" src="N810.jpg"><br>
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+This was last years project</span><span style="font-family: Times New Roman,Times,serif;"> description</span><span style="font-family: Times New Roman,Times,serif;"> (TBA) we may change this - we likely will. More on that <br>
+
+
+as we move along. </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;The Webpage for last year's project including resources, description can be found here.</span><br>
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+</span><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;">Important Project Description, Teams, and Milestones</big><span style="font-family: Times New Roman,Times,serif;"><font style="font-weight: bold;" size="+1"><big><span style="font-family: Helvetica,Arial,sans-serif;"></span></big></font><br>
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"></span>
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+</span><span style="font-family: Times New Roman,Times,serif;">
+
+
+Lecture 20</span><span style="font-family: Times New Roman,Times,serif;"> kickoffs the project by announding the project teams. <br>
+
+
+Also, we will release the project description at the end of class.<br>
+
+
+<br>
+
+Projects really get started when the last programming is handed in on Sunday May 17; we then<br>
+
+give a could of tuorials:<br>
+
+</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"><br>
+
+
+</span>Lecture 22 &nbsp; Monday</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">&nbsp;</span><span style="font-family: Times New Roman,Times,serif;">Project and tutorial I on N810s
+(Cory)</span><br>
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+Lecture &nbsp;23 &nbsp; Wednesday &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Project and tutorial II on
+N810s (Cory)</span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+</span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;">The
+following set of deadlines are important for the progress of the
+project. Please note that you need to provide documentation for the
+design/code reviews and the final project submission.<br>
+
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+Notice
+that we will use cvs for code management for the project. All code
+needs to be signed as part of the submission. In addition, the final
+report has to be written using latex and the source and a pdf submitted
+in the project cvs directory.<br>
+
+
+
+
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+<span style="font-weight: bold;"></span></span><span style="font-family: Times New Roman,Times,serif;">
+
+
+
+Project webpage including the description and resources found here.<br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+The
+following set of deadlines are important for the progress of the
+project. Please note that you need to provide documentation for the
+design and code reviews and the final project submission. <br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+Notice that we will use cvs for code management for the project. All
+code needs to be signed as part of the submission. In addition, the
+final report has to be written using latex and the source and a pdf
+submitted in the project cvs directory.<br>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">4-7 PM Friday May 22 design review</span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">.</span> The
+project review should include requirements, Design Spec
+(inputs/outputs, data flow, data structures, pseudo-code) and
+functional decomposition; How the project implementation breaks down
+who is doing what. The project review material is due 12 PM day before
+review Send tarball documentation to cs78@cs.dartmouth.edu<br>
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<span style="font-weight: bold;"></span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"> 4-7 PM Friday May 29 code review</span></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">. </span>The
+code review should include the Implementation Spec, unit tests and
+whatever code is written up until the review point. The code review
+material is due 12 PM day before review. Send tarball documentation and
+source tree to cs78@cs.dartmouth.edu<br>
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<span style="font-weight: bold;">4-7 PM Tuesday June 2 demo or die day</span>. Project presentation (design overview, lessons learnt, etc) and demo of project.<br>
+
+
+
+
+
+
+
+<span style="font-weight: bold;"><br>
+
+
+12 AM Wednesday June 3 project reports due</span>.
+The report written in latex includes description of the project, the
+Design Spec, functional decomposition of the system, Implementation
+Spec, lessons learnt. The appendix includes all code and unit tests.
+All materials should be signed into the teams cvs project page. The PDF
+of the project report should be sent to cs78@cs.dartmouth.edu<br>
+
+<br>
+
+</span><big style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+</big><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+</span><br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

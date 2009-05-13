@@ -1,0 +1,130 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/admindetails.html#honorcode
+3
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 33 (Spring 2009): Amit Chakrabarti: Administrative Details</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="index.html"> CS 33 Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 33<br>
+    Information Systems<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Spring 2009<h3></td>
+</tr></table>
+
+<hr>
+<h3>Administrative Details</h3> 
+
+<a name=hw></a>
+<h4>Homework</h4>
+
+<p> Homework assignments will be given out roughly once a week.
+Typically, there will be a homework given out each Monday and a deadline
+will be posted prominently at the top of the homework. This <b>deadline
+will usually be 10pm sharp</b> the following Monday, but please do not
+count on that. All homework is to be <b>submitted electronically</b>
+using the homework submission form on the course website. </p>
+
+A few important notes on the homework assignments:
+
+<ul>
+
+  <li> Start early. I cannot emphasize this enough.</li>
+
+  <li> On non-programming problems, where you simply have to write an
+  answer in English or mathematical notation, be concise. Needless long
+  or complex answer will lose credit, even if correct. </li>
+
+  <li> On programming problems, follow the input/output descriptions to
+  the letter. Your program's output may be checked by a script, and
+  scripts tend to be unforgiving of mistakes. </li>
+
+  <li> On programming problems, make sure your code is clean and
+  readable. Follow good programming practices: use layout well, name
+  variables meaningfully, and write explanatory comments whenever your
+  code seems to be getting complex. </li>
+
+</ul>
+
+<a name=late></a>
+<h4>Late Submission Policy</h4>
+
+<p> Homework submitted after the published deadline (found at the top of
+the homework) is deemed late and will incur a penalty as follows: it
+will be graded as usual, and your score will then be multiplied by a
+<b>penalty factor</b> PF(<i>x</i>), where <i>x</i> is the number of
+minutes by which the submission is late (rounded down to an integer). 
+</p>
+
+<p> The formula for this penalty factor is PF(<i>x</i>) = min{0.95,
+exp(-<i>x</i>/4320)}. Thus, the value of a late homework submission
+decays exponentially, with a half-life of just over two days, but with a
+minimum of a 5% penalty. Examples: work turned in five minutes late gets
+95% credit, one hour late gets 95% credit, six hours late gets 92.0%
+credit, one day late gets 71.7% credit, three days late gets 36.8%, and
+one week late gets 9.7%. </p>
+
+<a name=honorcode></a>
+<h4> Working Together and the Honor Principle </h4>
+
+<ul>
+
+<li> Students are encouraged to discuss homework problems, but such
+discussion must be limited to an exchange of ideas. <b>Under no
+circumstances must you give/receive any code (whether a complete program
+or just a code fragment) to/from another student.</b> Further, every
+piece of code you turn in must be entirely your work, with no portions
+copied from any external sources (such as websites, or books other than
+the textbook). </li>
+
+<li> It is acceptable to consult manuals, textbooks and websites for the
+sole purpose of learning some aspect(s) of a programming language. If
+you did so, please acknowledge the relevant sources in your submission.
+</li>
+
+<li> <b>Students may not consult the notes or homework solutions of
+another student or any solutions to homework problems in another course,
+including past offerings of this course.</b> </li>
+
+<li> Thus, what you turn in as a homework solution is to be <i>your own
+work, entirely</i>. </li>
+
+<li> The honor principle applies to quizzes and exams as follows.
+<b>Students may not give/receive assistance of any kind on an exam
+to/from any person, including the professor</b>. </li>
+
+<li> If an exam is closed-book, consulting any source at all is a
+violation of the honor code. </li>
+
+</ul>
+
+<h4> Students with Disabilities </h4>
+
+Students with disabilities enrolled in this course and who may need
+disability-related classroom accommodations are encouraged to make an
+appointment with the professor to discuss the matter, by Apr 17, 2009.
+All discussions will remain confidential, although the Student
+Accessibility Services office may be consulted to discuss appropriate
+implementation of any accommodation requested.
+
+<hr>
+
+<i> <div align=right>
+  <a href="index.html"> CS 33 Home</a>
+</div> </i>
+
+</body></html>

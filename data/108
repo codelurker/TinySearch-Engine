@@ -1,0 +1,58 @@
+http://www.cs.dartmouth.edu/~shu
+2
+<html>
+<title>
+Shaohan Hu's Homepage
+</title>
+<body>
+</pre>
+</body>
+</html>
+<table cellspacing="0" cellpadding="1" border="0"
+ bgcolor="black" id="shell" height="600" width="1000">
+<tr height="50"><td colspan="2" bgcolor="white">
+<table title="Banner" id="banner" border="0">
+<tr><td>
+<b><h1>Shaohan Hu</h1></b>
+<hr>
+</td></tr>
+</table>
+</td></tr>
+<tr height="200"><td bgcolor="white">
+<table id="navigation" title="Navigation" border="0">
+<tr><td>
+<pre>
+Contact:
+Email:
+	Firstname.Lastname AT Dartmouth.EDU
+Office:
+	Sudikoff 255	(603) 646-8728
+Mailing Addr:
+	Shaohan Hu
+	Dept. Computer Science
+	6211 Sudikoff Lab
+	Dartmouth College
+	Hanover NH 03755-3510
+	<hr>
+</pre>
+</td></tr>
+<tr><td>
+<pre>
+Education:
+Fall 2008 - Present:
+	PhD, <a href="http://www.cs.dartmouth.edu/">Computer Science</a>
+	<a href="http://www.dartmouth.edu/">Dartmouth College</a>
+Fall 2004 - Summer 2008:
+	Magna Cum Laude, BS, <a href="http://www.cs.umass.edu/">Computer Science</a>
+	Magna Cum Laude, BS, <a href="http://www.math.umass.edu/">Mathematics</a>
+	<a href="http://www.umass.edu/">University of Massachusetts - Amherst</a>
+</pre>
+</td></tr>
+</table>
+</td><td bgcolor="white">
+<table title="Content" id="content" border="0">
+<tr><td>
+<APPLET CODE="dtmgame/Particles.class" WIDTH="500" HEIGHT="500"> </APPLET>
+</td></tr>
+</table>
+</td></tr></table>

@@ -1,0 +1,105 @@
+http://www.cs.dartmouth.edu/~thc/CLRS3e
+3
+<html> <head>
+<title>Introduction to Algorithms, third edition</title>
+</head>
+
+<body>
+<h1>Introduction to Algorithms, third edition</h1>
+
+<p>
+
+<center>
+<img src="CLRS3e-cover.jpg">
+</center>
+
+<p>
+
+<h2>When?</h2>
+
+The third edition of <i>Introduction to Algorithms</i> has a projected
+publication date of September 2009.
+
+<h2>Who?</h2>
+
+The authors are the same as in the second edition: Tom Cormen, Charles
+Leiserson, Ron Rivest, and Cliff Stein.
+
+<p>
+
+The third edition will be published only by The MIT Press.
+
+<h2>How big?</h2>
+
+The third edition weighs in at 1312 pages, including all front and
+back matter.
+
+<h2>What changed?</h2>
+
+A partial list of changes for the third edition:
+
+<ul>
+  <li> Two new chapters: van Emde Boas Trees and Multithreaded Algorithms.
+  <li> Material on matrix basics becomes a new appendix chapter.
+  <li> New chapter on divide-and-conquer includes material on solving
+       recurrences and applications of divide-and-conquer (including
+       Strassen's algorithm).
+  <li> Removed two rarely taught chapters: Binomial Heaps and Sorting
+       Networks.  The 0-1 principle persists in the third edition as
+       part of a new problem.  The treatment of Fibonacci heaps no longer
+       relies on binomial heaps as a precursor.
+  <li> Revised treatment of dynamic programming and greedy algorithms.
+       Dynamic programming starts with a more interesting problem, rod
+       cutting, than the assembly-line scheduling problem from the second
+       edition.  We emphasize memoization more than in the second edition.
+       The activity-selection problem in the chapter on greedy algorithms
+       gets to the greedy algorithm more directly than in the second
+       edition.
+  <li> The node actually deleted from a binary search tree or red-black
+       tree is always the node passed to the deletion procedure.  (In the
+       first two editions, sometimes a different node is deleted.)  With
+       the new way to delete nodes, pointers to nodes in a binary search
+       tree or red-black tree won't mistakenly reference deleted nodes.
+  <li> The material on flow networks bases flows entirely on edges.
+  <li> Modified treatment of the Knuth-Morris-Pratt string-matching
+       algorithm.
+  <li> Many errors corrected.
+  <li> Changes to pseudocode syntax: "=" indicates assignment, "=="
+       tests for equality, eliminated keywords <b>do</b> and
+       <b>then</b>, "<b>//</b>" is comment-to-end-of-line symbol, and
+       dot-notation indicates object attributes.
+  <li> Added 100 new exercises and 28 new problems.
+  <li> Many sentences, paragraphs, and sections rewritten to make the
+       writing clearer and more active.
+</ul>
+
+<h2>How much?</h2>
+
+The list price from MIT Press is $87.00 for cloth cover and $64.00 for
+paperback (not for sale in the U.S. or Canada).
+
+<h2>Instructor's manual?</h2>
+
+We expect to produce one.
+
+<h2>Web site?</h2>
+
+We will have a web site for the third edition.  Among other content,
+it will provide solutions to some (but certainly not all) of the
+exercises and problems.
+
+<h2>Geeky professor jokes?</h2>
+
+Of course.  And we made sure to include more women among the
+professors.  (Joyce Kilmer almost tripped us up.)
+
+<h2>Official website?</h2>
+
+For now, use <a href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11866">this one</a>.
+
+<hr>
+<address><a href="http://www.cs.dartmouth.edu/~thc/">Thomas H. Cormen &lt;thc@cs.dartmouth.edu&gt;</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 31 19:05:53 2009
+<!-- hhmts end -->
+</body> </html>

@@ -1,0 +1,156 @@
+http://www.cs.dartmouth.edu/~cs8/W2009
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Exam dates, times, and locations -->
+
+
+
+
+
+
+
+<!-- E-Mail address for the TA handling new Unix accounts -->
+
+
+
+<html>
+<head>
+  <title>COSC 8 Winter 2009 Home Page</title>
+  <link rel="stylesheet" type="text/css" href="cs8.css">
+  <link rel="shortcut icon" href="img/lambda.ico">
+</head>
+<body>
+
+
+<table class="index" style="width: 100%">
+<tr>
+  <td colspan="4" align="center">
+    <img src="img/main-title.png" width="503" height="160"
+         alt="COSC 8--Problem Solving with Computer Science">
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="announce.shtml">
+    <img src="img/announce.png" width="64" height="64"
+         alt="Announcements"></a>
+  </td>
+  <td>
+    <h1><a href="announce.shtml">
+    Announcements</a></h1>
+    <p>Last updated:
+    10-January-2009</p>
+  </td>
+  <td>
+    <a href="materials.shtml">
+    <img src="img/materials.png" width="64" height="64"
+         alt="Course materials"></a>
+  </td>
+  <td>
+    <h1><a href="materials.shtml">
+    Course Materials</a></h1>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="info.shtml">
+    <img src="img/info.png" width="64" height="64"
+         alt="Course information"></a>
+  </td>
+  <td>
+    <h1><a href="info.shtml">
+    Course Information</a></h1>
+  </td>
+  <td>
+    <a href="software.shtml">
+    <img src="img/lambda.png" width="64" height="64"
+         alt="Course software"></a>
+  </td>
+  <td>
+    <h1><a href="software.shtml">
+    Course Software</a></h1>
+  </td>
+</tr>
+</table>
+<hr>
+<p class="pageinfo">
+  <a href="http://www.cs.dartmouth.edu/">
+  Department of Computer Science</a>,
+  <a href="http://www.dartmouth.edu/">
+  Dartmouth College</a>,
+  Hanover, New Hampshire, USA
+</p>
+<p class="updated">
+  
+  Last modified: 27-December-2008
+</p>
+
+
+</body>
+</html>
+lici

@@ -1,0 +1,199 @@
+http://www.cs.dartmouth.edu/~cs58/work
+3
+<html> <head>
+<title>CS58: Coursework</title>
+</head>
+ 
+<body>
+
+
+<h2> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
+
+Coursework
+<br> 
+ CS58, Operating Systems, Fall 2008
+</h2> 
+<i> www.cs.dartmouth.edu/~cs58/work/index.shtml</i> 
+ &nbsp;&nbsp;&nbsp; 
+ 
+<i> Last modified: Saturday, 06-Sep-2008 15:45:23 EDT</i> 
+ 
+<hr> 
+ 
+<p> 
+ 
+<p>
+
+
+The best way to understand what operating systems <i>do</i>
+is to roll up your sleeves, get your hands dirty, and work with one.
+<p>
+Consequently, we will emphasize
+programming projects:
+working on top of operating systems...and then building your own.
+<p>
+We will also have some more traditional homework
+assignments; but the main learning tool is the programming.
+
+<p>
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<a name="programming"><b>Homework and Programming Projects</b></a>
+</big><br>
+
+<p>
+In this course, we'll be doing some small programming projects
+that work with operating systems concepts---processes, threads,
+synchronization---from the <i>outside</i>.
+We'll also do regular homework, that will consist of 
+"thought" problems, on paper.
+<p>
+But then we'll do a large project
+from the <i>inside</i>:  where we build an entire
+operating system for a simulated machine.
+<p>
+This is going to be cool.  Everything comes together, and you 
+get that amazing feeling where it all suddenly makes sense.
+<p>
+
+<hr>
+<h4>A Word of Caution</h4>
+
+Systems programming is complex.
+(Why do you think Windows crashes so often?)
+<p>
+Unlike a basic programming class,
+this is not the sort of thing where you can run three test
+cases and get full marks.
+To prepare you for the real world, we will
+be doing more exhaustive testing,
+as well as continuing to 
+stress 
+things like cleanliness of design and clarity of code.
+<p>
+But the end result will be:
+you'll be a more highly skilled software engineer,
+ready for advanced work and the real world.
+
+<hr>
+<h4>Alone and Together</h4>
+
+You will do the initial programming assigments alone, so
+everyone comes up to speed.
+<p>
+However, you'll do the big project in a team of three.
+So, when you're doing the initial ones alone, think about
+finding good team members.  Be sure to consider mundane criteria such as
+who spends time in the lab the same time you do.
+
+<hr>
+<h4>OS Tool</h4>
+
+For the big OS project, 
+we will use the <cite>Yalnix</cite> tool.
+(The name is a Texas pun on "Unix.")  
+<P>
+Yalnix consists of:
+<ul>
+<li> a support library and build environment that 
+lets you write kernel-level code for a simulated machine,
+but it run it all (with relatively good performance) as a user-level
+process on an 005 Linux machine
+<li> specifications for an operating system 
+that you will write for this simulated machine
+</ul>
+
+<hr>
+<h4>Why Yalnix?</h4>
+For many years, this course had used the Nachos instructional tool
+from Berkeley.  However, many students found it a bit unwieldy.
+So... I looked into alternatives, and discovered Yalnix,
+origininally developed by Dave Johnson, and used at CMU, Rice, Utah,
+and Chicago.  Throughout the Internet,
+students  gave Nachos mixed reviews; but students who had used Yalnix
+were uniformly positive.
+<p>
+In the summer of 2001,
+with help from Dave Johnson and Evan Knop '01,
+I ported Yalnix (written for Solaris/SPARC) to
+run on Linux/x86.
+John Konkle and Tim Tregubov then
+helped upgrade the Sudikoff machines so that they could run it.
+<p>
+
+<hr>
+<h4>Language</h4> 
+This course will use the C programming language.  This is for two
+main reasons:
+<ul>
+<li> C is still one of the dominant languages for OS construction.
+E.g., you'll need to be able to work with C, if you want to read
+and add to the Linux kernel.
+<li> As a high-level language that does very little magic
+"under the covers," C is appropriate for a course whose purpose
+is shedding light on what happens under those covers.
+</ul>
+<p>
+If you need help getting used to 
+C,  <tt>malloc</tt> and <tt>free</tt>,
+we might be running a help session early in the course.
+
+<hr>
+<p> 
+ 
+<big><IMG ALIGN="bottom" SRC="http://www.cs.dartmouth.edu/images/greenball.gif" ALT="">  
+
+<b>Grading</b>
+</big><br>
+<p>
+Here's what I'm thinking:
+<ul>
+<li> small programming projects and Yalnix checkpoints: 20%
+<li> the Yalnix project: 30%
+<li> final exam: 30%
+<li> midterm:   20%
+</ul>
+(This is subject to change.)
+<p>
+<strong>Note again: this is subject to change.  At my discretion, I may accord a significant chunk of credit to class participation: showing up most of the time.</strong>
+
+<p>
+Historically, I've tended to give exams and major projects
+where:
+<ul>
+<li> It's very difficult to score 90%
+<li> but the median grade ends up a B+.  Or maybe even higher.
+</ul>
+<p>
+In other words: I'm going to try to make this challenging enough
+so you grow your mind...  but don't worry about the grade;
+work hard and have fun with the material!  
+<p>
+<strong>You're going to build an operating system.
+Seeing all perspectives, you're going to understand operating systems.
+It's all going to come together.</strong>
+
+
+
+<p> 
+ 
+<hr> 
+<b> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
+
+<A HREF="/~cs58/"><b>Back to CS58 Home Page</b></A>
+</b> 
+&nbsp;&nbsp;&nbsp; 
+<a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
+&nbsp;&nbsp;&nbsp; 
+&lt; <a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>&gt; 
+ 
+ 
+ 
+
+</body> </html>

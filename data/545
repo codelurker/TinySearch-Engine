@@ -1,0 +1,137 @@
+http://www.cs.dartmouth.edu/~farid/research/tampering.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Digital Forensics & Tampering </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top > 
+<b> Digital Forensics & Tampering</b>
+<BR>
+<p>
+We are <a href="digitaltampering">living in a world</a> where seeing
+(or hearing) is no longer believing. The technology that allows for
+digital media to be manipulated and distorted is developing at
+break-neck speeds. And at the same time, our understanding of the
+technological, ethical, and legal implications is lagging behind.  We
+are, therefore, developing mathematical and computational algorithms
+to detect tampering in digital media (in the absence of any type of
+digital watermark or signature). To do so, we quantify statistical
+correlations that result from specific forms of digital tampering, and
+devise detection schemes to reveal these correlations.
+</td>
+
+<td> &nbsp&nbsp </td>
+
+<!--<td valign=top> <IMG SRC="brad_cher.jpg" width=393 height=256> </td>-->
+<td valign=top> 
+<A onmouseover='ducks.src="police_ducks2.jpg"' onmouseout='ducks.src="police_ducks.jpg"'><IMG NAME="ducks" SRC="police_ducks.jpg" width=400 height=267> </A> 
+<BR>
+<div align=center>
+<i><font size=-1> The rendered spheres in the overlay reveal lighting differences.</font> </i>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan=3>
+<BR>
+In related work, we have developed techniques to differentiate between
+<a href="cgorphoto.html">photographic and photorealistic</a> images,
+and to detect the presence of <a href="steganography.html">hidden
+messages</a> embedded within digital images.
+
+<BR><BR>
+
+<i>(Collaborative work with 
+<a href="http://www.mit.edu/~kimo"> Kimo Johnson</a>, 
+<a href="http://www.cs.dartmouth.edu/~erickee"> Eric Kee</a>, 
+Alin Popescu, 
+<a href="http://www.cs.dartmouth.edu/~whwang">Weihong Wang</a>, and
+Jeff Woodward)</i>
+
+<BR><BR>
+
+<b>Contact me at <a href=http://hanyfarid.org/maat/>Ma'at Consulting</a> for more
+information about our consulting services.</b> <BR><BR>
+</td>
+</tr>
+
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+
+<td nowrap width=500 valign=top><font size=-1><i>
+<b>Image:</b>
+<ol>
+  <li> A Survey of Image Forgery Detection <a href="../publications/spm09.html">(spm09)</a><BR>
+  <li> Exposing Digital Forgeries from JPEG Ghosts <a href="../publications/tifs09.html">(tifs09)</a><BR>
+  <li> Photo Fakery and Forensics <a href="../publications/advcomp09.html">(advcomp09)</a><BR>
+  <li> Digital Doctoring: can we trust photographs? <a href="../publications/deception09.html">(deception09)</a><BR>
+  <li> Digital Image Ballistics from JPEG Quantization: A Followup Study <a href="../publications/tr08.html">(tr08)</a><BR>
+  <li> Digital Image Forensics <a href="../publications/sciam08.html">(sciam08)</a><BR>
+  <li> Photography Changes What We Are Willing To Believe <a href="../publications/click08.html">(click08)</a> <BR>
+  <li> Digital Image Forensics <a href="../publications/aafs08a.html">(aafs08a)</a> <BR>
+  <li> Lighting and Optical Tools for Image Forensics  <a href="../publications/mkjthesis07.html">(thesis07)</a> <BR>
+  <li> Detecting Photographic Composites of People <a href="../publications/iwdw07.html">(iwdw07)</a><BR>
+  <li> Exposing Digital Forgeries in Complex Lighting Environments <a href="../publications/tifs07a.html">(tifs07)</a><BR>
+  <li> Exposing Digital Forgeries Through Specular Highlights on the Eye <a href="../publications/ih07.html">(ih07)</a><BR>
+  <li> Digital Image Ballistics from JPEG Quantization <a href="../publications/tr06a.html">(tr06a)</a><BR>
+  <li> Digital Doctoring: How to tell the real from the fake <a href="../publications/significance06.html">(significance06)</a><BR>
+  <li> Metric Measurements on a Plane from a Single Image <a href="../publications/tr06.html">(tr06)</a><BR>
+  <li>Exposing Digital Forgeries in Scientific Images <a href="../publications/acm06a.html">(acm06a)</a> <BR>
+  <li>Exposing Digital Forgeries Through Chromatic Aberration <a href="../publications/acm06c.html">(acm06c)</a> <BR>
+  <li>Exposing Digital Forgeries by Detecting Inconsistencies in Lighting <a href="../publications/acm05.html">(acm05)</a> <BR>
+  <li>Statistical Tools for Digital Image Forensics <a href="../publications/apthesis05.html">(thesis05)</a> <BR>
+  <li>Exposing Digital Forgeries in Color Filter Array Interpolated Images <a href="../publications/sp05a.html">(sp05a)</a> <BR>
+  <li>Exposing Digital Forgeries by Detecting Traces of Re-sampling <a href="../publications/sp05.html">(sp05)</a> <BR>
+  <li>Exposing Digital Forgeries by Detecting Duplicated Image Regions <a href="../publications/tr04.html">(tr04)</a> <BR>
+  <li>Statistical Tools for Digital Forensics <a href="../publications/ih04.html">(ih04)</a> <BR>
+  <li>A Picture Tells a Thousand Lies <a href="../publications/ns03.html">(ns03)</a> <BR>
+  <li>Detecting Digital Forgeries Using Bispectral Analysis <a href="../publications/tr99.html">(tr99)</a> <BR>
+  <li> Digital Forensics Lecture at NIST in 2008 (<a href="../talks/FaridNist08_high.mov">high-res</a> | <a href="../talks/FaridNist08_med.mov">med-res</a> )
+  <li><a href="../publications/publications.html#seeingpress">Popular Press</a>
+</ol>
+
+<b>Video:</b>
+<ol>
+  <li> Detecting Re-Projected Video <a href="../publications/ih08.html">(ih08)</a> <BR>
+  <li> Digital Video Forensics <a href="../publications/aafs08b.html">(aafs08b)</a> <BR>
+  <li> Video Stabilization and Enhancement <a href="../publications/tr07.html">(tr07)</a><BR>
+  <li>Exposing Digital Forgeries in Video by Detecting Duplication <a href="../publications/acm07.html">(acm07)</a> <BR>
+  <li> Exposing Digital Forgeries in Interlaced and De-Interlaced Video <a href="../publications/tifs07.html">(tifs07)</a> <BR>
+  <li>Exposing Digital Forgeries in Video by Detecting Double MPEG Compression <a href="../publications/acm06b.html">(acm06b)</a> <BR>
+  <li><a href="../publications/publications.html#seeingpress">Popular Press</a></ol>
+
+<b>Printer:</b>
+<ol>
+  <li> Printer Profiling for Forensics and Ballistics <a href="../publications/acm08.html">(acm08)</a> <BR>
+</ol>
+
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+
+</html>
+
+

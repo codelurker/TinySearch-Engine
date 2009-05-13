@@ -1,0 +1,74 @@
+http://www.cs.dartmouth.edu/~csrs/index.html
+3
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Computer Science Research Symposium '08</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<img src="banner.jpg">
+<br>
+<br>
+<br>
+
+<table style="text-align: left;" width=85%>
+
+<tr>
+<td width=10%></td>
+<td valign="top">
+<table class="navbar">
+<tr><td><a href="index.html">Home</a></td></tr>
+<tr><td><a href="schedule.html">Program</a></td></tr>
+<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
+<tr><td><a href="history.html">History</a></td></tr>
+<tr><td><a href="faq.html">FAQ</a></td></tr>
+<tr><td><a href="contact.html">Contact Us</a></td></tr>
+</table>
+</td>
+
+<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
+
+<td>
+<table class="inner"><tr><td>
+
+The Dartmouth Computer Science Research Symposium is an annual exhibition
+of the research being conducted in the field of Computer Science here
+at Dartmouth. It not only provides a means of communicating research
+interests and goals to fellow department members, but to the greater
+Dartmouth community as well. Students and faculty are given an opportunity
+to present their research either in the form of a presentation, in a 
+comprehensive poster session, or in the form of working demonstrations. 
+CSRS serves to strengthen the solidarity of our department, provide critical
+presentation experience, and widen perspectives of Computer Science
+among both students and faculty.
+<p>
+
+Every year the symposium features a keynote talk given by a distinguished member of the
+field from outside Dartmouth College. This year we will be honored to have
+Sandy Pentland, a pioneer in the field of social
+engineering and mobile systems as our keynote speaker for this
+event. More information on Sandy and his research can be found on his homepage <a href="http://www.media.mit.edu/~sandy/">here</a>. The abstract for Sandy's talk in CSRS is <a href="schedule.html#sandy">here</a>.
+
+<p>
+
+<font style="font-size:1.2em;">Updates:</font>
+<ul>
+<li>Note the change in venue! The symposium is now at Rockefeller Center, Room 003. To see how to get there, check out the <a href="faq.html#whenandwhere">FAQ page</a>.
+<li>We now have <a href="pandd.html">working demos</a> as part of CSRS! If you're working on something cool and can demonstrate a working model, <a href="mailto:csrs@cs.dartmouth.edu">mail us</a>!
+<li>The program is up. If you haven't sent in your talk/poster title and abstract, please do so.
+<li>We're still accepting entries for the poster session. For poster submission guidelines, <a href="poster.html">click here</a>.
+</ul>
+
+
+</tr></td></table>
+
+
+
+</td>
+</tr>
+</table>
+
+</body></html>

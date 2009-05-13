@@ -1,0 +1,58 @@
+http://www.cs.dartmouth.edu/~cs25/syllabus.html
+3
+<html> <head>
+<title>Topics covered in Computer Science 25, Fall 2008</title>
+</head>
+
+<body bgcolor=#ffffff>
+<h1><a href="/~cs25/">CS 25 Fall 2008 </a><br>
+Topics covered in CS 25</h1>
+
+<p>
+
+In the following, "CLRS" indicates readings from 
+<i>Introduction to Algorithms</i>,
+Second edition, by Cormen, Leiserson, Rivest, and Stein.
+
+<p>
+
+<hr>
+
+<p>
+
+<dl>
+  <dd> Motivating Algorithms
+  <dd> Review of asymptotic notation and recurrences
+       (CLRS: <em>Skim</em> Chapters 1-5, Appendices A-C.  
+       You can ignore starred sections.)
+  <dd> Lower bounds for sorting, counting sort, radix sort (CLRS: Sections 8.1-8.3)
+  <dd> Median finding (CLRS: Chapter 9)
+  <dd> Review of red-black trees  (CLRS: Chapters 12 and 13)
+  <dd> Augmenting data structures  (CLRS: Chapter 14)
+  <dd> Dynamic programming  (CLRS: Chapter 15)
+  <dd> Greedy algorithms  (CLRS: Sections 16.1-16.3)
+  <dd> Amortized analysis: aggregate analysis, accounting method, potential method, dynamic tables.
+       (CLRS: Chapter 17)
+  <dd> Disjoint set data structure  (CLRS: Sections 21.1-21.3, 22.1)
+  <dd> Graph representation;  Breadth-first search; depth-first search; topological sort;
+       strongly connected components  (CLRS: Chapter 22)
+  <dd> Minimum spanning trees  (CLRS: Chapter 23)
+  <dd> Single-source shortest paths: Bellman-Ford, dag, Dijkstra's algorithm, difference constraints
+       (CLRS: Chapter 24)
+  <dd> All-pairs shortest paths: matrix multiplication, Floyd-Warshall algorithm.
+       (CLRS: Chapter 25)
+  <dd> Network flow: Ford-Fulkerson, Edmonds-Karp, bipartite matching
+       (CLRS: Sections 26.1-26.3)
+</dl>
+
+
+<hr>
+
+<p>
+
+<a href="/~cs25/">Back to CS 25 home page</a>
+
+<!-- hhmts start -->
+Last modified: Wednesday, September 24, 2008
+<!-- hhmts end -->
+</body> </html>

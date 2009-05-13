@@ -1,0 +1,207 @@
+http://www.cs.dartmouth.edu/~fabio/teaching.html
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content="HTML Tidy for Mac OS X (vers 2 April 2007), see www.w3.org" />
+
+  <title>Fabio Pellacini&#39;s Homepage</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+  <table class="header">
+  <tr>
+    <td class="img">
+    <img src="photo-small.jpg" alt="" />
+    </td>
+
+    <td class="headercontent">
+    <div class="headercontent">
+      <h1>Fabio Pellacini</h1>
+      
+      <div class="affiliation">
+        <h2>Assistant Professor</h2>
+        <h3>Computer Science, Dartmouth College</h3>
+      </div>
+      
+      <div class="contact">
+        <p>6211 Sudikoff Lab, Hanover, NH 03755</p>
+        <p>tel: (603) 646 - 8710 | fax: (603) 646 - 1672</p>
+        <p>fabio -at- cs -dot- dartmouth -dot- edu</p>
+      </div>
+    </div>
+    </td>
+
+    <td class="hnav">
+    <div class="hnav">
+      <h2 class="navitem"><a href="index.html">about</a></h2>
+      <h2 class="navitem"><a href="research.html">research</a></h2>
+      <h2 class="navitem"><a href="publications.html">publications</a></h2>
+      <h2 class="navitem" id="navitemcurrent"><a href="teaching.html" id="navitemcurrent">teaching</a></h2>
+      <h2 class="navitem"><a href="cv.pdf">cv</a></h2>
+    </div>
+    </td>
+  </tr>
+  </table>
+
+  <div class="content">
+  	<div class="contentblock">
+    	<h2>Digital Art Minor @ Dartmouth</h2>
+
+    	<div class="textblock">
+      	<p>My current teaching efforts are focused on various courses included in a recently approved <a href=
+      	"http://www.cs.dartmouth.edu/DigitalArts/index.html">Digital Arts Minor</a> I co-developed at Dartmouth. The
+      	overall goal of the minor is to introduce students to the conceptual, technical and aesthetics principles of
+      	digital art in a multidisciplinary setting for students coming from humanities and sciences backgrounds
+      	alike.</p>
+    	</div>
+    </div>
+
+  	<div class="contentblock">
+		<h2>Courses @ Dartmouth</h2>
+	
+		<table class="itemblock">
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-cg.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Computer Graphics</h3>
+	
+			  <p class="teachitemsubtitle"><a href="teaching/cs52-winter08">winter 2008</a> | <a href=
+			  "teaching/cs52-fall06">fall 2006</a> | <a href="teaching/cs43-fall05">fall 2005</a></p>
+	
+			  <p class="teachitemtext">The Computer Graphics course introduces students to the mathematical foundations of
+			  modeling and rendering three-dimensional scenes. Topics include digital image representation, geometrical
+			  transformations, curves and surfaces, illumination and shading models, and visible surface algorithms.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-ticg.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Topics in Computer Graphics</h3>
+	
+			  <p class="teachitemsubtitle"><a href="teaching/cs82-winter08">winter 2008</a> | <a href=
+			  "teaching/cs88-spring06">spring 2006</a></p>
+	
+			  <p class="teachitemtext">The Topics in Computer Graphics course covers current research topics in Computer
+			  Graphics, with a particular focus on real-time rendering algorithms and computational photography.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-pida.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Projects in Digital Art</h3>
+	
+			  <p class="teachitemsubtitle"><a href="teaching/cs42-spring07">spring 2007</a> | <a href=
+			  "teaching/cs42-spring08">spring 2008</a></p>
+	
+			  <p class="teachitemtext">The Projects in Digital Art course will cover advanced topics in the production of
+			  movies and interactive games. Students are expected to complete group projects on topics including computer
+			  animations, interactive graphics, digital photography, by either using existing software or developing their
+			  own.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-cic.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Concepts in Computing</h3>
+	
+			  <p class="teachitemsubtitle"><a href="teaching/cs4-winter07">winter 2007</a></p>
+	
+			  <p class="teachitemtext">This course provides an overview of some of the most interesting topics in computing
+			  and computer science, from how the World-Wide Web works all the way down to how a computer processes inpidual
+			  ones and zeros.</p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+
+	<div class="contentblock">
+		<h2>Courses @ Cornell</h2>
+	
+		<table class="itemblock">
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-ca.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Computer Animation</h3>
+	
+			  <p class="teachitemsubtitle"><a href="teaching/cs88-spring06">fall 04</a></p>
+	
+			  <p class="teachitemtext">The Computer Animation course introduces students to the concepts and aesthetics of
+			  image synthesis, including modeling shapes, materials and lights and animating characters. With D.
+			  Greenberg.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-aca.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Advanced Computer Animation</h3>
+	
+			  <p class="teachitemsubtitle"><a href="teaching/cs88-spring06">spring 05</a></p>
+	
+			  <p class="teachitemtext">The Advanced Computer Animation course covers advanced topics in the production of
+			  computer animated movies, including production pipelines, special effects and simulation. With D.
+			  Greenberg.</p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+
+	<div class="contentblock">
+		<h2>Courses @ SIGGRAPH</h2>
+	
+		<table class="itemblock">
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-gpu08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Beyond Programmable Shading: In Action</h3>
+	
+			  <p class="teachitemsubtitle"><a href="http://www.siggraph.org/s2008/attendees/program/item/?type=class&id=57">siggraph 2008</a> (<a href=
+			  "http://s08.idav.ucdavis.edu/">notes</a>)</p>
+	
+			  <p class="teachitemtext">This class explores case studies of combining traditional rendering API usage with 
+			  advanced parallel computation demonstrating that there are strong indications that the future of interactive 
+			  graphics programming is a more flexible model 
+			  than today's OpenGL/Direct3D pipelines. With A. Lefohn, M. Houston, D. Luebke, J. Olick, M. Pharr.</p>
+			</td>
+		  </tr>
+		
+		  <tr class="teachitem">
+			<td class="itemnote"><img src="icons/courses-gpu06.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>GPU Shading and Rendering</h3>
+	
+			  <p class="teachitemsubtitle"><a href="http://www.siggraph.org/s2006/main.php?f=conference&p=courses&s=3">siggraph 2006</a> (<a href=
+			  "http://www.csee.umbc.edu/~olano/s2006c03/">notes</a>)</p>
+	
+			  <p class="teachitemtext">Programmable graphics hardware has found its way into almost every PC and game
+			  console sold today. This course features the latest exciting developments in shading hardware, a practical
+			  comparison of shading languages, and a glimpse of hardware shading returning to its production rendering
+			  roots. With M. Olano, D. Blythe, L. Gritz, M. McCool, T. Scheuermann.</p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+  </div>
+
+<!-- google analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script>
+<script type="text/javascript"> _uacct = "UA-787336-1"; urchinTracker(); </script>
+
+</body>
+</html>
+á

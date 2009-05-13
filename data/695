@@ -1,0 +1,111 @@
+http://www.cs.dartmouth.edu/~afra/courses/cs44/winter08
+3
+<html>
+<head>
+<title>CS 44 - Artificial Intelligence</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+
+<hr align="center" noshade="noshade">
+
+<!-- ----- One row top level table  ----- -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+
+<!-- ----- Left-hand side navbar ----- -->
+<td width="200" align="right">
+<font size = "+1" align=right>
+CS 44 &ndash; Winter 2008<br><br>
+Artificial<br>
+Intelligence<br>
+</font>
+<br><br>
+<br>
+<br>
+<br>
+<b>Announcements</b><br>
+<a href="admin.html">Administrivia</a><br>
+<a href="schedule.html">Schedule</a><br>
+<a href="project.html">Project</a><br>
+<a href="resources.html">Resources</a><br>
+<a href="glookup.html">View Grades</a><br>
+<br><br><br><br>
+</td>
+
+<!-- ----- Interior left margin ----- -->
+<td width="25">&nbsp;</td> 
+
+<!-- ----- Page body ----- -->
+<td>
+<h3>Announcements</h3> 
+<p>
+<h4>What's New <img src = "images/new.gif" alight = left> </h4>
+
+<ul>
+<li> &empty;
+</ul>
+
+<h4>What's Old  <img src = "images/old.gif" alight = left> </h4>
+<ul>
+<li> (03/16/08) The Project and Class Participation grades are now posted.
+<li> (03/03/08) We will have a guest lecture today by 
+  <a href = "http://www.dartmouth.edu/~rhg/">Prof. Richard Granger</a>, 
+  Director of
+  <a href = "http://www.dartmouth.edu/~neukom/">The Neukom Institute for Computational Science</a>.
+<li> (02/27/08) Project Milestone 2 is next Wednesday, March 5!  Get those projects going.
+<li> (02/22/08) Class is canceled for Monday, February 25.  The final project proposals are due on Tuesday, February 26.  Start early!
+<li> (02/12/08) Next Tuesday, February 19, is
+<a href = "http://www.math.dartmouth.edu/~puzzles/">Mathematical Puzzles Day</a> at Dartmouth.  It should be a lot of fun.  You should preregister!
+<li> (02/16/08) I changed the extensions for the Prolog files to ".txt" so you can download them without server issues.  You have to change the extensions to ".pl" afterwards.
+<li> (02/15/08) Today's 
+<a href = "http://engineering.dartmouth.edu/news-events/lecture-series/jones/2008/LukeTheogarajan.html">Jones Lecture</a>
+is by Luke Theogarajan from MIT who will speak about retinal prosthesis:  fully implantable stimulator chips for seeing. 
+<li> (02/07/08) The website thinks that a Prolog extension file is a perl file.  So, you need to right-click to download them.  You should not
+just left-click as the server gives you an error.
+<li> (02/11/08) The <b>Midterm</b> will be tonight, from 7 &ndash 9 PM, in our regular classroom (Kemeny 006).
+<li> (01/30/08) The <b>Midterm</b> will be on Monday, February 11, from 7 &ndash 9 PM, in our regular classroom (Kemeny 006).
+<li> (01/28/08) The Midterm will be on Monday, February 11, from 7 &ndash; 9 PM
+<li> (01/22/08) Microsoft is coming to campus:  [1/30 &ndash; 6:00-7:30 PM &ndash; Moore B03].  Prepare your r&eacute;sum&eacute;s! 
+<li> (01/22/08) We have an x-hour this Thursday.
+<li> (01/22/08) Assignment One is due Wednesday!
+<li> (01/18/08) We will have an x-hour next Thursday.
+<li> (01/18/08) Next Monday is the MLK holiday, so we will not have class. 
+<li> (01/18/08) 
+<a href = "http://engineering.dartmouth.edu/faculty/regular/eugenesantos.html">Prof. Eugene Santos Jr.</a> is giving the 
+<a href = "http://engineering.dartmouth.edu/news-events/lecture-series/jones/2008/EugeneSantos.html">Jones Seminar</a> today at 3:30 PM.
+on engineering human factors into intelligent systems.  
+<li> (01/14/08) Assignment 1 is now available on the 
+<a href = "schedule.html">Schedule</a>.  
+It is due January 23 at 1:45 PM.
+You may pick up a hardcopy from the CS 44 box outside of 
+Sudikoff 115.
+<li> (01/09/08) Lecture 1 Slides are now online on the 
+<a href = "schedule.html">Schedule</a>.  
+<li> (01/09/08) Turing's article, "Computing Machinery and Intelligence", is now on the 
+<a href = "schedule.html">Schedule</a>.  
+</ul>
+</td>
+
+<!-- ----- Right-hand margin ----- -->
+<td width="25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<hr align="center" noshade="noshade">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+<tr><td>
+<img src="images/Dshield.png" align="left" height="45">
+<img src="images/Dtree.gif" align="left" height="45">
+<a href="http://www.cs.dartmouth.edu/">Computer Science</a><br>
+<a href="http://www.dartmouth.edu/">Dartmouth College</a>
+
+</td></tr>
+</tbody>
+</table>
+</body></html>
+

@@ -1,0 +1,65 @@
+http://www.cs.dartmouth.edu/~cbrash/music.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Colin Brash's Music</title>
+<link rel="stylesheet" type="text/css" href="css/screen.css">
+<link rel="stylesheet" type="text/css" href="css/music.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" />
+<link rel="stylesheet" type="text/css" href="css/iemusic.css">
+<![endif]-->
+</head>
+
+
+<!-- Namespace source file -->
+<script type="text/javascript" src="src/js/yui/YAHOO.js"></script>
+
+<!-- Connection Manager source file -->
+<script type="text/javascript" src="src/js/yui/connection.js" ></script>
+
+<!-- Music source file -->
+<script type="text/javascript" src="src/js/ccb/music.js" ></script>
+
+<!-- Other JS -->
+<script language="javascript">
+  function init() {
+    var musicScript = 'http://www.cs.dartmouth.edu/cgi-bin/cgiwrap/cbrash/list_music.pl';
+    var musicTagId = 'ccbmusic';
+
+    var callback = {
+      success: renderMusic,
+      failure: renderFailureMsg,
+      argument: musicTagId
+    }
+
+    var cObj = YAHOO.util.Connect.asyncRequest('GET', musicScript, callback, null);
+  }
+</script>
+
+
+<body style="height:100%" onload="init()">
+
+<div id="pageTitle">
+<form><fieldset><legend>Music</legend></fieldset></form>
+</div>
+
+<div id="content">
+
+  <img src="img/ccbknob.jpg" id="logo" />
+
+  <div class="newsItem">
+
+    <p>&nbsp;</p>
+
+    <p><a href="index.html">Home</a></p>
+
+  </div>
+
+  <div id="ccbmusic"></div>
+
+</div>
+
+</body>
+</html>

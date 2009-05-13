@@ -1,0 +1,87 @@
+http://www.cs.dartmouth.edu/~theory/winter_2006.html
+3
+<html>
+<head>
+<title>Theory Reading Group - Winter 2006</title>
+</head>
+<body bgcolor="#fffff0" text="#004040" link="#006A57" alink="#006A57" 
+vlink="#008080">
+
+<font face="verdana, helvetica, arial" size="+1">
+<b><center>
+Theory Reading Group - Winter 2006
+<br>
+</b></center>
+</font>
+
+<blockquote> <p> Welcome to the Theory Reading Group at Dartmouth's CS
+Department! We have vigorous, exciting discussions/presentations on
+recent research in Theoretical CS, accompanied by choice snacks. We meet
+on Wednesdays 4:30-5:30 in Sudikoff 114. Everyone is welcome; email
+"theory" at "cs" if you'd like to join the discussion. 
+
+In this term, we will primarily investigate the 
+computational aspect of game theory. 
+
+<p>
+<h3>Winter 2006 Schedule </h3>
+
+<p>
+
+<p> <b>Jan 18, 2006 (Chien-Chung)</b> 
+<ul> 
+<li> 
+We will start with the elementary materials of 
+game thoery in the first week. The following link is the  
+slides of the game theory course taught by 
+<a href="www.cis.upenn.edu/~mkearns">Mike Kearns </a> at Upenn. 
+Chien-Chung is going to present. <a href="Papers/nips.pdf">Basics of Game Theory</a> 
+</ul><p>
+
+<p> <b>Jan 25, 2006 (David Wagner)</b>
+<ul>
+<li> David Wagner will present a very important technique 
+in linear programming: primal-dual algorithm. If you have the 
+book <a
+href="http://www.amazon.com/gp/product/0486402584/qid=1137875385/sr=8-2/ref=pd_bbs_2/103-7425715-9312636?n=507846&s=books&v=glance">
+Combinatorial Optimization</a> written by Papadimitriou and Steiglitz, 
+you can read Chapter~2 and Theorem~3.1 to get a rough idea what he is 
+going to talk about. 
+</ul><p>
+
+
+<p> <b>Feb 1, 2006 (Joshua Brody)</b>
+<ul>
+<li> The original 
+speaker David Wagner could not come to the reading group. 
+So Joshua Brody give us an improvised talk on his research 
+on the ``odd'' perfect number (if such a thing exists). 
+
+</ul><p>
+
+<p> <b>Feb 8, 2006</b>
+<ul>
+<li> Lisa Fleischer gives a talk about her work on market equilibrium. 
+
+</ul><p>
+
+<p> <b>Feb 15, 2006 (Khanh Do Ba)</b>
+<ul>
+<li> Khanh presents the FOCS 2005 paper: 
+<a href="Papers/akv-2playergames.pdf">On the Complexity of Two-PlayerWin-Lose Games</a>. 
+
+</ul><p>
+
+
+
+<center>
+<font size="-1" face=" verdana, helvetica, arial">
+Theory Reading Group | theory@cs.dartmouth.edu |  Updated 14 Jan 2006 <br>
+Page maintained by <a href="http://www.cs.dartmouth.edu/~villars">Chien-Chung Huang</a>
+<br>
+Old Page: <a href= "fall_2005.html">Theory Seminar of Fall term in 2005 </a>
+</font>
+</center>
+
+</body>
+</html>

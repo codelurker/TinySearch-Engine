@@ -1,0 +1,442 @@
+http://www.cs.dartmouth.edu/gr_expect.php
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Expectations for Graduate Students</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		
+<h1> Graduate Students:  Expectations, Policies, and Procedures</h1>
+<p>
+
+This page is intended to help current graduate students better
+understand the expectations of the faculty, and to locate the policies
+and procedures they need to get through the M.S. and/or Ph.D programs
+here in Computer Science at Dartmouth College. It is organized as follows:
+</p><ul>
+  <li> <a href="#expectations">Expectations</a> of the faculty
+  </li><li> <a href="#resources">Resources</a> that list policies and procedures
+  </li><li> <a href="#policies">Policies clarified</a>: our clarification of those policies
+  </li><li> <a href="#procedures">Procedures clarified</a>: our clarification of those procedures
+
+</li></ul>
+<p></p>
+
+<hr>
+
+<h2 id="expectations">Expectations</h2>
+
+M.S. graduate students are expected to
+<ul>
+  <li> adhere to the <a href="http://www.Dartmouth.edu/artsci/gradstdy/handbook.html#principles">Honor Principle</a>
+       as described in the Dartmouth Graduate Student Handbook.
+  </li><li> adhere to the <a href="http://www.Dartmouth.edu/artsci/gradstdy/handbook.html#academicconduct">Student Code of Conduct</a>
+
+       as described in the Dartmouth Graduate Student Handbook.
+  </li><li> follow the policies and procedures below.
+  </li><li> make good progress toward completion of the degree requirements.
+  </li><li> ... (to be completed later)
+</li></ul>
+
+Ph.D graduate students are expected to
+<ul>
+  <li> adhere to the <a href="http://www.Dartmouth.edu/artsci/gradstdy/handbook.html#principles">Honor Principle</a>
+
+       as described in the Dartmouth Graduate Student Handbook.
+  </li><li> adhere to the <a href="http://www.Dartmouth.edu/artsci/gradstdy/handbook.html#academicconduct">Student Code of Conduct</a>
+       as described in the Dartmouth Graduate Student Handbook.
+  </li><li> follow the policies and procedures below.
+  </li><li> make good progress toward completion of the degree requirements.
+       Full-time Ph.D students are required to complete their
+       RPE by the end of Spring of their second year,
+       and are expected to complete their thesis proposal by the end of Spring
+       of their third year.  The typical full-time Ph.D student
+       completes their degree in 5&nbsp;(+/-&nbsp;1) years.
+  </li><li> present their work in the graduate-student seminar series,
+       approximately once per year.
+       Thesis proposals and defenses count.
+  </li><li> attend a large proportion of the graduate-student seminars and
+       departmental colloquia.
+  </li><li> perform any T.A. duties thoroughly and responsibly,
+       in consultation with the course professor.  A T.A. is expected to
+       put in approximately 20 hours per week on those duties.
+  </li><li> contribute positively to the department, e.g., serve on committees,
+       organize student seminars, install and maintain 'contrib' software,
+       and so forth.
+
+</li></ul>
+
+The department reviews the progress of all students every spring,
+based on a report provided by them and augmented by their advisor.
+The department provides feedback to every student.   Students not
+making good progress are warned by the department and will be
+re-evaluated six months later.  Students continuing to make little
+progress will be dismissed from the program.
+
+<hr>
+
+<h2 id="resources">Key resources</h2>
+
+Dartmouth's policies are listed in the ORC (<em>Organizations,
+Regulations and Courses</em>) and in the <a href="http://www.Dartmouth.edu/artsci/gradstdy/handbook.html"><em>Graduate
+Student Handbook</em></a>.  Rather than reproducing that material
+here, we refer students directly to the most recent edition of the
+ORC. In particular, please see the sections on
+<ul>
+  <li> general Dartmouth rules about graduate study,
+  </li><li> additional rules for Computer Science,
+  </li><li> academic matters
+
+</li></ul>
+
+Below we add to and clarify the policies and procedures.  Wherever
+those, or other, college publications are in conflict with any of the
+items below, the official publication should be considered correct.
+<p>
+
+Questions, comments, and suggestions are welcome!  Please send them
+either to the current advisor to Ph.D students or the current advisor
+to M.S. students.
+
+</p><hr>
+
+<h2 id="policies">Policies</h2>
+
+<h3>Requirements for the Ph.D degree</h3>
+
+The requirements are listed in the ORC, as mentioned above, in a
+section entitled "Requirements for the Doctor's Degree (Ph.D.)" of the
+"Computer Science" chapter.  The following list elaborates on the
+points listed there.
+
+<ol>
+  <li> Yes, you have to be admitted first. (M.S. students should not
+       assume that they will be admitted into the Ph.D program after
+       completing their M.S., but are encouraged to apply.)
+  </li><li> Here it states that you have to take 6 out of 7 core courses.
+       [Note: not all graduate courses will be offered every year. In
+       particular, 106 (Numerical Analysis) is not taught very often.]
+       Plus four topics courses (181-188).  On rare occasions we will
+       allow a student to substitute a topics course for one of the core
+       courses, when they can demonstrate that they have already taken
+       equivalent courses.  Undergraduate courses do not count for graduate
+       credit.
+  </li><li> We commonly use "quals" or "qualifying exams"
+       to mean "written certification examinations".
+  </li><li> The faculty voted to add a sentence
+       "That is, the student must pass CS 257."
+  </li><li> We propose to rewrite this requirement as follows:
+       <blockquote>
+
+       Each student must display readiness for research in one area by
+       giving a written and oral presentation of their research plan.  This
+       thesis proposal will be judged by a faculty committee; the committee
+       will be chosen by the student and approved by the advisor to Ph.D
+       students, following the same rules used for composition of a Ph.D
+       defense committee.
+       The presentation will be followed by a question period in which the
+       student demonstrates mastery of the relevant area, and defends their
+       proposed thesis plan.
+       </blockquote>
+<!--   This change has been approved by the department faculty on 3/6/2000
+       and now goes to College committees for further approval. -->
+  </li><li> See ORC for definition of residence.
+<!--  <li> We propose to drop this requirement; the faculty so voted on 3/6/2000.
+       The proposal now goes to College committees for further approval.-->
+
+<!--   <blockquote>
+       Admission to candidacy by a vote of the department faculty
+       (regular and adjunct).  The review of each candidate will take into
+       account the student's performance on the certification examinations,
+       the student's record in courses, and the prospects that a good thesis
+       can be written.
+       </blockquote>
+
+       We expect that most students will achieve candidacy immediately after
+       they have finished their Thesis proposal.
+       (The annual review continues, every year,
+       regardless of candidacy status.)
+ -->
+  </li><li> See below about the thesis committee and defense.
+</li></ol>
+
+<h3>Thesis committee</h3>
+
+First, let's define two types of people:
+<ul>
+  <li> <b>Insider:</b> any professor who is formally connected with
+       our department as a regular professor, visiting professor, adjunct
+       professor, or who is a post-doctoral researcher in the department.
+       Check the ORC for the latest official list of faculty, although
+       whenever there is a question please ask the Chair (sometimes adjunct
+       appointments have been made since the ORC was published).  We attempt
+       to keep the list of faculty and post-docs up-to-date on
+       the <a href="/people.html">web</a>.
+
+  </li><li> <b>Outsider:</b> any Ph.D that is not an insider,
+       and appropriately relevant to the student's research topic.  They
+       might be a Dartmouth professor, a professor at another institution, or
+       someone in industry.  Certain people with Ph.D equivalents,
+       or other degrees (such as M.D.) can also count.
+</li></ul>
+
+The determination is made at the time of the event (proposal or defense).
+
+<p>
+
+So, here are the clarifications for the composition of the
+M.S. and Ph.D thesis committee:
+</p><ul>
+  <li> <b>Advisor:</b> the advisor must be an insider,
+       and normally regular professor in the department.
+       The choice of advisor must be approved by the advisor to Ph.D students.
+
+  </li><li> As mentioned in the Handbook, the Ph.D thesis committee should
+       have at least three people from the department, and at least
+       one from outside the department.  That is, at least four people, with
+       &gt;=3 insiders and &gt;=1 outsider.
+
+  </li><li> The M.S. committee is at least three people, at most one of
+       which may be an outsider.
+
+  </li><li> The student's dissertation advisor should approve the committee
+       composition.
+       Well before a Ph.D defense, the dean of graduate studies must
+       also approve the committee (this is a College requirement).
+
+  </li><li> The committee for the defense is often, though not necessarily,
+       the same as the committee used for the proposal.  Because of the
+       amount of time elapsing from proposal to defense it's not unusual for
+       the committee to need changing.  The proposal committee should follow
+       the same rules of composition, but need not be approved by the dean.
+
+
+</li></ul>
+
+<h3>Thesis proposal</h3>
+
+<ul>
+  <li> See procedure for announcing your public defense.
+</li></ul>
+
+<h3>Thesis defense</h3>
+
+<ul>
+
+  <li> Each February the Graduate Studies office sends a memo defining
+       the deadline for the final date for submitting theses; typically the
+       date is the Friday that is nine days prior to Commencement.
+       You must have completed all requirements, and a lot of paperwork, by
+       that date (check with them).
+
+  </li><li> Work backward from the dissertation deadline to choose a date
+       for your defense, in consultation with your advisor and your committee.
+       A good rule of thumb is to provide the complete dissertation to your
+       committee 2-4 weeks prior to the defense, and allow yourself
+       at least 2 weeks after the defense to handle any necessary revisions.
+
+  </li><li> See procedure for announcing your public defense.
+
+</li></ul>
+
+<h3>Grades</h3>
+
+We grade all courses, including research (CS297-299) and teaching
+assistance (CS257) on the HP/P/LP/NC scale mentioned in the ORC and
+the Handbook.  Note in particular that the Handbook lists some serious
+consequences of getting a single NC or two LPs.
+
+<h3>Vacations</h3>
+
+During any year in which they receive compensation from Dartmouth,
+regardless of the source of those funds, graduate students are
+committed to be in residence for a period of twelve months commencing
+one week before fall-term registration.  Vacation time, including
+official holidays, should not exceed a total of one month per year and
+the time(s) should be mutually agreeable to the student and the
+research advisor.  During the summer(s) students are expected to
+perform their thesis research, unless they are off Dartmouth funding
+(e.g., for internship in industry).  Students should obtain written
+permission from their advisor, in advance, for any expected absences
+of greater than one month per year.
+
+<p>
+</p><hr>
+
+<h2 id="procedures">Procedures</h2>
+
+<h3>Courses</h3>
+
+<ul>
+  <li> Full-time students should register for three credits each term.
+       If you plan to register for fewer than three actual courses, fill out
+       the three credits with the appropriate choice of
+       CS&nbsp;257, 297, 298, or 299,
+       with the consent of your research advisor.
+</li></ul>
+
+<h3>Thesis proposal and defense</h3>
+
+<ul>
+  <li> The oral proposal and defense are public events and
+       should be announced to the public, using our normal
+       colloquium-announcement procedures, at least one week prior to the
+       event.  It is the responsibility of the student, in consultation
+       with the student's committee, to arrange the date,
+       time, and place, and to inform the department staff
+       so that an announcement can be made.
+</li></ul>
+
+<h3>Summer funding</h3>
+
+<ul>
+  <li> Ph.D students on Dartmouth Fellowship (DF) for a given year are normally
+       on the fellowship for Fall, Winter, and Spring terms.  We strongly
+       encourage students to work with a professor on research during the
+       summer term, and are happy to provide DF students with funding for that
+       purpose, assuming sufficient funding is available.
+  </li><li> Summer DF funding is usually available to those who want it.
+       In any case, if you would like summer funding, please
+       contact the advisor to Ph.D students.  The advisor will send out
+       a reminder to all Ph.D students in early spring term, asking students
+       who want summer funding to explicitly request it, to identify the
+       professor with whom they plan to work, and to briefly describe their
+       project (a paragraph will do).  We ask for explicit requests so that
+       we can budget appropriately for the summer, and identify early whether
+       all students wanting funding, can receive funding.
+  </li><li> Note that you may be asked to T.A. a course in the summer, as with
+       any other DF term.
+  </li><li> Often students find research internships in industry to be a valuable
+       experience, whether in summer or in any other term.
+       We encourage you to talk with your advisor, or the
+       advisor to Ph.D students, about this possibility.
+
+
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>

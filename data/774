@@ -1,0 +1,80 @@
+http://www.cs.dartmouth.edu/~ac/DTS/fall05.html
+3
+<html><head><title>DTS: Dartmouth Theory Seminars - Fall 2005</title></head>
+<body background="../dartback.png" link=#0000ff vlink=#0000ff>
+
+<h2>DTS: Dartmouth Theory Seminars - Fall 2005</h2>
+
+<h3>Fall 2005 Schedule</h3>
+
+<table cellpadding=3><tr>
+  <td valign=top>Oct 21 (Friday)</td>
+  <td>Faith Fich, University of Toronto<br>
+  <a href="#fich">How Difficult is it to Take a Snapshot?</a><br>
+  Room: Carson L01<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>Oct 24 (Monday)</td>
+  <td>Eugene Demidenko, Dartmouth College<br>
+  <a href="#demidenko">Towards Global Minimum</a><br>
+  Room: Carson L02<br>
+  Time: 4pm - 5pm.
+</tr></table>
+
+<p><hr><p>
+
+<h3>Abstracts</h3>
+
+<a name="fich">
+
+  <p><b>Faith Fich, University of Toronto<br>
+  How Difficult is it to Take a Snapshot?</b></p>
+
+  <p> The atomic snapshot object is an important and well-studied
+  primitive in distributed computing that allows processes to obtain a
+  consistent view of an entire block of shared memory, even if updates
+  are being performed concurrently.  This talk will describe
+  applications of this object, present some implementations of it from
+  registers in both asynchronous and synchronous distributed systems,
+  and discuss some recent lower bounds. </p>
+
+<hr width=50%><p>
+
+<a name="demidenko">
+
+  <p><b>Eugene Demidenko, Dartmouth College<br>
+  Towards Global Minimum</b></p>
+
+  <p> Global minimization is one of the hardest problems of
+  computational mathematics. While several approaches to global
+  minimization exist they are heuristic in nature. In this talk I
+  concentrate on analytical aspects of minimization of a continuous
+  function on a non-bounded set, say F(x). Specifically, I want to
+  construct criteria that a found local minimum is the global one. The
+  rationale is that (a) there are many algorithms for local
+  minimization, such as gradient, Newton, conjugate gradient, (b)
+  typically, the problem has few minima and quite likely the found
+  minimum is the global one but we are not sure that it is the global
+  one.  It is impossible to construct a uniqueness criterion for general
+  function, so the choice of a function family is crucial. I work with
+  nonlinear least squares where F(x) is the squared distance between
+  n-dimensional data vector y and regression function f(x) with n &gt;
+  m. </p>
+
+  <p> Discouraging theorem: for any given f there exists y for which the
+  least squares problem has multiple local minima; moreover, the Lebegue
+  measure of those y is positive. </p>
+
+  <p> We define function level sets that specify different properties of
+  the function, from existence of the global minimum to local convexity,
+  local unimodality and finally global unimodality. Our global minimum
+  criteria use the curvature concept from differential geometry of the
+  m-dimensional surface defined by function f(x). Seveal open problems
+  are formuated. </p>
+
+<hr><p>
+
+<p align=right> <i> Back to <a href="index.html">DTS main page </a>. </i> </p>
+
+</body></html>
+ni

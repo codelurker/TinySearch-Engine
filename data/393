@@ -1,0 +1,78 @@
+http://www.cs.dartmouth.edu/~mckeeman/cs118/index.html
+3
+<!-- FILE:    index.html
+     PURPOSE: CS118 Information
+     MODS:    Rebelsky - 1996.03    - original
+              McKeeman - 1999.07.22 - revised for Spring 2000
+              McKeeman - 2002.03.25 - revised for Spring 2002
+              McKeeman - 2002.04.05 - revised for Spring 2003
+              McKeeman - 2007.03.26 - revised for Spring 2007
+              McKeeman - 2007.03.25 - revised for Spring 2008
+  -->
+
+<html>
+<head>
+<title>CS118: Course Information</title>
+</head>
+
+<body bgcolor="#FFF0D0">
+
+<!-- the following table head provides margins and textbook like appearance -->
+<table>
+<tr><td></td></tr>
+<tr><td width=50></td><td width=600>
+
+<h2><a href="index.html">CS118</a> Programming Languages</h2>
+<h1><a href="http://www.cs.dartmouth.edu">Department of Computer Science</a></h1>
+<h2>Course Information</h2>
+
+<p>
+This web of documents serves as guide to Dartmouth's graduate course in 
+<a href =
+"http://www.cs.dartmouth.edu/academics/grad/cs_118.html">
+<em>Programming Languages</em></a>.
+</p>
+
+<P>
+    <A HREF="xcom/README.html">xcom README</A>
+</P>
+
+<P>
+Certain portions of the class materials will be made available only as
+as printed handouts. 
+See my linux home directory ~mckeeman/xcom/README.html 
+for specific information about the 2008 offering.
+</P>
+
+<p>
+<a href="course_guide.html">Course Guide</a><p>
+<a href="course_content.html">Course Content</a><p>
+<a href="course_assignments.html">Assignments</a><p>
+<a href=lectures>Lecture Plans</a><p>
+<a href="references/references.html">References</a><p>
+<a href="course_software.html">Course Software</a><p>
+</p>
+
+<hr>
+
+<p>
+<table>
+<tr><td>
+Created:
+</td><td>
+<i>March 26, 1996</i>
+</td></tr>
+<tr><td>
+Last modified:
+</td><td>
+<i>March 25, 2008</i>
+</td></tr>
+</table>
+</p>
+
+<!-- the following table end provides margins and textbook like appearance -->
+</td><td width=50></td></tr>
+</table>
+
+</body>
+</html>

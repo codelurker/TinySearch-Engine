@@ -1,0 +1,90 @@
+http://www.cs.dartmouth.edu/farid/egypt/reconstruction.html
+2
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+<title> Egyptian Tombs and Monuments</title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=900>
+
+<tr>
+<td valign=top colspan=3>
+<b> Reconstructing Ancient Egyptian Tombs and Monuments</b>
+<BR> 
+<p>
+It is ironic that the Ancient Egyptian tombs, once sealed, were not
+intended to be seen by outsiders. Yet the highly valued and often
+reproduced tomb decorations have had a profound influence on art and
+have contributed significantly to our understanding of the Ancient
+Egyptian culture. We describe how recent advances in computational and
+digital technology can add a new perspective to these marvels of
+antiquity. Of particular interest to us has been the development of a
+technique for digital reconstruction of tombs, allowing for the
+creation of undistorted panoramic views of tomb interiors that are
+simply unattainable with traditional imaging methods.  We have also
+applied similar computational techniques to bring a new perspective to
+several monuments of Ancient Egypt.
+
+<BR><BR>
+
+Click on a tomb or monument to see more, or read about <a
+href="tombhistory"> A Brief History of Ancient Egyptian Tombs</a>.
+<BR><BR>
+
+<i>(Collaborative work with <a href="http://www.chem.rochester.edu/faculty/faculty.php?name=farid">Samir Farid</a>)</i>
+
+</td>
+
+<td> &nbsp </td>
+
+<td valign=bottom align=center rowspan=2>
+<a href="obelisk.html"> <BR> Thutmose I <BR>
+<img src="obelisk/obelisksnap.jpg" width=120 height=399></a> 
+</td>
+</tr>
+
+<tr>
+  <td valign=bottom align=center> 
+  <a href="sennedjem.html">
+  <BR>Sennedjem<BR>
+  <img src="sennedjem/sennedjemsnap.jpg" width=195 height=103></a> </td>
+
+  <td valign=bottom align=center> 
+  <BR><a href="inherkhau.html">Inherkhau<BR>
+  <img src="inherkhau/inherkhausnap.jpeg" width=250 height=103></a></td>
+
+  <td valign=bottom align=center> 
+  <BR><a href="rekhmira.html">Rekh-mi-Ra<BR>
+  <img src="rekhmira/rekhmirasnap.jpg" width=272 height=103></a></td>
+</tr>
+
+</table>
+
+<BR>
+<HR>
+<table align=center width=900>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></td>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+   <li>Unfolding Sennedjem's Tomb <a href="../publications/kmt01.html">(kmt01)</a> <BR>
+   <li>Reconstructing Ancient Egyptian Tombs <a href="../publications/vaa01.html">(vaa01)</a> <BR>
+   <li><a href="../orozco/">Jose Clemente Orozco</a> 
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="../research/research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+
+</html>
+Mi

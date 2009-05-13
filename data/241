@@ -1,0 +1,818 @@
+http://www.cs.dartmouth.edu/~afra/papers.html
+3
+<html>
+<head>
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+<title>Afra's Papers</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
+
+<body bgcolor=#ffffff >
+
+<hr align=center noshade>
+
+<table cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+
+<!-- ----- Left-hand side navbar ----- -->
+<td align=right>
+<font size = "+1" align=right>
+afra<br>
+zomorodian<br>
+<br>
+</font>
+<a href="./">home</a><br>
+<a href="personal.html">personal</a><br>
+<a href="book.html">book</a><br>
+<b>papers</b><br>
+<a href="teaching.html">teaching</a><br>
+<a href="goodies.html">goodies</a><br>
+<br><br>
+</td>
+
+<!-- ----- Interior left margin ----- -->
+<td width=25>&nbsp;</td> 
+
+<!-- ----- Papers ----- -->
+<td>
+<center><b><a href = "papers/bib.txt">BibTeX</a> for all publications</b></center>
+
+<!-- Paper Table!!! ---- -->
+<table cellspacing=0 cellpadding=0 border=0>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="handbook/ct.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Computational Topology</b>
+<br>
+<font size = "-1">
+<a href = "handbook/ct.pdf">Algorithms and Theory of Computation
+  Handbook</a>, 2009. <img src = "images/new.gif">
+<br>
+<br>
+According to the Oxford English Dictionary, the word <em>topology</em> is 
+derived of <em>topos</em> (&tau;&omicron;&pi;&omicron;&sigmaf;)
+meaning <em>place</em>, and 
+<em>-logy</em> (&lambda;&omicron;&gamma;&iota;&alpha;),
+a variant of the verb &lambda;&epsilon;&gamma;&epsilon;&iota;&nu;, meaning
+<em>to speak</em>.
+As such, topology speaks about places:  how local neighborhoods connect to
+each other to form a space.
+Computational topology, in turn, undertakes the challenge of studying
+topology using a computer.
+<p>
+This is chapter for the second edition of the handbook, edited by
+Mikhail J. Atallah and Marina Blanton. 
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/mia08/polyp.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Colon Polyp Detection using Smoothed Shape Operators:  Preliminary
+  Results.</b>  
+  with Padma Sundaram, Christopher Beaulieu, and Sandy Napel.
+<br>
+<font size = "-1">
+<a href = "papers/mia08/polyp.pdf">
+Medical Image Analysis</a>, 2008.
+&ndash; <a href =
+   "http://dx.doi.org/10.1016/j.media.2007.08.001">doi:10.1016/j.media.2007.08.001</a> 
+<br>
+<br>
+Computer-aided detection (CAD) algorithms identify locations in Computed
+Tomographic (CT) images of the colon that are most likely to contain
+polyps. 
+In this paper, we present the Smoothed Shape Operators method
+(SSO), which uses a geometry processing approach. 
+We extract a triangle
+mesh representation of the colon surface, and estimate curvature on this
+surface using the shape operator. We then smooth the shape operators on
+the surface iteratively. 
+We evaluate our algorithm on patient data and
+provide free-response receiver operating characteristic performance
+analysis over all size ranges of polyps. We also provide confidence
+intervals for our performance estimates. We compare our performance with
+the Surface Normal Overlap (SNO) method for the same data. 
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/ijcv07/patches.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>On the Local Behavior of Spaces of Natural Images.</b>
+with Gunnar Carlsson, Tigran Ishkhanov, and Vin de Silva.
+<br>
+<font size = "-1">
+<a href = "papers/ijcv07/natural-ijcv.pdf">
+International Journal of Computer Vision</a>, 2008. 
+(<a href = "papers/ijcv07/natural-ijcv.ps.gz">ps.gz</a>) 
+&ndash; <a href =
+   "http://dx.doi.org/10.1007/s11263-007-0056-x">doi:10.1007/s11263-007-0056-x</a>
+<br>
+<br>
+In this study, we concentrate on qualitative topological analysis of the
+local behavior of the space of natural images. To this end, we use a space
+of 3 by 3 high-contrast patches <em>M</em> studied by Mumford et
+al.  We develop a theoretical model for the high-density 2-dimensional
+submanifold of <em>M</em> showing that it has the topology of the Klein
+bottle.  Using our topological software package <em>PLEX</em> we experimentally
+verify our theoretical conclusions.  We use polynomial representation to
+give coordinatization to various subspaces of <em>M</em>. We find the
+best-fitting embedding of the Klein bottle into the ambient space of
+ <em>M</em>. Our results are currently being used in developing a
+compression algorithm based on a Klein bottle dictionary.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/bioinf07/lipid.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Persistent voids: a new structural metric for membrane fusion.</b>
+with Peter M. Kasson, Sanghyun Park, Nina Singhal, Leonidas J. Guibas, and
+Vijay S. Pande.
+<br>
+<font size = "-1">
+<a href = "papers/bioinf07/lipid.pdf">
+Bioinformatics</a>, 2007.
+(<a href = "papers/bioinf07/lipid.ps.gz">ps.gz</a>)
+&ndash; <a href =
+   "http://dx.doi.org/doi:10.1093/bioinformatics/btm250">doi:10.1093/bioinformatics/btm250</a>
+<br>
+<br>
+Membrane fusion constitutes a key stage in cellular processes such as
+synaptic neurotransmission and infection by enveloped viruses.
+We introduce a novel structural 
+measurement of vesicle topology and fusion geometry: persistent voids.
+We use persistent voids to
+compute dynamic relationships between hemifusion neck widening and
+formation of a full fusion pore in our simulation data. 
+Our findings suggest that rapid fusion between small vesicles proceeds
+via a small hemifusion diaphragm rather than a full-expanded one.
+<br>
+
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/smi07/local.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Localized Homology.</b>
+with Gunnar Carlsson.
+<br>
+<font size = "-1">
+<a href = "papers/smi07/local.pdf">
+Computational Geometry:  Theory & Applications</a>, 2008.   
+(<a href = "papers/smi07/local.ps.gz">ps.gz</a>)
+&ndash; <a href =
+	  "http://dx.doi.org/10.1016/j.comgeo.2008.02.003">doi:10.1016/j.comgeo.2008.02.003</a>
+<br>
+<a href = "papers/smi07/local-smi.pdf">
+Shape Modeling International</a>, Lyon, France, 2007.
+(<a href = "papers/smi07/local-smi.ps.gz">ps.gz</a>)
+<br>
+<a href = "local">Supplemental package:  Localizing within a 3D Solid</a>
+<br>
+<br>
+In this paper, we provide a complete theoretical foundation and an
+effective algorithm for localizing topological attributes.
+Unlike previous work that focused on 2-manifolds with restricted geometry, 
+our theory is general and localizes arbitrary-dimensional attributes in 
+arbitrary spaces.
+We implement our algorithm to validate our approach in practice.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/socg07/multid.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>The Theory of Multidimensional Persistence.</b>
+with Gunnar Carlsson.
+<br>
+<font size = "-1">
+<a href = "papers/socg07/multid-socg07.pdf">
+23rd ACM Symposium on Computational Geometry</a>, Gyeongju, South Korea,
+2007.</a> 
+(<a href = "papers/socg07/multid-socg07.ps.gz">ps.gz</a>)
+<br>
+<a href = "papers/socg07/multid.pdf">
+Discrete and Computational Geometry</a>, 2009 (Invited).   
+(<a href = "papers/socg07/multid.ps.gz">ps.gz</a>) <img src = "images/new.gif">
+<br>
+<br>
+Persistent homology captures the topology of a filtration &ndash; 
+a one-parameter
+family of increasing spaces &ndash; in terms of a complete discrete invariant.
+This invariant is a multiset of intervals that denote the lifetimes of the
+topological entities within the filtration.
+In many applications of topology, we need to study a multifiltration:
+a family of spaces parameterized along multiple geometric dimensions.
+In this paper, we show that no complete discrete invariant exists for 
+multidimensional persistence.
+We also propose a discrete invariant, the <em>rank invariant</em>, for the 
+robust estimation of Betti numbers in a multifiltration, and prove its 
+completeness in one dimension.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img align=left src="papers/cagd06/potential.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Geometric Filtering of Pairwise Atomic Interactions 
+       Applied to the Design of Efficient Statistical 
+       Potentials.</b> with Leonidas J. Guibas and Patrice Koehl.
+<br>
+<font size = "-1">
+<a href = "papers/cagd06/potential.pdf">Computer Aided Geometric
+       Design</a>, 2006.  
+(<a href = "papers/cagd06/potential.ps.gz">ps.gz</a>) &ndash; <a href =
+   "http://dx.doi.org/10.1016/j.cagd.2006.03.002">doi:10.1016/j.cagd.2006.03.002</a>
+<br>
+</font>
+<font size = "-1">
+<br>
+Distance-dependent, pairwise, statistical potentials are
+based on the concept that the packing observed in known protein 
+structures can be used as a reference for comparing different 
+3D models for a protein.
+We show that we can filter the list of all interactions in a protein to
+generate a much smaller subset of pairs that retains most of the 
+structural information
+contained in proteins. 
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/spbg05/conformal.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>The Conformal Alpha Shape Filtration.</b>
+with Frederic Cazals, Joachim Giesen, and Mark Pauly.
+<br>
+<font size = "-1">
+<a href = "papers/spbg05/conformal.pdf">
+The Visual Computer</a>, 2006.  
+(<a href = "papers/spbg05/conformal.ps.gz">ps.gz</a>)
+&ndash; <a href =
+   "http://dx.doi.org/10.1007/s00371-006-0027-1">doi:10.1007/s00371-006-0027-1</a>
+<br>
+<a href = "papers/spbg05/spbg.pdf">
+Symposium on Point-Based Graphics</a>, Stony Brook, NY, 2005.
+(<a href = "papers/spbg05/spbg.ps.gz">ps.gz</a>)
+<br>
+<br>
+We define a new filtration of the Delaunay triangulation of a 
+finite set of points in <i>R<sup>d</sup></i>, similar to the alpha shape 
+filtration. The new filtration is parameterized by a local scale
+parameter instead of the global scale parameter in 
+alpha shapes. Since our approach shares many properties with the 
+alpha shape filtration and the local scale parameter conforms to 
+the local geometry we call it <em>conformal alpha shape filtration</em>. 
+The local scale parameter is motivated from applications and previous 
+algorithms in surface reconstruction. We show how conformal alpha 
+shapes can be used for surface reconstruction of non-uniformly sampled
+surfaces, which is not possible with alpha shapes. 
+<br>
+<br>
+Note:  Conference version has the title "Conformal Alpha Shapes".
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 7 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/sgp04/sgp-small.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Persistence Barcodes for Shapes.</b>
+with Gunnar Carlsson, Anne Collins, and Leonidas J. Guibas.
+<br>
+<font size = "-1">
+<a href = "papers/sgp04/tangent.pdf">
+International Journal of Shape Modeling</a>, 2005.
+(<a href = "papers/sgp04/tangent.ps.gz">ps.gz</a>)
+&ndash; <a href =
+   "http://dx.doi.org/10.1142/S0218654305000761">doi:10.1142/S0218654305000761</a>
+<br>
+<a href = "papers/sgp04/sgp.pdf">
+Symposium on Geometry Processing</a>, Nice, France, 2004.
+(<a href = "papers/sgp04/sgp.ps.gz">ps.gz</a>)</b>
+<br>
+<br>
+In this paper, we initiate a study of shape description and
+classification via the application of persistent homology to two
+tangential constructions on geometric objects.
+The homology of our first construction, the
+tangent complex, can distinguish between topologically identical
+shapes with different "sharp" features, such as corners. 
+To capture "soft" curvature-dependent features, we define a second
+complex, the filtered tangent complex, obtained by parametrizing a
+family of increasing subcomplexes of the tangent complex. 
+Applying persistent homology, we obtain a shape descriptor, called a
+barcode, that is a finite union of intervals.
+We define a metric over the space of such
+intervals, arriving at a continuous invariant that reflects the
+geometric properties of shapes. 
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 7 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/spbg04/tpcd-small.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>A Barcode Shape Descriptor for Curve Point Cloud Data.</b> 
+with Anne Collins, Gunnar Carlsson, and Leonidas J. Guibas.
+<br>
+<font size = "-1">
+<a href = "papers/spbg04/tpcd-full.pdf">
+Computers and Graphics</a>, 2004 (Invited).  
+(<a href = "papers/spbg04/tpcd-full.ps.gz">ps.gz</a>)</b>
+&ndash; <a href =
+   "http://dx.doi.org/10.1016/j.cag.2004.08.015">doi:10.1016/j.cag.2004.08.015</a>
+<br>
+<a href = "papers/spbg04/tpcd.pdf">
+Symposium on Point-Based Graphics</a>, Z&uuml;rich, Switzerland, 2004
+(<a href = "papers/spbg04/tpcd.ps.gz">ps.gz</a>)</b>
+<br>
+<a href = "papers/spbg04/barcode.mov">
+Video (Quicktime)</a>
+</font>
+<font size = "-1">
+<br>
+<br>
+In this paper, we present a complete computational pipeline for extracting
+a compact shape descriptor for curve point cloud data.
+Our shape descriptor, called a <em>barcode</em>, is based on a blend of
+techniques from differential geometry and algebraic topology.
+We also provide a metric over the space of barcodes, enabling fast
+comparison of PCDs for shape recognition and clustering.
+To demonstrate the feasibility of our approach, we have implemented our
+pipeline and provide experimental evidence in shape classification and
+parametrization.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 5 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/socg04/computing.png" width=100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Computing Persistent Homology.</b>
+with Gunnar Carlsson
+<br>
+<font size = "-1">
+<a href = "papers/socg04/persistence.pdf"> 
+Discrete and Computational Geometry</a>, 2005
+(<a href = "papers/socg04/persistence.ps.gz">ps.gz</a>)
+(<a href = "papers/socg04/errata.txt">Errata</a>)
+&ndash; <a href =
+   "http://dx.doi.org/10.1007/s00454-004-1146-y">doi:10.1007/s00454-004-1146-y</a>
+<br>
+<a href = "papers/socg04/computing.pdf">
+20th ACM Symposium on Computational Geometry</a>, Brooklyn, NY, 2004
+(<a href = "papers/socg04/computing.ps.gz">ps.gz</a>)
+<br>
+<br>
+<a href = "papers/socg04/witness.avi">
+Application Video:  Witness Complexes -- The Mumford Dataset (AVI)</a>
+<br>
+</font>
+<font size = "-1">
+<br>
+We study the homology of a filtered <i>d</i>-dimensional
+simplicial complex <i>K</i> as a single algebraic entity and
+establish a correspondence that 
+provides a simple description over fields.
+Our analysis enables us to derive a natural
+algorithm for computing persistent homology over
+an arbitrary field in any dimension.
+Our study also implies the lack of a simple 
+classification over non-fields.
+Instead, we give an algorithm for computing individual
+persistent homology groups over an arbitrary PIDs 
+in any dimension.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Thesis ---- -->
+<tr>
+<td valign = top align = center>
+<img src="thesis/persistence.png" width = 100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Computing and Comprehending Topology:  Persistence and Hierarchical Morse Complexes.</b>  <cite>Ph.D. Thesis.  Urbana, Illinois, October 2001.</cite>
+</cite><br>
+<font size = "-1">
+<a href = "thesis/onesided.pdf">One-Sided</a>
+(<a href = "thesis/onesidedl.pdf">Hyperlinked</a>)<br>
+<a href = "thesis/twosided.pdf">Two-Sided</a>
+(<a href = "thesis/twosidedl.pdf">Hyperlinked</a>)<br>
+<a href = "http://www.ncstrl.org:8900/ncstrl/servlet/search?formname=detail&id=oai%3Ancstrlh%3Auiuc_cs%3Ancstrl.uiuc_cs%2F%2FUIUCDCS-R-2001-2240">Technical Report UIUCDCS-R-2001-2240</a>
+</font>
+<font size = "-1">
+<br>
+<br>
+The fully hyperlinked versions include bookmarks, thumbnails, and 
+backreferences, and are appropriate for online viewing.
+The two-sided versions have different odd and even margins for duplex printing
+and binding.
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper4 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/wabi01/hopf.gif" width = 100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+<td>
+<b>Computing Linking Numbers of a Filtration.</b>
+with Herbert Edelsbrunner
+<br>
+<font size = "-1">
+<a href = "papers/wabi01/hhaj.ps.gz">
+Homology, Homotopy, and Applications</a>, 2003 (Invited).  
+<br>
+<a href = "papers/wabi01/wabi2001.ps.gz">
+1st Workshop on Algorithms in BioInformatics</a>, &Aring;rhus, Denmark, 2001
+<br>
+<br>
+</font>
+<font size = "-1">
+We develop fast algorithms for computing the linking number
+of a simplicial complex within a filtration.
+We give experimental results in applying our work toward the detection 
+of non-trivial tangling in biomolecules, modeled as alpha complexes.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 3 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/socg01/complex.gif" width = 100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Hierarchical Morse-Smale Complexes for Piecewise Linear 2-Manifolds.</b>  
+with Herbert Edelsbrunner and John Harer
+<br>
+<font size = "-1">
+<a href = "papers/socg01/PLmorse.pdf">
+French translation/interpretation 
+by Sara Deriviere</a>, 2006
+<br>
+<a href = "papers/socg01/dcg.ps.gz">
+Discrete and Computational Geometry</a>, 2003 (Invited).  
+&ndash;
+<a href =
+   "http://dx.doi.org/10.1007/s00454-003-2926-5">doi:10.1007/s00454-003-2926-5</a>
+<br>
+<a href = "papers/socg01/socg2001.ps.gz">
+17th ACM Symposium on Computational Geometry</a>, Medford, MA, 2001
+<br>
+<br>
+</font>
+<font size = "-1">
+  We present algorithms for constructing a hierarchy of increasingly
+  coarse Morse complexes that decompose a piecewise linear 2-manifold.
+  While Morse complexes are defined only in the smooth category,
+  we extend the construction to the piecewise linear category
+  by ensuring structural integrity and simulating differentiability.
+  We then simplify Morse complexes by cancelling pairs of
+  critical points in order of increasing persistence.
+<br><br>
+  Note:  Conference version refers to "Morse complexes".  We changed the
+title according to a reviewer's suggestion.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 2 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/focs00/molecule.png" width = 100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Topological Persistence and Simplification.</b> with Herbert
+Edelsbrunner and David Letscher
+<br>
+<font size = "-1">
+<a href = "papers/focs00/dcg.ps.gz">
+Discrete and Computational Geometry</a>, 2002 (Invited).  
+</font>
+&ndash;
+<a href =
+   "http://dx.doi.org/10.1007/s00454-002-2885-2">doi:10.1007/s00454-002-2885-2</a>
+<font size = "-1">
+<br>
+<a href = "papers/focs00/focs2000.ps.gz">
+41st Symposium on Foundations of Computer Science</a>, Redondo Beach, CA, 2000
+<br>
+<br>
+  We formalize a notion of topological simplification within
+  the framework of a filtration,
+  which is the history of a growing complex.
+  We classify a topological change that happens during growth
+  as either a feature or noise depending on its life-time
+  or persistence within the filtration.
+  We give fast algorithms for computing persistence
+  and experimental evidence for their speed and utility.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 1 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/socg00/bunny-f-c.gif" width = 100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Fast Software for Box Intersection.</b> with Herbert
+Edelsbrunner<br>
+<font size = "-1">
+<a href = "papers/socg00/intersect.ps.gz">
+International Journal of Computational Geometry and Applications</a>, 2002
+(Invited).  
+&ndash;
+<a href =
+   "http://dx.doi.org/10.1142/S0218195902000785">doi:10.1142/S0218195902000785</a>
+<br>
+<a href = "papers/socg00/socg2000.ps.gz">
+16th ACM Symposium on Computational Geometry</a>,
+Hong Kong, 2000
+<br>
+<br>
+We present fast implementations of a hybrid algorithm 
+for reporting box and cube intersections.  Our algorithm initially 
+takes a divide-and-conquer approach and switches to simpler
+algorithms for low numbers of boxes.  We use our implementations as engines
+to solve problems about geometric primitives.  We look at two such problems
+in the category of quality analysis of surface triangulations.
+</font>
+</td>
+</tr>
+
+<!-- ----- Space between papers ---- -->
+<tr>
+<td>
+<br>
+</td>
+</tr>
+
+<!-- ----- Paper 0 ---- -->
+<tr>
+<td valign = top align = center>
+<img src="papers/aaai96/aaai.gif" width = 100>
+</td>
+
+<!-- ----- Spacing between fig & paper ---- -->
+<td width=25>&nbsp;</td>
+
+<td>
+<b>Context-Free Language Induction by Evolution of Deterministic
+Push-Down Automata Using Genetic Programming.</b><br>
+<font size = "-1">
+<a href = "papers/aaai96/aaai96.pdf">
+AAAI Fall Symposium</a>.
+Boston, 1995.
+<br>
+<br>
+The process of learning often consists of Inductive Inference, making
+generalizations from samples. The problem here is finding generalizations
+(Grammars) for Formal Languages from finite sets of positive and negative
+sample sentences. The focus of this paper is on Context-Free Languages
+(CFL's) as defined by Context-Free Grammars (CFG's), some of which are
+accepted by Deterministic Push-Down Automata (D-PDA). This paper describes
+a meta-language for constructing D-PDA's. This language is then combined
+with Genetic Programming to evolve D-PDA's which accept languages. The
+technique is illustrated with two favorite CFL's. 
+</font>
+</td>
+</tr>
+
+<!--- end of papers ---- -->
+</table>
+
+<!-- ----- Right-hand margin ----- -->
+<td width=25>&nbsp;</td>
+</tr>
+</table>
+<hr align=center noshade>
+</body>
+</html>
+
+
+
+
+
+

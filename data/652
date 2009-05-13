@@ -1,0 +1,252 @@
+http://www.cs.dartmouth.edu/reports/abstracts/TR96-290
+3
+<HTML>
+<!-- WARNING! Do not modify this file; it is
+      automatically generated from a database in www/TRdata/. -->
+<link rel="alternate" type="application/rss+xml" title="Dartmouth Computer Science Technical Reports" href="http://www.cs.dartmouth.edu/reports/feed.xml"/>
+<HEAD>
+<TITLE> Dartmouth PCS-TR96-290 </TITLE>
+<META NAME="description" CONTENT="MRI On the Fly:  Accelerating MRI Imaging Using LDA Classification with LDB Feature Extraction">
+<META NAME="number" CONTENT="PCS-TR96-290">
+<META NAME="year" CONTENT="1996">
+<META NAME="title" CONTENT="MRI On the Fly:  Accelerating MRI Imaging Using LDA Classification with LDB Feature Extraction">
+<META NAME="abstract" CONTENT="       To improve MRI acquisition time, we explored the uses of linear
+discriminant analysis (LDA), and local discriminant bases (LDB) for
+the task of classifying MRI images using a minimal set of signal
+acquisitions.
+       Our algorithm has both off-line and on-line components.  The
+off-line component uses the k-basis algorithm to partition a set of
+training images (all from a particular region of a patient) into
+classes.  For each class, we find a basis by applying the best basis
+algorithm on the images in that class.  We keep these bases to be used
+by the on-line process.  We then apply LDB to the training set with
+the class assignments, determining the best discriminant basis for the
+set.  We rank the basis coordinates according to discriminating power,
+and retain the top M coordinates for the on-line algorithm.  We keep
+the top M coordinates, which index the basis functions with the most
+discriminating capability, for on-line purposes.  Finally, we train
+LDA on these transformed coordinates, producing a classifier for the
+images.
+       With the off-line requirements complete, we can take advantage
+of the simplicity and speed of the on-line mechanism to acquire an
+image in a similar region of the patient.  We need acquire only the M
+important coordinates of the image in the discriminant basis to create
+a ``scout image.''  This image, which can be acquired quickly since M
+is much much smaller than the number of measurements needed to fill in
+the values of the 256 by 256 pixels, is then sent through the map
+furnished by LDA which in turn assigns a class to the image.
+Returning to the list of bases that we kept from the k-bases
+algorithm, we find the optimal basis for the particular class at hand.
+We then acquire the image using that optimal basis, omitting the
+coefficients with the least truncation error.  The complete image can
+then be quickly reconstructed using the inverse wavelet packet
+transform.
+       The power of our algorithm is that the on-line task is fast and
+simple, while the computational complexity lies mostly in the off-line
+task that needs to be done only once for images in a certain region.
+In addition, our algorithm only makes use of the flexibility of MRI
+hardware, so no modifications in hardware design are needed.">
+<META NAME="author" CONTENT="Y. Joy Ko">
+<META NAME="author" CONTENT="Michael B. Taylor">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<!-- Include file for abstracts/*.shtml, abstracts/*/*.shtml and authors/*.shtml -->
+<!-- See also footer.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<table border=0 rules=none>
+<col width=85><col width=100%><col width=85>
+<tr valign=center  bgcolor=#003300 border=0>
+ <td>
+   <a href=/><img src=/reports/Dartmouth2.png alt="Dartmouth logo"
+   width=82 height=91 border=0></a>
+ </td>
+ <td>
+   <font color=#ffffff size=+3>
+     Dartmouth College Computer Science<br>
+     Technical Report series
+   </font>
+ </td>
+ <td>
+  <a href="/"><font color=#ffffff>CS&nbsp;home</font></a><br>
+  <a href="/reports"><font color=#ffffff>TR&nbsp;home</font></a><br>
+  <a href="/reports/#search"><font color=#ffffff>TR&nbsp;search</font></a>
+  <a href="/reports/updates.html"><font color=#ffffff>TR&nbsp;listserv</font></a>
+ </td>
+</tr>
+<tr>
+  <td align=right> By author:
+  </td>
+  <td colspan=2>
+    <a href="/reports/authors/index.shtml#A">A</a>
+    <a href="/reports/authors/index.shtml#B">B</a>
+    <a href="/reports/authors/index.shtml#C">C</a>
+    <a href="/reports/authors/index.shtml#D">D</a>
+    <a href="/reports/authors/index.shtml#E">E</a>
+    <a href="/reports/authors/index.shtml#F">F</a>
+    <a href="/reports/authors/index.shtml#G">G</a>
+    <a href="/reports/authors/index.shtml#H">H</a>
+    <a href="/reports/authors/index.shtml#I">I</a>
+    <a href="/reports/authors/index.shtml#J">J</a>
+    <a href="/reports/authors/index.shtml#K">K</a>
+    <a href="/reports/authors/index.shtml#L">L</a>
+    <a href="/reports/authors/index.shtml#M">M</a>
+    <a href="/reports/authors/index.shtml#N">N</a>
+    <a href="/reports/authors/index.shtml#O">O</a>
+    <a href="/reports/authors/index.shtml#P">P</a>
+    <a href="/reports/authors/index.shtml#Q">Q</a>
+    <a href="/reports/authors/index.shtml#R">R</a>
+    <a href="/reports/authors/index.shtml#S">S</a>
+    <a href="/reports/authors/index.shtml#T">T</a>
+    <a href="/reports/authors/index.shtml#U">U</a>
+    <a href="/reports/authors/index.shtml#V">V</a>
+    <a href="/reports/authors/index.shtml#W">W</a>
+    <a href="/reports/authors/index.shtml#X">X</a>
+    <a href="/reports/authors/index.shtml#Y">Y</a>
+    <a href="/reports/authors/index.shtml#Z">Z</a>
+   </td>
+</tr>
+<tr>
+  <td align=right> By number: 
+  </td>
+  <td colspan=2>
+    <font size=-1>
+      <a href="/reports/abstracts/2009.shtml">2009</a>,
+      <a href="/reports/abstracts/2008.shtml">2008</a>,
+      <a href="/reports/abstracts/2007.shtml">2007</a>,
+      <a href="/reports/abstracts/2006.shtml">2006</a>,
+      <a href="/reports/abstracts/2005.shtml">2005</a>,
+      <a href="/reports/abstracts/2004.shtml">2004</a>,
+      <a href="/reports/abstracts/2003.shtml">2003</a>,
+      <a href="/reports/abstracts/2002.shtml">2002</a>,
+      <a href="/reports/abstracts/2001.shtml">2001</a>,
+      <a href="/reports/abstracts/2000.shtml">2000</a>,
+      <a href="/reports/abstracts/1999.shtml">1999</a>,
+      <a href="/reports/abstracts/1998.shtml">1998</a>,
+      <a href="/reports/abstracts/1997.shtml">1997</a>,
+      <a href="/reports/abstracts/1996.shtml">1996</a>,
+      <a href="/reports/abstracts/1995.shtml">1995</a>,
+      <a href="/reports/abstracts/1994.shtml">1994</a>,
+      <a href="/reports/abstracts/1993.shtml">1993</a>,
+      <a href="/reports/abstracts/1992.shtml">1992</a>,
+      <a href="/reports/abstracts/1991.shtml">1991</a>,
+      <a href="/reports/abstracts/1990.shtml">1990</a>,
+      <a href="/reports/abstracts/1989.shtml">1989</a>,
+      <a href="/reports/abstracts/1988.shtml">1988</a>,
+      <a href="/reports/abstracts/1987.shtml">1987</a>,
+      <a href="/reports/abstracts/1986.shtml">1986</a>
+    </font>
+  </td>
+</tr>
+</table>
+<hr>
+<!-- <table bgcolor=#lightyellow width=100%><tr><td> set the page background color -->
+
+<font size=+2><b> MRI On the Fly:  Accelerating MRI Imaging Using LDA Classification with LDB Feature Extraction </b></font><br>
+<font size=+1><b>
+ <A HREF="../../authors/Ko,Y..Joy.shtml">Y. Joy Ko</A>,
+ <A HREF="../../authors/Taylor,Michael.B..shtml">Michael B. Taylor</A>
+<br>
+Dartmouth PCS-TR96-290
+</b></font>
+<p><QUOTE>
+<b>Abstract:</b>
+</P><P>
+       To improve MRI acquisition time, we explored the uses of linear
+discriminant analysis (LDA), and local discriminant bases (LDB) for
+the task of classifying MRI images using a minimal set of signal
+acquisitions.
+</P><P>
+       Our algorithm has both off-line and on-line components.  The
+off-line component uses the k-basis algorithm to partition a set of
+training images (all from a particular region of a patient) into
+classes.  For each class, we find a basis by applying the best basis
+algorithm on the images in that class.  We keep these bases to be used
+by the on-line process.  We then apply LDB to the training set with
+the class assignments, determining the best discriminant basis for the
+set.  We rank the basis coordinates according to discriminating power,
+and retain the top M coordinates for the on-line algorithm.  We keep
+the top M coordinates, which index the basis functions with the most
+discriminating capability, for on-line purposes.  Finally, we train
+LDA on these transformed coordinates, producing a classifier for the
+images.
+</P><P>
+       With the off-line requirements complete, we can take advantage
+of the simplicity and speed of the on-line mechanism to acquire an
+image in a similar region of the patient.  We need acquire only the M
+important coordinates of the image in the discriminant basis to create
+a ``scout image.''  This image, which can be acquired quickly since M
+is much much smaller than the number of measurements needed to fill in
+the values of the 256 by 256 pixels, is then sent through the map
+furnished by LDA which in turn assigns a class to the image.
+Returning to the list of bases that we kept from the k-bases
+algorithm, we find the optimal basis for the particular class at hand.
+We then acquire the image using that optimal basis, omitting the
+coefficients with the least truncation error.  The complete image can
+then be quickly reconstructed using the inverse wavelet packet
+transform.
+</P><P>
+       The power of our algorithm is that the on-line task is fast and
+simple, while the computational complexity lies mostly in the off-line
+task that needs to be done only once for images in a certain region.
+In addition, our algorithm only makes use of the flexibility of MRI
+hardware, so no modifications in hardware design are needed.
+</QUOTE></p>
+<p><QUOTE>
+<b>Note:</b>
+A Senior Undergraduate Honors Thesis in Computer Science.<p>
+Postscript is 10 MB uncompressed!<br>
+You can also retrieve this file in two pieces:
+<a href="http://www.cs.dartmouth.edu/reports/TR96-290a.ps.Z">A</A>,
+<a href="http://www.cs.dartmouth.edu/reports/TR96-290b.ps.Z">B</A>
+</QUOTE></p>
+<HR>
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-290.ps.Z"><img align=center alt="PS.Z" width=30 height=32 border=0 src=../../ps.gif></a>
+ compressed postscript .ps.Z (2340KB)
+,
+ <a href="http://www.cs.dartmouth.edu/reports/TR96-290.pdf"><img align=center alt="PDF" width=29 height=32 border=0 src=../../pdf.gif></a>
+ PDF (2228KB)
+(derived from the ps.Z)
+<p>
+Bibliographic citation for this report:
+  [<a href="TR96-290.ascii">plain text</a>]
+  [<a href="TR96-290.bib">BIB</a>]
+  [<a href="TR96-290.bibtex">BibTeX</a>]
+  [<a href="TR96-290.refer">Refer</a>]
+</p>
+<p>Or copy and paste:<br>
+&nbsp;&nbsp;
+Y. Joy Ko and
+Michael B. Taylor, 
+"MRI On the Fly:  Accelerating MRI Imaging Using LDA Classification with LDB Feature Extraction."
+Dartmouth Computer Science Technical Report PCS-TR96-290,
+June 1996.
+</p>
+<!-- Include file for abstracts/*.html and authors/*.html -->
+<!-- See also header.htmlf -->
+<!-- I use absolute pathnames here because this file is used from several directories. -->
+<!-- </td></tr></table> -->
+<hr>
+
+<p><a href=/reports/updates.html>Notify me about new tech reports</a>.
+<a href=/reports/feed.xml><img src=/reports/rss.gif><a></p>
+<p><a href=/reports/index.shtml#search>Search the technical reports</a>.</p>
+<p>To receive paper copy of a report, by mail, 
+send your address and the TR number to <tt>reports</tt> AT <tt>cs.dartmouth.edu</tt>
+
+<hr>
+
+<p><font size=-1><b>Copyright notice</b>:	
+The documents contained in this server are included by the
+contributing authors as a means to ensure timely dissemination of
+scholarly and technical work on a non-commercial basis.  Copyright and
+all rights therein are maintained by the authors or by other copyright
+holders, notwithstanding that they have offered their works here
+electronically.  It is understood that all persons copying this
+information will adhere to the terms and constraints invoked by each
+author's copyright.  These works may not be reposted without the
+explicit permission of the copyright holder.
+</font></p> 
+<p><font size=-1><em>Technical reports collection maintained by David Kotz</em>.
+
+</BODY>
+</HTML>

@@ -1,0 +1,173 @@
+http://www.cs.dartmouth.edu/~farid/yearinreview06.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid: Image Science Group </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750>
+<tr>
+<td>
+
+<p>
+<b> Year in Review: 2006 </b>
+<p>
+
+I hope that this email finds you all well.  I write to update you on
+the happenings of the <a href="group.html">Image Science Group</a>.
+The group currently consists of Kimo Johnson, Weihong Wang, Peter
+Wayner and Jeff Woodward.
+
+<p>
+
+The lab continues to be incredibly productive and I am thrilled with
+both the intellectual content of our research in digital forensics,
+and in the impact it seems to be making in many corners of our
+society.  The lab's success is due to all of the current and former
+lab members who worked so hard -- to all of you, I am extremely
+thankful.
+
+<p>
+<HR>
+<p>
+
+<a href="http://www.mit.edu/~kimo/">Kimo Johnson</a> has been
+developing some exciting and powerful new forensic tools with an
+emphasis on lighting and optics.  Here is a link to some very nice
+work that exploits optical aberrations to detect tampering:
+
+<p>
+
+<dd> Exposing Digital Forgeries Through Chromatic Aberration </dd> 
+<dd> M.K. Johnson and H. Farid </dd> 
+<dd> ACM Multimedia and Security Workshop, Geneva, Switzerland, 2006</dd> 
+<dd> <a href="publications/acm06c.html">Abstract/Paper</a> </dd>
+
+<p>
+
+Kimo also worked through some complicated projective geometry and
+showed how some recent results from the computer vision community
+could be used in a forensic setting:
+
+<p>
+
+<dd> Metric Measurements on a Plane from a Single Image </dd>
+<dd> M.K. Johnson and H. Farid </dd> 
+<dd> Technical Report, TR2006-579, Dartmouth College, Computer Science </dd> 
+<dd> <a href="publications/tr06.html">Abstract/Paper</a> </dd> 
+
+<p>
+
+Kimo defended his Ph.D. proposal earlier this year, and while I am
+eager to keep Kimo in the lab for as long as possible, I expect that
+he will defend his Ph.D. dissertation some time in 2007.
+
+<p>
+<HR>
+<p>
+
+<a href="http://www.cs.dartmouth.edu/~whwang/">Weihong Wang</a> has
+been doing some excellent work in digital video forensics.  While the
+field of image forensics is slowly growing, the field of video
+forensics is currently non-existent, except for Weihong's first
+publication that describes how to detect a doubly-compressed video
+stream (this work expands on Alin Popescu's original work on detecting
+double image compression).  Here is a link to the paper:
+
+<dd> Exposing Digital Forgeries in Video by Detecting Double MPEG Compression </dd> 
+<dd> W. Wang and H. Farid </dd> 
+<dd> ACM Multimedia and Security Workshop, Geneva, Switzerland, 2006 </dd> 
+<dd> <a href="publications/acm06b.html">Abstract/Paper</a> </dd>
+
+<p>
+
+Weihong's early work has already garnered the attention of the popular
+press:
+
+<dd> <a href="press/techreview06.html"> Detecting Video Forgeries </a> in Technology Review </dd>
+<dd> <a href="press/news.com06a.html">Are Fake Videos Next?</a> in News.com </dd>
+
+<p>
+
+We are currently working on several other ideas and I expect Weihong
+to defend his Ph.D. proposal sometime in 2007.
+
+<p>
+
+<p>
+<HR>
+<p>
+
+Both Peter Wayner and Jeff Woodward have been working with us to help
+port all of our forensics work into a stand-alone software that can be
+used by a forensic examiner.  Thanks to their efforts, we are making
+significant progress and hope to have a beta-version to law
+enforcement by the summer of 2007.
+
+<p>
+<HR>
+<p>
+
+As for me, most significantly, I was awarded a Guggenheim Fellowship
+and in return given a year of sabbatical by Dartmouth.  I am spending
+most of my time in Santa Cruz, CA where I continue to collaborate with
+industry partners, and spend long days thinking, reading and writing.
+I was also promoted to Full Professor.  As always, you can find on my
+web page copies of our <a
+href="publications/publications.html">papers</a> and <a
+href="publications/publications.html#popularpress">popular press</a>
+accounts of our work.
+
+<p>
+<HR>
+<p>
+
+In alumni news, 
+<ul>
+
+<li> <a href="http://www.cs.albany.edu/~lsw/">Siwei Lyu</a> has been a
+postdoc at NYU for the past few years where he has continued to do
+exciting research in the area of natural image statistics.
+
+<li> Dave Martin is living in Seattle, WA with his wife, and is
+working at Wily Technologies where his work has him specializing in
+Java performance for large web applications.
+
+<li> Senthil Periaswamy became a father for the second time, and is
+working at Siemens in Philadelphia, PA doing some excellent work in
+various areas of medical imaging.
+
+<li> Alin Popescu is working at Renesys Inc. here in Hanover, NH and
+has been enjoying the algorithmic and systems-oriented challenges of
+the job.
+
+<li> <a href="http://www.jethrofilms.com">Jethro Rothe-Kushel</a> has
+been living in Los Angeles, CA and working in various corners of the
+movie industry.  Check out his website to see some of his work.
+
+<li> Kate Sherwin has moved to Austin, TX.  Having spent the past few
+years racing her bicycle professionally, Kate will be taking a job
+working in the field of computational finance.
+
+<li> Hai Sun has finished his M.D. and is currently interviewing for
+residency positions.
+
+</ul>
+
+<p>
+<HR>
+<p>
+
+I hope that this email finds you all well and happy.  Please stay in
+touch and let me know how things are.
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

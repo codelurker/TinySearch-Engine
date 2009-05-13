@@ -1,0 +1,154 @@
+http://www.cs.dartmouth.edu/farid/isg
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+  <head>
+    <title>Image Science Group Repository</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="description" content="Your description goes here" />
+    <meta name="keywords" content="your,keywords,come,here" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css" media="all">@import "/farid/isg/misc/drupal.css";</style><link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cs.dartmouth.edu/farid/isg/?q=rss.xml" />
+
+<link rel="shortcut icon" href="/farid/isg/files/multiflex_favicon.gif" type="image/x-icon" />
+    <style type="text/css" media="screen">@import "/farid/isg/themes/multiflex/css/style_screen.css";</style>    <style type="text/css" media="print">@import "/farid/isg/themes/multiflex/css/style_print.css";</style><style type="text/css" media="all">@import "/farid/isg/themes/multiflex/css/style_override.css";</style>  </head>
+
+  <body>
+    <div class="page-container-1">
+
+      <!-- HEADER -->
+      <!-- Flag navigations -->
+      <div class="navflag-container">
+	<div class="navflag">
+
+	</div>
+      </div>
+      
+      <!-- Navigation Level 1-->
+      <div class="nav1-container">
+	<div class="nav1">
+	  	</div>
+      </div>
+
+      <!-- Sitename -->
+      <div class="site-name">
+	<p class="title"><a href="/farid/isg/">Image Science Group Repository</a></p>      </div>
+      <!-- Site slogan -->
+      <div class="site-slogan-container">
+	<div class="site-slogan">
+	  <p class="text">	  </p>
+      	  
+
+	</div>
+      </div>
+      <!-- Header banner -->
+      <div><img class="img-header" src="/farid/isg/themes/multiflex/img/header.gif" alt=""/></div>
+
+
+      <!-- Buffer after header -->
+      <div class="buffer"></div>
+
+      <!-- Left block-->
+            <div class="mainnav">
+	<p class="sidebar-title-noshade bg-green07">
+  Search</p>
+<div class="sidebar-txtbox-noshade bg-green03">
+  <form action="/farid/isg/"  method="post" id="search_block_form">
+<div><div class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="edit[search_block_form_keys]" id="edit-search_block_form_keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" value="Search"  class="form-submit" />
+<input type="hidden" name="edit[form_id]" id="edit-search-block-form" value="search_block_form"  />
+</div>
+</div></form>
+</div>	
+
+
+
+  <p class="sidebar-title-noshade bg-blue07">
+    Navigation</p>
+      <div class="sidebar-txtbox-noshade bg-blue02 mainmenu">  
+  <ul>
+    <li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/7" title="Cluster">Cluster</a></li><li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/6" title="Frequently Asked Questions">FAQ</a></li><li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/5" title="LaTeX">LaTeX</a></li><li><a href="http://www.cs.dartmouth.edu/farid/isg/?q=taxonomy/term/4" title="MatLab">MatLab</a></li><li><a href="http://www.cs.dartmouth.edu/farid/group.html" title="Image Science Group">Image Science Group</a></li>  </ul>
+</div>
+
+      </div>
+            
+      <!-- CONTENT -->
+      <div class="content1">
+
+		<!-- Page title -->
+						
+	<!-- Content -->
+	<div class="content1-container">
+	  <!-- begin content --><!-- Text container -->
+<div class="content1-container line-box">
+  <div class="content1-container-1col">
+   <p class="content-title-shade-size3 bg-blue07 box-on">&nbsp;</p>
+   <p class="content-title-shade-size3 bg-blue03 txt-white"><a href="/farid/isg/?q=node/3 " title="Instructions">Instructions</a></p>
+      <div class="content-txtbox-shade">
+     <span class="submitted"></span>
+     <span class="taxonomy"></span>
+     <p>This page provides a repository for the Image Science Group at Dartmouth College.  Past and present group members are encouraged to post any code or hints that they think will be helpful to others.  Those not part of the Image Science Group are welcome to browse these pages, but at this time no accounts will be given out to non-members.</p>
+<p> In order to post:</p>
+<ol>
+<li> login
+<li> select 'create content' from the menu
+<li> select 'story'
+<li> Fill in the 'Title' field
+<li> Fill in the 'Category' field (Cluster, FAQ, LaTeX, or Matlab)
+<li> Fill in the 'Body' field with a brief description
+<li> If appropriate, select 'File Attachment', choose file for upload, and select 'Attach'
+<li> Select 'Submit'
+</ol>
+<p>When uploading code, please comment your code and add a header of the form:<br />
+<code><br />
+%%%<br />
+%%% IMROTATE: rotate an image about its center<br />
+%%%   imrotate( im, th, method )<br />
+%%%      im: grayscale or color image<br />
+%%%      th: rotation amount in degrees<br />
+%%%      method: interpolation method (nearest, linear, cubic, or spline)</p>
+          <p class="readmore align-right"><a href="/farid/isg/?q=node/3" title="Read the rest of this posting." class="read-more">read more</a></p>    
+        </div>
+  </div>
+</div>
+<!-- end content -->	</div>
+      </div>
+      
+
+      <!-- SIDEBAR -->
+            <div class="sidebar">
+	<p class="sidebar-title-noshade bg-green07">
+  User login</p>
+<div class="sidebar-txtbox-noshade bg-green03">
+  <form action="/farid/isg/?q=node&amp;destination="  method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="edit[name]" id="edit-name"  size="15" value="" class="form-text required" />
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" maxlength="" name="edit[pass]" id="edit-pass"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li><a href="/farid/isg/?q=user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="edit[form_id]" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>	
+
+
+      </div>
+      
+      
+
+      <!-- FOOTER -->
+      <div class="footer">
+		<p>
+</p>
+		<p>Image Science Group Repository</p>
+      </div>
+    </div>
+      </body>
+</html>

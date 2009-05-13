@@ -1,0 +1,1505 @@
+http://www.cs.dartmouth.edu/~farid/publications
+3
+<html>
+<a name="top"></a>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+<HR>
+<table align=center width=700>
+<tr>
+<td align=center> <font size=-1><b><a href="../home.html">HOME</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../group.html">PEOPLE</a></b></font> </td>
+<td align=center> <font size=-1><b>PAPERS</b></font> </td>
+<td align=center> <font size=-1><b><a href="../research">RESEARCH</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../teaching">TEACHING</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../tutorials">TUTORIALS</a></b></font> </td>
+</tr>
+</table>
+<HR>
+
+<table align=center width=750>
+
+<tr><td valign=top>
+<table width=600>
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<dl>
+<a name="2009"></a>
+
+<dt> <b>Photo Fakery and Forensics</b>
+<BR>
+<dd> H. Farid
+<dd> <i>In</i> Advances in Computers, 2009 <i>(in press)</i>
+<dd> <a href="advcomp09.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Digital Imaging</b>
+<BR>
+<dd> H. Farid
+<dd> <i>In</i> Encyclopedia of Perception, 2009 <i>(in press)</i>
+<dd> <a href="digitalimaging09.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>A Survey of Image Forgery Detection</b>
+<BR>
+<dd> H. Farid
+<dd> IEEE Signal Processing Magazine, 26(2):16-25, 2009
+<dd> <a href="spm09.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries from JPEG Ghosts </b>
+<BR> 
+<dd> H. Farid
+<dd> IEEE Transactions on Information Forensics and Security 4(1):154-160, 2009
+<dd> <a href="tifs09.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Modeling 3-Dimensional Morphological Structures using
+Spherical Harmonics</b>
+<BR>
+<dd> L. Shen, H. Farid and M.A. McPeek
+<dd> Evolution, 63(4):1003-1016, 2009
+<dd> <a href="evolution08a.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b>Training Determines the Target Representation for Search </b><BR>   
+<dd> M.J. Bravo and H. Farid 
+<dd> Vision Sciences (VSS), Naples, FL, 2009
+<dd> <a href= "vss09.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt><b> The Specificity of the Search Template </b><BR>   
+<dd> M.J. Bravo and H. Farid 
+<dd> Journal of Vision, 9(1):34, 1-9, 2009
+<dd> <a href= "jov09.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> The Correlated Evolution of 3-Dimensional Reproductive Structure Between Male and Female Damselflies</b>
+<BR>
+<dd> M.A. McPeek, L. Shen and H. Farid 
+<dd> Evolution, 63(1):73-83, 2009
+<dd> <a href="evolution08.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b> Digital Doctoring: can we trust photographs? </b><BR>   
+<dd> H. Farid <BR> 
+<dd> <i>In</i> Deception: Methods, Motives, Contexts and Consequences, 2009
+<dd> <a href= "deception09.html"> Abstract/Paper</a> 
+
+<BR>
+</dl>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=left> 
+<dl>
+<a name="2008"></a>
+
+<dt> <b> Digital Image Ballistics from JPEG Quantization: A Followup Study </b>
+<BR> 
+<dd> H. Farid
+<dd> Technical Report, TR2008-638, Dartmouth College, Computer Science 
+<dd> <a href="tr08.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Printer Profiling for Forensics and Ballistics</b>
+<BR> 
+<dd> E. Kee and H. Farid
+<dd> ACM Multimedia and Security Workshop, Oxford, UK, 2008
+<dd> <a href="acm08.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Digital Image Forensics</b>
+<BR> 
+<dd> H. Farid
+<dd> Scientific American, 298(6):66-71, 2008
+<dd> <a href="sciam08.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Detecting Re-Projected Video </b>
+<BR> 
+<dd> W. Wang and H. Farid
+<dd> 10th International Workshop on Information Hiding, Santa Barbara, CA, 2008
+<dd> <a href="ih08.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b> Photography Changes What We Are Willing To Believe</b><BR>
+<dd> H. Farid <BR>
+<dd> Smithsonian Photography Initiative, 2008
+<dd> <a href= "click08.html">Commentary</a>
+
+<BR><BR>
+
+<dt><b> The Tempo and Mode of 3-Dimensional Morphological Evolution in Male Reproductive Structures</b><BR>
+<dd> M.A. McPeek, L. Shen, J.Z. Torrey and H. Farid <BR>
+<dd> American Naturalist, 171(5):E158-E178, 2008
+<dd> <a href= "amnat08.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b> Digital Image Forensics </b><BR>   
+<dd> H. Farid <BR> 
+<dd> American Academy of Forensic Sciences, Washington, DC, 2008
+<dd> <a href= "aafs08a.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt><b> Digital Video Forensics </b><BR>   
+<dd> H. Farid <BR> 
+<dd> American Academy of Forensic Sciences, Washington, DC, 2008
+<dd> <a href= "aafs08b.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt><b> A Scale Invariant Measure of Image Clutter </b><BR>   
+<dd> M.J. Bravo and H. Farid <BR> 
+<dd> Journal of Vision, 8(1):1-9, 2008
+<dd> <a href= "jov07.html"> Abstract/Paper</a> 
+
+<BR>
+</dl>
+</td>
+</tr>
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<dl>
+<a name="2007"></a>
+
+<dt> <b> Lighting and Optical Tools for Image Forensics </b>
+<dd> Micah K. Johnson <i> (advisor: H. Farid) </i>
+<dd> Ph.D. Dissertation, Department of Computer Science, 
+     Dartmouth College, 2007 
+<dd> <a href= "mkjthesis07.html"> Abstract/Dissertation</a> 
+
+<BR><BR>
+
+<dt> <b> Video Stabilization and Enhancement </b>
+<BR> 
+<dd> H. Farid and J.B. Woodwoard
+<dd> Technical Report, TR2007-605, Dartmouth College, Computer Science 
+<dd> <a href="tr07.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Detecting Photographic Composites of People</b>
+<BR>
+<dd> M.K. Johnson and H. Farid
+<dd> 6th International Workshop on Digital Watermarking, Guangzhou, China, 2007
+<dd> <a href="iwdw07.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries in Video by Detecting Duplication</b>
+<BR> 
+<dd> W. Wang and H. Farid
+<dd> ACM Multimedia and Security Workshop, Dallas, TX, 2007
+<dd> <a href="acm07.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries in Complex Lighting Environments </b>
+<BR> 
+<dd> M.K. Johnson and H. Farid
+<dd> IEEE Transactions on Information Forensics and Security, 2(3):450-461, 2007 
+<dd> <a href="tifs07a.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries in Interlaced and De-Interlaced Video </b>
+<BR> 
+<dd> W. Wang and H. Farid
+<dd> IEEE Transactions on Information Forensics and Security, 2(3):438-449, 2007
+<dd> <a href="tifs07.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries Through Specular Highlights on the Eye </b>
+<BR> 
+<dd> M.K. Johnson and H. Farid
+<dd> 9th International Workshop on Information Hiding, Saint Malo, France, 2007
+<dd> <a href="ih07.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b> Estimating Planar Surface Orientation Using Bispectral Analysis</b> <BR>
+<dd> H. Farid and J. Kosecka<BR> 
+<dd> IEEE Transactions on Image Processing, 16(8):2154-2160, 2007 <BR>
+<dd> <a href= "ip07.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt><b> Photorealistic Rendering: How Realistic Is It? </b><BR>   
+<dd> H. Farid and M.J. Bravo <BR> 
+<dd> Vision Sciences (VSS), Sarasota, FL, 2007
+<dd> <a href= "vss07.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt><b> A Measure of Relative Set Size for Search in Clutter </b> <BR>
+<dd> M.J. Bravo and H. Farid <BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2007
+<dd> <a href= "vss07a.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt> <b> The Depth of Distractor Processing in Search with Clutter </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid
+<dd> Perception, 36(6):821-829, 2007
+<dd> <a href="perception06.html">Abstract/Paper</a>
+
+<BR><BR>
+</dl>
+</td>
+</tr>
+
+
+<tr>
+<td valign=top align=left> 
+<dl>
+<a name="2006"></a>
+
+<dt><b> Quantifying Surface Fluctuations using Optical Flow Techniques and
+Multi-Temporal LiDAR </b><BR>
+<dd> D.C. Finnegan, H. Farid, D.E. Lawson and W. Krabill <BR> 
+<dd> Transactions of the American Geophysical Union, San Francisco, CA, 2006
+<dd> <a href= "agu06.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt> <b> Digital Image Ballistics from JPEG Quantization </b>
+<BR> 
+<dd> H. Farid
+<dd> Technical Report, TR2006-583, Dartmouth College, Computer Science 
+<dd> <a href="tr06a.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Digital Doctoring: How to tell the real from the fake </b>
+<BR> 
+<dd> H. Farid
+<dd> Significance, 3(4):162-166, 2006
+<dd> <a href="significance06.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Metric Measurements on a Plane from a Single Image </b>
+<BR> 
+<dd> M.K. Johnson and H. Farid
+<dd> Technical Report, TR2006-579, Dartmouth College, Computer Science 
+<dd> <a href="tr06.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries in Scientific Images </b>
+<BR> 
+<dd> H. Farid
+<dd> ACM Multimedia and Security Workshop, Geneva, Switzerland, 2006
+<dd> <a href="acm06a.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries in Video by Detecting Double MPEG Compression </b>
+<BR> 
+<dd> W. Wang and H. Farid
+<dd> ACM Multimedia and Security Workshop, Geneva, Switzerland, 2006
+<dd> <a href="acm06b.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries Through Chromatic Aberration </b>
+<BR> 
+<dd> M.K. Johnson and H. Farid
+<dd> ACM Multimedia and Security Workshop, Geneva, Switzerland, 2006
+<dd> <a href="acm06c.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b>A Digital Technique for Authentication in the Visual Arts </b><BR>
+<dd> D. Rockmore, S. Lyu and H. Farid <BR> 
+<dd> International Foundation for Art Research, (8)2:12-23, 2006
+<dd> <a href="ifar06.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b>Using an Interest Point Detector to Find Potential Fragments for 
+Recognition</b><BR>
+<dd> M.J. Bravo and H. Farid <BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2006 
+<dd> <a href="vss06.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b>The Contribution of Statistical Image Differences to Human Rapid Categorization of Natural Scenes is Negligible </b><BR>
+<dd> V. Maljkovic, P. Martini and H. Farid <BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2006 
+<dd> <a href="vss06b.html">Abstract</a>
+
+<BR><BR>
+
+<dt><b>Steganalysis Using Higher-Order Image Statistics </b><BR>
+<dd> S. Lyu and H. Farid <BR> 
+<dd> IEEE Transactions on Information Forensics and Security, 1(1):111-119, 2006
+<dd> <a href= "tifs05.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+
+<dt> <b> Medical Image Registration with Partial Data </b>
+<BR> 
+<dd> S. Periaswamy and H. Farid
+<dd> Medical Image Analysis, 10:452-464, 2006
+<dd> <a href="mia05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Object Recognition in Dense Clutter </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid
+<dd> Perception & Psychophysics, 68(6):911-918, 2006
+<dd> <a href="pp05.html">Abstract/Paper</a>
+
+</dl>
+</td>
+</tr>
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<dl>
+<a name="2005"></a>
+
+<dt><b> Quantifying Planetary and Terrestrial Geologic Surfaces Using Wavelet Statistics </b><BR>
+<dd> H. Farid and D.C. Finnegan<BR> 
+<dd> Transactions of the American Geophysical Union, San Francisco, CA, 2005
+<dd> <a href= "agu05.html"> Abstract</a> 
+
+<BR><BR>
+
+<dt> <b> Natural Image Statistics for Digital Image Forensics </b>
+<dd> Siwei Lyu <i> (advisor: H. Farid) </i>
+<dd> Ph.D. Dissertation, Department of Computer Science, 
+     Dartmouth College, 2005 
+<dd> <a href= "slthesis05.html"> Abstract/Dissertation</a> 
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries by Detecting Inconsistencies in
+Lighting </b>
+<BR> 
+<dd> M.K. Johnson and H. Farid
+<dd> ACM Multimedia and Security Workshop, New York, NY, 2005 
+<dd> <a href="acm05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Wavelet Analysis for Authentication </b>
+<BR> 
+<dd> S. Lyu, D. Rockmore and H. Farid
+<dd> Art+Math=X, Boulder, CO, 2005 
+<dd> <a href="art+math05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>  Exposing Digital Forgeries in Color Filter Array Interpolated
+Images </b>
+<BR> 
+<dd> A.C. Popescu and H. Farid
+<dd> IEEE Transactions on Signal Processing, 53(10):3948-3959, 2005
+<dd> <a href="sp05a.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>  Stereopsis-Guided Brain Shift Compensation </b>
+<BR> 
+<dd> H. Sun, K.E. Lunn, H. Farid, Z. Wu, D.W. Roberts, A. Hartov, and K.D. Paulsen
+<dd> IEEE Transactions on Medical Imaging, 24(8):1039-1052, 2005
+<dd> <a href="medimg05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> How Realistic is Photorealistic? </b>
+<BR> 
+<dd> S. Lyu and H. Farid
+<dd> IEEE Transactions on Signal Processing, 53(2):845-850, 2005
+<dd> <a href="sp05b.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Exposing Digital Forgeries by Detecting Traces of Re-sampling </b>
+<BR> 
+<dd> A.C. Popescu and H. Farid
+<dd> IEEE Transactions on Signal Processing, 53(2):758-767, 2005
+<dd> <a href="sp05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> The Depth of Distractor Processing in Search Through Clutter</b>
+<BR> 
+<dd> M.J. Bravo and H. Farid 
+<dd> Vision Sciences (VSS), Sarasota, FL, 2005
+<dd> <a href="vss05.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b> The Dartmouth Green Grid </b>
+<BR> 
+<dd> J.E. Dobson, J.B. Woodward, S.A. Schwarz, J.C. Marchesini,
+H. Farid, and S.W. Smith
+<dd> Workshop on High Performance Computing in Academia (in
+conjunction with International Conference on Computational Science),
+Atlanta, GA, 2005
+<dd> <a href="iccs05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>  Cortical Surface Tracking Using a Stereoscopic Operating Microscope </b>
+<BR> 
+<dd> H. Sun, D.W. Roberts, H. Farid, Z. Wu, A. Hartov and K.D. Paulsen
+<dd> Neurosurgery, 56:86-97, 2005
+<dd> <a href="neuro05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Steganalysis of Recorded Speech </b>
+<dd> M.K. Johnson, S. Lyu and H. Farid
+<dd> SPIE Symposium on Electronic Imaging, San Jose, CA, 2005
+<dd> <a href="spie05.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>  Stereopsis-Guided Brain Shift Compensation  </b>
+<dd> H. Sun <i> (advisor: H. Farid and K. Paulsen) </i>
+<dd> Ph.D. Dissertation, Thayer School of Engineering,
+     Dartmouth College, 2005 
+<dd> <a href= "hsthesis05.html"> Abstract/Dissertation</a> 
+
+<BR><BR>
+
+<dt> <b>  Statistical Tools for Digital Image Forensics </b>
+<dd> A.C. Popescu <i> (advisor: H. Farid) </i>
+<dd> Ph.D. Dissertation, Department of Computer Science, 
+     Dartmouth College, 2005 
+<dd> <a href= "apthesis05.html"> Abstract/Dissertation</a> 
+
+<BR><BR>
+</dl>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=left> 
+<a name="2004"></a>
+
+<dt> <b>  A Digital Technique for Art Authentication </b>
+<dd> S. Lyu, D. Rockmore and H. Farid
+<dd> Proceedings of the National Academy of Sciences, 101(49):17006-17010, 2004 
+<dd> <a href="pnas04.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Discrete-Time Fractional Differentiation from Integer Derivatives</b>
+<BR> 
+<dd>  H. Farid
+<dd> Technical Report, TR2004-528, Dartmouth College, Computer Science
+<dd> <a href= "tr04b.html"> Abstract/Report</a> 
+
+<BR><BR>
+
+<dt> <b> Creating and Detecting Doctored and Virtual Images:
+Implications to The Child Pornography Prevention Act </b>
+<BR> 
+<dd>  H. Farid
+<dd> Technical Report, TR2004-518, Dartmouth College, Computer Science
+<dd> <a href= "tr04a.html"> Abstract/Report</a> 
+
+<BR><BR>
+
+<dt> <b>  Exposing Digital Forgeries by Detecting Duplicated Image Regions</b>
+<BR> 
+<dd> A.C. Popescu and H. Farid <BR> 
+<dd> Technical Report, TR2004-515, Dartmouth College, Computer Science
+<dd> <a href= "tr04.html"> Abstract/Report</a> 
+
+<BR><BR>
+
+<dt> <b>  Statistical Tools for Digital Forensics </b>
+<BR> 
+<dd> A.C. Popescu and H. Farid
+<dd> 6th International Workshop on Information Hiding, Toronto, Canada, 2004
+<dd> <a href="ih04.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Search For a Category Target in Clutter </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid <BR>
+<dd> Perception, 33:643-652, 2004
+<dd> <a href="perception04.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Still Searching a Cluttered Scene </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid <BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2004 
+<dd> <a href="vss04a.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b> The Time-Course of Categorization of Real-Life Scenes with Affective 
+Content </b>
+<BR> 
+<dd> V. Maljkovic, P. Martini and H. Farid <BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2004 
+<dd> <a href="vss04b.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b>Differentiation of Multi-Dimensional Signals</b>
+<dd> H. Farid and E.P. Simoncelli
+<dd> IEEE Transactions on Image Processing, 13(4):496-508, 2004
+<dd> <a href="ip04.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Steganalysis Using Color Wavelet Statistics and One-Class
+Support Vector Machines </b>
+<dd> S. Lyu and H. Farid
+<dd> SPIE Symposium on Electronic Imaging, San Jose, CA, 2004 
+<dd> <a href="spie04.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Recognizing and Segmenting Objects in Clutter</b>
+<dd> M.J. Bravo  and H. Farid
+<dd> Vision Research, 44(4):385-396, 2004
+<dd> <a href="vr03.html">Abstract/Paper</a>
+
+<BR><BR>
+
+</dl>
+</td>
+</tr>
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<a name="2003"></a>
+<dl>
+
+<dt> <b> A Non-Contacting 3-D Digitizer for Use in Image-Guided
+Neurosurgery</b>
+<dd> H. Sun, H. Farid, D.W. Roberts, K. Rick, A. Hartov and K.D. Paulsen
+<dd> Stereotactic and Functional Neurosurgery, 80(1-4):120-124, 2003 
+<dd> <a href="sfn03.html">Abstract/Paper</a>
+<BR><BR>
+
+<dt> <b> Probabilistic Disease Classification of Expression-Dependent
+Proteomic Data from Mass Spectrometry of Human Serum</b>
+<dd> R.H. Lilien, H. Farid and B.R. Donald
+<dd> Journal of Computational Biology, 10(6):925-946, 2003
+<dd> <a href="jcb03.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Elastic Registration in the Presence of Intensity Variations
+</b>
+<dd> S. Periaswamy and H. Farid
+<dd> IEEE Transactions on Medical Imaging, 22(7):865-874, 2003
+<dd> <a href="medimg03.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Object Segmentation by Top-Down Processes </b>
+<dd> M.J. Bravo and H. Farid
+<dd> Visual Cognition, 10(4):471-491, 2003 
+<dd> <a href="viscog03.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>  A Picture Tells a Thousand Lies </b>
+<dd> H. Farid 
+<dd> New Scientist, 179(2411):38-41, Sept. 6, 2003 
+<dd> <a href="ns03.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Estimating Cortical Surface Motion Using Stereopsis for Brain
+Deformation Models</b>
+<dd> H. Sun, H. Farid, K. Rick, A. Hartov, D.W. Roberts and K.D. Paulsen
+<dd> Medical Image Computing & Computer Assisted Intervention
+(MICCAI), Montreal, Canada, 2003
+<dd> <a href="miccai03a.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Patient Classification of fMRI Activation Maps</b>
+<dd> J. Ford, H. Farid, F. Makedon, L.A. Flashman, T.W. McAllister,
+V. Megalooikonomou and A.J. Saykin
+<dd> Medical Image Computing & Computer Assisted Intervention
+(MICCAI), Montreal, Canada, 2003
+<dd> <a href="miccai03b.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Elastic Registration with Partial Data</b>
+<dd> S. Periaswamy and H. Farid
+<dd> Second International Workshop on Biomedical Image Registration,
+Philadelphia, PA, 2003
+<dd> <a href="wbir03.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>Higher-Order Wavelet Statistics and their Application
+to Digital Forensics</b>
+<dd> H. Farid and S. Lyu
+<dd> IEEE Workshop on Statistical Analysis in Computer Vision (in
+conjunction with CVPR), Madison, Wisconsin, 2003
+<dd> <a href="sacv03.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> General-Purpose Medical Image Registration </b>
+<dd> S. Periaswamy <i> (advisor: H. Farid) </i>
+<dd> Ph.D. Dissertation, Department of Computer Science, 
+     Dartmouth College, 2003 
+<dd> <a href= "spthesis03.html"> Abstract/Dissertation</a> 
+
+<BR><BR>
+
+<dt> <b> A Non-Contacting 3-D Digitizer For Use in Image-Guided
+Neurosurgery</b>
+<BR>
+<dd> H. Sun, H. Farid D. Roberts, K. Rick, A. Kartov and K.D. Paulsen<BR> 
+<dd> American Society for Stereotactic and Functional
+Neurosurgery, New York City, 2003
+<dd> <a href="assfn03.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b> Searching a Cluttered Scene </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid <BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2003 
+<dd> <a href="vss03.html">Abstract</a>
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr>
+<td valign=top align=left> 
+<a name="2002"></a>
+<dl>
+
+<dt> <b> Hillslope Topography from Unconstrained Photographs </b>
+<dd> A. Heimsath and H. Farid
+<dd> Mathematical Geology, 34(8):929-952, 2002
+<dd> <a href="mathgeo02.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Temporal Synchrony in Perceptual Grouping: a Critique</b>
+<dd> H. Farid
+<dd> Trends in Cognitive Sciences, 6(7):284-288, 2002 
+<dd> <a href="tics02.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Detecting Hidden Messages Using Higher-Order Statistics and
+Support Vector Machines </b>
+<dd> S. Lyu and H. Farid
+<dd> 5th International Workshop on Information Hiding,
+Noordwijkerhout, The Netherlands, 2002
+<dd> <a href="ih02.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Detecting Hidden Messages Using Higher-Order Statistical Models </b>
+<dd> H. Farid
+<dd> International Conference on Image Processing (ICIP), Rochester, NY, 2002
+<dd> <a href="icip02.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Real-time Correction Scheme for Calibration and Implementation of
+Microscope-based Image-guided Neurosurgery </b>
+<dd> H. Sun, H. Farid, A. Hartov, K.E. Lunn, D.W. Roberts and K.D. Paulsen
+<dd> SPIE's International Symposium on Medical Imaging, San Diego, CA, 2002
+<dd> <a href="spie02.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Hillslope Topography from Unconstrained Photographs </b>
+<BR> 
+<dd> A.M. Heimsath and H. Farid <BR>
+<dd> Transactions of the American Geophysical Union, San Francisco, CA, 2002
+<dd> <a href="agu02.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b> Energy versus Synchrony in Perceptual Grouping </b>
+<BR> 
+<dd> H. Farid and E.H. Adelson<BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2002 
+<dd> <a href="vss02a.html">Abstract</a>
+
+<BR><BR>
+
+<dt> <b> Segmentation in Clutter </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid
+<dd> Vision Sciences (VSS), Sarasota, FL, 2002 
+<dd> <a href="vss02b.html">Abstract</a>
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<a name="2001"></a>
+<dl>
+
+<dt> <b> Synchrony Does Not Promote Grouping in Temporally Structured 
+Displays </b> 
+<dd> H. Farid and E.H. Adelson
+<dd> Nature Neuroscience, 4(9):875-876, 2001
+<dd> <a href="nn01.html">Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Blind Removal of Lens Distortions </b> 
+<dd> H. Farid and A.C. Popescu 
+<dd> Journal of the Optical Society of America, 18(9):2072-2078, 2001
+<dd> <a href="josa01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Blind Inverse Gamma Correction </b> 
+<dd> H. Farid 
+<dd> IEEE Transactions on Image Processing, 10(10):1428-1433, 2001
+<dd> <a href="ip01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b> Texture Perception on Folded Surfaces </b>
+<dd> M.J. Bravo and H. Farid
+<dd> Perception, 30(7):819-832, 2001 
+<dd> <a href="perception01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt><b> Occlusion Junctions do not Improve Stereoacuity </b>
+<dd> R. van Ee, B. Anderson and H. Farid
+<dd> Spatial Vision, 15(1):45-49, 2001
+<dd> <a href="sv01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b>  Unfolding Sennedjem's Tomb </b>
+<dd> H. Farid and S. Farid
+<dd> KMT: A Modern Journal of Ancient Egypt, 12(1):46-59, 2001
+<dd> <a href="kmt01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Blind Removal of Image Non-Linearities </b>
+<dd> H. Farid and A.C. Popescu
+<dd>  International Conference on Computer Vision (ICCV), 
+Vancouver, Canada, 2001
+<dd> <a href="iccv01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Reconstructing Ancient Egyptian Tombs </b>
+<dd> H. Farid
+<dd> The International Symposium on Virtual and Augmented
+Architecture, Dublin, Ireland, 2001
+<dd> <a href="vaa01.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> A Global Probabilistic Approach to Fiber Tractography with
+Diffusion Tensor MRI </b>
+<BR> 
+<dd> S. Inati, H. Farid, K. Sherwin and S. Grafton<BR>
+<dd> Human Brain Mapping, Brighton, UK, 2001 
+<dd> <a href= "hbm01.html"> Abstract</a>
+
+<BR><BR>
+
+<dt> <b> Top-Down and Bottom-Up Processes for Object Segmentation </b>
+<BR> 
+<dd> M.J. Bravo and H. Farid<BR>
+<dd> Vision Sciences (VSS), Sarasota, FL, 2001 
+<dd> <a href= "vss01.html"> Abstract</a>
+
+<BR><BR>
+
+<dt> <b> Lesion Size Estimation Using Warped Registration of Interval Images </b>
+<BR> 
+<dd> J.B. Weaver, S. Periaswamy, H. Farid, D.N. Rockmore,
+C.J. Kasales, W. Black and D.M. Healy Jr.
+<dd> International Society for Magnetic Resonance in Medicine (ISMRM),
+Glasgow, UK., 2001
+
+<BR><BR>
+
+<dt> <b> Detecting Steganographic Messages in Digital Images</b>
+<dd> H. Farid
+<dd> Technical Report, TR2001-412, Dartmouth College, Computer Science
+<dd> <a href= "tr01.html"> Abstract/Report</a> 
+
+<BR><BR>
+
+<dt> <b> Differential Elastic Image Registration</b>
+<dd> S. Periaswamy and H. Farid
+<dd> Technical Report, TR2001-413, Dartmouth College, Computer Science
+<dd> <a href= "tr01a.html"> Abstract/Report</a> 
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr>
+<td valign=top align=left> 
+<a name="2000"></a>
+<dl>
+
+<dt><b> A New Approach to the Design of Uniquely Folded Thermally Stable
+Proteins </b> 
+<dd> X. Jiang, H. Farid, E. Pistor and R. S. Farid 
+<dd> Protein Science, 9:403-416, 2000 
+<dd> <a href="protein00.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Effects of 3D Structure on Motion Segmentation </b>
+<dd> M.J. Bravo and H. Farid
+<dd> Vision Research, 40(6):695-704, 2000
+<dd> <a href= "vr00.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Differential Affine Motion Estimation for Medical Image Registration </b>
+<dd> S. Periaswamy, J.B. Weaver, D.M. Healy Jr., D. Rockmore, P.J. Kostelec and H. Farid
+<dd> SPIE's 45th Annual Meeting, San Diego, CA, 2000
+<BR>     
+<dd> <a href="spie00.html"> Abstract/Paper</a>
+
+<BR><BR>
+
+<dt> <b> Standard Mechanisms Can Explain Grouping in Temporally Synchronous
+Displays </b>
+<BR> 
+<dd> H. Farid and E.H. Adelson 
+<dd> Investigative Opthalmology and Visual Science (ARVO), Fort Lauderdale,
+FL, 2000 
+<dd> <a href= "arvo00a.html"> Abstract</a>
+
+<BR><BR>
+
+<dt> <b> The Role of Object Recognition in Scene Segmentation </b> 
+<dd> M.J. Bravo and H. Farid
+<BR> 
+<dd> Investigative Opthalmology and Visual Science (ARVO), Fort
+Lauderdale, FL, 2000 
+<dd> <a href= "arvo00b.html"> Abstract</a> 
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<a name="1999"></a>
+<dl>
+
+<dt> <b> Filtering Reveals Form in Temporally Structured Displays </b> 
+<dd> E.H. Adelson and H. Farid 
+<dd> Science, 286:2231, 1999 
+<dd> <a href= "science99.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Separating Reflections from Images by use of Independent
+Components Analysis </b> 
+<dd> H. Farid and E.H. Adelson 
+<dd> Journal of the Optical Society of America, 16(9):2136-2145, 1999
+<dd> <a href= "josa99.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Separating Reflections and Lighting Using Independent Components
+Analysis </b>
+<dd> H. Farid and E.H. Adelson
+<dd> Computer Vision and Pattern Recognition (CVPR), Fort Collins, CO,
+1999.     
+<dd> <a href= "cvpr99.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Detecting Digital Forgeries Using Bispectral Analysis </b>
+<dd> H. Farid
+<dd> Technical Report, AIM-1657, MIT AI Memo, 1999
+<dd> <a href="tr99.html">Abstract/Report</a>
+
+<BR><BR>
+
+<dt> <b> Texture Segmentation in 3D </b><BR> <dd> M.J. Bravo and H. Farid
+<BR> 
+<dd> Investigative Opthalmology and Visual Science (ARVO), Fort
+Lauderdale, FL, 1999 
+<dd> <a href= "arvo99.html"> Abstract</a> 
+
+</dl>
+</td>
+</tr>
+
+
+<tr>
+<td valign=top align=left> 
+<a name="1998"></a>
+<dl>
+
+<dt> <b> Range Estimation by Optical Differentiation  </b>
+<dd> H. Farid and E.P. Simoncelli 
+<dd> Journal of the Optical Society of America, 15(7):1777-1786, 1998   
+<dd> <a href= "josa98.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> The Effects of 2D and 3D Smoothness on Motion Segmentation
+</b><BR> 
+<dd> M.J. Bravo and H. Farid <dd> Investigative
+Opthalmology and Visual Science (ARVO), Fort Lauderdale, FL, 1998
+<dd> <a href= "arvo98.html"> Abstract</a> 
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<a name="1997"></a>
+<dl>
+
+<dt> <b> Optimally Rotation-Equivariant Directional Derivative Kernels</b> 
+<dd> H. Farid and E.P. Simoncelli
+<dd> Computer Analysis of Images and Patterns (CAIP), Kiel, Germany, 1997
+<dd> <a href= "caip97.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Range Estimation by Optical Differentiation </b>
+<dd> H. Farid
+<dd> Ph.D. Dissertation, Department of Computer and Information
+Science, University of Pennsylvania, 1997
+<dd> <a href= "thesis97.html"> Abstract/Dissertation</a> 
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr>
+<td valign=top align=left> 
+<a name="1996"></a>
+<dl>
+
+<dt> <b> Steerable Wedge Filters for Local Orientation Analysis </b>
+<dd> E.P. Simoncelli and H. Farid 
+<dd> IEEE Transactions on Image Processing, 5(9):1377-1382, 1996  
+<dd> <a href= "ip96.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Prediction and Evaluation of Side-chain Conformations for Protein
+Backbone Structures </b>
+<dd> P.S. Shenkin, H. Farid and J.S. Fetrow
+<dd> Proteins: Structure, Function and Genetics, 26:323-352, 1996
+<dd> <a href= "proteins96.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> A Differential Optical Range Camera</b>
+<dd> H. Farid and E.P. Simoncelli
+<dd> Optical Society of America, Rochester, NY, 1996
+<dd> <a href= "osa96.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Direct Differential Range Estimation Using Optical Masks</b> 
+<dd> E.P. Simoncelli and H. Farid
+<dd> European Conference on Computer Vision (ECCV), Cambridge, UK, 1996
+<dd> <a href= "eccv96.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Active Vision and Virtual Reality</b>
+<dd> B. Madden and H. Farid
+<dd> <i>In</i> Exploratory Vision: The Active Eye, Springer-Verlag, 1996
+<dd> <a href= "active96.html"> Abstract/Chapter</a> 
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<a name="1995"></a>
+<dl>
+
+<dt> <b> Steerable Wedge Filters</b>
+<dd> E.P. Simoncelli and H. Farid
+<dd> International Conference on Computer Vision (ICCV), Boston, MA, 1995
+<dd> <a href= "iccv95.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Effects of Contrast and Period on Perceived Coherence of Moving
+Square-Wave Plaids (evidence for a speed bias in the human visual
+system)</b> 
+<dd> H. Farid, E.P. Simoncelli, M.J. Bravo and P.R. Schrater
+<dd> Investigative Opthalmology and Visual Science (ARVO), Fort
+Lauderdale, FL, 1995 
+<dd> <a href= "arvo95.html"> Abstract</a> 
+
+</dl>
+</td>
+</tr>
+
+
+
+<tr>
+<td valign=top align=left> 
+<a name="1994"></a>
+<dl>
+
+<dt> <b> Virtual Space Teleconferencing Using a Sea of Cameras</b>
+<dd> H. Fuchs, G. Bishop, K. Arthur, L. McMillan, R. Bajcsy, H. Farid,
+S.W. Lee 
+<dd> First International Symposium on Medical Robotics and Computer
+Assisted Surgery, Pittsburgh, PA, 1994
+<dd> <a href= "mrcas94.html"> Abstract/Paper</a> 
+
+<BR><BR>
+
+<dt> <b> Virtual Reality and Telepresence for 21st Century Remote Medical 
+Consultation </b>
+<dd> K. Arthur, G. Bishop, R. Bajcsy, H. Farid, H. Fuchs, S.W. Lee
+<dd> Second Carolina Conference in Biomedical Engineering, 1994.
+
+<BR><BR>
+
+<dt> <b> The Perception of Transparency in Moving Square-Wave Plaids</b><BR>
+<dd> H. Farid and E.P. Simoncelli
+<dd> Investigative Opthalmology and  Visual Science (ARVO), Sarasota,
+FL, 1994
+<dd> <a href= "arvo94.html"> Abstract</a> 
+
+<BR><BR>
+
+</dl>
+</td>
+</tr>
+
+
+<tr bgcolor=#cccccc>
+<td valign=top align=left> 
+<a name="1992"></a>
+<dl>
+
+<dt> <b> Prediction of Side Chain Conformations in Protein Cores and Loops
+From Rotamer Libraries</b>
+<dd> H. Farid, P.S. Shenkin, J. Greene and J.S. Fetrow
+<dd> ASBMB/Biophysical Society Joint Meeting, Houston, TX, 1992
+
+<BR><BR>
+
+<dt> <b> Computational Approaches to Side-Chain Prediction in Proteins with
+Known Backbone Structures </b>
+<dd> H. Farid 
+<dd> M.S. Thesis, Department of Computer Science, State University of
+New York at Albany, 1992
+<dd> <a href= "thesis92.html"> Abstract/Thesis</a> 
+
+</dl>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=left>
+<dl>
+<dt> <HR>
+
+<a name="popularpress"></a>
+<dt> <H3> Popular Press (for a lighter look) </H3>
+
+<a name="seeingpress"></a>
+
+<dt> <b> Digital Forensics & Tampering</b><BR>
+<font size=-1>
+
+<b>Print</b>
+
+<dd> <a href="../press/sciam09.png">Scientific American</a>, 2.20.09 </dd>
+<dd> <a href="../press/abcnews08">ABC News</a>, 12.19.08 </dd>
+<dd> <a href="../press/sciam08.png">Scientific American</a>, 11.10.08 </dd>
+<dd> <a href="../press/digitaljournalist08.html">The Digital Journalist</a>, 2.11.08 </dd>
+<dd> <a href="../press/msnbc07a">MSNBC</a>, 10.29.07 </dd>
+<dd> <a href="../press/nyt07/nyt07.html"> New York Times</a>, 10.2.07</dd>
+<dd> <a href="../press/csmonitor07.html">Christian Science Monitor</a>, 8.29.07</dd>
+<dd> <a href="../press/blackstar07.html">Black Star Rising</a>, 8.7.07 </dd>
+<dd> <a href="../press/ams07.pdf">American Mathematical Society</a>, 7.30.07 </dd>
+  <!-- <a href="../press/ams07-podcast.mp3">Podcast</a> -->
+<dd> <a href="../press/ajr07.html">American Journalism Review</a>, 7.30.07 </dd>
+<dd> <a href="../press/pdn07.pdf"> Photo District News</a>, 6.1.07 </dd>
+<dd> <a href="../press/washingtonpost07.html">Washington Post</a>, 4.15.07 </dd>
+<dd> <a href="../press/sciencenews07.pdf"> Science News</a>, 3.24.07 </dd>
+<dd> <a href="../press/tages-anzeiger07.pdf">Tages-Anzeiger</a>, 3.9.07 (in German)</dd>
+<dd> <a href="../press/wired07.html"> Wired News</a>, 3.8.07</dd>
+<dd> <a href="../press/naturenews07.pdf"> Nature News</a>, 2.19.07</dd>
+<dd> <a href="../press/msnbc07.jpg">MSNBC</a>, 2.19.07</dd>
+<dd> <a href="../press/newsweek07.html">Newsweek International</a> 1.15.07</dd>
+<dd> <a href="../press/currentscience06/currentscience06.pdf">Current Science</a>, 10.20.06</dd>
+<dd> <a href="../press/news.com06a.html">News.com</a>, 9.11.06 </dd>
+<dd> <a href="../press/economist06.html">The Economist</a>, 8.17.06  </dd>
+<dd> <a href="../press/alahram06.jpg">Al-Ahram</a>, 3.19.06 (in Arabic) </dd>
+<dd> <a href="../press/news.com06.html">News.com</a>, 1.31.06</dd>
+<dd> <a href="../press/popularscience05/popsci05.html">Popular Science</a>, 9.1.05</dd>
+<dd> <a href="../press/computing05.html">Computing in Science & Engineering</a>, 3.1.05</dd>
+<dd> <a href="../press/csmonitor05.html">The Christian Science Monitor</a>, 2.2.05</dd>
+<dd> <a href="../press/techreview05.html"> Technology Review</a>, 1.17.05 </dd>
+<dd> <a href="../press/nytmag04/nytmag04.html"> New York Times</a> (Year in Ideas), 12.12.04 </dd>
+<dd> <a href="../press/laserfocusworld04/">Laser Focus World</a>, 10.1.04 </dd>
+<dd> <a href="../press/cpu04/cpu.jpg">Computer Power User</a>, 10.1.04</dd>
+<dd> <a href="../press/discover04/discover04.html">Discover Magazine</a>, 9.27.04</dd>
+<dd> <a href="../press/yahoo04/yahoo04.html"> Yahoo! News</a>, 8.10.04 </dd>
+<!--<a href="http://news.yahoo.com/news?tmpl=story&u=/nf/20040809/tc_nf/26215">Article</a>-->
+<dd> <a href="../press/nyt04/nyt04.html">New York Times</a>, 7.22.04 </dd>
+<dd>  <a href="http://www.dartmouth.edu/~news/releases/2004/07/01.html">Vox of Dartmouth</a>, 7.1.04 </dd>
+<dd> <a href="../press/poughkeepsie04/poughkeepsie04.html">Poughkeepsie Journal</a>, 5.1.04</dd>
+<dd> <a href="http://www.salon.com/tech/feature/2004/04/22/doctored_photos/index.html"> Salon.com</a>, 4.22.04 </dd>
+<dd> <a href="../press/telegraph03/telegraph03.html"> The Telegraph</a>, 9.17.03 </dd>
+<!-- <a href="http://www.nashuatelegraph.com/Main.asp?SectionID=30&SubSectionID=90&ArticleID=89197"> Article </a> -->
+
+<dd> <b><i>Fraud in Science</i></b> </dd>
+<dd> &nbsp&nbsp <a href="../press/thescientist06.html"> The Scientist</a>, 2.10.06 </dd>
+<dd> &nbsp&nbsp <a href="../press/naturenews06.pdf"> Nature News</a>, 2.2.06 </dd>
+<dd> &nbsp&nbsp <a href="../press/derspiegel06.jpg"> Der Spiegel </a>, 1.30.06 (in German)</dd>
+<dd> &nbsp&nbsp <a href="../press/nyt06/nyt06.html"> New York Times</a>, 1.24.06 </dd>
+
+<BR>
+<b>Radio/Podcast</b>
+<dd> <a href="../press/studio360.08.mp3">Studio 360</a>, 12.26.08 </dd>
+<dd> <a href="../press/worldview08.mp3">Chicago Public Radio's Worldview</a>, 12.7.08  </dd>
+<dd> <a href="../press/talkofthenation08.mp3">NPR's Talk of the Nation</a>, 7.23.08  </dd>
+<dd> <a href="../press/scpr08.mp3">Southern California Public Radio</a>, 7.10.08  </dd>
+<dd> <a href="./press/vpr08.mp3">Vermont Public Radio</a>, 7.2.08  </dd>
+<dd> <a href="../press/theworld08.mp3">PRI's The World</a>, 6.3.08  </dd>
+<dd> <a href="../press/wordofmouth.mp3">NPR's Word of Mouth</a>, 5.15.08  </dd>
+<dd> <a href="../press/bbc07.mp3">BBC Night Waves</a>, 10.17.07  </dd>
+<dd> <a href="../press/kmox07.mp3">KMOX 1120</a>, 10.15.07  </dd>
+<dd> <a href="../press/bbc06.mp3"> BBC Digital Planet </a>, 9.4.06  </dd>
+<dd> <a href="../press/cnnpodcast06.mp3">CNN</a>, 2.2.06  </dd>
+<dd> <a href="http://www.dartmouth.edu/~news/features/podcasts/2006/farid.html">Views from the Green</a> 1.13.06  </dd>
+<dd> <a href="../press/npr04/npr.mp3">NPR's Future Tense</a>, 7.27.04  </dd>
+<!-- <a href="http://www.publicradio.org/columns/futuretense/2004/07/27.shtml#000526">Audio</a> --> 
+
+<BR>
+<b>Television</b>
+
+<dd> <a href="http://www.pbs.org/wgbh/nova/sciencenow/0301/03.html">NOVA, scienceNOW</a>, 6.25.08 </dd>
+<dd> <a href="../press/todayshow07.html">The Today Show</a>, 12.21.07 </dd>
+<dd> <a href="../press/TodayShow07.html">The Today Show</a>, 7.23.07 </dd>
+<dd> <a href="../press/cbs06_highres.mov">CBS Sunday Morning</a>, 10.29.06 </dd>
+<dd> <a href="../press/discovery05.asf">The Discovery Channel</a>, 3.16.05 </dd>
+<dd> <a href="../press/discoveries04.mpg"> Discoveries+Breakthroughs</a>, 10.26.04 </dd>
+
+</font>
+
+<BR>
+<a name="artauthentication"></a>
+<dt> <b> Digital Art Authentication </b><BR>
+<font size=-1>
+
+<dd> <a href="../press/art04/ap.html">Associated Press</a>, 11.23.04 </dd>
+<dd>
+<font size=-2><i>(reproduced in ABC News, Baltimore Sun, CBC News,
+Charlotte Observer, Chicago Sun Times, Chicago Tribune, China Post,
+CNN, Jamaica Observer, Kansas City Star, Concord Monitor, Miami
+Herald, MSNBC, Newsday, New Zealand Herald, Philadelphia Inquirer,
+Rapid City Journal, Richmond Times, San Jose Mercury News, Seattle
+Post Intelligencer, The Australian, Washington Post) </i></font></dd>
+
+<dd> <a href="../press/art04/bostonglobe.html">Boston Globe</a>, 11.23.04 </dd>
+<dd> <a href="../press/art04/economist.html">Economist</a>, 11.25.04  </dd>
+<dd> <a href="../press/art04/guardian.html">Guardian</a>, 11.25.04  </dd>
+<dd> <a href="../press/art04/nationalgeographic.html">National Geographic</a>, 11.23.04  </dd>
+<dd> <a href="../press/art04/nature.html">Nature</a>, 11.22.04  </dd>
+<dd> <a href="../press/art04/newscientist.html">New Scientist</a>, 11.22.04  </dd>
+<dd> <a href="../press/art04/newsweek.html">Newsweek</a>, 11.30.04  </dd>
+<dd> <a href="../press/art04/nyt.html">New York Times</a>, 12.23.04  </dd>
+<dd> <a href="../press/art04/sciencentralnews.html">ScienCentral News</a>, 11.22.04  </dd>
+<dd> <a href="../press/art04/sciencemag.html">Science Magazine</a>, 12.03.04  </dd>
+<dd> <a href="../press/art04/sciencenews.html">Science News</a>, 11.27.04  </dd>
+<dd> <a href="../press/art04/sciencenow.html">Science Now</a>, 11.22.04  </dd>
+<dd> <a href="../press/art04/scientificamerican.html">Scientific American</a>, 11.23.04  </dd>
+<dd> <a href="../press/art04/globeandmail.html">The Globe and Mail</a>, 11.23.04  </dd>
+<dd> <a href="../press/art04/timesUK.html">Times UK</a>, 11.23.04  </dd>
+<dd> <a href="../press/art04/valleynews.html">Valley News</a>, 11.23.04  </dd>
+<dd> <a href="../press/art04/voiceofamerica.html">Voice of America</a>, 11.25.04  </dd>
+<dd> <a href="../press/art04/washingtonpost.html">Washington Post</a>, 11.29.04  </dd>
+<dd> <a href="../press/art04/wired.html">Wired News</a>, 11.22.04  </dd>
+<dd> <a href="../press/art04/yahoo.html">Yahoo News</a>, 11.24.04  </dd>
+<dd> <a href="http://www.dartmouth.edu/~news/releases/2004/11/22.html">Vox of Dartmouth</a>, 11.22.04  </dd>
+<dd> <a href="../press/art04/bbcradio4.mp3">BBC Radio 4 (radio)</a>, 11.23.04 </dd>
+<dd> <a href="../press/art04/scienceupdate.mp3">AAAS Science Update (radio)</a>, 11.23.04 </dd>
+
+</font>
+
+<BR>
+
+<a name="hiddenpress"></a>
+<dt> <b> Hidden Messages</b> <BR>
+<font size=-1>
+
+<dd> <a href="../press/masshightech06.html">Mass High Tech</a>, 2.20.06 </dd>
+<dd> <a href="../press/wmur04.html"> WMUR TV News</a>, 12.16.04 </dd>
+<dd> <a href="../press/wcax01/wcax.mov">WCAX TV News</a>, 10.19.01 </dd>
+<dd> <a href="http://www.trnmag.com/Stories/2001/092601/Statistics_sniff_out_secrets_092601.html">Technology Research News</a>, 9.26.01 </dd>
+<dd> <a href="../press/wnne01/wnne.mov">WNNE TV News</a>, 8.15.01 </dd>
+<dd> <a href="../press/vox01/vox01.html">Vox of Dartmouth</a>,  8.10.01 </dd>
+
+</font>
+
+<BR>
+
+<dt> <b> Personal Profile </b><BR>
+<font size=-1>
+
+<dd> <a href="../press/sjmn08.png">San Jose Mercury News</a>, 12.15.08 </dd>
+<dd> <a href="http://www.pbs.org/wgbh/nova/sciencenow/0301/03.html">NOVA, scienceNOW (tv)</a>, 6.25.08 </dd>
+<dd> <a href="../press/nhmag05.jpg">New Hampshire Magazine</a>, 2.1.05 </dd>
+<dd> <a href="../press/NHPR.frontporch.mp3">NHPR Front Porch (radio)</a>, 12.14.04 </dd>
+<dd> <a href="../press/valleynews04.html">Valley News</a>, 7.18.04 </dd>
+
+</font>
+
+<BR>
+
+<a name="orozcopress"></a>
+<dt> <b> Virtual Reconstructions of Orozco's Murals</b><BR>
+<font size=-1>
+
+<dd> <a href="../press/chronicle02/chronicle02.html">The Chronicle of Higher Education</a>, 7.9.02 </dd>
+<dd> <a href="../press/vox02/vox02.html">Vox of Dartmouth</a>, 5.31.02 </dd>
+
+</font>
+
+<BR>
+
+<a name="cancerpress"></a>
+<dt> <b> New Mathematical Algorithms Might Help Diagnose Cancer</b><BR>
+<font size=-1>
+
+<dd> <a href="http://www.dartmouth.edu/~news/releases/2004/02/04.html">Vox of Dartmouth</a>, 2.4.04 </dd>
+
+</font>
+
+<BR>
+
+<a name="mappingpress"></a>
+<dt> <b>Mapping with Math</b><BR>
+<font size=-1>
+
+<dd> <a href="http://news.bbc.co.uk/1/hi/technology/2538535.stm">BBC News</a>, 12.03.02 </dd>
+<dd> <a href="../press/vox02a/vox02a.html">Vox of Dartmouth</a>, 12.02.02 </dd>
+
+</font>
+
+<BR>
+
+<dt> <b> Molyneux problem</b><BR>
+<font size=-1>
+
+<dd> <a href="../press/strangeButTrue02/strange02.html">Strange But True</a>, 7.17.02 </dd>
+
+</font>
+
+
+<dt> <HR>
+</td>
+</tr>
+</table>
+</td>
+
+
+<td width=165 valign=top align=right>
+<font size=-2>
+<b>for a lighter look</b> <BR>
+<a href="#popularpress">Popular Press</a>
+<BR><BR>
+<b>search by topic</b> <BR>
+<b>(not exhaustive)</b> <BR>
+<a href="../research/artforensics.html">Art Forensics</a> <BR>
+<a href="../research/derivative.html">Derivative Filters</a> <BR>
+<a href="../research/tampering.html">Digital Forensics</a> <BR>
+<a href="../egypt/reconstruction.html">Egyptian Tombs</a> <BR>
+<a href="../research/cgorphoto.html">Graphics or Photo</a> <BR>
+<a href="../research/grouping.motion.html">Grouping & Motion</a> <BR>
+<a href="../research/grouping.object.html">Grouping & Recognition</a> <BR>
+<a href="../research/grouping.synchrony.html">Grouping & Synchrony</a> <BR>
+<a href="../research/grouping.texture.html">Grouping & Texture</a> <BR>
+<a href="../research/registration.html">Image Registration</a> <BR>
+<a href="../research/imageneuro.html">Image-Guided Neurosurgery</a> <BR>
+<a href="../research/blind2.html">Lens Distortion</a> <BR>
+<a href="../research/blind.html">Luminance Non-Linearities</a> <BR>
+<a href="../research/morphologicalevolution.html">Morphological Evolution</a> <BR>
+<a href="../orozco">Orozco's Murals</a> <BR>
+<a href="../research/protein.html">Protein Design</a> <BR>
+<a href="../research/range.html">Range Estimation</a> <BR>
+<a href="../research/search.clutter.html">Searching Clutter</a> <BR>
+<a href="../research/separation.html">Separating Reflections</a> <BR>
+<a href="../research/steerable.html">Steerable Filters</a> <BR>
+<a href="../research/steganography.html">Steganography</a> <BR>
+<a href="../research/telepresence.html">Telepresence</a> <BR>
+<a href="../research/phototop">Surface Topography</a> <BR>
+<a href="../research/transparency.html">Transparency</a> 
+<BR><BR>
+<b>search by year</b> <BR>
+<a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> <BR>
+<a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> <BR>
+<a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> <BR>
+<a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> <BR>
+<a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> <BR>
+<a href="#1994">1994</a> | <a href="#1992">1992</a> 
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div align=right><font size=-2> <a href="#top">Top</a></font></div>
+</td>
+</table>
+</tr>
+
+</body>
+</html>
+

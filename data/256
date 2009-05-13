@@ -1,0 +1,76 @@
+http://www.cs.dartmouth.edu/~rangak/Personal.html
+3
+<html><head>
+
+<link type="text/css" href="index.css" rel="stylesheet" title="default"></head><body>
+
+<div id="pageHeader">
+					<h1>
+					<br>Ranganath Kondapally
+	<!--					<a>
+						<xsl:attribute name="href">
+							<xsl:value-of select="soul/logo/about/link/url"/>
+						</xsl:attribute>
+					<img>
+						<xsl:attribute name="src">
+							../images/<xsl:value-of select="soul/logo/image"/>
+						</xsl:attribute>
+						<xsl:attribute name="alt">
+							<xsl:value-of select="soul/logo/description"/>
+						</xsl:attribute>
+					</img> 
+					</a>-->
+				</h1>
+				</div>
+
+
+	<div id="direct">
+		<h1>
+
+
+				<a href="index.html">Home</a>
+				<a href="Research.html">Research</a>
+				<a href="Resume.html">Resume</a>
+				<a href="Personal.html">Personal</a>
+				<a href="Contact.html">Contact</a>
+		</h1>	
+	</div>
+						<div id="central">
+<!--	<div id="derived">
+				<p>
+					<br>
+					<br>
+					<br>
+				<a href="http://iiit.net/">About IIIT</a><br><br>
+
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/resources.html">Resources</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/research.html">Research</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/rpl/xml/index.php">Papers Library</a><br><br>
+				<a href="http://students.iiit.ac.in/%7Eranganath/actg/html/courses.html">Courses</a>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br><br>
+					<br><br><br>
+				</p>
+	</div>
+	-->			<div id="mesg">
+		<p id="intro">
+			Loading...........				
+		</p>
+
+
+				</div>
+				</div>
+
+				<div id="end">
+				<br>
+				</div>
+				<div id="bottom">
+				Designed &amp; maintained by K.Ranganath . Any queries/problems mail to 
+rangak AT cs [.] dartmouth [.] edu
+				<br>
+Microsoft Windows Terminal Services, Windows Vista and Windows Server 2008 are trademarks of Microsoft. <br>Acknowledments to www.mezzoblue.com/zengarden for css resources and help
+				
+				</div>
+			</body></html>

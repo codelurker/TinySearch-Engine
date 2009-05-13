@@ -1,0 +1,37 @@
+http://www.cs.dartmouth.edu/~sergey/twiki
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+<head>
+ <title>Welcome to TWiki - A Web-based Collaboration Platform</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+</head>
+<body bgcolor="#ffffff">
+ <h1>This is our SELinux wiki</h1>
+ <p>
+  Authentication is required.  
+  <p>
+  <p>
+  Start at the  
+  <a href="http://www.cs.dartmouth.edu/~sergey/twiki/bin/view/SELinux/MainPage">SELinux main page</a>.
+
+  If you have not created a user, do this:
+<ul>
+  <li>
+  Create a Wiki user <a href="http://www.cs.dartmouth.edu/~sergey/twiki/bin/view/TWiki/TWikiRegistration">here</a>. TWiki uses the supplied e-mail address
+  to notify users of changes to selected pages. 
+  <li>
+   Then <a href="http://www.cs.dartmouth.edu/~sergey/twiki/bin/view/TWiki/ChangePassword">change your password</a>.
+</ul>
+
+ <h2>TWiki docs</h2>
+ <p> These are standard TWiki docs. They are much too wordy for my taste,
+     but I left the links here, just in case. <i>&mdash; Sergey</i>
+
+ <ul>
+  <li> <a href="readme.txt">readme.txt</a> </li>
+  <li> <a href="TWikiDocumentation.html">TWikiDocumentation.html</a> </li>
+  <li> <a href="TWikiHistory.html">TWikiHistory.html</a> </li>
+ </ul>
+</body>
+</html>

@@ -1,0 +1,2500 @@
+http://www.cs.dartmouth.edu/%7Ecampbell/cs78
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>CS 78 Computer Networks</title>
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big>Computer Science 78 - Spring 09<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: bold;">Computer Networks</span></big></big></big></big><big style="font-family: Helvetica,Arial,sans-serif;"><big><big><big><span style="font-weight: bold;"></span></big></big></big></big><br style="font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;"><big><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</big></span><span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"><big><a href="schedule.html" target="_self">schedule and notes</a> &nbsp;&nbsp; <a href="assignments.html">lab assignments</a> </big></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"><big> &nbsp;&nbsp;<span style="text-decoration: underline;"></span><a href="project.html">group project</a> &nbsp;&nbsp;<a href="resources.html">resources</a></big></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2><span style="font-family: Times New Roman,Times,serif;">Course</span></h2>
+
+
+
+
+
+
+
+
+Welcome to the world on&nbsp;computer networks.&nbsp;Ever wondered what
+makes the Internet tick? Want to gain the skills that would allow you
+to implement the Internet? Read on ....<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+The ORC: This course focuses on the communications protocols used in
+computer networks: their functionality, specification, verification,
+implementation, and performance; and how protocols work together to
+provide more complex services. Aspects of network architectures are
+also considered. Laboratory projects are an integral part of the course
+in which networking concepts are explored in depth.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+Prerequisite: CS 23 and CS 37. You need strong C and Unix (shell
+programming, gdb, cvs, process, threads) skills (taught in CS 23) to do
+this course. All programming assignments and project are in C and
+Unix.&nbsp; <br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+Topics covered in this course include network applications (e.g.,
+peer-to-peer applications such as BitTorrent), TCP and UDP transport
+protocols, flow control, congestion control, the IP protocol, routing
+algorithms, medium access layer (e.g., IEEE 802.11 wireless MAC) and
+Internet infrastructure such as domain name system (DNS) - these
+comprise the Internet's core components. <br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+There is a significant amount of programming in
+this course&nbsp;requiring a significant time commitment on the part of the student. <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+The course breaks down
+into lectures, labs, and a course
+project - note, there are no exams for this class, i.e., no mid term
+and no final. We focus on network programming. The projects will run
+for the last two weeks of the course.
+There will be no lectures during the last week of the course so
+students can fully focus on their group projects. The projects will be
+organized around a design review, code review and demo or die event.</span><span style="font-family: Helvetica,Arial,sans-serif;"><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+The course will include seven stepwise programming assignments based
+around building
+your own P2P IM system, implementing the Simple Reliable Transport
+protocol (SRT), Simple Network Protocol (SNP) (including packet
+forwarding and
+routing) and Overlay Network (ON). Collectively, we call the transport,
+network, and overlay
+software system <span style="font-weight: bold;">DartNet</span>. <br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+Students will implement DartNet over the course of the programming
+assignments and then "put it all together" so that their IM application
+uses their transport and network layer running over an IP overlay
+network which students also code. Development of DartNet gives
+students a knowledge base and skill set that mirrors what computer
+protocol developers execute in industry.</span></span><span style="font-family: Times New Roman,Times,serif;"> So<br>
+
+
+
+
+
+
+
+
+</span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">each
+student will run their IM app over their transport and routed network
+that they build - huge insights will be gained in doing this.</span></span> And, believe me when you tell people that you did this as<br>
+
+
+
+
+
+
+
+
+an undergrad, even at <a href="http://www.cisco.com/">Cisco</a>, they'll be way impressed!<span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">
+Having
+worked in the software networking industry for a decade before falling
+into academia I'm a big believer in implementing networking software as
+the essential part of fully understanding complex computer networks -
+such as, the Internet &nbsp;- else, things remain too abstract.&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif;"> </span><span style="font-family: Times New Roman,Times,serif;">You will write approximately <a href="http://www.cs.dartmouth.edu/%7Ecampbell/cs78/assignments.html">3000 lines of C code for the assignments and 3500 lines&nbsp;for the group &nbsp;project </a>(shared between the group members). </span><span style="font-family: Times New Roman,Times,serif;">&nbsp;Note,
+there is some code reuse for the DartNet set of labs. As a result you
+will tangible programming experience in building a network app, and
+coding&nbsp;transport and network </span>software.<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"> If you code it
+and you'll understand it. Or as Internet pionneer <a href="http://www.csail.mit.edu/people/David_Clark/">David Clark</a> famously put it: <span style="font-style: italic;">"We reject kings, presidents, and voting. We believe in rough consensus and running code.". </span>David was refering to the working practice of how the <a href="http://www.ietf.org/">Internet Engineering Task Force (IETF) </a>went about developing the core Internet standards. <br>
+
+
+
+
+
+
+
+
+</span></span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+
+This is an exciting and demand set of experiments that will
+reinforce concepts taught in class through network programming assignments.
+This is the second time we have done this so we will cut you some slack
+and hope you will reciprocate as we "debug" any issues that come up.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+The group project (approx. 4 people in each groups - the lecturer will
+set up the groups) will use the wireless Nokia Internet Tablets (below)
+which runs embedded Linux. You will program these devices using socket
+programming. We will provide each group with one or two tablets each and define
+a common project goal that students can build from. More on that as the
+course progresses. We plan to have you implement some research ideas we
+have developed in the <a href="http://sensorlab.cs.dartmouth.edu/">SensorLab</a> - bring research into the classroom,
+it's cutting edge.</span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"></span></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"></span></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"></span></span><a name="The_web"></a><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"><a name="N810"></a><img style="width: 228px; height: 186px;" alt="N810" src="N810.jpg"></span></span><a name="The_web_"></a><img src="web.png" alt="The web" style="width: 202px; height: 209px;"><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"></span></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"><a name="n800_"></a><img style="width: 262px; height: 129px;" alt="n800" src="n800.jpg"></span></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"><a name="n800"></a>&nbsp;</span></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2><span style="font-family: Times New Roman,Times,serif;">When and Where</span>
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">1.45 pm-2.50 pm Mon, Wed, Fri (Kemeny Hall 007)</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">1.00pm-1.50pm X-hour &nbsp;Thursday&nbsp; (Sudikoff Lab 001)</span>
+<h2><span style="font-family: Times New Roman,Times,serif;">Team</span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a style="font-family: Times New Roman,Times,serif;" href="http://www.cs.dartmouth.edu/%7Ecampbell/">
+
+Andrew T. Campbell</a><span style="font-family: Times New Roman,Times,serif;"> (Instructor)</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+campbell AT cs.dartmouth.edu</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;">
+
+260 Sudikoff</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+Office Hours:&nbsp; Thursday 4-6 PM.</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://dxoig.mn/"><span style="font-family: Times New Roman,Times,serif;">Cory Cornelius </span></a><span style="font-family: Times New Roman,Times,serif;">(TA)</span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+Cory.T.Cornelius AT Dartmouth.EDU<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;">147 Sudikoff</span><span style="font-family: Times New Roman,Times,serif;"></span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+Office hours in Lab 001 or available in 147: Tuesday, Thursday and Sunday&nbsp;5-8 PM</span><span style="font-family: Times New Roman,Times,serif;"></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.cs.dartmouth.edu/%7Emusolesi/"></a><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;">
+
+</span>
+<h2><span style="font-family: Times New Roman,Times,serif;">Grading</span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">10% &nbsp;Class and lab participation</span> - jump in, get involved, </span><span style="font-family: Times New Roman,Times,serif;">be a good CS78 citizen.</span><br>
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+<br>
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There will be a
+discussion in class regarding the course reading material. Active
+involvement in that discussion, the classs, the lab - will help toward the class contribution
+part of the grade.<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+</span><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;">
+
+
+
+70% - Laboratory exercises</span> (10% for each of the 7 labs)</span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"></span><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+There are 7 weekly laboratory assignments over the first 8 weeks. 10%
+is given for each lab. Some labs are harder than others but we have
+a flat grading scheme across all labs. These assignments are to be done
+individually. The schedule is online&nbsp;- plan a head. You need to be
+organized to get through the labs and stay on schedule.<br>
+
+
+
+<br>
+
+
+
+</span>
+
+
+
+We will provide source code solutions to all labs. The TA will grade your solutions and write up a grade sheet
+on the correctness, simplicity, and clarity of your code. The
+instructor will review the TA's grading and grade sheets. Your grade
+and grade sheet and our source code solution will be mailed to you one week after the lab assignment
+is turned in. If you have questions about the grade or grade sheet
+please talk to the TA first. If you are still have concerns see the
+instructor. <span style="font-weight: bold;">Please do not distribute the source code solutions we provide you with (see honor code).</span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+<span style="font-weight: bold;">20% - Team project</span></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The project is made up of a small team (approx four people)
+and&nbsp;requires strong collaboration and a problem solving mindset to
+get the job done. The instructor will put the teams together with each
+member being responsible to deliver against a part of the overal system
+design, implementation, testing and integration.&nbsp; The goals of
+this activity are to help you develop the confidence, skills, and
+habits necessary to write large computer programs while part of a
+multi-person team. You will become conversant in software engineering
+paradigms, and be exposed to various public-domain and open source
+tools that make the software development process easier. In addition,
+you will develop vital skills in self-directed learning, problem
+solving, and communication. The project will have a design and code
+review as well as the demo. A project report that captures the design
+and implementation will be submitted as part of the assesment.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2><span style="font-family: Times New Roman,Times,serif;">Policy for Late Assignments</span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unless prior arrangements have been made, or in case of medical or
+family emergencies, or specific disabilities, all assignments are
+subject to the following policy regarding late submissions:<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programming assignments&nbsp;must be submitted according to the schedule; if late, the following grade penalties are assessed:<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Late &lt; 8 hours<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Ten percent (10%) will be deducted from the final score.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Late &ge; 8 hours and &lt; 24 hours<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Twenty percent (20%) will be deducted from the final score.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Late &ge; 24 hours and &lt; 48 hours<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Forty percent (40%) will be deducted from the final score.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Late 48 or more hours<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Speak to the lecturer.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+Caveat:
+This course is still under development in terms of the programming
+assignment so while the grade penalties seem set in stone they are<br>
+
+
+
+
+
+
+
+
+
+
+not.
+Please talk to me if you are running behind. The most important thing
+for you to do is&nbsp;to finish the programming assignments and not worry<br>
+
+
+
+
+
+
+
+
+
+
+about being late.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;"></span><br>
+
+
+
+
+
+
+
+
+In that spirit: &nbsp;<span style="font-style: italic;">Two free pass for 48 hour extension with no penalty</span>. You really don't want to use these because they mean you are behind and<br>
+
+
+
+
+
+
+
+
+need to catch up. But they are there if you need then - pressure value of sorts.<br>
+
+
+
+
+
+
+
+
+<h2><span style="font-family: Times New Roman,Times,serif;">Lab Access</span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: normal; font-family: Times New Roman,Times,serif;">In
+order to obtain access to Sudikoff after hours, and to get into
+Sudikoff's Lab 001, you will need to have your Dartmouth ID card
+activated for the appropriate access.
+To do this, stop by and see Kelly at 101 Sudikoff on a weekday between
+8:30am-12:00pm, or 1:00-4:00pm, and bring your Dartmouth ID card.
+Inform Kelly that you are taking CS23, and require access to Lab 001.
+You will have to fill out and sign a form stating that you understand
+the various policies about access to the labs in Sudikoff.</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-weight: normal; font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: normal; font-family: Times New Roman,Times,serif;">Keep in mind that it may take 24 hours for access to be activated, so please plan ahead!</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-weight: normal; font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: normal; font-family: Times New Roman,Times,serif;">You
+will also require a computer account on the CS Linux machines. Contact
+Andrew Campbell, via email, informing him of your preferred (new)
+account name.</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-weight: normal; font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: normal; font-family: Times New Roman,Times,serif;">Please
+note that the exterior doors of Sudikoff are automatically locked after
+6:00pm weekdays, and also every weekend and holiday. In addition, the
+laboratory doors are locked at all times. You will need your access
+card to pass through locked doors.</span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-weight: normal;"></span>
+<h2><span style="font-family: Times New Roman,Times,serif;">Books</span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">This is the course book (5h Edition now available at the bookstore):<br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+<img style="width: 110px; height: 110px;" alt="networks" src="networks.jpg"></span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.amazon.com/Computer-Networking-Top-Down-Approach-5th/dp/0136079679">Computer Networking: A Top-Down Approach (5th Edition)&nbsp;by James F. Kurose and Keith W. Ross</a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<a style="font-family: Times New Roman,Times,serif;" href="http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/ref=pd_bbs_sr_2?ie=UTF8&amp;s=books&amp;qid=1199226460&amp;sr=1-2"></a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">Not requireed
+but if I where to recommend a hands on book on Linux and shell
+programming&nbsp; it would be this one (lots of good stuff in this):</span><br style="font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 style="font-family: Helvetica,Arial,sans-serif;"><img style="width: 84px; height: 105px;" alt="" src="books.jpg"></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a style="font-family: Times New Roman,Times,serif;" href="http://www.amazon.com/exec/obidos/ASIN/0131478230">A Practical Guide to Linux Commands, Editors, and Shell Programming by Mark G. Sobell</a><br>
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">Another really good book covering, debugging, processes, threads, and socket programming in clear and easy manner to grasp:</span></span><br>
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"></span></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;"><br>
+
+
+
+
+
+
+
+
+
+
+<img style="width: 100px; height: 124px;" alt="Linux Programming" src="linuxprogbook.jpg"><br>
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.wrox.com/WileyCDA/WroxTitle/productCd-0470147628.html">Beginning Linux Programming, 4th Edition by Neil Matthew, Richard Stones</a></span></span><br>
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+</span></span>
+<span style="font-weight: bold;"><br>
+
+
+
+
+
+
+
+
+
+
+</span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Times New Roman,Times,serif;">Just to make things clear. Buy the Computer Network book for the course. But if
+you are interested in hacking C, shell scripts, Linux you might like
+the other books for your library. They are all really nice books - I love them.</span></span><br>
+
+
+
+
+
+
+
+
+
+
+<h2><span style="font-family: Times New Roman,Times,serif;">Policy on Joint Work and the Dartmouth Honor Code</span></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">The assignments and project are all about writing great code - shell scripts and C. Here is the policy for joint work in CS23:</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">First, you may
+discuss and help each other (e.g., help in debugging, sharing
+knowledge, giving moral support, getting coffee, etc.) - I promote that
+as the type of team spirit and joint problem solving skills that is the
+essense of the course and necessary to do a great project. However -
+there if always a however or but, right, - you cannot work jointly on
+coding up (i.e., writing) your programming assignments. You can talk,
+discuss solutions, even show snippets of code on the white board (not
+the computer) to solve a problem but you cannot jointly work on
+the&nbsp;code development and writing. Submitted code for the labs has
+to be yours and yours alone. </span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">The project
+phase is different. You can work jointly on writing code. But you
+cannot take code from anywhere (e.g., the web or any other source). It
+has to be the joint product of the team. One caveat: no sharing of code
+between teams. As above, teams can discuss code, show each other
+snippets on the white board, but not share source code. The project
+phase of the course is a friendly competition so there isn't a lot of
+incentive to share code.</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">We hate to state
+this since you all know it but it is necessary to be explicit here
+(citation - culled and extended from CS8 Policy on joint work):</span><br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table style="font-family: Times New Roman,Times,serif;" border="1" cellpadding="2" cellspacing="2" width="100%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <td><span style="color: rgb(0, 51, 0);">You would be amazed at
+how easy it is to tell when people work together
+on problem sets, particularly coding exercises. Think about the simple
+shell
+commands we can run against your source code from labs and projects,
+or, the shell script we can use to compare your lab assignments and
+projects against every other assignment and project ever submitted to
+us - it would take less that a millisecond to run these checks - no
+effort on our behalf. Similarly, we know how to use google too. You
+should not under any circumstance look at or use code from previous
+terms' CS23 assignments and projects. Our scripts are smarter than
+that. The message is - please don't make life unpleasant for all of us
+by breaking these rules. The penalties for cheating at Dartmouth are
+severe, starting with suspension and including expulsion. If you are
+unsure about anything, please ask</span>.</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="font-family: Times New Roman,Times,serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Times New Roman,Times,serif;">We take the
+Honor Code very seriously, so please, if you are unclear on any matter
+regarding this policy, do not hesitate to see me in office hours, and
+we will be more than happy to answer your questions. </span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

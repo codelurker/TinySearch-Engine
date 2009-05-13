@@ -1,0 +1,210 @@
+http://www.cs.dartmouth.edu/~doug/tinysort.html
+3
+<html>
+<title>Tiniest sort</title>
+<body>
+<h2>The tiniest C sort function?</h2>
+I wondered how small I could get the source code for
+a sort program in C.  After many iterations and help
+from others I boiled it down to the following 67-byte function
+<big><tt>s(a,b)</tt></big>, which sorts an array of integers in place;
+<big><tt>a</tt></big> and <big><tt>b</tt></big> point to first and last elements.
+Can you beat it? 
+<p>
+My intuition was that something really short would be really cryptic.
+Amazingly, the final code, reached at step 11 
+below, is every bit as readable
+as step 1.  I'd venture to say more readable: step 1 has
+an unfair advantage of being an algorithm that everybody
+learns in the cradle, otherwise its logic is more complex.
+The path to step 11, though, passes through a pretty
+thorny patch around step 5.
+<ol type=1>
+<pre><big>
+s(int*a,int*b){for(int*c=b,t;c>a;)
+if(t=*c--,*c>t)c[1]=*c,*c=t,c=b;}
+</big></pre>
+
+<Small>HTML warning.
+To preserve verbatim C source, naked
+<big><tt>&gt;</tt></big> symbols have been 
+left in function definitions instead of a proper HTML
+escape sequence.  Internet Explorer,
+Safari, and  Firefox tolerate the lapse.
+</small>
+
+<h3>Selection sort</h3>
+<li>
+It all began with a vanilla selection sort, the
+precondition for which is <big><tt>a!=NULL&amp;&amp;n>=0</tt></big>.
+The only trickery here is routine: eliminating curly brackets
+by using commas instead of semicolons.
+The length is 93 bytes,
+excluding newlines.
+<br><i>Flaw, pointed out by Bill McKeeman (who credits
+Steve Johnson): the function 
+fails if <big><tt>a</tt></big> points to address
+0 and <big><tt>n==0</tt></big>.  This is not a problem
+in customary implementations where a pointer to 0
+is interpreted as NULL.</i>
+<pre><big>
+void sort(int*a,int n){int*b,*c,t;for(b=a+n;--b>a;)
+for(c=b;--c>=a;)if(*c>*b)t=*b,*b=*c,*c=t;}
+</big></pre>
+
+<li>
+Ditch a separate declaration by using C++/C99
+loop initialization;
+and can variable <big><tt>t</tt></big> by reusing
+<big><tt>n</tt></big>.
+(87 bytes)
+<pre><big>
+void sort(int*a,int n){for(int*b=a+n,*c;--b>a;)
+for(c=b;c-->a;)if(*c>*b)n=*b,*b=*c,*c=n;}
+</big></pre>
+
+<li>
+Save the calculation of <big><tt>b</tt></big> by
+changing signature to <big><tt>sort</tt></big>(<i>first,last+1</i>). (83 bytes)
+<pre><big>
+void sort(int*a,int*b){for(int*c,t;--b>a;)
+for(c=b;c-->a;)if(*c>*b)t=*b,*b=*c,*c=t;}
+</big></pre>
+
+<li>
+Peter McIlroy moved the declaratins of
+<big><tt>c</tt></big> and
+<big><tt>t</tt></big>.
+(82 bytes)
+<pre><big>
+void sort(int*a,int*b){while(--b>a)
+for(int*c=b,t;c-->a;)if(*c>*b)t=*b,*b=*c,*c=t;}
+</big></pre>
+
+<li>
+Now something wild: put both 
+loop tests in one <big><tt>for</tt></big>. (81 bytes)
+<br>
+<i>Some bootless work gets done. The inner loop test
+comes first, and fails the first time through.
+Also the
+<big><tt>if</tt></big> fails the first time
+it's executed in each iteration of the outer loop.
+<br>Flaw: for an empty array, 
+<big><tt>b==a</tt></big>, so the value of
+<big><tt>c</tt></big> in the second test is 
+<big><tt>a-1</tt></big>. 
+The C standard does not guarantee that a pointer value
+outside <big><tt>[a,b]</tt></big> will
+compare correctly to <big><tt>a</tt></big>,
+though this code will almost certainly work in practice.</i>
+<pre><big>
+void sort(int*a,int*b){for(int*c=a,t;c-->a
+||(c=--b)>a;)if(*c>*b)t=*b,*b=*c,*c=t;}
+</big></pre>
+
+<li>
+Peter takes out a common subexpression, <big><tt>*b</tt></big>,
+by embedding an assignment in a comparison.
+(80 bytes)
+<pre><big>
+void sort(int*a,int*b){for(int*c=a,t;c-->a
+||(c=--b)>a;)if(*c>(t=*b))*b=*c,*c=t;}
+</big></pre>
+
+<li>
+Do away with one loop.  Sweep the whole array;
+when an exchange happens, bump the decreasing loop index
+back to the top. (79 bytes)
+<br>
+<i>This turns O(N<sup>2</sup>) behavior into O(N<sup>3</sup>).
+But speed isn't our objective, and O(N<sup>2</sup>) is shabby
+itself.</i>
+<br>
+<pre><big>
+void sort(int*a,int*b){for(int*c=b,t;--c>a;)
+if(t=c[-1],t>*c)c[-1]=*c,*c=t,c=b;}
+</big></pre>
+<li>
+Shorten the name. (76 bytes)
+<pre><big>
+void s(int*a,int*b){for(int*c=b,t;--c>a;)
+if(t=c[-1],t>*c)c[-1]=*c,*c=t,c=b;}
+</big></pre>
+<li>
+Convert from <i>first,last+1</i> to <i>first,last</i> to get rid of
+a decrement operator.
+Use decrement and subscript <big><tt>[1]</tt></big> instead of
+two subscripts <big><tt>[-1]</tt></big>.
+(72 bytes)
+<pre><big>
+void s(int*a,int*b){for(int*c=b,t;c>a;)
+if(t=*c--,*c>t)c[1]=*c,*c=t,c=b;}
+</big></pre>
+<li>
+Use obsolescent (pre-<tt><big>void</big></tt>) syntax. (68 bytes)
+<pre><big>
+s(a,b)int*a,*b;{for(int*c=b,t;c>a;)
+if(t=*c--,*c>t)c[1]=*c,*c=t,c=b;}
+</big></pre>
+
+<li>
+Live dangerously.  Same as step 10, but
+with modern parameter declarations.
+(67 bytes)
+<br>
+<i>
+Actually I wrote 11 before 10, but erroneously assumed I had
+to revert to obsolescent syntax in order to have an
+<big><tt>int</tt></big> function that doesn't
+return a value.  In fact
+the code is legal; the standard
+merely forbids use of the missing result.</i>
+<pre><big>
+s(int*a,int*b){for(int*c=b,t;c>a;)
+if(t=*c--,*c>t)c[1]=*c,*c=t,c=b;}
+</big></pre>
+
+<h3>Recursion</h3>
+<li>
+In this (ultimately less profitable) approach
+the first recursive call sorts all but the
+first element of the array.  Then if the first
+element isn't smallest, it's swapped with the
+smallest and the rest of the array is sorted again. 
+The signature is <tt><big>s</big></tt>(<i>first,last+1</i>). (75 bytes)
+<br>
+<i>With two recursive calls in the body, the code
+may look as if its running time is
+O(2<sup>N</sup>), but more detailed analysis
+reveals it's O(N<sup>2</sup>).
+<br>Flaw: one element is accessed even if the array
+is empty.</i>
+<pre><big>
+void s(int*a,int*b){int t=*a;if(b>++a)
+if(s(a,b),t>*a)a[-1]=*a,*a=t,s(a,b);}
+</big></pre>
+
+<li>
+Use obsolescent syntax. (71 bytes)
+<br><i>
+Like
+step 10, this can be shortened to 70 bytes in the same way as
+step 11.</i>
+<pre><big>
+s(a,b)int*a,*b;{int t=*a;if(b>++a)
+if(s(a,b),t>*a)a[-1]=*a,*a=t,s(a,b);}
+</big></pre>
+
+<li>
+McKeeman recalled an ancient feature, elided type specifiers. (68 bytes)
+<br>
+<i>Alas, the trick is now illegal.  Were it OK,
+it could knock the size of step 10 down to 65.</i>
+<pre><big>
+s(a,b)*a,*b;{int t=*a;if(b>++a)
+if(s(a,b),t>*a)a[-1]=*a,*a=t,s(a,b);}
+</big></pre>
+</ol>
+</body>
+</html>

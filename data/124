@@ -1,0 +1,63 @@
+http://www.cs.dartmouth.edu/~wbc/suditour/index.html
+2
+
+<html>	
+  <body>
+      <ul>
+	<table border=0>
+	  <tr>
+	      <td width = 100>
+	          <li>
+		  <a href="001/index.html"><font size="+2">001</font></a>
+	    <td>  
+	    <td width = 100>
+	      <a href="001/index.html"><img src="photos/s001-1t.jpg"></a>
+	    <td> 
+	  </tr>
+	  <tr>
+	    <td width = 100>
+	      <li>
+	      <a href="003/index.html"><font size="+2">003</font></a>
+	    <td>
+	    <td width = 100>
+	      <a href="003/index.html"><img src="photos/s003-3t.jpg"></a>
+	    <td>
+	  </tr>
+	  <tr>
+	    <td width = 100>
+	      <li>
+	      <a href="005/index.html"><font size="+2">005</font></a>
+	    <td>
+	    <td width = 100>
+	      <a href="005/index.html"><img src="2002-12-02-photos/005-tiny.jpg"></a>
+	    <td>
+	  </tr>
+	<tr>
+	<td><li><a href="011/index.html"><font size="+2">011</font></a></td>
+	</tr>
+	</table>
+	
+      <li><a href="s1/sudi_first_floor.html">First floor map</a>
+      <li><a href="s2/sudi_second_floor.html">Second floor map</a>
+      <li><a href="tech/index.html">Machine Room area</a>
+      <li><a href="switches/index.html">switches</a>
+      <li><a href="switches/access-points.html">access points </a>
+      <li><a href="servers/servers.html">servers</a>
+      <li><a href="servers/power.html">remote power switches</a>
+      <li><a href="http://www.dartmouth.edu/~blocked/"> are you blocked ?? </a>
+      <li><a href="http://netmon-network.dartmouth.edu">Dartmouth netmon</a>
+      <li><a href="ac/index.html">How the heating and air conditioning works</a>
+      <li><a href="construction-03-04">new addition</a>
+      <li><a href="check-computers/data.html">linux computers currently down</a>
+      <li><a href="backup/index.html">what server backs up what computer</a>
+      <li><a href="switches/ports.html">ports in new addition</a>
+    </ul>
+    <h3>Note: these pages might not be correctly updated with computer
+names and locations.</h3>  The new database is 
+<a href="http://www.cs.dartmouth.edu/~data/sudi_db/index.html">
+here</a>.  
+Only the switch and access point tables are being maintained.
+The photos are also kind of old.
+  </body>
+  </html>
+llowji

@@ -1,0 +1,101 @@
+http://www.cs.dartmouth.edu/~wbc/suditour/switches/ports.html
+3
+<table border=7>
+<tr><td>level 0</td></tr>
+<tr><td>a b c d in closet</td></tr>
+<tr><td></td></tr>
+<tr><td>corridor in from 005	</td><td>C03-c04 c05-c06 </td></tr>
+<tr><td>printer			</td><td>c13-c14</td></tr>
+<tr><td>067			</td><td>b43-b44 b45-b46 b47-b48 </td></tr>
+<tr><td>			</td><td>c01-c02 in floor</td></tr>
+<tr><td>066			</td><td>no access</td></tr>
+<tr><td>065			</td><td>no access</td></tr>
+<tr><td>064	sws		</td><td>b19 20 21 22   23 24   25 26   27 28 29 b30</td></tr>
+<tr><td>			</td><td>31 32 floor</td></tr>
+<tr><td>063			</td><td>b11-b12  b13-b16 b17-b18</td></tr>
+<tr><td>062			</td><td>b03 b04  b05 b06 b07 b08  b09 b10</td></tr>
+<tr><td>061			</td><td>b01 b02  a43 a44 a46-a48 </td></tr>
+<tr><td>060			</td><td>a35 a36  a37 a38 a39 a40  a41 a42</td></tr>
+<tr><td>059			</td><td>a33 a34  a27 a28 a29-a32</td></tr>
+<tr><td>058			</td><td>a19 a20  a21-a24 a25-a26</td></tr>
+<tr><td>057			</td><td>a17-a18  a11-a12 a13-a15</td></tr>
+<tr><td>056			</td><td>a03-a04  a05-a08 a09-a10</td></tr>
+<tr><td>055		mechanical</td></tr>
+<tr><td>054</td></tr>
+<tr><td>053		data</td></tr>
+<tr><td>052		mechanical</td></tr>
+<tr><td>051		storage</td></tr>
+<tr><td>050			</td><td>c29-c31 c33-c36 c37-c40 c41-c44 c45-c48</td></tr>
+<tr><td>			</td><td>d01-d04 d05-d08 d09-d12 d13-d16 d17-d20 d21-d24</td></tr>
+<tr><td>049			</td><td>c23-c24 c25-c28 </td></tr>
+<tr><td>048		bathroom</td></tr>
+<tr><td>047		custodial</td></tr>
+<tr><td>046		electrical</td></tr>
+<tr><td>045			</td><td>c21-c22 c19-c20 c17-c18 c15-c16 </td></tr>
+<tr><td>			</td><td>d27-d28 d29-d30 d31-d32 d33-d34</td></tr>
+<tr><td>044			</td><td>c11-c12 c07-c10</td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td>level 1</td></tr>
+<tr><td>A b c d e in closet</td></tr>
+<tr><td></td></tr>
+<tr><td>corridor 		</td><td>c39-c40 c41-c42 c43-c44</td></tr>
+<tr><td>printer			</td><td>d03-d04</td></tr>
+<tr><td>163			</td><td>c35-c36 c29-c32 c33-c34 </td></tr>
+<tr><td>				floor c37-c38</td></tr>
+<tr><td>162 custodial ?</td></tr>
+<tr><td>161 electric?</td></tr>
+<tr><td>160	lorie		</td><td>c21-c22 c23-c24 c25-c28</td></tr>
+<tr><td>159	hany		</td><td>c07-c10 c11-c12 c13-c14 c15-c18 </td></tr>
+<tr><td>			</td><td>floor</td></tr>
+<tr><td>158	siwei		</td><td>c05-c06 c01-c04 b47-b48</td></tr>
+<tr><td>157			</td><td>b39-b40 b41-b44 b45-b46</td></tr>
+<tr><td>156			</td><td>b37-b38 b33-b36 b31-b32</td></tr>
+<tr><td>155			</td><td>b23-b24 b25-b28 b29-b30</td></tr>
+<tr><td>154			</td><td>b21-b22 b17-b20 b15-b16</td></tr>
+<tr><td>153	big		</td><td>b01-b02 b03-b06 b09-b12</td></tr>
+<tr><td>			</td><td>floor b13-b14</td></tr>
+<tr><td>152			</td><td>a41-a42 a43-a46 a47-a48</td></tr>
+<tr><td>151			</td><td>a01-a20 a21-a40</td></tr>
+<tr><td>150 doorway</td></tr>
+<tr><td>149 data</td></tr>
+<tr><td>148			</td><td>d23-d38..d39..d48 e01-e02..e15-e18</td></tr>
+<tr><td>147			</td><td>d13-d16....d21-d22</td></tr>
+<tr><td>146 bathroom</td></tr>
+<tr><td>145 custodial</td></tr>
+<tr><td>144 electric</td></tr>
+<tr><td>143 farid lab		</td><td>e23-e24 e25-e26 d05-d06 d07-d08 </td></tr>
+<tr><td>			</td><td>d09-d10 d11-d12 e19-e20 e21-e22</td></tr>
+<tr><td>142			</td><td>d01-d02 c45-c48</td></tr>
+<tr><td></td></tr>
+<tr><td>level 2</td></tr>
+<tr><td>a b c d e in closet</td></tr>
+<tr><td></td></tr>
+<tr><td>corridor		</td><td>c39-c40 c41-c42 c43-c44</td></tr>
+<tr><td>printer			</td><td>d03-d04</td></tr>
+<tr><td>260			</td><td>c35-c36 c29-c32 c33-c34</td></tr>
+<tr><td>			</td><td>under floor c37-c38</td></tr>
+<tr><td>259	custodian</td></tr>
+<tr><td>258	closet</td></tr>
+<tr><td>257	ron peterson	</td><td>c21-c22 c23-c24 c25-c28</td></tr>
+<tr><td>256  dfk		</td><td>c07-c10 c11-c12 c13-c14 c15-c18</td></tr>
+<tr><td>			</td><td>c19-c20 floor</td></tr>
+<tr><td>255			</td><td>c05-c06 c01-c04 b47-b48</td></tr>
+<tr><td>254			</td><td>b39-b40 b41-b44 b45-b46</td></tr>
+<tr><td>253			</td><td>b37-b38 b33-b36 b31-b32</td></tr>
+<tr><td>252			</td><td>b23-b24 b25-b28 b29-b30 </td></tr>
+<tr><td>251			</td><td>b21-b22 b17-b20 b16-b17</td></tr>
+<tr><td>250			</td><td>b01-b02 b03-b06 b07-b12</td></tr>
+<tr><td>249			</td><td>a41-a42 a43-a48 (nic)</td></tr>
+<tr><td>248			</td><td>a01-a32 a33-a40</td></tr>
+<tr><td>247	doorway		</td></tr>
+<tr><td>246 	data</td></tr>
+<tr><td>245			</td><td>d23-d26 d27-d30 d31-d34 d35-d38 d39-d42 d43-d46 d47-d48-e01-e02 e03-e06 e07-e10 e11-e14</td></tr>
+<tr><td>244			</td><td>d13-d16 d17-d18 d19-d20 d21-d22 </td></tr>
+<tr><td>243	bathroom</td></tr>
+<tr><td>242	janitor</td></tr>
+<tr><td>241	dfk lab	</td><td>d05-d06 d07-d08 d09-d10 d11-d12</td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;window wall</td><td>e19-e20 e21-e24 e25-e26 e27-e30
+<tr><td>240			</td><td>d01-d02 c47-c48-c43-c44</td></tr>
+<tr><td></table></td></tr>
+><td>ká

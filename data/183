@@ -1,0 +1,139 @@
+http://www.cs.dartmouth.edu/~tanzeem/teaching/CS188-Fall08
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <title>CS88/188 -- Computational Models of Human Behavior</title>
+
+
+  <meta name="author" content="Tanzeem Choudhury" />
+
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+
+</head>
+
+
+<body>
+
+<div class="page">
+<div class="header">
+<div class="title">Computational Models of Human Behavior</div>
+
+<div class="subtitle">CS88/188 -- Fall 2008 -- TuTh
+10:00am-11:50am</div>
+
+<div class="subtitle">Instructor: Tanzeem Choudhury<br />
+
+</div>
+
+</div>
+
+<div class="navigation">
+<a href="index.html"><span class="navigationitem">About</span></a><a href="syllabus.html"><span class="navigationitem">Syllabus</span></a><a href="assignments.html"><span class="navigationitem">Assignments</span></a><a href="projects.html"><span class="navigationitem">Project</span></a><a href="grading.html"><span class="navigationitem">Grading</span></a><a href="references.html"><span class="navigationitem">References</span></a>
+</div>
+
+<div class="content">
+<h2>Course Description</h2>
+
+<p>This course will introduce students to the emerging field of
+Activity-Aware Computing -- a multidisciplinary research area that
+draws from Machine Learning and AI, Machine Perception, Ubiquitous
+Computing, Human Computer Interaction, as well as psychology and
+sociology. Most of the course will be devoted to discussing the various
+machine learning approaches that have been developed to make computers
+and mobile devices more aware of people, their activities, and their
+surrounding context. Discussions will highlight the various research
+challenges in data collection,&nbsp;
+representation and tractability of models, and evaluation. We will
+brain-storm ideas on how future research can go about tackling some of
+these challenges. <br />
+
+<br />
+
+Students will be required to read and critique papers. Everyone will
+take turns in presenting the material and in leading discussions.
+Participation in
+discussions will be evaluated. I will do a brief weekly lecture on the
+core machine learning concepts presented in the papers assigned for
+that week. Students will also be required to propose and complete a
+final project. There will be no mid-term or final exams. <br />
+
+<br />
+
+<span style="font-weight: bold;">
+Pre-requisites</span>: Some
+background in Machine Learning/AI,
+Statistics,
+Signal Processing and Ubiquitous Computing either from course work or
+research will be useful but not required.&nbsp;If you are
+interested in
+the course and but not sure whether you have the right background,
+please come
+talk to me. Must be a competent
+programmer and familiar with or willing to learn Matlab.&nbsp;</p>
+
+<h2>Administration<br />
+
+</h2>
+
+<div class="listBlock">
+<ul>
+
+  <li class="listBlockItem"><span style="text-decoration: underline;">Instructor</span>:
+Tanzeem Choudhury
+(tanzeem . choudhury @ dartmouth . edu) | Sudikoff 210</li>
+
+  <li class="listBlockItem"><span style="text-decoration: underline;">Lectures</span>:
+TuTh 10:00am-11:50pm
+| where: <span style="color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);">Sudikoff
+241</span></span><span style="color: rgb(255, 0, 0); font-weight: bold;">&nbsp;</span><span style="color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);">(new location)</span></span></li>
+
+  <li class="listBlockItem"><span style="text-decoration: underline;">Xhour</span>: Will
+give advance
+notice when we use the Xhour slot. <span style="color: rgb(255, 0, 0);">11/12 and 12/3</span>
+scheduled so far.</li>
+
+  <li class="listBlockItem"><span style="text-decoration: underline;">Office hour</span>:
+By appointment or stop by when my door is open</li>
+
+  <li class="listBlockItem"><span style="color: rgb(0, 0, 0);">Note</span>: First day of
+classes
+will be on Tuesday 9/30 NOT Thursday 9/25</li>
+
+</ul>
+
+<h2>Honor Code</h2>
+
+I encourage you to discuss papers with your classmates but do not
+collaborate on the actual writing of the critiques. You are permitted
+to use available machine learning toolboxes for your project but you
+need to explicitly reference the resources you use. Your project needs
+to include significant coding and/or experimental design beyond the use
+of available toolboxes. You must reference all other sources of help
+and collaboration.<br />
+
+</div>
+
+<br />
+
+</div>
+
+</div>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4026591; var sc_invisible=1; var sc_partition=31; var sc_click_stat=1; var sc_security="1decff39"; </script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="web
+statistics"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4026591/0/1decff39/1/" alt="web
+statistics" ></a></div></noscript>
+
+<!-- End of StatCounter Code -->
+</body>
+</html>
+"i

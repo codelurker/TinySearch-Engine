@@ -1,0 +1,514 @@
+http://www.cs.dartmouth.edu/~sws/research
+3
+<html> 
+<head> 
+<title>Research</title> 
+</head> 
+<body> 
+<table width=100%>
+<tr>
+<td align=center>
+<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT="">
+</td>
+<td align=left>
+<b>
+<big><big>
+ 
+Research
+</big></big><br>
+
+</b>
+<td align=right>
+<i> www.cs.dartmouth.edu/~sws/research/index.shtml<br>
+
+Last modified: Monday, 16-Feb-2004 11:27:17 EST
+</i>
+</td>
+</tr>
+</table>
+<hr>
+
+<p>
+
+<p>
+          
+ 
+
+<b>[<a href="pubs.shtml">Papers</a> | <a href="patents.shtml">Patents</a> | 
+<a href="/~sws/advising/">Advising</a> | 
+<a href="fips.shtml">FIPS validations</a> ]</b>
+
+<hr>
+
+Overall, my research explores infrastructure for trust, in
+real systems in the real world.
+What does it take to build something that various parties might
+have reason to trust for certain actions?
+<p>
+This thread gained focus during my time "in the trenches"
+doing vulnerability work at Los Alamos
+(<a href="pubs.shtml#handbooks"><b>this link</b></a>
+should take you to right place in the pubs list)
+and product development
+at IBM Research.
+Here at Dartmouth, I've been carrying out this work
+as PI of the <a href="/~pkilab/"><b>Dartmouth PKI Lab</b></a>,
+partially supported by Dartmouth's
+<a href="http://www.ists.dartmouth.edu/"><b>Institute
+for Security Technology Studies.</b></a>  
+Recently, I also joined Dartmouth's 
+<a href="http://cmc.cs.dartmouth.edu/"><b>Center for
+Mobile Computing.</b></a>
+<p>
+My <a href="/~sws/ncv/"><b>narrative CV</b></a>
+has more details on my pre-Dartmouth work,
+and the <a href="/~pkilab/research/"><b>PKI Lab Research Update</b></a>
+has more details on recent work.  
+<p>
+In contrast,
+this page tries give a concise summary of
+the big picture:
+<ul>
+<li> 
+<a href="#scop"><b>Why should you trust computation somewhere else?</b></a>
+<li> 
+<a href="#client"><b>Why should you trust computation at your own machine?</b></a>
+<li>
+<a href="#glue"><b>What infrastructure do we need between the two?</b></a>
+</ul>
+Like anything in the real world, this summary also has some
+<a href="#loose"><b>loose ends</b></a>.
+<p>
+<hr>
+<h3><a name="scop">1. Secure Coprocessing</a></h3>
+
+Since at least the early 1980s, researchers had
+considered the potential
+of <i>secure coprocessors</i>---devices that
+can carry out computation unmolested by an adversary with direct
+physical access---to address basic trust issues of computation and
+data storage at remote locations.
+<p>
+My work has examined both <a href="#tech"><b>the underlying
+technology</b></a> as well as <a href="#app"><b>applications</b></a>
+of secure coprocessors.
+<p>
+(This work also led to <a href="patents.shtml"><b>a number
+of patents</b></a>.)
+
+<h3><a name="tech">Basic Technology</a></h3>
+
+As my <a href="/~sws/ncv/"><b>narrative CV</b></a> details,
+the lack of a programmable secure coprocessor platform---as a 
+real product, not just a lab toy---hampered my work at Los Alamos.
+At IBM Watson, I had the chance to help design (and code and build
+and test and validate and sell :) the secure coprocessing
+platform I thought should exist.  The resulting product line---the IBM4758---is
+about to enter its third generation.
+
+<p>
+
+<strong>Security Architecture.</strong>
+<a href="/~sws/abstracts/sw99.shtml"><b>This (long) journal paper</b></a>
+presents the security architecture that I developed
+with hardware guru Steve Weingart.
+<a href="/~sws/abstracts/spw98.shtml"><b>This paper</b></a>
+explores some of the design space on the way.
+<p>
+<strong>Validation.</strong> To establish the trustworthiness of the 4758, we 
+took it through the FIPS 140-1 validation process,
+and earned the world's first certificate at Level 4 (the highest
+security level).  
+<a href="/~sws/abstracts/spwa99.shtml"><b>This paper</b></a>
+tells the trials and tribulations of that process;
+<a href="/~sws/abstracts/sa98.shtml"><b>this paper</b></a>
+gives a preliminary sketch of the formal model I developed
+with Vernon Austel, as part of that validation.
+In all, I ended up leading the
+software and formal modeling work for 
+<a href="fips.shtml"><b>six different FIPS 140-1 validations</b></a>
+at levels 3 and 4.
+<p>
+<strong>Product.</strong>
+To succeed as a product, the device needs to do something.
+<a href="/~sws/abstracts/dpsl99.shtml"><b>This paper</b></a>
+looks at what we put in the higher level of software;
+<a href="/~sws/abstracts/dyer01.shtml"><b>this later journal paper</b></a>
+gives a retrospective of the product effort.
+<p>
+<strong>Other Platforms.</strong>
+I've also looked at other potential platforms for secure coprocessing.
+<a href="/~sws/abstracts/gsty96.shtml"><b>This early paper</b></a>
+considers security and user interface issues for smart cards.
+<a href="/~sws/abstracts/fairydust.shtml"><b>This recent
+journal essay</b></a> surveys the broader set of issues 
+in keeping and using secrets in physical devices.
+<p>
+<strong>TCPA/TCG.</strong>
+<a href="/~sws/abstracts/msmw03.shtml"><b>This recent tech report</b></a>
+presents some work that I've done with students
+in turning a TCPA-equipped desktop platform into an open-source
+"virtual" secure coprocessor.
+<p>
+
+
+<h3><a name="app">Applications</a></h3>
+
+<a href="/~sws/abstracts/scop96.shtml"><b>This technical report</b></a>
+presents a range of secure coprocessor applications I envisioned
+at Los Alamos.
+<p>
+Subsequently, I had a chance to develop (and often prototype)
+many such applications.
+<p>
+<strong>Web servers.</strong> One application area is moving the server end of a Web SSL channel
+into a secure coprocessor, thus providing a trusted third party
+co-located at the server.
+<a href="/~sws/abstracts/jiang.shtml"><b>Shan Jiang's thesis</b></a>
+prototyped this idea.
+<a href="/~sws/abstracts/jsm01.shtml"><b>This paper</b></a>
+summarizes his results; 
+<a href="/~sws/abstracts/alps01.shtml"><b>this paper</b></a> surveys
+potential applications of this idea.  
+<a href="/~sws/abstracts/alps00.shtml"><b>This technical report</b></a>
+gives a preliminary sketch of the whole idea.
+<p>
+<strong>Auctions.</strong> <a href="/~sws/abstracts/psst02.shtml"><b>This paper</b></a>
+uses secure coprocessors for on-line auctions.
+<p>
+<strong>DRM for Big Brother's Computer.</strong>
+<a href="/~sws/abstracts/iliev.shtml"><b>Alex Iliev's senior thesis</b></a>
+prototyped using a secure coprocessor to enforce access policy 
+on archived sensitive data.  This thesis generated
+a <a href="/~sws/abstracts/is02.shtml"><b>conference paper</b></a>.
+<p>
+<strong>Practical Private Information Retrieval.</strong>
+<a href="/~sws/abstracts/ss01.shtml"><b>This journal paper</b></a>
+explores (and disucsses a limited prototype)
+using secure coprocessors as a practical approach to
+private information retrieval.  Subsequent work by others
+improved this result.  
+<a href="/~sws/abstracts/is03.shtml"><b>This paper</b></a>
+discusses our recent work in using coprocessor-based
+practical private information retrieval to build private
+credential servers, for X.509 directories and Shibboleth attributes.
+(We are currently exploring how to shrink the memory size,
+and to further integrate older, theoretical work in oblivious RAM.)
+<p>
+<strong>PKI and Web-based Mail.</strong>
+Web-based mailers make life easy for mobile users---but where does one
+keep the private keys?
+<a href="/~sws/abstracts/knop.shtml"><b>Evan Knop's senior thesis</b></a>
+explored some approaches to using a secure coprocessor at the server.
+Subsequently,
+<a href="/~sws/abstracts/pereira.shtml"><b>Mindy Pereira's senior thesis</b></a>
+explored and prototyped such an "trusted S/MIME gateway" that has the additional
+advantage of not requiring users to change mail clients.
+The downside: the code did not quite fit inside the current generation 4758.
+<p>
+<strong>Crypto Acceleration.</strong>
+Sometimes, a secure coprocessor really is just a crypto accelerator.
+<a href="/~sws/abstracts/ls01.shtml"><b>This paper</b></a>
+describes how we managed to get a 1000x improvement in DES encryption speed.
+
+<hr>
+<h3><a name="client">2. Trust Judgment at the Client</a></h3>
+
+Does client software enable users to make reasonable trust judgments?
+<p>
+<strong>Digital Signatures.</strong>
+<a href="/~sws/abstracts/ksa.shtml"><b>This paper</b></a>
+discusses many ways in which the apparent contents
+of signed electronic documents can change in usefully malicious
+ways without invalidating their signatures---even <i>without</i>
+using macros.  <a href="/~sws/abstracts/kain.shtml"><b>Kunal Kain's thesis</b></a>
+has more detail and screenshots.
+<p>
+<strong>Server-side SSL.</strong>
+<a href="/~sws/abstracts/ys02.shtml"><b>This paper</b></a>
+presents our work showing how a malicious server can trick
+browsers into appearing to display arbitrary SSL information---and
+how we designed, implemented (in open-source Mozilla) and tested
+a <i>trusted path</i> that solves this problem.
+<a href="/~sws/abstracts/ye.shtml"><b>Eileen Zishuang Ye's thesis</b></a>
+has more detail; <a href="/~sws/abstracts/yys02.shtml"><b>this tech report</b></a>
+has more detail on the spoofing techniques.
+<p>
+<strong>Client-side SSL.</strong>
+Many folks considering Web applications assume that client-side SSL suffices
+for authenticating users; many other PKI-enabled applications expect to use 
+the same browser/OS keystores.
+<a href="/~sws/abstracts/msz04.shtml"><b>This paper</b></a>
+discusses "<i>authjacking</i>"---ways a malicious server can 
+trick a browser into initiating arbitrary client-side authenticated requests---and
+"<i>keyjacking</i>": how to steal the private keys themselves (even a Windows
+"high security" key, <b>even if the browser user tries to do all the right 
+things</b>).
+<p>
+<strong>Word Hacking.</strong>
+We've also had <a href="/~sws/word/"><b>a bit of fun</b></a>
+with subverting password security in Word.
+<p>
+<strong>SSH.</strong>
+<a href="/~sws/abstracts/ali.shtml"><b>Yasir Ali's thesis</b></a>
+developed a decentralized way to address the man-in-the-middle problem in SSH.
+<a href="/~sws/abstracts/as03.shtml"><b>Here</b></a> is a shorter paper.
+<p>
+<strong>HCI and Security.</strong>
+Many of the above problems arise because what computers are 
+actually doing doesn't match the mental model that humans have.
+<a href="/~sws/abstracts/hci1.shtml"><b>This position paper</b></a>
+explores that topic;
+<a href="/~sws/abstracts/hci2.shtml"><b>this journal essay</b></a>
+develops the topic further.
+
+<p>
+
+
+
+<hr>
+<h3><a name="glue">3. Infrastructure</a></h3>
+
+What's ncecesary to glue clients and servers together for secure
+information services?
+
+<h3>Trust Expression</h3>
+
+
+<strong>Attestation/Outbond Authentication.</strong>
+<a href="/~sws/abstracts/esorics02.shtml"><b>This paper</b></a>
+explores how a piece of software can authenticate
+itself to a remote party.  (The problem is trickier
+than you might think.  E.g.: what about code upgrades?
+What about the underlying OS?  What about the potential
+to swap in a debugger?)
+This work arose from what I designed and implemented for the 4758,
+long before TCPA/TCG and ex-Palladium made the problem fashionable again.
+<p>
+<strong>Delegated Authorization in Wireless Networks.</strong>
+<a href="/~sws/abstracts/greenpass.shtml"><b>This technical report</b></a>
+describes an ongoing project to graft SDSI/SPKI onto X509, in order
+to secure a wireless network while still allowing an institution's 
+insiders to delegate access to authorized guests, without changing
+standard laptop software.
+<p>
+<strong>Efficiency of S-BGP.</strong>
+<a href="/~sws/abstracts/nsz03.shtml"><b>This tech report</b></a>
+examines the cost of using PKI to secure the BGP routing protocol.
+We design a new approach---using RSA and some ammortization tricks---that
+is much more efficient than standard S-BGP, and comparable to S-BGP
+with difficult (and apparently unimplemented) optimizations of DSA precomputation
+and massive caching.  Furthermore, we validated all of these results with
+simulation.  (A revised version will be appearing as a journal paper this year.)
+<p>
+<strong>DRM, Fair Use, and Shibboleth.</strong>
+Digital rights management (DRM) lets
+a content provider restrict the actions a user can take
+with a digital object.  Fair use doctrine legally allows users to take
+additional actions, under certain conditions.
+Shibboleth is a system that lets users at educational institutions
+access electronic resources at other institutions.
+<a href="/~sws/abstracts/agrawal.shtml"><b>Sanket Agrawal's thesis</b></a>
+looks how to provide both DRM and Fair Use,
+in the setting of Shibboleth.
+<p>
+<strong>SPKI/SDSI and Shibboleth.</strong>
+<a href="/~sws/abstracts/nasm04"><b>This technical report</b></a>
+uses SPKI/SDSI (a lightweight authorization PKI) to 
+construct and maintain distributed, decentralized attribute 
+release policies in Shibboleth.
+<p>
+<strong>PKI for Machines.</strong>
+<a href="/~sws/abstracts/richardson.shtml"><b>Sean Richardson's senior thesis</b></a>
+examined some issues in using PKI to express properties of machines.
+
+<h3>Coping with Untrustworthy Components</h3>
+
+
+<strong>Detecting Fraudulent Archive Access.</strong>
+The JSTOR journal archive suffers from fraudulent access from 
+legitimate client sites, and requiring stronger authentication is not
+workable.
+<a href="/~sws/abstracts/seligman.shtml"><b>Paul Seligman's senior thesis</b></a>
+used machine learning techniques to help recognize such fraudulent access.
+<p
+<strong>Detecting Forged Biometrics.</strong>
+How can a trusted server authenticate ordinary human users via untrusted
+clients?  We might use speech and speaker recognition---challenging the human
+with a unique phrase each time---but then what about an adversary that
+splices together what appears to be that speaker saying that phrase?
+<a href="/~sws/abstracts/kang.shtml"><b>Dan Kang's senior thesis</b></a>
+explored using Hany Farid's signal tamper detection techniques to address
+this problem.
+<p>
+<strong>Anonymous Surfing.</strong>
+<a href="/~sws/abstracts/shsm03.shtml"><b>This recent tech report</b></a>
+describes a design to use a proxy cache to provide better anonymity than
+many currently deployed schemes---and also describes the prototype we 
+built using Google.
+
+<h3>Marianas</h3>
+
+Our <a href="/~sws/marianas"><b>Marianas</b></a> project
+explores using P2P and trusted hardware to build a survivable,
+trusted third party.
+<p>
+<strong>Virtual Hierarchies.</strong>
+<a href="/~sws/abstracts/ms02.shtml"><b>This paper</b></a>
+presents some work in using P2P and secure hardware to build up
+a PKI structure that combines the resilience of meshes
+with the path efficiency of hierarchies.
+<p>
+<strong>Distributed SEM.</strong>
+As an application of Marianas,
+<a href="/~sws/abstracts/vanrenen.shtml"><b>Gabe Vanrenen's senior thesis</b></a>
+used threshold cryptography and forward security
+to extend the SEM PKI approach of Boneh et al to multiple
+mediators, while mitigating the damage caused by compromise of a given
+mediator.
+Gabe also prototyped this work with JXTA.
+
+
+<h3>System Structure</h3>
+
+<strong>M-Commerce.</strong>
+<a href="/~sws/abstracts/ckst01.shtml"><b>This paper</b></a>
+looks at mobile computing and security, and derives a framework
+to analyze security issues from the overall system structure.
+<p>
+<strong>Behavior.</strong>
+<a href="/~sws/abstracts/fncmit.shtml"><b>This paper</b></a>
+explores some other issues in getting electronic objects to behave
+in sensible ways.
+<p>
+<strong>Security Taxonomies.</strong>
+<a href="/~sws/abstracts/sp96.shtml"><b>This paper</b></a>
+develops a methodology 
+for vulnerability analyses
+in electronic services (inspired by my real-world work in this area).
+<p>
+
+
+
+
+<hr>
+<h3><a name="loose">4. Loose Ends</a></h3>
+
+<h3>Distributed Systems</h3>
+
+My <a href="/~sws/abstracts/phd.shtml"><b>Ph.D. thesis</b></a>
+explored (on a theoretical level) the security and privacy
+implications of non-scalar time structures in distributed
+systems.  (E.g., what about partial orders?  Or hierarchies
+of partial orders?)
+<a href="/~sws/abstracts/sm93.shtml"><b>This (long) technical report</b></a>
+gives more theoretical underpinnings.
+<p>
+This work generated some spinoff papers in security:
+a <a href="/~sws/abstracts/st91.shtml"><b>technical report</b></a>
+and <a href="/~sws/abstracts/st94.shtml"><b>conference paper</b></a>
+on security and privacy for partial order time.
+<p>
+This work also generated some spinoff papers on fault tolerance.
+<a href="/~sws/abstracts/sjt95.shtml"><b>This FTCS paper</b></a>
+uses my time structures to solve a long-standing problem,
+and <a href="/~sws/abstracts/sj96.shtml"><b>this subsequent
+SRDS paper</b></a> improves the result and proves a lower bound.
+<p>
+<h3>Complexity Theory, Etc</h3>
+
+
+My <a href="/~sws/abstracts/lambda.shtml"><b>undergraduate
+thesis</b></a> explored computational complexity issues
+in the lambda calculus.
+My <a href="/~sws/abstracts/fjs91.shtml"><b>first
+refereed paper</b></a> considered applications
+of spectral complexity (looking at a Boolean function
+as a table of correlations with parity functions, instead
+of as a truth table) in computational learning theory.
+A <a href="/~sws/abstracts/ss92.shtml"><b>subsequent
+technical report</b></a> examined some limitations of this
+technique.
+<p>
+More recently,
+<a href="/~sws/abstracts/barreno.shtml"><b>Marco Barreno's
+senior thesis</b></a> explored the implications for cryptography,
+depending on where BQP (the class of problems feasible for quantum
+computers) lands in the complexity hierarchy.
+<p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+<p>
+
+<hr>
+<table width=100%>
+<tr>
+<td align=center>
+<IMG ALIGN="center" SRC="http://www.cs.dartmouth.edu/icons/back.gif" ALT="">
+</td>
+<td align=left>
+<b>
+ 
+<a href="/~sws/">
+Back home</a> 
+</b>
+</td>
+<td align=right>
+<i>Maintained by 
+<a href="http://www.cs.dartmouth.edu/~sws/">Sean Smith</a>,
+<a href="mailto:sws@cs.dartmouth.edu">sws@cs.dartmouth.edu</a>
+</i>
+</td>
+</tr>
+</table>
+</font> 
+</body> 
+</html> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+trusñ

@@ -1,0 +1,56 @@
+http://www.cs.dartmouth.edu/~ashubina
+2
+<html>
+<head>
+<title>Anna's home page</title>
+</head>
+
+
+<body bgcolor="#ffffff">
+
+<table>
+<tr>
+<td> <img src="Dtree.gif"> </td>
+<td><b><big> Anna Shubina</big></b></td>
+</tr>
+</table>
+<hr>
+
+<table>
+<tr>
+<td><img align="left" src="ashubina.jpg"></td>
+<td>
+In December of 2007, I finished my Ph.D. at the Department of Computer Science at Dartmouth 
+College. My advisor was <a href="http://www.cs.dartmouth.edu/~ac"> Amit Chakrabarti</a>. During my first three years at Dartmouth, my research was directed
+by <a href="http://www.cs.dartmouth.edu/~sws"> Sean Smith</a>.
+</td>
+</tr>
+</table>
+<hr>
+<p>
+<b>Projects:</b>
+<br>
+<p>
+Here is 
+<a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2003-470/">the
+ technical report</a> "Using 
+Caching for Browsing Anonymity".
+<p>
+And here is <a href="http://www.cs.dartmouth.edu/~ashubina/google.html"> 
+the proxy</a> that can be used to anonymize your web browsing by using
+<a href="http://www.google.com">Google cache</a>. 
+<p>
+Here is <a href="http://althing.cs.dartmouth.edu/cgi-bin/electme2/master.pl"> 
+a demo of an electronic election scheme </a>. The 
+<a href="http://dev.hil.unb.ca/Texts/PST/pdf/shubina.pdf"> paper</a> on this
+scheme was presented at <a href="http://www.unb.ca/pstnet/pst2004/">
+Privacy, Security and Trust 2004 </a>.
+<p>
+As described <a href="http://althing.cs.dartmouth.edu"> here</a>, I used to run
+<a href="http://www.noreply.org/tor-running-routers/#33417B7DE83974EC4BD2248902A185BB981EE5FC">a server</a> in 
+<a href="http://tor.freehaven.net"> the 
+anonymizing network called Tor</a>, The Onion Routing. At this point, it does
+not look as if it would ever be coming back on-line.
+<p> Here is the <a href="http://www.springerlink.com/content/1157n8ph45780633/">paper</a> called "Nearly Private Information Retrieval". 
+</body>
+</html>

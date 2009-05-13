@@ -1,0 +1,118 @@
+http://www.cs.dartmouth.edu/%7Eniclane/meetings.html
+3
+<html>
+<head>
+<title>Nicholas D. Lane</title>
+<style type="text/css">
+  html, body {
+	  margin: 0px;
+		padding: 0px;
+		font-family: monospace;
+  }
+
+  h3,h2,h1 {
+   padding: 0px;
+	 margin: 0px;
+	 margin-top: 0px;
+	 margin-bottom: 0px;
+	}
+</style>
+</head>
+<body>
+<table cellpadding=0 background=\"white\" border=\"0\" width="*" height="100%" cellspacing=0>
+<tr valign=top>
+	<td bgcolor="#444444">
+		<img src='me_sm.jpg'>
+	</td>
+	<td>
+		<table cellpadding=0 background=\"white\" border=\"0\" width="500px" height="*" cellspacing=6>
+		<tr>
+			<td width="105">
+				<div valign='top' align='left'>
+				<img src='logo.jpg'>
+			</td>
+			<td >
+				<h1>Nicholas D. Lane</h1>
+					niclane at cs dot dartmouth dot edu<BR>
+					<BR>
+					<a href='index.html'>index</a> | <a href='papers.html'>papers</a> | <a href='talks.html'>talks</a> |
+					<a href='meetings.html'>meetings</a> | <a href='resume.pdf'>resume</a>
+			</td>
+		</tr>
+		<tr cellpadding=5 cellspacing=5>
+			<td colspan=2 cellpadding=5 cellspacing=5 >
+			    <BR>
+					<h2>Meetings</h2>
+				  
+					I've attended the following meetings:
+<BR><BR>
+ACM Sensys 2008<BR>
+Raleigh, NC ~ Nov '08<BR>
+<p>
+International Workshop on Urban, Community, and Social Applications of Networked Sensing Systems<BR>
+Raleigh, NC ~ Nov '08<BR>
+<p>
+Pervasive 2008<BR>
+Sydney, Australia ~ May '08<BR>
+<p>
+Pervasive Persuasive Technology and Environmental Sustainability<BR>
+Sydney, Australia ~ May '08<BR>
+<p>
+ACM/IEEE IPSN 2008<BR>
+St. Louis, MI ~ April '08
+<p>
+MODUS 2008<BR>
+St. Louis, MI ~ April '08<BR>
+<p>
+ACM Sensys 2007<BR>
+Sydney, Australia ~ Nov '07<BR>
+<p>
+Sensing on Everyday Phone in Support of Participatory Research Workshop<BR>
+Sydney, Australia ~ Nov '07<BR>
+<p>
+ACM MobiCom 2007<BR>
+Montreal, Canada ~ Sept '07<BR>
+<p>
+ACM MobHoc 2007<BR>
+Montreal, Canada ~ Sept '07<BR>
+<p>
+IEEE EmNets 2007<BR>
+Cork, Ireland ~ June '07<BR>
+<p>
+ACM/IEEE IPSN 2007<BR>
+Boston, MA ~ April '07<BR>
+<p>
+ACM Sensys 2006<BR>
+Boulder, CO ~ Nov '07<BR>
+<p>
+WSW 2006<BR>
+Boulder, CO ~ Nov '07<BR>
+<p>
+AI@50 Conference<BR>
+Hanover, NH ~ July '06<BR>
+<p>
+IEEE EmNets 2006<BR>
+Cambridge, MA ~ May '06<BR>
+<p>
+ACM Sensys 2005<BR>
+San Diego, CA ~ Nov '05<BR>
+<p>
+NSF NOSS PI Meeting.<BR>
+Cambridge, MA ~ Oct '05<BR>
+</td></tr>
+
+
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-639085-1";
+urchinTracker();
+</script>
+</html>

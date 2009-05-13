@@ -1,0 +1,90 @@
+http://www.cs.dartmouth.edu/~pala/courses/cs108_08
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en"><head><title>CS 108 - Winter 2008</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="AUTHOR" content="Massimiliano Pala">
+   <link rel="stylesheet" href="../../css/pala-new.css" type="text/css"></head>
+<body>
+
+<div class="index">
+<a href="../.." class="off">Home</a> &gt;
+<a href="../../courses.shtml" class="off">Courses</a> &gt;
+<font class="on">CS 108</font>
+</div>
+<div class="border">
+<div class="page_body">
+<!-- Begin: Title -->
+<div style="padding: 10px;">
+	<!-- <font class="backtext">PKI/Trust Lab</font><br /> -->
+	<font class="fronttext">Advanced Operating Systems - CS108</font><br />
+	<font class="backtext">Winter Term 2008 - Dartmouth College</font>
+</div>
+
+<!-- End: Title -->
+<!-- Begin: Menu -->
+<!-- Begin: Menu Include -->
+<div class="gold">
+<div class="tl">
+<div class="tr">
+<div class="bl">
+<div class="br">
+<div class="inner">
+<ul class="menu">
+<li class="menu"><a href="index.shtml">Home</a></li>
+<li class="menu"><a href="schedule.shtml">Schedule &amp; Logistics</a></li>
+<li class="menu"><a href="syllabus.shtml">Syllabus</a></li>
+<li class="menu"><a href="coursework.shtml">Coursework</a></li>
+<li class="menu"><a href="http://www.cs.dartmouth.edu/~cs108">Official CS108 Pages</a></li>
+<li class="menu"><a href="../..">Pala Homepage</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- End: Menu -->
+<!-- Begin: Main Contents -->
+<div style="margin: 10px; padding: 10px; width: 100%;">
+<div class="tttitle">
+Class Details
+</div>
+<div class="tttbody">
+  <p style="margin-left: 20px;">
+The class analyzes the architecture of modern operating systems,
+starting from a textbooks vision down to the dirty bits.
+</div>
+
+<!-- #include virtual="includes/lectures.inc" -->
+<div class="tttitle">
+  News
+</div>
+<div class="tttbody">
+   <ul>
+     <li>
+	<span class="date">Jan, Fri 18</span>
+	Additional DTrace links have been posted in the <a href="coursework.shtml">Coursework</a> section.
+     </li>
+     <li>
+	<span class="date">Jan, Thu 17</span>
+	The example scripts that have been discussed in class are available <a href="slides/dtrace-examples.tar">here</a>.
+     </li>
+     <li>
+	<span class="date">Jan, Wed 16</span>
+	DTrace slides are available <a href="slides/dtrace-intro.pdf">here</a>.
+     </li>
+   </ul>
+</div>
+
+<!-- End: Main Contents -->
+</div>
+</div>
+<div style="display: inline;" class="footer">
+<a href="../../">Massimiliano Pala</a> @ <a href="http://www.cs.dartmouth.edu">Dartmouth College</a>
+</div>
+</body>
+</html>
+
+ni

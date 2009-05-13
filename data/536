@@ -1,0 +1,105 @@
+http://www.cs.dartmouth.edu/~farid/tutorials
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Tutorial </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+
+<HR>
+<table align=center width=700>
+<tr>
+<td align=center> <font size=-1><b><a href="../home.html">HOME</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../group.html">PEOPLE</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../publications">PAPERS</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../research">RESEARCH</a></b></font> </td>
+<td align=center> <font size=-1><b><a href="../teaching">TEACHING</a></b></font> </td>
+<td align=center> <font size=-1><b>TUTORIALS</b></font> </td>
+</tr>
+</table>
+<HR>
+<p>
+
+<table align=center width=700>
+<tr>
+<td>
+
+<b> How to give a good talk:</b> Suggestions for giving a <a href="goodtalk.html"> a good talk</a>.
+<BR>
+<BR>
+<b> How to write a good review:</b> Suggestions for writing <a href="goodreview.html"> a good review</a>.
+<BR><BR>
+<HR>
+<p>
+
+<b>Introduction to Matlab:</b> A quick <a href="matlab.intro.html">
+reference and introduction</a> to Matlab.
+<BR>
+<BR>
+<HR>
+<p>
+
+<b>Fundamentals of Image Processing: </b> Learn about the fundamentals
+of signal and image processing built upon a unifying linear algebraic
+framework.<BR><BR>
+
+<a href="fip.pdf">FIP</a> (bug fixes as of 1.6.08)
+
+<BR>
+<HR>
+<p>
+
+<b> The 'Q' Software: </b> Q is an interface to Matlab for
+manipulating and analyzing digital images. Q requires Matlab 5.0 or
+greater, but does not require any Matlab toolboxes.  All of Q's
+routines exist as .m files and do not require any compilation.  Q will
+run on Unix, Mac, and PC.
+
+<BR> <BR>
+
+<table width=700>
+<tr>
+<td width=400 valign=top>
+<p>
+The overall philosophy of Q is to provide two basic types of
+operations.  Operations that effect the <i> appearance </i> of the
+image, or the <i> pixel values </i> of the image.  These operations
+fall under the display and image menus, respectively.  The image
+operations destructively modify the image pixel values but retain a
+double precision representation, while the display operations only
+manipulate the colormap (the mapping of pixel values to brightness)
+and leave the image pixel values unaltered.
+</td>
+
+<td align=right width=300>
+<img src=Q.jpg width-264>
+</td>
+</tr>
+</table>
+
+<BR> <BR>
+
+To begin, enter 'Q;' at the matlab prompt. or 'Q(im);' to load an
+image currently in the matlab environment, or 'Q(im, fig);' to load an
+image into a specific figure.  Images can be loaded and saved to disk
+through the File/Open and File/Save menus.  Images can also be loaded
+from and written to the matlab global environment through the
+File/Matlab Open and File/Matlab Save menus.  Various standard test
+images can also be generated from the Image/Render menu.<BR><BR>
+
+<i>Download: 
+<a href="Q.0.7.tar.gz"> Q.0.7.tar.gz</a>
+(this version fixes a number of minor bugs, and makes Q
+compatible with Matlab 7.x)
+</i>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

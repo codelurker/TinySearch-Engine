@@ -1,0 +1,327 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS85-Fall03
+2
+<html><head>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <title>CS 85 (Fall 2003): Amit Chakrabarti</title>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 85/185<br>
+    Lower Bounds in Computer Science<br><br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Fall 2003<h3></td>
+</tr></table>
+<center>
+  [ <a href="#announcements">Announcements</a> |
+  <a href="#lectures">Lecture Synopses, Homeworks, Handouts</a> |
+  <a href="#admin">Administrative Details</a> ]
+</center>
+
+<hr>
+<h3>Course Description</h3> 
+
+<p> In this course we shall study things that computers <i>cannot</i>
+do. In a typical Algorithms course we learn several ingenious techniques
+to solve problems efficiently. In contrast, in this course we shall
+learn how to prove that certain problems cannot be solved too
+efficiently. For example, you probably know that a set of n integers can
+be sorted using O(n log n) comparisons. We shall now learn how to prove
+that O(n log n) is the best we can hope to do: in other words, (n log n)
+is a <i>lower bound</i> on the number of comparisons required to sort.
+</p>
+
+<p> During the course we shall survey lower bound results from a wide
+range of areas in Computer Science. Broadly, we shall study decision
+trees, Boolean circuits, and communication protocols. We shall consider
+simple looking problems from each of these areas but, as we shall learn,
+even innocent looking lower bound results can be quite a challenge to
+prove. </p>
+
+<p> Proving lower bounds requires a puzzle-solving bent of mind rather
+than extensive knowledge of Algorithms; this course will involve quite
+different ways of thinking than CS 25. A love of mathematical reasoning
+always helps, but we will not be using any advanced mathematics
+itself. </p>
+
+<hr>
+
+<a name="announcements">
+<h3>Announcements</h3> 
+
+  <ul>
+    <li> Sep 25: Please read more about Yao's minimax principle from the
+    book <b>"Randomized Algorithms", by Motwani and Raghavan</b>. The
+    relevant sections are 2.1 and 2.2. 
+    <li> Oct 6: An error in the remark made after problem 5.2 (homework
+    1) has been fixed. This does not affect any of the problems.
+    <li> Oct 30: If you haven't done so already, please complete the <a
+    href="midterm-survey.pdf">mid-term survey</a> and drop it off in my
+    mailbox.
+    <li> Nov 13: We're now into communication complexity. A good
+    textbook which covers this material (and much more) is
+    <b>"Communication Complexity", by Kushilevitz and Nisan</b>. If you
+    want to read something with the definitions spelled out, this is the
+    place to look.
+  </ul>
+
+<hr>
+
+<a name="lectures">
+<h3>Lecture Synopses, Homeworks, Handouts</h3> 
+
+  <p> Here is the <a href="topics.html">planned list of topics</a> as
+  of the first day of Fall term classes. Below is information about
+  what we're actually doing in the classes. </p>
+
+  <p> Handouts are accessible only from within Dartmouth, for
+  copyright reasons.</p>
+
+  <p>
+
+  <table border=1 cellpadding=1 cellspacing=1>
+  <col width=55><col>
+  <tr>
+    <td valign=top>Sep 25</td>
+    <td>
+      Our first lower bound: sorting by comparisons, deterministically.
+      Yao's minimax principle. How to handle randomization.
+      Some lower bounds for selection.<br>
+      Handout 1: <a href="Handouts/gabow-selection.pdf">A Counting
+      Approach to Lower Bounds for Selection Problems</a>.
+      (Fussenegger and Gabow, JACM 26(2))
+    </td>
+  </tr><tr>
+    <td>Sep 30</td>
+    <td>
+      Decision trees for Boolean functions.
+      Deterministic decision tree complexity.
+      Other comlexity measures: certificate complexity, sensitivity,
+      block sensitivity, polynomial degree.
+      Connections between these measures.<br>
+      Homework 1 assigned [<a href="hw1.ps">PS version</a> | 
+      <a href="hw1.pdf">PDF version</a> ]. Due Oct 7, at start of class.<br>
+      Handout 2: <a href="Handouts/homework-guidelines.pdf">Important
+      Homework Guidelines</a>: please read carefully! 
+      [<a href="Handouts/homework-guidelines.tex">LaTeX version</a> |
+      <a href="Handouts/homework-guidelines.ps">PS version</a>]
+    </td>
+  </tr><tr>
+    <td>Oct 2</td>
+    <td>
+      Randomized decision tree complexity. Approximate degree.
+      Connections between these and previously discussed complexity
+      measures.
+      Stronger results for symmetric functions and monotone
+      functions. Graph properties and the evasiveness conjecture.
+    </td>
+  </tr><tr>
+    <td>Oct 7</td>
+    <td>
+      Results in support of the evasiveness conjecture.
+      The Rivest-Vuillemin theorem, with proof.
+      The Kahn-Saks-Sturtevant topological approach.<br>
+      Handout 3: <a href="Handouts/rivestvuillemin.pdf">A Generalization
+      and Proof of the Aanderaa-Rosenberg Conjecture</a>. (Rivest and
+      Vuillemin, STOC 1975)
+    </td>
+  </tr><tr>
+    <td>Oct 9</td>
+    <td>
+      Some results that use the topological approach:
+      evasiveness of bipartite graph properties [Yao] and
+      of minor-closed properties [Chakrabarti-Khot-Shi].<br>
+      New topic: Introduction to algebraic decision and computation 
+      trees.<br>
+      Handout 4: <a href="Handouts/ben-or-algtree.pdf">Lower Bounds for
+      Algebraic Computation Trees</a>. (Ben-Or, STOC 1983)
+    </td>
+  </tr><tr>
+    <td>Oct 14</td>
+    <td>
+      No lecture, due to 
+      <a href="http://theory.lcs.mit.edu/FOCS03/Program.html">FOCS
+      2003</a>.
+    </td>
+  </tr><tr>
+    <td>Oct 16</td>
+    <td>
+      Set recognition problems. Counting connected components. Lower
+      bounds in the linear decision tree model.  Ben-Or's theorem: lower
+      bounds in the algebraic computation tree model.  Application of
+      the theorem to element distinctness and related problems.<br>
+      Homework 2 assigned [<a href="hw2.ps">PS version</a> | 
+      <a href="hw2.pdf">PDF version</a> ]. Due Oct 30, at start of class.
+    </td>
+  </tr><tr>
+    <td>Oct 21</td>
+    <td>
+      No lecture, Amit is out of town. 
+    </td>
+  </tr><tr>
+    <td>Oct 23</td>
+    <td>
+      No lecture, Amit is out of town.
+    </td>
+  </tr><tr>
+    <td>Oct 28</td>
+    <td>
+      Introduction to circuits and circuit complexity. Polynomial time
+      computable implies existence of polynomial sized circuit family.
+      Lower bound for the THRESHOLD-2 function. Introduction to the
+      class AC<sup>0</sup>.
+    </td>
+  </tr><tr>
+    <td>Oct 30</td>
+    <td>
+      H&aring;stad's switching lemma. Proof that PARITY is not in
+      AC<sup>0</sup>. <br>
+      Look at these 
+      <a href="http://www-math.mit.edu/~spielman/AdvComplexity/2000/lec13.ps">
+      lecture notes</a> from Dan Spielman's course at MIT for a compact
+      write-up of the proof.
+    </td>
+  </tr><tr>
+    <td>Nov 4</td>
+    <td>
+      Circuits with modulo gates and the class AC<sup>0</sup>[m]. Proof
+      that PARITY is not in AC<sup>0</sup>[3]. See Section 6.4 in the
+      textbook by Du and Ko.<br>
+      Handout 6: Solutions to the first five problems from Homework 2
+      [<a href="Handouts/hw2sol.ps">PS version</a> | <a
+      href="Handouts/hw2sol.pdf">PDF version</a>].
+    </td>
+  </tr><tr>
+    <td>Nov 6</td>
+    <td>
+      Monotone circuits. The CLIQUE<sub>n,k</sub> function and the first
+      half of the proof of Razborov's lower bound on its monotone
+      circuit complexity. Positive and negative test graphs. Clique
+      indicators and clean functions.
+    </td>
+  </tr><tr>
+    <td>Nov 11</td>
+    <td>
+      Continuation and completion of Razborov's proof. The method of
+      approximations. How to estimate the effect of approximation on
+      positive and negative test graphs, including an application of the
+      Erdos-Rado sunflower lemma.
+    </td>
+  </tr><tr>
+    <td>Nov 13</td>
+    <td>
+      Communication protocols and communication complexity. A nontrivial
+      protocol for median finding. The rectangle property of
+      determinstic protocols. Lower bounds for the equality problem
+      using (a) the rectangle property, (b) the fooling set method, and
+      (c) the rank method.<br>
+      Homework 3 assigned [<a href="hw3.ps">PS version</a> | 
+      <a href="hw3.pdf">PDF version</a> ]. Due Nov 20, at start of class.
+    </td>
+  </tr><tr>
+    <td>Nov 18</td>
+    <td>
+      Randomized communication complexity. Efficient randomized
+      protocols for the equality problem.  Private coin versus public
+      coin. Randomized versus deterministic complexity. Lower bound on
+      randomized complexity using the discrepancy technique. Application
+      to the inner product function. <br>
+      Handout 7: Some brief notes on this material [<a
+      href="Handouts/randcomm.ps">PS version</a> | <a
+      href="Handouts/randcomm.pdf">PDF version</a>].
+    </td>
+  </tr><tr>
+    <td>Nov 20</td>
+    <td>
+      Review of information theory. Entropy, mutual information,
+      conditional entropy. Information complexity. Direct sum 
+      theorem. Lower bound for the bit lookup problem. <br>
+      Homework 4 assigned [<a href="hw4.ps">PS version</a> | 
+      <a href="hw4.pdf">PDF version</a> ]. Due Dec 2, at start of class.
+    </td>
+  </tr><tr>
+    <td>Nov 25</td>
+    <td>
+      Randomized lower bound for set disjointess via information
+      complexity. <br>
+      Communication complexity of relations. Lower bounds using the
+      "critical set lemma".
+    </td>
+  </tr><tr>
+    <td>Dec 2</td>
+    <td>
+      Application of communication complexity to lower bounds in circuit
+      complexity. <br>
+      Final remarks: (a) things we have learnt, (b) things that are out 
+      there for you to learn, (c) questions that no one can answer as
+      yet but would like to, (d) some big but perhaps distant goals. <br>
+    </td>
+  </tr></table>
+
+<hr>
+
+<a name="admin">
+<h3>Administrative Details</h3>
+
+<table cellpadding=2>
+  <tr><td valign=top><b>Lecture</b> <br><br></td> 
+    <td valign=top> 
+      Sudikoff 115 | 2A hour | TTh 14:00-15:50, X-hr W 16:15-17:05
+    </td>
+  </tr>
+  <tr><td valign=top><b>Instructor</b> <br><br> </td> 
+    <td valign=top> 
+      Amit Chakrabarti | Sudikoff 218 | 6-1710 | Office hours: M
+      13:00-15:00 or by appointment
+    </td>
+  </tr>
+  <tr><td valign=top><b>Textbook</b> <br><br></td> 
+    <td valign=top> <dl>
+      <dt> Required: none </dt><br>
+
+      <dt> Recommended: </dt>
+      <dd> "Theory of Computational Complexity", by Ding Zhu-Du and
+      Ker-I Ko. Wiley-Interscience. </dd>
+      <dd> "Computational Complexity", by Christos H. Papadimitriou.
+      Addison-Wesley. </dd>
+      <br>
+    </dl> </td>
+  </tr>
+  <tr><td valign=top><b>Prerequisites</b> <br><br> </td> 
+    <td valign=top> 
+      CS 25, CS 21 (basic background) <br>
+      CS 49 is recommended for additional background <br>
+      A love of puzzle-solving and mathematical reasoning <br>
+    </td>
+  </tr>
+  <tr><td valign=top><b>Work</b> <br><br> </td> 
+    <td valign=top>
+      About five homework sets.<br>
+      Class presentation on one of the topics in the list, or 
+      a related topic of the student's choosing.</td>
+  </tr>
+</table>
+
+<hr>
+
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+</body></html>

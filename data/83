@@ -1,0 +1,63 @@
+http://www.cs.dartmouth.edu/~erickee
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><style type="text/css">
+<!--
+body {
+	background-color: #868686;
+	background-image: url(blackbg.gif);
+}
+body,td,th {
+	color: #E1D0B4;
+}
+a:link {
+	color: #E5B26A;
+}
+.style1 {font-family: Georgia, "Times New Roman", Times, serif}
+.style2 {
+	color: #E4C28D;
+	font-style: italic;
+}
+a:visited {
+	color: #E1D0B4;
+}
+a:hover {
+	color: #FFC674;
+}
+a:active {
+	color: #EAE0D2;
+}
+-->
+</style>
+<body>
+<p>&nbsp;</p>
+<table width="800" height="259" border="0" align="center" cellpadding="3" bordercolor="#000000" background="graybg.gif">
+  <tr background="graybg.gif">
+    <td bordercolor="#000000">&nbsp;</td>
+    <td bordercolor="#000000"><h1><dfn>e     &nbsp;r &nbsp;i&nbsp; c&nbsp;  &nbsp; &nbsp;k&nbsp; e&nbsp; e</dfn></h1>      
+    <div align="left">
+        <p class="style1">I am a PhD student in the <a href=http://www.cs.dartmouth.edu>Computer Science Department</a> at <a href="http://www.dartmouth.edu">Dartmouth College</a> and I am a member of the <a href="http://www.cs.dartmouth.edu/farid/group.html">Image Science Research group</a>, which is led by <a href="http://www.cs.dartmouth.edu/farid/">Dr. Hany Farid</a>. </p>
+        <p class="style1"> My research areas include: digital forensics, image and video processing, and pattern recognition. </p>
+        <p class="style1">        If you would like to contact me, you may do so at: <span class="style2">erickee AT cs dot dartmouth dot edu</span></p>
+    </div></td>
+    <td><b><img src="eric.jpg" width="400" height="268" align="middle"></b></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="900" border="0" align="center" cellpadding="3">
+  <tr>
+    <td colspan="2"><h2><dfn>P u b l i c a t i o n s <hr> </dfn></h2></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="papers/acm08.pdf">Printer Profiling for Forensics and Ballistics</a>, E. Kee, H. Farid, ACM Multimedia and Security Workshop, Oxford, UK, 2008 </td>
+  </tr>
+  <tr>
+    <td width="22">&nbsp;</td>
+    <td width="760">We describe a technique for authenticating printed and scanned text documents. This technique works by modeling the degradation in a document caused by printing. The resulting printer profile is then used to detect inconsistencies across a document, and for ballistic purposes -- that of linking a document to a printer. </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
+i

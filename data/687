@@ -1,0 +1,77 @@
+http://www.cs.dartmouth.edu/~cs38/2007/F07-akapadia
+3
+<html> <head>
+<title>CS38: Home Page</title>
+</head>
+ 
+<body>
+
+<h1> <a href="index.html">CS 38&mdash;Security and Privacy, Fall 2007</a></h1>
+<i>Approved for graduate credit</i>
+<table width="600">
+<tr><td>
+
+<hr>
+<br>
+<center>
+[
+<a href="purpose.html"><b>Overview</b></a>
+|
+<a href="logistics.html"><b>Logistics</b></a>
+|
+<a href="syllabus.html"><b>Syllabus</b></a>
+|
+<a href="hw.html"><b>Homeworks</b></a>
+|
+<a href="project.html"><b>Project</b></a>
+|
+<a href="text.html"><b>Textbook and Resources</b></a>
+]
+</center>
+
+<h2>Course Information</h2>
+
+<table>
+  <tr>    
+   <th valign="top">Lectures</th>
+    <td>214 Sudikoff <br>
+        10&ndash;11:50am, Tue,Thu <br>
+	X Hour: 3&ndash;3:50pm, Wed </td>
+  </tr>
+
+  <tr>
+    <th valign="top">Instructor</th>
+    <td><a href="http://www.cs.dartmouth.edu/~akapadia/">Apu Kapadia</a><br>
+        <a href="mailto:akapadia@cs.dartmouth.edu">akapadia@cs.dartmouth.edu</a><br>
+	065 Sudikoff<br>
+	646-8734<br>
+        Office Hours: 1&ndash;2pm Tue, 2&ndash;3pm Thu, or by appointment<br>
+    </td>
+  </tr>
+
+  <tr>
+    <th valign="top">TA</th>
+    <td>Wei-Ming Chen<br>
+        <a href="mailto:wmc@cs.dartmouth.edu">wmc@cs.dartmouth.edu</a><br>
+	152 Sudikoff<br>
+	646-8741<br>
+        Office Hours: 1&ndash;3pm Wed, or by appointment<br>
+    </td>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Textbook</th>
+    <td><i>The Craft of System Security</i>, Sean W. Smith, John C. Marchesini</td>
+  </tr>
+
+</table>
+
+<p>
+
+<hr>
+</td></tr>
+</table>
+
+</body> </html>
+i

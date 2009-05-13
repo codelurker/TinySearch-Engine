@@ -1,0 +1,60 @@
+http://www.cs.dartmouth.edu/~farid/bio.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="icon/favicon.gif">
+
+<title> Hany Farid, Professor, Computer Science, Dartmouth</title>
+
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<BR><BR>
+
+<div align=center>
+<table width=650>
+
+<tr>
+<td valign=top>
+<img src="photos/hany4.jpg" width=191 height=256>
+</td>
+
+<td> &nbsp </td>
+
+<td valign=top>
+<p>
+Hany Farid received his undergraduate degree in Computer Science and
+Applied Mathematics from the University of Rochester in 1989.  He
+received his Ph.D. in Computer Science from the University of
+Pennsylvania in 1997.  Following a two year post-doctoral position in
+Brain and Cognitive Sciences at MIT, he joined the Computer Science
+Department at Dartmouth in 1999.  Hany is the William H. Neukom 1964
+Distinguished Professor of Computational Science, and the Director of the
+<a href=http://www.dartmouth.edu/~neukom>Neukom Institute for
+Computational Science</a>. Hany is the recipient of an NSF CAREER
+award, a Sloan Fellowship and a Guggenheim Fellowship.
+
+<p>
+
+From working with federal law enforcement agencies on digital
+forensics, to the digital reconstruction of Ancient Egyptian tombs,
+Hany works and plays with digital media at the crossroads of computer
+science, engineering, mathematics, optics, and psychology.
+</td>
+
+</tr>
+
+<tr>
+<td align=right colspan=3> <i><a href="cv.pdf">cv</a> &nbsp &nbsp <a href="home.html">Home</a></i><td>
+</tr>
+
+</table>
+</div>
+
+
+
+</body>
+</html>
+
+
+le=""i

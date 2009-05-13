@@ -1,0 +1,84 @@
+http://www.cs.dartmouth.edu/~umang
+2
+<html>
+
+<head><title>Umang's page</title></head>
+
+<body>
+<center>
+<table width=700px border=0 bgcolor=#daeeda>
+
+<tr>
+<td colspan=2><img src=IMG_3542(2).jpg></td>
+</tr>
+
+<tr>
+
+<tr>
+<td><br></td>
+</tr>
+<tr>
+<td width=20%><center><font face=verdana size=4><b>Me</b></font></center></td>
+<td>
+<p>
+I am a second year PhD student in the Computer Science at Dartmouth College. I am working with Prof. Lisa Fleischer on problems in algorithms and game theory.
+<p>
+Previously I did my MTech from IIT, Bombay and my BTech from NIT, Allahabad. In between, I worked for two years with Tata Consultancy Services.
+</td>
+</tr>
+
+<tr>
+<td><br></td>
+</tr>
+<tr>
+<td width=20%><center><font face=verdana size=4><b>Research</b></font></center></td>
+<td>
+<p>
+Equilibria of Atomic Flow Games are not Unique (<a href="bhaskaru.pdf">pdf</a>). With Lisa Fleischer, Darrell Hoy and Chien-Chung Huang. Appeared in SODA 2009.
+<p>
+Two presentations based on this paper. <a href="pres.pdf">This</a> is for a general audience, while <a href="SODA4.ppt">this</a> is the talk I gave at SODA.
+</td>
+</tr>
+
+
+<tr>
+<td><br></td>
+</tr>
+<tr>
+<td width=20%><center><font face=verdana size=4><b>Interests</b></font></center></td>
+<td>
+<p>
+I am an occasional photographer, though I still stick to a point and shoot. I enjoy reading. I've recently picked up squash. Infrequently, I write, some of which ends up on various blogs, and most of which never sees the light of day.<p>
+</td>
+</tr>
+
+<tr>
+<td><br></td>
+</tr>
+<tr>
+<td width=20%><center><font face=verdana size=4><b>Links</b></font></center></td>
+<td>
+<table cellspacing=10%>
+<tr>
+<td valign=top>
+news sites <br>
+<a href="http://www.slashdot.org">slashdot</a> <br>
+<a href="http://www.wsj.com">wsj</a> <br>
+<a href="http://www.outlookindia.com">outlook india</a><br>
+</td>
+<td>
+tech blogs <br>
+<a href="http://mybiasedcoin.blogspot.com/">michael mitzenmacher</a> <br>
+<a href="http://weblog.fortnow.com/">fortnow etc</a> <br>
+<a href="http://ac0.blogspot.com/">amit</a> <br>
+<a href="http://www.scottaaronson.com/blog/">scott aaronson</a> <br>
+<p>
+</td>
+</tr>
+
+
+</table>
+</center>
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+http://www.cs.dartmouth.edu/~cbk/personal.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>Chris Bailey-Kellogg : Personal</title>
+<meta http-equiv=content-type content="text/html; charset=us-ascii">
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<p>
+<font class=me>Chris Bailey-Kellogg</font><br>
+<a href="http://www.cs.dartmouth.edu/" class=affil>Computer Science</a><br>
+<a href="http://www.dartmouth.edu/" class=affil>Dartmouth</a>
+</p>
+
+<table width="100%" border=0><tbody>
+
+<tr>
+<!-- navigation -->
+<td valign=top align=left width=200><br>
+<a href="index.html" class=nav>home</a><br>
+<a href="research.html" class=nav>research</a><br>
+<a href="pubs.html" class=nav>publications</a><br>
+<a href="lab.html" class=nav>lab</a><br>
+<a href="teaching.html" class=nav>teaching</a><br>
+<a href="personal.html" class=nav>personal</a><br>
+</td>
+
+<!-- content -->
+<td valign=top>
+<div class=header align=center>Personal</div><br>
+
+<h3>Not-So-Random Walk</h3>
+Emory, VA (<a href="http://www.ehcweb.ehc.edu/faculty/fkellogg/">Fred and
+Jeannette Kellogg</a>; <a href="http://www.angelspore.nu/">Mark</a>)<br>
+Cambridge, MA (<a href="http://web.mit.edu/">MIT</a>: <a href="http://www.media.mit.edu/~sandy/">Sandy Pentland</a>: BS/MS)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; + Christine (<a href="http://www.wellesley.edu/">Wellesley</a>)<br>
+Dallas, TX (<a href="http://www.ti.com/">TI</a>: Bruce Flinchbaugh)<br>
+Columbus, OH (<a href="http://www.cis.ohio-state.edu/">OSU</a>: <a href="http://www.parc.xerox.com/spl/members/zhao/">Feng Zhao</a>: PhD)<br>
+Palo Alto, CA (<a href="http://www.parc.xerox.com/">Xerox PARC</a>: <a href="http://www.parc.xerox.com/spl/members/zhao/">Feng Zhao</a>)<br>
+Hanover, NH (<a href="http://www.cs.dartmouth.edu/">Dartmouth</a>: <a href="http://www.cs.dartmouth.edu/~brd/">Bruce Donald</a>: Postdoc)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; + <a href="dorrie.html">Dorrie</a> (<a href="http://uvhs.org/">Upper Valley Humane Society</a>)<br>
+West Lafayette, IN (<a href="http://www.cs.purdue.edu/">Purdue</a>: Assistant Professor)<br>
+Strafford, VT (<a href="http://www.cs.dartmouth.edu/">Dartmouth</a>:
+Assistant then Associate Professor)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; + Amelia<br>
+
+</td></tr>
+
+</tbody></table>
+</body>
+</html>

@@ -1,0 +1,76 @@
+http://www.cs.dartmouth.edu/farid/research/imageneuro.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Image-Guided Neurosurgery </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 border=0>
+<tr>
+<td valign=top > 
+<b> Image-Guided Neurosurgery </b>
+<BR>
+<p>
+Magnetic resonance (MR) and computed tomography (CT) images provide a
+detailed 3-D description of patient anatomy.  During neurosurgery it
+is often desirable to establish a correspondence between these
+pre-operative images and real-time images of the patient (as shown to
+the right).  In so doing, the position of a surgical target (e.g., a
+tumor), clearly visible in the MR or CT image, can be more easily
+visualized by the surgeon.
+
+<BR><BR>
+
+We have developed a system that allows for the real-time overlay of
+pre-operative MR or CT imagery onto a surgeon's operating microscope
+view.  To accomplish this, our system estimates the transformation
+between the pre-operative image space and the continually changing
+surgical space - this estimation must be accurate to within 1 mm.
+
+<BR><BR>
+
+<i>(Collaborative work with Hai Sun and <a
+href="http://engineering.dartmouth.edu/thayer/faculty/keithpaulsen.html">Keith
+Paulsen</a>)</i>
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top> <IMG SRC="imageneuro.jpg" width=304 height=304> <BR>
+</td>
+</tr>
+</table>
+
+<HR>
+
+
+<table align=center width=750>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></t\
+d>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Stereopsis-Guided Brain Shift Compensation <a href="../publications/medimg05.html">(medimg05)</a> <BR>
+  <li>Cortical Surface Tracking Using a Stereoscopic Operating Microscope <a href="../publications/neuro05.html">(neurosurgery05)</a> <BR>
+  <li>Stereopsis-Guided Brain Shift Compensation <a href="../publications/hsthesis05.html">(thesis05)</a> <BR>
+  <li>A Non-Contacting 3-D Digitizer for Use in Image-Guided Neurosurgery <a href="../publications/sfn03.html">(sfn03)</a> <BR>
+  <li>Estimating Cortical Surface Motion Using Stereopsis for Brain Deformation Models <a href="../publications/miccai03a.html">(miccai03)</a> <BR>
+  <li>A Non-Contacting 3-D Digitizer For Use in Image-Guided Neurosurgery <a href="../publications/assfn03.html">(assfn03)</a> <BR>
+  <li>Real-time Correction Scheme for Calibration and Implementation of Microscope-Guided Neurosurgery <a href="../publications/spie02.html">(spie02)</a>
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+</html>
+Inñ

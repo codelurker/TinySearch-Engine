@@ -1,0 +1,162 @@
+http://www.cs.dartmouth.edu/~farid/teaching/cs68/cs68.winter.00.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../../icon/favicon.gif">
+
+<title> Hany Farid: Teaching: CS 68, Winter, 2000 </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<i>
+<div align=right>
+<a href="../teaching.html"> Teaching</a> &nbsp &nbsp
+<a href="../../home.html"> Home</a>
+</div>
+</i>
+
+<table cellpadding=0>
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>News</b></td> 
+	<td valign=top> <font size=-1>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Course</b>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	<b>CS 68 | Principles of Programming Languages | Winter 2000</b>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Lecture</b> <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	Fairchild 101 | MWF 1:45-2:50 | XHr 1:00-1:50 R
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Instructor</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Hany Farid | Sudikoff 208 | 646.2761<BR> 
+	office hours: MF 3:00-4:00 | W 12:30-1:30<BR>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>TA</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Yougu.Yuan @ dartmouth.edu | Sudikoff 106 | 646.3297 <BR> 
+	office hours: TuTh 2:00-3:00 <BR><BR>
+	David.A.Castleman @ dartmouth.edu <BR>
+	lab hours (005): W 3:30-5:00 | Th 6:00-7:30
+
+</tr>
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Textbook</b> <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	Programming Languages, Principles and Practice, Kenneth C. Louden
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Computing</b> <BR><BR></td> 
+	<td valign=top> <font size=-1>
+	The linux boxes in Sudikoff 005 support all the neccessary
+	programming languages.  You should make sure that any code you
+	write compiles and runs on these machines.
+	</font></td>
+</tr>
+
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Syllabus</b> <BR> </td> 
+	<td valign=top> <font size=-1>
+	&nbsp&nbsp&nbsp&nbsp o History of programming languages <BR>
+	&nbsp&nbsp&nbsp&nbsp o Abstractions in programming languages <BR>
+	&nbsp&nbsp&nbsp&nbsp o Scanning/Parsing (flex/bison) <BR>
+	&nbsp&nbsp&nbsp&nbsp o Basic semantics <BR>
+	&nbsp&nbsp&nbsp&nbsp o Type checking  <BR>
+	&nbsp&nbsp&nbsp&nbsp o Lambda calculus <BR>
+	&nbsp&nbsp&nbsp&nbsp o Scheme <BR>
+	&nbsp&nbsp&nbsp&nbsp o ML <BR>
+	&nbsp&nbsp&nbsp&nbsp o Prolog <BR>
+	&nbsp&nbsp&nbsp&nbsp o Matlab <BR><BR>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Readings</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Chapters 1,2 (introduction) <BR>
+	Chapters 4,5 (syntax/semantics)<BR>
+	Chapter 6 (type checking) <BR>
+	Chapter 10 (functional programming) <BR>
+	Chapter 11 (logic programming) <BR><BR>
+	</font></td>
+</tr>
+
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+<tr><td valign=top><b>Grading</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	Homework (35%) | Midterm (30%) | Final (35%)
+	</font></td>
+</tr>
+
+<tr><td valign=top><b>Homework</b> <BR><BR> </td> 
+	<td valign=top> <font size=-1>
+	There will be weekly homeworks given on Friday.  Homework is
+	due in class on the following Friday.  Submit a hardcopy of any
+	written questions, a hardcopy of any programming questions,
+	and sample output.  Homeworks received after Friday class will
+	lose 20%, on Saturday 30%, on Sunday 40%, on Monday 50%, and
+	will not be accepted afterwards.  At any time during the term
+	you may have a one week extension on any single homework. <BR>
+	<a href="hw1.html"> Homework #1</a> |
+	<a href="hw2.html"> Homework #2</a> |
+	<a href="hw3.html"> Homework #3</a> |
+	<a href=hw4.html>Homework #4</a> |
+	<a href=hw5.html>Homework #5</a> <BR>
+
+	<a href=electronic.submit.html>Electronic submission
+	guidelines</a> <BR><BR>
+
+</font></td> </tr>
+
+<tr><td valign=top><b>Exam</b> </td> 
+	<td valign=top> <font size=-1>
+	The midterm and final will be in-class exams.<BR>
+	<a href="practice1.html"> Sample Problems 1</a> |
+	<a href="practice2.html"> Sample Problems 2</a>
+	</font></td>
+</tr>
+
+<tr><td valign=top><b></b><HR></td> 
+	<td valign=top><HR></td>
+</tr>
+
+</table>
+
+
+<i>
+<div align=right>
+<a href="../teaching.html"> Teaching</a> &nbsp &nbsp
+<a href="../../home.html"> Home</a>
+</div>
+</i>
+</html>

@@ -1,0 +1,84 @@
+http://www.cs.dartmouth.edu/~map/people.php
+3
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>MAP
+ | people         
+</title>
+<link rel="stylesheet" href="http://www.cs.dartmouth.edu/~map/include/style.css" type="text/css" /><link rel="icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" />
+</head>
+
+<body>
+<div class="outer pc75">
+<div class="inner mg177">
+<div class="title">
+<span class="name"><a href="http://www.cs.dartmouth.edu/~map"><img
+    src="img/map-logo.png" alt="MAP logo"></a></span>
+</div>
+</div>
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+    <li><a href="http://www.cs.dartmouth.edu/~map/index.php" >Home</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/papers.php" >Papers</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/biblio.php" >Bibliography</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/links.php" >Links</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/wiki.php" >Wiki</a></li>
+<li id="active"><a href="http://www.cs.dartmouth.edu/~map/people.php"  id="current">People</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/mapstats.php" >MAP Testbed</a></li>
+</ul>
+<br/>
+<div id="navimgcontainer">
+<a href="http://www.hsarpacyber.com"><img src="img/dhs.jpg" alt="DHS logo" title="Sponsored by HSARPA as part of the Cyber Security Research and Development (CSRD) program" height=100></a>
+<a href="http://www.ists.dartmouth.edu"><img src="img/ists.png" alt="ISTS logo" width=50></a>
+<a href="http://www.arubanetworks.com"><img src="img/aruba.png" alt="Aruba Networks logo"></a>
+<a href="http://www.cs.uml.edu"><img src="img/uml.gif" alt="UMass Lowell logo"></a>
+</div>
+</div>
+<div id="content">
+
+    <div class="bodybold">Faculty</div>
+    <ul>
+        <li><a href="http://www.cs.dartmouth.edu/~dfk/">David
+            Kotz</a></li>
+        <li><a href="http://www.cs.dartmouth.edu/~campbell/">Andrew
+            Campbell</a></li>
+        <li><a href="http://www.cs.uml.edu/~glchen/">Guanling
+            Chen</a></li>
+    </ul>
+    
+    <div class="bodybold">Staff</div>
+    <ul>
+    <li>Bennet Vance</li>
+    <li><a href="http://www.hasborg.com/">Joshua Wright</a></li>
+    <li>Michael Locasto</li>
+</ul>
+    
+    <div class="bodybold">Students</div>
+    <ul>
+        <li><a href="http://www.cs.dartmouth.edu/~udayan/">Udayan
+            Deshpande</a></li>
+        <li><a href="http://www.cs.dartmouth.edu/~keren/">Keren
+            Tan</a></li>
+        <li>Hongda Yin</li>
+    </ul>
+
+    <hr/>
+
+    <img src="img/map_group.jpg" alt="the MAP group"></img>
+
+    <hr/>
+    <p>
+    Interested in joining us? <a
+        href="http://cmc.cs.dartmouth.edu/openings/">Openings
+        available.</a>
+    </p>
+
+</div>
+</body>
+</html>
+sá

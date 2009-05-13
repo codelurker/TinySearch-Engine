@@ -1,0 +1,61 @@
+http://www.cs.dartmouth.edu/~farid/publications/mkjthesis07.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=650>
+<tr>
+<td>
+
+<dl>
+<dt><b> Lighting and Optical Tools for Image Forensics </b><BR>
+<dd> Micah K. Johnson <i>(advisor: H. Farid)</i> <BR> 
+<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2007
+<BR><BR>
+<dd>	<a href="mkjthesis07.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#johnson07">Bibtex</a>
+
+        
+</dl>
+<p><BR>
+We present new forensic tools that are capable of detecting traces of
+tampering in digital images without the use of watermarks or
+specialized hardware. These tools operate under the assumption that
+images contain natural properties from a variety of sources, including
+the world, the lens, and the sensor. These properties may be disturbed
+by digital tampering and by measuring them we can expose the
+forgery. In this context, we present the following forensic tools: (1)
+illuminant direction, (2) specularity, (3) lighting environment, and
+(4) chromatic aberration. The common theme of these tools is that they
+exploit lighting or optical properties of images. Although each tool
+is not applicable to every image, they add to a growing set of image
+forensic tools that together will complicate the process of making a
+convincing forgery.
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=650>
+<tr>
+<td align=left>
+<i><a href="../research/tampering.html">Related material</a></i>
+</td>
+<td valign=top align=right>
+	<i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
+</td>
+</tr>
+</table>
+</html>
+i

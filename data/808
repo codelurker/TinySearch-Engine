@@ -1,0 +1,171 @@
+http://www.cs.dartmouth.edu/~fabio/teaching/cs82-winter08
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>CS82/182 - Topics in Computer Graphics - Winter 2008</title>
+	<meta name="author" content="Fabio Pellacini" />
+	<link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+
+<div class="pagebackground">
+
+<div class="pagedecorationbefore"></div>
+<div class="pagedecoration">
+
+<div class="page">
+
+<div class="header">
+<div class="title">Topics in Computer Graphics</div>
+<div class="subtitle">CS82/182 - Winter 2008</div>
+<div class="subtitle">Instructor: Fabio Pellacini</div>
+</div>
+
+<div class="navigation">
+<span class="navigationitem"><a href="index.html">About</a></span>
+<span class="navigationitem"><a href="schedule.html">Schedule</a></span>
+<span class="navigationitem"><a href="projects.html">Projects</a></span>
+</div>
+
+<div class="content">
+<h1>About</h1>
+
+<h2>Course Description</h2>
+<p>The Topics in Computer Graphics course will introduce students to current research topics 
+in Computer Graphics. This year, we will focus in particular on interactive techniques
+with application to game development.</p>
+<p>
+Students will be required to read papers, present some of the topics and develop a project during 
+the course. In addition, one assignment will be performed to familiarize with the particular of
+the technology.</p>
+
+<h2>Administration</h2>
+
+<div class="listBlock">
+<div class="listBlockTitle">Instructor</div>
+<ul>
+<li class="listBlockItem">Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu) | Sudikoff 153 | Office hour: TBD</li>
+</ul>
+</div>
+
+<div class="listBlock">
+<div class="listBlockTitle">Lectures</div>
+<ul>
+<li class="listBlockItem">TuTh 10:00-11:50pm | where: Sudikoff 214</li>
+<li class="listBlockItem">Xhour: not used probably </li>
+</ul>
+</div>
+
+<h2>Coursework</h2>
+
+<h3>Programming Assignment</h3>
+
+<p>
+The assumes you will be able to work independently to ultimately complete
+a project. To verify that you have the minimum skills to proceed, you will
+be required to complete one simple assignment that will help you be familiar
+with an interactive rendering codebase.
+</p>
+
+<h3>Paper Presentations</h3>
+
+<p>
+You will be required to present various papers during the course.
+It is suggested that you choose presentation in an area of interest to you and
+as related to your final project as possible.
+</p>
+
+<p>Presentations do not need to be long, but should clearly address paper
+motivation, background, contribution and results. For each paper, you will
+a PDF containing the slides of your presentation which I will make available 
+to everybody via the website.</p>
+
+<h3>Class Participation</h3>
+
+<p>You are required to read all papers presented in the course, even if you are
+not assigned to present them. Discussion will follow each paper presentation and
+participation during the discussion will be evaluated.</p>
+
+<p>Furthermore, we will have discussions on various games during the course,
+and how technology advancements have influenced their design. 
+Participation during the discussion will be evaluated.</p>
+
+<h3>Project</h3>
+
+<p>One of the main goals of the course is to get hands on experience implementing
+some graphics algorithms into a working system. While I will provide interesting ideas
+for projects, you are free to choose the topic that mostly interest you, 
+which I will have to approve.</p>
+
+<p>In general, it is possible to work on a project in three ways.<br/>
+For a successfull <em>implementation project</em>, students are required to implement some of the main
+ideas from one or two papers. A careful implementation and cool demo is expected at the end of the term.<br/>
+For a successfull <em>exploration project</em>, students are required to explore a novel idea related to
+one of the topics covered in class. The idea might not work at the end, but a suitable implementation should be
+presented nonetheless.<br/>
+For a successfull <em>game project</em>, students are required to implement a tiny game. We will not
+judge design or art, but a cool demo is required at the end. Basically, we want to be able to play your game.<br/>
+</p>
+
+<p>Projects can be either done alone or in groups of no more than two students. 
+When grading, it is expected that group projects have roughly twice the 
+contribution than individual ones.</p>
+
+<p>
+We will have brief in-class weekly progress reports to discuss the project. 
+Ultimately it is your responsability though to seek help
+if you feel stuck during the work. Furthermore, we will also have fixed milestones
+(that will serve also for grading), where project goals have to be met.
+</p>
+
+<h3>Grading, Late Assignments and Extra credit</h3>
+
+<p>The final grade from this class will be decided by your class participation (15%),
+your presentations (%25%), your project (50%) and the programming assignment (10%).<br/>
+Please note that I will evaluate your project twice, 
+roughly in the middle (25%) and at the end of class (25%).
+This is to encourage you to make progress on your project early on and give 
+you more feedback on how you are doing during the class.
+</p>
+
+<p>
+I will not accept late submissions for any of the assignments. Exception to this rule might 
+be made for special cases only if the professor is informed way before the deadline and at his 
+sole discretion.</p>
+
+<p>Note that I am including here rough percentage of the final grade as indication only.
+These are subject to change and it is possible that I will weight things differently 
+at the end of the class.</p>
+
+<h3>Working Together and Academic Integrity</h3>
+
+<p>You are encouraged to talk to other students about the topics discussed in class
+as well as your project.  The goal is to get a deeper understanding of
+the material and further develop ideas related to your project.</p>
+
+<p>Once it gets to preparing your presentation and your project,
+you should only work by yourself or within your group.</p>
+
+<p>You are welcome to use any source of information that can deepen your understandiung 
+of the material. For some project, it may be necessary to include code/components available from elsewhere.
+In this case, please consult me before doing so.</p>
+
+</div>
+
+<div class="footer">
+Fabio Pellacini (fabio -at- cs -dot- dartmouth -dot- edu)
+</div>
+
+</div>
+
+</div>
+<div class="pagedecorationafter"></div>
+
+</div>
+
+</body>
+</html></p>i

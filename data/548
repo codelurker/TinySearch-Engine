@@ -1,0 +1,60 @@
+http://www.cs.dartmouth.edu/~farid/publications/spthesis03.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=650>
+<tr>
+<td>
+
+<dl>
+<dt><b> General-Purpose Medical Image Registration </b> <BR>
+<dd> S. Periaswamy <i>(advisor: H. Farid)</i>  <BR>
+<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2003 </i>
+<BR><BR>
+<dd>	<a href="spthesis03.ps.gz"> Dissertation (ps.gz)</a> &nbsp &nbsp
+	<a href="spthesis03.pdf"> Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#periaswamy03">Bibtex</a>
+</dl>
+
+<p><BR>
+
+We have developed a general-purpose registration algorithm for medical
+images and volumes. The transformation between images is modeled as
+locally affine but globally smooth, and explicitly accounts for local
+and global variations in image intensities. An explicit model for
+missing data is also incorporated, allowing us to simultaneously
+segment and register images with partial or missing data. The
+algorithm is built upon a differential multiscale framework and
+incorporates the expectation-maximization (EM) algorithm. We show that
+this approach is highly effective in registering a range of clinical
+medical images.
+
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=650>
+<tr>
+<td align=left>
+<i><a href="../research/registration.html">Related material</a></i>
+</td>
+<td valign=top align=right>
+	<i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
+</td>
+</tr>
+</table>
+
+</html>

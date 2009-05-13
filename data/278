@@ -1,0 +1,78 @@
+http://www.cs.dartmouth.edu/~csrs/contact.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Computer Science Research Symposium '08</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<img src="banner.jpg">
+<br>
+<br>
+<br>
+
+<table style="text-align: left;" width=85%>
+
+<tr>
+<td width=10%></td>
+<td valign="top">
+<table class="navbar">
+<tr><td><a href="index.html">Home</a></td></tr>
+<tr><td><a href="schedule.html">Program</a></td></tr>
+<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
+<tr><td><a href="history.html">History</a></td></tr>
+<tr><td><a href="faq.html">FAQ</a></td></tr>
+<tr><td><a href="contact.html">Contact Us</a></td></tr>
+</table>
+</td>
+
+<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
+
+<td>
+<div style="text-align: center;"></div>
+<table style="text-align: left; margin-left: auto; margin-right: auto;" cellpadding="5pt" cellspacing="5pt">
+<tbody>
+<tr>
+<td id="top" colspan="2"> 
+
+<h3>Contact Information</h3>
+</td>
+</tr>
+<tr><td colspan=2>For poster submissions, suggestions and for general information, please mail us at <a href="mailto:csrs@cs.dartmouth.edu">csrs@cs.dartmouth.edu</a></td></tr>
+<tr>
+<td style="background-color: #eeeeee;" colspan="2" rowspan="1"><span style="font-weight: bold; text-decoration: underline;">Steering Committee Members</span></td>
+</tr>
+<tr>
+<td style="text-align: center; font-style: italic;">Andrew Campbell</td>
+<td style="text-align: center; font-style: italic;">Tanzeem Choudhury</td>
+</tr>
+<tr>
+<td style="text-align: center; font-style: italic;">Lisa Fleischer</td>
+<td style="text-align: center; font-style: italic;">Fabio Pellacini</td>
+</tr>
+<tr>
+<td style="background-color: #eeeeee;" colspan="2" rowspan="1"><span style="font-weight: bold; text-decoration: underline;">Organizers</span></td>
+</tr>
+<tr>
+<td style="font-style: italic; text-align: center;">Xiaobo An</td>
+<td style="font-style: italic; text-align: center;">Umang Bhaskar</td>
+</tr>
+<tr>
+<td style="font-style: italic; text-align: center;">James Hughes</td>
+<td style="font-style: italic; text-align: center;">Emiliano Miluzzo</td>
+</tr>
+<tr>
+<td style="font-style: italic; text-align: center;">Daniel Peebles</td>
+<td style="font-style: italic; text-align: center;">Wei Pan</td>
+</tr>
+</tbody>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,128 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS33-Spring09/Homework/hw1.html
+3
+<html><head><title>CS 33 (Spring 2009): Homework 1</title></head> <body>
+
+<div style="width:800px">
+<h2>CS 33 (Spring 2009): Homework 1: Working with relational algebra</h2>
+
+  <h3 style="color:red">Deadline: 10:00pm sharp on April 13, 2009</h3>
+
+  <p> Please read through this page entirely and carefully, before
+  beginning your work. </p>
+
+  <h3>Part 1: Purely mathematical problems</h3>
+
+  <ol>
+    <li>Solve problems 2.5 (a) and (b) from the textbook, using only
+    the fundamental relational algebra operations.
+    <div align=right>[10 points]</div> </li> <br/>
+
+    <li>Solve problems 2.5 (c), (d) and (e) from the textbook. In
+    addition to the fundamental relational algebra operations, you may
+    use the natural join and division operations if you like.
+    <div align=right>[15 points]</div> </li> <br/>
+
+    <li>Solve problem 2.6 (a), (b) and (c) from the textbook. You may
+    use any of the relational algebra operations described in Chapter 2.
+    <div align=right>[15 points]</div> </li> <br/>
+  </ol>
+
+  <h3>Part 2: Programming problems</h3>
+
+  <ol>
+    <li>The file <tt>~cs33/data/baseball_salaries_2003.txt</tt> contains
+    salary information for certain professional baseball players from
+    the year 2003. It should be self-explanatory. Write code to read
+    this file, process it appropriately and determine, for each
+    position, the average salary of the players in that position. Your
+    code should write seven lines of text to standard output, with each
+    line formatted (in printf notation) as <tt>"%8d: %s"</tt>, where the
+    first parameter (the <tt>%8d</tt>) is the average salary rounded to
+    the nearest integer and the second parameter (the <tt>%s</tt>) is
+    the name of the position, exactly as in the input file. The lines
+    should be sorted in descending order of average salary. Note that
+    the seven positions represented in the input file are "Catcher",
+    "First Baseman", "Outfielder", "Pitcher", "Second Baseman",
+    "Shortstop" and "Third Baseman".
+    <div align=right>[15 points]</div> </li> <br/>
+
+    <li>The file <tt>~cs33/data/baseball_salaries_2005.txt</tt> is very
+    similar to the above and contains data for 2005, but for a different
+    set of teams. However, there are a number of players who appear in
+    both data sets. Write code to read the two input files and determine
+    the set of players that appear in both files, along with their 2003
+    and 2005 salaries. Your code should write one line of text to
+    standard output for each such player, formatted as <tt>"%-21s: %8d:
+    %8d"</tt>, where the three parameters (in order) are the player's
+    name (exactly as in the input files, in quotes), the 2003 salary and
+    the 2005 salary.
+    <div align=right>[20 points]</div> </li> <br/>
+
+    <li>Examine the following three files, which contain data about a
+    set of imaginary actors and a set of imaginary films (movies) along
+    with information about which actors appear in which films: <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <tt>~cs33/data/actor.txt</tt>,&nbsp;
+      <tt>~cs33/data/film.txt</tt>,&nbsp;
+      <tt>~cs33/data/actor_film.txt</tt> <br/>
+    The comment lines on top of each file explain the contents
+    adequately. Write code to process these three files and determine
+    the actor(s) that appear in the maximum number of films. There may
+    be more than one actor tied for the maximum. Your code should write
+    several lines to standard output as follows. For each actor tied for
+    the maximum, write the actor's first name and last name on one line, 
+    separated by a single space. In the next few lines, write the name
+    of each film in which this actor appears, one film per line: the
+    film names should be exactly as in the input file, complete with
+    single quotes. Then go on to the next actor, write their name,
+    followed by the names of the films they appear in, and so on. The
+    actors should appear sorted in increasing order of actor IDs and the
+    list of films appearing beneath each actor's name should be in
+    increasing order of film IDs. Note that you should not be printing
+    any IDs in your output.
+    <div align=right>[25 points]</div> </li> <br/>
+
+  </ol>
+
+  <h3>What to turn in</h3>
+  <ul>
+
+    <li> Prepare a PDF file with your answers to all the problems in Part 1.
+    One way to prepare the PDF file is to use LaTeX. If you are unfamiliar
+    with LaTeX, you may copy the file <tt>~cs33/data/hw1-example.tex</tt> 
+    and use it as a starting point: just edit it suitably. That file
+    contains instructions to compile the "<tt>.tex</tt>" input file to 
+    produce a "<tt>.pdf</tt>" file: see the comments near the top. </li>
+    <br/>
+
+    <li> Write a single program that solves all the problems in Part 2.
+    The program should read a single command line argument: when this
+    argument is <em>n</em>, it should behave as specified in Problem
+    <em>n</em> of Part 2. </li> <br/>
+
+    <li> Your program may be written in <em>any</em> general-purpose
+    programming or scripting language (e.g., C, C++, Java, Awk, Perl,
+    Python, Ruby, Haskell, ML, Lisp, Scheme, Shell Script), but
+    <em>not</em> in a special-purpose language for database handling,
+    such as SQL. </li> <br/>
+
+    <li> The first few lines of your source code should contain comments
+    indicating how to compile and run your program on the machine
+    "sunapee". If your program is in a scripting language, compilation
+    may not be necessary, but you should still indicate how to run the
+    program, and place an appropriate shebang instruction (such as
+    <tt>#!/usr/bin/perl</tt>) on the first line. <em>Please check to
+    ensure that your program does compile and run correctly on
+    sunapee!</em> If you need help with this, send email to
+    "sysadmin@cs.dartmouth.edu" with a CC to the professor and the TA.
+    </li> <br/>
+
+    <li> <b>Submit exactly two files</b> &mdash; your PDF file for Part
+    1, and the source code of your prorgam for Part 2 &mdash; using the
+    <a href="http://www.cs.dartmouth.edu/~cs33/login.html">homework 
+    submission form</a> on the course website. </li>
+
+  </ul>
+</div>
+
+</body></html>

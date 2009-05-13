@@ -1,0 +1,1913 @@
+http://www.cs.dartmouth.edu/farid/research/digitaltampering
+3
+<HTML>
+<HEAD>
+<LINK REL=STYLESHEET  HREF="../../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../../icon/favicon.gif">
+
+<title> Photo Tampering Throughout History </title>
+</HEAD>
+<BODY bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+
+
+<TABLE CELLPADDING=7 WIDTH=650 ALIGN=CENTER>
+
+<tr>
+<td colspan=2 valign=top align=right>
+	<i>
+	<a href="../../home.html"> Home</a> &nbsp &nbsp
+	<a href="../../publications"> Papers</a>  &nbsp &nbsp
+	<a href="../research.html"> Research</a> 	
+	</i>
+<HR>
+</td>
+</tr>
+
+<! -- TITLE -->
+<TR>
+<TD ALIGN=CENTER COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<CENTER>
+<B> Photo Tampering Throughout History </B>
+</CENTER>
+</TD>
+</TR>
+
+
+<! -- INTRODUCTION -->
+<TR>
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<I>
+Photography lost its innocence many years ago.  In as early as the
+1860s, photographs were already being manipulated, only a few decades
+after Niepce created the first photograph in 1814.  With the advent of
+high-resolution digital cameras, powerful personal computers and
+sophisticated photo-editing software, the manipulation of digital
+images is becoming more common.  Here, I have collected some examples
+of tampering throughout history.
+
+<p>
+
+To help contend with the implications of this tampering, we have
+developed a series of tools for <A HREF="../tampering.html">detecting
+traces of tampering</A> in digital images (contact me at <a
+href=http://hanyfarid.org/maat>Ma'at Consulting</a> for more
+information about our services).  <BR><BR>
+</I>
+</TD>
+</TR>
+
+<!-- LINCOLN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> circa 1860: </B> This nearly iconic portrait of U.S. President
+Abraham Lincoln is a composite of Lincoln's head and the Southern
+politician <a href="lincoln1+2.jpg">John Calhoun's body</a>.  Putting
+the date of this image into context, note that the first permanent
+photographic image was created in 1826 and the Eastman Dry Plate
+Company (later to become Eastman Kodak) was created in 1881. </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="lincoln1+2.jpg"><IMG SRC="lincoln1a.jpg" width=200 height=273></A>
+</TD>
+</TR>
+
+
+<!-- GENERAL BLAIR -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> circa 1865: </B> In this photo by famed photographer Mathew Brady,
+General Sherman is seen posing with his Generals.  General Francis
+P. Blair (far right) was added to the <a href="blair1+2.jpg">original</a>
+photograph.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="blair1+2.jpg"><IMG SRC="blair1.jpg" width=200 height=145></A>
+</TD>
+</TR>
+
+
+<!-- STALIN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> circa 1930: </B> Stalin routinely air-brushed his enemies out of
+photographs.  In this photograph a commissar was removed from the <a
+href="stalin1+2.jpg">original</a> photograph after falling out of
+favor with Stalin.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="stalin1+2.jpg"><IMG SRC="stalin2a.jpg" width=200 height=131></A>
+</TD>
+</TR>
+
+
+<!-- MAO -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> 1936: </B> In this doctored photograph, Mao Tse-tung (first from
+the right) had Po Ku (first from the left) removed from the <A
+HREF="mao1+2.jpg">original</a> photograph, after Po Ku fell out of favor
+with Mao.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="mao1+2.jpg"><IMG SRC="mao1a.jpg" width=200 height=230></A>
+</TD>
+</TR>
+
+
+<!-- HITLER -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> 1937: </B> In this doctored photograph, Adolf Hitler had Joseph
+Goebbels (second from the right) removed from the <A
+HREF="hitler1+2.jpg">original</a> photograph.  It remains unclear why
+exactly Goebbels fell out of favor with Hitler.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP> 
+<A HREF="hitler1+2.jpg"><IMG SRC="hitler1a.jpg" width=200 height=138></A>
+</TD> </TR>
+
+
+<!-- MUSSOLINI -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> 1942: </B> In order to create a more heroic portrait of himself,
+Benito Mussolini had the horse handler removed from the <A
+HREF="mussolini1+2.jpg">original</a> photograph.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="mussolini1+2.jpg"><IMG SRC="mussolini1a.jpg" width=200 height=146></A>
+</TD>
+</TR>
+
+
+<!-- TYDINGS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> 1950: </B> It is believed that this doctored photograph
+contributed to Senator Millard Tydings' electoral defeat in 1950. The
+photo of Tydings (right) conversing with Earl Browder (left), a leader
+of the American Communist party, was meant to suggest that Tydings had
+communist sympathies.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="tydings1.jpg"><IMG SRC="tydings1a.jpg" width=200 height=161></A>
+</TD>
+</TR>
+
+<!-- CASTRO -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> 1968: </B> When in the summer of 1968 Fidel Castro (right)
+approves of the Soviet intervention in Czechoslovakia, Carlos Franqui
+(middle) cuts off relations with the regime and goes into exile in
+Italy.  His image was removed from <A
+HREF="castro1+2.jpg">photographs</A>.  Franqui wrote about his feeling
+of being erased:
+
+<pre>
+   I discover my photographic death.
+   Do I exist?
+   I am a little black,
+   I am a little white,
+   I am a little shit,
+   On Fidel's vest.
+</pre>
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="castro1+2.jpg"><IMG SRC="castro1a.jpg" width=200 height=129></A>
+</TD>
+</TR>
+
+
+<!-- KENT STATE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> May 1970: </B> This Pulitzer Prize winning photo by John Filo
+shows Mary Ann Vecchio screaming as she kneels over the body of
+student Jeffrey Miller at Kent State University, where National
+Guardsmen had fired into a crowd of demonstrators, killing four and
+wounding nine. When this photo was published in <i>LIFE</i> Magazine,
+the fence post directly behind Vecchio was <a
+href="kentstate1+2.jpg">removed</a>.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="kentstate1+2.jpg"><IMG SRC=kentstate1.jpg width=200 height=157></A>
+</TD>
+</TR>
+
+<!-- BREZHNEV -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 1971: </B> The German Chancellor of West Germany, Willy
+Brandt (far left), meets with Leonid Brezhnev (far right), First
+Secretary of the Communist Party.  The two smoke and drink, and it is
+reported that the atmosphere is cordial and that they are drunk. The
+German press publishes a <A HREF="brezhnev1+2.jpg">photograph</A> that
+shows the champagne bottles on the table.  The Soviet press, however,
+removed the bottles from the original photograph.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="brezhnev1+2.jpg"><IMG SRC="brezhnev1a.jpg" width=200 height=171></A>
+</TD>
+</TR>
+
+
+<!-- MAO -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 1976: </B> The so called "Gang of Four" were removed
+from this <A HREF="maogangoffour1+2.jpg">original</a> photograph of a
+memorial ceremony for Mao Tse-Tung held at Tiananmen Square.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="maogangoffour1+2.jpg"><IMG SRC="maogangoffour1.jpg" width=200 height=67></A>
+</TD>
+</TR>
+
+
+<!-- NATIONAL GEOGRAPHIC PYRAMIDS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> February 1982: </B> In this National Geographic magazine cover
+story on Egypt, the Great Pyramids of Giza, in a horizontal picture by
+Gordon Gahen, were "squeezed" together to fit the magazine's vertical
+format.  Tom Kennedy, who became the director of photography at
+National Geographic after the cover was manipulated, stated that "We
+no longer use that technology to manipulate elements in a photo simply
+to achieve a more compelling graphic effect. We regarded that
+afterwards as a mistake, and we wouldn't repeat that mistake today".
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="nationalgeographic1.jpg"><IMG SRC=nationalgeographic1a.jpg width=200 height=289></A>
+</TD>
+</TR>
+
+
+<!-- OPRAH WINFREY ON TV GUIDE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 1989: </B> The cover of TV Guide displayed this picture of
+daytime talk-show host Oprah Winfrey.  This picture was created by
+splicing the head of Winfrey onto the body of actress Ann-Margret,
+taken from a 1979 publicity shot.  The <a
+href=oprah1+2.jpg>composite</a> was created without permission of
+Winfrey or Ann-Margret, and was detected by Ann-Margret's fashion
+designer, who recognized the dress.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF=oprah1+2.jpg><IMG SRC=oprah1.jpg width=200 height=285></A>
+</TD>
+</TR>
+
+
+<!-- ANN RICHARDS IN TEXAS MONTHLY -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 1992: </B> This cover of TexasMonthly shows the then Texas
+Governor Ann Richards astride a Harley-Davidson Motorcycle.  This
+picture was created by splicing the head of Richards onto the body of
+a model.  The editors explained that their credit page disclosed this
+fact by noting in the credits page "Cover Photograph by Jim Myers
+... Stock photograph (head shot) By Kevin Vandivier / Texastock".
+After the motorcycle cover appeared, Richards said that since the
+model had such a nice body, she could hardly complain.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC=annrichards1.jpg width=200 height=260>
+</TD>
+</TR>
+
+
+<!-- TANYA HARDING AND NANCY KERRIGAN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> February 1994: </B> This digital composite of Olympic ice skaters
+Tanya Harding and Nancy Kerrigan appeared on the cover of New York
+Newsday.  The picture showed the rivals practicing together, shortly
+after an attack on Kerrigan by an associate of Harding's husband.  The
+picture caption reads: "Tonya Harding, left, and Nancy Kerrigan,
+appear to skate together in this New York Newsday composite
+illustration. Tomorrow, they'll really take to the ice together."
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="hardingkerrigan1.jpg"><IMG SRC=hardingkerrigan1a.jpg width=200 height=259></A>
+</TD>
+</TR>
+
+
+<!-- OJ SIMPSON, TIME AND NEWSWEEK -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> June 1994: </B> This digitally altered photograph of OJ Simpson
+appeared on the cover of Time magazine shortly after Simpson's arrest
+for murder.  This photograph was manipulated from the <A
+HREF="ojsimpson1+2.jpg">original mug-shot</A> that appeared, unaltered,
+on the cover of Newsweek.  Time magazine was subsequently accused of
+manipulating the photograph to make Simpson appear "darker" and
+"menacing".  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="ojsimpson1+2.jpg"><IMG SRC=ojsimpson1.jpg width=200 height=269></A>
+</TD>
+</TR>
+
+
+<!-- HATSHUPSUT TEMPLE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 1997: </B> After 58 tourists were killed in a terrorist
+attack at the temple of Hatshepsut in Luxor Egypt, the Swiss tabloid
+Blick digitally altered a <a href="hatshepsut1+2.jpg">puddle of
+water</a> to appear as blood flowing from the temple.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="hatshepsut1+2.jpg"><IMG SRC=hatshepsut2.jpg width=200 height=112></A>
+</TD>
+</TR>
+
+
+<!-- MCCAUGHEY, TIME AND NEWSWEEK -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> December 1997: </B> This digitally altered photograph of Kenny and
+Bobbi McCaughey appeared on the cover of Newsweek magazine shortly
+after Bobbi gave birth to septuplets.  This photograph was manipulated
+from the <A HREF="mccaughey1+2.jpg">original</A> that appeared,
+unaltered, on the cover of Time magazine.  Newsweek manipulated the
+photograph to make Bobbi's teeth straighter, and were accused of
+trying to make her "more attractive".</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="mccaughey1+2.jpg"><IMG SRC=mccaughey1a.jpg width=200 height=233></A>
+</TD>
+</TR>
+
+
+<!-- CBS NEWS, TIMES SQUARE, NEW YEARS EVE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> December 2000: </B> The CBS emblem in this single frame of a live
+video broadcast, was digitally inserted during the new year's eve
+broadcast so as to conceal the NBC emblem that was on display in the
+background.  The technology used in this case, is the same as that
+widely employed during the broadcast of sporting events to display
+advertisements on billboards.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="cbs1.jpg"><IMG SRC=cbs1a.jpg width=200 height=158></A>
+</TD>
+</TR>
+
+
+<!-- UW MADISON, RACIAL DIVERSITY -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2000:</B> Hoping to illustrate its diverse enrollment,
+the University of Wisconsin at Madison doctored a photograph on a
+brochure cover by digitally inserting a black student in a crowd of
+white football fans.  The <A HREF="uwmadison1+2.jpg">original
+photograph</A> of white fans was taken in 1993.  The additional black
+student, senior Diallo Shabazz, was taken in 1994.  University
+officials said that they spent the summer looking for pictures that
+would show the school's diversity -- but had no luck.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="uwmadison1+2.jpg"><IMG SRC=uwmadison1a.jpg width=200 height=253></A>
+</TD>
+</TR>
+
+
+<!-- CPPA -->
+<TR>
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<B> April 2002:</B> The 1996 <A
+HREF="../../publications/cppa96.html">Child Pornography Prevention Act
+(CPPA)</A> extended the existing federal criminal laws against child
+pornography to include certain types of "virtual porn". In 2002,
+hearing <A
+HREF="../../publications/ashcroft.v.freespeechcoalition.pdf">Ashcroft
+v. Free Speech Coalition</a>, the United States Supreme Court found
+that portions of the CPPA, being overly broad and restrictive,
+violated First Amendment rights.  The Court ruled that images
+containing an actual minor or portions of a minor are not protected,
+while computer-generated images depicting a fictitious
+minor are constitutionally protected.  </TD>
+</TR>
+
+
+<!-- KATE WINSLET ON GQ -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2003: </B> This cover of <i>GQ</i> magazine featured a
+digitally slimmed actress Kate Winslet.  Winslet said that the
+retouching was "excessive."  "I don't look like that and more
+importantly I don't desire to look like that.  I can tell you that
+they've reduced the size of my legs by about a third", said Winslet.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="gq1.jpg"><IMG SRC=gq1a.jpg width=200 height=272></A>
+</TD>
+</TR>
+
+
+<!-- BEATLES ABBEY ROAD -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2003: </B> The original copy of the Beatles Abbey Road
+album cover shows Paul McCartney, third in line, holding a cigarette.
+United States poster companies have airbrushed this image to remove
+the cigarette from McCartney's hand.  This change was made without the
+permission of either McCartney or Apple Records, which owns the rights
+to the image.  "We have never agreed to anything like this," said an
+Apple spokesman.  "It seems these poster companies got a little
+carried away.  They shouldn't have done what they have, but there
+isn't much we can do about it now."
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="beatles1.jpg"><IMG SRC=beatles1a.jpg width=200 height=200></A>
+</TD>
+</TR>
+
+
+<!-- REDBOOK -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2003: </B> 
+This Redbook cover of actress Julia Roberts is a composite of Roberts'
+head taken at the 2002 People's Choice award, and her body taken at
+the Notting Hill movie premiere several years earlier.  Publisher
+Hearst admits its mistake: "In an effort to make a cover that would
+pop on the newsstand, we combined two different shots of Julia
+Roberts. We acknowledge that we may have gone too far and hope that
+Ms. Roberts will accept our apology." 
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC=redbook_roberts.jpg width=200 height=261></A>
+</TD>
+</TR>
+
+
+<!-- BRIAN WALSKI OF THE LA TIMES -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2003: </B> This digital composite of a British soldier in
+Basra, gesturing to Iraqi civilians urging them to seek cover,
+appeared on the front page of the Los Angeles Times shortly after the
+U.S. led invasion of Iraq.
+
+Brian Walski, a staff photographer for the Los Angeles Times and a
+30-year veteran of the news business, was fired after his editors
+discovered that he had combined two of his <A
+HREF="latimes1+2+3.jpg">photographs</A> to "improve" the composition.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="latimes1+2+3.jpg"><IMG SRC=latimes1a.jpg width=200 height=141></A>
+</TD>
+</TR>
+
+
+<!-- JOHN KERRY AND JANE FONDA -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> February 2004: </B> This digital composite of Senator John Kerry
+and Jane Fonda sharing a stage at an anti-war rally emerged during the
+2004 Presidential primaries as Senator Kerry was campaigning for the
+Democratic nomination.  
+
+The <A HREF="kerryfonda1+2+3.jpg">picture of Senator Kerry</A> was
+captured by photographer Ken Light as Kerry was preparing to give a
+speech at the Register for Peace Rally held in Mineola, New York, in
+June 1971.  The <A HREF="kerryfonda1+2+3.jpg"> picture of Jane Fonda</A>
+was captured by Owen Franken as Fonda was speaking at a political
+rally in Miami Beach, Florida, in August 1972.  
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="kerryfonda1+2+3.jpg"><IMG SRC=kerryfonda1a.jpg width=200 height=180></A>
+</TD>
+</TR>
+
+
+<!-- JOHN KERRY AND JANE FONDA -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2004: </B> This political ad for George W. Bush, as he was
+running for President, shows a sea of soldiers as a back drop to a
+child holding a flag.  This image was digitally doctored by copying
+and pasting, from this <A HREF="georgebush1+2.jpg">original
+photograph</A>, several soldiers to digitally remove Bush from a
+podium.  
+After acknowledging that the photo had been doctored, the Bush campaign
+said that the ad would be re-edited and re-shipped to TV stations.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="georgebush1+2.jpg"><IMG SRC=georgebush1a.jpg width=200 height=150></A>
+</TD>
+</TR>
+
+<!-- U.S. MARINE IN IRAQ -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P> 
+<B> April 2004: </B> This image, which was widely circulated on the
+Internet, shows a U.S. Marine posing for a photo with two Iraqi
+children while holding a sign reading "Lcpl Boudreauk killed my Dad
+then he knocked up my sister".  Boudreauk claims that this image was
+tampered with from the original, in which the sign read "Welcome
+Marines".  A military investigation into potential wrong-doing was
+inconclusive.  It remains unclear if this image is authentic.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="marine1.jpg"><IMG SRC=marine1a.jpg width=200 height=140></A>
+</TD>
+</TR>
+
+
+<!-- MARTHA STEWART ON THE COVER OF NEWSWEEK -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2005: </B> This digital composite of Martha Stewart's head
+on a model's body appeared on the cover of Newsweek as Stewart was
+emerging from prison "thinner, wealthier and ready for prime time", as
+the headline reads.
+
+Newsweek disclosed the source of the cover image on Page 3 with the
+lines: "Cover: Photo illustration by Michael Elins ... head shot by
+Marc Bryan-Brown."
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="marthastewart1.jpg"><IMG SRC=marthastewart1a.jpg width=200 height=264></A>
+</TD>
+</TR>
+
+
+
+<!-- HARPERS, AWOL SOLDIERS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2005: </B> This Harper's cover, taken at Parris Island,
+S.C., shows seven Marines lined up in their T-shirts, shorts and
+socks.  The picture accompanied a story about soldiers that go AWOL
+(absent without leave).  The soldiers depicted in the picture,
+however, were not AWOL.  The picture was supplied by Getty Images as a
+stock photograph.  "We are decorating pages," said Giulia Melucci, the
+magazine's vice president for public relations. "We are not saying the
+soldiers are AWOL. Our covers are not necessarily representative."
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="harpers1.jpg"><IMG SRC=harpers1a.jpg width=200 height=272></A>
+</TD>
+</TR>
+
+
+<!-- TAMPERING IN SCIENCE, MIKE ROSSNER AND ORI -->
+<TR>
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<B> April 2005:</B> 
+
+An <A
+HREF="http://www.nature.com/nature/journal/v434/n7036/full/434952a.html">article</A>
+in the journal Nature reports on the impact of digital photography and
+image-manipulation software in science.  For example, Mike Rossner,
+editor of the Journal of Cell Biology, estimates that roughly 20% of
+accepted manuscripts to his journal contain at least one figure that
+has to be remade because of inappropriate image manipulation.  And, in
+1990, 2.5% of allegations examined by the <A
+HREF="http://ori.dhhs.gov/">U.S. Office of Research Integrity</A>, which
+monitors scientific misconduct, involved contested scientific
+images. By 2001, this figure was nearly 26%.
+</TD>
+</TR>
+
+
+<!-- ED MATTS AND ANN WIDDECOMBE, BRITISH POLITICIANS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2005: </B> In this doctored photograph, British politicians
+Ed Matts, conservative candidate for Dorset South, and Ann Widdecombe,
+conservative candidate for Maidstone and the Weald, are shown holding
+a pair of signs that together read "controlled immigration -- not
+chaos and inhumanity".  This picture appeared as part of Matts'
+election literature.  The <A HREF="edmatts1+2.jpg">original
+photograph</A>, however, shows the same two candidates campaigning for
+a Malawian family of asylum seekers to be allowed to stay in Britain.
+Widdecombe said she was "happy to be associated with either message".
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="edmatts1+2.jpg"><IMG SRC=edmatts1a.jpg width=200 height=151></A>
+</TD>
+</TR>
+
+
+<!--BRAD PITT AND ANGELINA JOLIE ON STAR MAGAZINE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2005: </B> This digital composite of actors Brad Pitt and
+Angelina Jolie, rumored to have a romantic relationship, appeared on
+the cover of Star Magazine.  The picture of Pitt was taken in
+Anguilla, a Caribbean island, in January 2005.  The picture of Jolie
+was taken in Virginia some time in 2004. On page 8 is a disclaimer
+noting the image is a "composite of two photographs."
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC=pittjolie1.jpg width=200 height=262>
+</TD>
+</TR>
+
+
+<!-- HARVARD BROCHURE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> June 2005: </B> This picture from the Harvard College viewbook
+features a doctored version of the Harvard's newspaper March 9, 2005
+front page.  The headline in the <A HREF="harvard2.jpg"> original
+front page</A>, reading "Summers To Face No Confidence Vote", was
+replaced with an illegible block of text.  A Harvard spokesman
+confirmed that someone involved with the production of the viewbook
+had decided to remove the headline -- "It's a mistake, and it should
+not have happened", he said.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC=harvard1.jpg width=200 height=159>
+</TD>
+</TR>
+
+
+<!-- VIRGINIA FIELDS MAYORAL CAMPAIGN PICTURE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2005: </B> This digital composite appeared on a campaign
+flyer for New York City Democratic mayoral candidate Virginia Fields.
+The picture shows Fields standing with a diverse group of people. 
+
+Fields' chief campaign consultant, Joe Mercurio, admitted the picture
+was a composite of four separate photos.  The picture, according to
+Mercurio, was meant to show that she has broad support and was not
+intended to deceive anyone.
+ </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="virginiafields1.jpg"><IMG SRC=virginiafields1a.jpg width=200 height=109></A>
+</TD>
+</TR>
+
+
+<!-- KATHERINE HARRIS, MAKEUP -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2005:</B> Florida Congresswoman Katherine Harris, who is
+running for a U.S. Senate seat next year, has accused some newspapers
+of doctoring photos to distort her makeup as a way to poke fun at her.
+Harris became famous when she oversaw the Florida recount in the 2000
+presidential election, that gave George W. Bush a 537-vote victory in
+Florida.  "I'm actually very sensitive about those things, and it's
+personally painful," she said. "But they're outrageously
+false. ... Whenever they made fun of my makeup, it was because the
+newspapers colorized my photograph."  Harris and her staff have not,
+however, been able to cite a specific example of an altered photo.
+The photo of Harris, shown here, is not known to have been doctored.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="harris1.jpg"><IMG SRC=harris1a.jpg width=200 height=223></A>
+</TD>
+</TR>
+
+
+
+<!-- SPEED CAMERAS IN AUSTRALIA -->
+<TR>
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<B> August 2005:</B> A magistrate in Sydney, Australia threw out a
+speeding case after the police said it had no evidence that an image
+from an automatic speed camera had not been doctored.  This case
+revolved around the integrity of MD5, a digital signature algorithm,
+intended to prove that pictures have not been doctored after their
+recording.  It is believed that this ruling may allow any driver
+caught by a speed camera to mount the same defense.
+</TD> 
+</TR>
+
+
+<!-- BUSH NEEDS A BATHROOM BREAK AT THE UN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2005:</B>
+
+This photo, taken of U.S. President George W. Bush as he sat in a
+meeting of the United Nations Security Council, shows Bush scribbling
+a note to Secretary of State Condoleezza Rice reading, "I think I may
+need a bathroom break. Is this possible?"  Reuters' picture editor,
+Gary Hershorn, explained that sections of the photo were overexposed
+so a Reuters' processor used the Photoshop technique to "burn down the
+note."  Hershorn says that the photo was not manipulated in any way,
+but that it was standard practice for such news photos to be enhanced.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="georgebushUN1.jpg"><IMG SRC=georgebushUN1a.jpg width=200 height=115></A>
+</TD>
+</TR>
+
+
+<!-- QUESTIONS IN SIZEMORE/FLEISS BEATING -->
+<TR>
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<B> October 2005:</B> In August of 2005, the actor Tom Sizemore was
+convicted on charges of domestic violence, criminal threats,
+vandalism, and making obscene and harassing phone calls.  In appealing
+this decision, Sizemore's lawyers contend that pictures showing the
+victim, Heidi Fleiss, with injuries, were faked.  Los Angeles Superior
+Court Judge Antonio Barreto Jr. has given prosecutors 30 days to prove
+the photos were not doctored, or produce the person who took the
+photographs.
+</TD> 
+</TR>
+
+
+<!-- CONDOLEEZZA RICE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> October 2005:</B> This doctored photo of Secretary of State
+Condoleezza Rice appeared alongside a USA Today news story about
+Rice's comments to U.S. Lawmakers regarding U.S. Troops in Iraq. 
+
+After receiving complaints from readers, this photograph was removed
+from USA Today's website, and the following Editor's note appeared
+alongside a <a href="condirice1+2.jpg">"properly adjusted copy"</a>: <i>
+Photos published online are routinely cropped for size and adjusted
+for brightness and sharpness to optimize their appearance. In this
+case, after sharpening the photo for clarity, the editor brightened a
+portion of Rice's face, giving her eyes an unnatural appearance. This
+resulted in a distortion of the original not in keeping with our
+editorial standards.</i>
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="condirice1+2.jpg"><IMG SRC="condirice1.jpg" width=200 height=158></A>
+</TD>
+</TR>
+
+
+<!-- CLEMENT HURD, ILLUSTRATOR -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 2005:</B> This digitally altered image of illustrator
+Clement Hurd appeared in a newly revised edition of the book
+"Goodnight Moon", a classic children's book written by Margaret Wise
+Brown and illustrated by Hurd.  The publisher, HarperCollins, altered
+the <a href="hurd1+2.jpg">original photograph</a> to remove a cigarette
+from Hurd's hand.  HarperCollins said it made the change to avoid the
+appearance of encouraging smoking and did so with the permission of
+the illustrator's estate. But Mr. Hurd's son said he felt pressured to
+allow it.  Prior to this latest edition, the photograph of Mr. Hurd
+grasping a cigarette has been on the book for at least two decades.
+</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="hurd1+2.jpg"><IMG SRC="hurd1.jpg" width=200 height=279></A>
+</TD>
+</TR>
+
+
+<!-- RNC AD -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> December 2005:</B> A political video produced by the Republican
+National Committee (RNC) depicts a U.S. solider watching a television
+where Democratic leaders are speaking critically of the Bush
+administration's handling of the war in Iraq.  The final screen shot,
+shown to the right, reads "Our soldiers are watching and our enemies
+are too."  As shown in this <A HREF="rnc1+2.jpg">original frame</a>,
+this video was digitally altered -- the solider was watching the movie
+How the Grinch Stole Christmas.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="rnc1+2.jpg"><IMG SRC="rnc1a.jpg" width=200 height=110></A>
+</TD>
+</TR>
+
+
+<!-- HWANG WOO-SUK, STEM CELL RESEARCHER -->
+<TR>
+<TD COLSPAN=2 WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2006:</B> In 2004, Professor Hwang Woo-Suk and colleagues
+published what appeared to be ground-breaking advances in stem cell
+research.  This paper appeared in one of the most prestigious
+scientific journals, <i>Science</i>.  Evidence slowly emerged that
+these results were manipulated and/or fabricated.  After months of
+controversy, Hwang retracted the <i>Science</i> paper and resigned his
+position at the University.  An independent Korean panel investigating
+the accusations of fraud found, in part, that at least nine of the
+eleven customized stem cell colonies that Hwang had claimed to have
+made were fakes.  Much of the evidence for those nine colonies, the
+panel said, involved doctored photographs of two other, authentic,
+colonies.
+</TD> 
+</TR>
+
+<!-- CANCER RESEARCHER -->
+<TR>
+<TD COLSPAN=2 WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2006:</B> In 2001, Dr. Jon Sudbo of the Norwegian Radium
+Hospital in Oslo published a study, in the prestigious journal
+<i>Lancet</i>, contending that long-term use of certain non-steroidal
+anti-inflammatory drugs reduced the risk of oral cancer.  This finding
+was touted as a way to shift the focus of treatment away from surgery
+and toward new drug therapies.  These results were cast into doubt
+when it was revealed that 250 of Sudbo's sample of 908 people in that
+study all shared the same birthday.  In addition, it was revealed that
+two photographs from a microscope, reportedly representing two
+different patients at different stages of precancerous mouth lesions,
+were different magnifications of the same image.  The editors of
+<i>Lancet</i> issued an "expression of concern" saying Sudbo's
+research was "just complete fabrication."
+</TD> 
+</TR>
+
+<!-- KHUSHBOO IN MAXIM MAG -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2006:</B> Famed Indian movie star Khushboo is taking legal
+action against the publishers of Maxim magazine for the publication of
+a doctored photograph.  The photograph was created by digitally
+splicing Khushboo's head onto another model's scantily clad body.
+This photograph was published in the Indian version of Maxim under the
+heading "Women you will never see in Maxim - 100% fake".  Magazine
+editor, Sunil Mehra, said "We are deeply apologetic for causing any
+inadvertent hurt and offence to Khushboo. Despite an apology, Khushboo
+plans to go to court, "Indeed the punishment that is finally meted out
+to them should be a deterrent against anyone who tries to treat women
+as a commodity and exploit them as they please. I will not opt for any
+kind of out-of-court settlement," she said. </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="maxim1.jpg" width=200 height=345>
+</TD>
+</TR>
+
+
+<!-- SAN ANTONIO OBSERVER -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2006:</B> 
+
+This cover of the San Antonio Observer features a San Antonio police
+officer wearing a white hood of the Ku Klux Klan.  The newspaper
+admits that they digitally inserted the hood and gun into the original
+photograph.  Police spokesman Joe Rios said that the Observer defamed
+the character of the officer in the photograph.  "You can clearly read
+his badge number," Rios said. "I can tell you that the officer who was
+depicted in that picture is very upset."  Ida Brown, an Observer
+spokeswoman, disputed that the officer's badge number could be
+discerned on the cover and said the image was not intended as a
+personal attack.  "Primarily, the picture shows that there are racist
+police officers on the force, and they do target minorities who are
+innocent," Brown said. </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="SAobserver1.jpg"><IMG SRC="SAobserver1a.jpg" width=200 height=224></A>
+</TD>
+</TR>
+
+
+<!-- NEW YORK TIMES -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2006:</B> 
+
+This March 12th cover of the New York Times Magazine shows former
+Virginia Governor Mark Warner, a possible contender in the 2008
+U.S. presidential race. After receiving complaints from Warner's
+campaign about the accuracy of this photo, the New York Times
+published the following correction.  "The cover photograph in The
+Times Magazine on Sunday rendered colors incorrectly for the jacket,
+shirt and tie worn by Mark Warner, the former Virginia governor who is
+a possible candidate for the presidency. The jacket was charcoal, not
+maroon; the shirt was light blue, not pink; the tie was dark blue with
+stripes, not maroon.  The Times's policy rules out alteration of
+photographs that depict actual news scenes and, even in a contrived
+illustration, requires acknowledgment in a credit. In this case, the
+film that was used can cause colors to shift, and the processing
+altered them further; the change escaped notice because of a
+misunderstanding by the editors." </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="warnernyt.jpg" width=200 height=226>
+</TD>
+</TR>
+
+
+<!-- NEW ORLEANS MAYORAL CANDIDATE KIMBERLY WILLIAMSON BUTLER -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2006:</B> New Orleans Mayoral Candidate Kimberly Williamson
+Butler digitally inserted herself into this photograph of what
+appeared to be the French Quarter in New Orleans.  The setting,
+however, was the New Orleans Square at Disneyland.  This photo was
+then manipulated again to remove a Disneyland trash can from the
+background.
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="butler.jpg" width=200 height=86>
+</TD>
+</TR>
+
+
+<!-- El Nuevo Herald -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> June 2006:</B> This photograph, showing two police officers
+standing by as prostitutes in Cuba hail a foreign tourist, appeared in
+the El Nuevo Herald under the headline "Hookers: The Sad Meat of the
+American Dollar".  This image, however, was a composite of two
+separate photographs taken by veteran photographer Roberto Koltun, and
+published over his objections.  "Two things were put together,"
+commented photo coordinator Orlando Mellado." Asked why the photograph
+was published, Mellado responded "that's a decision that was made by
+another editor."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="elnuevoherald1.jpg"><IMG SRC="elnuevoherald2.jpg" width=200 height=137></A>
+
+</TD>
+</TR>
+
+
+<!-- Mike DeWine (R) Ohio -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2006:</B> 
+
+This controversial ad appeared as part of the Ohio Senate campaign
+between incumbent Mike DeWine (R) and challenger Sherrod Brown (D).
+DeWine's campaign created a video of the World Trade Center in flames
+to attack Brown as soft on terrorism.  The ad shows the south tower
+burning -- the north tower was hit first, however, so the south tower
+could not be burning without the north tower burning as well.  A
+DeWine spokesman acknowledged the image was a "graphic representation"
+by the firm that produced the ad, which used a still photo of the
+towers with computer-generated smoke added.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="mikedewine1.jpg"><IMG SRC="mikedewine2.jpg" width=200 height=150></A>
+
+</TD>
+</TR>
+
+
+<!-- Charlotte Observer -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2006:</B> 
+
+The Charlotte Observer fired Patrick Schneider, a staff photographer,
+for altering this image of a fire fighter.  Following the incident,
+the paper released the following statement: "Photographer Patrick
+Schneider's photo depicted a Charlotte firefighter on a ladder,
+silhouetted by the light of the early morning sun.  In the original
+photo, the sky in the photo was brownish-gray. Enhanced with
+photo-editing software, the sky became a deep red and the sun took on
+a more distinct halo.  The Observer's photo policy states: No colors
+will be altered from the original scene photographed."  Schneider said
+that he only meant to restore the actual color of the sky that was
+lost when he underexposed the photo.  Schneider was suspended in an
+earlier episode after it was revealed that his award-winning
+photographs had been manipulated. Scheider allowed this case to be
+used to educate other professional photographers in ethics
+seminars. At the time he pledged, "I will no longer tone my background
+down that far." </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="charlotteobserver1.jpg" width=200 height=307></A>
+
+</TD>
+</TR>
+
+
+<!-- Reuters -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2006:</B>
+
+This photograph by Adnan Hajj, a Lebanese photographer, showed thick
+black smoke rising above buildings in the Lebanese capital after an
+Israeli air raid.  The Reuters news agency initially published this
+photograph on their web site and then withdrew it when it became
+evident that the <a href="reuters1+3.jpg">original image</a> had been
+manipulated to show more and darker smoke.  "Hajj has denied
+deliberately attempting to manipulate the image, saying that he was
+trying to remove dust marks and that he made mistakes due to the bad
+lighting conditions he was working under", said Moira Whittle, the
+head of public relations for Reuters.  "This represents a serious
+breach of Reuters' standards and we shall not be accepting or using
+pictures taken by him." A <a href="reuters4.jpg"> second
+photograph</a> by Hajj was also determined to have been
+doctored.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="reuters1+3.jpg"><IMG SRC="reuters2.jpg" width=200 height=134></A>
+</TD>
+</TR>
+
+<!-- Reuters: Political Cartoons -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2006:</B>
+
+The Reuters news agency published a photograph showing the remnants of
+an Israeli bombing of a Lebanese town.  In the week that followed,
+hundreds of bloggers and nearly every major news organization reported
+that the photograph had been doctored (see above entry).  These
+political cartoons reflected the general consensus of outrage and
+anger.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="photoshop1.gif"><IMG SRC="photoshop1a.gif" width=200 height=132></A>
+<p>
+<A HREF="photoshop2.gif"><IMG SRC="photoshop2a.gif" width=200 height=147></A>
+</TD>
+</TR>
+
+
+<!-- CHILD PORN IN THE UK -->
+<TR>
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<B> August 2006:</B> 
+
+An Easton, Middlesbrough (UK) man, Stafford Sven Tudor-Miles, scanned
+photographs of adult porn stars into his computer and digitally
+altered them so that the women appeared to be of girls under the age of
+18.  The 38-year-old fine art student was charged with possessing
+indecent pseudo-images of children.  His barrister argued that the
+pictures were of adults and, therefore, no offense had been committed.
+Under the Protection of Children Act 1978, as amended by the Criminal
+Justice and Public Order Act 1994, a pseudophotograph of a child is
+defined as an image, whether made by computer graphics or otherwise,
+which appears to be that of a child.  Possession or creation of such an
+image is, therefore, illegal.  Tudor-Miles pleaded guilty to five
+counts of attempting to make indecent pseudo-photographs of children,
+one charge of possessing indecent pseudo-photographs and one of
+breaching a sex offenders order.  Tudor-Miles will be sentenced on
+September 8.
+</TD>
+</TR>
+
+<!-- REP. JEAN SCHMIDT -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2006:</B>
+
+Nathan Noy, a rival of Rep. Jean Schmidt (R-Ohio), contends that this
+picture on Schmidt's webpage showing her at a 1993 Marathon has been
+doctored.  The photo shows Schmidt near the finish line with the time
+clock showing 3:19:06. But a newspaper list does not include Schmidt's
+name.  Joseph Braun, an attorney representing Schmidt, denied that the
+photograph is fake. He produced what he said was an official race
+results book, listing Schmidt as the fifth-place finisher in her age
+group with a time of 3:19:09.  A four-member commission panel ruled
+that there was enough evidence to look into the
+complaint. <b>UPDATE:</B> Citing the lack of evidence or witnesses, a
+unanimous Ohio Elections Commission dismissed the campaign complaint
+against Schmidt.  After the hearing, Noy admitted he made a mistake
+pursuing the complaint.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="schmidt1.jpg"><IMG SRC="schmidt2.jpg" width=200 height=268></A>
+</TD>
+</TR>
+
+<!-- REP. JEAN SCHMIDT -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2006:</B>
+
+A photograph of CBS news anchor Katie Couric was digitally altered
+from this <a href="couric1+2.jpg"> original</a> to give Couric a trimmer
+waistline and a thinner face.  This photo appeared in CBS' in-house
+magazine Watch!  CBS spokesman, Gil Schwartz, said the doctored image
+was the work of a CBS photo department employee who got a little
+zealous".  Schwartz added, "I talked to my photo department; we had a
+discussion about it; I think photo understands this is not something
+we'd do in the future."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="couric1+2.jpg"><IMG SRC="couric1.jpg" width=200 height=290></A>
+</TD>
+</TR>
+
+<!-- LIEBERMAN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2006:</B>
+This image was posted on no-to-ned.blogspot.com, a website supporting
+Senate Democrat Joseph Lieberman.  In reference to Lieberman's
+opponent, the accompanying caption read "Four out of Five Terrorists
+Agree Ted Lamont for Senate".  "As soon as we saw it, we immediately
+pulled it down," Lieberman campaign spokeswoman Tammy Sun said. "We
+condemn things like this. It has no place in our political discourse
+or on our web site."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="lieberman.jpg" width=200 height=298>
+</TD>
+</TR>
+
+
+<!-- TIGER WOODS -->
+<TD COLSPAN=2 WIDTH=650 VALIGN=TOP>
+<P>
+<B> September 2006:</B> The Dubliner apologized for a story depicting
+the wife of famed golfer Tiger Woods in doctored pornographic images.
+The article read, in part, "Most American golfers are married to women
+who cannot keep their clothes on in public. Is it too much to ask that
+they leave them at home for the Ryder Cup? Consider the evidence -
+Tiger Woods' wife Elin Nordegren can be found in a variety of sweaty
+poses on porn sites across the Web.".  After Woods publicly denounced
+the story, the magazine apologized: "The publisher and staff
+acknowledge that the satirical article was inappropriate. We wish to
+sincerely apologise to Tiger Woods, his wife Elin Nordegren and other
+Ryder Cup players and their families for any offence they may have
+taken to it.  The article was written as a satirical piece and, in the
+context of the entire article, the publishers believed the readers
+would not be left with the impression that there was any truth in the
+assertions, it being an absurd parody of inaccurate tabloid publishing
+generally. If any contrary impression was given it certainly was not
+intended and for this the publishers unreservedly apologise"
+</TD>
+</TR>
+
+
+<!-- DIXIE CHICKS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> October 2006:</B>
+
+This movie poster for Shut Up and Sing (a film about the criticism of
+the musical group Dixie Chicks that followed lead singer Natalie
+Maines' comments about being ashamed that President Bush was from her
+home state of Texas) was doctored from its <a href="dixiechicks1+2.jpg">
+original</a>.  In this doctored version, sheets were added to the 
+members so as to be less revealing.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="dixiechicks1+2.jpg"><IMG SRC="dixiechicks2.jpg" width=200 height=260></A>
+</TD>
+</TR>
+
+
+<!-- AL FRANKEN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> October 2006:</B>
+
+An Ohio Republican Party news release attacked Democratic Rep. Sherrod
+Brown for enlisting the support of comedian Al Franken.  The news
+release was accompanied by a photograph, showing Franken dressed up
+like a baby bunny, wearing adult diapers and clutching a fluffy white
+teddy bear. Andy Barr, director of Franken's Midwest Values PAC,
+confirmed, "The picture is a fake."  The Ohio Republican Party used a
+2004 <a href="alfranken1+2.jpg"> photo</a> of Franken for the doctored
+image.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="alfranken1+2.jpg"><IMG SRC="alfranken.jpg" width=200 height=158></A>
+</TD>
+</TR>
+
+
+<!-- ELIZABETH VARGAS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 2006:</B>
+
+This photo of ABC News' Elizabeth Vargas breastfeeding her baby while
+at her anchor desk accompanied an article with Vargas about balancing
+work and motherhood.  The image was created by digitally combining a
+head shot of Vargas with another image.  The article is scheduled to
+appear in next month's issue of Marie Claire Magazine.  A spokesperson
+for the magazine called Vargas "a great journalist," and added that
+"We do not believe anyone seriously thought she would nurse and report
+the news at the same time!"</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="vargas1.jpg"><IMG SRC="vargas2.jpg" width=200 height=265></A>
+</TD>
+</TR>
+
+
+<!-- NGUYEN & SCHWARZENEGGER -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> February 2007:</B>
+
+The campaign of Tung Nguyen (second from left) for Orange County
+supervisorial candidate doctored a photo placing Nguyen close to
+Governor Schwarzenegger.  The photo appeared in two
+Vietnamese-language daily newspapers.  Although Nguyen attended the
+event with Schwarzenegger, he was not standing next to him.  Instead,
+Nguyen's head was spliced onto another person's body.  Nguyen's
+campaign first blamed the alteration on an advertising company and
+then on a campaign volunteer.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="nguyen1.jpg"><IMG SRC="nguyen2.jpg" width=200 height=156></A>
+</TD>
+</TR>
+
+
+<!-- REAGAN ON TIME MAG -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2007:</B> This image of former U.S. President Ronald Reagan
+appeared on the cover of Time magazine under the headline "How the
+Right Went Wrong".  The image was doctored to include a tear on
+Reagan's face.  Time issued a statement saying it regularly runs what
+it calls "conceptual covers." They said: "This week's cover image is
+clearly credited on the table of contents page, naming both the
+photographer of the Reagan photo and the illustrator of the tear."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="reagan.jpg" width=200 height=244>
+</TD>
+</TR>
+
+
+<!-- ROVE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2007:</B> Under the headline "Rove personally connected to
+email scandal", this photo of presidential adviser Karl Rove, was said
+to provide evidence that the White House had created an independent
+e-mail system for communicating outside of the White House's email
+system, which is automatically archived for record-keeping.  The
+doctored photo, however, was part of an April Fool's joke, and
+marketing campaign by the Internet design company Coptix.  "We watched
+the misinformation filter upward and outward," said a Coptix
+spokesman. "This has driven tens of thousands of visitors to our Web
+site. ... We consider our Web marketing experiment a success."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="rove2.jpg"><IMG SRC="rove1.jpg" width=200 height=249></A>
+</TD>
+</TR>
+
+
+<!-- THE BLADE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2007:</B> 
+
+Newspaper photographer Allan Detrich resigned from <i>The Blade</i> of
+Toledo Ohio after admitting he had altered a photo that appeared in
+the paper.  Detrich submitted at least 79 photos for publication since
+the beginning of the year that were digitally altered, 58 of which
+appeared in print.  In a printed letter to readers, Blade Editor Ron
+Royhab said "the changes Mr. Detrich made included erasing people,
+tree limbs, utility poles, electrical wires, electrical outlets, and
+other background elements from photographs. In other cases, he added
+elements such as tree branches and shrubbery."  The Blade released <a
+href="blade.pdf">three examples</a> of how Detrich altered photos.
+"Readers have asked us why this was such a big deal. What's wrong with
+changing the content of a photograph that is published in a newspaper?
+The answer is simple: It is dishonest," Royhab wrote. "Journalism,
+whether by using words or pictures, must be an accurate representation
+of the truth."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="blade.pdf"><IMG SRC="blade1a.jpg" width=200 height=276></A>
+</TD>
+</TR>
+
+
+
+<!-- NEW YORK TIMES -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2007:</B> The New York Times published this digitally
+altered photograph.  In a correction, the Times' editor said "The wood
+siding at the far left of the building was out of alignment because
+the picture was retouched by a Times staff member who took the
+picture, but who is not a staff photographer. He altered it because a
+flash created a white spot on the picture when he shot it through the
+window of a train. Also, the retouching tool left a round circle on
+the building's window at the right".  The Editor's note concludes with
+"Times policy forbids the manipulation of any photograph. Had editors
+been aware of the manipulation and seen the original picture, they
+would have either published the picture with the blemish or not used
+it."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="stormnyt1.jpg"><IMG SRC="stormnyt1a.jpg" width=200 height=130></A>
+</TD>
+</TR>
+
+
+<!-- EMMA WATSON IN HARRY POTTER -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> May 2007:</B> In an advertisement for IMAX 3D theaters promoting
+the latest Harry Potter movie, the bust of actress Emma Watson was
+digitally enlarged.  A similar <A
+HREF="emmawatson1+2.jpg">advertisement</A> in regular theaters was
+unaltered.  Warner Brothers Pictures released a statement that said
+"This is not an official poster.  Unfortunately this image was
+accidentally posted on the IMAX website.  The mistake was promptly
+rectified and the image taken down."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="emmawatson1+2.jpg"><IMG SRC="emmawatson1.jpg" width=200 height=167></A>
+</TD>
+</TR>
+
+
+<!-- RODDICK ON MEN'S FITNESS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> May 2007:</B> The biceps of tennis player Andy Roddick were
+conspicuously enlarged on the cover of Men's Fitness magazine.
+Roddick commented that he was "pretty sure I'm not as fit as the Men's
+Fitness cover suggests".  He also noted that a prominent birthmark on
+his right arm had been erased.  Richard Valvo, a spokesman for Men's
+Fitness, said, "We wouldn't comment on any type of production issue."
+Adding, "I don't see what the big issue is here."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="roddick1.jpg" width=200 height=272>
+</TD>
+</TR>
+
+
+<!-- FAITH HILL ON REDBOOK -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2007:</B> This cover of Redbook magazine shows a <a
+href=redbook_faithhill1+2.jpg>heavily re-touched</a> (and thinner)
+image of singer and actress Faith Hill.  Redbook was accused of
+contributing to the unattainable body image created by digital
+re-touching.  In response, Redbook's editor in chief Stacy Morrison
+said, "The retouching we did on Faith Hill's photo for the July cover
+of Redbook is completely in line with industry standards."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF=redbook_faithhill1+2.jpg><IMG SRC="redbook_faithhill1.jpg" width=200 height=271></A>
+</TD>
+</TR>
+
+<!-- ROBERTS' SCIENCE ARTICLE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2007:</B> Missouri University professor R. Michael Roberts
+and co-authors retracted their paper (Cdx2 Gene Expression and
+Trophectoderm Lineage Specification in Mouse Embryos) published in
+<i>Science</i> after an investigation revealed that accompanying
+images were doctored.  Contrary to conventional wisdom, the published
+research presented evidence that the first two cells of mouse embryos
+possess markers that indicate from a very early stage whether they
+will grow into a fetus or placenta.  An investigating university
+committee found that lead author and post-doctoral researcher Kaushik
+Deb deliberately altered images of the embryos.  Deb abruptly resigned
+his position and moved with no forwarding address or explanation.  The
+committee said Roberts was cleared of wrongdoing by the committee, but
+that there was some concern over "whether he had acted appropriately
+at all times" during the research period. "Since he addressed that in
+the letter he sent to <i>Science</i>, we had no reason to suspect
+anything other than that he had been tricked."</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<IMG SRC="science_roberts.jpg" width=200 height=208>
+</TD>
+</TR>
+
+<!-- BESHEAR (KENTUCKY GOVERNOR NOMINEE) -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2007:</B> The Kentucky state Republican Party distributed
+campaign flyers that depict Steve Beshear, the Democratic nominee for
+Governor, as a <a href="beshear.jpg">high-roller leaning on a casino
+table</a>.  "Don't gamble on Steve Beshear and his fool's gold casino
+plan," says the campaign material.  State Republican party chairman
+Steve Robertson said the photo is of Beshear's head but someone else's
+body. "It is a humorous way to communicate the message", Robertson
+said.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="beshear.jpg"><IMG SRC="beshear2.jpg" width=200 height=200></A>
+</TD>
+</TR>
+
+<!-- PRESIDENT NICOLAS SARKOZY -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2007:</B> The French Magazine <i>Paris Match</i> altered
+this photograph of French President Nicolas Sarkozy by <a
+href="sarkozy1+2.jpg">removing some body fat</a>.  The magazine said
+it had tried adjusting the lighting on the picture.  "The correction
+was exaggerated during the printing process," the magazine said.</TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="sarkozy1+2.jpg"><IMG SRC="sarkozy.jpg" width=200 height=200></A>
+</TD>
+</TR>
+
+
+<!-- CULTURE SECRETARY JAMES PURNELL -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2007:</B> British Culture Secretary James Purnell (far
+right) was digitally inserted into this photo at the opening of
+Tameside hospital in Lancashire.  Purnell arrived late to the opening
+and the hospital asked if it could add his image to their record of
+the event.  The hospital said in a statement: "As we would not be able
+to stage a repeat of this historic day for the hospital, we decided to
+take a photograph of Mr Purnell in the same spot very shortly after
+and merge it with the earlier photograph, to which Mr. Purnell kindly
+consented."  A Purnell spokeswoman denied that he agreed to the
+picture being doctored. "He was assured they would show the three MPs
+in one picture and have him separately in the corner."
+</TD>
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="purnell.jpg"><IMG SRC="purnell2.jpg" width=200 height=96></A>
+</TD>
+</TR>
+
+<!-- RUSSIAN VIDEO -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2007:</B> Mikhail Delyagin was (mostly) digitally
+removed from a video after he made remarks critical of Russian Prime
+Minister Vladimir Putin.  Shown here is a still frame from video of
+the television show "The People Want to Know".  Only part of Delyagin
+was completely removed -- his leg and hand remain visible to the right
+of the man holding the microphone.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="russianvideo1.jpg"><IMG SRC="russianvideo1a.jpg" width=200 height=168></A>
+</TD>
+</TR>
+
+
+<!-- SOUTH CHINA TIGER -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 2007:</B> Zhou Zhenglong from Shaanxi China claimed to
+have taken 71 photographs of the almost extinct South China tiger.
+Shown here is one image that was released to the public.  Shortly
+after its release, it was determined that this image was a fake -- the
+most likely scenario is that the photograph is that of a life-size <a
+href="tiger1+2.jpg">poster</a>.  This <a href="tiger.gif">
+animation</a> shows that the poster and photograph are nearly
+identical.  </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="tiger1+2.jpg"><IMG SRC="tiger1.jpg" width=200 height=137></A>
+</TD>
+</TR>
+
+
+<!-- LOFTUS STUDY ON MEMORIES AND PHOTOS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 2007:</B> A study by Dario Sacchi, Franca Agnoli and
+Elizabeth Loftus, published in the journal <i> Applied Cognitive
+Psychology</i>, shows that people's memories of events can be altered
+by viewing doctored images.  For example, when presented with doctored
+images of the 1989 Tiananmen Square protest participants recalled the
+event as larger and more violent (shown in the lower panel is the
+doctored image in which the crowd was added). </TD>
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="memories1.jpg"><IMG SRC="memories2.jpg" width=200 height=226></A>
+</TD>
+</TR>
+
+
+<!-- BUSH MUGSHOTS IN NYC PUBLIC LIBRARY -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 2007:</B> Artists Nora Ligorano and Marshall Reese
+created the <a href=bushmugshot.gif>exhibit</a> "Line Up" depicting
+doctored photographs of George W. Bush and members of his
+administration.  The exhibit, being shown at the New York City Public
+Library, is critical of the war in Iraq.  "It is simply inappropriate
+to have political attack art, in the form of egregious doctored
+photographs of the President and other high-ranking officials who have
+dedicated their lives to public service, in a taxpayer-funded building
+frequented by schoolchildren and the general public," said Matthew
+Walter, director of communications for the state GOP.  In response,
+Roberta Waddell, curator of the library's print collection, said the
+exhibit was in keeping with a historical tradition, calling the
+exhibit a relevant example of political commentary.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="bushmugshot.gif"><IMG SRC="bushmugshot.jpg" width=200 height=237></A>
+</TD>
+</TR>
+
+
+<!-- NJ GOV. JON CORZINE IN THE ASBURY PARK PRESS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> December 2007:</B> The <i>Asbury Park Press</i> published this
+doctored photo of New Jersey Governor Jon Corzine as part of a story
+critical of Corzine's financial restructuring plans.  In a letter to
+the <i>Press</i>, Corzine's chief of staff, wrote, in part, "Images
+that are nothing more than editorial cartoons morphed into photographs
+are fine -- for the editorial page. But placement of such images on
+the front page of the Sunday edition demonstrates a disregard for
+objective reporting."  The <i>Press's</i> executive editor said that
+the photo did not blur the line between news reporting and editorial
+commentary.  "That wasn't what we were trying to do," he said. "We
+were just trying to frame the story for readers. We were doing it in a
+way that was a little edgy, and in a way that would grab your
+attention."
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="corzine1.jpg"><IMG SRC="corzine2.jpg" width=200 height=187></A>
+</TD>
+</TR>
+
+<!-- TAIWAN'S LIBERTY TIMES AND UNITED DIALY NEWS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2008:</B> Taiwan's newspaper <i>Liberty Times</i>
+published this doctored photo of a delegation, led by the chairman of
+the Franz Collection, being met by the Pope. In the <a
+href="libertytimes1+2.jpg"> original photo</a>, Wang Shaw-lan, a
+publisher of competing newspaper <i>United Daily News</i>, was
+removed. A <i>Liberty Times</i> reporter said that she removed Wang
+whom she said was "not an essential presence" and in order to shrink
+the picture for "better display".  Later,
+<i>Liberty Times</i> said that the doctored picture came from the
+Franz Collection, but a Franz Collection spokesman said the newspaper
+had asked it to airbrush out Wang.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="libertytimes1+2.jpg"><IMG SRC="libertytimes1a.jpg" width=200 height=158></A>
+</TD>
+</TR>
+
+
+<!-- CONGRESSMAN DEAN HRBACEK -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2008:</B> This brochure of Texas Republican Congressional
+candidate Dean Hrbacek was mailed to voters.  The photograph is a
+composite of Hrbacek's head and another person's (slimmer) body.
+Campaign manager Scott Broschart acknowledged that the image is a
+composite. Hrbacek has been so busy that he had no time to pose for a
+full-length photo for the mailing, Broschart said.  "He may appreciate
+that we took a few pounds off him," Broschart said. "I think the
+voters ... are more concerned with the issues as opposed to pretty
+photo shoots."
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="hrbacek1.jpg"><IMG SRC="hrbacek1a.jpg" width=200 height=303></A>
+</TD>
+</TR>
+
+
+<!-- BRITNEY SPEARS, BLENDER MAGAZINE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> January 2008:</B> 
+
+This magazine cover featuring pop star Britney Spears is a composite
+of her head and a model's body.  The magazine cover states
+"<b>Truthiness Alert:</b> This cover image is a composite
+photo. Britney did not pose for this picture. That, sadly, is not her
+body."
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="blender1.jpg"><IMG SRC="blender1a.jpg" width=200 height=257></A>
+</TD>
+</TR>
+
+
+<!-- LIU WEIQIANG -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> February 2008:</B> This photograph, by Liu Weiqiang of the Daqing
+Evening News, won an award for "one of the ten most impressive news
+photos of 2006".  This photograph was recently revealed to be a
+composite of two separate photographs: the antelopes and the train.
+Weiqiang says that he never published the picture as a news
+photograph.  Weiqiang also wrote in his blog, "I admit it's
+unfaithful, as well as immoral for a photographer to present a
+fabricated picture. I'm truly sorry."
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="weiqiang1.jpg"><IMG SRC="weiqiang1a.jpg" width=200 height=133></A>
+</TD>
+</TR>
+
+
+<!-- FOX NEWS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2008:</B> In response to a New York Times story that
+suggested the FOX network’s ratings might be slipping, the co-hosts of
+“Fox & Friends” broadcasted photos of Times reporter Jacques Steinberg
+and editor Steven Reddicliffe. The photos were doctored to make the
+journalist appear less attractive.  A FOX spokeswoman said the
+executive in charge of “Fox and Friends” is on vacation and not
+available for comment but added that altering photos for humorous
+effect is a common practice on cable news stations.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="foxnews1.jpg"><IMG SRC="foxnews1a.jpg" width=200 height=165></A>
+</TD>
+</TR>
+
+
+<!-- IRANIAN MISSILES -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2008:</B> This image of an Iranian missile test appeared on
+the front page of many major newspapers. The image is from the web
+site of
+<i>Sepah News</i>, the media arm of Iran's Revolutionary Guards.
+After the publication of this photo, it was revealed that the second
+missile from the right was digitally added to the image in order to
+<a href=iranmissile1.jpg>conceal a missile</a> on the ground that did
+not fire.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="iranmissile1.jpg"><IMG SRC="iranmissile1a.jpg" width=200 height=133></A>
+</TD>
+</TR>
+
+
+<!-- THE SUN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> July 2008:</B> This photo of Britian's Prince William appeared on
+the pages of <i>The Sun</i>.  A person in the back of the boat was
+digitally removed from this photo (except for their knee). <i>The
+Metro</i> ran the <a href="thesun1.jpg"> unaltered photo</a>, as did
+the on-line version of <i>The Sun</i>.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="thesun1.jpg"><IMG SRC="thesun1a.jpg" width=200 height=114></A>
+</TD>
+</TR>
+
+
+<!-- CHRIS MYERS -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> August 2008:</B> Chris Myers, the Republican candidate for the
+U.S. House of Representatives, is criticizing his opponent, John
+Adler, and the Democratic Congressional Campaign Committee for a
+doctored photo that appeared on a campaign mailer produced by the
+DCCC.  The mailer includes a photo that appears to show Myers walking
+with President George W. Bush. Myers said he has never met the
+president.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="myers1.jpg"><IMG SRC="myers1a.jpg" width=200 height=278></A>
+</TD>
+</TR>
+
+
+<!-- SARAH PALIN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2008:</B> This photo of Governor Sarah Palin was widely
+distributed across the Internet shortly after Palin was announced as
+the vice presidential nominee for the Republican ticket.  Shortly
+after its release the photo was revealed to be a <a
+href="sarahpalin1.jpg">composite</a> of Palin's head, and somebody
+else's body.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="sarahpalin1.jpg"><IMG SRC="sarahpalin1a.jpg" width=200 height=301></A>
+</TD>
+</TR>
+
+
+<!-- US ARMY -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> September 2008:</B> After publishing photos of two deceased United
+States soldiers, the Associated Press retracted the photos after
+learning that one of the photos was digitally altered.  Shown <a
+href="USarmy.jpg">here</a> are the photos, where the photo on the left is
+a composite of this soldier's head and the body of the soldier on the
+right.  The photos were released by the U.S. Army at Fort Stewart in
+Georgia.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="USarmy.jpg"><IMG SRC="USarmy_1.jpg" width=200 height=150></A>
+</TD>
+</TR>
+
+
+<!-- TIME MAGAZINE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> November 2008:</B> This cover of Time Magazine shows an electronic
+voting machine with an incongruous shadow that was digitally inserted
+into the photo (notice that the shadow from the two front legs emerge
+directly from underneath the legs, while the shadow for the wide back
+leg is floating between the front and back legs).
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="timevotingmachine.jpg"><IMG SRC="timevotingmachine_1.jpg" width=200 height=266></A>
+</TD>
+</TR>
+
+
+<!-- LE FIGARO  MAGAZINE -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> October 2008:</B> This front-page photo of Justice Minister
+Rachida Dati appeared in the French newspaper Le Figaro in June of
+2008.  A large diamond ring on Dati's hand was <a
+href="lefigaro.jpg">digitally removed</a>.  This photo editing caused
+controversy regarding the alleged influence that the Sarkozy
+administration wields over the French press.  The head of Le Figaro's
+photo department defended the editorial decision saying that the
+newspaper did not want to distract readers from the content of its
+interview with Dati.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="lefigaro.jpg"><IMG SRC="lefigaro_1.jpg" width=200 height=125></A>
+</TD>
+</TR>
+
+
+<!-- VANITY FAIR -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> February 2009:</B> This photo of Heath Ledger and Christopher
+Nolan of "The Dark Knight" appeared in Vanity Fair as part of a series
+of photographs of acclaimed actors and directors. The photo of Ledger,
+who died in 2008, is from 2005 as he was promoting the film "Brokeback
+Mountain". Nolan (shown on the left) was digitally inserted into this
+photo.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="vanityfair.jpg"><IMG SRC="vanityfair_1.jpg" width=200 height=139></A>
+</TD>
+</TR>
+
+
+<!-- SINA -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> March 2009:</B> A ceremony on March 7th in Taiwan was held to
+honor Chinese soldiers who died in Papua, New Guinea during World War
+II. This photo shows a "spirit tablet" used as part of the
+ceremony. When the photo appeared on Sina, a Chinese website, the text
+which read "The army of Republic of China" was <a
+href="sina.jpg">digitally removed</a>. In Taiwan, the government uses
+the phrase The Republic of China, while the Chinese government uses
+the phrase The People's Republic of China.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="sina.jpg"><IMG SRC="sina_1.jpg" width=200 height=152></A>
+</TD>
+</TR>
+
+
+<!-- YATED NEEMAN -->
+<TR>
+<TD WIDTH=450 VALIGN=TOP>
+<P>
+<B> April 2009:</B> This photo shows Prime Minister Benjamin Netanyahu
+(center left), President Shimon Peres (center right), along with
+members of the Cabinet. The Israeli newspaper Yated Neeman <a
+href="yatedneeman.jpg"> digitally removed</a> two female Cabinet
+members from the photo and replaced them with male members. The
+newspaper Yated Neeman is considered to be ultra-orthodox and not
+supportive of females in the cabinet.
+
+<TD WIDTH=200 VALIGN=TOP>
+<A HREF="yatedneeman.jpg"><IMG SRC="yatedneeman1.jpg" width=200 height=105></A>
+</TD>
+</TR>
+
+
+
+<tr>
+<td colspan=2 valign=top align=right>
+<HR>
+	<i>
+	<a href="../../home.html"> Home</a> &nbsp &nbsp
+	<a href="../../publications"> Papers</a>  &nbsp &nbsp
+	<a href="../research.html"> Research</a> 	
+	</i>
+</td>
+</tr>
+
+</TABLE>
+</BODY>
+</HTML>
+

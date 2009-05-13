@@ -1,0 +1,40 @@
+http://www.cs.dartmouth.edu/~zhifei
+2
+<html>
+<body>
+
+<p><b>Zhifei Song</b></p>
+<img src="./image.jpg" width="150" height="200"/><br>
+
+<hr>
+<p><b>Enducation</b></p>
+B.S degree in Information Security, July 2008,<a href="http://www.bupt.edu.cn"> Beijing University of Posts and Telecommunications</a><br>
+Currently a first year master student in <a href="http://www.cs.dartmouth.edu">Department of Computer Science</a>,<a href="http://www.dartmouth.edu"> Dartmouth College</a><br>
+<hr>
+<p><b>Contact</b></p>
+
+blize:Zhifei.Song AT dartmouth DOT edu<br>
+mail: <br>
+Zhifei Song<br>
+6211 Sudikoff<br>
+Dartmouth College<br>
+Hanover,NH 03755,US<br>
+<hr>
+<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.cs.dartmouth.edu/~zhifei" id="clustrMapsLink">
+<img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.cs.dartmouth.edu/~zhifei" style="border:0px;" alt="Locations of visitors to this page" 
+title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; 
+this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
+</a>
+<object data="./jaychoi-boy.mp3" type="application/x-mplayer2" width="0" height="0">
+  <param name="filename" value="./jaychoi-boy.mp3">
+  <param name="autostart" value="1">
+  <param name="playcount" value="true"> 
+</object>
+
+<bgsound src="./jaychoi-boy.mp3" autostart = "true" loop = "infinite">
+<hr>
+
+Last Modified: April 5th, 2009 EST
+
+</body>
+</html>

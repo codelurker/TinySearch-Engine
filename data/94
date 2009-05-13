@@ -1,0 +1,33 @@
+http://www.cs.dartmouth.edu/~ltzeng
+2
+<HTML>
+<HEAD>
+  <TITLE>house page</TITLE>
+  <STYLE>
+    <!--
+      a { text-decoration: none }
+     -->
+  </STYLE>
+
+</HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#aaddff">
+
+<CENTER>
+<TABLE height="100%">
+
+<TR>
+
+<TD align=center valign=middle>
+<IMG SRC="title.gif"><BR>
+<A HREF="page.html"><IMG SRC="house.gif" border="0"></A>
+</TD>
+
+</TR>
+
+</TABLE>
+</CENTER>
+
+</BODY>
+</HTML>
+200i

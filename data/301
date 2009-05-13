@@ -1,0 +1,18 @@
+http://www.cs.dartmouth.edu/~tim/bio
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Bio</title>
+  </head>
+
+  <body bgcolor="#000033" text="#CCCCFF" link="#FFFFFF" vlink="#FFFFFF" alink="#CCFFCC">
+    <center><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><h1>Bio</h1></center>
+
+It is hard to write about oneself. Here is what someone else wrote about me:
+<a href="profile.pdf">bio</a>
+
+    <hr>
+  </body>
+</html>
+et)i

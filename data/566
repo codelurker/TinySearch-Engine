@@ -1,0 +1,241 @@
+http://www.cs.dartmouth.edu/~map/papers.php
+3
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>MAP
+ | papers         
+</title>
+<link rel="stylesheet" href="http://www.cs.dartmouth.edu/~map/include/style.css" type="text/css" /><link rel="icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://www.cs.dartmouth.edu/~map/img/map-icon.ico" type="image/x-icon" />
+</head>
+
+<body>
+<div class="outer pc75">
+<div class="inner mg177">
+<div class="title">
+<span class="name"><a href="http://www.cs.dartmouth.edu/~map"><img
+    src="img/map-logo.png" alt="MAP logo"></a></span>
+</div>
+</div>
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+    <li><a href="http://www.cs.dartmouth.edu/~map/index.php" >Home</a></li>
+<li id="active"><a href="http://www.cs.dartmouth.edu/~map/papers.php"  id="current">Papers</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/biblio.php" >Bibliography</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/links.php" >Links</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/wiki.php" >Wiki</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/people.php" >People</a></li>
+<li><a href="http://www.cs.dartmouth.edu/~map/mapstats.php" >MAP Testbed</a></li>
+</ul>
+<br/>
+<div id="navimgcontainer">
+<a href="http://www.hsarpacyber.com"><img src="img/dhs.jpg" alt="DHS logo" title="Sponsored by HSARPA as part of the Cyber Security Research and Development (CSRD) program" height=100></a>
+<a href="http://www.ists.dartmouth.edu"><img src="img/ists.png" alt="ISTS logo" width=50></a>
+<a href="http://www.arubanetworks.com"><img src="img/aruba.png" alt="Aruba Networks logo"></a>
+<a href="http://www.cs.uml.edu"><img src="img/uml.gif" alt="UMass Lowell logo"></a>
+</div>
+</div>
+<div id="content">
+
+<ul>
+
+<LI>
+<a name=chen:detect_unauthorized>
+Guanling Chen, Jie Wang, Bo Yan, and Hongda Yin.
+<b>Robust Detection of Unauthorized Wireless Access Points</b>.
+<i>Mobile Networks and Applications (MONET)</i>, In Press.
+DOI <a href="http://dx.doi.org/10.1007/s11036-008-0109-6">10.1007/s11036-008-0109-6</a>.
+Copyright &#169;&nbsp;2008 by Springer.
+</LI>
+<p>
+
+<LI>
+<a name="bratus:fingerprint">
+Sergey Bratus, Cory Cornelius, David Kotz, and Dan Peebles.
+<b>Active Behavioral Fingerprinting of Wireless Devices</b>.
+In
+<i>Proceedings of the First ACM Conference on Wireless Network
+Security (WiSec)</i>,
+pages 56-61,
+March,
+2008.
+ACM Press.
+DOI <a href="http://dx.doi.org/10.1145/1352533.1352543">10.1145/1352533.1352543</a>.
+(<a href="abstracts/bratus-fingerprint.html">Abstract</a>)
+(<a href="bibtex/bratus-fingerprint.bib">BibTeX</a>)
+[<a target=_top href = "././bratus-fingerprint.pdf">PDF</a>]
+Copyright &#169;&nbsp;2008 by ACM.
+See also <b><a href="#bratus:fingerprint-tr">later version</a></b>.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="bratus:fingerprint-tr">
+Sergey Bratus, Cory Cornelius, Daniel Peebles, and David
+Kotz.
+<b>Active Behavioral Fingerprinting of Wireless Devices</b>.
+Technical Report
+TR2008-610,
+Dartmouth College, Computer Science,
+March,
+2008.
+(<a href="abstracts/bratus-fingerprint-tr.html">Abstract</a>)
+(<a href="bibtex/bratus-fingerprint-tr.bib">BibTeX</a>)
+[<a target=_top href = "././bratus-fingerprint-tr.pdf">PDF</a>]
+Copyright &#169;&nbsp;2008 by the authors.
+See also <b><a href="#bratus:fingerprint">earlier version</a></b>.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="bratus:streaming-poster">
+Sergey Bratus, Joshua Brody, David Kotz, and Anna Shubina.
+<b>Streaming Estimation of Information-theoretic Metrics for Anomaly
+Detection (Extended Abstract)</b>.
+In
+<i>Proceedings of the 11th International Symposium on Recent
+Advances in Intrusion Detection-- Posters</i>,
+pages 412-414,
+Cambridge, MA,
+September,
+2008.
+Springer-Verlag.
+DOI <a href="http://dx.doi.org/10.1007/978-3-540-87403-4_32">10.1007/978-3-540-87403-4_32</a>.
+(<a href="abstracts/bratus-streaming-poster.html">Abstract</a>)
+(<a href="bibtex/bratus-streaming-poster.bib">BibTeX</a>)
+[<a target=_top href = "././bratus-streaming-poster.pdf">PDF</a>]
+Copyright &#169;&nbsp;2008 by Springer.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="deshpande:refocusing">
+Udayan Deshpande, Chris McDonald, and David Kotz.
+<b>Refocusing in 802.11 Wireless Measurement</b>.
+In
+<i>Proceedings of the Passive and Active Measurement Conference
+(PAM 2008)</i>,
+pages 142-151,
+April,
+2008.
+Springer-Verlag.
+DOI <a href="http://dx.doi.org/10.1007/978-3-540-79232-1_15">10.1007/978-3-540-79232-1_15</a>.
+(<a href="abstracts/deshpande-refocusing.html">Abstract</a>)
+(<a href="bibtex/deshpande-refocusing.bib">BibTeX</a>)
+Copyright &#169;&nbsp;2008 by Springer-Verlag.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="sheng:map">
+Yong Sheng, Guanling Chen, Hongda Yin, Keren Tan,
+Udayan Deshpande, Bennet Vance, David Kotz, Andrew Campbell,
+Chris McDonald, Tristan Henderson, and Joshua Wright.
+<b>MAP: A scalable monitoring system for dependable 802.11 wireless
+networks</b>.
+<i>IEEE Wireless Communications</i>,
+15(5):10-18,
+October,
+2008.
+DOI <a href="http://dx.doi.org/10.1109/MWC.2008.4653127">10.1109/MWC.2008.4653127</a>.
+(<a href="abstracts/sheng-map.html">Abstract</a>)
+(<a href="bibtex/sheng-map.bib">BibTeX</a>)
+[<a target=_top href = "././sheng-map.pdf">PDF</a>]
+Copyright &#169;&nbsp;2008 by IEEE.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="sheng:spoofing">
+Yong Sheng, Keren Tan, Guanling Chen, David Kotz, and
+Andrew Campbell.
+<b>Detecting 802.11 MAC Layer Spoofing Using Received Signal
+Strength</b>.
+In
+<i>Proceedings of the 27th Annual Joint Conference of the IEEE
+Computer and Communications Societies (INFOCOM)</i>,
+pages 1768-1776,
+April,
+2008.
+IEEE Computer Society Press.
+DOI <a href="http://dx.doi.org/10.1109/INFOCOM.2007.239">10.1109/INFOCOM.2007.239</a>.
+(<a href="abstracts/sheng-spoofing.html">Abstract</a>)
+(<a href="bibtex/sheng-spoofing.bib">BibTeX</a>)
+[<a target=_top href = "././sheng-spoofing.pdf">PDF</a>]
+Copyright &#169;&nbsp;2008 by IEEE.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="deshpande:coordinated">
+Udayan Deshpande, Chris McDonald, and David Kotz.
+<b>Coordinated Sampling to Improve the Efficiency of Wireless Network
+Monitoring</b>.
+In
+<i>Proceedings of the Fifteenth IEEE International Conference on
+Networks (ICON)</i>,
+pages 353-358,
+November,
+2007.
+IEEE Computer Society Press.
+DOI <a href="http://dx.doi.org/10.1109/ICON.2007.4444112">10.1109/ICON.2007.4444112</a>.
+(<a href="abstracts/deshpande-coordinated.html">Abstract</a>)
+(<a href="bibtex/deshpande-coordinated.bib">BibTeX</a>)
+[<a target=_top href = "././deshpande-coordinated.pdf">PDF</a>]
+Copyright &#169;&nbsp;2007 by IEEE.
+</a>
+</LI>
+<p>
+
+<LI>
+<a name="deshpande:sampling">
+Udayan Deshpande, Tristan Henderson, and David Kotz.
+<b>Channel Sampling Strategies for Monitoring Wireless Networks</b>.
+In
+<i>Proceedings of the Second International Workshop on Wireless
+Network Measurement (WiNMee)</i>,
+April,
+2006.
+IEEE Computer Society Press.
+DOI <a href="http://dx.doi.org/10.1109/WIOPT.2006.1666486">10.1109/WIOPT.2006.1666486</a>.
+(<a href="abstracts/deshpande-sampling.html">Abstract</a>)
+(<a href="bibtex/deshpande-sampling.bib">BibTeX</a>)
+[<a target=_top href = "././deshpande-sampling.pdf">PDF</a>]
+Copyright &#169;&nbsp;2006 by IEEE.
+</a>
+</LI>
+<p>
+
+<li>
+<a name="yin:detecting_rogues">
+Hongda Yin, Guanling Chen, and Jie Wang. 
+<a href="http://www.cs.dartmouth.edu/~map/papers/FINAL.PDF">
+<strong>Detecting Protected Layer-3 Rogue APs</strong></a>.
+<a href="http://www.broadnets.org/2007/">
+In
+<em>Proceedings of the Fourth International Conference on Broadband Communications, Networks, and Systems (IEEE BROADNETS 2007)</em></a>,
+Raleigh, NC, USA.</li>
+<p>
+
+<li>
+<a name="madory:masters_thesis">
+Douglas Madory.
+<a href="papers/madory_ms_thesis.pdf">
+<strong>New Methods of Spoof Detection in 802.11b Wireless Networking</strong></a>.
+M.S. thesis, Dartmouth College, June 2006.</li>
+</ul>
+
+</div>
+</body>
+</html>
+composiñ

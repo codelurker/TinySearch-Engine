@@ -1,0 +1,274 @@
+http://www.cs.dartmouth.edu/~theory/trg.html
+2
+<html><head><title>Theory Reading Group -- Winter 2009</title>
+  <style type="text/css">
+    body,td,p {font-size: smaller; font-family: arial, sans-serif}
+    .style4 {color: #90EE90; font-style: italic; font-family: Verdana, Arial, Helvetica, sans-serif;}
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+</head>
+
+<body alink="#0000ff" bgcolor="90EE90" link="#0000ff" text="#000000" vlink="#551a8b">
+
+<p>&nbsp;</p>
+
+<center>
+  <h2> Dartmouth Theory Reading Group (TRG) </h2>
+  <h3> 
+    <br/> Winter 2009 <br/> Mon/Tue, 4:00 -- 5:30pm <br/>
+    Sudikoff 245 and/or Kemeny 229 
+  </h3>
+  <!-- It makes sense to include a main topic only when there _is_ a main topic
+      <tr> 
+        <td width="600" align="center"><p align="center">        
+          <blockquote>
+            <p align="left"><font size="5"><span class="style1"> Main topic:</span></font> </p>
+            <p align="left"><font size="5"><span class="style4"> Theory of Computation. </span></font>        </p>
+          </blockquote></td>
+      </tr>
+  -->
+  Past TRG sessions:
+  [
+    <a href="spring_2008.html">Spring 2008</a> |
+    <a href="winter_2008.html">Winter 2008</a> |
+    <a href="fall_2007.html">Fall 2007</a>     |
+    <a href="fall_2006.html">Fall 2006</a>     |
+    <a href="spring_2006.html">Spring 2006</a> |
+    <a href="winter_2006.html">Winter 2006</a> |
+    <a href="fall_2005.html">Fall 2005</a>
+  ]
+</center>
+
+<hr width="75%"/>
+<br/>
+
+<center>
+
+<table border=1 cellpadding=3 width=600>
+  <tr colspan=2 class=datetopic> 
+    <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
+    <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, Jan 20 </font></td>
+  </tr>
+  <tr> 
+    <td width="99">Topic: </td>
+    <td width="469"><font color="#990000"><b>Pointer Jumping (communication complexity) </b></font></td>
+  </tr>
+  <tr> 
+    <td width="99">Source Materials:</td>
+    <td width="469"><ul>
+      <li>Amit Chakrabarti. <a href="/~ac/Pubs/ccc07-mpj.pdf">Lower Bounds for Multi-Player Pointer Jumping</a>, CCC 2007. </li>
+      </ul></td>
+  </tr>
+  <tr> 
+    <td height="27" width="99">Speakers:</td>
+    <td height="27" width="469">Joshua Brody</td>
+  </tr>
+</tbody></table>
+
+<table border="1" cellpadding="3" width="600">
+  <tbody>
+  <tr> 
+    <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
+    <td bgcolor="#443344" width="469"><font color="#ffffff">Tuesday, Jan 27 </font></td>
+  </tr>
+  <tr> 
+    <td width="99">Topic: </td>
+    <td width="469"><font color="#990000"><b>Impossibility results in message passing model and Failure detectors </b></font></td>
+  </tr>
+  <tr> 
+    <td width="99">Source Materials:</td>
+    <td width="469"><ul>
+    <li>Fischer, Lynch, Paterson. <a href="http://portal.acm.org/citation.cfm?id=214121">Impossibility of distributed consensus with one faulty process</a>, JACM 32(2), 1985. </li>
+      </ul></td>
+  </tr>
+  <tr> 
+    <td height="27" width="99">Speakers:</td>
+    <td height="27" width="469">Vibhor Bhatt</td>
+  </tr>
+</tbody></table>
+
+
+<table border="1" cellpadding="3" width="600">
+  <tbody>
+  <tr> 
+    <td bgcolor="#443344" width="99"><font color="#ffffff">Dates:</font></td>
+    <td bgcolor="#443344" width="469"><font color="#ffffff">Monday, Feb 2 </font></td>
+  </tr>
+  <tr> 
+    <td width="99">Topic: </td>
+    <td width="469"><font color="#990000"><b>Distributed functional monitoring (communication complexity) </b></font></td>
+  </tr>
+  <tr> 
+    <td width="99">Source Materials:</td>
+    <td width="469"><ul>
+      <li>Chrisil Arackaparambil, Joshua Brody, Amit Chakrabarti. <a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2008-639/">Functional Monitoring Without Monotonicity</a>, Dartmouth TR2008-639. </li>
+      </ul></td>
+  </tr>
+  <tr> 
+    <td height="27" width="99">Speakers:</td>
+    <td height="27" width="469">Chrisil Arackaparambil</td>
+  </tr>
+</tbody></table>
+
+<table width="600" border="1" cellpadding="3">
+  <tbody>
+    <tr>
+      <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+      <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, Feb 10</font></td>
+    </tr>
+    <tr>
+      <td width="100">Topic:</td>
+      <td width="500"><font color="#990000"><b>TBA </b></font></strong></td>
+    </tr>
+    <tr>
+      <td width="100">Source Materials:</td>
+      <td width="500"> <ul>
+        <li> TBA </li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td width="100">Speakers:</td>
+      <td height="27" width="469">Umang Bhaskar</td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="600" border="1" cellpadding="3">
+  <tbody>
+    <tr>
+      <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+      <td bgcolor="#443344" width="500"><font color="#ffffff">Monday, Feb 16</font></td>
+    </tr>
+    <tr>
+      <td width="100">Topic:</td>
+      <td width="500"><font color="#990000"><b>TBA </b></font></td>
+    </tr>
+    <tr>
+      <td width="100">Source Materials:</td>
+    <td width="469"><ul>
+      <li> TBA </li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td width="100">Speakers:</td>
+      <td height="27" width="469">Florin Constantin (Harvard) </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="600" border="1" cellpadding="3">
+  <tbody>
+    <tr>
+      <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+      <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, Feb 24</font></td>
+    </tr>
+    <tr>
+      <td width="100">Topic:</td>
+      <td width="500"><strong><font color="#990000"> Lower bounds for PIR with 1-bit answers </font></strong></td>
+    </tr>
+    <tr>
+      <td width="100">Source Materials:</td>
+      <td width="500"><ul>
+        <li> Beigel, Fortnow, Gasarch.
+	<a href="http://www.cs.umd.edu/~gasarch/pir/lowergasarch.pdf"> 
+	A Tight Lower Bound for Restricted Private
+	Information Retrieval Protocols</a>, Comput. Complex. 15(1),
+	2006, 82--91. </li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="100">Speakers:</td>
+      <td height="27" width="469">Ranganath Kondapally </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="600" border="1" cellpadding="3">
+  <tbody>
+    <tr>
+      <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+      <td bgcolor="#443344" width="500"><font color="#ffffff">Monday, Mar 2</font></td>
+    </tr>
+    <tr>
+      <td width="100">Topic:</td>
+      <td width="500"><strong><font color="#990000"> Nearest neighbor searching (data structures)
+        </font></strong></td>
+    </tr>
+    <tr>
+      <td width="100">Source Materials:</td>
+      <td width="500"><ul>
+        <li> Panigrahy, Talwar, Wieder.
+	<a href="http://research.microsoft.com/pubs/73855/anns-hp.pdf">
+	A Geometric Approach to Lower Bounds for Approximate
+	Near-Neighbor Search and Partial Match</a>, FOCS 2008.
+	</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="100">Speakers:</td>
+      <td height="27" width="469">Amit Chakrabarti </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="600" border="1" cellpadding="3">
+  <tbody>
+    <tr>
+      <td bgcolor="#443344" width="100"><font color="#ffffff">Date:</font></td>
+      <td bgcolor="#443344" width="500"><font color="#ffffff">Tuesday, Mar 10</font></td>
+    </tr>
+    <tr>
+      <td width="100">Topic:</td>
+      <td width="500"><strong><font color="#990000"> Impossibility results in message passing model and Failure detectors (continued)
+        </font></strong></td>
+    </tr>
+    <tr>
+      <td width="100">Source Materials:</td>
+      <td width="500"><ul>
+        <li> Bhatt, Christman, Jayanti.
+	<a href="Papers/vibhor-quorumfailure.pdf">
+	Extracting Quorum Failure Detectors</a>. 
+	</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="100">Speakers:</td>
+      <td height="27" width="469"><p> Vibhor Bhatt </p>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!--
+        <table border="1" cellpadding="5" width="600">
+          <tbody><tr>
+        <td bgcolor="#443344" width="100"><font color="#ffffff">Dates:</font></td>
+        <td bgcolor="#443344" width="500"><font color="#ffffff">Thursday, 
+        February 15 </font></td>
+          </tr>
+          <tr>
+        <td width="100">Topic:</td>
+        <td width="500"><font color="#990000"><b>Surface Mesh Editing </b></font></td>
+          </tr>
+          <tr>
+        <td width="100">Source Materials:</td>
+        <td width="500"><ul>
+          <li>Olga Sorkine, Daniel Cohen-Or, Yaron Lipman, Marc Alexa, Christian R&ouml;ssl, and Hans-Peter Seide<A href="../s/Seidel:Hans=Peter.html">l</A>, <strong><a href="Papers/sgp2004_laplace.pdf">Laplacian Surface   Editing</a></strong>. <em>Symposium   on Geometry Processing</em> (SGP), pp. 179-188, 2004 </li>
+          <li>Y. Lipman, O. Sorkine, D. Levin, D., and D. Cohen-Or, <strong><a href="Papers/sig05-lslc-2005.pdf">Linear   Rotation-Invariant Coordinates for Meshes</a></strong>. In Proceedings of the 32nd <em>Annual Conference on Computer   Graphics and Interactive Techniques </em>(ACM SIGGRAPH), pp. 479-487, 2005 </li>
+        </ul></td>
+          </tr>
+          <tr>
+        <td width="100">Speakers:</td>
+            <td height="27" width="469"><p>Primoz Skraba and Ian Downes</p></td> 
+          </tr>
+	</tbody></table>
+-->
+
+</center>
+
+</body></html>

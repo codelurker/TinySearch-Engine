@@ -1,0 +1,62 @@
+http://www.cs.dartmouth.edu/~farid/publications/apthesis05.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Hany Farid: Papers </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=650>
+<tr>
+<td>
+
+<dl>
+<dt><b> Statistical Tools for Digital Image Forensics </b><BR>
+<dd> A.C. Popescu <i>(advisor: H. Farid)</i> <BR> 
+<dd> Ph.D. Dissertation, Department of Computer Science, Dartmouth College, 2005
+<BR><BR>
+<dd>	<a href="apthesis05.pdf">Dissertation (pdf)</a> &nbsp&nbsp
+        <a href="farid_bib.html#popescu05">Bibtex</a>
+
+        
+</dl>
+<p><BR>
+
+A digitally altered image, often leaving no visual clues of having
+been tampered with, can be indistinguishable from an authentic
+image. The tampering, however, may disturb some underlying statistical
+properties of the image. Under this assumption, we propose five
+techniques that quantify and detect statistical perturbations found in
+different forms of tampered images: (1) re-sampled images (e.g.,
+scaled or rotated); (2) manipulated color filter array interpolated
+images; (3) double JPEG compressed images; (4) images with duplicated
+regions; and (5) images with inconsistent noise patterns. These
+techniques work in the absence of any embedded watermarks or
+signatures. For each technique we develop the theoretical foundation,
+show its effectiveness on credible forgeries, and analyze its
+sensitivity and robustness to simple counterattacks.
+
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=650>
+<tr>
+<td align=left>
+<i><a href="../research/tampering.html">Related material</a></i>
+</td>
+<td valign=top align=right>
+	<i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="publications.html"> Papers</a> &nbsp &nbsp
+        <a href="../research"> Research</a>
+	</i>
+</td>
+</tr>
+</table>
+</html>

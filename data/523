@@ -1,0 +1,47 @@
+http://www.cs.dartmouth.edu/~wbc/suditour/servers/servers.html
+3
+
+<html>
+<body>
+
+<table border=3>
+
+<tr><td>aeolus</td><td>2nd-dns 2nd web</td><td>fc3</td></tr>
+<tr><td>bear/cairngorm</td><td>general compute</td><td>rh 8.0</td></tr>
+<tr><td>cabot</td><td>pdc</td><td>win2k</td></tr>
+<tr><td>cs-appleshare</td><td>backup meetingmaker</td><td>OS X server</td></tr>
+<tr><td>cs</td><td> dns-master</td><td>rh 9</td> </tr>
+<tr><td>cvs</td><td> cvs for remote access</td><td>fc</td> </tr>
+<tr><td>eisenhower</td><td>AMD 64 bit 4 gig memory</td><td>fedora 4</td></tr>
+<tr><td>fallenleaf</td><td>mtb</td><td>true64</td></tr>
+<tr><td>galehead</td><td>password dist calendar</td><td>fc3</td></tr>
+<tr><td>garfield</td><td>bdc</td><td>server 2003</td></tr>
+<tr><td>green</td><td>files-grad-class samba</td><td>rh 8.0</td></tr>
+<tr><td>katahdin</td><td>web private-named mysql horde-mail webmail</td><td>fc4</td></tr>
+<tr><td>krakatoa</td><td>windows install repository</td><td>server 2003</td></tr>
+<tr><td>mail</td><td>mail imap dns-caching</td><td>fc6</td> </tr>
+<tr><td>mansfield</td><td>dhcp 2nd-dns  matlab 7b ntp</td><td>fc6</td></tr>
+<tr><td>mirrors athena</td><td>distributions svn</td><td>fc4</td></tr>
+<tr><td>nemesis</td><td>mac image server</td><td>OSX Server</td></tr>
+<tr><td>nickwaket</td><td>dhcpd, named for wireless (210) subnet</td><td>rh 8.0</td></tr>
+<tr><td>numanuma</td><td> sergey's security thing</td><td>XP</td></tr>
+<tr><td>old-tahoe</td><td></td><td>true64</td></tr>
+<tr><td>pemigewasset</td><td>cbk tanzeem, and DA files<td>fc</td></tr>
+<tr><td>pico</td><td>backup, old wbc files, "src"<br>dictionary</td><td>rh 7.3</td></tr>
+<tr><td>pisgah</td><td>backup, users</td><td>rh 7.3</td></tr>
+<tr><td>reagan</td><td>backup domain controller</td><td>server 2003</td></tr>
+<tr><td>smuggler</td><td>old mtb master lists</td><td>true64</td></tr>
+<tr><td>sunapee</td><td>ftp finger</td><td>rh 8.0</td></tr>
+<tr><td>tahoe</td><td>general compute<br>telnet ftp for users</td><td>rh 8.0</td></tr>
+<tr><td>topdog</td><td>faculty file server</td><td>fc</td></tr>
+<tr><td>tug</td><td>old mtb</td><td>true64</td></tr>
+<tr><td>tykhe</td><td>pdf formatting, unity and adobe version server, </td><td>OSX Server</td></tr>
+<tr><td>underdog</td><td>on-line backup server</td><td>fc</td></tr>
+<tr><td>water</td><td>BRD files</td><td>FC3</td></tr>
+<tr><td>willey</td><td>E-Drawer web access</td><td>server 2003</td></tr>
+<tr><td>zeacliff</td><td>joe's E-Drawer</td><td>server 2003</td></tr>
+
+</table>
+</body>
+</html>
+ñ

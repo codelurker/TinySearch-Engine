@@ -1,0 +1,77 @@
+http://www.cs.dartmouth.edu/farid/research/flash.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Depth from Flash</title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+<table align=center width=750 cellpadding=2 border=0>
+<tr>
+<td valign=top>
+<b> Depth from Flash</b>
+<BR>
+<p>
+A typical photograph taken with a point-and-shoot camera with built-in
+flash typically leads to unattractive photographs.  Surfaces close to
+the camera are overly illuminated while more distant surfaces are dark
+and indistinct.  This is a result of the quadratic falloff of light
+intensity from the flash.
+
+<BR><BR>
+
+We propose a simple technique to digitally correct for these
+illumination problems.  This technique requires a pair of images taken
+with the flash at different positions.  A ratio of these images
+followed by some simple algebra yields an estimate of depth.
+
+<BR><BR>
+
+The illumination changes can be corrected by simply multiplying by the
+square of the estimated distance.  On the right are some simulation
+results.  Shown is one of the input images (left) and the corrected
+image (right).
+
+
+<BR><BR>
+
+<i>(Collaborative work with David Martin and <a
+href="http://web.mit.edu/persci/people/adelson/index.html"> Ted Adelson</a>)</i>
+
+<td>
+<table cellpadding=8 border=0>
+<tr> 
+<td align=center> Flash Photograph </td>
+<td align=center> Corrected Photograph </td>
+</tr>
+
+<tr> 
+<td align=center> <IMG SRC="flash1.gif" width=128 height=128> </td>
+<td align=center> <IMG SRC="flash2.gif" width=128 height=128> </td>
+</tr>
+<tr> 
+<td align=center> <IMG SRC="flash3.gif" width=128 height=128> </td>
+<td align=center> <IMG SRC="flash4.gif" width=128 height=128> </td>
+</tr>
+</table>
+</td>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table align=center width=750>
+<tr>
+<td valign=top align=right>
+	<font size=-1><i>
+	<a href="../home.html"> Home</a> &nbsp &nbsp
+	<a href="research.html"> Research</a> 	
+	</i></font>
+</td>
+</tr>
+</table>
+</html>

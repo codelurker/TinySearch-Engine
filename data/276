@@ -1,0 +1,52 @@
+http://www.cs.dartmouth.edu/~csrs/history.html
+3
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Computer Science Research Symposium '08</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<img src="banner.jpg">
+
+<br>
+<br>
+<br>
+
+<table style="text-align: left;" width=85%>
+
+<tr>
+<td width=10%></td>
+<td valign="top">
+<table class="navbar">
+<tr><td><a href="index.html">Home</a></td></tr>
+<tr><td><a href="schedule.html">Program</a></td></tr>
+<tr><td><a href="pandd.html">Posters/Demos</a></td></tr>
+<tr><td><a href="history.html">History</a></td></tr>
+<tr><td><a href="faq.html">FAQ</a></td></tr>
+<tr><td><a href="contact.html">Contact Us</a></td></tr>
+</table>
+</td>
+
+<td style="width:20pt; border-left:dotted 1px #000;"><img src="blank.gif"></td>
+
+<td>
+
+<h3>Previous editions of the CSRS</h3>
+<hr width=80%>
+
+<table>
+<tr><td><a href="2006/index.html">CSRS 2006</a></td></tr>
+<tr><td><a href="2007/index.html">CSRS 2007</a></td></tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body></html>
+
+
+
+
+ww.ci

@@ -1,0 +1,32 @@
+http://www.cs.dartmouth.edu/~cs105/Homework/hw.08.html
+3
+<html><head>
+<title>CS105 02F: Homework 8</title>
+</head><body>
+
+<h1>
+<a href="index.html">CS105 02F</a>:
+<a href="homework.html">Homework</a> 08
+</h1>
+<strong>Assigned:</strong>
+Friday, November 22, 2002<br>
+<strong>Due:</strong>
+Wednesday   December 4, 2002<br>
+
+<ol>
+<li> MR Exercise 8.4 (p. 203).  
+<li> MR Exercise 8.7 (p. 207)
+<li> MR Problem 8.1 (p. 229)  EXTRA CREDIT
+<li> MR Problem 8.6 (p. 230)  
+<li> CLRS 35-5 (p. 1051)
+<li> Devise a polynomial-time 3/2-approximation algorithm for the Traveling
+     Salesman Problem when the cost function satisfies the triangle 
+     inequality.  Hint - you may use the fact that you can find a minimum 
+     weight perfect matching on a complete graph with 2m vertices in time 
+     polynomial in m.
+</ol> 
+
+
+</body>
+</html>
+

@@ -1,0 +1,145 @@
+http://www.cs.dartmouth.edu/~sergey
+2
+<head><title>Sergey's modest homepage</title></head>
+
+<body bgcolor=white>
+<h2>Sergey Bratus</h2>
+
+<p>
+I am a <!-- Postdoctoral Research Associate --> Research Assistant
+Professor at the Computer Science Department at Dartmouth College. I
+am interested in all aspects of Unix security, in particular in Linux
+kernel security, detection and reverse engineering of malware
+(primarly kernel mode, Linux and Windows), and wireless networking.
+I am also interested in visualizations of computer security-related
+information. 
+
+<p>
+My other interests are in applications of Natural Language Processing 
+for better indexing, search and navigation of natural language documents.
+
+<h3>Projects</h3>
+<ul>
+  <li><a href="http://baffle.cs.dartmouth.edu/">Baffle</a> -- active 802.11 
+    behavioral fingerprinting.
+
+  <li><a href="http://kerf.cs.dartmouth.edu/">Kerf</a> -- 
+    data organization and machine learning techniques for smarter log and packet
+    capture browsing, analysis and sharing.
+
+  <li><a href="http://lzfuzz.cs.dartmouth.edu/">LZfuzz</a> -- 
+    a simple fuzzer for plain text proprietary protocols, such as 
+    those still found in SCADA systems. 
+  
+  <li><a href="http://windsock.cs.dartmouth.edu/">Windsock</a> -- 
+    networks monitoring sensors based on streaming estimation
+    of information-theoretic measures.
+
+  <li>While working on Kerf, I developed several
+      tools as side projects. A tool for visualizing and browsing 
+      Linux Snare and Solaris BSM system call traces 
+      is described 
+      <a href="http://kerf.cs.dartmouth.edu/files/syscalls.html">here</a>
+      (and is freely available upon request).
+</ul>  
+
+<h3>Teaching</h3>
+
+This Winter 09 I am teaching <a href="cs108/">CS 108, "Advanced Operating Systems"</a>, based
+on OpenSolaris, with some Linux kernel and general hacking thrown in.
+
+<p/>
+<hr width=30%>
+<p/>
+In Spring 05 I taught CS 38,
+<i>Computer Security and Privacy</i>. The class materials are here: 
+[<a href="http://althing.cs.dartmouth.edu/secref/">CS38 '05 local copy</a>]. 
+<p>
+<table align=center border=1 cellpadding=5 cellspacing=5><tr><td>
+My collection of security-related articles, tutorials and tools
+is <a href="http://althing.cs.dartmouth.edu/secref/resources/">here</a>.
+</td></tr></table>
+
+<h3>Hacking</h3>
+<p>
+Recently I published several articles in which I tried to describe
+some trends in the hacker learning experience (the so-called
+<i>"hacker curriculum"</i>) that distinguish it from the typical
+experiences of traditionally trained developers and CS students:
+<ul>
+  <li><a href="http://www2.computer.org/portal/web/computingnow/0808/theme/security">
+  What Hackers Learn that the Rest of Us Don't: Notes on Hacker Curriculum</a> 
+  [<a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2007.101">DOI</a>],
+  [<a href="http://www2.computer.org/cms/Computer.org/ComputingNow/homepage/0808/WhatHackersLearnThatTheRestOfUsDont.pdf">PDF</a>]
+  <br>
+  I hope to use these observations a basis for larger work on the "hacker
+  curriculum" and a <b>bibliography of influential hacker work</b>. You are 
+   welcome to send me comments on the  
+  <a href="hacker-methodology.pdf">[rough draft]</a>.
+
+  <li><a href="http://dsonline.computer.org/portal/pages/dsonline/2007/10/ox002edu.html">
+  Hacker Curriculum: How Hackers Learn Networking</a>
+
+  <li><a href="http://dsonline.computer.org/portal/pages/dsonline/2007/11/oy002edu.html">
+  Hacker Curriculum: How We Can Use It in Teaching</a>
+</ul>
+
+<p>
+Some of my "random" <a href="http://kerf.cs.dartmouth.edu/files/patches/">patches</a> to standard tools
+(Etherape, dsniff, fragrouter, tcpflow, tcpreplay, etc., see 
+ <a href="http://kerf.cs.dartmouth.edu/files/patches/README.txt">README</a>).   
+
+<h3>Personal</h3>
+
+<p>
+I received my undergraduate education at the 
+<i>Moscow Institute of Physics and Technology</i> (aka Moscow Phystech), 
+and my Ph.D. at <i>Northeastern University</i> (1999). 
+Before coming to Dartmouth I worked at <i>BBN Technologies</i> on
+statistical learning for text understanding and similar topics.
+
+<p>
+My old homepage is at <a href="http://www.ccs.neu.edu/home/sbratus/">
+http://www.ccs.neu.edu/home/sbratus/</a>. 
+
+<p> 
+My GPG <a href="dartmouth_pubkey.txt">public key</a>.
+<p>Local Dartmouth wikis: 
+  <a href="http://www.cs.dartmouth.edu/~sergey/twiki/">[SELinux]</a>
+<!--   <a href="http://althing.cs.dartmouth.edu/twiki/">[Upcoming network changes]</a> -- NO LONGER RELEVANT
+-->
+<p>
+<table><tr><td><a href="http://member.fsf.org"><img src="fsf_member.png" alt="[FSF Associate Member]" width="88" height="31" /></a></td><td> Please support the <a href="http://www.fsf.org">Free Software Foundation</a>, the people who brought us the GPL and are fighting to protect our freedom to write and change software.</td></tr>
+<tr><td>
+<a href="http://www.eff.org">
+<img src="http://w2.eff.org/campaigns/banners/button88x31.gif"
+width="88" height="31" alt="Join EFF Today"></a> 
+</td><td>
+Don't care to have your research squashed by
+an unscrupulous vendor's 
+<a href="http://www.eff.org/cases/online-policy-group-v-diebold">bogus
+copyright claims</a> or have <u>all</u> of your Internet traffic <a
+href="http://www.eff.org/press/archives/2007/11/05">mined and
+monitored</a> for undisclosed purposes? Please support the <a
+href="http://eff.org">Electronic Frontier Foundation</a>.
+</td></tr>
+</table>
+
+
+
+<!-- <a href="http://www.mipt.ru/eng/">Phystech's webpage</a> has too
+many references to its Soviet glories for my comfort, including a
+rather servile sounding reference to "the approval of Joseph Stalin
+himself". If, gentle reader, you are, like me, the type that looks for
+comments in HTML source, you may be interested to know that Phystech
+was founded with the explicit purpose of providing scientists for the
+Soviet nuclear and ballistic missiles efforts, started out under the
+direct supervision of Lavrentii Beria, the last in the line of
+Stalin's murderous secret police chiefs, and to this day its division
+into departments roughly corresponds to the major subsystems of an
+ICBM. While Phystech was run by and produced many excellent
+scientists, it was in no way an oasis of scientific freedom in the
+Soviet days.  --> 
+
+</body>
+           

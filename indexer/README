@@ -1,0 +1,32 @@
+By: Ricky A. Melgares '11
+
+The sources are arranged in the following directory:
+lab6/shared/
+	html.h html.c (HTML parsers, where getNextUrl() hides)
+	hash.h hash.c (hash functions)
+	
+/lab6/data/   (where the data output from the crawler is stores)
+	
+lab6/indexer/util (where the general purpose utilities file is located)
+	input.c input.h (file access and input processing utilities are located)
+
+lab6/indexer/src/
+	indexer.c (the main entry, the indexer main logic is here)
+	dictionary.h dictionary.c (contains index data structure library & related functions)
+	indexer_test.h (test script that tests crawler for arguments & equality of 
+	                original and re-created index)
+	Makefile (make file for compiling the indexer)
+	
+	==> To build the indexer
+	goto /lab6/indexer/src and type "make"
+
+	==> To run the indexer
+	ex) "./indexer ../../data index.dat"
+
+	==> To test the indexer
+	goto /lab6/indexer/src and type "./indexer_test.sh"
+	     This script will: 
+	     1 Test the argument checking of indexer.
+	     2 Test for an invalid specified directory.
+	     3 Test the termination of indexer.
+	     4 Compare the output of the index.dat file and the re-created indexR.dat file

@@ -1,0 +1,143 @@
+http://www.cs.dartmouth.edu/~jv
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Title      : Interlude
+Version    : 1.0
+Released   : 20080903
+Description: A multi-column, fixed-width design for 800x600 resolutions.
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Jason Vertrees, Phd</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!-- start header -->
+<div id="header">
+	<div id="logo">
+		<h1><a href="http://www.cs.dartmouth.edu/~jv">Jason Vertrees</a></h1>
+		<p><a href="http://www.cs.dartmouth.edu/~jv">Postdoctoral Research Fellow in Computational Biology</a></p>
+	</div>
+</div>
+<hr />
+<!-- end header -->
+<!-- start page -->
+<div id="wrapper">
+	<div id="page">
+		<!-- start content -->
+		<div id="content">
+			<div class="post">
+				<p class="date">October<b>9</b></p>
+				<h2 class="title">Welcome</h2>
+				<p class="meta"><small>`whoami` | present research | past research | pymol &amp; PyMOLWiki</small></p>
+				<div class="entry">
+					<h4>`whoami`</h4>
+					<p>
+						I am a postdoctoral researcher working with <a href="">Simon Kasif</a> at <a href="http://www.bu.edu/">BU</a> and <a href="http://www.cs.dartmouth.edu/~cbk/">Chris Bailey-Kellogg</a> here at <a href="http://www.dartmouth.edu">Dartmouth College</a>.  In May, 2008, I completed my PhD in theoretical biophysics.  My dissertation supervisor was <a href="http://http://www.hbcg.utmb.edu/hilser/index.htm/">Vincent Hilser</a>.
+					</p>
+
+					<h4>Current Research</h4>
+					<p>
+					I am presently using machine learning to determine if we can predict protein function from small molecule docking experiments.  This is a new project.
+					</p>
+
+					<h4>Past Research</h4>
+					<p>
+					My previous research focused on the nature the protein fold through a statistical thermodynamic model. Biologists are well aware that proteins are highly dynamic macromolecules. Proteins are not static structures&#8212;they're dynamic species sampling a huge array of conformational states. We augmented current methods and produced new knowledge about proteins by considering them in this manner. For more information see <a href="http://www.hbcg.utmb.edu/hilser/publications.htm">Dr. Hilser's Publications</a> or <a href="">my dissertation</a>.
+					</p>
+
+					<h4>PyMOL &amp; The PyMOLWiki</h4>
+					<p>
+					I also spend a fair amount of my time working with the open-source molecular visualization program, <a href="http://www.pymol.org/">PyMOL</a> and the PyMOL support &amp; documentation site I run, the <a href="http://www.pymolwiki.org/">PyMOLWiki</a>.  (The image in the title bar at the top of this page is DNA &amp; was created in <a href="http://www.pymol.org/">PyMOL</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+		<!-- end content -->
+		<!-- start sidebar -->
+		<div id="sidebar">
+			<ul>
+				<li id="categories">
+					<h2>Other Stuff</h2>
+					<ul>
+						<li><a href="media/Jason_Vertrees_CV.pdf">Curriculum Vitae</a> [pdf]</li>
+						<li><a href="media/Jason_Vertrees_Dissertation.pdf">Disseration</a> [pdf: 13 MB]</li>
+					</ul>
+					<h2>Coding Notes</h2>
+					<ul>
+						<li><a href="ajax_binary_embedded_data.html">AJAX &amp; Embedded Binary Data</a></li>
+					</ul>
+					<h2>Contact</h2>
+					<ul>
+						<li>
+							<p class="info">Jason Vertrees, PhD<br />6211 Sudikoff Laboratory<br />Room #252<br />Hanover, NH 03755</p>
+							<p class="info">jv _@_ cs dot dartmouth _dot_ edu</p>
+							<p class="info">(603) 646.8724</p>
+						</li>
+					</ul>
+				</li>
+			
+			<img src="me.jpg" style="border: 0; float: right"/>
+
+		</div>
+		<!-- end sidebar -->
+		<br style="clear: both;" />
+	</div>
+</div>
+<!-- end page -->
+<!-- start footer -->
+<div id="wrapper2">
+	<div id="footer">
+		<ul>
+			<li class="first">
+				<h2>Research</h2>
+				<ul>
+					<li><a href="http://en.wikipedia.org/wiki/Protein">Proteins</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Computational_biology">Computational Biology</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Protein_docking">Protein Docking</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Statistical_thermodynamics">Statistical Thermodynamics</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Statistics">Statistics</a></li>
+				</ul>
+			</li>
+			<li>
+				<h2>Cool Things</h2>
+				<ul>
+					<li><a href="http://en.wikipedia.org/wiki/Machu_Picchu">Machu Picchu, Peru</a></li>
+					<li><a href="http://www.railtrails.org/index.html">Rail Trails</a></li>
+					<li><a href="http://www.usatriathlon.org/">Triathlon/Duathlon</a></li>
+					<li><a href="http://www.freechess.org/">Chess</a></li>
+					<li><a href="http://www.dogfish.com/">Dogfish Head Brewery</a></li>
+				</ul>
+			</li>
+			<li>
+				<h2>Stuff to Know</h2>
+				<ul>
+					<li><a href="http://www.latex-project.org/">LaTeX</a></li>
+					<li><a href="http://www.linux.org/">Linux</a></li>
+					<li><a href="http://www.r-project.org/">The R Project</a></li>
+					<li><a href="http://www.pymol.org/">PyMOL</a></li>
+					<li><a href="http://tldp.org/LDP/abs/html/">BASH</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Object-oriented_programming"></a>OOP</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<p id="legal"> &copy;2007 Interlude. All Rights Reserved.
+		&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+		Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+		Icons by <a href="http://famfamfam.com/">FAMFAMFAM</a>.	<a href="http://validator.w3.org/check/referer" class="xhtml" title="This page validates as XHTML">Valid <abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="http://jigsaw.w3.org/css-validator/check/referer" class="css" title="This page validates as CSS">Valid <abbr title="Cascading Style Sheets">CSS</abbr></a> </p>
+</div>
+<!-- end footer -->
+</body>
+</html>

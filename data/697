@@ -1,0 +1,67 @@
+http://www.cs.dartmouth.edu/~cs58/purpose
+3
+<html> <head>
+<title>CS58: Purpose of Course</title>
+</head>
+ 
+<body>
+
+
+<h2> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/images/Dtree.gif" ALT=""> 
+
+Purpose of Course
+<br> 
+ CS58, Operating Systems, Fall 2008
+</h2> 
+<i> www.cs.dartmouth.edu/~cs58/purpose/index.shtml</i> 
+ &nbsp;&nbsp;&nbsp; 
+ 
+<i> Last modified: Monday, 28-Aug-2006 10:14:25 EDT</i> 
+ 
+<hr> 
+ 
+<p> 
+ 
+<p>
+
+
+The purpose of this course is to teach you about operating systems:
+the stuff that lies between
+<ul>
+<li> the basic hardware
+<li> and what you "see" when you use or program a machine.
+</ul>
+This "stuff" includes:
+<ul>
+<li> the abstractions that comprise what you "see"
+<li> the goals that drive the design of these abstractions
+<li> what these abstractions look like from the <strong>outside</strong>
+<li> what these abstractions look like from the <strong>inside</strong>
+<li> ...and how this all works (or fails to work) as hardware and usage
+paradigms evolve
+</ul>
+<p>
+I hope you learn a lot, and have fun too.
+Systems is a great area: you can prove theorems,
+you can get your hands dirty with hardware...and do everything
+in between.  
+
+
+<p> 
+ 
+<hr> 
+<b> 
+<IMG ALIGN="left" SRC="http://www.cs.dartmouth.edu/icons/back.gif"> 
+
+<A HREF="/~cs58/"><b>Back to CS58 Home Page</b></A>
+</b> 
+&nbsp;&nbsp;&nbsp; 
+<a href="http://www.cs.dartmouth.edu/~sws/"><b>Sean Smith</b></a> 
+&nbsp;&nbsp;&nbsp; 
+&lt; <a href="mailto:sws@cs.dartmouth.edu"><b>sws@cs.dartmouth.edu</b></a>&gt; 
+ 
+ 
+ 
+
+</body> </html>

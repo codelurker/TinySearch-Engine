@@ -1,0 +1,70 @@
+http://www.cs.dartmouth.edu/~whwang/papers/bibtex.html#zhang_wang05
+3
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Weihong Wang: Bibtex</title>
+</head>
+
+<PRE>
+<a name="wang_farid08"></a>
+@INPROCEEDINGS{wang-farid08,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Detecting Re-Projected Video",
+	BOOKTITLE = "10th International Workshop on Information Hiding",
+	YEAR      = "2008",
+	ADDRESS   = "Santa Barbara, CA",
+}
+
+<a name="wang_farid07"></a>
+@ARTICLE{wang-farid07,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Exposing Digital Forgeries in Interlaced and De-Interlaced Video",
+	JOURNAL   = "IEEE Transactions on Information Forensics and Security",
+	NUMBER    = "2",
+	VOLUME    = "3",
+	PAGES     = "438-449",
+	YEAR      = "2007",
+}
+
+<a name="wang_farid07_2"></a>
+@INPROCEEDINGS{wang-farid07-2,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Exposing Digital Forgeries in Video by Detecting Duplication",
+	BOOKTITLE = "ACM Multimedia and Security Workshop",
+	YEAR      = "2007",
+	ADDRESS   = "Dallas, TX",
+}
+
+<a name="wang_farid06"></a>
+@INPROCEEDINGS{wang-farid06,
+	AUTHOR    = "W. Wang and H. Farid",
+	TITLE     = "Exposing Digital Forgeries in Video by Detecting Double \protect{MPEG} Compression",
+	BOOKTITLE = "ACM Multimedia and Security Workshop",
+	YEAR      = "2006",
+	ADDRESS   = "Geneva, Switzerland",
+}
+
+<a name="zhang_wang06"></a>
+@inproceedings{zhang_wang06,
+	AUTHOR    = "Sheng Zhang and Weihong Wang and James Ford and Fillia Makedon",
+	TITLE     = "Learning from Incomplete Ratings Using Non-negative Matrix Factorization",
+	BOOKTITLE = "SIAM International Conference on Data Mining",
+	YEAR      = "2006",
+	ADDRESS   = "Bethesda, MD",
+}
+
+<a name="zhang_wang05"></a>
+@inproceedings{zhang_wang05,
+	AUTHOR    = "Sheng Zhang and Weihong Wang and James Ford and Fillia Makedon and Justin Pearlman",
+	TITLE     = "Using Singular Value Decomposition Approximation for Collaborative Filtering",
+	BOOKTITLE = "7th IEEE International Conference on E-Commerce Technology",
+	YEAR      = "2005",
+	ADDRESS   = "Munich, Germany",
+ }
+
+
+</html>
+i

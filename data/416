@@ -1,0 +1,29 @@
+http://www.cs.dartmouth.edu/~wbc/planetlab.html
+3
+<ul>
+<li>
+planetlab1 and planetlab2  are linux computers (that don't get the
+Beagle virus) but do run CoDeeN, a proxy server experiment.
+(CoDeeN does log all transactions!  It is not anonymous)
+The planetlab project is based at Princeton, and is a testbed
+for experimenting and developing the internet of the future.
+<li>
+you can read about PlanetLab here.
+<a href="http://www.planet-lab.org/"> http://www.planet-lab.org/ </a>
+<li>
+and about virus complaints here..
+<a href="http://www.planet-lab.org/doc/guides/tech">
+http://www.planet-lab.org/doc/guides/tech  section 5.1 </a>
+<li>
+you can read about CoDeeN here..
+<a href="http://codeen.cs.princeton.edu/">
+http://codeen.cs.princeton.edu/</a>
+<li>
+if you wish to register a complaint you can email.
+support@planet-lab.org
+<li>
+David Kotz (dfk AT cs DOT dartmouth DOT edu) is the Dartmouth PI for the
+PlanetLab project.
+
+</ul>
+

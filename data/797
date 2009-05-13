@@ -1,0 +1,537 @@
+http://www.cs.dartmouth.edu/~fabio/publications.html#lod05
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content="HTML Tidy for Mac OS X (vers 2 April 2007), see www.w3.org" />
+
+  <title>Fabio Pellacini&#39;s Homepage</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+  <table class="header">
+  <tr>
+    <td class="img">
+    <img src="photo-small.jpg" alt="" />
+    </td>
+
+    <td class="headercontent">
+    <div class="headercontent">
+      <h1>Fabio Pellacini</h1>
+      
+      <div class="affiliation">
+        <h2>Assistant Professor</h2>
+        <h3>Computer Science, Dartmouth College</h3>
+      </div>
+      
+      <div class="contact">
+        <p>6211 Sudikoff Lab, Hanover, NH 03755</p>
+        <p>tel: (603) 646 - 8710 | fax: (603) 646 - 1672</p>
+        <p>fabio -at- cs -dot- dartmouth -dot- edu</p>
+      </div>
+    </div>
+    </td>
+
+    <td class="hnav">
+    <div class="hnav">
+      <h2 class="navitem"><a href="index.html">about</a></h2>
+      <h2 class="navitem"><a href="research.html">research</a></h2>
+      <h2 class="navitem" id="navitemcurrent"><a href="publications.html" id="navitemcurrent">publications</a></h2>
+      <h2 class="navitem"><a href="teaching.html">teaching</a></h2>
+      <h2 class="navitem"><a href="cv.pdf">cv</a></h2>
+    </div>
+    </td>
+  </tr>
+  </table>
+
+  
+  <div class="content">
+  
+  	<div class="contentblock">
+		<h2>SIGGRAPH and Tog (leading Journal Articles)</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem" id="cuts08">
+			<td class="itemnote"><img src="papers/cuts08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/cuts08.pdf">Fast, Realistic Lighting and Material Design using Nonlinear Cut Approximation</a></h3>
+			  <p>E. Cheslack-Postava, R. Wang, O. Akerlund, F. Pellacini.</p>
+			  <p>SIGGRAPH Asia 2008, in ACM Transactions on Graphics, 2008.</p>
+			  <p><a href="papers/cuts08.pdf">paper</a> | <a href="papers/cuts08.mov">video</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="appProp08">
+			<td class="itemnote"><img src="papers/appprop08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/appprop08.pdf">AppProp: All-Pairs Appearance-Space Edit Propagation</a></h3>
+			  <p>X. An, F. Pellacini.</p>
+			  <p>SIGGRAPH 2008, in ACM Transactions on Graphics, 2008.</p>
+			  <p><a href="papers/appprop08.pdf">paper</a> | <a href="papers/appprop08.mov">video</a> | <a href=
+			  "papers/appprop08.zip">additional material</a> | <a href="papers/appprop08.ppt.zip">talk</a> | 
+			  <a href="papers/appprop08.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="appWand07">
+			<td class="itemnote"><img src="papers/appwand07.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/appwand07.pdf">AppWand: Editing Measured Materials using Appearance-Driven
+			  Optimization</a></h3>
+			  <p>F. Pellacini, J. Lawrence.</p>
+			  <p>SIGGRAPH 2007, in ACM Transactions on Graphics, 2007.</p>
+			  <p><a href="papers/appwand07.pdf">paper</a> | <a href="papers/appwand07.mov">video</a> | <a href=
+			  "papers/appwand07.ppt.zip">talk</a> | <a href="papers/appwand07.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="mxsmp07">
+			<td class="itemnote"><img src="papers/mxsmp07.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/mxsmp07.pdf">Matrix Row-Column Sampling for the Many Light Problem</a></h3>
+			  <p>M. Hasan, F. Pellacini, K. Bala.</p>
+			  <p>SIGGRAPH 2007, in ACM Transactions on Graphics, 2007.</p>
+			  <p><a href="papers/mxsmp07.pdf">paper</a> | <a href="papers/mxsmp07.ppt.zip">talk</a> | <a href=
+			  "papers/mxsmp07.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="lightPaint07">
+			<td class="itemnote"><img src="papers/lpaint07.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Lighting with Paint</h3>
+			  <p>F. Pellacini, F. Battaglia, K. Morley, A. Finkelstein.</p>
+			  <p>ACM Transactions on Graphics, 2007.</p>
+			  <p><a href="papers/lpaint07.pdf">paper</a> | <a href="papers/lpaint07.avi">video</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="dti06">
+			<td class="itemnote"><img src="papers/dti06.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/dti06.pdf">Direct-to-Indirect Transfer for Cinematic Relighting</a></h3>
+			  <p>M. Hasan, F. Pellacini, K. Bala.</p>
+			  <p>SIGGRAPH 2006, in ACM Transactions on Graphics, 2006.</p>
+			  <p><a href="papers/dti06.pdf">paper</a> | <a href="papers/dti06.mov">video</a> | <a href=
+			  "papers/dti06.ppt.zip">talk</a> | <a href="papers/dti06.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="lod05">
+			<td class="itemnote"><img src="papers/lod05.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/lod05.pdf">User-Configurable Automatic Shader Simplification</a></h3>
+			  <p>F. Pellacini.</p>
+			  <p>SIGGRAPH 2005, in ACM Transaction on Graphics, 2005.</p>
+			  <p><a href="papers/lod05.pdf">paper</a> | <a href="papers/lod05.ppt.zip">talk</a> | <a href=
+			  "papers/lod05.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="lpics05">
+			<td class="itemnote"><img src="papers/lpics05.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/lpics05.pdf">Lpics: a Hybrid Hardware-Accelerated Relighting Engine for Computer
+			  Cinematography</a></h3>
+			  <p>F. Pellacini, K. Vidimce, A. Lefohn, A. Mohr, M. Leone, J. Warren.</p>
+			  <p>SIGGRAPH 2005, in ACM Transactions on Graphics, 2005.</p>
+			  <p><a href="papers/lpics05.pdf">paper</a> | <a href="papers/lpics05.mp4">video</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="decisionTheory03">
+			<td class="itemnote"><img src="papers/decisionTheory03.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/decisionTheory03.pdf">Perceptually-Driven Decision Theory for Interactive Realistic
+			  Rendering</a></h3>
+			  <p>R. Dumont, F. Pellacini, J. Ferwerda.</p>
+			  <p>ACM Transactions on Graphics, 2003.</p>
+			  <p><a href="papers/decisionTheory03.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="shadowUI02">
+			<td class="itemnote"><img src="papers/shadowUI02.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/shadowUI02.pdf">A User Interface for Interactive Cinematic Shadow Design</a></h3>
+			  <p>F. Pellacini, P. Tole, D. Greenberg.</p>
+			  <p>SIGGRAPH 2002, in ACM Transactions on Graphics, 2002.</p>
+			  <p><a href="papers/shadowUI02.pdf">paper</a> | <a href="papers/shadowUI02.mov">video 1</a> | <a href=
+			  "papers/shadowUI02.extra.mov">video 2</a> | <a href="papers/shadowUI02.ppt.zip">talk</a> | <a href=
+			  "papers/shadowUI02.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="igids02">
+			<td class="itemnote"><img src="papers/igids02.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/igids02.pdf">Interactive Global Illumination in Dynamic Scenes</a></h3>
+			  <p>P. Tole, F. Pellacini, B. Walter, D. Greenberg.</p>
+			  <p>SIGGRAPH 2002, in ACM Transactions on Graphics, 2002.</p>
+			  <p><a href="papers/igids02.pdf">paper</a> | <a href="papers/igids02.mov">video</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="jim02">
+			<td class="itemnote"><img src="papers/mosaics02.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/mosaics02.pdf">Jigsaw Image Mosaics</a></h3>
+			  <p>Junhwan Kim, F. Pellacini.</p>
+			  <p>SIGGRAPH 2002, in ACM Transactions on Graphics, 2002.</p>
+			  <p>Results appeared in Computer Graphics World, 2003.</p>
+			  <p><a href="papers/mosaics02.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="gloss00">
+			<td class="itemnote"><img src="papers/gloss00.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/gloss00.pdf">Toward a Psychophysically-based Light Reflection model for Image
+			  Synthesis</a></h3>
+			  <p>F. Pellacini, J. Ferwerda, D. Greenberg.</p>
+			  <p>SIGGRAPH 2000.</p>
+			  <p>Results appeared in Computer Graphics World, October 2001.</p>
+			  <p><a href="papers/gloss00.pdf">paper</a> | <a href="papers/gloss00.ppt.zip">talk</a> | <a href=
+			  "papers/gloss00.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+
+  	<div class="contentblock">
+		<h2>Journal Articles</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem" id="temporal08">
+			<td class="itemnote"><img src="papers/temporal08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/temporal08.pdf">Tensor Clustering for Rendering Many-Light Animations</a></h3>
+			  <p>M. Hasan, E. Velazquez-Armendariz, F. Pellacini, K. Bala.</p>
+			  <p>Computer Graphics Forum (Eurographics Symposium on Rendering), 2008.</p>
+			  <p><a href="papers/temporal08.pdf">paper</a> | <a href="papers/temporal08.mp4">video</a> | <a href=
+			  "papers/temporal08a.mp4">video 1 (comparison)</a> | <a href="papers/temporal08b.mp4">video 2 (error)</a> | 
+			  <a href="papers/temporal08.ppt">talk</a> | <a href="papers/temporal08.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="icheat08">
+			<td class="itemnote"><img src="papers/icheat08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/icheat08.pdf">iCheat: A Representation for Artistic Control of Indirect Cinematic
+			  Lighting</a></h3>
+			  <p>J. Obert, J. Krivanec, F. Pellacini, D. Sykora, S. Pattanaik.</p>
+			  <p>Computer Graphics Forum (Eurographics Symposium on Rendering), 2008.</p>
+			  <p><a href="papers/icheat08.pdf">paper</a> | <a href="papers/icheat08a.mov">video 1</a> | <a href=
+			  "papers/icheat08b.mov">video 2</a> | <a href="papers/icheat08.ppt.zip">talk</a> | 
+			  <a href="papers/icheat08.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="eyeTrack08">
+			<td class="itemnote"><img src="papers/eyetrack08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/eyeTrack08.pdf">Eye Tracking and Online Search: Lessons Learned and Challenges Ahead</a></h3>
+			  <p>L. Lorigo, M. Haridasan, H. Brynjarsd&#209;ttir, L. Xia, L. Granka, F. Pellacini, B. Pan, T. Joachims, G.
+			  Gay.</p>
+			  <p>Journal of the American Society for Information Science and Technology (JASIST), 2008.</p>
+			  <p><a href="papers/eyeTrack08.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="collabvis07">
+			<td class="itemnote"><img src="papers/collabvis07.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/collabvis07.pdf">Frequency and Structure of Long Distance Scholarly Collaborations in a
+			  Physics Community</a></h3>
+			  <p>L. Lorigo, F. Pellacini.</p>
+			  <p>Journal of the American Society for Information Science and Technology (JASIST), 2007.</p>
+			  <p><a href="papers/collabvis07.pdf">paper</a></p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+	
+	<div class="contentblock">
+		<h2>Conference Proceedings</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem" id="secvis08">
+			<td class="itemnote"><img src="papers/secvis08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/secvis08.pdf">Backhoe, a Packet Trace and Log Browser</a></h3>
+			  <p>S. Bratus, A. Hansen, F. Pellacini, A. Shubina.</p>
+			  <p>Workshop for Visualization for Cyber Security (VizSEC), 2008.</p>
+			  <p><a href="papers/secvis08.pdf">paper</a> | <a href="papers/secvis08.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+		  
+		  <tr class="pubitem" id="hybrid05">
+			<td class="itemnote"><img src="papers/hybrid05.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/hybrid05.pdf">A Hybrid Monte Carlo Method for Accurate and Efficient Subsurface
+			  Scattering</a></h3>
+			  <p>H. Li, F. Pellacini, K. Torrance.</p>
+			  <p>Eurographics Symposium on Rendering, 2005.</p>
+			  <p><a href="papers/hybrid05.pdf">paper</a> | <a href="papers/hybrid05.ppt">talk</a> | <a href=
+			  "papers/hybrid05.ppt.pdf">talk pdf</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="fdp03">
+			<td class="itemnote"><img src="papers/fdp03.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/fdp03.pdf">Functional Difference Predictors (FDPs): measuring meaningful image
+			  differences</a></h3>
+			  <p>J. Ferwerda, F. Pellacini.</p>
+			  <p>Asilomar Conference on Signals, Systems, and Computers, 2003.</p>
+			  <p><a href="papers/fdp03.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="textures01">
+			<td class="itemnote"><img src="papers/textures01.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/textures01.pdf">Perceptually-based texture caching for hardware rendering</a></h3>
+			  <p>R. Dumont, F. Pellacini, J. Ferwerda.</p>
+			  <p>Eurographics Workshop on Rendering, 2001.</p>
+			  <p><a href="papers/textures01.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem" id="gloss01">
+			<td class="itemnote"><img src="papers/gloss01.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/gloss01.pdf">A Psychophysically-Based Model of Surface Gloss Perception</a></h3>
+			  <p>J. Ferwerda, F. Pellacini, D. Greenberg.</p>
+			  <p>Human vision and electronic imaging VI, 2001.</p>
+			  <p><a href="papers/gloss01.pdf">paper</a></p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+
+	<div class="contentblock">
+		<h2>Patents</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem" id="lpicsp08">
+			<td class="itemnote"><img src="papers/lpics05.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/lpics05.pdf">Hybrid Hardware-Accelerated Relighting System for Computer Cinematography</a></h3>
+			  <p>F. Pellacini, K. Vidimce, A. Mohr.</p>
+			  <p>U.S. Patent 7,427,986, 2005.</p>
+			  <p><a href="papers/lpics05.pdf">referred paper</a></p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+	
+	<div class="contentblock">
+		<h2>Book chapters</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/gems07.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Interactive Cinematic Relighting with Global Illumination</h3>
+			  <p>F. Pellacini, M. Hasan, K. Bala.</p>
+			  <p>Hubert Nguyen ed., GPU Gems 3, 2007.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/gems03.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>A Lighting Model for Cinematic Lighting using Cg</h3>
+			  <p>F. Pellacini, K. Vidimce.</p>
+			  <p>Randima Fernardo ed., GPU Gems, 2004.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/gems03.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Shadow Map Antialiasing</h3>
+			  <p>M. Bunnell, F. Pellacini.</p>
+			  <p>Randima Fernardo ed., GPU Gems, 2004.</p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+
+	<div class="contentblock">
+		<h2>Refereed Courses</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="icons/courses-gpu08.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Interactive Cinematic Lighting</h3>
+			  <p>F. Pellacini.</p>
+			  <p>In Beyond Programmable Shading: In Action, SIGGRAPH 2008 Course, 2008.</p>
+			  <p><a href="http://s08.idav.ucdavis.edu/">notes</a></p>
+			</td>
+		  </tr>
+		
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="icons/courses-gpu06.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Interactive Cinematic Shading</h3>
+			  <p>F. Pellacini.</p>
+			  <p>In GPU Shading and Rendering, SIGGRAPH 2006 Course, 2006.</p>
+			  <p><a href="http://www.csee.umbc.edu/~olano/s2006c03/">notes</a></p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+	
+	<div class="contentblock">
+		<h2>Tech Reports</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/tr-lreduce07.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/tr-lreduce07.pdf">Light-Based Sample Reduction Methods for Interactive
+			  Relighting</a></h3>
+			  <p>W. Kerr, F. Pellacini.</p>
+			  <p>Dartmouth CS TechReport, TR2007-600, 2007.</p>
+			  <p><a href="papers/tr-lreduce07.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/tr-pathvis06.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/tr-pathvis06.pdf">Visualizing Paths in Context</a></h3>
+			  <p>F. Pellacini, L. Lorigo, G. Gay.</p>
+			  <p>Dartmouth CS TechReport, TR2006-580, 2006.</p>
+			  <p><a href="papers/tr-pathvis06.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/tr-irelight05.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/tr-irelight05.pdf">Real-time Hardware-accelerated Relighting with Approximate Indirect
+			  Illumination</a></h3>
+			  <p>M. Hasan, F. Pellacini, K. Bala.</p>
+			  <p>Cornell CIS TechReport, TR2005-1999, 2005.</p>
+			  <p><a href="papers/tr-irelight05.pdf">paper</a></p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/tr-vhybrid05.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3><a href="papers/tr-vhybrid05.pdf">Validation of the numerical accuracy and efficiency of the hybrid
+			  method.</a></h3>
+			  <p>H. Li, F. Pellacini, K. Torrance, and D. Karle.</p>
+			  <p>Cornell PCG TechReport, PCG05-04, 2005.</p>
+			  <p><a href="papers/tr-irelight05.pdf">paper</a></p>
+			</td>
+		  </tr>
+		</table>
+	</div>
+
+	<div class="contentblock">
+		<h2>Physics publications</h2>
+	
+		<table class="itemblock">
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/physics1.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Influence of stress and defects on the silicon-terminated SiC(001) surface structure</h3>
+			  <p>A. Catellani, G. Galli, F. Gygi, F. Pellacini.</p>
+			  <p>Phys. Rev. B, 1998.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/physics2.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>STM images of ab-initio molecular dynamics simulated cubic SiC(001) surfaces</h3>
+			  <p>F. Pellacini, A. Catellani, G. Galli, F. Gygi.</p>
+			  <p>National Conference on Theoretical and Solid State Physics, 1997.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/physics1.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Influence of growth and preparation condition on the reconstruction of SiC(001) surfaces: a first
+			  principles study</h3>
+			  <p>A. Catellani, G. Galli, F. Gygi, F. Pellacini.</p>
+			  <p>1997 Fall Meeting of Material Research Society, 1997.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/physics2.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Reconstruction and thermal stability of cubic SiC(001) surfaces</h3>
+			  <p>A. Catellani, G. Galli, F. Gygi, F. Pellacini.ICSIII-N 1997.</p>
+			</td>
+		  </tr>
+	
+		  <tr class="pubitem">
+			<td class="itemnote"><img src="papers/physics1.jpg" alt="" /></td>
+	
+			<td class="itemcontent">
+			  <h3>Reconstruction and thermal stability of cubic SiC(001) surfaces</h3>
+			  
+			  <p>A. Catellani, G. Galli, F. Gygi, F. Pellacini.</p>
+			  <p>6th International Conference on Formation of Semiconductor Interfaces, 1997.</p>
+			</td>
+		  </tr>
+		</table>
+		
+    </div>
+  </div>
+
+<!-- google analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script>
+<script type="text/javascript"> _uacct = "UA-787336-1"; urchinTracker(); </script>
+
+</body>
+</html>
+,L.Grani

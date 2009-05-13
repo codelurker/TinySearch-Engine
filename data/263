@@ -1,0 +1,274 @@
+http://www.cs.dartmouth.edu/~cs25/journal.html
+3
+<html> <head>
+<title>Computer Science 25, Fall 2008 Journal</title>
+</head>
+
+<body bgcolor=#ffffff>
+<h1>Journal: CS 25 Fall 2008 </h1>
+
+<p>
+In the following, "CLRS" indicates readings from <i>Introduction to Algorithms</i>,
+Second edition, by Cormen, Leiserson, Rivest, and Stein.
+<p>
+
+<h3>Jump to <a href="#week10">this week</a></h3>
+<p>
+<hr>
+<p>
+
+<a name="week2"><strong>Week 1</strong></a>
+
+<dl>
+  <dt> Wednesday, September 24:
+  <dd> Examples to motivate algorithm design.
+  <dd> Reading: CLRS Chapters 1, 2
+
+  <dt> Thursday, September 25, X-hour:
+  <dd> <a href="info.html">Course Information</a>.
+  <dd> Review of asymptotic notation
+  <dd> Reading CLRS: Skim Chapter 3, Appendix A.
+
+  <dt> Friday, September 26:
+  <dd> Review of asymptotic notation continued
+  <dd> Proof that log n! = Theta(n logn)
+  <dd> How recurrences arise in algorithms analysis: example of MergeSort
+  <dd> CLRS: Chapter 4.3
+</dl>
+
+<a name="week2"><strong>Week 2</strong></a>
+<dl>
+  <dt> Monday, September 29:
+  <dd> How recurrences arise in algorithms analysis: example of Matrix multiplication
+  <dd> Master theorem with examples
+  <dd> CLRS: Chapter 4.3
+
+  <dt> Wednesday, October 1:
+  <dd> Substitution proofs
+  <dd> Substitution proofs: strengthening induction hypothesis
+  <dd> CLRS: Chapter 4.1
+  <dd> <em><a href="homework/hw1.html">Homework 1</a> out.</em>
+
+  <dt> Thursday, October 2, X-hour:
+  <dd> Recursion trees
+  <dd> CLRS: Chapter 4.2
+
+  <dt> Friday, October 3:
+  <dd> Lower bound for comparison based sorting
+  <dd> Counting sort
+  <dd> CLRS: Chapter 8.1, 8.2
+</dl>
+
+<a name="week3"><strong>Week 3</strong></a>
+<dl>
+  <dt> Monday, October 6:
+  <dd> Counting sort 
+  <dd> Radix Sort
+  <dd> CLRS: Chapter 8.2, 8.3
+
+  <dt> Wednesday, October 8:
+  <dd> Partition algorithm (version we did in class is finer than 
+       the one in Section 7.1 of the book)
+  <dd> Selection algorithm
+  <dd> CLRS: 7.1, 9.3
+  <dd> <em><a href="homework/hw2.html">Homework 2</a> out.</em>
+
+  <dt> Thursday, October 9, X-hour:
+  <dd> Selection algorithm completed
+  <dd> CLRS: 9.3
+
+  <dt> Friday, October 10:
+  <dd> Review of Binary Search Trees
+  <dd> CLRS: 12.1-12.3
+
+</dl>
+
+<a name="week4"><strong>Week 4</strong></a>
+<dl>
+  <dt> Monday, October 13:
+  <dd> Red-Black Trees
+  <dd> CLRS: 13.1-13.2
+
+  <dt> Wednesday, October 15:
+  <dd> Insertion in Redblack Trees
+  <dd> CLRS: 13.3, skim 13.4
+  <dd> <em><a href="homework/hw3.html">Homework 3</a> out.</em>
+
+  <dt> Thursday, October 16, X-hour:
+  <dd> Deletion in Red-Black Trees
+  <dd> CLRS: 13.4
+  
+  <dt> Friday, October 17:
+  <dd> Augmenting for order-statistics
+  <dd> A general theorem for augmenting red-black trees
+  <dd> CLRS: 14.1-14.2
+</dl>
+
+<a name="week5"><strong>Week 5</strong></a>
+<dl>
+  <dt> Monday, October 20:
+  <dd> Interval trees
+  <dd> CLRS: 14.3
+  <dd> Dynamic Programming: Assembly line scheduling
+  <dd> CLRS: 15.1
+
+  <dt> Wednesday, October 22:
+  <dd> Dynamic Programming: Assembly line scheduling
+  <dd> CLRS: 15.1
+  <dd> <em><a href="homework/hw4.html">Homework 4</a> out.</em>
+
+  <dt> Thursday, October 23, X-hour:
+  <dd> Least Common Subsequence (LCS) Problem
+  <dd> CLRS: 15.4
+
+  <dt> Friday, October 24:
+  <dd> Matrix chain multiplication problem
+  <dd> CLRS: 15.2, 15.3 
+</dl>
+
+<a name="week6"><strong>Week 6</strong></a>
+<dl>
+  <dt> Monday, October 27:
+  <dd> Matrix chain multiplication problem completed
+  <dd> Activity selection problem: dynamic programming 
+  <dd> CLRS: 16.1
+
+  <dt> Wednesday, October 29:
+  <dd> Activity selection problem: greedy solution
+  <dd> Fractional and 0-1 Knapsack problem
+  <dd> CLRS: 16.1, 16.2
+  <dd> <em><a href="homework/midterm.pdf">Midterm (pdf file)</a> out.</em>
+
+  <dt> Thursday, October 30, X-hour
+  <dd> Amortized analysis: Aggregate method and Accounting method
+  <dd> CLRS: 17.1
+  
+  <dt> Friday, October 31:
+  <dd> Accounting method
+  <dd> Potential method: the ideas
+  <dd> CLRS: 17.2-17.3
+</dl>
+
+<a name="week7"><strong>Week 7</strong></a>
+<dl>
+  <dt> Monday, November 3
+  <dd> Potential method: application to multi-stack and binary counter
+  <dd> CLRS: 17.3
+
+  <dt> Wednesday, November 5:
+  <dd> Potential, accounting, and aggregate methods: Dynamic table that only expands
+  <dd> CLRS: 17.4
+  <dd> <em><a href="homework/hw5.html">HW 5</a> out.</em>
+
+  <dt> Thursday, November 6, X-hour:
+  <dd> Potential method: Dynamic table that expands and contracts
+  <dd> Specification of Disjoint sets data structure
+  <dd> CLRS: Chapter 17.4, 21.2
+
+  <dt> Friday, November 7, X-hour
+  <dd> Implementing Disjoint sets data structure
+  <dd> CLRS: Chapter 21.2
+</dl>
+
+<a name="week8"><strong>Week 8</strong></a>
+<dl>
+  <dt> Monday, November 10:
+  <dd> Disjoint sets data structure (representation as a forest)
+  <dd> Representation of graphs
+  <dd> CLRS: 21.3, 22.1
+
+  <dt> Wednesday, November 12:
+  <dd> Representation of graphs
+  <dd> breadth-first-search
+  <dd> depth-first-search
+  <dd> CLRS: 22.2-22.3
+  <dd> <em><a href="homework/hw6.html">HW 6</a> out.</em>
+
+  <dt> Thursday, November 13, X-hour
+  <dd> depth-first search and its properties
+  <dd> CLRS: 22.3
+
+  <dt> Friday, November 14:
+  <dd> Topological Sort
+  <dd> CLRS: 22.4
+</dl>
+
+<a name="week9"><strong>Week 9</strong></a>
+<dl>
+  <dt> Monday, November 17:
+  <dd> Strongly connected components
+  <dd> CLRS: 22.5, B.5
+
+  <dt> Wednesday, November 19:
+  <dd> Minimum spanning trees
+  <dd> CLRS: B.5, 23.1
+  <dd> <em><a href="homework/hw7-1.html">HW 7, Part 1</a> out.  Due Tuesday, November 25/em>
+  
+  <dt> Thursday, November 20, X-hour:
+  <dd> Kruskal's algorithm for MST
+  <dd> Prim's algorithm for MST
+  <dd> CLRS: 23.2, 23.3
+
+  <dt> Friday, November 21:
+  <dd> Single Source Shortest Paths: Bellman-Ford Algorithm
+  <dd> CLRS: 24.1
+</dl>
+
+<a name="week10"><strong>Week 10</strong></a>
+<dl>
+  <dt> Monday, November 24:
+  <dd> Single Source Shortest Paths: Dijkstra's algorithm
+  <dd> All Pairs Shortest Paths: Floyd-Warshall algorithm
+  <dd> CLRS: 24.3, 25.2
+  <dd> <em><a href="homework/hw7-2.html">HW 7, Part 2</a> out. Due Wednesday, December 3</em>
+</dl>
+
+<a name="week11"><strong>Week 11</strong></a>
+  <dt> Monday, December 1:
+  <dd> Network Flows
+  <dd> CLRS: 26.1-26.2
+
+  <dt> Wednesday, December 3:
+  <dd> Ford-Fulkerson Algorithm
+  <dd> Max Flow, Min Cut theorem
+  <dd> CLRS: 26.2 (without Edmond-Karp algorithm)
+  <dd> <em><a href="homework/review-problems.html">Review Problems</a> out.</em>
+
+  <dt> Friday, December 5, Review Session 1.00-2.30pm
+  <dd> <em><a href="homework/final.pdf">Final Exam</a> out.</em>
+</dl>
+
+<!--
+  <dt> Wednesday, November 28:
+  <dd> Kruskal & Prim's algorithms
+  <dd> Bellman-Ford Algorithm
+  <dd> CLRS: 24.1
+  <dd> <em><a href="homework/hw7.html">HW 7</a> out.</em>
+
+  <dt> Thursday, November 29, X-hour:
+  <dd> Negative cycle detection in Bellman-Ford
+  <dd> Dijkstra's algorithm
+  <dd> CLRS: 24.3
+
+  <dt> Friday, November 30:
+  <dd> Network Flows
+  <dd> CLRS: 26.1-26.2
+</dl>
+
+<a name="week11"><strong>Week 11</strong></a>
+<dl>
+  <dt> Monday, December 3:
+  <dd> Ford-Fulkerson Algorithm
+  <dd> Max Flow Min Cut Theorem
+  <dd> CLRS: 26.2-26.3
+  <dd> <em><a href="homework/review-problems.html">Review Problems</a> out.</em>
+
+  <dt> Thursday, December 6, Noon-1.45pm: REVIEW in our regular classroom
+  <dd> <em><a href="exams/final.pdf">Final Exam</a></em>
+  <dd> <em><a href="homework/final.pdf">Final Exam</a></em>
+-->
+</dl>
+
+</body> </html>
+
+

@@ -1,0 +1,527 @@
+http://www.cs.dartmouth.edu/gr_advice.php
+2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Dartmouth Computer Science:  Advice for Prospective Graduate Students</title>
+	<style type="text/css" media="all">@import url(dartmouthcs.css);</style>		
+	
+<body id="home">
+
+
+
+<div id="header">
+
+	<h1>Dartmouth Computer Science</h1>
+		
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="searchbox_001920968608620340798:tkrx06hp9rs">
+  <input type="hidden" name="cx" value="001920968608620340798:tkrx06hp9rs" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001920968608620340798%3Atkrx06hp9rs"></script>
+<!-- Google CSE Search Box Ends -->
+
+<!--
+	<form action="http://search.dartmouth.edu/query.html" method="get" name="seek">
+
+	<div>
+	<input type="hidden" name="qp" value="+url:http://www.cs.dartmouth.edu/"  />
+	<input type="hidden" name="qs" value="" /><input type="hidden"  name="qc" value="" />
+	<input type="hidden" name="ws" value="0" /><input type="hidden" name="qm" value="0" />
+	<input type="hidden" name="st" value="1" /><input type="hidden"  name="nh" value="10" />
+	<input type="hidden" name="lk" value="1" /><input type="hidden" name="rf" value="0" />
+	<input type="hidden" name="oq" value="" /><input type="hidden"  name="rq" value="0" />
+	<input type="text" id="search_dept" name="qt" value="" size="10"  maxlength="100" />&nbsp;
+	<input 	class="button" type="submit"  name="search" value="Search" />  
+	</div>
+
+	</form>
+-->	
+	
+	
+<!--		
+	<form method="get" action="http://www.htmldog.com/search/">
+		<div>
+		<input type="hidden" name="sp-a" value="sp1002e60e" />
+		<input type="hidden" name="sp-f" value="UTF-8" />
+		<label for="morombe">Search: </label>
+		<input type="text" name="sp-q" id="morombe" />
+		<input type="submit" value="Search" class="button" />
+		</div>
+	</form>
+-->	
+	
+</div>
+
+
+
+<div id="primaryNav">
+
+<ul>
+	<li>General
+		<ul>
+		<li> <a href="http://www.cs.dartmouth.edu/index.php">Home</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/about.php">About</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/calendar.php">Calendar</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/news.php">News</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/people.php">People</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/jobs.php">Jobs</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/contact.php">Contact</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/internal/">Internal</a>
+		</ul>	
+	</li>
+
+	<li>Research
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/research.php">Labs and Projects</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/seminar.php">Colloquium</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/books.php">Books by Faculty</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/reports">Technical Reports</a></li>
+	</ul>
+	</li>
+	
+	<li>Education
+	<ul>
+		<li><a href="http://www.cs.dartmouth.edu/ug.php">Undergraduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr.php">Graduate Programs</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/ug_courses.php">Undergraduate Courses</a></li>
+		<li><a href="http://www.cs.dartmouth.edu/gr_courses.php">Graduate Courses</a></li> 
+		<li><a href="http://www.cs.dartmouth.edu/robotcamp">Summer Robotics Camp</a></li>	
+
+	</ul></li>
+
+	<li>Admissions
+		<ul>
+		<li> <a href="http://www.dartmouth.edu/apply">Undergraduate</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_ms.php">M.S. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/admit_phd.php">Ph.D. Admissions</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/~mdphd">M.D.-Ph.D. in CompBio</a></li>
+		<li> <a href="http://www.cs.dartmouth.edu/gr_life.php">Graduate Student Life</a></li>
+		</ul>
+	<ul>
+
+	</ul></li>
+	
+</ul>
+
+</div>
+	
+
+
+<div id="section">
+	
+	<div id="content">
+
+		
+<h1>Graduate School Advice</h1>
+	
+<p>
+
+If you're thinking about graduate school, feel free to come talk to me
+sometime during my office hours (or, chat with another CS prof who you
+know well).  In the meantime, here are some general thoughts on grad
+school in computer science. </p><p>
+
+David Kotz, 9/93, updated 9/95<br>
+Modified by Tom Cormen, 10/98</p><p>
+
+
+<ul>
+	<li><a href="#1">Why (or why not) grad school?</a>
+	<li><a href="#2">How long does it take?</a>
+	<li><a href="#3">What will I do after getting a MS or PhD?</a>
+	<li><a href="#4">Should I work for a while between Dartmouth and grad school?</a>
+	<li><a href="#5">How do I pick a list of programs to apply to?</a>
+	<li><a href="#6">How do I pay for grad school?</a>
+	<li><a href="#7">What's important to someone evaluating your application</a>
+	<li><a href="#8">Hints about applying to grad school</a>
+</ul>
+
+</p><hr>
+<h3 id="1">Why (or why not) grad school?</h3>
+<ul>
+  <li>Reflect. Do some soul-searching.  Why do you want to go to
+       grad school?  Think about your education so far.  What are your
+       passions?  What are your goals in life?  What excites you?  What
+       lifestyles might you want?  <p>
+
+  </p></li><li>Avoid listening to what others tell you to do; think about
+       what <em>you</em> want. <p>
+
+  </p></li><li>An MS is basically a technical degree that gives you more
+       interesting job opportunities.  A PhD is basically a research degree,
+       which opens up a host of advanced and research-oriented
+       opportunities.<p>
+
+
+  </p></li><li>Think less about how much money you can make but about
+       quality of life.  With a PhD in particular, you will often find there
+       is more autonomy, freedom, vacations, travel, influence, creativity,
+       authority, etc.  In industry, MS and PhDs are often a ticket to
+       eventual upper-level management.<p>
+
+  </p></li><li>Think more broadly than the major or course offerings at
+Dartmouth. There are other things - computer science, computer
+engineering, electrical engineering, computer information science, and
+even some very unsual special things at some places. <p>
+
+  </p></li><li><em>Talk to professors.</em> Discuss your ideas and goals, and
+get some advice.  Talk to some grad students here and elsewhere.  Find
+out what it's like.  Talk to recent alum friends about what they've
+done, why, and how they like it. <p>
+
+  </p></li><li>A PhD can be the ticket to jobs in academia, industry, and
+government, usually in some research or advanced development capacity,
+or in teaching at the college and graduate level.  Or both teaching and
+research.<p>
+
+  </p></li><li> Understand that a PhD is about one thing and one thing only:
+       <strong>research</strong>.  You'll probably be required to take
+       classes and pass qualifying exams, but these are relatively unimportant.
+       If you have a PhD, nobody should care what your graduate school
+       grades were (and if they do, eye them with suspicion).  And nobody
+       will care how well you passed your qualifying exams.  It will simply
+       be assumed that you passed your courses and quals.
+
+<p>
+
+       What people will want to know about your PhD work is your
+       research.  What's it about?  How good is it?  How likely is it
+       that you will be able to continue being productive in your area?
+</p><p>
+
+</p></li><li>Do you like inquiry, invention, creativity, exploration,
+reading, discussion, writing, thinking, teaching, discovering the
+unknown, etc? Do you like to work with others, or independently?
+(<em>Both</em> are big aspects of research.)  Do you like to tackle
+unstructured problems, or would you rather work on a task assigned to
+you?  Do you prefer thinking up new ideas and sketching out the basic
+fundamentals, or do you like to deal with finishing the details on a
+project? <p>
+
+  </p></li><li>You can always move after getting a Master's degree.  Or take a
+Master's and run--to industry, or to another school<p> </p></li></ul>
+
+<hr>
+
+<h3 id="2">How long does it take?</h3>
+<ul>
+  <li>4-6 years is typical for a PhD.  It can take longer, however.
+       I know folks who took 8 or more years for their PhD.
+       1-2 years is typical for an MS.
+       <p>
+</p></li></ul>
+
+<hr>
+<h3 id="3">What will I do after getting a MS or PhD?</h3>
+<ul>
+
+  <li>The PhD is basically a research degree. Note that scientific
+       research today does not fit the "lonely scientist" or "lonely hacker"
+       image, either at the graduate or professional level. Scientists--and
+       computer scientists <em>are</em> scientists--do work with
+       people. This is
+       obviously true for teaching, but research is essentially a
+       collaborative exercise. Meeting people and talking to people is a big
+       part of my job, in fact. <p>
+
+
+  </p></li><li>An MS is essentially a technical degree, especially useful when
+       you are graduating from here with a liberal-arts BA. It will open up a
+       range of much more interesting jobs than you can get with a BA, with
+       more responsibility, creativity, flexibility, and income, than the
+       typical programmer-type job. At least, sooner.<p>
+
+  </p></li><li>Opportunities include academia, industry (research and/or
+       development), and government (research labs).<p>
+
+  </p></li><li>Postdoctoral appointments are becoming more common. In this
+       case, after your PhD you go elsewhere for 1-2 years to do more
+       research under a different advisor, in a different place, on a
+       different project. Then you would go on to one of the above
+       situations.  This is still somewhat rare in CS, though.<p>
+
+</p></li></ul>
+<hr>
+<h3 id="4">Should I work for a while between Dartmouth and grad school?</h3>
+
+This is a very personal issue.
+<p>
+
+Advantages to working:
+       </p><ul>
+	 <li>It gives you valuable perspective in grad school.
+	 </li><li>Sometimes the company will pay for your schooling.
+	 </li><li>Gives you time to consider whether you want grad school at all.
+	 </li><li>You can save up some money.
+       </li></ul>
+
+Disadvantages of working:
+       <ul>
+	 <li>You get used to the big fat paycheck, and it's hard to
+	      take a 75% pay cut.
+	 </li><li>You get out of practice of "going to school".
+	 </li><li>If you didn't take GRE as a senior, you forget a lot.
+	 </li><li>If you did take GRE as a senior, the scores "expire"
+	      after a few years.
+	 </li><li>Sometimes you lose "currency" if your job doesn't allow
+	      you to learn as you work.<p>
+
+       </p></li></ul>
+       So, if you really know you want grad school, go for
+       it. Otherwise, you might consider working for 2-3 years, and then
+       going to grad school.<p>
+
+</p><hr>
+<h3  id="5">How do I pick a list of programs to apply to?</h3>
+<ul>
+	<li>Choose the best programs that you can get into.<p>
+
+	</p></li><li>Add 1-2 "safe" schools, that you are pretty sure you'll
+	     get into, but you wouldn't hate to be at.  Remember that it is
+	     possible you'll get into some of your preferred choices,
+	     but maybe not with financial support.  So, choose good
+	     schools, but ones that are perhaps less competitive. <p>
+
+
+	</p></li><li><em>Pay no attention to the academic reputation of the
+	     university.</em> It is essentially irrelevant. What matters is the
+	     reputation of the <em>department</em> (program) where you
+	     will be applying. <p>
+
+	</p></li><li><em>Do your homework.</em> Get the informational brochures about
+	     the department. Find out what faculty are there, and what their
+	     research areas are. Look for the ones that are relevant to
+	     the kinds of research <em>you</em> are interested in.
+	     You need to find a fit between your and their interests.
+	     Preferably choose places where there are several
+	     possible faculty to work with (what if one of them leaves
+	     the department after you get there?).
+	     <ul>
+	       <li>Read their papers. Are you interested in their research?
+	       </li><li>Find Dartmouth alums who are now students there;
+		    talk to them or find Dartmouth profs who were
+		    grad students there and talk to them.
+	       </li><li>Student/faculty ratio.
+	       </li><li>Success rate.
+	       </li><li>Size of program.
+	       </li><li>What will you learn there?
+	       </li><li>What is required of you there?
+	       </li><li>Who is doing interesting work there?
+	       </li><li> Departmental dynamics...is there collaboration?
+		    Departments like this tend to be more congenial.
+	       </li><li> Placement of recent PhDs.
+	     </li></ul><p>
+
+
+	</p></li><li> <a href="http://cra.org/Contacts/cscedb.html">Searchable
+	     index of all CS graduate programs</a><p>
+
+<!-- 	<li> <a href="http://cra.org/Statistics/NRCStudy/">Rankings of all -->
+<!-- 	     CS graduate programs</a><p> -->
+
+	</p></li><li> Look through journals in your area of interest;
+	     find out who is doing work in that area and where they are from.
+<p>
+
+	</p></li><li><em>Talk to Dartmouth professors</em> who
+	     are in the same general field as the one you are interested
+	     in. Discuss the schools you are considering. Ask them for
+	     suggestions. Ask them about particular professors and
+	     programs. They
+	     have connections, too, which might get you more information.<p>
+
+
+	</p></li><li>Visit the campus. Tour the facilities. <em>Talk</em> to grad
+students. Try to get a feel for the atmosphere, the morale. This is
+more important than you realize.  Consider things like office space
+(do they have a workstation on every grad student's desk?), library
+support, computing facilities, special research labs or computers,
+etc. These are important when you try to do research. Try to talk to
+the relevant professors. Consider the locale, and the cost of
+living.<p>
+
+	</p></li><li>Big, famous schools are not necessarily better. In a big
+place you may not really be able to even talk to the profs for a few
+years. Consider being a big fish in a small pond. On the other hand,
+small places can sometimes be somewhat limiting in terms of resources
+and variety. <p>
+
+</p></li></ul>
+<hr>
+<h3 id="6">How do I pay for grad school?</h3>
+<ul>
+	<li>Many terminal-Master's programs (those where you are not
+planning to get a PhD, just a Master's) require you to pay tuition and
+fees.  Note that many big companies will pay all this for their
+employees, sometimes on a part-time basis and sometimes as a year off
+for school, while still paying you that same huge salary!  It's an
+option. (Same for PhD, too, though a part-time PhD takes forever!)<p>
+
+On the other hand, in PhD computer science programs, they should
+	     <em>pay you</em> to go to grad school. Thus, when you are
+accepted, they will usually offer you some form of financial
+package. This usually means that they will pay all your tuition,
+sometimes the additional fees, and a monthly stipend.  The stipend may
+cover 9 or 12 months of the year, and is usually $8K-$15K per
+year. You almost never have to <em>apply</em> for financial aid at grad school;
+they just consider all applicants. <em>Check on each school's policies.</em>
+These packages come in three basic forms:</p><p>
+
+	</p></li><li>Teaching assistantship (TA): You have to help run labs,
+tutor, grade, or even teach.  First-year students rarely actually
+teach.<p>
+
+	</p></li><li>Research assistantship (RA): You help a particular
+professor with their research. This is uncommon in the first year;
+later, you might get this to do your OWN research in conjunction with
+your advisor's grant.<p>
+
+	</p></li><li>Fellowship: This is the best. Usually this gives you all
+the money but with no teaching or research opportunities. Some schools
+do this for many of their first-year students, with the expectation
+that you will become a TA or RA in later years. A really good deal
+gives this to you for 3 or 4 or 5 years. <p>
+
+	     <em>Definitely</em> plan to apply for third-party
+	     fellowships. Many require you to be a US Citizen, but not
+all. If you
+	     can get one of these, they often pay more, usually don't
+	     require any
+	     teaching or other duties, and you can call up the schools
+	     and tell
+	     them you have your own funds...which they are definitely
+	     psyched
+	     about. It also looks great on your resume in the
+	     future. </p><p>
+
+One thing to know is that your guaranteed student loans (GSLs) are
+deferred (interest-free) so you don't have to pay them while you're a
+full-time student. So when you graduate from grad school, and have a
+big fat paycheck, and inflation has reduced your loans to a fraction
+of their former value, then you pay them off. </p><p>
+
+</p></li></ul>
+<hr>
+<h3 id="7">What's important to someone evaluating your application </h3>
+<ul>
+	<li>Most important are the letters of recommendation!  The
+best letters are those that will be enthusiastic, be obvious that the
+person knows you well, and are from someone the reader can trust
+(e.g., someone with a reputation in academics, or the department
+chair, etc.).  Choose people who know you well, and who can write a
+detailed letter. Also try to choose a senior prof who has some
+reputation in the field, or who can otherwise establish their
+reputation to the letter reader.<p>
+
+For most letters, you have a choice of whether to waive your right to
+	     see the letter.  You should always waive this right.  Yes,
+	     it may bother you greatly to waive any right, but think about
+	     it this way.  If you do not waive this right, then your letter
+	     writers will not be able to write about you in confidence.
+	     Your letter readers will know this, and the letters about
+	     you will be discounted.  In essence, the one subjective
+	     source of information on you has become worthless.  So make
+	     sure you waive your right to see your letters.
+</p><p>
+
+
+	</p></li><li>If you can, include something that makes you special, like
+a paper you wrote or the description of a programming project or the
+like. These "appendices" are perfectly fine and will often really make
+a big difference.  <em>Do not</em> send a printout of code.  But you
+might consider sending a disk with a cool program you wrote, if you
+really have something to show for it.  (Or put it on the web and send
+them your URL!)  Most people won't bother to try it, but if you make
+it easy for them to try it (label the disk <em>clearly</em> on what
+configuration they need and how to run it), you might try it!<p>
+
+	</p></li><li>Test scores and grades are somewhat important; bad scores
+and grades are enough to keep you out, but great scores and grades are
+not enough to get you in.<p>
+
+	</p></li><li>The essay is moderately important; in particular, it had
+	     better not be bad. The best essays somehow set you
+	     apart. Write your
+	     essay carefully, and rewrite it again and again. Tell
+	     them what
+	     research areas you are interested in, and
+	     <em>why</em>. Make it clear
+	     that you have a passion for research and would gladly
+	     charge
+	     through a machine-gun nest for the privilege of doing
+	     research.  Tune the essay for each place you apply; tell
+	     them why you
+	     want to go <em>there</em>.  Get the essay read over by
+	     someone else;
+	     make sure it is written really well.  <em>Sell
+	     yourself!</em> Tell
+	     them what makes you unique. If you have written a
+	     research paper, or a
+	     major computer project, send them the paper (or
+	     documentation, if
+	     reasonable), perhaps after cleaning it up by making it
+	     even better.<p>
+
+</p></li></ul>
+
+<hr>
+<h3 id="8">Hints about applying to grad school</h3>
+<ul>
+	<li><em>Start early</em>: senior fall, or even junior summer.<p>
+
+	</p></li><li>Write to lots of departments and request informational
+brochures and application materials.<p>
+
+	</p></li><li>Take the GREs in October, or at least in December, and
+have the scores forwarded directly to the schools where you are
+applying.<p>
+
+	</p></li><li>Request transcripts and have them directly forwarded.<p>
+
+	</p></li><li>Send in your application well before the deadline.<p>
+
+	</p></li><li>Follow up on everything.  Be paranoid about the mail. For
+example, send your application materials return-receipt-requested, and
+include a self-addressed, prestamped postcard that says "XXX
+university has received my materials", so that you know when they have
+arrived. <em>Call them</em> if you do not receive this. Especially:
+followup on faculty letters of recommendation (be tactful of
+course).<p>
+
+	</p></li><li>Ask for your letters of recommendation <em>early</em>,
+October if you can. Go ahead and ask even before you have all the
+forms they will need, or even before you know the complete list of
+places you will apply. They can start writing the letter and then mail
+it when you give them the materials.  Ask for the letters in person if
+possible - talk with the prof for a little while. (Make sure they
+remember who you are! Obviously, you want someone who really knows you
+well.)<p>
+
+</p></li></ul>
+<hr>
+
+[ Many of these ideas came from notes taken at the general grad-school
+info session sponsored by CES on 9/28/93. ]<p>
+
+
+	</div>
+	
+	
+	<div id="goToTop" class="sNav"><p><a href="#content">^ Top</a></p></div>
+
+</div>
+
+
+
+
+
+<div id="footer"><p>&copy; <a href="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science Department</a> 2009 </p></div>
+
+
+</body>
+
+</html>

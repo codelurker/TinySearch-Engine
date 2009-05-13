@@ -1,0 +1,140 @@
+http://www.cs.dartmouth.edu/~ac/Teach/CS85-Spring08
+2
+<html><head>
+  <title>CS 85/185 (Spring 2008): Amit Chakrabarti</title>
+  <link rel="stylesheet" type="text/css" href="/~ac/main.css">
+  <style>
+    td {font-family:arial,sans-serif; font-size:smaller}
+    .bannertext {color: #ffffff; font-weight: bold}
+  </style>
+</head>
+
+<body>
+
+<i> <div align=right>
+  <a href="../"> Teaching</a> &nbsp &nbsp
+  <a href="../../"> Home</a>
+</div> </i>
+
+<table border=0 width=100% cellpadding=5 cellspacing=0> <tr>
+  <td valign=top>
+    <img align=center src="http://www.cs.dartmouth.edu/images/Dtree.gif" 
+    alt="Dartmouth Logo"><br>
+    <a href="http://www.cs.dartmouth.edu">Computer Science</a><br>
+    <a href="http://www.dartmouth.edu">Dartmouth College</a>
+  </td>
+  <td valign=middle align=center>
+    <h3>Computer Science 85/185<br>
+    You Can't Do That
+    <div style="font-size: smaller"> Lower Bounds in Computer Science</div>
+    <br>
+    <a href="http://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></h3><br>
+  </td>
+  <td valign=middle align=right><h3>Spring 2008<h3></td>
+</tr></table>
+
+<!-- ------------------------------------------------ -->
+
+<p> <strong>Location:</strong> Lectures will take place in Sudikoff 245 </p>
+
+<p> <strong>When:</strong> 2A hour: TTh 14:00-16:00 X-hr W 16:15-17:20 </p>
+
+<p> <strong>What is this course about?</strong> 
+Here is <a href="../flyer1.html">one flyer</a>. 
+Here is <a href="../flyer2.html">another</a>. <br/>
+Maybe those will answer some questions (and leave you with more). </p>
+
+<h4> Lecture Plan </h4>
+
+<table border=1 cellpadding=1>
+
+<tr>
+<td colspan=3 bgcolor=#00aa88> <div class=bannertext> I. Decision Trees: Lower Bounds Based on Data Access </div> </td> </tr>
+
+<tr class=oddrow>
+<td align=right>1. </td> <td>Mar 25</td>  <td>Yao's minimax lemma. Lower bounds for sorting.</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>2. </td> <td>Mar 27</td>  <td>Lower bounds for selection. Boolean decision trees, certificate complexity, sensitivity, block sensitivity.</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>3. </td> <td>Apr 1 </td>  <td>Relations between the decision tree complexity and the above measures.</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>4. </td> <td>Apr 3 </td>  <td>Degree and its relation to the above measures.</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>5. </td> <td>Apr 8 </td>  <td>Rivest-Vuillemin theorem: Graph properties and the Evasiveness Conjecture.</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>6. </td> <td>Apr 10</td>  <td>Randomized complexity. O'Donnell-Saks-Schramm-Servedio theorem. Graph properties redux.</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>7. </td> <td>Apr 15</td>  <td>Friedgut-Kahn-Wigderson theorem: complexity of graph properties vs threshold probability.</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>8. </td> <td>Apr 17</td>  <td>Algebraic decision and computation trees</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>9. </td> <td>Apr 22</td>  <td>Milnor-Thom theorem, Ben-Or's theorem</td> </tr>
+                                              
+<tr>
+<td colspan=3 bgcolor=#00aa88> <div class=bannertext> II. Circuits: Lower Bounds Based on Data Movement </div> </td> </tr>
+
+<tr class=oddrow>
+<tr class=evenrow>
+<td align=right>10.</td> <td>Apr 24</td>  <td>Circuits, P/poly, Shannon's theorem, Lower bounds for THR2</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>11.</td> <td>Apr 29</td>  <td>AC<sup>0</sup>, Hastad's switching lemma</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>12.</td> <td>May 1 </td>  <td>Circuits with MOD gates, ACC<sup>0</sup>, Razborov-Smolensky theorem</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>13.</td> <td>May 6 </td>  <td>Monotone circuits, Razborov's great exponential lower bound</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>14.</td> <td>May 8 </td>  <td>Slack</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>15.</td> <td>May 13</td>  <td>Branching programs, Barrington's theorem</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>16.</td> <td>May 15</td>  <td>Communication complexity, some basic results</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>17.</td> <td>May 20</td>  <td>Monotone circuit depth, Karchmer-Wigderson theorem</td> </tr>
+                                              
+<tr class=evenrow>
+<td align=right>18.</td> <td>May 22</td>  <td>Slack</td> </tr>
+                                              
+<tr class=oddrow>
+<td align=right>19.</td> <td>May 27</td>  <td>Algebraic circuits (time permitting)</td> </tr>
+
+</table>
+
+<h4> Lecture Notes </h4>
+
+<p> Thanks to an enthusiastic group of volunteer scribes, we have some
+excellent <a href="lecnotes.pdf">lecture notes</a> under development.
+Please notify Amit if you find any typos or errors in the notes. </p>
+
+<p> Scribing volunteers: Please <a href="Scribing/">click here</a>
+(accessible only from Dartmouth IP addresses) to download the necessary
+templates for scribing. Simply create a new file, one per lecture,
+imitate the style of "01comptrees.tex" and include this new file in the
+master file "lecnotes.tex". </p>
+
+<h4> Homework Sets </h4>
+
+<p> <a href="hw1.pdf">Homework 1</a>, due Apr 18. </p>
+
+<p> <a href="hw2.pdf">Homework 2</a>, due May 2. </p>
+
+<p> <a href="hw3.pdf">Homework 3</a>, due May 19. </p>
+
+<p> <a href="hw4.pdf">Homework 4</a>, due Jun 2. </p>
+
+</body>
+</html>

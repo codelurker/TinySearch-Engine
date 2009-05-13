@@ -1,0 +1,98 @@
+http://www.cs.dartmouth.edu/farid/research/steganography.html
+3
+<html>
+<head>
+<LINK REL=STYLESHEET  HREF="../mystyle.css" TYPE="text/css">
+<LINK REL="SHORTCUT ICON" HREF="../icon/favicon.gif">
+
+<title> Steganography </title>
+</head>
+<body bgcolor=#EEEEEE link="#000066" vlink="#000066" alink="#000066">
+
+
+<table align=center width=750 border=0>
+<tr>
+
+<td valign=top > 
+<b> Steganography </b>
+<BR>
+<p>
+Although steganography - the practice of hiding a secret message
+within an innocuous cover medium - is hardly new, detecting the
+presence of hidden messages has become considerably more difficult
+with the advent of high-resolution digital images as carriers.
+
+<BR><BR>
+
+We have been developing statistical techniques to detect (but not
+necessarily decipher) the presence of hidden messages within a digital
+image. The basic approach works by finding predictable higher-order
+statistics of "natural" images within a multi-scale decomposition, and
+then showing that embedded messages alter these statistics.
+
+<BR><BR>
+
+In related work, we have developed techniques to differentiate between
+<a href="cgorphoto.html">photographic and photorealistic</a> images,
+and to detect traces of <a href="tampering.html">digital
+tampering</a>.
+
+
+<BR><BR>
+
+<a href="steg.m">Matlab routines</a>
+
+<BR><BR>
+
+<i>(Collaborative work with 
+<a href="http://www.mit.edu/~kimo"> Kimo Johnson</a> and
+<a href="http://www.cs.albany.edu/~lsw"> Siwei Lyu</a></i>)
+
+<td> &nbsp&nbsp </td>
+
+<td valign=top> <BR><BR><IMG SRC="stegimage.jpg" width=200 height=150>
+</td>
+</tr>
+
+<tr>
+<td colspan=3>
+<BR><BR>
+<b>Contact me at <a href=http://hanyfarid.org/maat/>Ma'at Consulting</a> for more
+information about our consulting services.</b> <BR><BR>
+</td>
+</tr>
+
+</table>
+
+<HR>
+
+
+<table align=center width=750>
+<tr>
+<td valign=top align=left><font size=-1><b>Related <BR>material: </b></font></t\
+d>
+
+<td width=500 valign=top><font size=-1><i>
+<ol>
+  <li>Steganalysis Using Higher-Order Image Statistics <a href="../publications/tifs05.html">(tifs05)</a> <BR>
+  <li>Steganalysis of Recorded Speech <a href="../publications/spie05.html">(spie05)</a> <BR>
+  <li>Steganalysis Using Color Wavelet Statistics and One-Class SVMs <a href="../publications/spie04.html">(spie04)</a> <BR>
+  <li>Detecting Hidden Messages Using Higher-Order Statistics and SVMs <a href="../publications/ih02.html">(ih02)</a> <BR>
+  <li>Detecting Hidden Messages Using Higher-Order Statistical Models <a href="../publications/icip02.html">(icip02)</a> <BR>
+  <li>Detecting Steganographic Messages in Digital Images <a href="../publications/tr01.html">(tr01)</a> <BR>
+  <li><a href="../publications/publications.html#hiddenpress">Popular Press</a>
+</ol>
+</i></font> </td>
+
+<td valign=top align=right>
+        <font size=-1><i>
+        <a href="../home.html"> Home</a> &nbsp &nbsp
+        <a href="research.html"> Research</a>
+        </i></font>
+</td>
+</tr>
+</table>
+
+</html>
+
+i

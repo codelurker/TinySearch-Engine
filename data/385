@@ -1,0 +1,30 @@
+http://www.cs.dartmouth.edu/~doug/geometry.html
+3
+<html>
+<title>Dynamic Geometry</title>
+<h2>Dynamic geometry</h2>
+Animated and interactive geometry is often used
+pedagogically for "discovery" or to provide
+vivid circumstantial evidence for theorems, as in
+the inexorable concurrence of medians or the amazing
+<a href="http://www.cut-the-knot.org/Curriculum/Geometry/Feuerbach.shtml">
+Feuerbach tangencies</a>.
+The demonstrations below, however, use dynamic
+geometry not only as an aid to insight, but also as a
+proof technique <i>per se</i>.
+<p>
+<small>Note.  The pages use Java applets produced by Geometer's Sketchpad,
+and may download a 200K supporting library.</small>
+<p>
+<a href="SimsonLive.html">Simson line</a>.  I find
+this proof much more engaging than
+visualizations of static Euclidean proofs of this theorem,
+which abound on the Internet.
+<p>
+<a href="icosahedron.html">Existence of the regular
+icosahedron.</a>  This short modern proof
+told to me by Peter Doyle
+stands in dramatic contrast to the
+<a href="http://aleph0.clarku.edu/~djoyce/java/elements/bookXIII/propXIII16.html">intricate argument</a>
+in the culminating book
+of Euclid's <i>Elements</i>, 

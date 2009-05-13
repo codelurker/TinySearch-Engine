@@ -1,0 +1,279 @@
+http://www.cs.dartmouth.edu/%7Etanzeem/teaching/CS188-Winter09/assignments.html
+3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+
+
+
+
+  
+  
+  
+  
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+
+
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  <title>CS88/188 -- Computational Models of Human Behavior</title>
+  <meta name="author" content="Tanzeem Choudhury" />
+
+
+
+
+
+  
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+
+<body>
+
+
+
+
+
+<div class="page">
+<div class="header">
+<div class="title">Community Sensing and Modeling</div>
+
+
+
+
+
+<div class="subtitle">CS88/188 --&nbsp;Winter 2009 -- TuTh
+10:00am-11:50am</div>
+
+
+
+
+
+<div class="subtitle">Instructor: Andrew Campbell &amp; Tanzeem Choudhury<br />
+
+
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="navigation">
+<a href="index.html"><span class="navigationitem">About</span></a><a href="syllabus.html"><span class="navigationitem">Syllabus</span></a><a href="assignments.html"><span class="navigationitem">Assignments</span></a><a href="projects.html"><span class="navigationitem">Project</span></a><a href="grading.html"><span class="navigationitem">Grading</span></a><a href="references.html"><span class="navigationitem">References</span></a>
+</div>
+
+
+
+
+
+<div class="content">
+<h2>Assignments (deadlines subject to change)</h2>
+
+
+
+
+
+<span style="text-decoration: underline;">Please include
+CS 88/188 in the subject line of all your emails about the class and/or
+assignments</span><br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<span style="font-weight: bold;">Programming Assignments&nbsp;<br />
+
+
+
+</span><br />
+We will include more details in the coming week.<br />
+<br />
+<span style="text-decoration: underline;">Assignment 1</span>:&nbsp; Develop iPhone code to continuously collect audio, location, and accelerometer data
+<br />
+and store locally in agreed format on the phone. (Assigned on:&nbsp; January 16, 2009 Due on:&nbsp;January 23, 2009).
+<br />
+
+<br />
+<span style="text-decoration: underline;">Assignment&nbsp; 2</span>: Collect and analyze data over one week period presents
+results (Assigned on:&nbsp;January 23, 2009 Due on January 30, 2009).
+<br />
+<br />
+<span style="text-decoration: underline;">Assignment&nbsp; 3</span>:
+Analyze 5 days of audio - cluster audio events and measure similarities
+across individuals (Assigned on:&nbsp;January 30, 2009 Due on February
+6, 2009).
+<br />
+<br />
+
+
+
+<span style="font-weight: bold;">Paper Presentation</span><br />
+
+
+
+
+
+You will be required to present a few of the papers that are being
+discussed during the course. Presentations should clearly address the paper's motivation, the
+research contribution - specifically addressing the strengths and
+weaknesses, and the results. <br />
+
+
+
+
+
+<br />
+
+
+
+
+
+Depending on the depth and difficulty of the
+paper, make your presentation about 20-30 minutes long. We encourage you
+to take a more investigate approach - what makes this paper
+interesting? How could you do better? Think about the pros and cons
+from different angle - usability, computational efficiency, complexity,
+accuracy, and richness of the system or algorithm. The presentations
+should be done using powerpoint or some other presentation software of
+your
+choice - we will request you to give us either a .ppt or .pdf version of
+your slides.<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<span style="font-weight: bold;">Project Plan</span><br />
+
+
+
+
+
+Each group is required to submit a 1-2 page plan for the
+final project. The plan should specify&nbsp;: (i)
+the approach you plan to take (iii)
+the evaluation strategies you will use and (iii) a proposed timeline.<br />
+
+
+
+
+
+<br />
+
+
+
+
+Due: January 30, 2009 by 12:00pm EDT<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<span style="font-weight: bold;">Project Updates</span><br />
+
+
+
+
+In the second half of the course, each student or group will be
+expected to do short weekly project updates (1-2 slides and discussion)
+on their progress toward the final project
+goals.<br />
+
+
+
+
+<br />
+
+
+
+
+
+<span style="font-weight: bold;">Project Presentation and
+Report</span><br />
+
+
+
+
+
+Each student or group is required to do a final project presentation
+and submit a written report (10 pages).
+Presentations will be in class on March 5 and 10, 2009<br />
+
+
+
+
+
+Project report due March 10, 2009 by 11:59pm EDT<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+<br />
+
+
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+</body>
+</html>
+2i

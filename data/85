@@ -1,0 +1,32 @@
+http://www.cs.dartmouth.edu/~geethmala
+2
+<HTML>
+
+<HEAD>
+<TITLE>Home Page</TITLE>
+</HEAD>
+
+<BODY>
+<div align="center">
+<h1>Geethmala Sridaran</h1>
+<b> <i>Contact: </i> </b><br>
+Geethmala Sridaran <br>
+6211 Sudikoff Laboratory <br>
+Department of Computer Science <br>
+Dartmouth College <br>
+Hanover NH 03755 <br>
+
+<br>
+
+<b> <i>Email: </i> </b><br>
+<a href="mailto:geethmala.sridaran@dartmouth.edu">Geethmala @ Dartmouth</a> <br>
+<img src="geethmala.jpg" style="padding-top:20px;"/>
+</div>
+
+<div align="center">
+<p> Masters Student </p>
+</div>
+
+</BODY>
+
+</HTML>

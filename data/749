@@ -1,0 +1,118 @@
+http://www.cs.dartmouth.edu/~ac/DTS/fall04.html
+3
+<html><head><title>DTS: Dartmouth Theory Seminars - Fall 2004</title></head>
+<body background="../dartback.png" link=#0000ff vlink=#0000ff>
+
+<h2>DTS: Dartmouth Theory Seminars - Fall 2004</h2>
+
+<h3>Fall 2004 Schedule</h3>
+
+<table cellpadding=3><tr>
+  <td valign=top>Oct 4 (Monday)</td>
+  <td>Dina Goldin, University of Connecticut<br>
+  <a href="#goldin">Interaction: Conjectures, Results, and Myths</a><br>
+  Room: Moore B03<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>Oct 21 (Thursday)<br></td>
+  <td>Jon Feldman (D'97), Columbia University<br>
+  <a href="#feldman">Proving Strong Error Bounds using a Dual Witness</a><br>
+  Room: Carson L01<br>
+  Time: 4pm - 5pm.
+</tr><tr>
+  <td valign=top>Nov 15 (Monday)<br></td>
+  <td>Peter Winkler, Dartmouth College<br>
+  <a href="#winkler">Mixing and Shuffling</a><br>
+  Room: Moore B03<br>
+  Time: 4pm - 5pm.
+</tr></table>
+
+<p><hr><p>
+
+<h3>Abstracts</h3>
+
+<a name="goldin">
+  <b>Dina Goldin, University of Connecticut<br>
+  Interaction: Conjectures, Results, and Myths</b></p>
+
+  <p> Computer technology has shifted from mainframes to locally
+  networked workstations and now to mobile internet-based computing
+  devices.  Software engineering has evolved from procedure-oriented to
+  object-oriented and component-based systems.  AI has refocused from
+  logical reasoning and search algorithms to agent-oriented and
+  distributed behaviors. These parallel changes exemplify a conceptual
+  paradigm shift from algorithms to interaction. Interactive
+  computational processes allow for input and output to take place
+  during the computation, in contrast to the traditional "algorithmic"
+  models of computation which transform a predefined input into output.
+  </p>
+
+  <p> Though interaction is an intuitively obvious idea, there has been
+  no automata-theoretic formalization of interactive computation until
+  now.  We introduce Persistent Turing Machines (PTMs), which serve as a
+  model for sequential interactive computation, and allow us to explore
+  the expressiveness of interactive computation.  PTMs are multitape
+  Turing Machines (TMs) with a persistent internal tape, and
+  stream-based semantics.  We formulate observation-based notions of
+  system equivalence and computational expressiveness, and apply them to
+  demonstrate that PTMs are more expressive than TMs, thus proving
+  Wegner's conjecture that "interaction is more powerful than
+  algorithms". </p>
+
+  <p> We end on a light note by considering the historic reasons for the
+  "Turing Thesis Myth", which states that TMs model all computation.
+  This claim, incorrectly reinterpreting the Turing Thesis, is
+  fundamental to the main-stream theory of computation.  We show how
+  this myth can be traced to the establishment of computer science as a
+  separate discipline in the 1960's. </p>
+
+<hr width=50%><p>
+
+<a name="feldman">
+  <b>Jon Feldman, Columbia University<br>
+  Proving Strong Error Bounds using a Dual Witness </b><p>
+ 
+  <p> We show that using low-density parity-check (LDPC) codes with
+  sufficient expansion, the ``Linear Programming (LP) Decoder'' corrects
+  a constant fraction of errors in an adversarial channel.  Using
+  Spielman's more general ``expander codes,'' we also show that LP
+  decoding attains the capacity (optimal rate) of a wide range of
+  probabilistic communication channels. </p>
+   
+  <p> These results are the first of their kind for LP decoding, and more
+  generally for decoders with the ``ML certificate'' property --- where
+  output codewords come with a proof of optimality.  Furthermore, no such
+  results have been proved for the conventional method to decode LDPC
+  codes: the belief-propagation algorithm.</p>
+
+  <p> We prove our bounds using a new ``dual witness'' technique.  Under the
+  appropriate conditions for the error bounds we wish to prove
+  (adversarial or probabilistic), we demonstrate a zero-valued dual
+  solution to the decoding LP.  The existence of such a solution implies
+  that the LP succeeds in recovering the original codeword. </p>
+
+  <p> [The content of this talk is joint work with Tal Malkin, Cliff
+  Stein, Rocco Servedio and Martin Wainwright, and (has appeared, will
+  appear) at ISIT '04 and SODA '05] </p>
+
+<hr width=50%><p>
+
+<a name="winkler">
+  <b>Peter Winkler, Dartmouth College<br>
+  Mixing and Shuffling</b><p>
+
+  <p> Mixing in Markov chains is `big business' these days in the
+  theory of computing, on account of its importance in approximate
+  sampling and estimation.  We will take a look at how some modern
+  techniques (joint work with Laszlo Lovasz) apply to an ancient mixing
+  problem: how many times should you shuffle a deck of cards?  Three
+  different shuffling models lead to two gratifying answers and one
+  stultifying open problem---the answer to which might help us understand
+  a bit more about the connection between mixing and computational
+  complexity.</p>
+ 
+<hr><p>
+
+<p align=right> <i> Back to <a href="index.html">DTS main page </a>. </i> </p>
+
+</body></html>

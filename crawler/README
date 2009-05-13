@@ -1,0 +1,26 @@
+By: Ricky A. Melgares '11
+
+The sources are arranged in the following directory:
+lab6/shared/
+	html.h html.c (HTML parsers, where getNextUrl() hides)
+	hash.h hash.c (hash functions)
+
+lab6/crawler/src/
+	crawler.h crawler.c (the main entry, the crawler main logic is here)
+	crawler_test.h (test script that tests crawler for arguments & equality of 
+	                original and re-created index)
+	Makefile (make file for compiling the indexer)
+	temp (temporary file to store data)
+	
+	==> To build the crawler
+	goto /lab6/crawler/src and type "make"
+
+	==> To run the crawler
+	ex) "./crawler http://www.cs.dartmouth.edu/ ../../data 3"
+
+	==> To test the crawler
+	goto /lab6/crawler/src and type "./crawler_test.sh"
+	     This script will: 
+	     1 Test the argument checking of crawler.
+	     2 Test for an invalid specified directory.
+	     3 Test the termination of crawler.

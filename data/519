@@ -1,0 +1,487 @@
+http://www.cs.dartmouth.edu/~wbc/suditour/s2/sudi_second_floor.html
+3
+<html>
+  <head>
+    <title>Sudikoff Second Floor</title>
+  </head>
+
+  <body>
+    <h2>Computers on Sudikoff Floor 2</h2>
+ <h2>this map is obsolete</h2>
+ <h3> see <a href="http://www.cs.dartmouth.edu/~jwk/sudi_db/index.html">
+the new computer database</a></h3>
+
+    <table border=3>
+      <tr>
+	<td width=50>201</td>
+	<td width=200>Robotics Lab</td>
+	<td width=200>plum</td>
+	<td width=200>SGI</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200>Kotay</td>
+	<td width=200>klamath</td>
+	<td width=200>NT</td>
+      </tr>
+      </tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>putukusi</td>
+	<td width=200>SGI</td>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>sable</td>
+	<td width=200>SGI</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>grgich</td>
+	<td width=200>FreeBSD</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>vougeot</td>
+	<td width=200>FreeBSD</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>penfolds</td>
+	<td width=200>FreeBSD</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>penfolds</td>
+	<td width=200>FreeBSD</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>Mac IIsi</td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>Windows PC</td>
+      </tr>
+      <tr>
+	<td width=50>202</td>
+	<td width=200>McGray</td>
+	<td width=200>cube</td>
+	<td width=200>xterm</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>jack</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Li</td>
+	<td width=200>wallowa</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50>203</td>
+	<td width=200>Xie</td>
+	<td width=200>chutla</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>shasta</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Periaswamy</td>
+	<td width=200>shuksan</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>iona</td>
+	<td width=200>Windows NT & Linux</td>
+      </tr>
+      <tr>
+	<td width=50>204</td>
+	<td width=200>Healy</td>
+	<td width=200>curacao</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>Mac IIci</td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50>205</td>
+	<td width=200>Bellows</td>
+	<td width=200>sparrowhawk</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Fitch</td>
+	<td width=200>mazama</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50>206</td>
+	<td width=200>Rockmore</td>
+	<td width=200>ginger</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200>8500</td>
+      </tr>
+      <tr>
+	<td width=50>207</td>
+	<td width=200>Small Lab</td>
+	<td width=200>Scary</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>baby</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>posh</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>sporty</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>Monster</td>
+	<td width=200>Windows NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200>8500</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>DeepSpace</td>
+	<td width=200>NeXTstation</td>
+      </tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>antigua</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50>208</td>
+	<td width=200>Farid</td>
+	<td width=200>narmer</td>
+	<td width=200>SGI 02</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>zoser</td>
+	<td width=200>G3 laptop</td>
+      </tr>
+      <tr>
+	<td width=50>209</td>
+	<td width=200>McIlroy</td>
+	<td width=200>charlie</td>
+	<td width=200>xterm</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>halfmoon</td>
+	<td width=200>DEC 3000</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200>6100</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>magellan</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50>210</td>
+	<td width=200>Maslen</td>
+	<td width=200>doolittle</td>
+	<td width=200>xterm</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200>6100</td>
+      </tr>
+      <tr>
+	<td width=50>211</td>
+	<td width=200>Rus</td>
+	<td width=200>Ruapehu</td>
+	<td width=200>SGI</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>Mac</td>
+	<td width=200>PowerBook</td>
+      </tr>
+      <tr>
+	<td width=50>212</td>
+	<td width=200>Liu</td>
+	<td width=200>green horn</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>urca</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200>Premore</td>
+	<td width=200>bonanza</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>bonita</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Tomacs Lab</td>
+	<td width=200>sugarloaf</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>castelo</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>tomacs</td>
+	<td width=200>Windows NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>spruce</td>
+	<td width=200>SGI</td>
+      </tr>
+      <tr>
+	<td width=50>213</td>
+	<td width=200></td>
+	<td width=200></td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50>214</td>
+	<td width=200></td>
+	<td width=200></td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50>215</td>
+	<td width=200></td>
+	<td width=200></td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50>216</td>
+	<td width=200>Aslam</td>
+	<td width=200>taveuni</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50>216</td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50>216</td>
+	<td width=200></td>
+	<td width=200>bouma</td>
+	<td width=200>laptop</td>
+      </tr>
+      <tr>
+	<td width=50>217</td>
+	<td width=200>Jayanti</td>
+	<td width=200>Bhaarata</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50>218</td>
+	<td width=200>N Young</td>
+	<td width=200>greeley</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>Mac</td>
+	<td width=200>Powerbook 190</td>
+      </tr>
+      <tr>
+	<td width=50>219</td>
+	<td width=200>Cormen</td>
+	<td width=200>zayante</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+      </tr>
+      <tr>
+    	<td width=50>220</td>
+ 	<td width=200>room 220</td>
+	<td width=200>skiddaw</td>
+	<td width=200>xterm</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Agrawal</td>
+	<td width=200>sawtooth</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200>Fromberger</td>
+	<td width=200></td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200>Popescu</td>
+	<td width=200>klapatche</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200>Wang</td>
+	<td width=200>yakima</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50>221</td>
+	<td width=200>Perrone</td>
+	<td width=200>corcovado</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>grisedale</td>
+	<td width=200>xterm</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Moore</td>
+	<td width=200>norton</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50>222</td>
+	<td width=200>Chaudry</td>
+	<td width=200>lompico</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200>Wittie</td>
+	<td width=200>newberry</td>
+	<td width=200>NT</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>pyramid</td>
+	<td width=200>DEC</td>
+       </tr>
+      <tr>
+	<td width=50>223</td>
+	<td width=200>Tan</td>
+	<td width=200>emerald</td>
+	<td width=200>DEC</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200>Isecke</td>
+	<td width=200>mist</td>
+	<td width=200>xterm</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>digriz</td>
+	<td width=200>imac</td>
+      </tr>
+      <tr>
+	<td width=50></td>
+	<td width=200></td>
+	<td width=200>zealand</td>
+	<td width=200>OSF/1</td>
+      <tr>
+	<td width=50>224</td>
+	<td width=200>Nicol</td>
+	<td width=200>gavea</td>
+	<td width=200>Linux</td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>PowerMac</td>
+	<td width=200></td>
+      </tr>
+      <tr>
+	<td width=50> </td>
+	<td width=200></td>
+	<td width=200>scafell</td>
+	<td width=200>xterm</td>
+      </tr>
+     </table>
+  </body>
+</html>
+er<i
