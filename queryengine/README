@@ -1,0 +1,30 @@
+By: Ricky A. Melgares '11
+
+The sources are arranged in the following directory:
+lab6/shared/
+	html.h html.c (HTML parsers, where getNextUrl() hides)
+	
+/lab6/data/   (where the data output from the crawler is stores)
+	
+lab6/queryengine/util (where the general purpose utilities file is located)
+	input.c input.h (file access and input processing utilities are located)
+	util.c util.h (misc. functions for dealing with lists among other things)
+
+lab6/queryengine/src/
+	query.c (the main entry, the indexer main logic is here)
+	dictionary.h dictionary.c (contains index data structure library & related functions)
+	queryengine_test.h (test script that query engine)
+	logic.c logic.h (files for handling intersection, union of lists, etc.)
+	hash.h hash.c (hash functions)
+	data data.sort (temp data files for sorting)
+	Makefile (make file for compiling the indexer)
+	
+	==> To build the queryengine
+	goto /lab6/queryengine/src and type "make"
+
+	==> To run the queryengine
+	ex) "./query index.dat ../../data "
+
+	==> To test the queryengine harness
+	goto /lab6/indexer/src and type: make -f Makefile_normal
+		-This function will test the various functions in query engine
