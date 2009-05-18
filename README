@@ -1,14 +1,14 @@
 By: Ricky A. Melgares '11
 
 The sources are arranged in the following directory:
-lab6/shared/
+/shared/
 	html.h html.c (HTML parsers, where getNextUrl() hides)
 	hash.h hash.c (hash functions)
 
-/lab6/data/   (where the data output from the crawler is stores)
+/data/   (where the data output from the crawler is stored)
 
 *****CRAWLER********
-lab6/crawler/src/
+/crawler/src/
 	crawler.h crawler.c (the main entry, the crawler main logic is here)
 	crawler_test.h (test script that tests crawler for arguments & equality of 
 	                original and re-created index)
@@ -16,23 +16,23 @@ lab6/crawler/src/
 	temp (temporary file to store data)
 	
 	==> To build the crawler
-	goto /lab6/crawler/src and type "make"
+	goto /crawler/src and type "make"
 
 	==> To run the crawler
 	ex) "./crawler http://www.cs.dartmouth.edu/ ../../data 3"
 
 	==> To test the crawler
-	goto /lab6/crawler/src and type "./crawler_test.sh"
+	goto /crawler/src and type "./crawler_test.sh"
 	     This script will: 
 	     1 Test the argument checking of crawler.
 	     2 Test for an invalid specified directory.
 	     3 Test the termination of crawler.
 
 *****INDEXER****
-lab6/indexer/util (where the general purpose utilities file is located)
+/indexer/util (where the general purpose utilities file is located)
 	input.c input.h (file access and input processing utilities are located)
 
-lab6/indexer/src/
+/indexer/src/
 	indexer.c (the main entry, the indexer main logic is here)
 	dictionary.h dictionary.c (contains index data structure library & related functions)
 	indexer_test.h (test script that tests crawler for arguments & equality of 
@@ -54,11 +54,11 @@ lab6/indexer/src/
 	     4 Compare the output of the index.dat file and the re-created indexR.dat file
 
 *******QUERY********
-lab6/queryengine/util (where the general purpose utilities file is located)
+/queryengine/util (where the general purpose utilities file is located)
 	input.c input.h (file access and input processing utilities are located)
 	util.c util.h (misc. functions for dealing with lists among other things)
 
-lab6/queryengine/src/
+/queryengine/src/
 	query.c (the main entry, the indexer main logic is here)
 	dictionary.h dictionary.c (contains index data structure library & related functions)
 	queryengine_test.h (test script that query engine)
